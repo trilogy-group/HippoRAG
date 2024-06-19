@@ -4,7 +4,8 @@
 
 tasks:
   - command: |
-      bash get_miniconda.sh
-      bash Miniconda3-latest-Linux-x86_64.sh
+      alias conda="/workspace/HippoRAG/miniconda3/bin/conda"
+      conda init
+      
 
 
