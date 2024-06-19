@@ -1,0 +1,231 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "meet.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T19:29:42Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays system tray with notifications, sound, network, and clock showing '13:29 12 Jun 2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - wyj-rdjj-kan - Google Chrome",
+                "url": "meet.google.com/wyj-rdjj-kan",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "UI includes minimize, maximize, close buttons, address bar, and multiple tab indicators. Tabs show titles such as 'Mhi', 'Bogda', 'DevFactory', 'Week', 'AI', 'Pending', 'Magic Academy', 'Budget', 'New Tab'."
+                },
+                "content": [
+                  {
+                    "title": "Google Meet Video Conference",
+                    "layoutDescription": "Grid layout of video participants",
+                    "visibleText": "David Schwartz, Dragos Nuta, Vaibhav Patel, Robert Egglestone, read.ai meeting notes, David's AI Notetaker (from Otter.ai), Vaibhav's OtterPilot, Samy Aboel-Nil, Isaac Squires, 1:29 PM, XO Kanban Weekly Demo"
+                  }
+                ],
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "David Schwartz",
+                      "expression": "Thinking"
+                    },
+                    {
+                      "name": "Dragos Nuta",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "Vaibhav Patel",
+                      "expression": "Smiling"
+                    },
+                    {
+                      "name": "Robert Egglestone",
+                      "expression": "Speaking"
+                    },
+                    {
+                      "name": "read.ai meeting notes"
+                    },
+                    {
+                      "name": "David's AI Notetaker (from Otter.ai)"
+                    },
+                    {
+                      "name": "Vaibhav's OtterPilot"
+                    },
+                    {
+                      "name": "Samy Aboel-Nil",
+                      "expression": "Thinking"
+                    },
+                    {
+                      "name": "Isaac Squires",
+                      "expression": "Neutral"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Google Meet video conference as indicated by the active tab titled 'Meet - wyj-rdjj-kan - Google Chrome'. The meeting is titled 'XO Kanban Weekly Demo' and includes multiple participants such as David Schwartz, Dragos Nuta, Vaibhav Patel, Robert Egglestone, and others. The user is likely discussing project updates or task assignments related to the XO Kanban project. The meeting interface shows various participants with different expressions, indicating active engagement and communication.",
+    "The desktop screenshot shows the taskbar with icons for the Start menu, search, task view, and several pinned applications. The system tray displays notifications, sound, network, and the clock showing '13:29 12 Jun 2024'. The Google Chrome browser is open with multiple tabs, including 'Mhi', 'Bogda', 'DevFactory', 'Week', 'AI', 'Pending', 'Magic Academy', 'Budget', and 'New Tab'. This suggests that the user has several ongoing tasks or projects, possibly related to different aspects of their work."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a Google Meet video conference and there are no visible interactions with AI tools or assistants.",
+  "activities": [
+    "MEETING"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 100,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T19:20:54Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 9,
+      "date": "2024-06-12T19:21:54Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T19:22:54Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 4,
+      "date": "2024-06-12T19:23:54Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T19:24:54Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 14,
+      "date": "2024-06-12T19:25:53Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T19:26:53Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-12T19:27:54Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T19:28:54Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T19:29:54Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-12T19:20:00Z"
+}

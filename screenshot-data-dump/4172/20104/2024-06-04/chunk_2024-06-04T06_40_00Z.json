@@ -1,0 +1,270 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "docs.google.com",
+    "mail.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-04T06:41:35Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '9:41 AM 6/4/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Weekly Delivery Tracker - TPM+Eng - Google Sheets",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help. Toolbar with undo, redo, print, format options, zoom controls, and cell formatting tools."
+                },
+                "content": [
+                  {
+                    "title": "Weekly Delivery Tracker - TPM+Eng",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "Project, Goal, Business Objective, % done, Goal type, May status, Customer delivery\nBeyond - AI-based campaigns, Commit: Use AI to generate content for social campaigns; measured by feature engagement, Offense AI, 10% to 90%, Commit, On track\nAdvocateHub - AI for CSM, Stretch: Increase campaign performance by 20%, Offense AI, 0% to 100%, Stretch, Off track\nAdvocateHub - Fix Security Issues, Commit: Replace the CSM function with an embedded AI bot that can answer all common knowledge questions, Offense AI, 30% to 60%, New, Off track\nAdvocateHub - Social Integration version Upgrades, New: Fix asset visibility where images, files, avatars are publicly accessible, Defense, 30% to 60%, New, Off track\nAdvocateHub - Deliver IBM ESR, Commit: Fix Multi-channel SDKs so social integrations with LinkedIn and Facebook are restored, Defense, 50% to 80%, New, On track\nAdvocateHub - Add AI to Discourse Communities, Commit: Add AI to Discourse Communities by upgrading to upgrade from Discourse 3.x, Offense AI, 75%, Commit, Off track\nAdvocateHub - High Priority Upgrades, Stretch: Fix all certified security vulnerabilities (needed low ROH), Defense, 10% to 60%, Stretch, Canceled\nMessenger - High Priority Upgrades, New: Messenger Java 17 support, Defense, 75%, New, Off track\nMessenger - Support new version of the Databases, Update Libraries with vulnerabilities, Defense, 0% to 75%, New, Off track\nOvercome Lufthansa PCI audit issues, support new OSs, Log4J vulnerability, Defense, 50% to 100%, New, Completed\nUpgrade Interceptor SDK to Java 11, Defense, 25% to 95%, New, On track\nHQP - Fix Jive Security, Commit: Implement methods/dependencies to address security vulnerabilities raised by customers adding up to ~$7.5M ARR, Defense, 17% to 61%, Commit, On track\nCopilot - Cloud Copilot, Commit: Implement 3 high-level user stories (search, summarize, chat) for Jive Home calling the cloud-based Jive Copilot, making content more discoverable and easier to consume, thereby increasing engagement and value for end users., Offense AI, 75%, Commit, On track\nCopilot (stretch goal only), Stretch: ~80% of user votes are upvotes (T4W)., Offense AI, 31% to 50%, Stretch, On track"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T06:45:54Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, widgets, Microsoft Edge, Google Chrome, and system tray with notifications, sound, network, and battery status icons",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Weekly Delivery Tracker - TPM+Eng - Google Sheets",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help; Toolbar with undo, redo, print, formatting options, zoom controls, and sheet controls"
+                },
+                "content": [
+                  {
+                    "title": "Weekly Delivery Tracker - TPM+Eng",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "22 23 24 25 26 Goal type Type May status Customer value delivered? 1 p q r s t u v w x y z aa ab ac ad ae af ag ah 2 3 one done done done done Commit Cost Completed Yes Offense AI Off track 4 Commit Offense AI Off track Stretch Offense AI Off track 5 Commit Offense AI Off track Stretch Offense AI Off track 6 7 8 one done done done done Commit Offense AI Completed No Defense Off track 9 New Defense On track New Defense On track 10 11 p..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T06:46:55Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Widgets, Microsoft Edge, Google Chrome, File Explorer, Microsoft Store, and system tray including network, sound, and date/time display",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Weekly Delivery Tracker - TPM+Eng - Google Sheets",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help; Toolbar with undo, redo, print, formatting options, zoom controls, and other sheet manipulation tools"
+                },
+                "content": [
+                  {
+                    "title": "Weekly Delivery Tracker - TPM+Eng",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "AA5\n\n22 23 24 25 26\nGoal type Type May status Customer value delivered?\n\none done done done done Commit Cost Completed Yes\n\n4 Commit Offense AI Off track Yes\n5 Stretch Offense AI Off track Yes\n6 Commit Offense AI Off track Yes\n7 Stretch Offense AI Off track Yes\n8 done done done done Commit Offense AI Completed No\n9 New Defense Off track No\n10 New Defense On track Yes\n11 done done done done Commit Defense Completed Yes\n12 Commit Offense AI Off track Yes\n13 done done done done Commit Defense Completed Not proven\n14 Cancelled Cancelled Cancelled Cancelled Stretch Defense Deprioritized No\n15 New Defense Off track No\n16 New Defense Off track No\n17 done done done done New Defense Completed Not proven\n18 done done done done New Defense On track Yes\n19 Defense Off track No\n20 Commit Defense On track Yes\n21 done done done done Commit Offense AI Completed Not proven\n\nMay status\nGoal type Completed Deprioritized Off track On track Grand Total\nCommit 6 2 7 15\nNew 1 4 3 8\nStretch 2 2 3 7\nGrand Total 7 2 8 13 30\n\nCustomer value COUNTA of Goal delivered?\nType No Not proven\nCost Defense Offense AI\n2 1 2\nGrand Total 1 4"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in reviewing and updating a Google Sheets document titled 'Weekly Delivery Tracker - TPM+Eng'. The document contains detailed information about various projects, goals, business objectives, and their statuses. The user is likely analyzing the progress of different projects, as indicated by the visible text showing percentages of completion, goal types, and statuses such as 'On track', 'Off track', 'Completed', and 'Canceled'. The user is also examining the customer value delivered for each project, which is categorized under columns like 'Yes', 'No', and 'Not proven'.",
+    "The user continues to work on the 'Weekly Delivery Tracker - TPM+Eng' Google Sheets document. The focus is on the 'May status' and 'Customer value delivered?' columns, which summarize the progress and outcomes of various goals. The user is likely verifying the data, as the visible text includes detailed breakdowns of completed, deprioritized, off-track, and on-track goals. The user is also analyzing the customer value delivered, categorized by types such as 'Cost', 'Defense', and 'Offense AI'. This activity suggests a thorough review and possibly preparation for a status report or meeting.",
+    "The user remains focused on the 'Weekly Delivery Tracker - TPM+Eng' Google Sheets document. The visible text shows a detailed breakdown of goals by type, status, and customer value delivered. The user is likely finalizing the review of the document, ensuring all data is accurate and up-to-date. The document includes a summary of goals completed, deprioritized, off-track, and on-track, along with the customer value delivered. This activity indicates a comprehensive review process, possibly in preparation for a team meeting or a project update report."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in reviewing and updating a Google Sheets document without any visible interaction with AI tools. The focus is on analyzing project progress and customer value delivered, with no indication of AI assistance in this workflow.",
+  "activities": [
+    "READING_SPEC",
+    "WRITING_SPEC"
+  ],
+  "workTypes": [
+    "UI"
+  ],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "READING_SPEC",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 77,
+      "mouse": 8,
+      "date": "2024-06-04T06:40:07Z",
+      "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 61,
+      "mouse": 12,
+      "date": "2024-06-04T06:41:07Z",
+      "windowTitle": "Weekly Delivery Tracker - TPM+Eng - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1mrOMkLf370WxK5CkvQXF0e9Q6pHGPf2IsweYGdyGe08/edit#gid=335515302",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 54,
+      "mouse": 19,
+      "date": "2024-06-04T06:42:07Z",
+      "windowTitle": "Ben New - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/3DsNU0AAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 238,
+      "mouse": 6,
+      "date": "2024-06-04T06:43:07Z",
+      "windowTitle": "Ben New - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/3DsNU0AAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 59,
+      "mouse": 17,
+      "date": "2024-06-04T06:44:08Z",
+      "windowTitle": "Weekly Delivery Tracker - TPM+Eng - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1mrOMkLf370WxK5CkvQXF0e9Q6pHGPf2IsweYGdyGe08/edit#gid=335515302",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 60,
+      "mouse": 18,
+      "date": "2024-06-04T06:45:08Z",
+      "windowTitle": "Weekly Delivery Tracker - TPM+Eng - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1mrOMkLf370WxK5CkvQXF0e9Q6pHGPf2IsweYGdyGe08/edit#gid=335515302",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 65,
+      "mouse": 10,
+      "date": "2024-06-04T06:46:07Z",
+      "windowTitle": "Weekly Delivery Tracker - TPM+Eng - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1mrOMkLf370WxK5CkvQXF0e9Q6pHGPf2IsweYGdyGe08/edit#gid=335515302",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 138,
+      "mouse": 1,
+      "date": "2024-06-04T06:47:07Z",
+      "windowTitle": "Weekly Delivery Tracker - TPM+Eng - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1mrOMkLf370WxK5CkvQXF0e9Q6pHGPf2IsweYGdyGe08/edit#gid=335515302",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 46,
+      "mouse": 16,
+      "date": "2024-06-04T06:48:07Z",
+      "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 7,
+      "mouse": 1,
+      "date": "2024-06-04T06:49:07Z",
+      "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-04T06:40:00Z"
+}

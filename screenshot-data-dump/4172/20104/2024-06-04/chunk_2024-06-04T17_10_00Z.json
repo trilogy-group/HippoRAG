@@ -1,0 +1,350 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "meet.google.com",
+    "chrome",
+    "docs.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-04T17:12:59Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, Microsoft Edge, File Explorer, Microsoft Store, and several unidentified applications. System tray includes network, sound, battery, and clock (8:12 PM, 6/4/2024) icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - fmi-krfz-vbf - Google Chrome",
+                "url": "meet.google.com/fmi-krfz-vbf",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Multiple tabs, address bar, bookmarks bar, navigation buttons, and profile icon"
+                },
+                "content": [
+                  {
+                    "title": "Choose what to share with meet.google.com",
+                    "layoutDescription": "Popup window",
+                    "visibleText": "Choose what to share with meet.google.com\nThe site will be able to see the contents of your screen\nChrome Tab\nWindow\nEntire Screen\nRemote Jobs - Work From...\nDevFactory - Calendar - Wee...\nFarfetch Maths Max 2024 IP\nVideanak - drones nutella\nTo share audio, share a tab instead\nShare\nCancel"
+                  }
+                ]
+              },
+              {
+                "title": "Crossover",
+                "position": "center",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Multiple tabs, address bar, bookmarks bar, navigation buttons, and profile icon"
+                },
+                "content": [
+                  {
+                    "title": "Current Openings (40 Matching Jobs)",
+                    "layoutDescription": "Web page content",
+                    "visibleText": "Engineering\nTrilogy\nSVP of SaaS Operations\n$400,000 USD/year ($200 USD/hour)\nFully-remote\nAny country\nTrilogy\nVP of Design\n$200,000 USD/year ($100 USD/hour)\nFully-remote\nAny country\ngt-school\nAI-Augmented Back-end Principal Engineer\n$100,000 USD/year ($50 USD/hour)\nFully-remote\nAny country\ngt-school\nAI-Augmented Full-Stack Principal Engineer\n$100,000 USD/year ($50 USD/hour)\nFully-remote\nAny country\nrecruitics.com"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T17:15:52Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Google Chrome, and system tray with notifications, sound, network, and battery status icons",
+            "position": "bottom"
+          },
+          {
+            "elementType": "system tray",
+            "details": "Contains icons for notifications, sound, network, and battery status",
+            "position": "bottom right"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - fmi-krfz-vbf - Google Chrome",
+                "url": "https://meet.google.com/fmi-krfz-vbf",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, Google account avatar, Meet controls"
+                },
+                "content": [
+                  {
+                    "title": "LinkedIn Renewal 2024",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "June 2024\nM T W T F S S\n22 23 24 25 26 27 28\n29 30 1 2 3 4 5\n6 7 8 9 10 11 12\n13 14 15 16 17 18 19\n20 21 22 23 24 25 26\n27 28 29 30 1 2 3\n\nPlan Slots Cost Cost/slot Projected flow CpA Cost per BF Taker\nNow 3,480 $1,600,000 $460 80,000 $0.38 $1,600,000\nEarly renewal 3,788 $2,000,000 $528 85,000 $0.52 $2,000,000\nLate renewal 3,788 $2,600,000 $686 85,000 $0.59 $2,600,000\nReduce to 75% 2,670 $2,000,000 $750 75,000 $0.52 $2,000,000\nReduce to 50% 1,740 $1,600,000 $920 64,000 $0.48 $1,600,000\nReduce to 25% 870 $930,000 $1,069 40,000 $0.45 $930,000\n\nCost per slot\nSlots Cost/slot\nNow: $1.6M\nEarly renewal: $2.3M\nLate renewal: $2.6M\nReduce to 75%: $2M\nReduce to 50%: $1.6M\nReduce to 25%: $0.9M"
+                  },
+                  {
+                    "title": "Google Meet Video Call",
+                    "layoutDescription": "Video call layout",
+                    "visibleText": "Participants:\nCory Kapner - visible, male, appears focused\nJason Messinger - visible, male, appears neutral\nKatherine Rose - visible, female, appears concerned\nCory's Sybill Notetaker - avatar visible, labeled 'Cory's Sybill Notetaker'\nread.ai meeting notes - avatar visible, labeled 'read.ai meeting notes'\nDragos Nuta - visible, male, appears relaxed",
+                    "videoConference": {
+                      "participants": [
+                        {
+                          "name": "Cory Kapner",
+                          "expression": "focused"
+                        },
+                        {
+                          "name": "Jason Messinger",
+                          "expression": "neutral"
+                        },
+                        {
+                          "name": "Katherine Rose",
+                          "expression": "concerned"
+                        },
+                        {
+                          "name": "Dragos Nuta",
+                          "expression": "relaxed"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "System Tray",
+            "windows": [
+              {
+                "title": "System Tray",
+                "position": "bottom right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Contains icons for notifications, sound, network, and battery status"
+                },
+                "content": [
+                  {
+                    "title": "System Tray",
+                    "layoutDescription": "Icons layout",
+                    "visibleText": "Icons for notifications, sound, network, and battery status"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T17:17:13Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Excel, Microsoft Outlook, and other unidentified applications. Also includes system clock showing '8:17 PM' and system date '6/4/2024', along with language input 'ENG' and a search bar.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - fmi-krfz-vbf - Google Chrome",
+                "url": "https://meet.google.com/fmi-krfz-vbf",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "conference window with participant thumbnails, mute button, camera button, captions button, presentation button, more options button, hang up button, chat button, and participant list button"
+                },
+                "content": [
+                  {
+                    "title": "Video Conference Participants",
+                    "layoutDescription": "Grid layout",
+                    "visibleText": "Cory Kapner\nJason Messinger\nKatherine Rose\nCory's Sybill Notetaker\nread.ai meeting notes\nDragos Nuta"
+                  }
+                ]
+              },
+              {
+                "title": "LinkedIn Renewal 2024 - Google Sheets",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "spreadsheet with multiple tabs and toolbar"
+                },
+                "content": [
+                  {
+                    "title": "LinkedIn Renewal 2024 Spreadsheet",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "June 2024\nPlan Slots Cost Cost/slot Projected flow CpA Cost per BF Taker\nNow 3,480 $1,600,000 $460 80,000 $0.38 $1.6M\nEarly renewal 3,788 $2,000,000 $528 85,000 $0.52 $2.3M\nLate renewal 3,788 $2,600,000 $686 85,000 $0.59 $2.6M\nReduce to 75% 2,620 $2,000,000 $763 73,600 $0.52 $2M\nReduce to 50% 1,740 $1,600,000 $920 64,000 $0.48 $1.6M\nReduce to 25% 870 $930,000 $1,069 40,000 $0.45 $0.9M\nCost per slot\nSlots Cost/slot\nNow: $1.6M Early renewal: $2.3M Late renewal: $2.6M Reduce to 75%: $2M Reduce to 50%: $1.6M Reduce to 25%: $0.9M"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Google Meet video conference, as evidenced by the active window titled 'Meet - fmi-krfz-vbf - Google Chrome'. The user is sharing their screen, with a popup window showing options to share Chrome tabs, windows, or the entire screen. The user is also browsing job openings on the Crossover website, specifically looking at engineering positions such as 'SVP of SaaS Operations' and 'VP of Design'.",
+    "During the video conference, the user is also viewing a Google Sheets document titled 'LinkedIn Renewal 2024'. The spreadsheet contains detailed financial data, including costs, slots, and projected flow for different renewal plans. The user is likely discussing these details with the meeting participants, who include Cory Kapner, Jason Messinger, Katherine Rose, and Dragos Nuta.",
+    "The user continues to focus on the Google Sheets document, which shows a cost per slot analysis for various renewal plans. The participants in the Google Meet call appear engaged, with expressions ranging from focused to concerned. The user is likely presenting or discussing the financial projections and cost analysis with the team."
+  ],
+  "aiUseSummary": "",
+  "activities": [
+    "MEETING",
+    "READING_SPEC"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T17:10:11Z",
+      "windowTitle": "Meet - fmi-krfz-vbf - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/fmi-krfz-vbf?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 12,
+      "mouse": 12,
+      "date": "2024-06-04T17:11:11Z",
+      "windowTitle": "meet.google.com is sharing a window.",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 16,
+      "date": "2024-06-04T17:12:11Z",
+      "windowTitle": "meet.google.com is sharing a window.",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 13,
+      "date": "2024-06-04T17:13:11Z",
+      "windowTitle": "meet.google.com is sharing a window.",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 10,
+      "mouse": 17,
+      "date": "2024-06-04T17:14:11Z",
+      "windowTitle": "New Tab - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/15qbfVhYejRHmlMaKG7zsT1iAlYOGAmJb-Ucu7JeqLaw/edit#gid=987992452",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 21,
+      "mouse": 6,
+      "date": "2024-06-04T17:15:11Z",
+      "windowTitle": "Meet - fmi-krfz-vbf - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/fmi-krfz-vbf?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 4,
+      "date": "2024-06-04T17:16:11Z",
+      "windowTitle": "Meet - fmi-krfz-vbf - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/fmi-krfz-vbf?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T17:17:11Z",
+      "windowTitle": "Meet - fmi-krfz-vbf - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/fmi-krfz-vbf?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T17:18:11Z",
+      "windowTitle": "Meet - fmi-krfz-vbf - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/fmi-krfz-vbf?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 7,
+      "mouse": 2,
+      "date": "2024-06-04T17:19:11Z",
+      "windowTitle": "Meet - fmi-krfz-vbf - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/fmi-krfz-vbf?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-04T17:10:00Z"
+}

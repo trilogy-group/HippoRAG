@@ -1,0 +1,308 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "LockApp"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T18:03:03Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "taskbar visible at the bottom of the screen",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Google Chrome Private",
+                "url": "mail.google.com",
+                "position": "bottom right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "showing a user profile picture and URL"
+                },
+                "content": [
+                  {
+                    "title": "Google Chrome Private",
+                    "layoutDescription": "Popup window",
+                    "visibleText": "Google Chrome\nPrivate\nmail.google.com"
+                  }
+                ]
+              },
+              {
+                "title": "Google Chrome Private",
+                "url": "calendar.google.com",
+                "position": "right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "showing a user profile picture and URL"
+                },
+                "content": [
+                  {
+                    "title": "Google Chrome Private",
+                    "layoutDescription": "Popup window",
+                    "visibleText": "Google Chrome\nPrivate\ncalendar.google.com"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T18:03:23Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "taskbar visible at the bottom of the screen",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Google Chrome Private",
+                "url": "mail.google.com",
+                "position": "bottom right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "showing a user profile picture and URL"
+                },
+                "content": [
+                  {
+                    "title": "Google Chrome Private",
+                    "layoutDescription": "Popup window",
+                    "visibleText": "Google Chrome\nPrivate\nmail.google.com"
+                  }
+                ]
+              },
+              {
+                "title": "Google Chrome Private",
+                "url": "calendar.google.com",
+                "position": "right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "showing a user profile picture and URL"
+                },
+                "content": [
+                  {
+                    "title": "Google Chrome Private",
+                    "layoutDescription": "Popup window",
+                    "visibleText": "Google Chrome\nPrivate\ncalendar.google.com"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T18:09:32Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "taskbar visible at the bottom of the screen",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Google Chrome Private",
+                "url": "mail.google.com",
+                "position": "bottom right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "showing a user profile picture, a tab with a lock icon indicating a private session"
+                },
+                "content": [
+                  {
+                    "title": "Google Chrome Private",
+                    "layoutDescription": "Window with user profile and URL",
+                    "visibleText": "mail.google.com"
+                  }
+                ]
+              },
+              {
+                "title": "Google Chrome Private",
+                "url": "calendar.google.com",
+                "position": "bottom right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "showing a user profile picture, a tab with a lock icon indicating a private session"
+                },
+                "content": [
+                  {
+                    "title": "Google Chrome Private",
+                    "layoutDescription": "Window with user profile and URL",
+                    "visibleText": "calendar.google.com"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "During the captured timeframe, the user was primarily engaged with the LockApp application. The screenshots show a locked screen with notifications from Google Chrome indicating that the user had visited mail.google.com and calendar.google.com. However, there is no evidence of active interaction with these websites during the captured period. The taskbar is visible at the bottom of the screen, but no other applications or activities are evident from the screenshots.",
+    "The independent analysis confirms that the user had Google Chrome open with tabs for mail.google.com and calendar.google.com. These tabs were not actively used during the captured period, as indicated by the lack of interaction in the screenshots. The taskbar at the bottom of the screen shows no other active applications or activities. The user's primary activity appears to be related to the LockApp, with no significant engagement in other tasks."
+  ],
+  "aiUseSummary": "There is no evidence of AI tool usage in the provided screenshots or the independent analysis. The user did not interact with any AI tools, such as AI_IDE_EXTENSION, SHORTWAVE, or other AI assistants, during the captured timeframe. The primary activity was related to the LockApp, with no significant engagement in tasks that would involve AI assistance.",
+  "activities": [],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "",
+  "doubts": [],
+  "confidenceScore": 0,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T18:00:01Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T18:01:01Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T18:02:01Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T18:03:01Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T18:04:01Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T18:05:01Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T18:06:01Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T18:07:01Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T18:08:01Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T18:09:01Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-05T18:00:00Z"
+}

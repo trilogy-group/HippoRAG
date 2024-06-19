@@ -1,0 +1,107 @@
+{
+  "candidateId": 1444536,
+  "apps": [
+    "Code"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-15T14:32:33Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, File Explorer, Edge, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '15:32 15/06/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "test.py - campaign-tracking - Visual Studio Code",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "pane on the left with files and folders, editor with multiple tabs open, bottom pane showing terminal output"
+                },
+                "content": [
+                  {
+                    "title": "Explorer",
+                    "layoutDescription": "vertical list",
+                    "visibleText": "OPEN EDITORS\n3 unsaved\nWelcome\ntest.py campaign-tracking\nrequirements.txt campaign-tracking\nlambda_function.py campaign-tracking\ngsheets.py campaign-tracking\nconfig.json campaign-tracking\ndump.json campaign-tracking\nUntitled-1\nTOOLS\ncampaign-tracking TASKS"
+                  },
+                  {
+                    "title": "Editor",
+                    "layoutDescription": "text editor with code",
+                    "visibleText": "import json\nimport requests\nfrom datetime import datetime\n\n# Example of API request\nresponse = requests.get(\n 'https://api.example.com/data',\n headers={'Authorization': 'Bearer your_token_here'}\n)\nprint(response.json())\n\n# Handling JSON data\nwith open('data.json', 'w') as f:\n json.dump(response.json(), f)\n\n# More complex JSON operations\njson_data = {'key': 'value'}\nfor key, value in json_data.items():\n print(f'{key}: {value}')\n\n# Output from terminal\nFound 2000 records\nFound 2595 records"
+                  },
+                  {
+                    "title": "Terminal",
+                    "layoutDescription": "command line interface",
+                    "visibleText": "PS C:\\Users\\xuser\\Projects\\tools\\campaign-tracking"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in writing code within Visual Studio Code. The open files include 'test.py', 'requirements.txt', 'lambda_function.py', 'gsheets.py', 'config.json', 'dump.json', and an untitled file. The user is working on a project named 'campaign-tracking'. The terminal output shows commands being executed, indicating active development and testing. The user is handling JSON data, making API requests, and processing the responses. The terminal output also shows SQL queries being executed, suggesting database interactions.",
+    "The user is working on a Python script named 'test.py' within the 'campaign-tracking' project. The script imports necessary libraries such as 'json', 'requests', and 'datetime'. It includes an example of an API request, handling JSON data, and performing more complex JSON operations. The terminal output shows the execution of the script, with messages indicating the number of records found. This suggests the user is testing the script and verifying its functionality.",
+    "The user is editing multiple configuration files such as 'config.json' and 'dump.json'. These files contain JSON data structures, which are likely used for configuring the application or storing data. The user is also working on a 'Dockerfile', indicating the use of containerization for the project. The presence of a 'requirements.txt' file suggests the user is managing project dependencies, which is a common practice in Python projects."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is working within Visual Studio Code, but there are no visible AI chat interfaces or AI-generated suggestions. The focus appears to be on manual coding, testing, and configuration management without the assistance of AI tools.",
+  "activities": [
+    "WRITING_CODE"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "DB",
+    "TESTS"
+  ],
+  "programmingLanguages": [
+    "PYTHON",
+    "SQL"
+  ],
+  "toolTypes": [
+    "IDE"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 3,
+      "mouse": 5,
+      "date": "2024-06-15T14:30:42Z",
+      "windowTitle": "? dump.json - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 12,
+      "mouse": 8,
+      "date": "2024-06-15T14:31:41Z",
+      "windowTitle": "? dump.json - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-15T14:30:00Z"
+}

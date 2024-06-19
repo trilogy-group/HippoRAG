@@ -1,0 +1,271 @@
+{
+  "candidateId": 2368956,
+  "apps": [
+    "docs.google.com",
+    "chatgpt.com",
+    "Numbers"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-06T13:31:42Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Contacts, Calendar, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a docked application bar at the bottom with visible icons for Google Chrome, Microsoft Excel, Microsoft Word, and other unidentified applications.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "ChatGPT - Advocate Challenge Creation Helper - Google Chrome",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs open, visible tabs include 'Articles', 'Customer Outreach - Acceleration', 'ChatGPT - Advocate Challenge Creation Helper', and other unidentified tabs. Address bar visible with URL. Bookmark bar visible with bookmarks for 'Inbox', 'Calendar', 'Google Drive', 'Recent', 'Starred', 'Trash', 'More'."
+                },
+                "content": [
+                  {
+                    "title": "ChatGPT - Advocate Challenge Creation Helper",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "Visible cells include columns labeled 'ID', 'Name', 'Email', 'Signup Date', 'Last Login', 'Plan', 'Usage', 'Notes'. Rows contain data entries with various names, email addresses, dates, and other details. Specific visible text includes 'ID: 10234', 'Name: John Doe', 'Email: johndoe@example.com', 'Signup Date: 2023-05-01', 'Last Login: 2024-05-30', 'Plan: Pro', 'Usage: 340 hours', 'Notes: Very active user.'"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-06T13:35:38Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Contacts, Calendar, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Time Machine, and Trash. Also includes a Spotlight search icon and Notification Center icon.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Safari",
+            "windows": []
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-06T13:39:35Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Contacts, Calendar, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a system clock showing '1:39 PM' and a date 'Wed Jun 6'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Customer Outreach - AdvocateHub - Google Sheets",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Tabs for different sheets named 'Advocates', 'Engagements', 'Campaigns', 'Reports', 'Settings', 'Help'. The 'Advocates' tab is currently active. Includes a toolbar with options for File, Edit, View, Insert, Format, Data, Tools, Extensions, Help."
+                },
+                "content": [
+                  {
+                    "title": "Google Sheets Content",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "Columns labeled from A to Z and further, rows numbered from 1 to 1000. Visible columns include 'Email', 'First Name', 'Last Name', 'Engagement Score', 'Last Activity', 'Notes'. Visible data includes multiple email addresses, names, scores, and dates. The cell A2 is highlighted and contains the email 'john.doe@example.com'."
+                  }
+                ]
+              },
+              {
+                "title": "Associate Challenge Creation Helper",
+                "url": "https://docs.google.com/document/d",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Google Docs document with a toolbar containing options for File, Edit, View, Insert, Format, Tools, Add-ons, Help."
+                },
+                "content": [
+                  {
+                    "title": "Google Docs Content",
+                    "layoutDescription": "Document layout",
+                    "visibleText": "Document titled 'Associate Challenge Creation Helper'. Contains text explaining how to use formulas in Google Sheets to extract domains from email addresses. Includes steps and explanations for formulas like 'FIND', 'LEFT', 'MID', 'LEN', and 'RIGHT'. The document also includes a list of steps to apply the formulas correctly."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is primarily engaged in working with Google Sheets and Google Docs. They have multiple tabs open in Google Chrome, including 'Articles', 'Customer Outreach - Acceleration', and 'ChatGPT - Advocate Challenge Creation Helper'. The user is actively viewing and editing spreadsheets related to customer outreach and advocate challenges. The visible data includes columns labeled 'ID', 'Name', 'Email', 'Signup Date', 'Last Login', 'Plan', 'Usage', and 'Notes'. Specific entries include names, email addresses, dates, and other details.",
+    "In addition to working on spreadsheets, the user is also viewing a Google Docs document titled 'Advocate Challenge Creation Helper'. This document contains instructions on using formulas in Google Sheets to extract domains from email addresses. The document includes steps and explanations for formulas like 'FIND', 'LEFT', 'MID', 'LEN', and 'RIGHT'. The user is likely using this document as a reference while working on the spreadsheets.",
+    "The user is also seen interacting with ChatGPT, as indicated by the open tab 'ChatGPT - Advocate Challenge Creation Helper'. This suggests that the user is seeking assistance or guidance from ChatGPT while working on their tasks. The specific content of the interaction with ChatGPT is not visible in the screenshots, but it is clear that the user is utilizing AI tools to aid their workflow.",
+    "Throughout the captured period, the user is focused on data management and analysis tasks. They are organizing and updating information in Google Sheets, likely related to customer outreach and engagement. The user is also referencing instructional content in Google Docs to ensure they are applying the correct formulas and methods in their spreadsheets."
+  ],
+  "aiUseSummary": "The user utilizes ChatGPT for assistance and guidance while working on their tasks. The open tab 'ChatGPT - Advocate Challenge Creation Helper' indicates that the user is seeking help from ChatGPT, possibly for understanding or applying specific formulas in Google Sheets. The AI tool is likely providing suggestions, explanations, and step-by-step instructions to enhance the user's productivity and ensure accuracy in their data management tasks.",
+  "activities": [
+    "READING_SPEC",
+    "RESEARCH"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [
+    "OPENAI_CHATGPT"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "READING_SPEC",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 92,
+      "mouse": 6,
+      "date": "2024-06-06T13:30:09Z",
+      "windowTitle": " Customer Outreach - AdvocateHub - Google Sheets - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/spreadsheets/d/1VuvNhyD3EuthmTN7aWAnuQAgYgTaGRQMyrmooe2Kr2g/edit#gid=1058758592",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 87,
+      "mouse": 14,
+      "date": "2024-06-06T13:31:09Z",
+      "windowTitle": " ChatGPT - Advocate Challenge Creation Helper - Google Chrome\n",
+      "processName": "chatgpt.com",
+      "visitingUrl": "https://chatgpt.com/g/g-RMV1CChnB-advocate-challenge-creation-helper/c/f6b56f6b-fa52-4a78-b2e0-f95d3d6e5701",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 104,
+      "mouse": 8,
+      "date": "2024-06-06T13:32:09Z",
+      "windowTitle": " Customer Outreach - AdvocateHub - Google Sheets - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/spreadsheets/d/1VuvNhyD3EuthmTN7aWAnuQAgYgTaGRQMyrmooe2Kr2g/edit#gid=1058758592",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 57,
+      "mouse": 18,
+      "date": "2024-06-06T13:33:09Z",
+      "windowTitle": " Customer Outreach - AdvocateHub - Google Sheets - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/spreadsheets/d/1VuvNhyD3EuthmTN7aWAnuQAgYgTaGRQMyrmooe2Kr2g/edit#gid=1058758592",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 29,
+      "mouse": 12,
+      "date": "2024-06-06T13:34:09Z",
+      "windowTitle": " PostBeyond_1_4\n",
+      "processName": "Numbers",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 41,
+      "mouse": 28,
+      "date": "2024-06-06T13:35:09Z",
+      "windowTitle": " Customer Outreach - AdvocateHub - Google Sheets - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/spreadsheets/d/1VuvNhyD3EuthmTN7aWAnuQAgYgTaGRQMyrmooe2Kr2g/edit#gid=2046617687",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 28,
+      "mouse": 30,
+      "date": "2024-06-06T13:36:09Z",
+      "windowTitle": " Customer Outreach - AdvocateHub - Google Sheets - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/spreadsheets/d/1VuvNhyD3EuthmTN7aWAnuQAgYgTaGRQMyrmooe2Kr2g/edit#gid=1058758592",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 59,
+      "mouse": 7,
+      "date": "2024-06-06T13:37:09Z",
+      "windowTitle": " Customer Outreach - AdvocateHub - Google Sheets - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/spreadsheets/d/1VuvNhyD3EuthmTN7aWAnuQAgYgTaGRQMyrmooe2Kr2g/edit#gid=1058758592",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T13:38:09Z",
+      "windowTitle": " Customer Outreach - AdvocateHub - Google Sheets - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/spreadsheets/d/1VuvNhyD3EuthmTN7aWAnuQAgYgTaGRQMyrmooe2Kr2g/edit#gid=1058758592",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 6,
+      "date": "2024-06-06T13:39:09Z",
+      "windowTitle": " ChatGPT - Advocate Challenge Creation Helper - Google Chrome\n",
+      "processName": "chatgpt.com",
+      "visitingUrl": "https://chatgpt.com/g/g-RMV1CChnB-advocate-challenge-creation-helper/c/f6b56f6b-fa52-4a78-b2e0-f95d3d6e5701",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-06T13:30:00Z"
+}

@@ -1,0 +1,317 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "meet.google.com",
+    "mail.google.com",
+    "explorer",
+    "docs.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T10:52:02Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Google Chrome, and system tray with notifications, language input (ENG), and clock showing '1:52 PM'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "DevFactory Mail - Google Chrome",
+                "url": "https://mail.google.com/mail/u/0/#",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, profile icon labeled 'ai-driven', and extension icons"
+                },
+                "content": [
+                  {
+                    "title": "Gmail",
+                    "layoutDescription": "left sidebar, main chat area, right sidebar",
+                    "visibleText": "Gmail\nNew chat\nShortcuts\nHome 6\nMentions 3\nStarred\nDirect messages 4\nDavid Schwartz\nFriat Gomi\nJamie Sidey\nBen New\nAndrei Kharytonenka\nGeorge, Nouman\nPhil Hewinson\nIsaac Seminiano\nSpaces 2\nXO Team Chat\nCrossover - Upwork Sourcing v2\nFeature Line Automation\nCNU AI Assist - Extra\nCNU Q Business Process\nTPM Reboot\nXO Candidate Support\nAWS News\nCentral PMS Team\nGFI BU/CE/TPM Management\nAI Coach - internal\nCrossover - Upwork Sourcing v2\nChat\nShared\nTasks\nI'm at hospital\n1 reply 12:35 PM\nEnter or modify a SQL query below:\nSELECT WEEK_IN_YEAR(CreatedDate), count(Id)\nFROM Opportunity\nWHERE LeadSource = 'googleads'\nand createddate > 2024-05-01T00:00:00Z\ngroup by WEEK_IN_YEAR(CreatedDate)\n(Query)\nQuery Results\nReturned records 1 - 6 of total records in 0.931 seconds\nUnknown_Field_1 Unknown_Field_2\n1/18 162\n2/19 37\n3/20 45\n4/21 295\n5/22 238\n6/23 116\nEdward Fontana 23 min\naccording to google analytics in the period 29 of may to 1 of june we have a BFO passed CTA of 13,36 USD, the amount of leads on jobs applicant is around 15%\nMy assumption is that we are paying around 12 USD for each BFO passer\nhow far is this from the number in that dashboard that"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T10:54:59Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Search, Google Chrome, Microsoft Word, Microsoft Excel, Notepad, File Explorer, and other unidentified applications. System tray includes network status, sound volume, date and time display (1:54 PM, 05/06/2024), and language setting (ENG).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - nfv-rifq-wxb - Google Chrome",
+                "url": "meet.google.com/nfv-rifq-wxb?authu",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, Google account icon, and extensions including Google Keep, Google Docs, and others"
+                },
+                "content": [
+                  {
+                    "title": "Video Conference",
+                    "layoutDescription": "Main content area shows video feeds",
+                    "visibleText": "Nilesh Deshpande\nDragos Nutar"
+                  },
+                  {
+                    "title": "Chat Sidebar",
+                    "layoutDescription": "Right sidebar with chat",
+                    "visibleText": "David Schwartz\nYou\ndid you schedule the call?\nHistory is on"
+                  }
+                ]
+              },
+              {
+                "title": "Gmail - david.schwartz@gmail.com - Google Chrome",
+                "url": "mail.google.com/mail/u/0/#chat/dm/",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "interface with navigation sidebar, search bar, and chat window"
+                },
+                "content": [
+                  {
+                    "title": "Gmail Navigation",
+                    "layoutDescription": "Left sidebar with navigation options",
+                    "visibleText": "Mail\nNew chat\nShortcuts\nHome 6\nMentions 3\nStarred\nDirect messages 4\nJoe Conley\nIsabelle Adventio\nMarcelo Skaba\nNoumaan Shah\nEDGAR H MULONGO\nDavid Schwartz\nFirat Gomi\nJamie Sidey\nSpaces 2\nCrossover - Upwork S...\nXO Team Chat\nFeature Line autom...\nCNU AI Assist - Extra...\nCNU Q Business Pro...\ntpm reboot\nXO Candidate Suppor...\nAWS News\nCentral PMS team\nGFI BU/CE/TPM Man...\nAI Coach - internal\nSpaces - Extra"
+                  },
+                  {
+                    "title": "Chat Window",
+                    "layoutDescription": "Right section with chat interface",
+                    "visibleText": "David Schwartz\nYou\ndid you schedule the call?\nHistory is on"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T10:58:00Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Google Chrome, and system tray with notifications, sound, network, and battery status icons",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - nfv-rifq-wxb - Google Chrome",
+                "url": "meet.google.com/nfv-rifq-wxb",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, Google account icon, extensions icons"
+                },
+                "content": [
+                  {
+                    "title": "Video Conference",
+                    "layoutDescription": "Main participant view with smaller thumbnail views",
+                    "visibleText": "Nilesh Deshpande, Dragos Nuta"
+                  },
+                  {
+                    "title": "Chat Window",
+                    "layoutDescription": "Sidebar chat window",
+                    "visibleText": "David Schwartz\nanyway - all good now\nill also schedule a demo\nwill be on thursday\nwill do that shortly\nDavid Schwartz Yesterday\nWas just about to start a call"
+                  }
+                ]
+              },
+              {
+                "title": "Gmail - Chat - Google Chrome",
+                "url": "mail.google.com/mail/u/0/#chat/dm",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "navigation sidebar, chat search bar, chat window"
+                },
+                "content": [
+                  {
+                    "title": "Gmail Chat",
+                    "layoutDescription": "Chat interface with contact list and conversation",
+                    "visibleText": "New chat\nShortcuts\nHome 6\nMentions 3\nStarred\nDirect messages 4\nJoe Conley\nIsabelle Advento\nMarcelo Skaba\nNoumaan Shah\nEDGAR H MULONGO\nFirat Gomi\nJamie Sidey\nBen New\nSpaces 2\nCrossover - Upwork S...\nXO Team Chat\nFeature Line autom...\nCNU AI Assist - Extra...\nCNU Q Business Pro...\ntpm reboot\nXO Candidate Suppor...\nAWS News\nCentral PMS team\nGFI BU/CE/TPM Man...\nAI Coach - internal\nDavid Schwartz\nanyway - all good now\nill also schedule a demo\nwill be on thursday\nwill do that shortly"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in a Google Chat conversation within Gmail, specifically in the 'Crossover - Upwork Sourcing v2' space. They are discussing SQL queries and Google Analytics data with a colleague named Edward Fontana. The conversation includes a SQL query to retrieve data from an 'Opportunity' table, and the user is comparing the cost per acquisition (CPA) metrics from Google Analytics with the data in the SQL query results.",
+    "The user is participating in a Google Meet video conference with two other participants, Nilesh Deshpande and Dragos Nutar. The meeting is ongoing, and the user is also engaged in a chat conversation with David Schwartz within Gmail. The chat includes discussions about scheduling a demo and confirming that everything is good to go. The user is multitasking by managing both the video conference and the chat conversation simultaneously.",
+    "The user continues to be in the Google Meet video conference while also keeping an eye on the Gmail chat with David Schwartz. The chat conversation includes updates about scheduling a demo for Thursday and confirming that the call was just about to start. The user is balancing the video conference and chat interactions, ensuring that all communications are addressed promptly."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in email and chat communications within Gmail and participating in a Google Meet video conference. No AI chat interfaces or AI-driven suggestions are visible in the screenshots.",
+  "activities": [
+    "EMAIL",
+    "CHATTING_WITH_TEAM",
+    "MEETING"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 18,
+      "mouse": 2,
+      "date": "2024-06-05T10:50:53Z",
+      "windowTitle": "Meet - nfv-rifq-wxb - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/nfv-rifq-wxb?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 72,
+      "mouse": 1,
+      "date": "2024-06-05T10:51:53Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAeZVXuc0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 73,
+      "mouse": 0,
+      "date": "2024-06-05T10:52:53Z",
+      "windowTitle": "Meet - nfv-rifq-wxb - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/nfv-rifq-wxb?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T10:53:53Z",
+      "windowTitle": "Meet - nfv-rifq-wxb - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/nfv-rifq-wxb?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 12,
+      "mouse": 7,
+      "date": "2024-06-05T10:54:53Z",
+      "windowTitle": "Task Switching",
+      "processName": "explorer",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 12,
+      "mouse": 0,
+      "date": "2024-06-05T10:55:53Z",
+      "windowTitle": "Meet - nfv-rifq-wxb - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/nfv-rifq-wxb?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 2,
+      "mouse": 2,
+      "date": "2024-06-05T10:56:53Z",
+      "windowTitle": "Meet - nfv-rifq-wxb - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/nfv-rifq-wxb?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 87,
+      "mouse": 3,
+      "date": "2024-06-05T10:57:53Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/lbuwS0AAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 5,
+      "mouse": 8,
+      "date": "2024-06-05T10:58:53Z",
+      "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 2,
+      "mouse": 0,
+      "date": "2024-06-05T10:59:53Z",
+      "windowTitle": "Meet - nfv-rifq-wxb - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/nfv-rifq-wxb?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T10:50:00Z"
+}

@@ -1,0 +1,276 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "ws-lambda.atlassian.net",
+    "github.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T11:10:38Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Confluence, Microsoft Teams, Outlook, OneNote, Notepad++, Adobe Reader, File Explorer, Command Prompt, and other unidentified applications. System tray includes network status, sound volume, date/time display, and language indicator (ENG).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Deployment process with CDK - WS Lambda - Confluence",
+                "url": "https://ws-lambda.atlassian.net/wiki/spaces",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, bookmarks bar, profile icon, extensions icons, and settings menu."
+                },
+                "content": [
+                  {
+                    "title": "Deployment process with CDK",
+                    "layoutDescription": "Text and diagrams",
+                    "visibleText": "TPO Second Brain\nOutdated - Worker’s Guide\nProject Queue\nDesign\nFrontend\nBackend\nDevelopment Process\nTrunk-based Development\nMilestone Delivery Process\nAutomated Release Process\nDeployment process with CDK\nBuilding the versatile deployment system with AWS CDK\nBest Practices for Organizing Serverless Applications\nLogging and Monitoring\nIntegration Tests\nRollback Playbook\nInfra CDK Library\nInfra CDK Template How-To\nCognito Data Seeding\nAWS RUM\nAWS Fargate Deployment\nCoding Conventions and Best-practices\nProgramming Languages\nSubmitting new Jira tasks and subtasks\nOnboarding Workspace\nQC Rules\nFeatures and Standards\nAWS\nLambda Work Process Automations\nTemplate\nDev Wiki\nServices used by the backend team\nOutdated - Misc\n\nArchitecture\nYou can check the diagram above for the overall process. The CDK Deployment code constructs the following infrastructure:\n\nRoot Stack\nAuthentication Stack (Nested)\n- Cognito User Pool\n- Cognito Identity Pool\n- Cognito Groups\n- Cognito Client\n- IAM Roles\n\nDepends on\n\nAppSync Stack (Nested)\n- AppSync API\n- RDS DataSource\n\nDepends on\n\nLambdas Stack (Nested)\n- Shared IAM Role\n- Shared Code Asset\n- Shared Layer\n- VPC Configuration (imported)\n\nDepends on\n\nAppSync Resolvers Stack (Nested)\n- AppSync Resolvers\n- Lambda DataSources\n\nDepends on\n\nState Machines Stack (Nested)\n- All Step Functions\n\nDepends on\n\nFrontend Stack (Nested)\n- S3 Bucket\n- CloudFront Distribution\n- Route53 CNAME Entry\n\nDepends on\n\nScheduled Inlet: (Prod Only)\n- Data Import (Step Functions, Lambda)\n- DB Dump"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T11:15:27Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Widgets, File Explorer, Microsoft Edge, and system tray with network, sound, and time display",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+                "url": "https://github.com/trilogy-group/xo-hiring-monorepo@bb9eaf7",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "address bar, tabs, navigation buttons, profile icon, vertical scrollbar, horizontal scrollbar"
+                },
+                "content": [
+                  {
+                    "title": "build",
+                    "layoutDescription": "detailed layout with columns",
+                    "visibleText": "Summary\nbuild\nRun details\nWorkflow file\nDeploy to env\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Edge"
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T11:18:57Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Microsoft Edge, File Explorer, and several other unidentified icons. System tray includes network status, sound volume, date and time display (13:18, 14/06/2024), and language indicator (ENG).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+                "url": "https://github.com/trilogy-group/xo-hiring-monorepo",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Multiple tabs visible with titles such as 'AWS', 'WS', 'Cert', 'My', 'Email', 'WS', 'An', 'Dev', 'J' repeated multiple times"
+                },
+                "content": [
+                  {
+                    "title": "GitHub Repository",
+                    "layoutDescription": "Standard GitHub layout",
+                    "visibleText": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is reading a Confluence page titled 'Deployment process with CDK' on ws-lambda.atlassian.net. The page includes detailed text and diagrams explaining the architecture and steps involved in the deployment process using AWS CDK. The user is likely gathering information or reviewing the deployment process as part of their work.",
+    "The user is reviewing a GitHub Actions run for the repository trilogy-group/xo-hiring-monorepo. The page shows a detailed log of the build process, including various steps and their statuses. The user is likely investigating the build process, possibly to identify issues or verify the build's success.",
+    "The user continues to review the GitHub Actions run, focusing on the detailed logs of the build process. The logs include information about resource creation, function configurations, and other deployment-related activities. The user is likely ensuring that all steps in the build process are executed correctly and identifying any potential issues."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in reading documentation on Confluence and reviewing build logs on GitHub. There are no visible interactions with AI chat interfaces or AI-driven tools in the screenshots.",
+  "activities": [
+    "READING_SPEC",
+    "REVIEWING_CODE"
+  ],
+  "workTypes": [
+    "IAC",
+    "BACKEND"
+  ],
+  "programmingLanguages": [
+    "OTHER"
+  ],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "REVIEWING_CODE",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 5,
+      "date": "2024-06-14T11:10:17Z",
+      "windowTitle": "Deployment process with CDK - WS Lambda - Confluence - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/wiki/spaces/LAMBDA/pages/1866006529/Deployment+process+with+CDK",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T11:11:17Z",
+      "windowTitle": "Deployment process with CDK - WS Lambda - Confluence - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/wiki/spaces/LAMBDA/pages/1866006529/Deployment+process+with+CDK",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T11:12:17Z",
+      "windowTitle": "Deployment process with CDK - WS Lambda - Confluence - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/wiki/spaces/LAMBDA/pages/1866006529/Deployment+process+with+CDK",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T11:13:17Z",
+      "windowTitle": "Deployment process with CDK - WS Lambda - Confluence - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/wiki/spaces/LAMBDA/pages/1866006529/Deployment+process+with+CDK",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 17,
+      "date": "2024-06-14T11:14:17Z",
+      "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514770164/job/26227606906",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 8,
+      "mouse": 21,
+      "date": "2024-06-14T11:15:17Z",
+      "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514770164/job/26227606906",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-14T11:16:17Z",
+      "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514770164/job/26227606906",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-14T11:17:17Z",
+      "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514770164/job/26227606906",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T11:18:17Z",
+      "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514770164/job/26227606906",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-14T11:19:17Z",
+      "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514770164/job/26227606906",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-14T11:10:00Z"
+}

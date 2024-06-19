@@ -1,0 +1,274 @@
+{
+  "candidateId": 1444536,
+  "apps": [
+    "Code",
+    "chatgpt.com",
+    "pythonw"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T12:31:50Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Microsoft Edge, File Explorer, Windows Terminal, Microsoft Store, Mail, Calendar, Photos, Settings, and several other unidentified applications. Also displays system tray with icons for network, sound, notifications, and clock showing '13:31:52 14/06/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "ChatGPT - Google Chrome",
+                "url": "https://chatgpt.com/c/c6a05fef-c69",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, profile icon, extensions icons, and a vertical sidebar on the left with icons and labels such as ChatGPT, RCA GPT, Google Ads Copy Wizard, Explore GPTs, and a search bar at the bottom."
+                },
+                "content": [
+                  {
+                    "title": "ChatGPT 4 v",
+                    "layoutDescription": "Text and interactive elements",
+                    "visibleText": "python create an empty array of arrays of length N\n\nTo create an empty array of a specific length N in Python, you can use the `numpy` library, which is designed for numerical operations and efficiently handles arrays. Here's how you can do it:\n\n1. Import the numpy library.\n2. Create an empty array of length N.\n\nHere is a sample code snippet:\n\npython\nimport numpy as np\n\nN = 10 # Set the desired length of the array\n\nMessage ChatGPT"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T12:34:02Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Widgets, and system tray with notifications, sound, network, and battery status icons",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "test.py - tools - Visual Studio Code",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Top bar with File, Edit, Selection, View, Go, Run, Terminal, Help; Sidebar with Explorer, Search, Source Control, Run and Debug, Extensions, and more; Bottom bar with Problems, Output, Debug Console, Terminal, Ports tabs"
+                },
+                "content": [
+                  {
+                    "title": "test.py",
+                    "layoutDescription": "editor layout",
+                    "visibleText": "def test2():\n with open('config.json') as f:\n config = json.load(f)\n print(config)\n credentials = config['gsheet_credentials']\n sheet_id = config['campaigns'][0]['sheet_id']\n client = authenticate(credentials)\n sf_connection = SalesforceConnection(config['username'], config['password'], config['security_token'])\n res = sf_connection.get_applications(['GA-Cat.*'])\n data = [[] for _ in range(len(res)+1)]\n sheet = client.open_by_key(sheet_id).sheet1\n data[0] = ['#', 'Account ID', 'Application ID', 'Campaign', 'Advertised Title', 'Date', 'Country', 'Outcome']\n i = _\n for raw in res:\n data[raw['Id']+1] = [raw['Id'], raw['AccountId'], raw['CampaignId'], raw['Campaign'], raw['Advertised_Title'], raw['Date'], raw['Country'], raw['Outcome']]\n sheet.update('A1', data)\n\n test2()"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T12:37:49Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, and several pinned applications. Displays system clock showing 13:37:51, date 14/06/2024, and system status icons including network and battery status.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Code Editor",
+            "windows": [
+              {
+                "title": "Code Editor",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, Search, Source, Run, Debug, Consoles, Projects, Tools, View, Help. Toolbar with icons for save, cut, copy, paste, undo, redo, run file, configure, etc. Tabs for multiple files open such as Experiment1.py, CreateTicketing.py, CreateTask_ChartGPY.py, give_permissions_to_dspy.py, untitled0.py"
+                },
+                "content": [
+                  {
+                    "title": "Python Code",
+                    "layoutDescription": "Text editor with code",
+                    "visibleText": "import requests\nimport json\nfrom collections import defaultdict\ndef url = \"https://sentry.io/api/0/projects/...\"\nheaders = {\n \"accept\": \"application/json\",\n \"authorization\": \"Bearer 7d7e5c71b...\"\n}\nresponse = requests.get(url, headers=headers)\n# response = requests.get(url, auth=('user', 'pass'))\nt = response.text\ndata = json.loads(t)\n\nissue_type_counts = defaultdict(lambda: 0)\n\nfor event in data:\n Level = event['level']\n counts_14d = event['stats']['14d']\n counts_last_7d = sorted(counts_14d)\n sum_last_7d = sum([row[1] for row in counts_last_7d])\n print(f\"Level {sum_last_7d}\")\n issue_type_counts[level] += sum_last_7d"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "At 12:31:50, the user was actively engaged in research on ChatGPT, specifically looking for a way to create an empty array of arrays of length N in Python. The user received a response suggesting the use of the numpy library, with a sample code snippet provided. This indicates the user was seeking to understand or implement a specific functionality in their code.",
+    "At 12:34:02, the user was writing code in Visual Studio Code. The file open was 'test.py' within a project named 'tools'. The code involved reading a configuration file 'config.json', authenticating with Salesforce, retrieving application data, and updating a Google Sheet with the retrieved data. This suggests the user was working on integrating Salesforce data with Google Sheets.",
+    "At 12:37:49, the user was working in a different code editor, likely Spyder, with multiple Python files open. The visible code involved making a GET request to an API, processing the JSON response, and counting issue types. The user was also examining the structure of the response data using a variable explorer. This indicates the user was debugging or analyzing API response data."
+  ],
+  "aiUseSummary": "The user utilized ChatGPT for research purposes, specifically to find a method to create an empty array of arrays of length N in Python. The AI provided a solution using the numpy library, which the user could then implement in their code. This interaction highlights the user's reliance on AI for quick access to coding solutions and best practices, enhancing their productivity and efficiency.",
+  "activities": [
+    "RESEARCH",
+    "WRITING_CODE"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "DB"
+  ],
+  "programmingLanguages": [
+    "PYTHON"
+  ],
+  "toolTypes": [
+    "IDE",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [
+    "OPENAI_CHATGPT"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 23,
+      "mouse": 10,
+      "date": "2024-06-14T12:30:24Z",
+      "windowTitle": "campaign.ts - master-assistant - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 53,
+      "mouse": 9,
+      "date": "2024-06-14T12:31:24Z",
+      "windowTitle": "ChatGPT - Google Chrome",
+      "processName": "chatgpt.com",
+      "visitingUrl": "chatgpt.com",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 16,
+      "mouse": 9,
+      "date": "2024-06-14T12:32:24Z",
+      "windowTitle": "campaign.ts - master-assistant - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 50,
+      "mouse": 6,
+      "date": "2024-06-14T12:33:24Z",
+      "windowTitle": "? test.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 47,
+      "mouse": 3,
+      "date": "2024-06-14T12:34:24Z",
+      "windowTitle": "? test.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 39,
+      "mouse": 10,
+      "date": "2024-06-14T12:35:24Z",
+      "windowTitle": "? test.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 30,
+      "mouse": 8,
+      "date": "2024-06-14T12:36:24Z",
+      "windowTitle": "? test.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 22,
+      "mouse": 6,
+      "date": "2024-06-14T12:37:24Z",
+      "windowTitle": "Spyder",
+      "processName": "pythonw",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 37,
+      "mouse": 9,
+      "date": "2024-06-14T12:38:24Z",
+      "windowTitle": "campaign.ts - master-assistant - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 31,
+      "mouse": 10,
+      "date": "2024-06-14T12:39:24Z",
+      "windowTitle": "gsheets.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-14T12:30:00Z"
+}

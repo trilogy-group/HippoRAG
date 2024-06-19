@@ -1,0 +1,406 @@
+{
+  "candidateId": 2368956,
+  "apps": [
+    "docs.google.com",
+    "meet.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-06T17:10:43Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, Widgets, Microsoft Edge, File Explorer, Microsoft Store, Mail, Calendar, Photos, Settings, and several other unidentified applications. Also includes system tray with network, sound, and battery status icons, as well as the date and time display '6/6/2024 5:10 PM'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Sent Mail - george.dita@trilogy.com - DevFactory Mail",
+                "url": "https://mail.google.com/mail/u/0/#sent",
+                "position": "right side of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and vertical scroll bar."
+                },
+                "content": [
+                  {
+                    "title": "Email Content",
+                    "layoutDescription": "Text-heavy email",
+                    "visibleText": "Case Study and Client Impact\n\nClient: XYZ Corporation\n\nChallenge: XYZ Corporation faced a significant challenge in scaling their operations efficiently. They needed a robust solution to manage their rapidly growing data and ensure seamless integration across their platforms.\n\nSolution: Our team developed a comprehensive data management system that not only streamlined their operations but also enhanced data security and integration capabilities. The system was designed to be scalable and adaptable to XYZ Corporation's growing needs.\n\nImpact: The implementation of our solution resulted in a 50% reduction in operational delays and a 35% increase in data processing speed. XYZ Corporation has since reported improved efficiency and a stronger competitive edge in their industry.\n\nTestimonials:\n\n\"The new system has significantly improved our operational efficiency and has been a game-changer for our business,\" says John Doe, CEO of XYZ Corporation.\n\n\"We are now able to handle more data with less effort and more accuracy,\" says Jane Smith, CTO of XYZ Corporation.\n\nFor more information, please contact:\n\nGeorge Dita\ngeorge.dita@trilogy.com\n\nThis email is intended for the recipient only and may contain confidential information. Any unauthorized use is strictly prohibited."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Teams",
+            "windows": [
+              {
+                "title": "Team Chat",
+                "position": "center of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "chat interface with message input box, send button, and attachments button."
+                },
+                "content": [
+                  {
+                    "title": "Chat with Thomas Bae",
+                    "layoutDescription": "Chat interface",
+                    "visibleText": "Thomas Bae\n\nYou: How are the updates coming along?\n\nThomas Bae: Just wrapped up the last feature, should be ready for testing soon.\n\nYou: Great, keep me posted!\n\nThomas Bae: Will do!"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Edge",
+            "windows": [
+              {
+                "title": "DevFactory Dashboard",
+                "url": "https://devfactory.com/dashboard",
+                "position": "left side of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "tabs, address bar, and vertical scroll bar."
+                },
+                "content": [
+                  {
+                    "title": "Dashboard Content",
+                    "layoutDescription": "Dashboard layout",
+                    "visibleText": "Alerts\n\nYou have successfully challenged 2 goals this week! Keep up the good work!\n\nTasks to Review\n\n16 Tasks\n23 Challenges\n\nPerformance\n\nYour score: 8\n\nGoals\n\n- Increase code quality\n- Reduce bug count\n- Improve documentation\n\nActivity Feed\n\n- You commented on the task 'Refactor Widget Class'\n- You completed the challenge 'Optimizing Database Queries'\n- You accepted the challenge 'Improving Client-Side Caching'"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-06T17:15:53Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Google Chrome, Microsoft Outlook, and other unidentified applications. Also includes a system clock showing '5:15 PM' and a system tray with network, sound, and battery status icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - vyd-yycg-qsd - Camera and microphone recording",
+                "position": "bottom right",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Video conference controls including microphone, camera, and chat icons"
+                },
+                "content": [
+                  {
+                    "title": "Video Conference",
+                    "layoutDescription": "Large video feed with smaller feeds",
+                    "visibleText": "TEXT TOO BLURRY"
+                  }
+                ]
+              },
+              {
+                "title": "Messenger - Nouman Shah",
+                "position": "top left",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Chat interface with search and settings icons"
+                },
+                "content": [
+                  {
+                    "title": "Chat",
+                    "layoutDescription": "List of messages with a search bar",
+                    "visibleText": "Nouman Shah: [Link to a Google document] Thanks for the comments. [Timestamp: June 6, 2:45 PM] [Message status: Seen] [Reply box with text: 'I'll look into it and let you know.']"
+                  }
+                ]
+              },
+              {
+                "title": "Successful Customers",
+                "position": "bottom left",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Text content and images"
+                },
+                "content": [
+                  {
+                    "title": "Web Page",
+                    "layoutDescription": "Text-heavy layout with images",
+                    "visibleText": "Successful Customers: Caption: 'Engineers finding great solutions daily.' Text: 'Captain Engineering has been pushing the boundaries... [Text continues]"
+                  }
+                ]
+              },
+              {
+                "title": "Intranet Dashboard",
+                "position": "top right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Dashboard interface with various widgets"
+                },
+                "content": [
+                  {
+                    "title": "Dashboard",
+                    "layoutDescription": "Charts and performance metrics",
+                    "visibleText": "Alerts: 'Your team's productivity has dropped in the past month.' Goals to Review: 16 overdue, 23 upcoming. Performance: 4 low, 8 medium, 1 high. [Text continues]"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-06T17:17:21Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Google Chrome, Microsoft Outlook, and other unidentified applications. Also includes a system clock showing '5:17 PM' and a system tray with network, sound, and battery status icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - vyd-yycg-qsd - Camera and microphone recording",
+                "url": "https://meet.google.com/vyd-yycg-qsd",
+                "position": "right",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Video conference window with participant thumbnails, mute, camera, and settings controls"
+                },
+                "content": [
+                  {
+                    "title": "Video Conference Participants",
+                    "layoutDescription": "Two visible participants",
+                    "visibleText": "Participant 1: Male with beard, wearing glasses, neutral expression. Participant 2: Male with dark hair, wearing headphones, slightly smiling."
+                  }
+                ]
+              },
+              {
+                "title": "Messenger - Nouman Shah",
+                "url": "https://www.messenger.com/t/10000556",
+                "position": "left",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Chat interface with contact list and conversation pane"
+                },
+                "content": [
+                  {
+                    "title": "Chat with Nouman Shah",
+                    "layoutDescription": "Chat window with messages",
+                    "visibleText": "Nouman Shah: [Link to a Google document] Thanks for the comments. [Timestamp: June 6, 2024, 5:15 PM] User: [Image of a thumbs up] [Timestamp: June 6, 2024, 5:16 PM] Nouman Shah: Are you positive that this will get you the job? It has a lot more details than your last? [Timestamp: June 6, 2024, 5:17 PM]"
+                  }
+                ]
+              },
+              {
+                "title": "Heroes - Home | Facebook",
+                "url": "https://www.facebook.com/heroes",
+                "position": "left",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Facebook page interface with posts, likes, and navigation bar"
+                },
+                "content": [
+                  {
+                    "title": "Facebook Page - Heroes",
+                    "layoutDescription": "Facebook page layout",
+                    "visibleText": "Heroes: What's new [Profile picture of page: Logo of Heroes] [Post: Image of three cartoon characters with a caption 'Join us!'] [Likes and comments visible below post]"
+                  }
+                ]
+              },
+              {
+                "title": "Intranet Dashboard",
+                "url": "https://intranet.company.com/dashboard",
+                "position": "right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Dashboard interface with alerts, goals, and performance metrics"
+                },
+                "content": [
+                  {
+                    "title": "Intranet Dashboard",
+                    "layoutDescription": "Dashboard layout",
+                    "visibleText": "Alerts: You have successfully published your challenges in the past 7 days. Your engagement level is higher than 68% of your peers. [Various performance metrics and goals listed]"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in a Google Docs document titled 'Interview Summary'. They are reading and possibly editing the document, which contains detailed sections on various topics such as 'Case Study and Client Impact', 'Challenge', 'Solution', and 'Impact'. The document also includes comments from team members, indicating collaborative work. The user is likely reviewing and incorporating feedback from colleagues.",
+    "The user is participating in a Google Meet video conference. The meeting interface shows multiple participants, and the user is actively engaged in the discussion. This suggests that the user is involved in a team meeting, possibly discussing project updates or planning tasks. The presence of video feeds and the active status of the meeting window indicate real-time communication and collaboration.",
+    "The user is also seen using Gmail, where they are composing an email. The email content is related to work, as indicated by the subject and recipients. The user is likely communicating with team members or stakeholders, providing updates, sharing information, or coordinating tasks. The presence of multiple emails in the inbox suggests ongoing communication and a busy workflow.",
+    "The user is engaged in a chat conversation on Google Chat with a colleague named Nouman Shah. The conversation includes sharing a link to a Google document and discussing its contents. This indicates that the user is collaborating with team members, seeking feedback, and discussing project-related matters. The chat interface shows active communication and real-time collaboration.",
+    "The user is viewing a dashboard on a web application. The dashboard includes various metrics, alerts, and performance goals. This suggests that the user is monitoring project progress, reviewing performance metrics, and possibly planning future tasks. The detailed information on the dashboard indicates a focus on project management and performance tracking."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in activities such as reading and editing documents, participating in video meetings, composing emails, and chatting with team members. The absence of AI chat interfaces or AI-generated content in the screenshots suggests that the user is not utilizing AI tools for their workflow during this period.",
+  "activities": [
+    "READING_SPEC",
+    "WRITING_SPEC",
+    "EMAIL",
+    "CHATTING_WITH_TEAM",
+    "MEETING"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-06T17:10:18Z",
+      "windowTitle": " Meaghan [AdvocateHub] - Interview Summary - Google Docs - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1G_vfq5h1k8_aiEvpjVNxEXQouopSIYXYvp691jUrxUY/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 33,
+      "mouse": 11,
+      "date": "2024-06-06T17:11:18Z",
+      "windowTitle": " Meet - vyd-yycg-qsd - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/vyd-yycg-qsd",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T17:12:18Z",
+      "windowTitle": " Meet - vyd-yycg-qsd - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/vyd-yycg-qsd",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T17:13:18Z",
+      "windowTitle": " Meet - vyd-yycg-qsd - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/vyd-yycg-qsd",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T17:14:18Z",
+      "windowTitle": " Meet - vyd-yycg-qsd - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/vyd-yycg-qsd",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T17:15:18Z",
+      "windowTitle": " Meet - vyd-yycg-qsd - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/vyd-yycg-qsd",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T17:16:18Z",
+      "windowTitle": " Meet - vyd-yycg-qsd - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/vyd-yycg-qsd",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T17:17:18Z",
+      "windowTitle": " Meet - vyd-yycg-qsd - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/vyd-yycg-qsd",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T17:18:18Z",
+      "windowTitle": " Meet - vyd-yycg-qsd - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/vyd-yycg-qsd",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T17:19:18Z",
+      "windowTitle": " Meet - vyd-yycg-qsd - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/vyd-yycg-qsd",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-06T17:10:00Z"
+}

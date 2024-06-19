@@ -1,0 +1,240 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "store.steampowered.com",
+    "mail.google.com",
+    "meet.google.com",
+    "steamwebhelper"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-11T19:16:18Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications including a web browser, file explorer, and Steam. Notifications area shows system clock, sound, network, and battery status icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Magic Academy",
+            "windows": [
+              {
+                "title": "Magic Academy - Running",
+                "position": "left side of the screen, large window",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Navigation bar with buttons for Store, Library, Community; user profile access; minimize, maximize, close buttons"
+                },
+                "content": [
+                  {
+                    "title": "Magic Academy - Running",
+                    "layoutDescription": "Main content area with game details",
+                    "visibleText": "Magic Academy\n\nSTORE PAGE\nCOMMUNITY HUB\nDISCUSSIONS\nGUIDES\nSUPPORT\n\nACTIVITY\nSay something about this game to your friends...\nThere's no recent activity from the developers of this title or from your friends.\n\nCOMMUNITY CONTENT\nNo additional content\n\nDownloads - 1 of 1 items Complete"
+                  }
+                ]
+              },
+              {
+                "title": "Magic Academy Playtest",
+                "position": "left side of the screen, below the main window",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Listed as an item in the library"
+                },
+                "content": [
+                  {
+                    "title": "Magic Academy Playtest",
+                    "layoutDescription": "Listed as a game in the library",
+                    "visibleText": "Magic Academy Playtest"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Video Call",
+            "windows": [
+              {
+                "title": "Isaac Squires",
+                "position": "right side of the screen, small window",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Video call interface with buttons for microphone, camera, and more options"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Isaac Squires",
+                      "expression": "focused"
+                    }
+                  ]
+                },
+                "content": [
+                  {
+                    "title": "Isaac Squires",
+                    "layoutDescription": "Video call window",
+                    "visibleText": "Isaac Squires"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is primarily engaged in gaming activities, as evidenced by the active window of 'Magic Academy' on Steam. The game is running, and the user is likely interacting with it, given the visible game details and navigation options such as Store, Library, Community, and user profile access. The user has also accessed the 'Magic Academy Playtest' listed in the library, although it is not the active window.",
+    "In addition to gaming, the user is participating in a video call. The video call window, titled 'Isaac Squires,' is positioned on the right side of the screen. The interface includes buttons for microphone, camera, and more options, indicating that the user is engaged in a conversation. The participant, Isaac Squires, appears focused, suggesting active involvement in the meeting.",
+    "The user has also visited several web links, including 'store.steampowered.com/app/2998980/Magic_Academy/' and 'mail.google.com/mail/u/0/#chat/dm/51KzrUAAAAE.' This indicates that the user is browsing the Steam store for the 'Magic Academy' game and possibly engaging in email or chat activities on Gmail. The presence of 'meet.google.com/pca-zhdh-phx' suggests that the user is also involved in a Google Meet session."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the user's workflow based on the provided screenshots and data. The activities are primarily focused on gaming, video conferencing, and browsing, with no visible interactions with AI tools for code suggestions, research, or debugging.",
+  "activities": [
+    "MEETING"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 2,
+      "mouse": 5,
+      "date": "2024-06-11T19:10:48Z",
+      "windowTitle": "Magic Academy on Steam - Google Chrome",
+      "processName": "store.steampowered.com",
+      "visitingUrl": "store.steampowered.com/app/2998980/Magic_Academy/",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 11,
+      "date": "2024-06-11T19:11:48Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/51KzrUAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 1,
+      "mouse": 13,
+      "date": "2024-06-11T19:12:48Z",
+      "windowTitle": "Meet - pca-zhdh-phx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/pca-zhdh-phx",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 8,
+      "date": "2024-06-11T19:13:47Z",
+      "windowTitle": "Meet - pca-zhdh-phx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/pca-zhdh-phx",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T19:14:47Z",
+      "windowTitle": "Meet - pca-zhdh-phx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/pca-zhdh-phx",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 7,
+      "mouse": 7,
+      "date": "2024-06-11T19:15:48Z",
+      "windowTitle": "Steam",
+      "processName": "steamwebhelper",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 14,
+      "date": "2024-06-11T19:16:48Z",
+      "windowTitle": "Meet - pca-zhdh-phx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/pca-zhdh-phx",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 73,
+      "mouse": 8,
+      "date": "2024-06-11T19:17:48Z",
+      "windowTitle": "Meet - pca-zhdh-phx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/pca-zhdh-phx",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 41,
+      "mouse": 8,
+      "date": "2024-06-11T19:18:48Z",
+      "windowTitle": "Meet - pca-zhdh-phx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/pca-zhdh-phx",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T19:19:48Z",
+      "windowTitle": "Meet - pca-zhdh-phx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/pca-zhdh-phx",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-11T19:10:00Z"
+}

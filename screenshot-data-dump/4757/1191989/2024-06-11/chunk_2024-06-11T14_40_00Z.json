@@ -1,0 +1,198 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "meet.google.com",
+    "CalculatorApp",
+    "gt.school - hc, work units - google sheets https:"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-11T14:41:03Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Core, SAT, GTS, WSF, Mag, N, Pending, Learn, Team, Learn, GTS, and more. Also includes system icons like Wi-Fi, battery, and clock.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - jmu-ybin-ufc - Google Chrome",
+                "url": "meet.google.com/jmu-ybin-ufc",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "UI includes back, forward, refresh buttons, address bar, profile icon, and minimize, maximize, close buttons."
+                },
+                "content": [
+                  {
+                    "title": "Phil Hewinson (Presenting)",
+                    "layoutDescription": "Video call window",
+                    "visibleText": "Phil Hewinson (Presenting)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Google Meet session, as indicated by the active window titled 'Meet - jmu-ybin-ufc - Google Chrome'. The meeting appears to be a video call with Phil Hewinson presenting. The content being shared is a Google Sheets document titled 'GT School Q3'24 Budget Details', which includes detailed budget plans and forecasts for various initiatives. The user is actively participating in the meeting, as evidenced by the presence of the video call interface and the shared screen content.",
+    "The user is also working with a Google Sheets document titled 'gt.school - HC, Work Units - Google Sheets'. This document contains detailed budget information, including columns for different initiatives, their respective budgets, and forecasts. The user is likely discussing or reviewing these details during the Google Meet session. The spreadsheet is well-organized, with various rows and columns filled with numerical data, indicating a thorough analysis of budgetary allocations and forecasts."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a Google Meet session and reviewing a Google Sheets document. No AI chat interfaces or AI-driven tools are visible in the screenshots.",
+  "activities": [
+    "MEETING",
+    "READING_SPEC"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 100,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-11T14:40:56Z",
+      "windowTitle": "Meet - jmu-ybin-ufc - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/jmu-ybin-ufc?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 1,
+      "mouse": 21,
+      "date": "2024-06-11T14:41:56Z",
+      "windowTitle": "Calculator",
+      "processName": "CalculatorApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 19,
+      "date": "2024-06-11T14:42:56Z",
+      "windowTitle": "Meet - jmu-ybin-ufc - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/jmu-ybin-ufc?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T14:43:56Z",
+      "windowTitle": "Meet - jmu-ybin-ufc - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/jmu-ybin-ufc?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T14:44:56Z",
+      "windowTitle": "Meet - jmu-ybin-ufc - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/jmu-ybin-ufc?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T14:45:56Z",
+      "windowTitle": "Meet - jmu-ybin-ufc - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/jmu-ybin-ufc?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 9,
+      "date": "2024-06-11T14:46:56Z",
+      "windowTitle": "Meet - jmu-ybin-ufc - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/jmu-ybin-ufc?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 9,
+      "date": "2024-06-11T14:47:56Z",
+      "windowTitle": "Meet - jmu-ybin-ufc - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/jmu-ybin-ufc?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T14:48:56Z",
+      "windowTitle": "Meet - jmu-ybin-ufc - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/jmu-ybin-ufc?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 2,
+      "mouse": 1,
+      "date": "2024-06-11T14:49:56Z",
+      "windowTitle": "New Tab - Google Chrome",
+      "processName": "gt.school - hc, work units - google sheets https:",
+      "visitingUrl": "gt.school - HC, Work Units - Google Sheets https://docs.google.com/spreadsheets/d/17JS7q3su2QGGUeISfZZSkFVPSOZJcoVH7gunQOMTSKU/edit#gid=352039417 location from history, press Tab then Enter to Remove Suggestion., 2 of 8",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-11T14:40:00Z"
+}

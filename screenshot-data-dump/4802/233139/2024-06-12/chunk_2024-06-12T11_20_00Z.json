@@ -1,0 +1,304 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "idea64",
+    "chrome",
+    "crossover.lightning.force.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T11:22:39Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Visual Studio Code, a folder, and other unidentified applications. Displays the date and time as '06/12/2024 13:52'. Language setting shown as ENG. Network status icon visible. Sound volume icon visible. Battery status icon visible, showing full charge.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Options for 'Open Connection', 'LinkedInSlots_ComputeCellMetricsBatch', 'Database.Batchable<sObject>', 'Schedulable', 'SourcingPlatformDetails', 'SourcingPlatform', 'generate-manifest.js', 'package.json', 'LinkedInSlots_ComputeMetrics' visible. Left sidebar with icons for Project, Search, Source Control, Run, Extensions. Bottom bar with options for Problems, Output, Debug Console, Terminal. Right sidebar with icons for Accounts, Notifications, Settings."
+                },
+                "content": [
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Text editor with multiple tabs",
+                    "visibleText": "public class LinkedInSlots_ComputeCellMetricsBatch implements Database.Batchable<sObject>, Schedulable {\n private final Coordinator coordinator;\n private final Set<String> sourcingPlatforms;\n private final DateTime minLastModified;\n private final DateTime maxLastModified;\n private Map<String, Set<Id>> processedCellIds;\n\n public LinkedInSlots_ComputeCellMetricsBatch(Coordinator coordinator, Set<String> sourcingPlatforms, DateTime minLastModified, DateTime maxLastModified) {\n this.coordinator = coordinator;\n this.sourcingPlatforms = sourcingPlatforms;\n this.minLastModified = minLastModified;\n this.maxLastModified = maxLastModified;\n this.processedCellIds = new HashMap<String, Set<Id>>();\n\n for (SourcingPlatformDetails platform : sourcingPlatforms) {\n processedCellIds.put(platform.recordTypeName, new Set<Id>());\n }\n\n public void execute(SchedulableContext sc) {\n // if execution time is not within the Scheduler without coordinator, run the batch for all sourcing platforms\n // set executeNext in coordinator to false to keep it as a standalone task.\n executeNext();\n\n new LinkedInSlots_ComputeCellMetricsBatch(\n sourcingPlatforms, Coordinator.TIME_IN_MIND, DateTime.now().addDays(-7),\n LinkedInSlots_ComputeCellMetricsBatch.BATCH_SIZE\n );\n }\n\n public Database.QueryLocator start(Database.BatchableContext bc) {\n return Database.queryLocator(\n 'SELECT Id, Name FROM SourcingPlatform WHERE LastModifiedDate >= :minLastModified AND LastModifiedDate <= :maxLastModified'\n );\n }\n }\n"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T11:25:08Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for various applications and system functions, including a start menu icon, search bar, pinned application icons, and system tray with clock and other notifications.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+                "position": "full screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar at the top with File, Edit, Selection, View, Go, Run, Terminal, Help menus. Left sidebar with Explorer, Search, Source Control, Run and Debug, Extensions icons. Bottom status bar showing branch name, problems count, and other status indicators."
+                },
+                "content": [
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Text editor with multiple tabs",
+                    "visibleText": "public LinkedSlots_ComputeCellMetricsBatch(LinkedSlots_B coordinator, List<SourcingPlatform> sourcingPlatforms, Date minLastModifiedDate) { this.coordinator = coordinator; this.sourcingPlatforms = sourcingPlatforms; this.minLastModifiedDate = minLastModifiedDate; // set minCreationDate to 13 weeks (91 days) before minLastModifiedDate this.minCreationDate = minLastModifiedDate.addDays(-91); for (SourcingPlatformDetails platform : sourcingPlatforms) { processChecklists.put(platform.recordTypeName, new Set<Id>()); } }"
+                  },
+                  {
+                    "title": "Terminal",
+                    "layoutDescription": "Command line interface at the bottom",
+                    "visibleText": "Anonymous Apex 12.apex"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Salesforce",
+            "windows": [
+              {
+                "title": "Log Analyzer",
+                "position": "bottom half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Tabs for Apex Code, Apex Profiling, Callout, Database, NBA, System, Validation, Visualforce, Wave, Workflow. Filter options for Status and Info."
+                },
+                "content": [
+                  {
+                    "title": "Log Entries",
+                    "layoutDescription": "List of log entries",
+                    "visibleText": "User: Isabelle Advivo, Application: Browser, Operation: /apex/dsccpops..., Time: 2024/06/11, Status: Success, Info: 2776 bytes"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T11:26:53Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and system tray with time, date, and network status",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "IntelliJ IDEA",
+            "windows": [
+              {
+                "title": "sfdx - feature/LAMBDA-76029-sfdx-fields",
+                "position": "full screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "menu bar with File, Edit, View, Navigate, Code, Analyze, Refactor, Build, Run, Tools, VCS, Window, Help. Sidebar with Project, Structure, Favorites, Find, Run, Todo, Database, Terminal, Event Log, and other tools. Bottom bar with Commit, Shelf, Changes, Agenda, Log Analyzer tabs"
+                },
+                "content": [
+                  {
+                    "title": "Project Explorer",
+                    "layoutDescription": "Sidebar on left",
+                    "visibleText": "Project\n- handlebars\n- IlluminatedCloud\n- jUnit\n- lib\n- lwc\n- manifest\n- mdapi\n- node_modules\n- packages\n- salesforce-action-caller\n- .gitignore\n- .prettierrc\n- generate-manifest.js\n- package.json"
+                  },
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Large central panel",
+                    "visibleText": "public class LinkedInSlots_ComputeCellMetricsBatch implements Database.Batchable<sObject>, Schedulable {\n\n public Database.QueryLocator start(Database.BatchableContext bc) {\n return Database.getQueryLocator(\n 'SELECT Id, Name FROM Campaign WHERE RecordTypeId = :Schema.SObjectType.Campaign.getRecordTypeInfosBy );\n }\n\n public void execute(Database.BatchableContext bc, List<Campaign> campaigns) {\n System.debug('ComputeCellMetricsBatch processing: ' + campaigns.size() + ' records.');\n if (campaigns.size() > 0) {\n System.debug('Nothing to process!');\n return;\n }\n DateTime referenceDateForPerformanceAnalysis = DateTime.now().addDays(\n -7 + (Integer)LinkedIn_Integration__c.getOrgDefaults() );\n List<Job_Board_Cell_Analytics__c> analytics = new List<Job_Board_Cell_Analytics__c>();\n for (Campaign campaign : campaigns) {\n Id cellId = campaign.Job_Board_Cell__c;\n String recordTypeName = campaign.RecordType.DeveloperName;\n SourcingPlatform__c platform = SourcingPlatformRepo.getPlatformByRecordTypeName( recentlyReported = platform.isRecentlyReported();\n }\n }\n\n public void finish(Database.BatchableContext bc) {\n // Implementation details not visible\n }\n\n // Additional methods and properties not visible\n}"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in writing and navigating code within the IntelliJ IDEA IDE. The primary focus is on the 'LinkedInSlots_ComputeCellMetricsBatch' class, which implements the 'Database.Batchable<sObject>' and 'Schedulable' interfaces. The user is working on methods such as 'start', 'execute', and 'finish', which are essential for batch processing and scheduling tasks. The code includes logic for querying databases, processing campaigns, and handling job board cell analytics. The user is also managing log entries and analyzing batch operations using the Log Analyzer tool within the Salesforce environment.",
+    "The user is also seen interacting with the Salesforce Log Analyzer, reviewing log entries related to various operations such as 'Batch Apex' and 'SerialBatchApex'. The logs show details about the execution status, size, and time of different operations. This indicates that the user is debugging and validating the performance of their batch processes. The user is also seen committing changes to the code repository, indicating active development and version control practices.",
+    "The user is utilizing Google Chrome to access Salesforce's 'AsyncApexJobs' setup page. This suggests that the user is managing asynchronous Apex jobs, which are crucial for handling long-running operations in Salesforce. The user is likely monitoring the status and performance of these jobs to ensure they are running efficiently and without errors. This activity complements the user's focus on batch processing and scheduling within the IntelliJ IDEA IDE."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in writing and navigating code, as well as reviewing logs and managing asynchronous jobs in Salesforce. No AI chat interfaces or AI-driven suggestions are visible in the screenshots, indicating that the user is not leveraging AI tools for their current tasks.",
+  "activities": [
+    "WRITING_CODE",
+    "NAVIGATING_CODE",
+    "REVIEWING_CODE"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "DB"
+  ],
+  "programmingLanguages": [
+    "JAVA",
+    "SALESFORCE"
+  ],
+  "toolTypes": [
+    "IDE",
+    "DEVELOPMENT_UTILITIES",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 18,
+      "mouse": 22,
+      "date": "2024-06-12T11:20:01Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 32,
+      "date": "2024-06-12T11:21:01Z",
+      "windowTitle": "Home | Salesforce - Google Chrome",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 6,
+      "mouse": 8,
+      "date": "2024-06-12T11:22:01Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 17,
+      "mouse": 22,
+      "date": "2024-06-12T11:23:01Z",
+      "windowTitle": "Lightning Experience - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/setup/AsyncApexJobs/home",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 26,
+      "mouse": 20,
+      "date": "2024-06-12T11:24:01Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 9,
+      "mouse": 18,
+      "date": "2024-06-12T11:25:01Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-12T11:26:01Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 5,
+      "mouse": 23,
+      "date": "2024-06-12T11:27:01Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 20,
+      "mouse": 31,
+      "date": "2024-06-12T11:28:01Z",
+      "windowTitle": "Lightning Experience - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/setup/AsyncApexJobs/home",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 4,
+      "mouse": 2,
+      "date": "2024-06-12T11:29:01Z",
+      "windowTitle": "Home | Salesforce - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/setup/AsyncApexJobs/home",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-12T11:20:00Z"
+}

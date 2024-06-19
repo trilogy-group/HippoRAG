@@ -1,0 +1,203 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "docs.google.com",
+    "meet.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-11T13:47:36Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, widgets, and pinned applications including Edge, Chrome, and File Explorer. System tray with notifications, sound, network, and clock displaying '7:47 AM, 11 Jun 2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Meet - sjt-mpfd-bwj - Google Chrome",
+                "url": "https://meet.google.com/sjt-mpfd-bwj",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Tabs, address bar, navigation buttons, Google account avatar, minimize, maximize, close buttons"
+                },
+                "content": [
+                  {
+                    "title": "Google Meet Video Conference",
+                    "layoutDescription": "Grid layout of video feeds",
+                    "visibleText": "Simon Said, Samy Aboel-Nil, Bogdan Tenea, Serban Petrescu, Dmitry Bakaev, Phil Hewinson, Isaac Squires, read.ai meeting notes"
+                  },
+                  {
+                    "title": "In-call messages",
+                    "layoutDescription": "Sidebar with chat messages",
+                    "visibleText": "Messages are being recorded with the call\n\nBogdan Tenea 7:34 AM\nThis was David's comment -\nhttps://docs.google.com/document/d/1O2pt-1M0gN\nBogdan Tenea 7:36 AM\nGT XO HC sheet:\nhttps://docs.google.com/spreadsheets/d/1V"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is participating in a Google Meet video conference. The meeting includes multiple participants: Simon Said, Samy Aboel-Nil, Bogdan Tenea, Serban Petrescu, Dmitry Bakaev, Phil Hewinson, and Isaac Squires. The meeting is titled 'Samy - Office Hours - OPTIONAL' and is scheduled for 7:47 AM on June 11, 2024. The user is actively engaged in the meeting, as indicated by the presence of video feeds and in-call messages.",
+    "During the meeting, Bogdan Tenea shares a link to a Google Document with the comment 'This was David's comment'. The document URL is 'https://docs.google.com/document/d/1Q2pt-1MOgN3vud2ysyMeZWbzAOO6SMZh9piQZRWfPMk/edit?disco=AAABPvuEuys'. Additionally, Bogdan shares a link to a Google Sheet titled 'GT XO HC sheet' with the URL 'https://docs.google.com/spreadsheets/d/1VY2ZHbs9Y6jD5je1gHCOS_MWRcC0X-7C81DixO6g0/edit#gid=1504714360'. These links are shared in the in-call messages sidebar.",
+    "The user is using Google Chrome as their web browser, with the Google Meet tab active. The browser's taskbar shows various icons, including those for the Start menu, search, task view, widgets, and pinned applications like Edge, Chrome, and File Explorer. The system tray displays notifications, sound, network, and the clock showing '7:47 AM, 11 Jun 2024'. The browser window includes tabs, an address bar, navigation buttons, and the user's Google account avatar."
+  ],
+  "aiUseSummary": "",
+  "activities": [
+    "MEETING",
+    "READING_SPEC"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 100,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-11T13:40:56Z",
+      "windowTitle": "WS Engineering - Q3'24 Budget Plan - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1Q2pt-1MOgN3vud2ysyMeZWbzAOO6SMZh9piQZRWfPMk/edit?disco=AAABPvuEuys",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 5,
+      "date": "2024-06-11T13:41:56Z",
+      "windowTitle": "Meet - sjt-mpfd-bwj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/sjt-mpfd-bwj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T13:42:56Z",
+      "windowTitle": "Meet - sjt-mpfd-bwj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/sjt-mpfd-bwj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T13:43:56Z",
+      "windowTitle": "Meet - sjt-mpfd-bwj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/sjt-mpfd-bwj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T13:44:56Z",
+      "windowTitle": "Meet - sjt-mpfd-bwj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/sjt-mpfd-bwj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T13:45:56Z",
+      "windowTitle": "Meet - sjt-mpfd-bwj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/sjt-mpfd-bwj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T13:46:56Z",
+      "windowTitle": "Meet - sjt-mpfd-bwj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/sjt-mpfd-bwj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T13:47:56Z",
+      "windowTitle": "Meet - sjt-mpfd-bwj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/sjt-mpfd-bwj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T13:48:56Z",
+      "windowTitle": "Meet - sjt-mpfd-bwj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/sjt-mpfd-bwj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 57,
+      "mouse": 5,
+      "date": "2024-06-11T13:49:56Z",
+      "windowTitle": "Meet - sjt-mpfd-bwj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/sjt-mpfd-bwj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-11T13:40:00Z"
+}

@@ -1,0 +1,501 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "Notepad"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T16:31:47Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Notepad, and other unidentified applications. System clock shows '7:31 PM'. Date '6/5/2024' is visible. Language set to 'ENG'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Factory status May 2024 (TPM/Eng) - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Toolbar with File, Edit, View, Insert, Format, Tools, Extensions, Help. Toolbar with undo, redo, print, spelling and grammar check, zoom settings, styles, and formatting options."
+                },
+                "content": [
+                  {
+                    "title": "Factory status May 2024 (TPM/Eng)",
+                    "layoutDescription": "Text document",
+                    "visibleText": "TPM only slots (1 slot)\nDeliver AI-Digestible 1 edtech compliant Educational data model, including 1edtech 2nd brain and internal Data Model mappings\n- We completed the LMS design and the AI Layer architecture. This concludes the specs and requirements phase.\n- Work started on building a POC that demonstrates the agent-based architecture that can be scaled.\n\nApplied AI (1 slot)\nCommit: Increase Mini Spec delivery by 10%\nON TRACK\nAchieved:\n- Delivered a WorkBench proof of concept (POC) with some initial agents built in\n- Made all AI functions/utilities exposed to WorkBench as well\n- Delivered 3 initial new agents focusing on feature work as opposed to fixes\n- Set up a portfolio showcasing AI tools, functions, and agents to make them more accessible\n- Developed a strategy for creating product-specific \"second brains\" to supercharge our AI contextual knowledge\nChallenges:\n- Integrating the \"second brain\" context packs into our existing AI tools and demonstrating the impact\nNext Steps:\n- Implement the \"second brain\" approach on a legacy codebase to refine data harvesting, rationalization techniques\n- Integrate the resulting context pack with WorkBench agents and utilities to showcase the understanding and performance\n- Quantify the improvement in Mini Spec delivery enabled by the context-enhanced AI tools\n- Scale the \"second brain\" methodology to additional codebases, including actions and productivity gains\n- Continuously refine and update the \"second brains\" to capture evolving product knowledge\n\nOverall Reflection\nOur pursuit of the elusive \"Killer AI app\" has converged on a powerful approach: creating product-specific \"brains\" to imbue our AI agents with deep contextual knowledge. By harvesting insights from codebases into context packs, we can significantly enhance the understanding and decision-making capabilities of our existing tools.\n\nThis \"second brain\" methodology represents a major breakthrough in our Applied AI efforts. It directly addresses the key challenge of providing AI with the rich, relevant context needed to deliver accurate and actionable insights. By focusing on legacy codebases first, we can refine our techniques and demonstrate the tangible impact of our delivery."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Zoom",
+            "windows": [
+              {
+                "title": "Zoom Meeting",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Conference window with participant grid and meeting controls."
+                },
+                "content": [
+                  {
+                    "title": "Zoom Meeting",
+                    "layoutDescription": "Video conference",
+                    "visibleText": "Meeting duration displayed as 00:30:32. Participants visible in the grid include Kathy Slowinski, Dragan Nuta, Jamie Sidley, Josef Capovics, Leonhard Holz, Colin Guilfoyle, Eric Vaughan, Jeff Moyer, Andy Price, Sammy Aboel-Nil, arthurmichel, Brandon Pizzazella."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Notepad",
+            "windows": [
+              {
+                "title": "how is the slot going what g",
+                "position": "bottom right of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Editor window with menu options File, Edit, View, and Help."
+                },
+                "content": [
+                  {
+                    "title": "how is the slot going what g",
+                    "layoutDescription": "Text document",
+                    "visibleText": "how is the slot going? what grade would CEOs give us for the work done on the slot?\nJigsaw - good, C\nJive Security - good, B (Spring must work)\nGIF - good, B\nJiveCloud - good, B\nInfluitive - B\nCrossfy - B\nStrativor - B\nTelco - A"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Other unidentified applications",
+            "windows": []
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T16:33:31Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Notepad, Zoom, and system icons like Wi-Fi, sound, battery, and clock",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Factory status May 2024 (TPM/Eng) - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help; Toolbar with undo, redo, print, spelling and grammar check, zoom settings, styles, and formatting options"
+                },
+                "content": [
+                  {
+                    "title": "Factory status May 2024 (TPM/Eng)",
+                    "layoutDescription": "Document layout with headings and bullet points",
+                    "visibleText": "TPM only slots (1 slot)\nDeliver AI-Digestible 1edtech compliant Educational data model, including 1edtech 2nd brain and internal Data Model mappings\n- We completed the LMS design and the AI Layer architecture. This concludes the specs and the required documentation.\n- Work started on building a POC that demonstrates the agent-based architecture that can be scaled.\n\nApplied AI (1 slot)\nCommit: Increase Mini Spec delivery by 10%\nON TRACK\nAchieved:\n- Delivered a WorkBench proof of concept (POC) with some initial agents built in\n- Made all AI functions/utilities exposed to WorkBench as well\n- Delivered 3 initial new agents focusing on feature work as opposed to fixes\n- Set up a prioritization schema, AI tools, functions, and agents to make them more accessible\n- Developed a strategy for creating product-specific \"second brains\" to supercharge our AI contextual knowledge\nChallenges:\n- Integrating the \"second brain\" context packs into our existing AI tools and demonstrating the impact\nNext Steps:\n- Implement the \"second brain\" approach on a legacy codebase to refine data harvesting, rationalization techniques\n- Integrate the resulting context pack with WorkBench agents and utilities to showcase their understanding and performance\n- Quantify the improvement in Mini Spec delivery enabled by the context-enhanced AI tools\n- Scale the \"second brain\" methodology to a broader codebases, including acquired adoptions\n- Continuously refine and update the \"second brains\" to capture evolving product knowledge and productivity gains\nOverall Reflection:\nOur pursuit of the elusive \"Killer AI app\" has converged on a powerful approach: creating product-specific \"brains\" to imbue our AI agents with deep contextual knowledge. By harvesting insights from codebases, we can significantly enhance the understanding and decision-making capabilities of our existing tools.\nThis \"second brain\" methodology represents a major breakthrough in our Applied AI efforts. It directly tackles the key challenge of providing AI with the rich, relevant context needed to deliver accurate and actionable intelligence. By focusing on legacy codebases first, we can refine our techniques and demonstrate the tangible impact of our delivery."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Zoom",
+            "windows": [
+              {
+                "title": "Zoom Meeting",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Video conference interface with participant grid, controls for microphone, camera, participants list, chat, share screen, record, and more"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "John Slowinski",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "Drago Nuța",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "Jamie Sidley",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "Josef Čapovics",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "Leonha Hölk",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "Colin Guilfoyle",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "Eric Vaughan",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "Jeff Moyer",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "Andy Price",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "Sammy Aboel-Nil",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "Arthur Michel",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "Brandon Pizzacalla",
+                      "expression": "Neutral"
+                    }
+                  ]
+                },
+                "content": [
+                  {
+                    "title": "Zoom Meeting",
+                    "layoutDescription": "Video call layout with multiple participant windows",
+                    "visibleText": "Zoom Meeting\n00:32:16"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Notepad",
+            "windows": [
+              {
+                "title": "how is the slot going what grade wo - Notepad",
+                "position": "foreground over other windows",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, Format, View, Help; Text area"
+                },
+                "content": [
+                  {
+                    "title": "how is the slot going what grade wo",
+                    "layoutDescription": "Text editor with simple layout",
+                    "visibleText": "how is the slot going what grade would EGOs give us for the work done on the slot?\nJigsaw - good, C\nJive Security - good, B (Spring must work)\nGIF - good, B\nJiveCloud - good, B\nInfluitive - B\nCrossfy - B\nStrativor - B\nTelco - A"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "System",
+            "windows": []
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T16:36:54Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Notepad, Zoom, and other unidentified applications. System clock shows '7:36 PM'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Factory status May 2024 (TPM/Eng)",
+                "url": "https://docs.google.com/document",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Toolbar with buttons for Google account, Google apps, notifications, and document settings. Document toolbar with options for File, Edit, View, Insert, Format, Tools, Extensions, Help."
+                },
+                "content": [
+                  {
+                    "title": "Factory status May 2024 (TPM/Eng)",
+                    "layoutDescription": "Document open in editing mode",
+                    "visibleText": "Applied AI (1 slot)\n\nCommit: Increase Mini Spec delivery by 10%\nON TRACK\n\nStretch: Increase Mini Spec delivery by 50%\nON TRACK\n\nAchieved:\n- Delivered a WorkBench proof of concept (POC) with some initial agents built in\n- Made all AI functions/utilities exposed to WorkBench as well\n- Delivered 3 initial new agents focusing on feature works as opposed to fixes\n- Set up a portal showcasing AI tools, functions, and agents to make them more accessible\n- Developed a strategy for creating product-specific \"second brains\" to supercharge our AI\n\nChallenges:\n- Integrating the \"second brain\" context packs into our existing AI tools and demonstrating speedier delivery\n\nNext Steps:\n- Implement the \"second brain\" approach on a legacy codebase to refine data harvesting, rationalization techniques\n- Integrate the resulting context pack with WorkBench agents and utilities to showcase the understanding and performance\n- Quantify the improvement in Mini Spec delivery enabled by the context-enhanced AI tools\n- Scale the \"second brain\" methodology to additional codebases, including acquired product lines\n- Continuously refine and update the \"second brains\" to capture evolving product knowledge\n\nOverall Reflection:\nOur pursuit of the elusive \"Killer AI app\" has converged on a powerful approach: creating product \"brains\" to imbue our AI agents with deep contextual knowledge. By harvesting insights from codebases, we can significantly enhance the understanding and decision-making capabilities of our existing tools.\n\nThis \"second brain\" methodology represents a major breakthrough in our Applied AI efforts. It directly addresses the key challenge of providing AI with the rich, relevant context needed to deliver accurate and actionable insights. As we scale this approach to more products, including acquired codebases, we anticipate a transformation in development productivity. Developers and TPMs equipped with context-enhanced AI tools will be able to make better decisions, write higher-quality code, and navigate complex codebases with unprecedented ease.\n\nWhile there are challenges ahead in fully realizing this vision, the path is clear. By systematically integrating \"second brains\" and deeply integrating them into our AI ecosystem, we have the opportunity to advance goals in Mini Spec delivery and set a new standard for AI-assisted development."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Zoom",
+            "windows": [
+              {
+                "title": "Zoom Meeting",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Meeting controls including microphone, camera, participants list, and more"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Mark Slowinski",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Drago Nuta",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Jamie Sidley",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "DR Čapovics",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Leonha Holzk",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Colin Guiltyfole",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Eric Vaughan",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Jeff Moyer",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Andy Price",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Sammy Abeel",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Arthurmic Pizzacalla",
+                      "expression": "neutral"
+                    }
+                  ]
+                },
+                "content": [
+                  {
+                    "title": "Zoom Meeting",
+                    "layoutDescription": "Video conference layout",
+                    "visibleText": "Zoom meeting interface showing multiple participants in a grid layout. Each participant is displayed in their own frame with their name labeled at the bottom. The meeting timer at the top right corner shows '00:35:39'."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Notepad",
+            "windows": [
+              {
+                "title": "how is the slot going what grade would CEOs give us for the work done on the slot?",
+                "position": "foreground, overlapping both Chrome and Zoom windows",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu with options for File, Edit, View"
+                },
+                "content": [
+                  {
+                    "title": "how is the slot going what grade would CEOs give us for the work done on the slot?",
+                    "layoutDescription": "Text editor window",
+                    "visibleText": "how is the slot going what grade would CEOs give us for the work done on the slot?\n\nJigsaw - good, C\nJive Security - good, B (Spring must work)\nJive Cloud - good, B\nGFI - good, B\nStratifive - B\nIntuitify - B\nCrossover - B\nTelco - moved to PlanAT, BSS Magic"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively participating in a Zoom meeting, as evidenced by the screenshots showing the Zoom interface with multiple participants. The meeting has been ongoing for over 30 minutes, and the user is likely discussing project updates or collaborating with team members. The presence of a Google Docs document titled 'Factory status May 2024 (TPM/Eng)' suggests that the meeting may involve reviewing or discussing the contents of this document.",
+    "The user is also engaged in reading and possibly editing a Google Docs document titled 'Factory status May 2024 (TPM/Eng)'. The document contains detailed information about various project slots, including 'TPM only slots' and 'Applied AI'. The user is reviewing the achievements, challenges, and next steps for these slots, indicating a focus on project management and progress tracking.",
+    "In addition to the Zoom meeting and Google Docs activity, the user is using Notepad to take notes or draft a report. The Notepad window contains text related to evaluating the performance of different project slots, with grades assigned to each slot. This suggests that the user is preparing a performance review or summary report based on the project status and discussions from the meeting."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a Zoom meeting, reviewing a Google Docs document, and taking notes in Notepad. No AI chat interfaces or AI-generated content are visible in the screenshots.",
+  "activities": [
+    "READING_SPEC",
+    "MEETING",
+    "WRITING_SPEC"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "UI"
+  ],
+  "programmingLanguages": [
+    "OTHER"
+  ],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 6,
+      "mouse": 0,
+      "date": "2024-06-05T16:30:55Z",
+      "windowTitle": "*how is the slot going what grade wo - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T16:31:55Z",
+      "windowTitle": "*how is the slot going what grade wo - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 90,
+      "mouse": 1,
+      "date": "2024-06-05T16:32:55Z",
+      "windowTitle": "*how is the slot going what grade wo - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 1,
+      "mouse": 5,
+      "date": "2024-06-05T16:33:55Z",
+      "windowTitle": "*how is the slot going what grade wo - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 3,
+      "mouse": 2,
+      "date": "2024-06-05T16:34:55Z",
+      "windowTitle": "*how is the slot going what grade wo - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 3,
+      "mouse": 13,
+      "date": "2024-06-05T16:35:55Z",
+      "windowTitle": "*how is the slot going what grade wo - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 51,
+      "mouse": 3,
+      "date": "2024-06-05T16:36:55Z",
+      "windowTitle": "*how is the slot going what grade wo - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 80,
+      "mouse": 4,
+      "date": "2024-06-05T16:37:55Z",
+      "windowTitle": "*how is the slot going what grade wo - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 94,
+      "mouse": 0,
+      "date": "2024-06-05T16:38:55Z",
+      "windowTitle": "*how is the slot going what grade wo - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 3,
+      "mouse": 1,
+      "date": "2024-06-05T16:39:55Z",
+      "windowTitle": "*how is the slot going what grade wo - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T16:30:00Z"
+}

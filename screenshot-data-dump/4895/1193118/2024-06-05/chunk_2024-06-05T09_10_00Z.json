@@ -1,0 +1,496 @@
+{
+  "candidateId": 2368956,
+  "apps": [
+    "dev.postbeyonddev.com",
+    "docs.google.com",
+    "WorkSmart"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T09:11:20Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Photos, Messages, Maps, Contacts, Reminders, Notes, TV, Music, Podcasts, News, System Preferences, Adobe Creative Cloud, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Other Applications Folder, Trash. Docked at the bottom of the screen.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "My Feed – PostBeyond",
+                "url": "https://app.postbeyond.com/feed",
+                "position": "top half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, and extensions"
+                },
+                "content": [
+                  {
+                    "title": "My Feed",
+                    "layoutDescription": "Main content area",
+                    "visibleText": "Latest\n- A1: An Introduction to Cloud Computing\n- A2: The Future of Quantum Computing\n- A3: The Role of AI in Modern Healthcare\nMedium posts\n- A1: An Introduction to Cloud Computing\n- A2: The Future of Quantum Computing\n- A3: The Role of AI in Modern Healthcare\na1 edited topic"
+                  }
+                ]
+              },
+              {
+                "title": "Marketing Email",
+                "url": "https://app.postbeyond.com/marketing",
+                "position": "bottom half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, and extensions"
+                },
+                "content": [
+                  {
+                    "title": "Marketing Email",
+                    "layoutDescription": "Email campaign management",
+                    "visibleText": "Some elements need editing modified to be seen as MailChimp elements.\nEmails\n- Template A: Welcome Email - Sent 5\n- Template B: Product Update - Sent 7\n- Template C: Holiday Sale - Sent 10\n- Template D: Customer Survey - Sent 3\n- Template E: Event Invitation - Sent 8\n- Template F: General News - Sent 9\n- Template G: Special Offers - Sent 4\n- Template H: Company News - Sent 6\n- Template I: New Product Launch - Sent 11\n- Template J: Customer Appreciation - Sent 2"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Gmail",
+            "windows": [
+              {
+                "title": "Gmail",
+                "position": "left half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, and extensions"
+                },
+                "content": [
+                  {
+                    "title": "Gmail",
+                    "layoutDescription": "inbox",
+                    "visibleText": "Inbox\n- Subject: Welcome to Google Workspace\n- Subject: Your Google Workspace account is now active\n- Subject: Tips for getting started with Google Workspace\n- Subject: Explore your new Google Workspace features\n- Subject: Get the most out of Google Workspace\n- Subject: Your first week with Google Workspace\n- Subject: Discover more Google Workspace tools\n- Subject: Maximize your Google Workspace usage\n- Subject: Google Workspace tips and tricks\n- Subject: Advanced Google Workspace features"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Finder",
+            "windows": [
+              {
+                "title": "Finder",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "file management tools and options"
+                },
+                "content": [
+                  {
+                    "title": "Finder",
+                    "layoutDescription": "file management",
+                    "visibleText": "TEXT TOO BLURRY"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "System Preferences",
+            "windows": [
+              {
+                "title": "System Preferences",
+                "position": "hidden",
+                "isActive": false,
+                "uiElements": {
+                  "details": "system settings and options"
+                },
+                "content": [
+                  {
+                    "title": "System Preferences",
+                    "layoutDescription": "System settings",
+                    "visibleText": "TEXT TOO BLURRY"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Other Applications",
+            "windows": [
+              {
+                "title": "Other Applications",
+                "position": "hidden",
+                "isActive": false,
+                "uiElements": {
+                  "details": "various applications"
+                },
+                "content": [
+                  {
+                    "title": "Other Applications",
+                    "layoutDescription": "various applications",
+                    "visibleText": "TEXT TOO BLURRY"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Trash",
+            "windows": [
+              {
+                "title": "Trash",
+                "position": "hidden",
+                "isActive": false,
+                "uiElements": {
+                  "details": "deleted items"
+                },
+                "content": [
+                  {
+                    "title": "Trash",
+                    "layoutDescription": "deleted items",
+                    "visibleText": "TEXT TOO BLURRY"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Adobe Creative Cloud",
+            "windows": [
+              {
+                "title": "Adobe Creative Cloud",
+                "position": "hidden",
+                "isActive": false,
+                "uiElements": {
+                  "details": "creative tools and options"
+                },
+                "content": [
+                  {
+                    "title": "Adobe Creative Cloud",
+                    "layoutDescription": "creative tools",
+                    "visibleText": "TEXT TOO BLURRY"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Office",
+            "windows": [
+              {
+                "title": "Microsoft Word",
+                "position": "hidden",
+                "isActive": false,
+                "uiElements": {
+                  "details": "word processing tools and options"
+                },
+                "content": [
+                  {
+                    "title": "Microsoft Word",
+                    "layoutDescription": "word processing",
+                    "visibleText": "TEXT TOO BLURRY"
+                  }
+                ]
+              },
+              {
+                "title": "Microsoft Excel",
+                "position": "hidden",
+                "isActive": false,
+                "uiElements": {
+                  "details": "spreadsheet tools and options"
+                },
+                "content": [
+                  {
+                    "title": "Microsoft Excel",
+                    "layoutDescription": "spreadsheet management",
+                    "visibleText": "TEXT TOO BLURRY"
+                  }
+                ]
+              },
+              {
+                "title": "Microsoft PowerPoint",
+                "position": "hidden",
+                "isActive": false,
+                "uiElements": {
+                  "details": "presentation tools and options"
+                },
+                "content": [
+                  {
+                    "title": "Microsoft PowerPoint",
+                    "layoutDescription": "presentation management",
+                    "visibleText": "TEXT TOO BLURRY"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T09:15:37Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Google Chrome, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Outlook, and other unidentified applications. Also includes system status icons like Wi-Fi, battery, clock (showing 09:15 AM), and Spotlight search.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Job Posted: Influitive Challenge Creation Consultancy - george.dita@trilogy.com - DevFactory Mail - Google Chrome",
+                "url": "https://mail.google.com/mail/u/0/#",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and vertical scroll bar."
+                },
+                "content": [
+                  {
+                    "title": "Email Content",
+                    "layoutDescription": "Email displayed in center",
+                    "visibleText": "Hi George,\n\nYou posted the job Influitive Challenge Creation Consultancy on Upwork.\n\nThanks,\nThe Upwork Team"
+                  },
+                  {
+                    "title": "Email Subject",
+                    "layoutDescription": "Subject line at top",
+                    "visibleText": "Job Posted: Influitive Challenge Creation Consultancy"
+                  }
+                ]
+              },
+              {
+                "title": "Marketing Email",
+                "url": "https://mail.google.com/mail/u/0/#",
+                "position": "maximized",
+                "isActive": false,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and vertical scroll bar."
+                },
+                "content": [
+                  {
+                    "title": "Marketing Email Content",
+                    "layoutDescription": "Email list displayed",
+                    "visibleText": "Some elements needed with mailing modified to be seen as MailChimp elements.\n\nEmails list:\n- Influitive - Activation & Onboard\n- Influitive - Activation & Challenge Creation Project\n- Influitive - Activation & Challenge Creation Project 2\n- Influitive - Activation & Challenge Creation Project 3\n- Influitive - Activation & Challenge Creation Project 4\n- Influitive - Activation & Challenge Creation Project 5\n- Influitive - Activation & Challenge Creation Project 6\n- Influitive - Activation & Challenge Creation Project 7\n- Influitive - Activation & Challenge Creation Project 8\n- Influitive - Activation & Challenge Creation Project 9\n- Influitive - Activation & Challenge Creation Project 10\n- Influitive - Activation & Challenge Creation Project 11\n- Influitive - Activation & Challenge Creation Project 12\n- Influitive - Activation & Challenge Creation Project 13\n- Influitive - Activation & Challenge Creation Project 14\n- Influitive - Activation & Challenge Creation Project 15\n- Influitive - Activation & Challenge Creation Project 16\n- Influitive - Activation & Challenge Creation Project 17\n- Influitive - Activation & Challenge Creation Project 18\n- Influitive - Activation & Challenge Creation Project 19\n- Influitive - Activation & Challenge Creation Project 20\n- Influitive - Activation & Challenge Creation Project 21\n- Influitive - Activation & Challenge Creation Project 22\n- Influitive - Activation & Challenge Creation Project 23\n- Influitive - Activation & Challenge Creation Project 24\n- Influitive - Activation & Challenge Creation Project 25\n- Influitive - Activation & Challenge Creation Project 26\n- Influitive - Activation & Challenge Creation Project 27\n- Influitive - Activation & Challenge Creation Project 28\n- Influitive - Activation & Challenge Creation Project 29\n- Influitive - Activation & Challenge Creation Project 30\n- Influitive - Activation & Challenge Creation Project 31\n- Influitive - Activation & Challenge Creation Project 32\n- Influitive - Activation & Challenge Creation Project 33\n- Influitive - Activation & Challenge Creation Project 34\n- Influitive - Activation & Challenge Creation Project 35\n- Influitive - Activation & Challenge Creation Project 36\n- Influitive - Activation & Challenge Creation Project 37\n- Influitive - Activation & Challenge Creation Project 38\n- Influitive - Activation & Challenge Creation Project 39\n- Influitive - Activation & Challenge Creation Project 40\n- Influitive - Activation & Challenge Creation Project 41\n- Influitive - Activation & Challenge Creation Project 42\n- Influitive - Activation & Challenge Creation Project 43\n- Influitive - Activation & Challenge Creation Project 44\n- Influitive - Activation & Challenge Creation Project 45\n- Influitive - Activation & Challenge Creation Project 46\n- Influitive - Activation & Challenge Creation Project 47\n- Influitive - Activation & Challenge Creation Project 48\n- Influitive - Activation & Challenge Creation Project 49\n- Influitive - Activation & Challenge Creation Project 50\n- Influitive - Activation & Challenge Creation Project 51\n- Influitive - Activation & Challenge Creation Project 52\n- Influitive - Activation & Challenge Creation Project 53\n- Influitive - Activation & Challenge Creation Project 54\n- Influitive - Activation & Challenge Creation Project 55\n- Influitive - Activation & Challenge Creation Project 56\n- Influitive - Activation & Challenge Creation Project 57\n- Influitive - Activation & Challenge Creation Project 58\n- Influitive - Activation & Challenge Creation Project 59\n- Influitive - Activation & Challenge Creation Project 60\n- Influitive - Activation & Challenge Creation Project 61\n- Influitive - Activation & Challenge Creation Project 62\n- Influitive - Activation & Challenge Creation Project 63\n- Influitive - Activation & Challenge Creation Project 64\n- Influitive - Activation & Challenge Creation Project 65\n- Influitive - Activation & Challenge Creation Project 66\n- Influitive - Activation & Challenge Creation Project 67\n- Influitive - Activation & Challenge Creation Project 68\n- Influitive - Activation & Challenge Creation Project 69\n- Influitive - Activation & Challenge Creation Project 70\n- Influitive - Activation & Challenge Creation Project 71\n- Influitive - Activation & Challenge Creation Project 72\n- Influitive - Activation & Challenge Creation Project 73\n- Influitive - Activation & Challenge Creation Project 74\n- Influitive - Activation & Challenge Creation Project 75\n- Influitive - Activation & Challenge Creation Project 76\n- Influitive - Activation & Challenge Creation Project 77\n- Influitive - Activation & Challenge Creation Project 78\n- Influitive - Activation & Challenge Creation Project 79\n- Influitive - Activation & Challenge Creation Project 80\n- Influitive - Activation & Challenge Creation Project 81\n- Influitive - Activation & Challenge Creation Project 82\n- Influitive - Activation & Challenge Creation Project 83\n- Influitive - Activation & Challenge Creation Project 84\n- Influitive - Activation & Challenge Creation Project 85\n- Influitive - Activation & Challenge Creation Project 86\n- Influitive - Activation & Challenge Creation Project 87\n- Influitive - Activation & Challenge Creation Project 88\n- Influitive - Activation & Challenge Creation Project 89\n- Influitive - Activation & Challenge Creation Project 90\n- Influitive - Activation & Challenge Creation Project 91\n- Influitive - Activation & Challenge Creation Project 92\n- Influitive - Activation & Challenge Creation Project 93\n- Influitive - Activation & Challenge Creation Project 94\n- Influitive - Activation & Challenge Creation Project 95\n- Influitive - Activation & Challenge Creation Project 96\n- Influitive - Activation & Challenge Creation Project 97\n- Influitive - Activation & Challenge Creation Project 98\n- Influitive - Activation & Challenge Creation Project 99\n- Influitive - Activation & Challenge Creation Project 100\n- Influitive - Activation & Challenge Creation Project 101\n- Influitive - Activation & Challenge Creation Project 102\n- Influitive - Activation & Challenge Creation Project 103\n- Influitive - Activation & Challenge Creation Project 104\n- Influitive - Activation & Challenge Creation Project 105\n- Influitive - Activation & Challenge Creation Project 106\n- Influitive - Activation & Challenge Creation Project 107\n- Influitive - Activation & Challenge Creation Project 108\n- Influitive - Activation & Challenge Creation Project 109\n- Influitive - Activation & Challenge Creation Project 110\n- Influitive - Activation & Challenge Creation Project 111\n- Influitive - Activation & Challenge Creation Project 112\n- Influitive - Activation & Challenge Creation Project 113\n- Influitive - Activation & Challenge Creation Project 114\n- Influitive - Activation & Challenge Creation Project 115\n- Influitive - Activation & Challenge Creation Project 116\n- Influitive - Activation & Challenge Creation Project 117\n- Influitive - Activation & Challenge Creation Project 118\n- Influitive - Activation & Challenge Creation Project 119\n- Influitive - Activation & Challenge Creation Project 120\n- Influitive - Activation & Challenge Creation Project 121\n- Influitive - Activation & Challenge Creation Project 122\n- Influitive - Activation & Challenge Creation Project 123\n- Influitive - Activation & Challenge Creation Project 124\n- Influitive - Activation & Challenge Creation Project 125\n- Influitive - Activation & Challenge Creation Project 126\n- Influitive - Activation & Challenge Creation Project 127\n- Influitive - Activation & Challenge Creation Project 128\n- Influitive - Activation & Challenge Creation Project 129\n- Influitive - Activation & Challenge Creation Project 130\n- Influitive - Activation & Challenge Creation Project 131\n- Influitive - Activation & Challenge Creation Project 132\n- Influitive - Activation & Challenge Creation Project 133\n- Influitive - Activation & Challenge Creation Project 134\n- Influitive - Activation & Challenge Creation Project 135\n- Influitive - Activation & Challenge Creation Project 136\n- Influitive - Activation & Challenge Creation Project 137\n- Influitive - Activation & Challenge Creation Project 138\n- Influitive - Activation & Challenge Creation Project 139\n- Influitive - Activation & Challenge Creation Project 140\n- Influitive - Activation & Challenge Creation Project 141\n- Influitive - Activation & Challenge Creation Project 142\n- Influitive - Activation & Challenge Creation Project 143\n- Influitive - Activation & Challenge Creation Project 144\n- Influitive - Activation & Challenge Creation Project 145\n- Influitive - Activation & Challenge Creation Project 146\n- Influitive - Activation & Challenge Creation Project 147\n- Influitive - Activation & Challenge Creation Project 148\n- Influitive - Activation & Challenge Creation Project 149\n- Influitive - Activation & Challenge Creation Project 150\n- Influitive - Activation & Challenge Creation Project 151\n- Influitive - Activation & Challenge Creation Project 152\n- Influitive - Activation & Challenge Creation Project 153\n- Influitive - Activation & Challenge Creation Project 154\n- Influitive - Activation & Challenge Creation Project 155\n- Influitive - Activation & Challenge Creation Project 156\n- Influitive - Activation & Challenge Creation Project 157\n- Influitive - Activation & Challenge Creation Project 158\n- Influitive - Activation & Challenge Creation Project 159\n- Influitive - Activation & Challenge Creation Project 160\n- Influitive - Activation & Challenge Creation Project 161\n- Influitive - Activation & Challenge Creation Project 162\n- Influitive - Activation & Challenge Creation Project 163\n- Influitive - Activation & Challenge Creation Project 164\n- Influitive - Activation & Challenge Creation Project 165\n- Influitive - Activation & Challenge Creation Project 166\n- Influitive - Activation & Challenge Creation Project 167\n- Influitive - Activation & Challenge Creation Project 168\n- Influitive - Activation & Challenge Creation Project 169\n- Influitive - Activation & Challenge Creation Project 170\n- Influitive - Activation & Challenge Creation Project 171\n- Influitive - Activation & Challenge Creation Project 172\n- Influitive - Activation & Challenge Creation Project 173\n- Influitive - Activation & Challenge Creation Project 174\n- Influitive - Activation & Challenge Creation Project 175\n- Influitive - Activation & Challenge Creation Project 176\n- Influitive - Activation & Challenge Creation Project 177\n- Influitive - Activation & Challenge Creation Project 178\n- Influitive - Activation & Challenge Creation Project 179\n- Influitive - Activation & Challenge Creation Project 180\n- Influitive - Activation & Challenge Creation Project 181\n- Influitive - Activation & Challenge Creation Project 182\n- Influitive - Activation & Challenge Creation Project 183\n- Influitive - Activation & Challenge Creation Project 184\n- Influitive - Activation & Challenge Creation Project 185\n- Influitive - Activation & Challenge Creation Project 186\n- Influitive - Activation & Challenge Creation Project 187\n- Influitive - Activation & Challenge Creation Project 188\n- Influitive - Activation & Challenge Creation Project 189\n- Influitive - Activation & Challenge Creation Project 190\n- Influitive - Activation & Challenge Creation Project 191\n- Influitive - Activation & Challenge Creation Project 192\n- Influitive - Activation & Challenge Creation Project 193\n- Influitive - Activation & Challenge Creation Project 194\n- Influitive - Activation & Challenge Creation Project 195\n- Influitive - Activation & Challenge Creation Project 196\n- Influitive - Activation & Challenge Creation Project 197\n- Influitive - Activation & Challenge Creation Project 198\n- Influitive - Activation & Challenge Creation Project 199\n- Influitive - Activation & Challenge Creation Project 200"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T09:19:42Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Time Machine, and Trash. Also includes a system clock showing the time '9:19 AM' and a Spotlight search icon.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "PB AI Content Generation - Use Cases - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tools (File, Edit, View, Insert, Format, Tools, Extensions, Help), Share button, Comments button, Document status ('Saving...'), Zoom level (100%), Document navigation (scroll bar)"
+                },
+                "content": [
+                  {
+                    "title": "Document Content",
+                    "layoutDescription": "Text document layout",
+                    "visibleText": "Finding New Uses for Advanced Materials: From cutting-edge textiles with Enhanced Durability to Revolutionary Biomedical Applications\n\nSummary\n\nWith every New Age of [...] challenges that lie ahead of us.\n\nConclusion\n\nThe revolutionary new producting material PB-11 can reshape our industries and is a key to our future."
+                  }
+                ]
+              },
+              {
+                "title": "Marketing Email",
+                "url": "https://mail.google.com/mail/u/0/#i",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "tools (Compose, Inbox, Starred, Snoozed, Sent Mail, Drafts, More), Search bar, Settings gear icon, Help icon, Google account avatar"
+                },
+                "content": [
+                  {
+                    "title": "Email Content",
+                    "layoutDescription": "Email client layout",
+                    "visibleText": "Some elements needed with editing modified to be sent from a Mailchimp database\n\nEmails:\n\n- Alyssa - Welcome & Onboard [...] - Inspiration from British Courts: Immigration Announcement\n\nOpen Rate: 5.5%"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in managing email campaigns on the PostBeyond platform. The screenshots show the user interacting with the 'Marketing Email' section, where they are reviewing various email templates and their performance metrics. The visible text includes details about different email campaigns, such as 'Template A: Welcome Email - Sent 5' and 'Template B: Product Update - Sent 7'. This indicates that the user is likely involved in email marketing activities, possibly analyzing the effectiveness of different email templates.",
+    "The user is also working on Google Docs, as evidenced by the screenshots showing a document titled 'PB AI Content Generation - Use Cases'. The document contains detailed text about various use cases for advanced materials, including sections like 'Summary' and 'Conclusion'. The user appears to be editing or reviewing this document, as the visible text includes structured content and headings. This suggests that the user is involved in content creation or documentation tasks.",
+    "Additionally, the user is seen checking their Gmail inbox. The screenshots show the user reading an email with the subject 'Job Posted: Influitive Challenge Creation Consultancy'. The email content indicates that the user has posted a job on Upwork, suggesting involvement in project management or recruitment activities. The Gmail interface shows multiple emails, indicating that the user is managing their communications and possibly coordinating with team members or external partners.",
+    "The user is also seen interacting with another Google Docs document titled 'Prod-Mkt Specs - JugarPostBeyond - QA AI tests feature for content creation'. This document appears to be a product specification or a test plan, as it includes detailed tables and comments from multiple collaborators. The user is likely involved in reviewing or updating this document, which indicates tasks related to product development or quality assurance."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in email management, document editing, and content review activities without any visible interaction with AI tools or assistants.",
+  "activities": [
+    "READING_SPEC",
+    "WRITING_SPEC",
+    "EMAIL"
+  ],
+  "workTypes": [
+    "UI"
+  ],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_SPEC",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T09:10:20Z",
+      "windowTitle": " My Feed ï¿½ PostBeyond - Google Chrome\n",
+      "processName": "dev.postbeyonddev.com",
+      "visitingUrl": "https://dev.postbeyonddev.com/element/",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-05T09:11:20Z",
+      "windowTitle": " My Feed ï¿½ PostBeyond - Google Chrome\n",
+      "processName": "dev.postbeyonddev.com",
+      "visitingUrl": "https://dev.postbeyonddev.com/element/",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 70,
+      "mouse": 24,
+      "date": "2024-06-05T09:12:20Z",
+      "windowTitle": " PB AI Content Generation - Use Cases - Google Docs - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1s51PFYvgal07WOwLysRxjvhn-qaFISXJIyzHVL8wEEQ/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 13,
+      "mouse": 21,
+      "date": "2024-06-05T09:13:20Z",
+      "windowTitle": " My Feed ï¿½ PostBeyond - Google Chrome\n",
+      "processName": "dev.postbeyonddev.com",
+      "visitingUrl": "https://dev.postbeyonddev.com/element/",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 18,
+      "mouse": 11,
+      "date": "2024-06-05T09:14:20Z",
+      "windowTitle": " PB AI Content Generation - Use Cases - Google Docs - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1s51PFYvgal07WOwLysRxjvhn-qaFISXJIyzHVL8wEEQ/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-05T09:15:20Z",
+      "windowTitle": " WorkSmart\n",
+      "processName": "WorkSmart",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 10,
+      "date": "2024-06-05T09:16:20Z",
+      "windowTitle": " Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T09:17:20Z",
+      "windowTitle": " Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 6,
+      "date": "2024-06-05T09:18:20Z",
+      "windowTitle": " PB AI Content Generation - Use Cases - Google Docs - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1s51PFYvgal07WOwLysRxjvhn-qaFISXJIyzHVL8wEEQ/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 4,
+      "date": "2024-06-05T09:19:20Z",
+      "windowTitle": " PB AI Content Generation - Use Cases - Google Docs - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1s51PFYvgal07WOwLysRxjvhn-qaFISXJIyzHVL8wEEQ/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T09:10:00Z"
+}

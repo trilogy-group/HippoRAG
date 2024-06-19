@@ -1,0 +1,198 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "mail.google.com",
+    "notion.so",
+    "docs.github.com",
+    "google.com",
+    "docs.mathjax.org"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-11T02:47:36Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Widgets, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. Also includes system tray with notifications, sound, network, and battery status icons, as well as the date and time display.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "MathJax Accessibility Extensions Documentation | MathJax-a11y",
+                "url": "https://mathjax.github.io/MathJax-a11y/",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "UI includes back, forward, refresh, home buttons, address bar, bookmarks bar, tabs, and various extension icons including a pending notification on one of the extensions."
+                },
+                "content": [
+                  {
+                    "title": "MathJax Accessibility Extensions Documentation",
+                    "layoutDescription": "Text content in list format",
+                    "visibleText": "If the Explorer Extension is active, you will see a submenu structure exposing all its options:\n\n- Active (toggle)\n- (separator)\n- Walker (submenu of radio buttons)\n - No Walker\n - Syntax Walker (default)\n - Semantic Walker\n- Highlight (submenu of radio buttons)\n - None (default)\n - hover\n - flame\n- Background (submenu of radio..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in research activities, as evidenced by the screenshot showing the MathJax Accessibility Extensions Documentation page. The user is exploring various options and settings related to MathJax extensions, such as the Explorer Extension, Walker submenu, Highlight submenu, Background submenu, and Foreground submenu. This indicates that the user is likely trying to understand how to configure and use these extensions effectively.",
+    "The user is also seen navigating through different sections of the MathJax documentation, which suggests a thorough investigation into the capabilities and configurations of MathJax. The detailed list format of the documentation page indicates that the user is focusing on understanding the specific functionalities and settings available within MathJax, possibly to implement or troubleshoot these features in their own projects."
+  ],
+  "aiUseSummary": "",
+  "activities": [
+    "RESEARCH"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "RESEARCH",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T02:40:14Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/iXTDrUAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T02:41:14Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/iXTDrUAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T02:42:14Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/iXTDrUAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T02:43:14Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/iXTDrUAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T02:44:14Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/iXTDrUAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 10,
+      "mouse": 6,
+      "date": "2024-06-11T02:45:14Z",
+      "windowTitle": "(9+) Standardizing Content Generation - Google Chrome",
+      "processName": "notion.so",
+      "visitingUrl": "notion.so/trilogy-enterprises/Standardizing-Content-Generation-5067d264ec4648af86c139725e9e907a",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 36,
+      "mouse": 7,
+      "date": "2024-06-11T02:46:14Z",
+      "windowTitle": "Writing mathematical expressions - GitHub Docs - Google Chrome",
+      "processName": "docs.github.com",
+      "visitingUrl": "docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 41,
+      "mouse": 18,
+      "date": "2024-06-11T02:47:14Z",
+      "windowTitle": "Writing mathematical expressions - GitHub Docs - Google Chrome",
+      "processName": "docs.github.com",
+      "visitingUrl": "docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 27,
+      "mouse": 13,
+      "date": "2024-06-11T02:48:14Z",
+      "windowTitle": "mathjax latex extensions - Google Search - Google Chrome",
+      "processName": "google.com",
+      "visitingUrl": "google.com/search?q=mathjax+latex+extensions&oq=mathjax+latex+extensions&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yDQgCEAAYhgMYgAQYigUyDQgDEAAYhgMYgAQYigUyDQgEEAAYhgMYgAQYigUyDQgFEAAYhgMYgAQYigUyCggGEAAYgAQYogQyCggHEAAYgAQYogTSAQgyOTkxajBqN6gCALACAA&sou",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-11T02:49:14Z",
+      "windowTitle": "TeX and LaTeX extensions ? MathJax 3.2 documentation - Google Chrome",
+      "processName": "docs.mathjax.org",
+      "visitingUrl": "docs.mathjax.org/en/latest/input/tex/extensions.html",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-11T02:40:00Z"
+}

@@ -1,0 +1,327 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "idea64",
+    "crossover.lightning.force.com",
+    "chrome",
+    "EXCEL",
+    "workbench.developerforce.com",
+    "crossover--fullshared.sandbox.lightning.force.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T13:32:30Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Visual Studio Code, Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. Also includes system status icons for network, sound, notifications, and clock displaying '15:32 08/12/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "sfdx \\ feature/LAMBDA-76029-sfdx-bigfields \\ LinkedInSlots_ComputeCellMetricsBatch",
+                "position": "full screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs for 'Project', 'Source Control', 'Run and Debug', 'Extensions', 'SQL Tools', and 'Agenda'. Also includes a bottom status bar showing Git branch, problems count, and a feedback icon."
+                },
+                "content": [
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Text editor with multiple tabs",
+                    "visibleText": "public class LinkedInSlots_ComputeCellMetricsBatch extends LinkedInSlots_BatchCoordinator {\n List<SourcingPlatformDetails> sourcingPlatforms;\n Date minLastModifiedDate;\n Date maxLastModifiedDate;\n\n public LinkedInSlots_ComputeCellMetricsBatch(LinkedInSlots_BatchCoordinator coordinator, Date minLastModifiedDate, Date maxLastModifiedDate) {\n this.coordinator = coordinator;\n this.sourcingPlatforms = sourcingPlatforms;\n this.minLastModifiedDate = minLastModifiedDate;\n this.maxLastModifiedDate = maxLastModifiedDate;\n\n if (sourcingPlatforms == null || sourcingPlatforms.size() == 0) {\n throw new InvalidParameterException('sourcingPlatforms', 'Should have at least one element');\n }\n\n processedCells = new Map<String, Set<Id>>();\n this.sourcingPlatforms = sourcingPlatforms;\n this.coordinator = coordinator;\n this.minLastModifiedDate = minLastModifiedDate;\n this.maxLastModifiedDate = maxLastModifiedDate;\n this.minCreationDate = minLastModifiedDate.addDays(-1);\n this.maxCreationDate = maxLastModifiedDate.addDays(-2);\n\n for (SourcingPlatformDetails platform : sourcingPlatforms) {\n processedCells.put(platform.recordTypeName, new Set<Id>());\n }\n"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "SQL Tools",
+            "windows": [
+              {
+                "title": "MS SQL Query 16.sql",
+                "position": "bottom half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "tabs for multiple SQL queries labeled from 'SQL Query 1' to 'SQL Query 16'"
+                },
+                "content": [
+                  {
+                    "title": "SQL Query Editor",
+                    "layoutDescription": "SQL query editor with execution status",
+                    "visibleText": "SELECT Id, MinRank, Ck FROM Job_Board_Cert_Analytics__c WHERE Sourcing_Platform__c = 'LinkedIn' ORDER BY LastModifiedDate DESC LIMIT 1\n\nExecuting: SELECT Id, MinRank, Ck FROM Job_Board_Cert_Analytics__c WHERE Sourcing_Platform__c = 'LinkedIn' ORDER BY LastModifiedDate DESC LIMIT 1"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T13:33:34Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Visual Studio Code, Google Chrome, File Explorer, Microsoft Edge, and other unidentified applications. Also includes system status icons like network, sound, and time display.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "sfdx \\ feature/LAMBDA-76029-sfdx-fields \\ SalesforcePlatformRepo",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs for Project, Search, Source Control, Run and Debug, Extensions, and more. Sidebar with file explorer visible."
+                },
+                "content": [
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Main editor area with multiple tabs open",
+                    "visibleText": "public class LinkedInSlots_ComputeCellMetricsBatch extends LinkedInSlots_BatchCoordinator {\n List<SourcingPlatformDetails> sourcingPlatforms;\n Date minLastModifiedDate;\n Date maxLastModifiedDate;\n\n public LinkedInSlots_ComputeCellMetricsBatch(LinkedInSlots_BatchCoordinator coordinator, List<SourcingPlatformDetails> sourcingPlatforms, Date minLastModifiedDate, Date maxLastModifiedDate) {\n this.coordinator = coordinator;\n this.sourcingPlatforms = sourcingPlatforms;\n this.minLastModifiedDate = minLastModifiedDate;\n this.maxLastModifiedDate = maxLastModifiedDate;\n\n if (sourcingPlatforms == null || sourcingPlatforms.size() == 0) {\n throw new IllegalArgumentException('SourcingPlatforms', 'Should has at least one element');\n }\n\n processedCellsIds = new HashMap<String, Set<Id>>();\n this.sourcingPlatforms = sourcingPlatforms;\n this.coordinator = coordinator;\n this.minLastModifiedDate = minLastModifiedDate;\n this.maxLastModifiedDate = maxLastModifiedDate;\n this.minCreationDate = minLastModifiedDate.addDays(-1);\n this.maxCreationDate = maxLastModifiedDate.addDays(-2);\n\n for (SourcingPlatformDetails platform : sourcingPlatforms) {\n processedCellsIds.put(platform.recordTypeName, new Set<Id>());\n }\n }"
+                  },
+                  {
+                    "title": "Terminal",
+                    "layoutDescription": "Lower section of the screen",
+                    "visibleText": "Executing:\nSELECT Id, MinRank__c FROM Job_Board_Cert_Analytics__c WHERE SourcingPlatform__c = 'LinkedIn' ORDER BY LastModifiedDate DESC LIMIT 1\n\norg.apache.cxf.binding.soap.SaajOutInterceptor QUERY_TIMEOUT: Your query request was running for too long."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "SOQL Query 1",
+                "position": "tab within Visual Studio Code",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Tab within Visual Studio Code"
+                },
+                "content": [
+                  {
+                    "title": "SOQL Query",
+                    "layoutDescription": "SQL query editor tab",
+                    "visibleText": "SELECT Id, MinRank__c FROM Job_Board_Cert_Analytics__c WHERE SourcingPlatform__c = 'LinkedIn' ORDER BY LastModifiedDate DESC LIMIT 1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "File Explorer",
+            "windows": []
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T13:38:23Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Google Chrome, File Explorer, Adobe Reader, Microsoft Excel, Microsoft Word, Outlook, and other unidentified applications. System tray includes network status, sound volume, date and time display, and other system icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Home | Salesforce - Google Chrome",
+                "url": "https://crossover.lightning.force.com",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Address bar, bookmarks bar, tabs bar, Salesforce setup menu on the left, main content area displaying Apex Jobs"
+                },
+                "content": [
+                  {
+                    "title": "Apex Jobs",
+                    "layoutDescription": "Table layout with multiple columns",
+                    "visibleText": "Apex Jobs\nMonitor the status of all Apex jobs, and optionally, abort jobs that are in progress.\nPercent of Asynchronous Apex Used: 23.84%\nYou have currently used 99.29% asynchronous Apex operations out of an allowed 24-hour organization limit of 250,000. To learn about how this limit is calculated and what contributes to it, see the Lightning Platform Apex Limits topic.\nView: (Active Processing)\nSorted By: Last Run Time\nAction Date Time User Status Total Batches Batches Processed Failures Status Detail Completion Date Apex Job ID\n12/06/2024 13:26 Mankuzy, Anton Completed 1,089 1,089 0 7 First Error: Too many SOQL queries: 201 12/06/2024 13:32 7079H00000K4uV5\n12/06/2024 13:26 Mankuzy, Anton Completed 17 17 0 17 First Error: Too many SOQL queries: 201 12/06/2024 13:32 7079H00000K4uV5\n... (continues with similar entries for different users and statuses)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in writing and navigating code within Visual Studio Code. They are working on a class named 'LinkedInSlots_ComputeCellMetricsBatch' which extends 'LinkedInSlots_BatchCoordinator'. The code involves handling sourcing platforms and managing date ranges for processing cells. The user is also executing SQL queries to fetch data from the 'Job_Board_Cert_Analytics__c' table, filtering by the 'Sourcing_Platform__c' field with a value of 'LinkedIn'. The SQL query execution is visible in the terminal section of the IDE.",
+    "The user is also interacting with Salesforce through Google Chrome. They are monitoring the status of Apex jobs, which includes viewing a detailed table of job statuses, completion dates, and errors. The user is likely troubleshooting or verifying the execution of these jobs, as indicated by the detailed view of job statuses and errors such as 'Too many SOQL queries'. This activity suggests a focus on backend operations and data management within the Salesforce platform.",
+    "In addition to coding and database querying, the user is managing their development environment efficiently. They have multiple tabs open in Visual Studio Code, including project files, source control, and SQL tools. This indicates a well-organized workflow where the user can quickly switch between different aspects of their development tasks. The presence of a terminal executing SQL queries further supports the user's focus on integrating code with database operations."
+  ],
+  "aiUseSummary": "There is no visible evidence of AI tools being used in the provided screenshots. The user is primarily engaged in writing and navigating code, executing SQL queries, and monitoring Apex jobs in Salesforce. No AI chat interfaces or AI-generated suggestions are visible in the IDE or other applications. Therefore, it can be concluded that the user is not utilizing AI tools in their workflow during the captured timeframe.",
+  "activities": [
+    "WRITING_CODE",
+    "NAVIGATING_CODE",
+    "RESEARCH"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "DB"
+  ],
+  "programmingLanguages": [
+    "JAVA",
+    "SQL",
+    "SALESFORCE"
+  ],
+  "toolTypes": [
+    "IDE",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T13:30:02Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 8,
+      "mouse": 14,
+      "date": "2024-06-12T13:31:02Z",
+      "windowTitle": "IJ-5260-PK-Jammu-FullstackDevel | Job Board Cell Analytics | Salesforce - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/r/Job_Board_Cell_Analytics__c/a1M2j000005uoXMEAY/view",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 11,
+      "mouse": 13,
+      "date": "2024-06-12T13:32:02Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T13:33:02Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 2,
+      "mouse": 3,
+      "date": "2024-06-12T13:34:01Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 17,
+      "mouse": 15,
+      "date": "2024-06-12T13:35:01Z",
+      "windowTitle": "Workbench: Async SOQL Query - Google Chrome",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 11,
+      "mouse": 19,
+      "date": "2024-06-12T13:36:01Z",
+      "windowTitle": "bulkQuery_result_750F3000009ZSGwIAO_751F300000A10cqIAB_752F3000005EbjQ.csv - Excel (Product Activation Failed)",
+      "processName": "EXCEL",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 4,
+      "mouse": 54,
+      "date": "2024-06-12T13:37:01Z",
+      "windowTitle": "Workbench: SOQL Query - Google Chrome",
+      "processName": "workbench.developerforce.com",
+      "visitingUrl": "workbench.developerforce.com/query.php",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 21,
+      "mouse": 17,
+      "date": "2024-06-12T13:38:01Z",
+      "windowTitle": "Job Board Cell Analytics | Salesforce - Google Chrome",
+      "processName": "crossover--fullshared.sandbox.lightning.force.com",
+      "visitingUrl": "crossover--fullshared.sandbox.lightning.force.com/lightning/setup/ObjectManager/01I2j000000L2v1/FieldsAndRelationships/00N2j000000ulEF/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 18,
+      "date": "2024-06-12T13:39:01Z",
+      "windowTitle": "Job Board Cell Analytics | Salesforce - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/setup/ObjectManager/01I2j000000L2v1/FieldsAndRelationships/00N2j000000ulEF/view",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-12T13:30:00Z"
+}

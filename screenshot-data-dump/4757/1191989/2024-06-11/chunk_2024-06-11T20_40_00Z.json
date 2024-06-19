@@ -1,0 +1,197 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "docs.google.com",
+    "mail.google.com",
+    "Zoom"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-11T20:47:06Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Minimize, Core, Pending, Google Chrome, and other unidentified applications. Also displays the system clock showing '14:47' and the date '11 Jun 2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Simon Said messaged you - Chat - Google Chrome",
+                "url": "mail.google.com/mail/u/0/#chat/spa",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, profile icon, and other browser controls visible."
+                },
+                "content": [
+                  {
+                    "title": "Gmail Chat",
+                    "layoutDescription": "Chat interface with messages and sidebar",
+                    "visibleText": "Phil, Bogdan, Simon, Shawn\n5 members\nrelevant AI tool usage (if it's not negligible compared to the rest of the content we aim to produce)\nI don't see the additional initiatives added in the first tab of the details doc\nthe FY'24 tab\nBogdan Tenea 10 min\nRavi needs to change some underlying sheets for that to work, as they're protected and I don't have access to them\nWill be done tomorrow morning\nok\nbtw, I don't think we were over on our marketing spend\nI think that marketing spend includes spend from some of the teams (like 2hr learning)\nOur budget was $318k and our spend was $200k\nwe will probably spend $60k-$80k in June, but still be under budget\nNiraj will follow up on the comment thread related to that\nThread in: Samy's VPs Gen AI Ad...\nMarcelo: Any issues, let me know.\nHistory is on"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in a chat conversation on Gmail with team members Phil, Bogdan, Simon, and Shawn. The discussion revolves around AI tool usage and marketing spend. Bogdan mentions that Ravi needs to change some underlying sheets as they are protected, and he does not have access to them. The user acknowledges this and discusses the marketing spend, noting that their budget was $318k and their spend was $200k. They also mention that they will probably spend $60k-$80k in June but will still be under budget. Niraj will follow up on the comment thread related to this.",
+    "The user is using Google Chrome as their primary web browser. The browser window is open to a Gmail chat interface, indicating that the user is focused on team communication. The chat interface shows a sidebar with options for Mail, Chat, and Meet, and the user is currently in the Chat section. The conversation is about AI tool usage and marketing spend, with specific mentions of budget figures and team responsibilities. The user is actively participating in the discussion, providing updates and acknowledging messages from team members."
+  ],
+  "aiUseSummary": "There is no evidence of AI tool usage in the provided screenshots. The user is engaged in a chat conversation with team members on Gmail, discussing AI tool usage and marketing spend. However, there are no interactions with AI tools visible in the screenshots.",
+  "activities": [
+    "EMAIL",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "CHATTING_WITH_TEAM",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 15,
+      "date": "2024-06-11T20:40:48Z",
+      "windowTitle": "Upwork Spend Q2 GT Report - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1cNA2aPISSI-wjWFZJ2uYBqoVizSSz8oqNLrvINwjEiI/edit#gid=355690038",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 190,
+      "mouse": 10,
+      "date": "2024-06-11T20:41:48Z",
+      "windowTitle": "LearnWith.AI - 2024 Financial Forecast - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1fvBwe58Kbb7AZsgbYCmizxF4xB2qcRG904Jj48shFF8/edit#gid=1092897194",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 171,
+      "mouse": 5,
+      "date": "2024-06-11T20:42:48Z",
+      "windowTitle": "Simon Said messaged you - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 14,
+      "date": "2024-06-11T20:43:49Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 5,
+      "date": "2024-06-11T20:44:49Z",
+      "windowTitle": "GT School Q3'24 Budget Details - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/19t2L4FosU9WLYwDFYdDf6EbfMwMUkto9JOJdjZXw57U/edit#gid=658915472",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 14,
+      "date": "2024-06-11T20:45:48Z",
+      "windowTitle": "GT School Q3'24 Budget Details - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/19t2L4FosU9WLYwDFYdDf6EbfMwMUkto9JOJdjZXw57U/edit#gid=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 4,
+      "date": "2024-06-11T20:46:48Z",
+      "windowTitle": "GT School - Budget P&L - Q3'24 - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1VYZ2Hbs9Y6Dj691ej3HCOS_MWRcRC0X-7C81DixO6Qo/edit#gid=1828010646&range=T:W",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 3,
+      "mouse": 26,
+      "date": "2024-06-11T20:47:48Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-11T20:48:48Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 11,
+      "mouse": 16,
+      "date": "2024-06-11T20:49:48Z",
+      "windowTitle": "Q2 Ad Spend - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1riziHnUbq3LzjFfda2B02qE7dqKBYwIiYaqcKFJyB24/edit?pli=1#gid=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-11T20:40:00Z"
+}

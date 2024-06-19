@@ -1,0 +1,418 @@
+{
+  "candidateId": 2368956,
+  "apps": [
+    "meet.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T15:22:52Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Excel, Microsoft Word, File Explorer, and other unidentified applications. Also includes the system clock showing '3:22 PM' and system date '6/5/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - qtv-ugaf-ywq - Camera and microphone recording",
+                "url": "https://meet.google.com/qtv-ugaf-ywq",
+                "position": "right",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Video conference window with multiple participant thumbnails, main video, chat sidebar, and control buttons including microphone, camera, captions, and leave call."
+                },
+                "content": [
+                  {
+                    "title": "Video Conference Participants",
+                    "layoutDescription": "Grid layout",
+                    "visibleText": "Participants visible in the video conference include: - John Doe (smiling) - Jane Smith (neutral expression) - Robert Brown (speaking) - Emily White (listening) - Michael Green (partially visible)"
+                  }
+                ]
+              },
+              {
+                "title": "Customer Insights Summary - Google Sheets",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "left",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Spreadsheet with multiple columns and rows, color-coded cells, and scroll bars."
+                },
+                "content": [
+                  {
+                    "title": "Customer Insights Summary",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "Customer Name, AM, Customer Complaint, Account Manager Response, Email, Notes - Building Inc., John Doe, '2022/07/23: High cost', 'Discussed options', 'john.doe@buildinginc.com', 'Follow-up scheduled for 08/05' - Software Tech, Jane Smith, '2022/08/01: System crash', 'Reboot suggested', 'jane.smith@softwaretech.com', 'Awaiting response' - Health Plus, Robert Brown, '2022/08/15: Delay in service', 'Apology issued', 'robert.brown@healthplus.com', 'Compensation approved'"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Word",
+            "windows": [
+              {
+                "title": "Weekly Progress Report - TPS-104",
+                "position": "top right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Document with text, bullet points, and a table."
+                },
+                "content": [
+                  {
+                    "title": "Weekly Progress Report - TPS-104",
+                    "layoutDescription": "Document layout",
+                    "visibleText": "Week of: 6/1/2024 - 6/7/2024 - Tasks Completed: 1. Coordination of project timelines with team leads. 2. Review of budget allocations for Q3. 3. Preparation of presentation for upcoming stakeholder meeting. - Issues: 1. Delay in procurement of hardware components. 2. Miscommunication with the software development team. 3. Unexpected staff turnover in the marketing department. - Next Steps: 1. Reschedule meeting with hardware suppliers. 2. Conduct a follow-up session with the software team. 3. Plan recruitment strategies to address staff shortages."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Excel",
+            "windows": [
+              {
+                "title": "Excel - Sales Data",
+                "position": "minimized",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Minimized window, not visible."
+                },
+                "content": [
+                  {
+                    "title": "Excel - Sales...",
+                    "layoutDescription": "Not visible",
+                    "visibleText": "TEXT TOO BLURRY"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "File Explorer",
+            "windows": []
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T15:26:11Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Excel, Microsoft Word, File Explorer, Microsoft Teams, and other unidentified applications. Also includes system clock showing '3:26 PM' and system tray with network, sound, and battery status icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - qtv-ugaf-ywq - Camera and microphone recording",
+                "position": "bottom right",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Video conference window with multiple participant video feeds, chat panel, and meeting controls."
+                },
+                "content": [
+                  {
+                    "title": "Video Conference Participants",
+                    "layoutDescription": "Grid layout",
+                    "visibleText": "Names visible: Alex, Sarah, John, Mike, Emma, Chris, Bob, Alice. Expressions range from neutral to smiling."
+                  }
+                ]
+              },
+              {
+                "title": "Customer Insights Summary - Google Sheets",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "left",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Spreadsheet with multiple columns and rows, toolbar with editing options."
+                },
+                "content": [
+                  {
+                    "title": "Customer Insights Summary",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "Columns: Customer Name, AM, Account Manager, Region, Status, Email, Notes. Rows include data for various customers with details like email addresses, status (e.g., 'Active', 'Inactive'), and notes on recent interactions."
+                  }
+                ]
+              },
+              {
+                "title": "Weekly Progress Report - T9M4G - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Document with text, headings, and bullet points, toolbar with editing options."
+                },
+                "content": [
+                  {
+                    "title": "Weekly Progress Report - T9M4G",
+                    "layoutDescription": "Document layout",
+                    "visibleText": "Sections include 'Week 23', 'Main Objectives', 'Achievements', 'Issues', 'Next Steps'. Detailed text under each section outlines specific tasks, results, and plans."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T15:27:18Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Contacts, Calendar, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Time Machine, and others. Includes a system tray with notifications, Spotlight search, Siri, date and time display, and quick settings.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Check Your Mobile Device | Salesforce",
+                "url": "https://login.salesforce.com/",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "search bar, tabs, navigation buttons, bookmarks bar, profile icon, extensions icons"
+                },
+                "content": [
+                  {
+                    "title": "Check Your Mobile Device",
+                    "layoutDescription": "Centered layout",
+                    "visibleText": "Check Your Mobile Device\n\nUse Salesforce Authenticator to connect securely. You don't need a password.\n\nHaving trouble?"
+                  }
+                ]
+              },
+              {
+                "title": "Weekly Progress Report - TMS.docx - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "editing tools, sharing settings, comments section, document status"
+                },
+                "content": [
+                  {
+                    "title": "Weekly Progress Report - TMS",
+                    "layoutDescription": "Text-heavy layout",
+                    "visibleText": "Weekly Progress Report - TMS\n\n1. Overview\n2. Current Project Status\n3. Detailed Tasks\n4. Issues and Resolutions\n5. Next Steps\n6. Appendix\n\n[Content of the document includes detailed descriptions of tasks, issues, and resolutions related to the project, as well as future plans and appendices. Specific data and metrics are provided to support the status and progress of the project.]"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Excel",
+            "windows": [
+              {
+                "title": "Sheet1 - Excel",
+                "position": "bottom left",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Ribbon, formula bar, sheet tabs, status bar"
+                },
+                "content": [
+                  {
+                    "title": "Sheet1",
+                    "layoutDescription": "Basic layout",
+                    "visibleText": "[The spreadsheet is mostly empty with only a few cells filled with data. The visible cells contain numbers and text, but the specific content is not readable from the screenshot.]"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Messenger",
+            "windows": [
+              {
+                "title": "Chat - Nicole Moser",
+                "url": "https://www.messenger.com/",
+                "position": "left",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Chat interface, search bar, settings, emoji panel"
+                },
+                "content": [
+                  {
+                    "title": "Chat - Nicole Moser",
+                    "layoutDescription": "Chat layout",
+                    "visibleText": "Nicole Moser: Hey there! How's that beach volleyball game last week? Did you win?\n\nUser: It was actually last night and it was pretty wild!\n\nNicole Moser: Haha, did you folks smash it or what?\n\nUser: Yeah, we did pretty well. Won a couple of games. It was a lot of fun with some intense moments. I'm really glad we went.\n\nNicole Moser: That's awesome to hear! Are you planning to go again?\n\nUser: Definitely, it's scheduled next week already!\n\nNicole Moser: Nice! Keep me posted on how it goes!\n\nUser: Will do! Thanks for checking in.\n\n[The conversation continues with more exchanges between Nicole and the user. The chat window also shows various emojis and a typing indicator at the bottom.]"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a video conference on Google Meet, as indicated by the active window titled 'Meet - qtv-ugaf-ywq - Camera and microphone recording'. The meeting involves multiple participants, with visible names and expressions ranging from neutral to smiling. The user is likely discussing project-related matters, given the presence of documents and spreadsheets in other windows.",
+    "The user is also viewing a Google Sheets document titled 'Customer Insights Summary'. This spreadsheet contains multiple columns and rows with details such as customer names, account managers, complaints, responses, emails, and notes. The user is likely reviewing or updating customer information during the meeting.",
+    "Another document open in Google Docs is titled 'Weekly Progress Report - T9M4G'. This document includes sections like 'Week 23', 'Main Objectives', 'Achievements', 'Issues', and 'Next Steps'. The user is likely discussing or reviewing the progress of ongoing projects, tasks completed, issues encountered, and future plans.",
+    "In the third screenshot, the user is seen chatting with a team member named Nicole Moser on Google Chat. The conversation includes casual exchanges about a recent beach volleyball game and plans for future games. This indicates the user is also engaging in team communication during the meeting.",
+    "The user has a Salesforce login page open, indicating they might be preparing to access Salesforce for additional data or updates related to their tasks. This suggests the user is managing multiple tools and platforms to gather and update information relevant to their work."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a video conference, reviewing documents, and chatting with a team member. No AI chat interfaces or AI-generated content are visible in the screenshots.",
+  "activities": [
+    "MEETING",
+    "READING_SPEC",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T15:20:34Z",
+      "windowTitle": " Meet - qtv-ugaf-ywq - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/qtv-ugaf-ywq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T15:21:34Z",
+      "windowTitle": " Meet - qtv-ugaf-ywq - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/qtv-ugaf-ywq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T15:22:34Z",
+      "windowTitle": " Meet - qtv-ugaf-ywq - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/qtv-ugaf-ywq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T15:23:34Z",
+      "windowTitle": " Meet - qtv-ugaf-ywq - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/qtv-ugaf-ywq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-05T15:24:34Z",
+      "windowTitle": " Meet - qtv-ugaf-ywq - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/qtv-ugaf-ywq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T15:25:34Z",
+      "windowTitle": " Meet - qtv-ugaf-ywq - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/qtv-ugaf-ywq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T15:26:34Z",
+      "windowTitle": " Meet - qtv-ugaf-ywq - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/qtv-ugaf-ywq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 7,
+      "date": "2024-06-05T15:27:34Z",
+      "windowTitle": " Meet - qtv-ugaf-ywq - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/qtv-ugaf-ywq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-05T15:28:34Z",
+      "windowTitle": " Meet - qtv-ugaf-ywq - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/qtv-ugaf-ywq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T15:29:34Z",
+      "windowTitle": " Meet - qtv-ugaf-ywq - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/qtv-ugaf-ywq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-05T15:20:00Z"
+}

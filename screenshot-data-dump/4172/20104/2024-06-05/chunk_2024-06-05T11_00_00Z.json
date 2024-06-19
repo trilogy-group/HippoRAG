@@ -1,0 +1,257 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "docs.google.com",
+    "mail.google.com",
+    "calendar.google.com",
+    "crossover.lightning.force.com",
+    "chatgpt.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T11:01:38Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Google Chrome, File Explorer, Microsoft Edge, and system tray with notifications, language, and clock displaying '2:01 PM' and '6/5/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Deploy Mini-Spec Writer - Google Docs - Google Chrome",
+                "url": "https://docs.google.com/document/d",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help; Google account icon; document tools including font and paragraph settings; zoom controls; share button; comments sidebar"
+                },
+                "content": [
+                  {
+                    "title": "Deploy Mini-Spec Writer",
+                    "layoutDescription": "Text document layout",
+                    "visibleText": "highest consequence for major upcoming technical decisions and specs. The emphasis is on higher-order questions rather than minor details. Time sensitivity of decisions can also elevate urgency.\nInputs: A clear problem statement or decision needed, the specific unknowns, and recommended technical exploration activities. Guidance on what success looks like - deliverables, metrics, etc. Background context and pointers to related efforts.\nJudging quality: Quality is based on whether the technical activities resulted in useful learnings that now enable better-informed decisions. This could mean positive results or failures, as long as the outcome yields tangible insights. Evidence that assumptions were validated/invalidated.\n\nInput DS\n\nImportant: share the document with all of ESW and tibbroadcast@trilogy.com with edit rights\n\nBackground\nTPM has developed a mini-spec writer that accepts a second brain and context packs as input documents and through iterative chat with an AI agent produces mini-spec documents in markdown. We have used this for both standard kanban work and for more specific use cases related to acquisition (pre-IQ, due diligence).\nProblem Statement\nAll of TPM has been using this in various ways, but so far we have all been using the product locally. To both streamline how we use the product, and allow other teams to experiment with our tool, we want to deploy this tool to our AWS TPM account.\nImportance\nPublishing our work saves us time in using the product and also helps other teams use and likely improve our tool with targeted feedback. Our long-term goal here is to be AI-first in all of our regular “work units”, and publishing our tools helps us get there.\nScope Exclusions\n• Alerting - TPM can configure alarms as needed\nContext References\n• https://github.com/trilogy-group/tpm-mini-spec-wr Stratifyd Second Brain - example 2nd brain used as input to help generate specs 162174280605 - TPM AWS account where the mini spec writer should be deployed\nKey Unknowns\nNone - this should be a standard AWS deployment using Docker\nActivities\n• Confirm the product can be built from main\n• Deploy the app to AWS\n• Ensure that any changes to the main branch auto-deploy to the AWS app\nSuccess Criteria\n• Application loads as expected with minimal latency\nDeliverables\n• Mini spec writer is running on an accessible url\nEvaluation\n• Application runs as expected without any issues"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T11:04:13Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Mac Finder, Safari, AI, Joe, IS, Dev, Jive, AR, EDI, ES, SV, Not",
+            "position": "bottom"
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T11:09:15Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, and system tray with notifications, sound, network, and battery status icons, time display showing '2:09 PM' and date '6/5/2024', language set to 'ENG'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "ChatGPT - Google Chrome",
+                "url": "chatgpt.com/66233bf8-734f-4592-aad",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "navigation buttons (back, forward, refresh), address bar, tabs, bookmarks bar, profile icon, minimize, maximize, close buttons"
+                },
+                "content": [
+                  {
+                    "title": "ChatGPT",
+                    "layoutDescription": "sidebar navigation",
+                    "visibleText": "ChatGPT\nITD Writer\nUser Insight Guide\nThe smartest rubber d...\nCrossover Talent Guide\n... 3 more\nExplore GPTs\nToday\nRevolutionizing Talent Recruit...\nPrevious 7 Days\nUnfit candidate notification\nGemini 1.5 Outperforms Competi\nRelevant Interview Questions\nPrevious 30 Days\nProduct Issues Summary\nEnhance Copilot Usage Experience\nJob Title Analysis: Optimization\nJob Title Optimization Analysis\nInvite members"
+                  },
+                  {
+                    "title": "ChatGPT 4v",
+                    "layoutDescription": "Main content area",
+                    "visibleText": "act as an experienced candidate, analyze the JD, and explain what your view is about this job in terms of:\n- what is your goal\n- what is success\nbe short clear, edgy, focused. the quality of the answer matters, not the length. use simple terms not fancy term, be pragmatic\n\nDescription\nWhen you’re faced with difficult decisions or uncertainty, is your first impulse to collect and organize data? Do you thrive in environments where learning new things and gaining expertise in something previously unknown is the only way to succeed? The world of recruitment is evolving, and Crossover is challenging outdated methodologies with a clear, data-centric approach. Traditional recruitment processes fail to capitalize on global talent due to geographic and bias constraints, resulting in missing out on great hires.\n\nAt Crossover, we're pioneering a revolutionary model that leverages sophisticated data analysis to tap into the world's top 1% of talent, irrespective of their location. Our approach is not about filling seats; we aim to understand complex data patterns and optimize recruitment channels to connect exceptional individuals with extraordinary opportunities. This is about redefining the workspace, ensuring that every professional has access to high-value roles that match their expertise and ambition.\n\nWhat this role is about:\nSpearheading the optimization of diverse sourcing channels, from social media platforms to specialized job boards.\nCollaborating closely with industry experts to refine strategies and implement data-backed decisions that significantly enhance recruitment outcomes.\nConstantly questioning the status quo, employing a vigorous experimental approach to test, adapt, and refine sourcing tactics."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in reading and editing specifications on Google Docs. The first document, titled 'Deploy Mini-Spec Writer,' outlines a project involving the deployment of a mini-spec writer tool to an AWS TPM account. The document includes sections on the problem statement, importance, scope exclusions, context references, key unknowns, activities, success criteria, deliverables, and evaluation. The user is also interacting with a comment from a colleague, Dragos Nuta, discussing the broader implications and future capabilities of the tool.",
+    "The user is also working on another Google Docs document titled 'Factory status May 2024 (TPM/Eng).' This document appears to be a status report, detailing various commitments and their progress. The user is reviewing sections that discuss the use of AI to create engaging challenges for different platforms, the upgrade of social integration APIs, and the audit of logs and security fixes. The user is also engaged in a conversation with colleagues, Dragos Nuta and Noumaan Shah, discussing the project's progress and challenges.",
+    "The user is utilizing ChatGPT for research and guidance. The visible conversation involves the user asking ChatGPT to analyze a job description (JD) and provide insights on the role, goals, and success criteria. The AI response includes a detailed description of the job, emphasizing data-centric approaches to recruitment, optimizing diverse sourcing channels, and collaborating with industry experts. This indicates the user's reliance on AI for understanding complex topics and gaining insights."
+  ],
+  "aiUseSummary": "The user is leveraging ChatGPT for research and guidance. Specifically, the user asked ChatGPT to analyze a job description and provide insights on the role, goals, and success criteria. ChatGPT responded with a detailed description, emphasizing data-centric approaches to recruitment, optimizing diverse sourcing channels, and collaborating with industry experts. This interaction highlights the user's use of AI to gain a deeper understanding of complex topics and enhance their decision-making process.",
+  "activities": [
+    "READING_SPEC",
+    "WRITING_SPEC",
+    "RESEARCH",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [
+    "OPENAI_CHATGPT"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "WRITING_SPEC",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 4,
+      "mouse": 18,
+      "date": "2024-06-05T11:00:53Z",
+      "windowTitle": "Deploy Mini-Spec Writer - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1n6KzO6YBLIJ_WZwPye799SShmtPFxEhs7mVzmF4Ymks/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 248,
+      "mouse": 1,
+      "date": "2024-06-05T11:01:53Z",
+      "windowTitle": "Deploy Mini-Spec Writer - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1n6KzO6YBLIJ_WZwPye799SShmtPFxEhs7mVzmF4Ymks/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 266,
+      "mouse": 1,
+      "date": "2024-06-05T11:02:53Z",
+      "windowTitle": "Deploy Mini-Spec Writer - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1n6KzO6YBLIJ_WZwPye799SShmtPFxEhs7mVzmF4Ymks/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 90,
+      "mouse": 10,
+      "date": "2024-06-05T11:03:53Z",
+      "windowTitle": "Joe Conley - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/vWkYS0AAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 125,
+      "mouse": 10,
+      "date": "2024-06-05T11:04:53Z",
+      "windowTitle": "Joe Conley - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/vWkYS0AAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 226,
+      "mouse": 6,
+      "date": "2024-06-05T11:05:53Z",
+      "windowTitle": "DevFactory - Calendar - Week of June 3, 2024 - Google Chrome",
+      "processName": "calendar.google.com",
+      "visitingUrl": "calendar.google.com/calendar/u/0/r",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 27,
+      "mouse": 24,
+      "date": "2024-06-05T11:06:53Z",
+      "windowTitle": "Jungsoo Park | Candidate | Salesforce - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/r/Account/001Ij000003FLUoIAO/view",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 94,
+      "mouse": 22,
+      "date": "2024-06-05T11:07:53Z",
+      "windowTitle": "ChatGPT - Google Chrome",
+      "processName": "chatgpt.com",
+      "visitingUrl": "chatgpt.com/?oai-dm=1",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 243,
+      "mouse": 12,
+      "date": "2024-06-05T11:08:53Z",
+      "windowTitle": "ChatGPT - Google Chrome",
+      "processName": "chatgpt.com",
+      "visitingUrl": "chatgpt.com/c/66233f78-734f-4592-aad8-352e603eff89",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 133,
+      "mouse": 19,
+      "date": "2024-06-05T11:09:53Z",
+      "windowTitle": "ChatGPT - Google Chrome",
+      "processName": "chatgpt.com",
+      "visitingUrl": "chatgpt.com/c/66233f78-734f-4592-aad8-352e603eff89",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T11:00:00Z"
+}

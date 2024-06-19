@@ -1,0 +1,370 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "meet.google.com",
+    "mail.google.com",
+    "docs.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-04T18:31:35Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes network, sound, and battery status icons, as well as the date and time display '9:31 PM 6/4/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Factory status May 2024 (TPM/Eng) - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Docs interface with menu bar, toolbar, and document content area"
+                },
+                "content": [
+                  {
+                    "title": "Document Content",
+                    "layoutDescription": "Text and chart",
+                    "visibleText": "Factory status May 2024 (TPM/Eng)\n\nSummary\nKanban Slots\nJigsaw (1 slot)\nIgniteTech #1: Security\nIgniteTech #2: Opportunity\nIgniteTech Maintenance\nGFI (1 slot)\nInfluitive (2 slots)\nStratifyd (1 slot)\nCrossover (1 slot)\nTelco (3 slots + 1 Ops slot)\nTPM only slots (1 slot)\nApplied AI (1 slot)\n\nMaintenance Delivery scorecard\nBurndown charts - road to zero...\nAll BUs\nIgniteTech\nCopperTree\nJigsaw\nInfluitive\n link for the chart above\nWe have an issue with Mobile Apps - The Apple Developer account is disabled, which is impacting iOS apps.\nWe do not have access credentials to AdvotechHub Facebook page.\n\nDelivery progress (Influitive - Add AI to Discourse Communities):\n1-sentence update: Discourse upgrade path in progress. We are up from 2.3 to 3.0.\nProgress week 22: Working through the staging environment.\nMIP week 22: We are still finding and fixing issues on staging during testing.\nPlan week 23: Push changes to production.\n\nCustomer engagement/rollout - Customer Outreach - AdvotechHub\nAdoption Funnel: N/A\nProgress week 22: Customer outreach to 8 customers that engaged with AI Challenge Assistant & Groovy"
+                  }
+                ]
+              },
+              {
+                "title": "Meet - qtv-ugaf-ywq - Google Chrome",
+                "url": "https://meet.google.com/qtv-ugaf-y",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Meet interface with control bar and participant thumbnails"
+                },
+                "content": [
+                  {
+                    "title": "Video Conference",
+                    "layoutDescription": "Video call layout",
+                    "visibleText": "Noumaan Shah (Presenting)"
+                  }
+                ],
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Anna Slowinski",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Georg Dita",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Noumaan Shah",
+                      "expression": "presenting"
+                    },
+                    {
+                      "name": "Rafal Hrynio",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Joe Conley",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Jozef Czapovics",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Drago Nuta",
+                      "expression": "neutral"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "appName": "File Explorer",
+            "windows": []
+          },
+          {
+            "appName": "Microsoft Edge",
+            "windows": []
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T18:33:22Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, File Explorer, and other unidentified applications. System tray visible with clock showing '9:33 PM' and date '6/24/24'. Language indicator 'ENG' visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Meet - qtv-ugaf-ywq - Google Chrome",
+                "url": "https://meet.google.com/qtv-ugaf-ywq",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Multiple tabs visible for Gmail, Google Meet, and other unidentified sites. Address bar, bookmarks bar, and navigation controls present."
+                },
+                "content": [
+                  {
+                    "title": "Noumaan Shah (Presenting)",
+                    "layoutDescription": "Main content area",
+                    "visibleText": "Weekly Progress Report - TPM-Eng\n\nBusiness Goal Progress Scores...\nWeeks 2-20-24\nIgniteTech\nSlot #2\nSoftware\nMaintenance\nJigaw\nSlot #1\nInfluitive\nStratifY\nWeek 21-20-24\nSlot #1\nInfluitive\nStratifY\nWeek 20-20-24\nSlot #1\nInfluitive\nStratifY\n\nDashboard link for the chart above\n\nMaintenance:\nWe have an issue with Mobile Apps - The Apple Developer account is disabled, which is impacting iOS apps.\nWe do not have the login set to its Portfolio Inc. in Toronto, ON, which is incorrect.\nWe do not have access credentials to AdvocateHub Facebook app.\n\nDelivery process (Influitive - Add AI to Discourse Communities)\n1-sentence update: Discourse upgrade path in progress. We are up from 2.3 to 3.0.\nProgress week 22: Working through the staging environment.\nMVP week 22: We are still finding and fixing issues on staging during testing\nPlan week 23: Push changes to production.\nNeed to understand which customers have customizations in Discourse\nPlan on migrating customers to upgraded version\n\nCustomer engagement/rollout - Customer Outreach - AdvocateHub\nAdoption Funnel: N/A\nProgress week 22: Customer outreach to 8 customers that engaged with AI Challenge Assistant & Groovy"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T18:38:07Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '9:38 PM 6/4/24'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Factory status May 2024 (TPM/Eng) - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Docs interface with menu bar, toolbar, and document content"
+                },
+                "content": [
+                  {
+                    "title": "Factory status May 2024 (TPM/Eng)",
+                    "layoutDescription": "Text and charts",
+                    "visibleText": "Summary\nKanban Slots\nJigsaw (1 slot)\nIgniteTech #1: Security\nIgniteTech #2: Opportunity\nIgniteTech Maintenance\nGFI (1 slot)\nInfluitive (2 slots)\nStratifyd (1 slot)\nCrossover (1 slot)\nTelco (3 slots + 1 Ops slot)\nTPM only slots (1 slot)\nApplied AI (1 slot)\nMaintenance Delivery scorecard\nBurndown charts - road to zero...\nAll BUs\nIgniteTech\nCopperTree\nJigsaw\nInfluitive\n link for the chart above\nWe have an issue with Mobile Apps - The Apple Developer account is disabled, which is impacting iOS apps.\nWe do not have access credentials to Atotvadevuh Facebook app.\n\nDelivery progress (Influitive - Add AI to Discourse Communities):\n1-sentence update: Discourse upgrade path in progress. We are up from 2.3 to 3.0.\nProgress week 22: Working through the staging environment.\nMIP week 22: We are still finding and fixing issues on staging during testing.\nPlan week 23: Push changes to production.\nNeed to understand which customers have customizations in Discourse\nPlan on migrating customers to upgraded version\nCustomer Stream - Advocatehub\n\nAdoption Funnel:\nN/A\nProgress week 22: Customer outreach to 8 customers that engaged with AI Challenge Assistant & Groovy"
+                  }
+                ]
+              },
+              {
+                "title": "Meet - qtv-ugaf-ywq - Google Chrome",
+                "url": "https://meet.google.com/qtv-ugaf-y",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Meet interface with participant thumbnails, control bar, and presentation area"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Noumaan Shah",
+                      "expression": "Presenting"
+                    },
+                    {
+                      "name": "Kathy Slowirski",
+                      "expression": "Listening"
+                    },
+                    {
+                      "name": "Geo Dita",
+                      "expression": "Listening"
+                    },
+                    {
+                      "name": "Rafal Hryniow",
+                      "expression": "Listening"
+                    },
+                    {
+                      "name": "Jozse Czapovics",
+                      "expression": "Listening"
+                    },
+                    {
+                      "name": "Dra Nutu",
+                      "expression": "Listening"
+                    }
+                  ]
+                },
+                "content": [
+                  {
+                    "title": "Meet - qtv-ugaf-ywq",
+                    "layoutDescription": "Video conference",
+                    "visibleText": "Noumaan Shah (Presenting)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively participating in a Google Meet video conference, as evidenced by the screenshots showing the Google Meet interface with multiple participants. The user is also presenting a document titled 'Weekly Progress Report - TPM-Eng' during the meeting. The document contains business goal progress scores, maintenance updates, and delivery progress details. The user is likely discussing these topics with the meeting participants.",
+    "The user is also engaged in reading and possibly editing a Google Docs document titled 'Factory status May 2024 (TPM/Eng)'. The document includes a summary of Kanban slots, maintenance delivery scorecards, and burndown charts. Specific issues such as the Apple Developer account being disabled and the lack of access credentials to the AdvotechHub Facebook page are mentioned. The user is likely reviewing the document to provide updates or discuss its contents during the meeting.",
+    "Additionally, the user is seen using Google Chat to communicate with team members. The chat interface shows direct messages with various individuals, including Jozsef Czapovics. The context of the chat is not fully visible, but it indicates that the user is actively engaging with team members, possibly discussing the same topics covered in the Google Docs document and the Google Meet meeting."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a video conference, reading and editing a Google Docs document, and chatting with team members via Google Chat. No AI chat interfaces or AI-generated content are visible in the screenshots.",
+  "activities": [
+    "READING_SPEC",
+    "MEETING",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 4,
+      "mouse": 0,
+      "date": "2024-06-04T18:30:12Z",
+      "windowTitle": "Meet - qtv-ugaf-ywq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/qtv-ugaf-ywq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 62,
+      "mouse": 2,
+      "date": "2024-06-04T18:31:11Z",
+      "windowTitle": "Meet - qtv-ugaf-ywq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/qtv-ugaf-ywq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 5,
+      "mouse": 0,
+      "date": "2024-06-04T18:32:11Z",
+      "windowTitle": "Meet - qtv-ugaf-ywq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/qtv-ugaf-ywq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T18:33:11Z",
+      "windowTitle": "Meet - qtv-ugaf-ywq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/qtv-ugaf-ywq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 9,
+      "mouse": 2,
+      "date": "2024-06-04T18:34:11Z",
+      "windowTitle": "Meet - qtv-ugaf-ywq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/qtv-ugaf-ywq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 160,
+      "mouse": 0,
+      "date": "2024-06-04T18:35:11Z",
+      "windowTitle": "Jozsef Czapovics - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/3f70MMAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 95,
+      "mouse": 4,
+      "date": "2024-06-04T18:36:11Z",
+      "windowTitle": "Meet - qtv-ugaf-ywq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/qtv-ugaf-ywq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 19,
+      "mouse": 5,
+      "date": "2024-06-04T18:37:11Z",
+      "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 33,
+      "mouse": 9,
+      "date": "2024-06-04T18:38:11Z",
+      "windowTitle": "Meet - qtv-ugaf-ywq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/qtv-ugaf-ywq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 142,
+      "mouse": 8,
+      "date": "2024-06-04T18:39:11Z",
+      "windowTitle": "Jozsef Czapovics - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/3f70MMAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-04T18:30:00Z"
+}

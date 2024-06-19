@@ -1,0 +1,361 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "us-east-1.quicksight.aws.amazon.com",
+    "mail.google.com",
+    "CalculatorApp",
+    "EXCEL"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T20:40:31Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, widgets, chat, Microsoft Edge, File Explorer, Microsoft Store, and system tray with notifications, sound, network, and battery status icons, time display showing 11:40 PM",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "AWS Architecture Patterns - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "editing toolbar with options for font style, size, bold, italic, underline, text color, background color, alignment, lists, indent, links, comments, and more"
+                },
+                "content": [
+                  {
+                    "title": "AWS Architecture Patterns",
+                    "layoutDescription": "Text document layout",
+                    "visibleText": "AWS Architecture Patterns\n\nSingle AZ\n\n1. Cost is better\n\nUsing single-AZs for cost reduction and redundancy is overkill. There are rarely significant failures/downtime that warrant the increased complexity and cost of using multi-AZs.\n\n2. Functions\n\nWe always where possible - we turned this off for Tempo and for specific CloudFix users as costs rose and as more events were processed\n\n3. TCO\n\nTCO may vary depending on the importance to significantly (25%-50%) reduce costs for DB and EC2 services. The TCO improvements are realized by moving AWS accounts to the ESW master account and tagging the resources appropriately. Credits are accrued quarterly and received in the first month of the following quarter. This structured approach provides a clear path to cost savings through administrative actions within AWS.\n\n4. Management with no risk\n\nManage resources using this script: https://github.com/triliov/triliov-group-mos-map- credits can pay for Import + Cost reduction (TPM + Eng).\n\n5. What we face\n\nInfrastructure costs while maintaining the same level of service for the customers. Infractions require downtime/maintenance windows. These introduce sync blockers, to our async 24x7 and require coordination between Engineering, SaaSOps, Support, and BU.\n\n6. Lessons we Agree with\n\nThe majority of the companies we acquire have older codebases - often missing CI/CD or best practices which makes it hard to ensure seamless working properly after making cost reduction changes.\n\nThe system still has significant restrictions even products like ALB are not scaling fast enough in case of traffic spikes"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Slack",
+            "windows": [
+              {
+                "title": "Slack Chat",
+                "position": "side",
+                "isActive": false,
+                "uiElements": {
+                  "details": "S interface with chat history and message input box"
+                },
+                "content": [
+                  {
+                    "title": "Slack Chat",
+                    "layoutDescription": "Chat interface layout",
+                    "visibleText": "David Schwartz\n2:30 PM May 16\nneed access\n\nAnuj Kumar\n9:11 PM May 9\nFor deploying production, not so great for development where latency wrecks havoc.\n\nRobert Egglestone\n3:08 AM May 10\nFor cost savings. Which service do you see as most problematic for latency? I've only found it unbearable when using RDP/VNC to EC2 instances.\n\nAnuj Kumar\n8:27 AM May 10\nYup EC2 is the one that we use majority of the time in GFI."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Google Docs",
+            "windows": [
+              {
+                "title": "AWS Architecture Patterns",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "editing toolbar with options for font style, size, bold, italic, underline, text color, background color, alignment, lists, indent, links, comments, and more"
+                },
+                "content": [
+                  {
+                    "title": "AWS Architecture Patterns",
+                    "layoutDescription": "Text document layout",
+                    "visibleText": "AWS Architecture Patterns\n\nSingle AZ\n\n1. Cost is better\n\nUsing single-AZs for cost reduction and redundancy is overkill. There are rarely significant failures/downtime that warrant the increased complexity and cost of using multi-AZs.\n\n2. Functions\n\nWe always where possible - we turned this off for Tempo and for specific CloudFix users as costs rose and as more events were processed\n\n3. TCO\n\nTCO may vary depending on the importance to significantly (25%-50%) reduce costs for DB and EC2 services. The TCO improvements are realized by moving AWS accounts to the ESW master account and tagging the resources appropriately. Credits are accrued quarterly and received in the first month of the following quarter. This structured approach provides a clear path to cost savings through administrative actions within AWS.\n\n4. Management with no risk\n\nManage resources using this script: https://github.com/triliov/triliov-group-mos-map- credits can pay for Import + Cost reduction (TPM + Eng).\n\n5. What we face\n\nInfrastructure costs while maintaining the same level of service for the customers. Infractions require downtime/maintenance windows. These introduce sync blockers, to our async 24x7 and require coordination between Engineering, SaaSOps, Support, and BU.\n\n6. Lessons we Agree with\n\nThe majority of the companies we acquire have older codebases - often missing CI/CD or best practices which makes it hard to ensure seamless working properly after making cost reduction changes.\n\nThe system still has significant restrictions even products like ALB are not scaling fast enough in case of traffic spikes"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T20:46:15Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Mail, Chat, Meet, and other applications. System time displayed as 11:46 PM. Date displayed as 6/5/2024. Language set to ENG. Battery, Wi-Fi, and sound icons visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "XOH Sourcing Dashboard - Google Chrome",
+                "url": "us-east-1.quicksight.aws.amazon.com",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Multiple tabs visible for 'XOH Sourcing Dashboard', 'Original dashboard (Modified)', and others. Address bar, navigation buttons, and user profile icon present."
+                },
+                "content": [
+                  {
+                    "title": "LinkedIn Historical Data",
+                    "layoutDescription": "Table format",
+                    "visibleText": "Performance since 2023.01.01 by Domain/Rate\nPlatform Cost # Applications CpA CpQA # BFQ Takers # BFQ Passers # CCAT Takers # CCAT Passers # Reached Review # Reached Late Stage # Canceled Duplication\nBusiness_operations $235,981.50 1,133,305 $0.21 $1.35 252,002 10,636 10,793 1,513 39 313,589\nEducation $568,558.50 987,846 $0.58 $4.28 250,712 132,436 12,067 2,653 38 274,358\nEngineering $1,014,778.50 1,901,822 $0.53 $6.43 374,963 157,816 13,457 1,992 83 562,483\n..."
+                  },
+                  {
+                    "title": "Performance since 2023.01.01 by Country/Domain/Rate",
+                    "layoutDescription": "Table format",
+                    "visibleText": "Total\nPlatform Cost # Applications CpA CpQA # BFQ Takers # BFQ Passers # CCAT Takers # CCAT Passers # Reached Review # Reached Late Stage # Canceled Duplication\nnull $387.00 1,128 $0.34 $5.53 214 70 22 1 0 0\nAfghanistan $184.50 447 $0.41 $9.23 24 10 2 1 0 0\nAlbania $313.00 300 $0.76 $7.76 18 7 2 1 0 0\n..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Excel",
+            "windows": [
+              {
+                "title": "Untitled - Excel",
+                "position": "right side of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Ribbon visible with tabs for File, Home, Insert, Draw, Page Layout, Formulas, Data, Review, View, Help. Cell grid visible with no data entered."
+                },
+                "content": [
+                  {
+                    "title": "Excel Spreadsheet",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "TEXT TOO BLURRY"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T20:49:18Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search bar, and several pinned and running applications. Displays the time as 11:49 PM and date as 6/5/2024. Language set to ENG.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Gmail",
+                "url": "https://mail.google.com",
+                "position": "left half of the screen",
+                "isActive": false,
+                "highlightedElement": "None",
+                "uiElements": {
+                  "details": "Gmail interface with navigation sidebar, chat window, and top menu bar."
+                },
+                "content": [
+                  {
+                    "title": "Gmail Navigation",
+                    "layoutDescription": "Vertical list on the left",
+                    "visibleText": "Mail\nNew chat\nShortcuts\nHome\nMentions 2\nStarred\nDirect messages\nHeather Lother\nAndrew Allen\nKevin Norchi\nKevin, Heather\nDavid Cavey\nDino Salkunic\nMurat Kurunc\nJamie Sidey\nRahul Subramaniam\nSergey Buranov\nMore\nSpaces\nXO Platform\nXO Team Chat\nCrossover - Upwork\nXO Candidate Support\nXO GenAI Taskforce\nCrossover GA Denis\nKayakoBot team chat\nDubai - Nov '23\nDevBot\nXO Prime Support\nMore"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Excel",
+            "windows": [
+              {
+                "title": "Book1 - Excel",
+                "position": "right half of the screen",
+                "isActive": true,
+                "highlightedElement": "None",
+                "uiElements": {
+                  "details": "Excel ribbon with tabs for File, Home, Insert, Page Layout, Formulas, Data, Review, View, Help, and other Excel-specific features."
+                },
+                "content": [
+                  {
+                    "title": "Excel Spreadsheet",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "cost\nbg taker\nbg offer passer\nHourly rate\nCost per applicant\nCost per qualified applicant\n95,636\n78,133\n38,439\n30 $\n1.22\n38,439\n50\n484,650\n146,693\n56,468\n50 $\n3.30\n56,468\n580,286\n224,826\n94,907\nblende $\n2.58\n94,907"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in reading and editing a Google Docs document titled 'AWS Architecture Patterns'. The document discusses various AWS architecture patterns, including single-AZ cost benefits, functions, TCO improvements, and management strategies. The user is also interacting with a Slack chat, discussing AWS deployment and cost-saving strategies with team members.",
+    "The user is analyzing data on the 'XOH Sourcing Dashboard' using Amazon QuickSight. The dashboard displays performance metrics since 2023 by domain/rate and country/domain/rate. The user is reviewing detailed statistics on platform costs, applications, and various performance indicators across different domains and countries.",
+    "The user is working with an Excel spreadsheet, analyzing cost data related to applicants and qualified applicants. The spreadsheet includes columns for cost, bg taker, bg offer passer, hourly rate, cost per applicant, and cost per qualified applicant. The user is also navigating through Gmail, checking emails and direct messages, and interacting with team members."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in document editing, data analysis, and team communication without any visible interaction with AI tools or assistants.",
+  "activities": [
+    "READING_SPEC",
+    "EMAIL",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "DB"
+  ],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "READING_SPEC",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 2,
+      "mouse": 3,
+      "date": "2024-06-05T20:40:02Z",
+      "windowTitle": "QuickSight Sign-In - Google Chrome",
+      "processName": "us-east-1.quicksight.aws.amazon.com",
+      "visitingUrl": "us-east-1.quicksight.aws.amazon.com/sn/auth/signin?directory_alias=df-quicksight-jira&redirect_uri=https%3A%2F%2Fus-east-1.quicksight.aws.amazon.com%2Fsn%2Fdashboards%2F2aa7122c-d177-4eb0-a5ce-79af05353e77%3Fdirectory_alias%3Ddf-quicksight-jira%26ignore%3",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 53,
+      "mouse": 10,
+      "date": "2024-06-05T20:41:02Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAEID_H-I",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 268,
+      "mouse": 0,
+      "date": "2024-06-05T20:42:02Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAEID_H-I",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 151,
+      "mouse": 5,
+      "date": "2024-06-05T20:43:02Z",
+      "windowTitle": "Re: Crossover <> Appcast - dragos.nuta@crossover.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#search/appcast/FMfcgzQVwngWznqfvChPXQbZVFKBRBkB",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 13,
+      "mouse": 27,
+      "date": "2024-06-05T20:44:02Z",
+      "windowTitle": "XOH Sourcing Dashboard - Google Chrome",
+      "processName": "us-east-1.quicksight.aws.amazon.com",
+      "visitingUrl": "us-east-1.quicksight.aws.amazon.com/sn/dashboards/d9ba4195-0006-4d5f-a3be-f204693ecd18/sheets/d9ba4195-0006-4d5f-a3be-f204693ecd18_ed09bc89-f2cc-4665-a8d2-00fa5b5abbfa",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 146,
+      "mouse": 8,
+      "date": "2024-06-05T20:45:02Z",
+      "windowTitle": "Calculator",
+      "processName": "CalculatorApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 83,
+      "mouse": 20,
+      "date": "2024-06-05T20:46:02Z",
+      "windowTitle": "XOH Sourcing Dashboard - Google Chrome",
+      "processName": "us-east-1.quicksight.aws.amazon.com",
+      "visitingUrl": "us-east-1.quicksight.aws.amazon.com/sn/dashboards/d9ba4195-0006-4d5f-a3be-f204693ecd18/sheets/d9ba4195-0006-4d5f-a3be-f204693ecd18_5fd35535-1e64-4f23-913c-6506a537e519",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 104,
+      "mouse": 23,
+      "date": "2024-06-05T20:47:02Z",
+      "windowTitle": "Book1 - Excel",
+      "processName": "EXCEL",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 125,
+      "mouse": 16,
+      "date": "2024-06-05T20:48:02Z",
+      "windowTitle": "Book1 - Excel",
+      "processName": "EXCEL",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 159,
+      "mouse": 21,
+      "date": "2024-06-05T20:49:02Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/tZCr5EAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T20:40:00Z"
+}

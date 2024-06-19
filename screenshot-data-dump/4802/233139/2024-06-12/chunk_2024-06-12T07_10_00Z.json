@@ -1,0 +1,284 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "idea64",
+    "crossover--fullshared.sandbox.lightning.force.com",
+    "chrome"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T07:12:15Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the date and time as '06/12/2024 07:12 AM'. Language setting shown as 'ENG'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "CountStepsNotCompleted",
+                "uiElements": {
+                  "details": "menu bar with options like File, Edit, View, Go, Run, Terminal, Help. Sidebar with explorer, search, source control, run, extensions icons. Status bar at the bottom showing line number, language mode, encoding, and feedback icon."
+                },
+                "content": [
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Text editor with multiple tabs",
+                    "visibleText": "public class CountStepsNotCompletedService {\n public Integer countStepsNotCompleted(Integer stageName, Integer cacheKeyForGetSteps, Account candidate) {\n // BRQ\n if (stageName == 'GradingForCatSteps') || // Still have many failed steps\n (stage..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T07:15:25Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Google Chrome, File Explorer, and other unidentified applications. System tray includes network status, sound volume, date and time display (07/12/2024 9:15 AM), and language indicator (ENG).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Salesforce - Google Chrome",
+                "url": "https://crossover--fullshared.sandbox.my.salesforce.com",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, profile icon, extensions icons, and settings menu"
+                },
+                "content": [
+                  {
+                    "title": "CROSSOVER",
+                    "layoutDescription": "banner",
+                    "visibleText": "CROSSOVER"
+                  },
+                  {
+                    "title": "Setup Home",
+                    "layoutDescription": "menu",
+                    "visibleText": "Setup Home Object Manager"
+                  },
+                  {
+                    "title": "Fields & Relationships",
+                    "layoutDescription": "Main content area",
+                    "visibleText": "Fields & Relationships 82 items, Sorted by Label Groove Notes Hired Date/Time HR Onboarding Specialist indirect Campaign Interview Follow-Up Call Completed IP is BFG is MQL is SQL Job External ID Job Internal ID Last Active Stage Last Candidate Activity Time Last Candidate Assessment Time Last Completed Assessment Last Modified By Lead Original Campaign Lead Original Campaign id Lead Original Term Lead Source Lead Source Campaign"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T07:18:13Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Notification area visible with clock showing '07:18' and date '2024-06-12'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "CountStepsNotCompleted - xo-hiring - Visual Studio Code",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "UI bar at top, sidebar on left with project explorer, bottom bar with problems, output, debug console, and terminal tabs"
+                },
+                "content": [
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Main area with multiple tabs open",
+                    "visibleText": "public with sharing class CountStepsNotCompletedService {\n\n public static Integer countStepsNotCompleted(Opportunity application, String stageName, Account candidate) {\n Integer result = null;\n if (application.Last_Active_Stage__c == null || application.Last_Active_Stage__c == 'Rejected' right from EasyApply__c) {\n // If last active stage is after positionOfBRQ &&\n positionOfAppStage > positionOfCat ||\n (positionOfAppStage > positionOfCat &&\n (application.Fraud_Stage__c == 'Rejected' || application.Fraud_Stage__c == 'Cancelled' || application.Fraud_Stage__c == 'Expired') && positionOfLastActiveStage > positionOfBRQ) {\n result.isMql = null;\n } else if\n (application.Fraud_Stage__c == 'Rejected' and positionOfLastActiveStage < positionOfBRQ) {\n result.isMql = 0;\n } else {\n result.isMql = 1;\n }\n\n // HQ override\n if (result.isMql == 1 && result.isHql == 1) {\n result.isHql = 1;\n qualificationOverride.add('HQLOverriddenSQL');\n }\n\n // Overrides\n result.qualificationOverride = String.join(new List<String>(qualificationOverride), ', ');\n // if (lossReason == 'Rejected Fraud Incident' and lossReason == 'Blacklisted Proctor') {\n return result;\n }\n\n public static void countAndAssign(Opportunity application, String stageName, Account candidate) {\n Outputs counts = CountStepsNotCompletedService.count(application, stageName, candidate);\n assign(counts, application);\n }\n\n public static void assign(Outputs counts, Opportunity application) {\n application.Steps_Need_Grading__c = counts.stepsNeededGrading;\n application.Steps_Not_Completed__c = counts.stepsNotCompleted;\n application.Steps_Pending_Proctor_Result__c = counts.stepsPendingProctorResult;\n application.StepsFailed__c = counts.stepsFailed;\n application.Ishql__c = counts.isHql;\n application.PassFail__c = counts.isMql;\n application.qualificationOverride = counts.qualificationOverride;\n }\n\n public static Map<Id, Account> getCandidatesForApplications(List<Opportunity> applications) {\n Set<Id> candidateIds = new Set<Id>();\n for (Opportunity application : applications) {\n candidateIds.add(application.AccountId);\n }\n return candidateIds;\n }\n }\n }\n"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in writing and navigating code within the Visual Studio Code IDE. The code being worked on is related to a class named 'CountStepsNotCompletedService' which includes methods for counting and assigning steps related to an 'Opportunity' application. The user is also running tests for this class, as indicated by the test results visible in the IDE.",
+    "The user is also working within the Salesforce platform, specifically in the 'Fields & Relationships' section of the 'Opportunity' object. This involves viewing and possibly editing various fields related to the 'Opportunity' object, such as 'Hired Date/Time', 'HR Onboarding Specialist', and 'Last Active Stage'. This activity suggests the user is managing or configuring data structures within Salesforce.",
+    "The user is seen switching between Visual Studio Code and Google Chrome, indicating a workflow that involves both coding and managing Salesforce configurations. The user is likely integrating or synchronizing data between a custom application and Salesforce, as evidenced by the simultaneous use of these tools."
+  ],
+  "aiUseSummary": "There is no visible evidence of AI tools being used in the provided screenshots. The user is primarily engaged in coding and managing Salesforce configurations without any interaction with AI chat interfaces or AI-driven tools.",
+  "activities": [
+    "WRITING_CODE",
+    "NAVIGATING_CODE",
+    "READING_SPEC"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "DB",
+    "TESTS"
+  ],
+  "programmingLanguages": [
+    "SALESFORCE",
+    "JAVA",
+    "SQL"
+  ],
+  "toolTypes": [
+    "IDE",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T07:10:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedServiceTests",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 13,
+      "mouse": 8,
+      "date": "2024-06-12T07:11:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedService",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 23,
+      "mouse": 13,
+      "date": "2024-06-12T07:12:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedService",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 42,
+      "mouse": 18,
+      "date": "2024-06-12T07:13:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedServiceTests",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 2,
+      "mouse": 27,
+      "date": "2024-06-12T07:14:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedService",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 9,
+      "mouse": 12,
+      "date": "2024-06-12T07:15:00Z",
+      "windowTitle": "Application | Salesforce - Google Chrome",
+      "processName": "crossover--fullshared.sandbox.lightning.force.com",
+      "visitingUrl": "crossover--fullshared.sandbox.lightning.force.com/lightning/setup/ObjectManager/Opportunity/FieldsAndRelationships/view",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 12,
+      "mouse": 18,
+      "date": "2024-06-12T07:16:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedServiceTests",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 12,
+      "mouse": 21,
+      "date": "2024-06-12T07:17:00Z",
+      "windowTitle": "Application | Salesforce - Google Chrome",
+      "processName": "crossover--fullshared.sandbox.lightning.force.com",
+      "visitingUrl": "crossover--fullshared.sandbox.lightning.force.com/lightning/setup/ObjectManager/Opportunity/FieldsAndRelationships/new",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 19,
+      "mouse": 16,
+      "date": "2024-06-12T07:18:00Z",
+      "windowTitle": "Google Chat - Denys Yefimenko messaged you - Chat",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 27,
+      "mouse": 19,
+      "date": "2024-06-12T07:19:00Z",
+      "windowTitle": "Application | Salesforce - Google Chrome",
+      "processName": "crossover--fullshared.sandbox.lightning.force.com",
+      "visitingUrl": "crossover--fullshared.sandbox.lightning.force.com/lightning/setup/ObjectManager/Opportunity/FieldsAndRelationships/new",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-12T07:10:00Z"
+}

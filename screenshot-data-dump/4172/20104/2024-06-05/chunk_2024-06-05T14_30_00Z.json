@@ -1,0 +1,336 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "meet.google.com",
+    "mail.google.com",
+    "crossover.lightning.force.com",
+    "linkedin.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T14:30:00Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, widgets, chat, Microsoft Edge, File Explorer, Microsoft Store, settings, and other unidentified applications. Also displays the system tray with network, sound, and battery status icons, as well as the date and time (5/29 PM, 6/5/2024).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Meet - uus-dzji-wsj - Google Chrome",
+                "url": "https://meet.google.com/uus-dzji-wsj",
+                "position": "full screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, Google account avatar, Meet controls (microphone, camera, captions, present now, more options, hang up, chat, people, activities), and notifications"
+                },
+                "content": [
+                  {
+                    "title": "Video Conference",
+                    "layoutDescription": "Grid layout",
+                    "visibleText": "Participants visible in the video conference: Bogdan Tenea, Phil Hewinson, Dmitry Bakaev, Serban Petrescu, Simon Said, Samy Aboel-Nil, Isaac Squires, Dragos Nuta. A chat window is also visible with messages from dimitri.shutenkov@trilogy.com and AI Assist Agent. The chat includes timestamps and messages such as 'Tell me about action i...', 'Tool usage breakdown - **RAQ_QA_SCAN...', and 'Hey Dmitri, Here are the action items you mu...'}]}]},{"
+                  },
+                  {
+                    "appName": "Getliteral AI",
+                    "windows": [
+                      {
+                        "title": "Threads - Getliteral AI",
+                        "url": "https://cloud.getliteral.ai/projects/a",
+                        "position": "right side of the screen",
+                        "isActive": false,
+                        "uiElements": {
+                          "details": "pane, message pane, thread list, and message input area"
+                        },
+                        "content": [
+                          {
+                            "title": "AI Assist",
+                            "layoutDescription": "List and detail view",
+                            "visibleText": "Threads > Thread #0ca4f030-c67b-... - My-GPT40 Tree view | Chat view Message Run LLM Other dimitri.shutenkov@trilogy.com Tell me about action i... AI Assist Agent 01:47m AI Assist Tool usage breakdown - **RAQ_QA_SCAN... AI Assist Hey Dmitri, Here are the action items you mu..."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T14:35:10Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '5:35 PM 6/5/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - uus-dzji-wsj - Google Chrome",
+                "url": "https://meet.google.com/uus-dzji-wsj",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs for 'Calendar' and 'Meet', address bar, navigation buttons, Google account access, and extensions including Google Keep, Google Tasks, and others."
+                },
+                "content": [
+                  {
+                    "title": "Video Conference",
+                    "layoutDescription": "Grid layout with participant videos",
+                    "visibleText": "Participants: Bogdan Tenea, Samy Aboel-Nil, Serban Petrescu, Isaac Squires, Dmitry Bakaev, Simon Said, Dragos Nuta. One participant represented by a blue circle with the letter 'r'. Meeting title: 'Generative AI - weekly progress review'."
+                  }
+                ]
+              },
+              {
+                "title": "Calendar - Google Chrome",
+                "url": "https://calendar.google.com",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "tabs for 'Calendar' and 'Meet', address bar, navigation buttons, Google account access, and extensions including Google Keep, Google Tasks, and others."
+                },
+                "content": [
+                  {
+                    "title": "Google Calendar",
+                    "layoutDescription": "Full calendar view",
+                    "visibleText": "Calendar for June 2024, showing appointments and events. Specific events include 'Product Daily', 'XO Check-in', 'Acquisition Meeting', and others. Time zone displayed as 'New Zealand Time 02:35'. Search bar with 'Samy Aboel-Nil' typed in."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T14:36:47Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Google Chrome, File Explorer, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '5/6/2024 2:36 PM'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - uus-dzji-wsj - Google Chrome",
+                "url": "https://meet.google.com/uus-dzji-wsj",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "video conference controls including microphone, camera toggle, and settings"
+                },
+                "content": [
+                  {
+                    "title": "Video Conference Participants",
+                    "layoutDescription": "Grid layout",
+                    "visibleText": "Bogdan Terea, Samy Aboel-Nil, Dmitry Bakaev, Serban Petrescu, Isaac Squires, Simon Said, Dragos Nuta"
+                  },
+                  {
+                    "title": "Video Conference - Active Speaker",
+                    "layoutDescription": "Large central video",
+                    "visibleText": "read.ai meeting notes"
+                  }
+                ]
+              },
+              {
+                "title": "Gmail - Inbox - Google Chrome",
+                "url": "https://mail.google.com/mail/u/0/#inbox",
+                "position": "right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "email navigation and management tools"
+                },
+                "content": [
+                  {
+                    "title": "Email Folders and Labels",
+                    "layoutDescription": "List on left side",
+                    "visibleText": "Inbox, Starred, Snoozed, Sent, Drafts, More, Labels: VIP, AI Coach Emails, Billing, CS Tempo, Kayako"
+                  },
+                  {
+                    "title": "Emails in 'Starred' Folder",
+                    "layoutDescription": "List of emails",
+                    "visibleText": "Samy Aboel-Nil, Magic, me, Ethan Mollick from., me, AI News"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively participating in a Google Meet video conference titled 'Generative AI - weekly progress review'. The participants include Bogdan Tenea, Phil Hewinson, Dmitry Bakaev, Serban Petrescu, Simon Said, Samy Aboel-Nil, Isaac Squires, and Dragos Nuta. The user is also interacting with an AI Assist Agent in the Getliteral AI application, discussing tool usage breakdowns and action items. This indicates a collaborative environment where the user is both contributing to and receiving updates on project progress.",
+    "The user is managing their schedule using Google Calendar, which is visible in the second screenshot. The calendar shows various appointments and events for June 2024, including 'Product Daily', 'XO Check-in', and 'Acquisition Meeting'. The user has searched for 'Samy Aboel-Nil' in the calendar, possibly to schedule a meeting or check availability. This activity demonstrates the user's effort to stay organized and coordinate with team members.",
+    "The user is checking their emails in Gmail, as seen in the third screenshot. The inbox contains emails from various contacts, including Samy Aboel-Nil, Magic, Ethan Mollick, and others. The user has several labels such as VIP, AI Coach Emails, Billing, CS Tempo, and Kayako, indicating a structured approach to email management. This activity shows the user's engagement in communication and information management.",
+    "Throughout the screenshots, the user is consistently engaged in a Google Meet video conference. The meeting involves multiple participants and covers topics related to generative AI. The user is also seen interacting with the Getliteral AI application, where an AI Assist Agent provides information on tool usage and action items. This suggests that the user is involved in a project that leverages AI tools for productivity and collaboration."
+  ],
+  "aiUseSummary": "The user utilizes AI tools within the Getliteral AI application, specifically interacting with an AI Assist Agent. The AI Assist Agent provides detailed breakdowns of tool usage and lists action items for the user. This interaction indicates that the user relies on AI to streamline their workflow, manage tasks, and enhance productivity. The AI tool's ability to provide specific, actionable insights helps the user stay informed and organized, contributing to efficient project management.",
+  "activities": [
+    "MEETING",
+    "EMAIL",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [
+    "DEVFACTORY_TPM_AI"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 11,
+      "mouse": 12,
+      "date": "2024-06-05T14:30:55Z",
+      "windowTitle": "Meet - uus-dzji-wsj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/uus-dzji-wsj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 119,
+      "mouse": 7,
+      "date": "2024-06-05T14:31:55Z",
+      "windowTitle": "Howard Abrams - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/1cuZu0AAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 112,
+      "mouse": 0,
+      "date": "2024-06-05T14:32:55Z",
+      "windowTitle": "Meet - uus-dzji-wsj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/uus-dzji-wsj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T14:33:55Z",
+      "windowTitle": "Meet - uus-dzji-wsj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/uus-dzji-wsj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 4,
+      "mouse": 6,
+      "date": "2024-06-05T14:34:55Z",
+      "windowTitle": "Meet - uus-dzji-wsj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/uus-dzji-wsj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 14,
+      "date": "2024-06-05T14:35:55Z",
+      "windowTitle": "Factory status Ma... - The import will take the entire quart... - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwngXvklGdJGNbsTHXFZvZvzj",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-05T14:36:55Z",
+      "windowTitle": "Meet - uus-dzji-wsj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/uus-dzji-wsj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 29,
+      "mouse": 11,
+      "date": "2024-06-05T14:37:55Z",
+      "windowTitle": "Inbox - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 104,
+      "mouse": 21,
+      "date": "2024-06-05T14:38:55Z",
+      "windowTitle": "Pipelines Actively Sourcing | Pipelines | Salesforce - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/o/Product2/list?filterName=00B2j000001DrArEAK",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 26,
+      "mouse": 30,
+      "date": "2024-06-05T14:39:55Z",
+      "windowTitle": "(87) Vipin kk | LinkedIn - Google Chrome",
+      "processName": "linkedin.com",
+      "visitingUrl": "linkedin.com/in/vipin-kk/",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T14:30:00Z"
+}

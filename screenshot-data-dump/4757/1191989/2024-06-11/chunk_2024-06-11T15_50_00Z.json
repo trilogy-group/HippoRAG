@@ -1,0 +1,195 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "Zoom"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-11T15:52:10Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Windows, Zoom, and other unidentified applications",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Zoom",
+            "windows": [
+              {
+                "title": "Zoom Meeting",
+                "url": null,
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "menu with options like Mute, Stop Video, Participants, Chat, Share Screen, Summary, Reactions, Apps, Notes, More. Bottom menu with Leave button."
+                },
+                "content": [
+                  {
+                    "title": "Zoom Meeting",
+                    "layoutDescription": "Video conference layout",
+                    "visibleText": "Recording\nTristan Muniz\nIsaac Squires\nMark Nygren\nDavid Kube\nread.ai meeting notes\nMute\nStop Video\nParticipants\nChat\nShare Screen\nSummary\nReactions\nApps\nNotes\nMore\nLe Muniz's Personal Meeting Room\nToday\nread.ai meeting notes to Everyone 9:31\nTristan added read.ai meeting notes to the meeting.\nRead provides AI generated meeting summaries to make meetings more effective and efficient. View our Privacy Policy at https://www.read.ai/app\nType \"read stop\" to disable, or \"opt out\" to delete meeting data.\nYou to Everyone 9:32\nhttps://tenjin.com/\nhttps://www.adjust.com can see your messages? Recording On\nTo: Everyone\nType message here..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively participating in a Zoom meeting. The meeting interface shows multiple participants, including Tristan Muniz, Isaac Squires, Mark Nygren, and David Kube. The meeting is being recorded, and there is a chat window open on the right side of the screen. The chat includes messages about read.ai meeting notes, which provide AI-generated meeting summaries to make meetings more effective and efficient. The user has shared several links in the chat, including URLs to tenjin.com, adjust.com, branch.io, kochava.com, and mixpanel.com.",
+    "The Zoom meeting interface includes various options such as Mute, Stop Video, Participants, Chat, Share Screen, Summary, Reactions, Apps, Notes, and More. The user is likely discussing topics related to mobile measurement and marketing, as indicated by the shared links. The read.ai meeting notes feature is highlighted, suggesting that the user is utilizing AI tools to enhance the meeting experience by generating summaries and managing meeting data efficiently."
+  ],
+  "aiUseSummary": "The user is utilizing the read.ai feature within Zoom to generate AI-powered meeting summaries. This tool helps in making meetings more effective and efficient by providing automated summaries and managing meeting data. The user has shared information about this feature in the chat, indicating its importance in their workflow. The AI tool's impact on productivity is evident as it helps streamline the meeting process and ensures that important information is captured and shared with participants.",
+  "activities": [
+    "MEETING",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [],
+  "aiTools": [
+    "SHORTWAVE"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 100,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-11T15:50:46Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 5,
+      "date": "2024-06-11T15:51:46Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T15:52:46Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T15:53:47Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T15:54:47Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-11T15:55:47Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T15:56:47Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T15:57:47Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T15:58:47Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T15:59:47Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-11T15:50:00Z"
+}

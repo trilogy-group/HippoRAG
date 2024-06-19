@@ -1,0 +1,274 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "crossover.lightning.force.com",
+    "idea64",
+    "chatgpt.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T11:12:09Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Google Chrome, File Explorer, Microsoft Edge, Microsoft Store, Mail, Calendar, Photos, Settings, and other unidentified applications. System tray includes network, sound, and battery status icons, a clock showing '13:12' and the date '06/12/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Home | Salesforce - Google Chrome",
+                "url": "https://crossover.lightning.force.com",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "navigation bar, tabs, address bar, bookmarks bar"
+                },
+                "content": [
+                  {
+                    "title": "Home | Salesforce",
+                    "layoutDescription": "webpage layout",
+                    "visibleText": "Welcome to Salesforce Home! Your dashboard includes widgets for recent items, tasks, and performance metrics. Explore new features and updates. Access your settings and account information through the top-right menu."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T11:13:25Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Google Chrome, File Explorer, and other unidentified applications. System tray includes network status, sound volume, date and time display (06/12/2024 13:13), and language indicator (ENG).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "IJ-5260-PK-Jammu-Ful | Salesforce - Google Chrome",
+                "url": "https://crossover.lightning.force.com",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "address bar, bookmarks bar, navigation buttons, Salesforce specific navigation bar with Home, Pipelines, LinkedIn Publish Logs, Campaign Analytics tabs, and more."
+                },
+                "content": [
+                  {
+                    "title": "Campaign IJ-5260-PK-Jammu-FullstackDevel.002",
+                    "layoutDescription": "detailed layout with multiple sections",
+                    "visibleText": "Campaign IJ-5260-PK-Jammu-FullstackDevel.002\nType: Indeed Job\nStatus: Planned\nStart Date: 05/06/2024\nEnd Date: -\n\nRelated\nDetails\n\nApplications (6)\nUsama Saif - A1-First Software Engineer\nApply Date: 10/06/2024 19:48\nLast Active Date: 19/06/2024\nStage: BFQ\n\nAbdul hanan - A1-First Software Engineer\nApply Date: 10/06/2024 16:52\nLast Active Date: 19/06/2024\nStage: BFQ\n\nAsad Iftikhar - A1-First Software Engineer\nApply Date: 10/06/2024 13:40\nLast Active Date: 19/06/2024\nStage: BFQ\n\nMuhammad Ahmad - A1-First Software Engineer\nApply Date: 10/06/2024 12:14\nLast Active Date: 19/06/2024\nStage: BFQ\n\nCampaign Analytics (1)\nRow ID: IJ-5260-PK-Jammu-FullstackDevel-20220423\nWeek Start: 03/06/2024\nTotal Apply Clicks: 27\nViews: 132\n\nCampaign Field History (3)\nDate\n11/06/2024 17:08\n05/06/2024 10:18\n05/06/2024 09:13\nUser\nIsabelle Adveniento\nIsabelle Adveniento\nArtyom Melnikov\nField\nActual Cost in Campaign\nBPO Passers\nCreated\nNew Value\n$582.34\n0\n4\nOriginal Value\n\nNotes (0)\nFiles (0)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T11:17:35Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, Widgets, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '13:37 06/12/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Firefox",
+            "windows": [
+              {
+                "title": "ChatGPT ? Mozilla Firefox",
+                "url": "https://chatgpt.com/4a7e7f56-51f5",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "address bar, tabs, bookmarks bar, vertical sidebar, and webpage content"
+                },
+                "content": [
+                  {
+                    "title": "ChatGPT",
+                    "layoutDescription": "webpage layout",
+                    "visibleText": "I have the following salesforce apex code\n\nLinkedSlots_ComputeCellMetricsBatch batch = new LinkedSlots_ComputeCellMetricsBatch();\nList<Sour = (SourcingPlatformRepo.INDEED);\nDatetime.valueOf( datetime value to be 3 weeks before now\n\nTo construct a 'Datetime' value that is 3 weeks before the current date and time in Salesforce Apex, you can use the 'Datetime.now()' method combined with the 'addweeks' method. Here's how you can modify your code:\n\nDatetime threeweeksago = Datetime.now().addweeks(-3);\nLinkedSlots_Compute batch = new LinkedSlots_ComputeCellMetricsBatch();\n\nThis code will set the 'Datetime' value to 3 weeks before the current date and time. The 'addweeks(-3)' method subtracts 3 weeks from the current 'Datetime'.\n\nConstruct it to be 2024-05-28\n\nTo set the 'Datetime' value to 2024-05-28, you can use the 'Datetime.newInstance' method in Salesforce Apex. Here's how you can modify your code:\n\nDatetime specificDate = Datetime.newInstance(2024, 5, 28, 0, 0, 0);\nLinkedSlots_ComputeCellMetricsBatch batch = new LinkedSlots_ComputeCellMetricsBatch();\n\nThis code will set the 'Datetime' value to 2024-05-28 at midnight (00:00:00). If you need a different time of day, you can adjust the hours, minutes, and seconds accordingly."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in configuring and managing Salesforce settings. This is evident from the screenshots showing the user navigating through various Salesforce setup pages, including 'Object Manager' and 'Campaign Analytics'. The user is likely involved in setting up fields, managing campaigns, and analyzing application data. The detailed layout of the Salesforce pages indicates a focus on backend configuration and data management tasks.",
+    "The user is also seen interacting with ChatGPT for assistance with Salesforce Apex code. The conversation with ChatGPT involves constructing a 'Datetime' value that is 3 weeks before the current date and time. The user is seeking guidance on using the 'Datetime.now()' method combined with the 'addweeks' method in Salesforce Apex. This indicates that the user is performing research and seeking code suggestions to solve a specific problem related to date manipulation in Salesforce.",
+    "Throughout the captured period, the user is primarily working within the Google Chrome browser, accessing various Salesforce pages and ChatGPT. The user is managing job applications, analyzing campaign data, and configuring Salesforce fields. The presence of multiple tabs related to Salesforce and ChatGPT suggests a workflow that involves frequent switching between configuration tasks and seeking AI assistance for coding and problem-solving."
+  ],
+  "aiUseSummary": "The user utilizes ChatGPT to seek assistance with Salesforce Apex code. Specifically, the user is asking ChatGPT how to construct a 'Datetime' value that is 3 weeks before the current date and time. ChatGPT provides code snippets and explanations on using the 'Datetime.now()' method combined with the 'addweeks' method. This interaction indicates that the user relies on AI for code suggestions and guidance on implementing specific functionalities in Salesforce Apex, enhancing productivity and ensuring accurate code implementation.",
+  "activities": [
+    "READING_SPEC",
+    "RESEARCH"
+  ],
+  "workTypes": [
+    "BACKEND"
+  ],
+  "programmingLanguages": [
+    "SALESFORCE"
+  ],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [
+    "OPENAI_CHATGPT"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "READING_SPEC",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 34,
+      "date": "2024-06-12T11:10:01Z",
+      "windowTitle": "Home | Salesforce - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/setup/null/page?address=%2F_ui%2Fcommon%2Fconfig%2Ffield%2FStandardFieldAttributes%2Fe%3Fid%3D00NIj000000JYti%26type%3D01I2j000000L2v1%26retURL%3D%252F00NIj000000JYti%253F%253Dnull%2526entityId%253D01I2j000000L2v1%2",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 42,
+      "date": "2024-06-12T11:11:01Z",
+      "windowTitle": "Home | Salesforce - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/setup/null/page?address=%2F_ui%2Fcommon%2Fconfig%2Ffield%2FStandardFieldAttributes%2Fe%3Fid%3D00NIj000000JYtj%26type%3D01I2j000000L2v1%26retURL%3D%252F00NIj000000JYtj%253F%253Dnull%2526entityId%253D01I2j000000L2v1%2",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 34,
+      "date": "2024-06-12T11:12:01Z",
+      "windowTitle": "Application | Salesforce - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/setup/ObjectManager/Opportunity/FieldsAndRelationships/00N0o00000NYuO6/view",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 8,
+      "mouse": 24,
+      "date": "2024-06-12T11:13:01Z",
+      "windowTitle": "Indeed Current | LinkedIn Publish Logs | Salesforce - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/o/LinkedIn_Publish_Log__c/list?filterName=00B2j000001IIjmEAG",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 20,
+      "date": "2024-06-12T11:14:01Z",
+      "windowTitle": "Muhammad Asif - AI-First Software Engineer | Application | Salesforce - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/r/Opportunity/006Ij000002wAq4IAE/view",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 76,
+      "mouse": 23,
+      "date": "2024-06-12T11:15:01Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 16,
+      "mouse": 22,
+      "date": "2024-06-12T11:16:01Z",
+      "windowTitle": "sfdx ? SourcingPlatformRepo",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 128,
+      "mouse": 31,
+      "date": "2024-06-12T11:17:01Z",
+      "windowTitle": "ChatGPT ? Mozilla Firefox",
+      "processName": "chatgpt.com",
+      "visitingUrl": "https://chatgpt.com",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 93,
+      "mouse": 11,
+      "date": "2024-06-12T11:18:01Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 132,
+      "mouse": 5,
+      "date": "2024-06-12T11:19:01Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-12T11:10:00Z"
+}

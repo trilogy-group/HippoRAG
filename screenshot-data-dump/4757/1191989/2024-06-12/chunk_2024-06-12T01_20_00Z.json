@@ -1,0 +1,100 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "chrome",
+    "drive.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T01:28:22Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "taskbar visible at the bottom of the screen",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "LearnWith.AI Beta Test - Ana (2024-06-06 18:05 GMT+3) - Google Drive - Google Chrome",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Video call window visible in the bottom right corner"
+                },
+                "content": [
+                  {
+                    "title": "In-game view",
+                    "layoutDescription": "Main gameplay area",
+                    "visibleText": ""
+                  },
+                  {
+                    "title": "Game HUD",
+                    "layoutDescription": "Top of the screen",
+                    "visibleText": "39% (Health bar), 1 (clover icon), 1 (star icon), 10 (coin icon), 59 (gem icon), 1 (heart icon)"
+                  },
+                  {
+                    "title": "Video Call",
+                    "layoutDescription": "Bottom right corner",
+                    "visibleText": "Elena Selegean"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a video call while simultaneously interacting with a game. The game interface shows various HUD elements such as health, clover, star, coin, gem, and heart icons. The video call window is visible in the bottom right corner, indicating that the user is multitasking between the game and the call. The game appears to be the primary focus, with the user actively navigating the in-game environment.",
+    "The user is using Google Chrome to access a Google Drive link. The title of the Chrome window indicates that the user is involved in a beta test for 'LearnWith.AI'. The video call is part of this beta test, as suggested by the title 'LearnWith.AI Beta Test - Ana'. The user is likely discussing or demonstrating aspects of the game during the call, as the game is prominently displayed on the screen."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a video call and interacting with a game. No AI chat interfaces or AI-driven tools are visible in the screenshots.",
+  "activities": [
+    "MEETING"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 5,
+      "date": "2024-06-12T01:28:19Z",
+      "windowTitle": "LearnWith.AI Beta Test - Ana (2024-06-06 18:05 GMT+3) - Google Drive - Google Chrome",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T01:29:19Z",
+      "windowTitle": "LearnWith.AI Beta Test - Ana (2024-06-06 18:05 GMT+3) - Google Drive - Google Chrome",
+      "processName": "drive.google.com",
+      "visitingUrl": "drive.google.com/file/d/1CmwimKV96gAkuaeeAGpSJ_fRJQIZnbZ-/view",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-12T01:20:00Z"
+}

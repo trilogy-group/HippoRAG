@@ -1,0 +1,144 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "drive.google.com",
+    "mail.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-11T22:23:19Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, Calendar, Weekly Update, Budget, Magic Academy, and system notifications. Active application indicator under Chrome.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "DevFactory Mail - Google Chrome",
+                "url": "mail.google.com/mail/u/0/#chat/dm/",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "buttons, address bar, tabs, profile icon, and more"
+                },
+                "content": [
+                  {
+                    "title": "Gmail",
+                    "layoutDescription": "client interface",
+                    "visibleText": "Simon Said\n1:53 PM · Edited\nMy understanding is Latex can do anything MD can with the exception of:\n• Inline HTML\n• Task Lists\n• Emoji\n• Automatic URL Linking\nand these are then supported through packages too actually\n\nSimon Said\n2:34 PM\nI know the plans for Q3 Magic Academy have likely been pretty volatile over the past few days, could you list any capabilities related to either 1. platform commodity functionality, 2. academic platform work (quizzing changes, adaptive/mastery algorithm changes, skill stack changes), 3. changes to how you get content, that would impact the content gen system (e.g. changes to selection algorithms, moderation, new tutor interaction workflows, etc)\n\nThis will help drive rightsizing\n\nand on the prompt engineering side, my understanding is that we only want to finish off the Math MCQs in Q3, and refine the tutor there, is that correct?\n\n2:47 PM\nok"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in a chat conversation on Gmail with a person named Simon. The conversation involves discussing the capabilities of Latex compared to Markdown, specifically mentioning features like Inline HTML, Task Lists, Emoji, and Automatic URL Linking. Simon also inquires about the plans for Q3 Magic Academy, asking for details on platform commodity functionality, academic platform work, and changes to the content generation system. The user responds with an 'ok' at 2:47 PM.",
+    "The user has a task list open on the right side of the screen, which includes various tasks such as 'Mac build working on Steam,' 'Reply to Simon,' 'Tablet for Phil's son,' 'Q2 progress / Q3 plan,' 'Samy 1:1 topics,' 'Play test,' 'Enter grade (support US grades only),' 'Post TeachTap content on TikTok,' 'Follow up with Doreen about beta program and research study,' and 'Publish game for Xbox / Playstation / Apple vision.' The user seems to be managing and organizing their tasks while engaging in the chat conversation."
+  ],
+  "aiUseSummary": "",
+  "activities": [
+    "EMAIL",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "CHATTING_WITH_TEAM",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 4,
+      "mouse": 12,
+      "date": "2024-06-11T22:20:49Z",
+      "windowTitle": "IMG_5767.MOV - Google Drive - Google Chrome",
+      "processName": "drive.google.com",
+      "visitingUrl": "drive.google.com/file/d/1alTcH01HycSbfp7KSDMZ1fyzjVqFwz74/view?ts=6668a8d0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 14,
+      "mouse": 14,
+      "date": "2024-06-11T22:21:49Z",
+      "windowTitle": "TeachTap - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAQOJ5hB4",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-11T22:22:49Z",
+      "windowTitle": "TeachTap - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAQOJ5hB4",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 30,
+      "date": "2024-06-11T22:23:49Z",
+      "windowTitle": "TeachTap - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/iXTDrUAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 18,
+      "date": "2024-06-11T22:24:49Z",
+      "windowTitle": "TeachTap - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/iXTDrUAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 14,
+      "date": "2024-06-11T22:25:49Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAEmgOYpc",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-11T22:20:00Z"
+}

@@ -1,0 +1,290 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "webstorm64",
+    "docs.aws.amazon.com",
+    "chrome"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T08:52:39Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Visual Studio Code, File Explorer, and other unidentified applications. Displays the time as 10:42 AM and date as 6/14/2024. Language set to ENG. Network, sound, and battery status icons are visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "xo-hiring-monorepo | teatime/LAMBDA-73909-amended-2024",
+                "position": "full screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar at the top with options like File, Edit, View, Go, Run, Terminal, Help. Sidebar on the left with file explorer showing project directories and files. Bottom bar showing git branch, problems count, and feedback icon."
+                },
+                "content": [
+                  {
+                    "title": "auth-stack.ts",
+                    "layoutDescription": "Code editor open",
+                    "visibleText": "33 export class AuthStack extends RootStack {\n34 constructor(stackConfig: StackConfig, envConfig: AuthConfig) {\n35 this.addCognitoTo(stackConfig, envConfig);\n36 }\n\n37 /**\n38 * Create all Lambda functions based on the registry\n39 * A proper shared layer for node modules will be created as well\n40 */\n41 private createLambdaFunctions(stackConfig: StackConfig, envConfig: AuthConfig): void {\n42 const layerPath: string = path.resolve(project.path, 'dist/layer');\n43 the codePath: string = path.resolve(project.path, 'dist/code');\n44 the moduleLayer: LayerVersion = new LayerVersion(this, id: 'node_modules_layer', props: {\n45 code: fromAsset(layerPath),\n46 compatibleRuntimes: [Runtime.NODEJS_16_X],\n47 });\n\n48 // This is assets with the Lambda code\n49 the assetCode = Code.fromAsset(codePath);\n\n50 // Now create Lambdas\n51 LambdasRegistry.forEach((declaration: LambdaDeclaration) => {\n52 declaration.setFunction\n53 .fn()\n54 .addEnvironment('KEY', 'ENV', stackConfig.environmentName)\n55 .addEnvironment('SF_URL', envConfig.sfUrl)\n56 .addEnvironment('SF_API_VERSION', envConfig.sfApiVersion);\n57 });\n\n58 // Lambda permissions\n59 declaration.fn().addToRolePolicy(CsmPolicy(stackConfig)}"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T08:53:37Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, File Explorer, Microsoft Edge, Visual Studio Code, and system tray with notifications, sound, network, and battery status icons",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "lambda-cdk-infra \\_workspace\\Lambda\\lambda-cdk-infra",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "menu bar with File, Edit, Selection, View, Go, Run, Terminal, Help. Sidebar with Explorer, Search, Source Control, Run and Debug, Extensions. Status bar with branch master, problems count, warnings count, and notifications."
+                },
+                "content": [
+                  {
+                    "title": "InfraRumAppMonitor.ts",
+                    "layoutDescription": "Code editor open",
+                    "visibleText": "import { StackProps, Stack, Construct } from 'monocdk';\nimport { IdentityPool } from '@aws-cdk/aws-cognito';\n\nexport class InfraRumAppMonitor extends CfnAppMonitor {\n private prepareProps(stackConfig: StackConfig, stack: Stack, scope: Construct, props: InfraRumAppMonitorProps): InfraRumAppMonitorProps {\n const identityPool: IdentityPool = new IdentityPool(scope, stackConfig.generateLogicalId({resourceName: 'rum-pool'}), {\n allowUnauthenticatedIdentities: true,\n });\n\n const scopeStack: Stack = Stack.of(scope);\n identityPool.unauthenticatedRole.add..."
+                  }
+                ]
+              },
+              {
+                "title": "Migrate this code to AWS SDK v3",
+                "position": "maximized",
+                "isActive": false,
+                "uiElements": {
+                  "details": "menu bar with File, Edit, Selection, View, Go, Run, Terminal, Help. Sidebar with Explorer, Search, Source Control, Run and Debug, Extensions. Status bar with branch master, problems count, warnings count, and notifications."
+                },
+                "content": [
+                  {
+                    "title": "S3Utils.ts",
+                    "layoutDescription": "Code editor open",
+                    "visibleText": "import * as log from 'loglevel';\nimport {\n S3Client,\n ListObjectsCommand,\n DeleteObjectCommand,\n DeleteObjectsCommand\n} from '@aws-sdk/client-s3';\n\nexport class S3Utils {\n static async cleanupS3Bucket(bucketName: string) {\n if (bucketName === '' || bucketName.length === 0) {\n throw an Error('No bucket name is provided for the cleanup.');\n }\n const s3 = new S3Client();\n try {\n let ContinuationToken: string | undefined = undefined;\n do {\n the response = await s3.send(new ListObjectsCommand({\n Bucket: bucketName,\n ContinuationToken,\n }));\n Continuation..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T08:59:28Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, widgets, and several pinned applications. Displays the time as 10:49 AM and date as 6/14/2024. Network, sound, and battery status icons are visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "lambda-cdk-infra \\ workspace Lambda\\lambda-cdk-infra",
+                "url": null,
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "menu bar with options like File, Edit, View, Go, Run, Terminal, Help. Sidebar with Explorer tab open showing project files. Bottom bar showing terminal output."
+                },
+                "content": [
+                  {
+                    "title": "lambda.ts",
+                    "layoutDescription": "editor open",
+                    "visibleText": "export class InfralambdaCdkFunction extends Function {\n constructor(public config: StackConfig, scope: Construct, public props: InfralambdaCdkFunctionProps) {\n super(scope, config.generateName(props.baseName), extendWithDefaultProps(props.baseName, config, props));\n }\n\n static forRootStack(rootStack: RootStack, properties: InfralambdaCdkFunctionProps): InfralambdaCdkFunction {\n return new InfralambdaCdkFunction(rootStack, rootStack, properties);\n }\n\n function extendWithDefaultProps(baseName: string, config: StackConfig, props?: InfralambdaCdkFunctionProps): InfralambdaCdkFunction {\n const resourceName: string = config.generateName(baseName);\n const defaultFunctionProps = mergeOrDefaultInfralambdaCdkFunction(props, {\n functionName: resourceName,\n });\n return mergeOrDefaultInfralambdaCdkFunction(defaultFunctionProps || {});\n }\n\n export function declareLambdaHandler(handler: string, props?: Partial<InfralambdaCdkFunctionProps>): LambdaDeclaration {\n const partialProps: Partial<InfralambdaCdkFunctionProps> = props ? {} : undefined;\n if (!props.baseName) {\n return defaultConfig;\n }\n return defaultConfig;\n }\n"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in writing code within the WebStorm IDE. They are working on a project named 'xo-hiring-monorepo' and specifically editing a file named 'auth-stack.ts'. The code involves creating Lambda functions and setting up environment variables for a stack configuration. The user is defining classes and methods to handle various configurations and permissions for AWS Lambda functions.",
+    "The user is also working on another project named 'lambda-cdk-infra' within the WebStorm IDE. They are editing a file named 'InfraRumAppMonitor.ts', which involves setting up an Identity Pool using AWS Cognito. The code includes importing necessary modules and defining classes and methods to configure the Identity Pool and its properties. The user is also addressing vulnerabilities and running npm commands to fix issues.",
+    "The user is utilizing an AI_IDE_EXTENSION within the WebStorm IDE. The AI tool is providing suggestions for migrating code from AWS SDK v2 to AWS SDK v3. The user is prompted to update import statements and adjust the way S3 client and commands are used. The AI tool provides a detailed code snippet for the updated implementation, indicating the user's reliance on AI for code migration tasks.",
+    "The user is conducting research on the AWS documentation website, specifically viewing the API documentation for 'aws-cdk-lib.aws_apigateway.CognitoUserPoolsAuthorizer'. This suggests that the user is looking for information on how to implement or configure Cognito User Pools Authorizer in their project, indicating a focus on integrating AWS services into their application."
+  ],
+  "aiUseSummary": "The user is leveraging an AI_IDE_EXTENSION within the WebStorm IDE to assist with code migration tasks. Specifically, the AI tool is providing guidance on migrating code from AWS SDK v2 to AWS SDK v3. The AI suggests updating import statements and provides a detailed code snippet for the new implementation. This indicates that the user is using AI to streamline the process of updating and refactoring code, enhancing productivity and ensuring compatibility with the latest SDK versions.",
+  "activities": [
+    "WRITING_CODE",
+    "RESEARCH"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "IAC"
+  ],
+  "programmingLanguages": [
+    "TYPESCRIPT"
+  ],
+  "toolTypes": [
+    "IDE",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [
+    "AI_IDE_EXTENSION"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 34,
+      "mouse": 25,
+      "date": "2024-06-14T08:50:17Z",
+      "windowTitle": "lambda-cdk-infra ? s3-utils.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 29,
+      "mouse": 28,
+      "date": "2024-06-14T08:51:17Z",
+      "windowTitle": "lambda-cdk-infra ? rum.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 83,
+      "mouse": 10,
+      "date": "2024-06-14T08:52:17Z",
+      "windowTitle": "class CognitoUserPoolsAuthorizer (construct) ? AWS CDK - Google Chrome",
+      "processName": "docs.aws.amazon.com",
+      "visitingUrl": "docs.aws.amazon.com/cdk/api/v2/docs/aws-cdk-lib.aws_apigateway.CognitoUserPoolsAuthorizer.html",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 63,
+      "mouse": 21,
+      "date": "2024-06-14T08:53:17Z",
+      "windowTitle": "lambda-cdk-infra ? rum.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 33,
+      "mouse": 19,
+      "date": "2024-06-14T08:54:17Z",
+      "windowTitle": "lambda-cdk-infra ? rum.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 30,
+      "mouse": 33,
+      "date": "2024-06-14T08:55:17Z",
+      "windowTitle": "lambda-cdk-infra ? package.json",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 30,
+      "mouse": 22,
+      "date": "2024-06-14T08:56:17Z",
+      "windowTitle": "lambda-cdk-infra ? rum.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 28,
+      "mouse": 27,
+      "date": "2024-06-14T08:57:17Z",
+      "windowTitle": "lambda-cdk-infra ? package.json",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 92,
+      "mouse": 23,
+      "date": "2024-06-14T08:58:17Z",
+      "windowTitle": "lambda-cdk-infra ? lambda.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 11,
+      "mouse": 30,
+      "date": "2024-06-14T08:59:17Z",
+      "windowTitle": "Google Chat - WS.Eng AI Adoption - Chat",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-14T08:50:00Z"
+}

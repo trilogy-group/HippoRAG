@@ -1,0 +1,428 @@
+{
+  "candidateId": 2368956,
+  "apps": [
+    "notion.so"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-06T21:32:14Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Visual Studio Code, Microsoft Teams, and other unidentified applications. Also includes the system clock showing '9:32 PM' and system date '6/6/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "AI Assist - Google Chrome",
+                "url": "https://www.medium.com/@AIAssist",
+                "position": "right half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Address bar, bookmarks bar, tabs, and navigation controls visible"
+                },
+                "content": [
+                  {
+                    "title": "AI Assist",
+                    "layoutDescription": "Main content area with text and images",
+                    "visibleText": "AI Assist\n\nWe believe in a tech-driven, AI-powered productivity push with perfect memory whose outcomes are to make each interaction and day count for our clients who hire us, hard.\n\nSpikey/Differentiated Points of View\n\n* AI can help us see what we would not see via pattern collection.\n* We want to be super helpful. We aim to deliver useful artifacts that help us each interact meaningfully.\n* We want to be very human-like, in our process flows, ideas, and text content and interaction.\n* We understand that there is a lot to learn about providing organized content. We take a lot of pride in our learning curve, in that we work until we are crystal clear, make mistakes, learn from them and improve.\n* The application of technologies into productive work workflows and adjust best practices, or learn new ones.\n* The current state of interacting with AI in the tech chat is that it offers a limited and precise scope, especially for AI-driven chat-based customer service interactions.\n\nWho are the users, and what outcome do they desire?\n\nSee All Medium posts »"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "Human Data Processing",
+                "position": "left half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Code editor with multiple tabs open"
+                },
+                "content": [
+                  {
+                    "title": "Human Data Processing",
+                    "layoutDescription": "Code editor with syntax highlighting",
+                    "visibleText": "import numpy as np\nimport pandas as pd\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.linear_model import Logistic Regression\nfrom sklearn.metrics..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Zoom",
+            "windows": [
+              {
+                "title": "Zoom Meeting",
+                "position": "center of the screen",
+                "isActive": false,
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "John Doe",
+                      "expression": "focused"
+                    },
+                    {
+                      "name": "Jane Doe",
+                      "expression": "neutral"
+                    }
+                  ]
+                },
+                "uiElements": {
+                  "details": "Video conference window with participant controls"
+                },
+                "content": [
+                  {
+                    "title": "Zoom Meeting",
+                    "layoutDescription": "Video call interface",
+                    "visibleText": "John Doe\nJane Doe"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-06T21:33:30Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Google Chrome, Visual Studio Code, Terminal, and other unidentified applications. Also includes system status icons like Wi-Fi, battery, clock showing '9:33 PM', and Spotlight search.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "AI Assist - Google Chrome",
+                "url": "https://www.medium.com/@AIAssist",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "multiple tabs, address bar, bookmarks bar, and navigation buttons."
+                },
+                "content": [
+                  {
+                    "title": "AI Assist",
+                    "layoutDescription": "Main content visible",
+                    "visibleText": "AI Assist\n\nWe believe in a tech-driven, AI-powered productivity push that'll perfect memory whose nuances help us reach new conclusions and clarify the old with new lenses. Here, hard work is not just about the hours but about the quality of those hours.\n\nSpiky/Differentiated Points of View\n\n* AI can help us see what we would not see otherwise.\n* We want to use the insights from AI to drive better outcomes.\n* We want to apply machine learning, deep process insights, data, and text content and use them to build better solutions.\n* We understand that there is a lot to learn not just about providing scripted tasks. We take a leap of faith and start building on that with methods that are open and scalable.\n* Machine learning and AI technologies, used productively with workflows and adapted best practices, can improve outcomes.\n* The power of machine learning with AI in the Cloud has a lot to offer in terms of scale and pace.\n* We consider our approach to AI and machine learning as iterative and adaptive.\n\nWho are the users, and what outcome do they desire?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "Human Data Processing",
+                "position": "top left quadrant",
+                "isActive": false,
+                "uiElements": {
+                  "details": "code editor area, terminal panel, and sidebar with file explorer."
+                },
+                "content": [
+                  {
+                    "title": "Human Data Processing",
+                    "layoutDescription": "Code editor visible",
+                    "visibleText": "import numpy as np\nimport pandas as pd\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.linear_model import Logistic Regression\nfrom sklearn.metrics import accuracy_score\n\n# Load dataset\ndata = pd.read_csv('data/human_activity.csv')\ndata.head Preprocess data\nX = data.drop('Activity', axis=1)\ny = data['Activity']\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)\n\n# Model training\nmodel = Logistic Regression()\nmodel.fit(X_train, y_train)\n\n# Model evaluation\naccuracy = model.evaluate(X_test, y_test)\nprint(f'Accuracy: {accuracy}%')"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Video Call",
+            "windows": [
+              {
+                "title": "Video Call - Google Meet",
+                "position": "bottom left quadrant",
+                "isActive": false,
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "George"
+                    },
+                    {
+                      "name": "John"
+                    }
+                  ]
+                },
+                "uiElements": {
+                  "details": "video call interface with control buttons"
+                },
+                "content": [
+                  {
+                    "title": "Video Call - Google Meet",
+                    "layoutDescription": "Video call window",
+                    "visibleText": "George\nJohn"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-06T21:38:52Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Photos, Messages, FaceTime, Maps, Contacts, Reminders, Notes, TV, Music, Podcasts, News, System Preferences, App Store, Books, Preview, Time Machine, Siri, and Trash. Also includes a docked application bar with visible icons for Google Chrome, Microsoft Teams, Slack, and a few unidentified applications.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "AI Assist - Google Chrome",
+                "url": "https://www.medium.com/@AIAssist",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "search bar, bookmarks bar, multiple tabs, navigation buttons, profile icon, extensions icons"
+                },
+                "content": [
+                  {
+                    "title": "AI Assist",
+                    "layoutDescription": "Web page layout",
+                    "visibleText": "AI Assist\n\nWe believe in a high-touch, AI-powered productivity expert with perfect memory whose sole mission is to make each interaction as valuable and as quick as possible when users need it. Our AI-powered tools are designed to help you cut through the noise, hard.\n\nSpiky/Differentiated Points of View\n\n* AI can help us see the world differently via data collection.\n* We want to be your memory, focus on your deep process flows, and help cut content and information overload.\n* We understand that there is a lot to learn that isn't about providing scripted answers. We take a deep dive into your business, understanding your unique needs, creating solutions that are personalized and disruptive.\n* The power of integrating AI into existing products with new workflows and adjusted targets, or creating new products with AI at their heart is a different and better experience.\n* The current state of technology in the AI tech stack that enables real-time analysis is just a snapshot of a larger, ongoing, evolving narrative.\n\nWho are the users, and what outcome do they desire?\n\nSee All Medium posts »"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Teams",
+            "windows": [
+              {
+                "title": "Microsoft Teams Video Call",
+                "position": "bottom left",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Video call interface, chat interface, participant list, call controls"
+                },
+                "content": [
+                  {
+                    "title": "Microsoft Teams Video Call",
+                    "layoutDescription": "Video call layout",
+                    "visibleText": "John Doe\nJane Doe\n\n[Video call ongoing with two participants visible on screen. Participant 1 (John Doe) appears focused and is wearing a headset. Participant 2 (Jane Doe) appears to be speaking and is in a room with modern decor.]"
+                  },
+                  {
+                    "title": "Chat",
+                    "layoutDescription": "Chat layout",
+                    "visibleText": "John Doe\n\nHey, when's your next trip?\n\nJane Doe\n\nGoing to Seattle next week, Tue, leaving SFO 8:30 AM and back at SFO 6:30 PM\n\nJohn Doe\n\nSounds awesome! Safe travels!\n\n[Chat history visible with timestamps and user names]"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Slack",
+            "windows": [
+              {
+                "title": "Slack Chat",
+                "position": "top right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Chat interface, channel list, user profile icon, search bar"
+                },
+                "content": [
+                  {
+                    "title": "Slack Chat",
+                    "layoutDescription": "Chat layout",
+                    "visibleText": "#ai-assist\n\nJohn Doe\n\nAI advancements in space engineering applications are also promising. One particular field that I think of is astronautics. AI can help in the design, construction, and maintenance of spacecraft. AI can extend the ship's capabilities, making it more autonomous and capable.\n\n[Chat visible with user names and timestamps]"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Finder",
+            "windows": []
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a meeting using Microsoft Teams, as evidenced by the video call interface visible in the screenshots. The meeting involves at least two participants, with one participant appearing focused and the other speaking. This indicates active communication and collaboration, likely discussing project-related matters or updates.",
+    "The user is also reading a specification document on Notion, titled 'AI Assist'. The document outlines various points of view on AI-powered productivity, including the benefits of AI in pattern collection, process flows, and content organization. The user is likely gathering information or preparing for a task related to AI implementation or strategy.",
+    "Additionally, the user is seen using Visual Studio Code, with a code editor open displaying Python code. The code involves importing libraries such as numpy and pandas, and includes a machine learning model training process using Logistic Regression. This indicates the user is working on a data processing or machine learning task, possibly related to human activity recognition.",
+    "The user is conducting research on Medium, as indicated by the open Google Chrome window with a Medium article titled 'AI Assist'. The article discusses AI advancements and their applications, suggesting the user is exploring new ideas or staying updated on AI trends and technologies.",
+    "Throughout the session, the user is actively switching between different applications, including Notion, Visual Studio Code, and Google Chrome. This multitasking behavior suggests the user is managing multiple tasks simultaneously, such as coding, reading specifications, and conducting research."
+  ],
+  "aiUseSummary": "There is no direct evidence of AI tool usage in the provided screenshots. The user is primarily engaged in reading specifications, coding, and participating in a meeting. No AI chat interfaces or AI-generated content are visible in the screenshots, indicating that AI tools were not utilized during this session.",
+  "activities": [
+    "MEETING",
+    "READING_SPEC",
+    "WRITING_CODE",
+    "RESEARCH"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "UI"
+  ],
+  "programmingLanguages": [
+    "PYTHON"
+  ],
+  "toolTypes": [
+    "IDE",
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "READING_SPEC",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T21:30:04Z",
+      "windowTitle": " (1) AI Assist - Google Chrome\n",
+      "processName": "notion.so",
+      "visitingUrl": "https://www.notion.so/trilogy-enterprises/AI-Assist-ffa3eed2486541edbb89a0513cd55518",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T21:31:04Z",
+      "windowTitle": " (1) AI Assist - Google Chrome\n",
+      "processName": "notion.so",
+      "visitingUrl": "https://www.notion.so/trilogy-enterprises/AI-Assist-ffa3eed2486541edbb89a0513cd55518",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T21:32:04Z",
+      "windowTitle": " (1) AI Assist - Google Chrome\n",
+      "processName": "notion.so",
+      "visitingUrl": "https://www.notion.so/trilogy-enterprises/AI-Assist-ffa3eed2486541edbb89a0513cd55518",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T21:33:04Z",
+      "windowTitle": " (1) AI Assist - Google Chrome\n",
+      "processName": "notion.so",
+      "visitingUrl": "https://www.notion.so/trilogy-enterprises/AI-Assist-ffa3eed2486541edbb89a0513cd55518",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T21:34:04Z",
+      "windowTitle": " (1) AI Assist - Google Chrome\n",
+      "processName": "notion.so",
+      "visitingUrl": "https://www.notion.so/trilogy-enterprises/AI-Assist-ffa3eed2486541edbb89a0513cd55518",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T21:35:04Z",
+      "windowTitle": " (1) AI Assist - Google Chrome\n",
+      "processName": "notion.so",
+      "visitingUrl": "https://www.notion.so/trilogy-enterprises/AI-Assist-ffa3eed2486541edbb89a0513cd55518",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T21:36:04Z",
+      "windowTitle": " (1) AI Assist - Google Chrome\n",
+      "processName": "notion.so",
+      "visitingUrl": "https://www.notion.so/trilogy-enterprises/AI-Assist-ffa3eed2486541edbb89a0513cd55518",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T21:37:04Z",
+      "windowTitle": " (1) AI Assist - Google Chrome\n",
+      "processName": "notion.so",
+      "visitingUrl": "https://www.notion.so/trilogy-enterprises/AI-Assist-ffa3eed2486541edbb89a0513cd55518",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T21:38:04Z",
+      "windowTitle": " (1) AI Assist - Google Chrome\n",
+      "processName": "notion.so",
+      "visitingUrl": "https://www.notion.so/trilogy-enterprises/AI-Assist-ffa3eed2486541edbb89a0513cd55518",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T21:39:04Z",
+      "windowTitle": " (1) AI Assist - Google Chrome\n",
+      "processName": "notion.so",
+      "visitingUrl": "https://www.notion.so/trilogy-enterprises/AI-Assist-ffa3eed2486541edbb89a0513cd55518",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-06T21:30:00Z"
+}

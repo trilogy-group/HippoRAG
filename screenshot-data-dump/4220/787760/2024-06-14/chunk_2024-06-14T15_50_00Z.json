@@ -1,0 +1,291 @@
+{
+  "candidateId": 1444536,
+  "apps": [
+    "mail.google.com",
+    "crossover.lightning.force.com",
+    "us-east-1.console.aws.amazon.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T15:52:20Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, Visual Studio Code, Python, and system utilities like network and volume control, as well as the system clock showing '16:52:22' and date '14/06/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "dmitrii.shutenkov@tr - DevFactory Mail - Google Chrome",
+                "url": "mail.google.com",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, Gmail navigation pane, and email content pane"
+                },
+                "content": [
+                  {
+                    "title": "[JIRA] Isabelle A. mentioned you on LAMBDA-76089",
+                    "layoutDescription": "Email content visible",
+                    "visibleText": "Isabelle A. (Jira) jira@ws-lambda.atlassian.net to me\nIsabelle A. mentioned you on an issue\nWS Lambda / LAMBDA-76089\nVeriff Error\nIsabelle A. 3:10 PM GMT\nHi @Dmitrii Shutenkov ,\nCreating this ticket for candidate support:\n= = =\nAstha Bindra (Support)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T15:56:14Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Adobe Acrobat Reader, File Explorer, Microsoft Outlook, Visual Studio Code, and other unidentified applications. Also includes system clock showing '16:56:16', date '14/06/2024', and language setting 'ENG'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "CloudWatch | us-east-1 - Google Chrome",
+                "url": "https://us-east-1.console.aws.amazon.com/cloudwatch/home",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs for SF Prod, SF Sandbox, ADFS, My Tasks, Crossover Sprints, Create Task, Technical Debt - Crossover, Guides - Crossover, WS.Eng TPO: Leadership, Task Catalog, and CloudWatch. Also includes browser navigation buttons, address bar, and AWS management console navigation bar."
+                },
+                "content": [
+                  {
+                    "title": "CloudWatch Logs Insights",
+                    "layoutDescription": "Table layout",
+                    "visibleText": "# timestamp name level message\n1 2024-06-12T10:34:10.000Z xo-hiring-interview-bot-productio... info Preparing questions for session\n2 2024-06-12T10:34:10.349.897Z xo-hiring-interview-bot-productio... info 3 calibrated questions available\n3 2024-06-12T10:34:10.349.859Z xo-hiring-interview-bot-productio... info Exactly 3 calibrated questions are available, picking all of them\n4 2024-06-12T10:34:10.349.859Z xo-hiring-interview-bot-productio... info Questions prepared, session is ready\n5 2024-06-12T10:34:10.604.681Z xo-hiring-interview-bot-productio... info Session state changed to Started, starting step machine execution to check...\n6 2024-06-12T10:34:10.604.682Z xo-hiring-interview-bot-productio... info Session timeboxed: true, final expiration delay is 2460 seconds\n7 2024-06-12T10:34:10.349.672Z xo-hiring-interview-bot-productio... info User attempt prompt evaluation (1242 characters length, attempt 1/20)\n8 2024-06-12T10:34:10.349.672Z xo-hiring-interview-bot-productio... debug Sending message of type 'attempt-user-prompt' to gpt queue\n9 2024-06-12T10:34:10.349.672Z xo-hiring-interview-bot-productio... info Skipping prompt cheating check: questionGenerator.cheatingPrompt is not de...\n10 2024-06-12T10:34:10.349.672Z xo-hiring-interview-bot-productio... info Performing regex cheating check of the answer\n11 2024-06-12T10:34:10.349.672Z xo-hiring-interview-bot-productio... info Regex cheating check result\n12 2024-06-12T10:34:10.349.672Z xo-hiring-interview-bot-productio... debug Sending message of type 'attempt-user-prompt' to gpt queue\n13 2024-06-12T10:34:10.555.976Z xo-hiring-interview-bot-productio... info Skipping prompt cheating check: questionGenerator.cheatingPrompt is not de...\n14 2024-06-12T10:34:10.555.976Z xo-hiring-interview-bot-productio... info Performing regex cheating check of the answer\n15 2024-06-12T10:34:10.555.976Z xo-hiring-interview-bot-productio... info Regex cheating check result\n16 2024-06-12T10:34:10.555.976Z xo-hiring-interview-bot-productio... debug Sending message of type 'attempt-user-prompt' to gpt queue\n17 2024-06-12T10:34:10.555.976Z xo-hiring-interview-bot-productio... info Skipping prompt cheating check: questionGenerator.cheatingPrompt is not de...\n18 2024-06-12T10:34:10.555.976Z xo-hiring-interview-bot-productio... info Performing regex cheating check of the answer\n19 2024-06-12T10:34:10.555.976Z xo-hiring-interview-bot-productio... info Regex cheating check result\n20 2024-06-12T10:34:10.555.976Z xo-hiring-interview-bot-productio... debug Sending message of type 'attempt-user-prompt' to gpt queue\n21 2024-06-12T10:34:10.555.976Z xo-hiring-interview-bot-productio... info Skipping prompt cheating check: questionGenerator.cheatingPrompt is not de...\n22 2024-06-12T10:34:10.555.976Z xo-hiring-interview-bot-productio... info Performing regex cheating check of the answer\n23 2024-06-12T10:34:10.555.976Z xo-hiring-interview-bot-productio... info Regex cheating check result\n24 2024-06-12T10:34:10.555.976Z xo-hiring-interview-bot-productio... debug Sending message of type 'attempt-user-prompt' to gpt queue"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "System Clock",
+            "windows": [
+              {
+                "title": "System Clock",
+                "position": "bottom-right",
+                "isActive": false,
+                "content": [
+                  {
+                    "title": "System Clock",
+                    "layoutDescription": "Simple display",
+                    "visibleText": "16:56:16 14/06/2024 ENG"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Word",
+            "windows": []
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T15:57:34Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Widgets, Microsoft Edge, File Explorer, Google Chrome, Visual Studio Code, Microsoft Teams, Outlook, OneNote, and several other unidentified icons. System tray includes network status, sound volume, date and time display, and language selection (ENG).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "CloudWatch | us-east-1 - Google Chrome",
+                "url": "https://us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "address bar, bookmarks bar, multiple tabs, navigation buttons, AWS management console interface"
+                },
+                "content": [
+                  {
+                    "title": "CloudWatch",
+                    "layoutDescription": "complex layout with multiple panels",
+                    "visibleText": "Favorites and recents, Dashboards, Alarms, Logs, Metrics, Events, Application Signals, Network monitoring, CloudShell, Feedback, Show more chosen log groups, fields @timestamp, _name, _level, _message, _context.questionId, @_logStream, @_log, sort @timestamp asc, filter: context.sessionId = '338752c8-46b8-48b4-a8d7-967c2eabb972', Query generator, Run query, Cancel, Save, Actions, History, Logs Insights query can run for maximum of 60 minutes, Logs (165), Patterns, Visualization, Showing 165 of 165 records matched, 63,635 records (34.7 MB) scanned in 7.4s at 8,597 records/s (4.7 MB/s), Export results, Add to dashboard, Hide histogram"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in checking their email on Gmail. They are viewing an email from Isabelle A. (Jira) regarding a Veriff Error on the WS Lambda project. The email mentions the creation of a ticket for candidate support, indicating the user is involved in handling or managing support tickets. The email content is fully visible, showing the user's focus on understanding the issue mentioned in the email.",
+    "The user is also working on AWS CloudWatch, specifically within the Logs Insights section. They are analyzing logs related to the 'xo-hiring-interview-bot-production' service. The logs show various activities such as preparing questions for a session, evaluating user attempts, and performing regex cheating checks. The user is likely troubleshooting or monitoring the performance and activities of this service, as indicated by the detailed log entries and the active query being run.",
+    "The user continues to work on AWS CloudWatch, refining their query to filter logs based on specific session IDs. They are using the Logs Insights query editor to filter and sort log data, indicating a deep dive into specific log entries. This activity suggests the user is focused on identifying and resolving issues or gaining insights from the log data to improve the service's performance or reliability."
+  ],
+  "aiUseSummary": "There is no visible evidence of AI tools being used in the provided screenshots. The user is primarily engaged in email communication and log analysis on AWS CloudWatch. No AI chat interfaces or AI-driven suggestions are visible in the screenshots, indicating that the user is not utilizing AI tools during this specific timeframe.",
+  "activities": [
+    "EMAIL",
+    "RESEARCH"
+  ],
+  "workTypes": [
+    "BACKEND"
+  ],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "RESEARCH",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T15:50:25Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAeZVXuc0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-14T15:51:24Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAeZVXuc0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 19,
+      "date": "2024-06-14T15:52:24Z",
+      "windowTitle": "Inbox (31) - dmitrii.shutenkov@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 17,
+      "mouse": 8,
+      "date": "2024-06-14T15:53:24Z",
+      "windowTitle": "GenAI Prompt Engineering | Application Step Result | Salesforce - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/r/Application_Step_Result__c/a0BIj0000013vj8MAA/view",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 20,
+      "mouse": 12,
+      "date": "2024-06-14T15:54:24Z",
+      "windowTitle": "GenAI Prompt Engineering | Application Step Result | Salesforce - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/r/Application_Step_Result__c/a0BIj0000013vj8MAA/view",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 9,
+      "date": "2024-06-14T15:55:24Z",
+      "windowTitle": "CloudWatch | us-east-1 - Google Chrome",
+      "processName": "us-east-1.console.aws.amazon.com",
+      "visitingUrl": "us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1#logsV2:logs-insights$3FqueryDetail$3D~(end~'2024-06-12T23*3a59*3a59.000Z~start~'2024-06-12T00*3a00*3a00.000Z~timeType~'ABSOLUTE~tz~'UTC~editorString~'fields*20*40timestamp*2c*20name*2c*20le",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 5,
+      "date": "2024-06-14T15:56:24Z",
+      "windowTitle": "CloudWatch | us-east-1 - Google Chrome",
+      "processName": "us-east-1.console.aws.amazon.com",
+      "visitingUrl": "us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1#logsV2:logs-insights$3FqueryDetail$3D~(end~'2024-06-12T23*3a59*3a59.000Z~start~'2024-06-12T00*3a00*3a00.000Z~timeType~'ABSOLUTE~tz~'UTC~editorString~'fields*20*40timestamp*2c*20name*2c*20le",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 6,
+      "date": "2024-06-14T15:57:24Z",
+      "windowTitle": "CloudWatch | us-east-1 - Google Chrome",
+      "processName": "us-east-1.console.aws.amazon.com",
+      "visitingUrl": "us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1#logsV2:logs-insights$3FqueryDetail$3D~(end~'2024-06-12T23*3a59*3a59.000Z~start~'2024-06-12T00*3a00*3a00.000Z~timeType~'ABSOLUTE~tz~'UTC~editorString~'fields*20*40timestamp*2c*20name*2c*20le",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 32,
+      "mouse": 10,
+      "date": "2024-06-14T15:58:24Z",
+      "windowTitle": "CloudWatch | us-east-1 - Google Chrome",
+      "processName": "us-east-1.console.aws.amazon.com",
+      "visitingUrl": "us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1#logsV2:logs-insights$3FqueryDetail$3D~(end~'2024-06-12T23*3a59*3a59.000Z~start~'2024-06-12T00*3a00*3a00.000Z~timeType~'ABSOLUTE~tz~'UTC~editorString~'fields*20*40timestamp*2c*20name*2c*20le",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 26,
+      "mouse": 8,
+      "date": "2024-06-14T15:59:24Z",
+      "windowTitle": "CloudWatch | us-east-1 - Google Chrome",
+      "processName": "us-east-1.console.aws.amazon.com",
+      "visitingUrl": "us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1#logsV2:logs-insights$3FqueryDetail$3D~(end~'2024-06-12T23*3a59*3a59.000Z~start~'2024-06-12T00*3a00*3a00.000Z~timeType~'ABSOLUTE~tz~'UTC~editorString~'fields*20*40timestamp*2c*20name*2c*20le",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-14T15:50:00Z"
+}

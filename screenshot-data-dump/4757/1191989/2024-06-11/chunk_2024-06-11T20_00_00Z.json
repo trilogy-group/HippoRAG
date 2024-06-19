@@ -1,0 +1,196 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "Zoom"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-11T20:09:42Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Windows Start, search, task view, widgets, and several pinned applications including Edge, File Explorer, and others. Zoom application icon is highlighted indicating it is active.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Zoom",
+            "windows": [
+              {
+                "title": "Zoom Meeting",
+                "position": "full screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Stop Video, Participants, Chat, Share Screen, Summary, Reactions, Apps, Notes, More, Leave button"
+                },
+                "content": [
+                  {
+                    "title": "Video Conference",
+                    "layoutDescription": "Two participants visible",
+                    "visibleText": "Tristan Muniz, Isaac Squires"
+                  },
+                  {
+                    "title": "Chat Window",
+                    "layoutDescription": "Chat interface on the right",
+                    "visibleText": "Tristan Muniz's Personal Meeting Room\nToday\nNew messages\nTristan Muniz to Everyone 14:09\nhttps://docs.google.com/spreadsheets/d/1kL can see your messages?\nTo: Everyone\nType message here..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Zoom meeting, as indicated by the active Zoom application in full-screen mode. The meeting involves two participants, Tristan Muniz and Isaac Squires, who are visible in the video conference. The chat window on the right side of the screen shows a message from Tristan Muniz to everyone, containing a link to a Google Sheets document. The user is likely discussing or collaborating on the content of this document during the meeting.",
+    "The taskbar at the bottom of the screen shows several icons, including Windows Start, search, task view, widgets, and pinned applications like Edge and File Explorer. The Zoom application icon is highlighted, indicating it is the active application. This further confirms that the user is focused on the Zoom meeting during this time frame. The meeting interface includes options such as Stop Video, Participants, Chat, Share Screen, Summary, Reactions, Apps, Notes, and a Leave button, suggesting that the user has access to various interactive features during the meeting."
+  ],
+  "aiUseSummary": "",
+  "activities": [
+    "MEETING"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 100,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T20:00:48Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T20:01:48Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T20:02:48Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 22,
+      "mouse": 8,
+      "date": "2024-06-11T20:03:48Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-11T20:04:48Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T20:05:48Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T20:06:48Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T20:07:48Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T20:08:48Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 5,
+      "date": "2024-06-11T20:09:48Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-11T20:00:00Z"
+}

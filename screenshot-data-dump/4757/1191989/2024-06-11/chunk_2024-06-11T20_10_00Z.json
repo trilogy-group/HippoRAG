@@ -1,0 +1,235 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "Zoom",
+    "mail.google.com",
+    "docs.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-11T20:19:04Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Google Chrome, File Explorer, Microsoft Store, Microsoft Edge, and other unidentified applications. Zoom and system clock showing '14:19' and '11 Jun 2024' are also visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "LearnWith.AI - 2024 Financial Forecast - Google Sheets",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help. Toolbar with undo, redo, print, format options, zoom controls, font settings, cell formatting options."
+                },
+                "content": [
+                  {
+                    "title": "GT School - 12-Month Financial Forecast (Mid-Feb vers)",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "GT School - 12-Month Financial Forecast (Mid-Feb vers)\nBusiness Growth Assumptions\nTeachTower new downloads\nTeachTap new downloads\nRevenue\nTeachTower\nTeachTap\nTotal Revenue\nNHC Costs\nMarketing: TeachTower Ad spend\nMarketing: TeachTap Ad spend\nAudience building: AI influencers\nMarketing, Gen AI, Academies: Tools & App spend\nThird-party gen AI API customer usage costs\nUpwork\nTotal NHC Costs\nCF Costs\nProduct Engineering\nPlatform Engineering\nContent Gen Engineering\nUX Design\nProduct TPO\nPlatform TPO\nContent Gen TPO\nOther CF Costs\nTotal CF Costs\nHC Costs\nProduct EVP TPMs"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Zoom",
+            "windows": [
+              {
+                "title": "Zoom Meeting",
+                "position": "top right corner",
+                "isActive": false,
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Isaac Squires",
+                      "expression": "focused"
+                    },
+                    {
+                      "name": "Tristan Muniz",
+                      "expression": "listening"
+                    },
+                    {
+                      "name": "Niraj Patel",
+                      "expression": "concentrating"
+                    }
+                  ]
+                },
+                "uiElements": {
+                  "details": "Call controls including mute, stop video, participants, new share, pause share, chat, record, and more."
+                },
+                "content": [
+                  {
+                    "title": "Zoom Meeting",
+                    "layoutDescription": "Video call window",
+                    "visibleText": "Isaac Squires\nTristan Muniz\nNiraj Patel"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in a Zoom meeting with three participants: Isaac Squires, Tristan Muniz, and Niraj Patel. The meeting appears to be focused on discussing financial forecasts, as indicated by the shared Google Sheets document titled 'LearnWith.AI - 2024 Financial Forecast.' The user is sharing their screen, displaying a detailed financial forecast spreadsheet with various cost categories and revenue projections for the year 2024.",
+    "In the Google Sheets document, the user is reviewing and possibly editing financial data. The spreadsheet includes sections for business growth assumptions, revenue, NHC costs, CF costs, and HC costs. Specific line items such as 'TeachTower new downloads,' 'Marketing: TeachTower Ad spend,' and 'Product Engineering' are visible, indicating a detailed breakdown of financial planning for different aspects of the business. The user is likely discussing these figures with the meeting participants to finalize or review the financial forecast.",
+    "The user has multiple applications open, including Google Chrome and Zoom. The active window is Google Chrome, displaying the Google Sheets document. The taskbar shows icons for various applications, but only Google Chrome and Zoom are actively being used during this session. The system clock indicates the time is 14:19 on 11 Jun 2024, providing a timestamp for the activities being conducted."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a Zoom meeting and reviewing a Google Sheets document. No AI chat interfaces or AI-driven suggestions are visible in the screenshots, indicating that AI tools were not utilized during this specific timeframe.",
+  "activities": [
+    "MEETING",
+    "READING_SPEC"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 100,
+  "events": [
+    {
+      "keyboard": 7,
+      "mouse": 16,
+      "date": "2024-06-11T20:10:48Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 17,
+      "mouse": 20,
+      "date": "2024-06-11T20:11:48Z",
+      "windowTitle": "GT School - Budge... - @bogdan.tenea@trilogy.com - the vendo... - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#search/budget+marketing/FMfcgzQVwxBptDGVXMlFvjqgBjrrjNnG",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 24,
+      "date": "2024-06-11T20:12:48Z",
+      "windowTitle": "Samy's VPs Gen AI Adoption - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#search/budget+marketing/FMfcgzQVwxBptDGVXMlFvjqgBjrrjNnG",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 106,
+      "mouse": 9,
+      "date": "2024-06-11T20:13:48Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/3OaBbUAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 257,
+      "mouse": 17,
+      "date": "2024-06-11T20:14:48Z",
+      "windowTitle": "LearnWith.AI - 2024 Financial Forecast - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1fvBwe58Kbb7AZsgbYCmizxF4xB2qcRG904Jj48shFF8/edit#gid=1092897194",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 86,
+      "mouse": 13,
+      "date": "2024-06-11T20:15:48Z",
+      "windowTitle": "Samy's VPs Gen AI Adoption - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/3OaBbUAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 20,
+      "mouse": 12,
+      "date": "2024-06-11T20:16:48Z",
+      "windowTitle": "LearnWith.AI Marketing Budget Breakdown & Planning - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1kLIhMRM8r5qAVXszHrXE_pdEWgYi-RsfEZ0KD9TQMUM/edit#gid=1472531222",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 157,
+      "mouse": 11,
+      "date": "2024-06-11T20:17:48Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/3OaBbUAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 6,
+      "mouse": 22,
+      "date": "2024-06-11T20:18:48Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 3,
+      "mouse": 12,
+      "date": "2024-06-11T20:19:48Z",
+      "windowTitle": "LearnWith.AI - 2024 Financial Forecast - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1fvBwe58Kbb7AZsgbYCmizxF4xB2qcRG904Jj48shFF8/edit#gid=1092897194",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-11T20:10:00Z"
+}

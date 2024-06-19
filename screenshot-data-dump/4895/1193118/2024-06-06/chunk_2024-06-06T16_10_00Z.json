@@ -1,0 +1,403 @@
+{
+  "candidateId": 2368956,
+  "apps": [
+    "docs.google.com",
+    "meet.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-06T16:10:32Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Google Chrome, Microsoft Outlook, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Adobe Acrobat, and other unidentified applications. Also includes system status icons like Wi-Fi, battery, clock showing '4:10 PM', and Spotlight search.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meaghan [AdvocateHub] - Interview Summary - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "editing toolbar visible with options for editing text, inserting elements, and document settings"
+                },
+                "content": [
+                  {
+                    "title": "Interview Summary",
+                    "layoutDescription": "Text document layout",
+                    "visibleText": "Top Challenges Faced: The primary challenges faced are with regards to the user's specific needs... List of Causality and Timing: The significant reporting issue of feature challenges, relating to user... What did the customers struggle most with? Customer Feedback: After deep deliberation among colleagues, looking to improve..."
+                  }
+                ]
+              },
+              {
+                "title": "Google Meet",
+                "url": "https://meet.google.com/call/XYZ123",
+                "position": "center",
+                "isActive": false,
+                "uiElements": {
+                  "details": "conference controls visible including microphone, camera, and hang up buttons"
+                },
+                "content": [
+                  {
+                    "title": "Video Call",
+                    "layoutDescription": "Video call layout",
+                    "visibleText": "Video call with participants showing, names visible are: John Doe - smiling, Jane Smith - neutral expression, Bob Brown - speaking"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Finder",
+            "windows": [
+              {
+                "title": "Preview",
+                "position": "left",
+                "isActive": false,
+                "uiElements": {
+                  "details": "window with document content"
+                },
+                "content": [
+                  {
+                    "title": "Preview",
+                    "layoutDescription": "preview layout",
+                    "visibleText": "Title: The Impact of Economic Changes on Industry... Key Points: Discuss the major shifts, Challenges..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Outlook",
+            "windows": [
+              {
+                "title": "Email - Meaghan Smith",
+                "position": "right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "content visible with sender, recipient, and subject details"
+                },
+                "content": [
+                  {
+                    "title": "Email",
+                    "layoutDescription": "layout",
+                    "visibleText": "Subject: Project Update - Q3 Insights... Dear Meaghan, Please find attached the latest updates on the project..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-06T16:14:12Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a docked application bar with visible icons for Google Chrome, Microsoft Outlook, Slack, and a folder named 'Utilities'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meaghan [AdvocateHub] - Interview Summary - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Docs interface with menu options for File, Edit, View, Insert, Format, Tools, Extensions, Help. Includes a toolbar with options for undo, redo, print, spelling and grammar check, and document status indicating 'All changes saved in Drive.'"
+                },
+                "content": [
+                  {
+                    "title": "Interview Summary",
+                    "layoutDescription": "Text document layout",
+                    "visibleText": "**Key Insights:**\n\n- The program allowed participants to engage in real-world projects with tangible results, enhancing their professional growth.\n\n- Participants reported that the program helped them develop a network of peers, which was especially valuable for those new to the industry.\n\n- The program's hands-on approach allowed participants to gain practical experience, which was highly appreciated.\n\n- Feedback from participants indicated that the program was well-organized and provided substantial support from mentors and staff.\n\n**List of Challenges:**\n\n- Some participants found the program's pace to be too fast, leading to feelings of being overwhelmed.\n\n- The lack of clear communication regarding project expectations and outcomes was a common issue among participants.\n\n- Some participants felt that the support provided was inconsistent, with some mentors being more helpful than others.\n\n**What did the customers struggle most with?**\n\n- Customer Feedback: Aligning stakeholder expectations with project outcomes.\n\n- Internal Challenges: Adapting to rapid changes in project requirements.\n\n- External Factors: Dealing with unforeseen external challenges such as market shifts or regulatory changes.\n\n**Recommendations:**\n\n- Increase support and resources dedicated to participant mentoring and support.\n\n- Improve communication channels between all stakeholders to ensure expectations and responsibilities are clearly understood.\n\n- Consider implementing more flexible project timelines to accommodate unexpected changes and challenges.\n\n- Develop a more comprehensive training and orientation program to better prepare participants for the program's demands.\n\n**Appendix:**\n\n- The Appendix contains a detailed list of all documentation, interviews, and insights from project participants and staff."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Outlook",
+            "windows": [
+              {
+                "title": "Preview a specific email",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "email interface with options for New Email, Send/Receive, Folder, and Help. Includes a toolbar with options for reply, reply all, forward, delete, and more options."
+                },
+                "content": [
+                  {
+                    "title": "Email Preview",
+                    "layoutDescription": "Email content layout",
+                    "visibleText": "**From:** johndoe@company.com\n\n**To:** meaghan@advocatehub.com\n\n**Subject:** Project Update\n\n**Date:** June 6, 2024\n\n**Body:**\n\nDear Meaghan,\n\nI hope this message finds you well.\n\nAs per our recent discussion, I wanted to update you on the project's progress. We have encountered some challenges, particularly in aligning the team's efforts with the project's objectives. However, we are making significant progress and are on track to meet our deadlines.\n\nPlease let me know if you need any further information or if there's anything specific you would like to discuss further.\n\nBest regards,\n\nJohn Doe"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Google Meet",
+            "windows": [
+              {
+                "title": "Video Call",
+                "position": "bottom half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Meet interface with options for microphone, camera, captions, present now, and more options. Includes a toolbar with options for end call, chat, and participants list."
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "John Doe",
+                      "expression": "focused"
+                    },
+                    {
+                      "name": "Jane Smith",
+                      "expression": "speaking"
+                    },
+                    {
+                      "name": "Robert Brown"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "appName": "Finder",
+            "windows": [
+              {
+                "title": "Finder",
+                "position": "minimized",
+                "isActive": false,
+                "uiElements": {
+                  "details": "interface with options for file management, including new window, new folder, get info, and more."
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-06T16:17:57Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Finder, Microsoft Outlook, Microsoft Word, and other unidentified applications. Also includes system status icons like Wi-Fi, battery indicator, and clock showing '4:17 PM'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meaghan [AdvocateHub] - Interview Summary - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "left side of the screen, large window",
+                "isActive": true,
+                "uiElements": {
+                  "details": "a Google Docs document with multiple headings and text blocks."
+                },
+                "content": [
+                  {
+                    "title": "Interview Summary",
+                    "layoutDescription": "Text document layout",
+                    "visibleText": "*Summary:*\n\n*Customer Journey/Background*\n\n*List of Questions They Asked*\n\n*What did the customers struggle most with?*\n\n*Customer Feedback*\n\n*Additional Notes*"
+                  }
+                ]
+              },
+              {
+                "title": "Preview & specific context",
+                "url": "https://mail.google.com/mail/u/0/",
+                "position": "right side of the screen, smaller window",
+                "isActive": false,
+                "uiElements": {
+                  "details": "an email preview with text content."
+                },
+                "content": [
+                  {
+                    "title": "Email Preview",
+                    "layoutDescription": "Email layout",
+                    "visibleText": "The client mentioned:\n\n- Details of the report, changes etc.\n\n- Observations from the last implementation, what they felt was missing.\n\n- They would like a progress update, etc.\n\n- They need help in the following areas:\n\n1. Customer Journey Mapping (CJM) and the tools used\n2. ROI calculation and how it affects budget planning\n3. Different ways of measuring success\n\n- They want a more user-friendly interface.\n\n- They need better training for their teams.\n\n- They want to ensure better customer feedback.\n\n- They need a more comprehensive training manual.\n\n- They want regular updates on what is new in the app.\n\n- They mentioned a specific issue with the app.\n\n- They want a system to track customer feedback.\n\n- They need a better way to communicate.\n\n- They want a system to ensure customer satisfaction.\n\n- They need a system to ensure customer loyalty.\n\n- They want a system to ensure customer trust.\n\n- They need a system to ensure customer success.\n\n- They want a system to ensure customer retention.\n\n- They need a system to ensure customer engagement.\n\n- They want a system to ensure customer satisfaction.\n\n- They need a system to ensure customer commitment.\n\n- They want a system to ensure customer continuation.\n\n- They need a system to ensure customer loyalty.\n\n- They want a system to ensure customer trust.\n\n- They need a system to ensure customer success.\n\n- They want a system to ensure customer retention.\n\n- They need a system to ensure customer engagement.\n\n- They want a system to ensure customer satisfaction.\n\n- They need a system to ensure customer commitment.\n\n- They want a system to ensure customer continuation."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in a Google Docs document titled 'Meaghan [AdvocateHub] - Interview Summary'. The document contains detailed sections on challenges faced, customer feedback, and recommendations. The user is editing and adding comments to the document, indicating a focus on refining and finalizing the content. The visible text includes insights and feedback from participants, highlighting the program's impact and areas for improvement.",
+    "The user is also participating in a Google Meet video call with multiple participants. The call interface shows active video feeds of three individuals, with one person speaking and others listening. This suggests a collaborative discussion, possibly related to the content being edited in the Google Docs document. The user is likely multitasking, balancing document editing with real-time communication and feedback from team members.",
+    "In addition to the Google Docs and Google Meet activities, the user has a preview of an email open in another window. The email contains detailed feedback and requests from a client, including specific areas where they need assistance and improvements. This email content is likely being referenced to inform the updates and edits being made in the Google Docs document, ensuring that client feedback is accurately incorporated into the final summary."
+  ],
+  "aiUseSummary": "There is no visible evidence of AI tools being used in the provided screenshots. The user is primarily engaged in document editing, email review, and video conferencing without any interaction with AI chat interfaces or AI-driven tools. The focus is on manual content creation and collaboration with team members.",
+  "activities": [
+    "READING_SPEC",
+    "WRITING_SPEC",
+    "EMAIL",
+    "MEETING"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_SPEC",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 5,
+      "date": "2024-06-06T16:10:18Z",
+      "windowTitle": " Meaghan [AdvocateHub] - Interview Summary - Google Docs - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1G_vfq5h1k8_aiEvpjVNxEXQouopSIYXYvp691jUrxUY/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T16:11:18Z",
+      "windowTitle": " Meaghan [AdvocateHub] - Interview Summary - Google Docs - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1G_vfq5h1k8_aiEvpjVNxEXQouopSIYXYvp691jUrxUY/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T16:12:18Z",
+      "windowTitle": " Meaghan [AdvocateHub] - Interview Summary - Google Docs - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1G_vfq5h1k8_aiEvpjVNxEXQouopSIYXYvp691jUrxUY/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T16:13:18Z",
+      "windowTitle": " Meaghan [AdvocateHub] - Interview Summary - Google Docs - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1G_vfq5h1k8_aiEvpjVNxEXQouopSIYXYvp691jUrxUY/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-06T16:14:18Z",
+      "windowTitle": " Meaghan [AdvocateHub] - Interview Summary - Google Docs - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1G_vfq5h1k8_aiEvpjVNxEXQouopSIYXYvp691jUrxUY/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 6,
+      "date": "2024-06-06T16:15:18Z",
+      "windowTitle": " Meet - sos-akxy-bio - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/sos-akxy-bio?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T16:16:18Z",
+      "windowTitle": " Meet - sos-akxy-bio - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/sos-akxy-bio?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T16:17:18Z",
+      "windowTitle": " Meet - sos-akxy-bio - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/sos-akxy-bio?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 4,
+      "date": "2024-06-06T16:18:18Z",
+      "windowTitle": " Meaghan [AdvocateHub] - Interview Summary - Google Docs - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1G_vfq5h1k8_aiEvpjVNxEXQouopSIYXYvp691jUrxUY/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T16:19:18Z",
+      "windowTitle": " Meaghan [AdvocateHub] - Interview Summary - Google Docs - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1G_vfq5h1k8_aiEvpjVNxEXQouopSIYXYvp691jUrxUY/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-06T16:10:00Z"
+}

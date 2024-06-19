@@ -1,0 +1,267 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "meet.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-04T09:10:32Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Settings, and hidden icons tray. Also displays the system clock showing '12:10 PM' and date '6/24/24'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Meet - kxx-fcoj-dew - Google Chrome",
+                "url": "",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "UI includes back, forward, refresh buttons, address bar, tab bar with two tabs, and extension icons including Google Account, Google Keep, and more."
+                },
+                "content": [
+                  {
+                    "title": "Google Meet Video Conference",
+                    "layoutDescription": "Four video feeds displayed in grid layout",
+                    "visibleText": "Michael Madume\nSerban Petrescu\nread.ai meeting notes\nDragosNta\n12:10 PM | AI Coach Daily Sync"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T09:15:32Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Widgets, and several pinned applications. System tray visible with notifications, sound, network, and battery status icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - kxx-fcoj-dew - Google Chrome",
+                "url": "meet.google.com/kxx-fcoj-dew",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "browser tabs, address bar, navigation buttons, profile icon, extensions, and minimize, maximize, close buttons"
+                },
+                "content": [
+                  {
+                    "title": "Google Meet Video Call",
+                    "layoutDescription": "Four video feeds displayed in grid layout",
+                    "visibleText": "Michael Madume\nSerban Petrescu\nread.ai meeting notes\nDragos Nta\n12:15 PM | AI Coach Daily Sync"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T09:16:57Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the system tray with network, sound, and battery status icons, as well as the date and time.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Firat Gomi - Chat - Google Chrome",
+                "url": "mail.google.com/chat/u/0/#/chat/dm",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, profile icon, and more"
+                },
+                "content": [
+                  {
+                    "title": "Chat",
+                    "layoutDescription": "standard chat layout",
+                    "visibleText": "Chat\nNew chat\nShortcuts\nHome 4\nMentions 3\nStarred\nDirect messages 2\nAI Coach Daily Sync Now\nFirat Gomi\nBogdan Tenea\nPhil Hewinson\nDavid Schwartz\nBen New\nIsaac Squires\nEDGAR H MULONGO\nSpaces 2\nAI Coach - internal\nCrossover - Upwork Sourcing\nCNU Q Business ProductM...\nXO Candidate Support Esc...\nSpec Request Notifications\ntpm reboot\nXO Team Chat\nAWS News\nGFI BU/EC/TPM Managem...\nFeature Line automations\nCentral PMs team\nAppManager Technical Pe...\n\nFirat Gomi\nyour update did not improve much since yesterday, I left a bunch of comments\n16 min\nFirat Gomi 8 min\nhey, I did work on the comments you made yesterday, the rest appeared only today, I'm looking at them now\nDragos Nuta\n11:28 AM Today\ndid you talk to any new customers?\nwhat was the usage last week (# users, # of customers, etc)?\nDragos Nuta\n11:25 AM Today\nAdd: 'and contacted 90 users at X companies'\nDragos Nuta\n11:22 AM Today\nI don't understand this...\nmy point is not about fixing comments from yesterday, it's about the output not being good enough and I'd hope that after numerous discussions you'd get closer"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Google Meet video conference titled 'AI Coach Daily Sync' with multiple participants. The meeting is active, and the user is interacting with colleagues, as indicated by the visible video feeds and participant names. The meeting appears to be focused on daily synchronization activities related to AI coaching, as inferred from the meeting title.",
+    "The user is also seen using Google Chat to communicate with a colleague named Firat Gomi. The conversation involves feedback on some updates, with the user expressing dissatisfaction with the progress made since the previous day. The user provides specific comments and questions about customer interactions and usage metrics, indicating a focus on performance and improvement.",
+    "The user is actively participating in a video conference on Google Meet, discussing daily synchronization tasks related to AI coaching. The meeting includes multiple participants, and the user is likely contributing to the discussion, as indicated by the active video feeds and the meeting title 'AI Coach Daily Sync'.",
+    "In addition to the video conference, the user is engaged in a chat conversation with Firat Gomi on Google Chat. The discussion revolves around feedback on updates, with the user highlighting areas that need improvement and seeking clarification on specific points. This indicates a focus on ensuring quality and thoroughness in the work being reviewed."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a video conference and a chat conversation, with no visible interactions with AI tools for code suggestions, research, or debugging. The focus is on communication and collaboration with team members.",
+  "activities": [
+    "MEETING",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 100,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T09:10:09Z",
+      "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T09:11:09Z",
+      "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T09:12:09Z",
+      "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T09:13:09Z",
+      "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T09:14:09Z",
+      "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T09:15:09Z",
+      "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T09:16:09Z",
+      "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 10,
+      "mouse": 1,
+      "date": "2024-06-04T09:17:09Z",
+      "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T09:18:09Z",
+      "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T09:19:09Z",
+      "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-04T09:10:00Z"
+}

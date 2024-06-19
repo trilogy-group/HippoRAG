@@ -1,0 +1,268 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "docs.google.com",
+    "mail.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-04T14:01:14Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Search, Chrome, WhatsApp, Camera, Music, Mail, and more. System time displayed as 5:01 PM. Language setting displayed as ENG. Date displayed as 6/4/2024.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "DevFactory Mail - Google Chrome",
+                "url": "https://mail.google.com/mail/u/0/#",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, profile icon, and more"
+                },
+                "content": [
+                  {
+                    "title": "Gmail",
+                    "layoutDescription": "multi-view layout",
+                    "visibleText": "Gmail\nNew chat\nShortcuts\nHome 4\nMentions 3\nStarred\nDirect messages 2\nGFI Review\nJamie Sidey\nBogdan Tenea\nAndrei Kharytonenka\nNoumaan Shah\nJoe Conley\nMarcelo Skaba\nJozsef Czapovics\nSpaces 2\nCNU Q Business Pro...\nXO Team Chat\nCentral PMs team\nFeature Line autom...\nSamy's VPs Gen ...\nCrossover - Upwork ...\nAI Coach - internal\nXO Candidate Supp...\nSpec Request Notifi...\nTPM reboot\nAWS News\nJoe Conley\nCorrect, that'll be part of the discussion as well\n1\nk. I will not join but eager to read the readai summary\nI'll make sure it's recorded/transcribed too\nwhat is the mess up on Stratifyed?\nI just left - I think he meant Influitive\nonly mess up might've been Joe's feedback on the lack of AI, but Eng is still moving forward as expected on Stratifyed so far\nI see\nCool\nHistory is on"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T14:06:17Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Edge, File Explorer, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '5:06 PM' and '6/4/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Factory status May 2024 (TPM/Eng) - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help. Toolbar with undo, redo, print, zoom, styling options, and more."
+                },
+                "content": [
+                  {
+                    "title": "Factory status May 2024 (TPM/Eng)",
+                    "layoutDescription": "Document layout with text and bullet points",
+                    "visibleText": "Summary\nKanban Slots\nJigsaw (1 slot)\nIgniteTech #1: Security\nIgniteTech #2: Ocoipit\nIgniteTech Maintenance\nGFI (1 slot)\n\nInfluitive (2 slots)\n6 commit goals\n1 cost reduction goal: completed\n1 defense/goals: completed\n4 defense/goals: 2 completed and 2 off track (of which, 1 at risk)\n2 stretch goals: off track (are focused on improvement on business impact of the AI features which are being\n2 new defense goals were added mid-quarter: 1 on track to complete by EoQ and 1 at risk\n\nFinish Aws Cost Reductions\nAchieved:\nCost target achieved\nNext Steps:\nBuy RIs for the DB server to get additional savings\n\nCommit: Replace the CSM function with the AI bot\nDONE\n\nCommit: Fix Multi-channel issues\nDONE\n\nTelco (3 slots + 1 Ops slot)\nTPM only slots (1 slot)\nApplied AI (1 slot)\n\nMaintenance Delivery scorecard\nBurndown charts - road to zero...\nAll BUs\nIgniteTech\nCopperTree\nJigsaw\nInfluitive\n Add AI to Discourse Communities\nOFF TRACK (75%)\n\nCommit: Use AI to create engaging challenges for PostBeyond\nDONE\n\nCommit: Use AI to create engaging challenges for AdvocateHub\nOFF TRACK (10%)\n\nChallenges:\nImplementation took longer than anticipated:\nInfluitive specific plugins\nSequential nature of work while upgrading from Discourse 2.3 to 3.0\n\nNext Steps:\nEnable AI for communities\n\nAchieved:\nImplementation completed, is currently in testing phase before being released\nWe are tracking AI usage analytics on this feature\n\nNext Steps:\nRelease to customers\n\nAchieved:\nUtilizing CNU to perform analysis on past challenges"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T14:07:32Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Edge, File Explorer, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '5:07 PM' and '6/4/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Factory status May 2024 (TPM/Eng) - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Chrome UI includes address bar, tabs, navigation buttons, and Google account avatar. Tabs open are 'Factory status May 2024 (TPM/Eng)', 'Weekly Delivery Tracker - TPM-Eng', 'Weekly Progress Report - TPM-Eng', 'Central Product - Q2'24 Budget Plan'."
+                },
+                "content": [
+                  {
+                    "title": "Factory status May 2024 (TPM/Eng)",
+                    "layoutDescription": "Document layout with text and bullet points",
+                    "visibleText": "Summary\nKanban Slots\nJigsaw (1 slot)\nIgniteTech #1: Security\nIgniteTech #2: Ocoipit\nIgniteTech Maintenance\nGFI (1 slot)\n\nInfluitive (2 slots)\n6 commit goals\n1 cost reduction goal: completed\n1 defense/goals: completed\n4 defense/goals: 2 completed and 2 off track (of which, 1 at risk)\n2 stretch goals: off track (focused on improving the business impact of the AI features once launched, which are in their late)\n2 new defense goals were added mid-quarter: 1 on track to complete by EoQ and 1 at risk\n\nCommit: Finish Aws Cost Reductions\nAchieved:\nCost target achieved\nNext Steps:\nBuy RIs for the DB server to get additional savings\n\nCommit: Replace the CSM function with the AI bot\nAchieved:\nAI bot in place, and is being actively used.\n166 interactions in the last 30 days\n\nCommit: Fix Multi-channel issues\nAchieved:\nFeature released (properly) for having challenges visible and targetable across multiple channels\nChallenges:\nThis was an IBM ESM, and legacy team had implemented and released this feature with broken functionality\n\nChallenges:\nImplementation took longer than anticipated:\nInfluitive specific plugins\nSequential nature of work while upgrading from Discourse 2.3 to 3.0\n\nNext Steps:\nEnable AI for communities\n\nCommit: Use AI to create engaging challenges for PostBeyond\nAchieved:\nImplementation completed, is currently in testing phase before being released\nWe are tracking AI usage analytics on this feature\n\nNext Steps:\nRelease to customers\n\nCommit: Use AI to create engaging challenges for AdvocateHub\nAchieved:\nUtilizing CNU to perform analysis on past challenges\n\nOff TRACK (10%)\n\nMaintenance Delivery scorecard\nBurndown charts - road to zero...\nAll BUs\nIgniteTech\nCopperTree\nJigsaw\nInfluitive\n"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a chat conversation on Gmail with Joe Conley. The discussion revolves around critical issues in the backlog and promises to customers. Joe Conley confirms that these topics will be part of the discussion and mentions that the session will be recorded and transcribed. The user expresses eagerness to read the summary and inquires about the mess up on Stratifyed, to which Joe Conley responds with details about feedback on the lack of AI and the current progress on Stratifyed.",
+    "The user is viewing a Google Docs document titled 'Factory status May 2024 (TPM/Eng)'. The document contains a detailed status report on various projects and goals, including cost reduction, AI bot implementation, and multi-channel issue fixes. The document also highlights challenges faced, such as implementation delays and specific plugin issues. The user is likely reviewing the progress and achievements of different teams and planning next steps for ongoing projects."
+  ],
+  "aiUseSummary": "",
+  "activities": [
+    "EMAIL",
+    "CHATTING_WITH_TEAM",
+    "READING_SPEC"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "READING_SPEC",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 113,
+      "mouse": 4,
+      "date": "2024-06-04T14:00:10Z",
+      "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 14,
+      "mouse": 12,
+      "date": "2024-06-04T14:01:10Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/vWkYS0AAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 115,
+      "mouse": 17,
+      "date": "2024-06-04T14:02:10Z",
+      "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 19,
+      "mouse": 13,
+      "date": "2024-06-04T14:03:10Z",
+      "windowTitle": "Weekly Delivery Tracker - TPM+Eng - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1mrOMkLf370WxK5CkvQXF0e9Q6pHGPf2IsweYGdyGe08/edit#gid=335515302",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 52,
+      "mouse": 8,
+      "date": "2024-06-04T14:04:10Z",
+      "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 187,
+      "mouse": 0,
+      "date": "2024-06-04T14:05:10Z",
+      "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 118,
+      "mouse": 0,
+      "date": "2024-06-04T14:06:10Z",
+      "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 161,
+      "mouse": 2,
+      "date": "2024-06-04T14:07:10Z",
+      "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 66,
+      "mouse": 15,
+      "date": "2024-06-04T14:08:10Z",
+      "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit#bookmark=id.234bb3s0udhj",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 33,
+      "mouse": 10,
+      "date": "2024-06-04T14:09:10Z",
+      "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-04T14:00:00Z"
+}

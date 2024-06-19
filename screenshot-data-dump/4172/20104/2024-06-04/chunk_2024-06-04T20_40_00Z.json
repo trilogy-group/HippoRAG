@@ -1,0 +1,366 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "meet.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-04T20:41:19Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, widgets, and several pinned applications. Displays the time as '11:41 PM' and date as '6/4/2024'. Network, sound, and battery status icons are visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "ARR Performance Post - DD RCA on Product Issues - Google Docs",
+                "url": "https://docs.google.com/document/d/D",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Add-ons, Help; Toolbar with undo, redo, print, spelling and grammar check, paint format, zoom, styles, fonts, text size, bold, italic, underline, text color, background color, align, line spacing, numbered list, bulleted list, indent, outdent, clear formatting, link, comment, image, table, chart, drawing, header, footer, page number, bookmark, table of contents, dictionary, explore"
+                },
+                "content": [
+                  {
+                    "title": "ARR Performance Post - DD RCA on Product Issues",
+                    "layoutDescription": "Document layout",
+                    "visibleText": "ARR Performance Post - DD RCA on Product Issues\n\nThe total ARR loss associated with product issues adds up to $1M.\n\n1. Delays in handling legacy backlog ($578K ARR impact)\n\nThe focus during the first quarter was to complete the import and reduce the backlog. The decision was to not import the maintenance backlog and instead work on the backlog that had been identified as some of the ongoing issues were high severity ones and led to customer backfire.\n\nExamples:\n\n- AWS Case: AWS, the largest single customer loss ($700K), cited a maintenance issue that was identified before the acquisition. The issue was raised in Nov 2021 and was not resolved even after completing the import & cost reduction.\n- There was another service issue that was incompletely fixed by the engineering team. There was set of already paid for but not delivered work (features) that were Engineering\n- LinkedIn app was not working for more than a year due to outdated API. The import was completed by Jan 17 for PostBeyond and Jan 19 for LinkedIn.\n\nImmediate Next Steps:\n\n- Continue working through the maintenance backlog; estimating the impact of not doing so.\n\nProcess Improvements:\n\n- All outstanding issues MUST be reviewed by BU/TPM/Eng and added to the internal bug ticketing system, along with any promised dates that are missed.\n- All bug fixes implemented by the legacy team post acquisition MUST be reviewed as we cannot blindly rely on legacy team’s deliveries.\n- Start the maintenance review work in the first quarter and factor this into the planning.\n- We should combine maintenance and start teams until we reduce the backlog to manageable levels.\n\n- If there is low to no focus on bugs - this will limit vast sprints.\n- If there are plenty of bugs - this will help reducing the backlog to sensible levels.\n- We need to define acceptable backlog by SE7 - what we need to get to until we decide product is “stable” - e.g. 20 bugs opened per SE7"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Google Meet",
+            "windows": [
+              {
+                "title": "Meet - keh-vdmq-vie",
+                "url": "https://meet.google.com/keh-",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Conference controls including microphone, camera, raise hand, captions, present now, more options, and hang up"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Noumaan Shah",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "Dragos Nută",
+                      "expression": "Relaxed"
+                    }
+                  ]
+                },
+                "content": [
+                  {
+                    "title": "Meet Call",
+                    "layoutDescription": "Video call layout",
+                    "visibleText": "Noumaan Shah\nDragos Nută\nread.ai meeting notes"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T20:43:34Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Google Chrome, File Explorer, and system tray with time display showing 11:43 PM, date 6/4/2024, and other system icons",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "ARR Performance Post - DD RCA on Product Issues - Google Docs",
+                "url": "https://docs.google.com/document/d/D",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Toolbar with File, Edit, View, Insert, Format, Tools, Add-ons, Help; Toolbar with undo, redo, print, spelling and grammar check, paint format, zoom, styles, fonts, text size, bold, italic, underline, text color, highlight color, left align, center align, right align, justify, line spacing, numbered list, bulleted list, indent more, indent less, clear formatting, link, comment, image"
+                },
+                "content": [
+                  {
+                    "title": "ARR Performance Post - DD RCA on Product Issues",
+                    "layoutDescription": "Text document layout",
+                    "visibleText": "ARR Performance Post - DD RCA on Product Issues\n\nThe total ARR loss associated with product issues adds up to $1M.\n\n1. Delays in handling legacy backlog ($578K ARR impact)\nThe focus during the first quarter was to complete the import and reduce the backlog. The decision was to not import the maintenance backlog and instead work on the high severity ones. Examples include:\n- AWS Case: AWS, the largest single customer loss ($700k), cited a bug identified before the acquisition. The issue was raised in Nov 2020 and was resolved after completing the import & cost reduction.\n- There was another sev1 issue that was incompletely fixed by the engineering team.\n- LinkedIn app was not working for more than a year due to outdated APIs.\n- The import was completed by Jan 17 for PostBeyond and Jan 19 for the overall project.\n\nImmediate Next Steps:\n- Continue working through the maintenance backlog; estimating the impact on ARR.\n\nProcess Improvements:\n- All outstanding issues MUST be reviewed by BU/TPM/Eng and added to the internal bug ticketing system, along with any promised dates that were missed by the legacy team post acquisition M&A.\n- All bug fixes implemented by the legacy team must be validated by the current team.\n- Start the maintenance backlog earlier and factor this into the project's timeline.\n- We should combine maintenance and start teams until we reduce the backlog to sensible levels.\n - If there is low to no focus on bugs - this will help with speeding up the resolution.\n - If there are plenty of bugs - this will help reducing the backlog to sensible levels.\n - We need to define acceptable backlog by SE7 - what specs we need to until we decide product is 'stable' - e.g. 20 bugs opened per SE7."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Google Meet",
+            "windows": [
+              {
+                "title": "Meet - keh-vdmq-vie - Google Chrome",
+                "url": "https://meet.google.com/keh-vdmq-v",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Conference controls including microphone toggle, camera toggle, captions, present now, more options, and hang up"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Noumaan Shah",
+                      "expression": "focused"
+                    },
+                    {
+                      "name": "Dragos Nută",
+                      "expression": "smiling"
+                    }
+                  ]
+                },
+                "content": [
+                  {
+                    "title": "Meet - keh-vdmq-vie",
+                    "layoutDescription": "Video conference layout",
+                    "visibleText": "Noumaan Shah\nDragos Nută\nread.ai meeting notes"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T20:48:26Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications including Edge, Chrome, and others. System tray includes network, sound, and clock (11:48 PM, 6/4/2024)",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "ARR Performance Post - DD RCA on Product Issues - Google Docs",
+                "url": "https://docs.google.com/document/d/D",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Toolbar with File, Edit, View, Insert, Format, Tools, Add-ons, Help. Toolbar with undo, redo, print, spelling and grammar check, paint format, zoom, styles, fonts, text size, bold, italic, underline, text color, background color, link, comment, align, line spacing, numbered list, bullet list, indent, outdent, clear formatting, image options"
+                },
+                "content": [
+                  {
+                    "title": "ARR Performance Post - DD RCA on Product Issues",
+                    "layoutDescription": "Text document layout",
+                    "visibleText": "ARR Performance Post - DD RCA on Product Issues\n\nThe total ARR loss associated with product issues adds up to $1M.\n\n1. Delays in handling legacy backlog ($578K ARR impact)\n\nThe focus during the first quarter was to complete the import and reduce the backlog. The decision was to not import the maintenance backlog and instead work on the high severity ones. This backfired as some of the ongoing issues were high severity ones and led to a significant ARR impact.\n\nExamples:\n\nAWS Case: AWS, the largest single customer loss ($700k), cited a problem that was identified before the acquisition. The issue was raised in Nov 2021 and was resolved after completing the import & cost reduction.\n\nThere was another sev1 issue that was incompletely fixed by the engineering team. There was set of already paid for but not delivered work (features) that were Engineering's responsibility.\n\nLinkedIn app was not working for more than a year due to outdated APIs. The import was completed by Jan 17 for PostBeyond and Jan 19 for LinkedIn.\n\nImmediate Next Steps:\n\nContinue working through the maintenance backlog; estimating the impact.\n\nProcess Improvements:\n\nAll outstanding issues MUST be reviewed by BU/TPM/Eng and added to the internal bug ticketing system, along with any promised dates that are missed by the legacy team post acquisition M&A.\n\nAll bug fixes implemented by the team are final and cannot blindly rely on legacy team's deliveries.\n\nStart the maintenance backlog import this quarter.\n\nWe should combine maintenance and start teams until we reduce the backlog to sensible levels.\n\nIf there is low to no focus on bugs - this will help with reducing the backlog to sensible levels.\n\nIf there are plenty of bugs - this will help reduce the backlog to sensible levels.\n\nWe need to define acceptable backlog by SEP 7 - what the next goal is until we decide project is 'stable' - e.g. 20 bugs opened per SEP 7.\n\n3. Outages or defects (346K ARR impact)\n\n4. Migration to Elevate (> $90K ARR impact)\n\n5. Product components not imported correctly."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Google Meet",
+            "windows": [
+              {
+                "title": "Meet - keh-vdmq-vie",
+                "url": "https://meet.google.com/keh-vdmq-vie",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Conference controls including microphone, camera, captions, present now, more options, hang up"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Noumaan Shah",
+                      "expression": "focused"
+                    },
+                    {
+                      "name": "Dragos Nută",
+                      "expression": "neutral"
+                    }
+                  ]
+                },
+                "content": [
+                  {
+                    "title": "Meet - Call",
+                    "layoutDescription": "Video call layout",
+                    "visibleText": "Noumaan Shah\nDragos Nută\nread.ai meeting notes"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Google Meet video conference call, as evidenced by the screenshots showing the Google Meet interface with participants Noumaan Shah and Dragos Nută. The meeting appears to be focused on discussing the ARR Performance Post - DD RCA on Product Issues, as the user has a Google Docs document open with this title. The document details various product issues and their impact on ARR, including delays in handling legacy backlog, outages or defects, and migration issues.",
+    "The user is actively reading and possibly editing the Google Docs document titled 'ARR Performance Post - DD RCA on Product Issues'. The document outlines the total ARR loss associated with product issues, amounting to $1M. Specific issues mentioned include a $578K impact due to delays in handling legacy backlog, a $346K impact from outages or defects, and a $90K impact from migration issues. The document also lists immediate next steps and process improvements to address these issues.",
+    "Throughout the captured timeframe, the user is participating in the Google Meet call while simultaneously reviewing the Google Docs document. The document includes detailed examples of product issues, such as a significant customer loss due to a maintenance issue with AWS, and a prolonged outage of the LinkedIn app due to outdated APIs. The user is likely discussing these issues and the proposed process improvements with the meeting participants, as indicated by the presence of the 'read.ai meeting notes' participant in the call."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a Google Meet video conference and reviewing a Google Docs document. No AI chat interfaces or AI-driven tools are visible in the screenshots.",
+  "activities": [
+    "READING_SPEC",
+    "MEETING"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 100,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T20:40:12Z",
+      "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T20:41:12Z",
+      "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T20:42:12Z",
+      "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T20:43:12Z",
+      "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T20:44:12Z",
+      "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T20:45:12Z",
+      "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T20:46:12Z",
+      "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T20:47:12Z",
+      "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T20:48:12Z",
+      "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T20:49:12Z",
+      "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-04T20:40:00Z"
+}

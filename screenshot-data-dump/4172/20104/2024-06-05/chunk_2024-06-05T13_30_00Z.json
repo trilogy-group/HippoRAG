@@ -1,0 +1,289 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "mail.google.com",
+    "ai-feature-adoption-dash.s3.amazonaws.com",
+    "docs.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T13:32:41Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Teams, Microsoft Outlook, Visual Studio, a PDF viewer, a command prompt, a calendar app, and system settings. Also includes a system clock showing '4:32 PM', a language indicator 'ENG', and a system notification area with network, sound, and battery status icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+                "url": "https://docs.google.com/document/d",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help; Google account profile picture; document sharing status; document editing tools including font and paragraph settings; zoom controls; document status 'All changes saved in Drive'."
+                },
+                "content": [
+                  {
+                    "title": "Kanban Slots",
+                    "layoutDescription": "List format",
+                    "visibleText": "Kanban Slots\nJigsaw (1 slot)\nIgniteTech #1: Security\nIgniteTech #2: Copilot\nIgniteTech Maintenance\nGFI (1 slot)\nInfluitive (2 slots)\nStratifyd (1 slot)\nCrossover (1 slot)\nTelco (3 slots + 1 Ops slot)\nTPM only slots (1 slot)\nApplied AI (1 slot)"
+                  },
+                  {
+                    "title": "Stratifyd (1 slot)",
+                    "layoutDescription": "List with sub-items",
+                    "visibleText": "Stratifyd (1 slot)\nCommit: Import Stratifyd\nON TRACK\nWe are focusing on safely importing the product by building/testing/deploying all components and executing knowledge transfer with the outgoing SMEs. This phase is wrapping up this week, after which we'll focus on the most impactful cost optimization efforts, using the SME's remaining time to fully flesh out the riskiest steps."
+                  },
+                  {
+                    "title": "Commit: Reduce Hosting Costs by 20% STARTING IN JUNE",
+                    "layoutDescription": "Indented list item",
+                    "visibleText": "Commit: Reduce Hosting Costs by 20% STARTING IN JUNE\nThe first round of cost optimization will focus on executing CloudFrx recommendations and performing other low-risk optimizations and right-sizing in order to achieve 20% reduction of overall hosting costs.\nJoe Conley\nOverall Reflection\nThe stack is almost 100% on AWS, and is reasonably straightforward in terms of complexity."
+                  },
+                  {
+                    "title": "Crossover (1 slot)",
+                    "layoutDescription": "List with sub-items",
+                    "visibleText": "Crossover (1 slot)\nCommit: Deliver video for WorkSmart Java tracker by May 10\nDONE\nAchieved:\nDelivered end-to-end functionality for both Java and .NET trackers, including audio capture and summarization of 10-minute time cards.\nImplemented microphone and system audio capture for the Java tracker, with transcription and inclusion in the 10-minute summary.\nChallenges:\nThe maintaining the one-week development cadence has proven challenging due to unexpected issues, such as audio and video capture quirks at the operating system level.\nNext Steps:\nProduce video and audio capture capabilities across both Java and .NET trackers.\nRelease version 1.0 of the platform, enabling other applications to consume the functionality provided by the trackers and the summarization feature.\nThe WorkSmart video capability was successfully delivered on schedule, meeting the May 10 target. Building upon this momentum, the audio functionality is advancing rapidly and is on track to be released to production within the next two weeks, further enhancing the platform's capabilities."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T13:34:42Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time as '4:34 PM' and date as '6/5/2024'. Network, sound, and battery status icons are visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Inbox - dragos.nuta@trilogy.com - DevFactory Mail",
+                "url": "https://mail.google.com/mail/u/0/#in",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, navigation buttons, and Google account avatar visible"
+                },
+                "content": [
+                  {
+                    "title": "Email List",
+                    "layoutDescription": "List of emails displayed in a table format",
+                    "visibleText": "- notes from Sammy - 2 TPMs are missing the program management skills (customer management, communication, roadmap, risk management, ownership/ap... - Apr 5\n- Confirm your subscription to AI News - Click here to confirm your subscription to AI News! AI News is: We summarize top AI discords + AI Reddits + AI XTwitt... - Apr 3\n- meet-recordings-nor... - Nilesh Deshpande and Dragos Nuta (2024-06-05 13:33 GMT+3) - The recording and chat transcript are now available. Nilesh Deshpande and Dragos N... - 2:35 PM\n- LangSmith [ACTION REQUIRED] Set up LangSmith billing by July 1 to avoid disruption - Hi Dragos Nuta, Thank you for evaluating LangSmith while it was in private... - 5:33 AM\n- George Dita (Google. Delivery progress (Influitive - Add AI to Discourse Commu... - New activity in the following document Delivery progress (Influitive - Add AI to Discourse Commu... - Jun 4\n- Jamie Sidey (via Go. Document shared with you: \"Notes from Legal call w Lance & Samy\" - Jamie Sidey shared a document Jamie Sidey (jamie.sidey@trilogy.com) has invite... - Jun 4\n- Ben Moosher 2 Re: Crossover and Google - Hey Dragos! It's been a while my man! Hope everything is moving smoothly with GT School. Funny our paths crossed again - l... - Jun 4\n- Joe Conley Updated invitation: Stratifyd - Cost Optimization Plan @ Tue Jun 4, 2024 17:30 - 18:00 (GMT+3) (Dragos Nuta) - Stratifyd - Cost Optimization Plan Join with ... - Jun 4\n- Matheus Vinicius de. 2 Re: Invitation: Matheus de Freitas and Dragos Nuta @ Mon May 27, 2024 19:00 - 20:00 (GMT+3) (defreitas.mv@outlook.com) - Hello, Dragos. As we... - Jun 4\n- David .. Marcelo 6 Factory status May 2024 (TPM/Eng) - New activity in the following document Factory status May 2024 (TPM/Eng) 2 comments ON TRACK Dragos Nuta - Jun 4\n- Marcelo Skaba (Goog. Weekly Delivery T... - @marcelo.skaba@devfactory.com, why a... - Marcelo Skaba replied to a comment in the following document Weekly D... - Jun 4\n- George Dita Accepted: George / Dragos @ Tue Jun 4, 2024 19:30 - 20:00 (GMT+3) (Dragos Nuta) - George / Dragos George Dita has accepted this invitation. Jun... - Jun 4\n- George Dita PM Playbook Draft - feedback and direction - Hi, Please see the latest Playbook Draft. Where I am with this: Wanted to separate the \"What to do\" from \"... - Jun 4\n- Firat Gomi (Google . 2 Jive Upgrade - I like this one more - Firat Gomi replied to a comment in the following document Jive Upgrade 1 comment 3 Dragos Nuta - 11:50 PM, Jun 3 (... - Jun 4\n- Firat Gomi (Google . Jive Upgrade - Shouldn't reached = customer in segme... - Firat Gomi replied to a comment in the following document Jive Upgrade 1 comment Custom Comment... - Jun 4\n- Firat Gomi (Google . Jive Upgrade - I don't know what this is. Are you cr... - Firat Gomi replied to a comment in the following document Jive Upgrade 1 comment Written prom... - Jun 4\n- Joe Conley Proposed new time: Joe / Dragos @ Tue Jun 4, 2024 20:30 - 21:00 (GMT+3) (Dragos Nuta) - Joe / Dragos Joe Conley has replied \"Maybe\" to this invitation a... - Jun 4"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T13:38:01Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and system tray with time, language, and notifications",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Inbox - dragos.nuta@trilogy.com - DevFactory Mail",
+                "url": "https://mail.google.com/mail/u/0/#in",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and various extension icons"
+                },
+                "content": [
+                  {
+                    "title": "Email List",
+                    "layoutDescription": "List of emails displayed in a table format",
+                    "visibleText": "1. Nilesh Deshpande and Dragos Nuta (2024-06-05 13:33 GMT+3) - The recording and chat transcript are now available. Nilesh Deshpande and Dragos Nuta\n2. LangSmith [ACTION REQUIRED] Set up LangSmith billing by July 1 to avoid disruption - Hi Dragos Nuta, Thank you for evaluating LangSmith while it was in private...\n3. George Dita (Google. Delivery progress (Influitive - Add AI to Discourse Commu... - New activity in the following document Delivery progress (Influitive - Add AI to Discourse Commu...\n4. Jamie Sidey (via Go. Document shared with you: \"Notes from Legal call w Lance & Samy\" - Jamie Sidey shared a document Jamie Sidey (jamie.sidey@trilogy.com) has invite...\n5. Ben Moosher 2 Re: Crossover and Google - Hey Dragos! It's been a while my man! Hope everything is moving smoothly with GT School. Funny our paths crosse...\n6. Joe Conley Updated invitation: Stratifyd - Cost Optimization Plan @ Tue Jun 4, 2024 17:30 - 18:00 (GMT+3) (Dragos Nuta) - Stratifyd - Cost Optimization Plan Join with ...\n7. Matheus Vinicius de. 2 Re: Invitation: Matheus de Freitas and Dragos Nuta @ Mon May 27, 2024 19:00 - 20:00 (GMT+3) (defreitas.mv@outlook.com) - Hello, Dragos. As we...\n8. George Dita Accepted: George / Dragos @ Tue Jun 4, 2024 19:30 - 20:00 (GMT+3) (Dragos Nuta) - George / Dragos George Dita has accepted this invitation. Join ...\n9. Firat Gomi (Google . 2 Jive Upgrade - I like this one more - Firat Gomi replied to a comment in the following document Jive Upgrade 1 comment Dragos Nuta - 11:50 PM, Jun 3 (..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in reading and editing a Google Docs document titled 'Factory status May 2024 (TPM/Eng)'. The document contains various sections related to project management, including Kanban slots and specific project commitments. The user is reviewing the progress of different projects, such as 'Stratifyd' and 'Crossover', and noting the achievements, challenges, and next steps for each project. The user is also interacting with comments from team members, indicating a collaborative effort in updating the document.",
+    "The user is also checking their Gmail inbox, which contains various emails related to project updates, meeting invitations, and action items. The emails include updates on delivery progress, billing setup, and meeting recordings. The user is likely prioritizing and organizing their tasks based on the emails received. The presence of labels such as 'AI Coach Emails' suggests that the user is managing multiple projects and communications simultaneously.",
+    "The user is engaged in a chat conversation on Google Chat, as indicated by the links visited. The chat involves direct messages with team members, discussing project-related topics. This activity shows that the user is maintaining communication with their team, possibly to coordinate tasks, seek clarifications, or provide updates on ongoing projects."
+  ],
+  "aiUseSummary": "There is no direct evidence of AI tools being used in the provided screenshots. The user is primarily engaged in reading and editing documents, checking emails, and chatting with team members. There are no visible AI chat interfaces or AI-generated content in the screenshots. Therefore, it can be inferred that the user is not utilizing AI tools during this specific time frame.",
+  "activities": [
+    "READING_SPEC",
+    "WRITING_SPEC",
+    "EMAIL",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "UI"
+  ],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_SPEC",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 27,
+      "mouse": 2,
+      "date": "2024-06-05T13:30:55Z",
+      "windowTitle": "Jozsef Czapovics - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/3f70MMAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 424,
+      "mouse": 0,
+      "date": "2024-06-05T13:31:55Z",
+      "windowTitle": "Jozsef Czapovics - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/3f70MMAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 48,
+      "mouse": 17,
+      "date": "2024-06-05T13:32:54Z",
+      "windowTitle": "React App - Google Chrome",
+      "processName": "ai-feature-adoption-dash.s3.amazonaws.com",
+      "visitingUrl": "ai-feature-adoption-dash.s3.amazonaws.com/index.html",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 134,
+      "mouse": 4,
+      "date": "2024-06-05T13:33:54Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/3f70MMAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 125,
+      "mouse": 8,
+      "date": "2024-06-05T13:34:54Z",
+      "windowTitle": "Weekly Delivery T... - @marcelo.skaba@devfactory.com , why a... - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwngWzkRcNDJgtNrGswnnbqKm",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 11,
+      "mouse": 11,
+      "date": "2024-06-05T13:35:55Z",
+      "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 252,
+      "mouse": 6,
+      "date": "2024-06-05T13:36:55Z",
+      "windowTitle": "Weekly Delivery Tracker - TPM+Eng - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1mrOMkLf370WxK5CkvQXF0e9Q6pHGPf2IsweYGdyGe08/edit#gid=335515302",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 40,
+      "mouse": 10,
+      "date": "2024-06-05T13:37:55Z",
+      "windowTitle": "Howard Abrams - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/1cuZu0AAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 17,
+      "mouse": 15,
+      "date": "2024-06-05T13:38:55Z",
+      "windowTitle": "Inbox (10,167) - dragos.nuta@crossover.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 34,
+      "mouse": 8,
+      "date": "2024-06-05T13:39:55Z",
+      "windowTitle": "Jamie Sidey - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/7cyot0AAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T13:30:00Z"
+}

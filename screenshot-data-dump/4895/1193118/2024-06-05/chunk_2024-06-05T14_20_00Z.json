@@ -1,0 +1,401 @@
+{
+  "candidateId": 2368956,
+  "apps": [
+    "app.mixmax.com",
+    "mail.google.com",
+    "Google Chrome"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T14:21:12Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Time Machine, and others. Docked at the bottom of the screen with a semi-transparent background.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Adobe Acrobat",
+            "windows": [
+              {
+                "title": "HR Template - Upgrade Notice - Adobe Acrobat",
+                "position": "left side of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "bar at the top with options like File, Edit, View, Window, Help"
+                },
+                "content": [
+                  {
+                    "title": "HR Template - Upgrade Notice",
+                    "layoutDescription": "Document layout",
+                    "visibleText": "HR Template - Upgrade Notice\n\nEmployee Information:\n- Employee Name: [Employee Name]\n- Employee ID: [Employee ID]\n- Department: [Department]\n- Position: [Position]\n- Date of Hire: [Date of Hire]\n\nUpgrade Information:\n- Upgrade Type: [Upgrade Type]\n- Effective Date: [Effective Date]\n- Details: [Details]\n\nManager Information:\n- Manager Name: [Manager Name]\n- Manager ID: [Manager ID]\n- Department: [Department]\n\nAdditional Information:\n- Additional Notes: [Additional Notes]\n\nSignature:\n- Manager Signature: [Manager Signature]\n- Date: [Date]\n\nFooter:\n- This document contains sensitive information and is intended for the named recipient only."
+                  }
+                ]
+              },
+              {
+                "title": "Release_Notes_2022FR.pdf",
+                "position": "right side of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "viewer toolbar with options like zoom, download, print"
+                },
+                "content": [
+                  {
+                    "title": "Release Notes 2022FR",
+                    "layoutDescription": "PDF document layout",
+                    "visibleText": "Release Notes 2022FR\n\nNew features and enhancements\n- New features and other upgrades to app components.\n\nFixed Issues\n- Here you can find the list of resolved issues specific to Release 2022FR.\n\nComponent | Issue ID | Description\n- | - | -\nExample: ABC-123 | XYZ-789 | Issue description here\n\nAdditional Information:\n- Please note that the document shown is an approximation of the original document."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Mixmax",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "tabs visible with titles like Inbox, Calendar, Drive, and others"
+                },
+                "content": [
+                  {
+                    "title": "Mixmax Dashboard",
+                    "layoutDescription": "Web application layout",
+                    "visibleText": "Mixmax\n\nSequences\n- All Sequences\n- My Sequences\n- Team Sequences\n- Shared Sequences\n\nTemplates\n- All Templates\n- My Templates\n- Team Templates\n- Shared Templates\n\nAnalytics\n- Overview\n- Sent\n- Opens\n- Replies\n- Downloads\n- Clicks\n- Bounces\n- Unsubscribes\n\nSettings\n- General\n- Accounts\n- Teams\n- Notifications\n- Integrations\n- Billing\n\nSupport\n- Help Center\n- Contact Us\n- Status\n\nMessenger Logged In\n- Alice\n\nAutomations\n- Automate for Customer Care Call\n- Automate for Customer Feedback after the Event Survey\n- Pathologist QA Calibration\n\nRecent Activity\n- Recent emails sent, received, and activities related to automations."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Finder",
+            "windows": []
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T14:25:36Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Adobe Acrobat, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Outlook, File Explorer, and other unidentified applications. System tray includes network, sound, and battery status icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Settings – george.dita@trilogy.com - Google Chrome",
+                "url": "https://mail.google.com/mail/u/0/#settings",
+                "position": "left",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Control tabs, address bar, bookmarks bar, and extensions icons"
+                },
+                "content": [
+                  {
+                    "title": "Settings",
+                    "layoutDescription": "Form fields and sections",
+                    "visibleText": "General\nLanguage\nPhone numbers\nEmail addresses\nBilling information\nSaved credit/debit cards\nAddresses and more\nPayments\nSubscriptions\nAbout\n\nBilling Information\nEmail: george.dita@trilogy.com\nSaved credit/debit cards\nAddresses: 1\nItems in basket: 0\n\nMy Details\nCity: Redwood\nState: CA\nZip code: 94063\nCountry: United States"
+                  }
+                ]
+              },
+              {
+                "title": "Release_Notes_2022FR.pdf - Google Chrome",
+                "url": "https://www.work.com/release-notes",
+                "position": "right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "PDF viewer toolbar"
+                },
+                "content": [
+                  {
+                    "title": "Release Notes 2022FR",
+                    "layoutDescription": "Document view",
+                    "visibleText": "Release Notes, 2022FR\n\nNew features and enhancements\nNew features and other upgrades to app components.\n\nFixed issues\nHere you can find the list of resolved issues specific to Release 2022FR.\n\nComponent | Issue ID | Description\n-----------|----------|------------\nComponent1 | 12345 | Issue fixed regarding data synchronization\nComponent2 | 67890 | Error corrected in the reporting module\n\nPlease note that the document shown is an approximation of the original document.\n\nDocument Owner: John Doe\nDocument Version: 1.0"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Adobe Acrobat",
+            "windows": [
+              {
+                "title": "HR Template - Upgrade Notice - Adobe Acrobat",
+                "position": "middle left",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Adobe toolbar"
+                },
+                "content": [
+                  {
+                    "title": "HR Template - Upgrade Notice",
+                    "layoutDescription": "Document view",
+                    "visibleText": "HR Template - Upgrade Notice\n\nThis document outlines the steps necessary for upgrading to the new HR system. The process is detailed below:\n\n1. Preparation\n- Ensure all data is backed up\n- Verify system requirements\n\n2. Installation\n- Download the new software\n- Follow the installation instructions\n\n3. Post-Installation\n- Verify that the new system is functioning correctly\n- Train staff on new features\n\nPlease refer to the attached appendix for detailed specifications and vendor information.\n\nAppendix\n- System requirements\n- Vendor contact details\n- Installation guide\n\nThis document is intended for internal use only and should not be distributed outside of the company."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T14:29:10Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a Spotlight search icon and Notification Center icon.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Your receipt from Mixmax #2479-9762 - george.dita@trilogy.com",
+                "url": "https://mail.google.com/mail/u/0/#inbox",
+                "position": "right",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Contains tabs, address bar, bookmarks bar, and extensions icons"
+                },
+                "content": [
+                  {
+                    "title": "Email Content",
+                    "layoutDescription": "Standard email layout",
+                    "visibleText": "Your receipt from Mixmax\nDate: June 4, 2024\nReceipt #2479-9762\nPaid via: Credit Card\nAmount: $19.99\n\nItems:\nMixmax Subscription - Monthly\n\nTotal: $19.99\n\nThank you for your purchase!\n\nGeorge Dita\ngeorge.dita@trilogy.com"
+                  }
+                ]
+              },
+              {
+                "title": "Medium posts",
+                "url": "https://medium.com/",
+                "position": "bottom left",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Contains tabs, address bar, bookmarks bar, and extensions icons"
+                },
+                "content": [
+                  {
+                    "title": "Medium Homepage",
+                    "layoutDescription": "List of articles",
+                    "visibleText": "See All Medium posts"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Adobe Acrobat Reader",
+            "windows": [
+              {
+                "title": "Release_Notes_2022Q2",
+                "position": "right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Contains menu bar, toolbar, and document navigation pane"
+                },
+                "content": [
+                  {
+                    "title": "PDF Document",
+                    "layoutDescription": "PDF viewer layout",
+                    "visibleText": "Release Notes\n2022 Q2\n\nNew features and enhancements\n\nFixed issues\n\nPlease note that the document shown is an approximation of the original document."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Finder",
+            "windows": [
+              {
+                "title": "Finder Window",
+                "position": "center",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Contains sidebar, toolbar, and file view area"
+                },
+                "content": [
+                  {
+                    "title": "Finder Window",
+                    "layoutDescription": "File browser layout",
+                    "visibleText": "Documents\nDownloads\nDesktop"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in multiple tasks across different applications. In the first screenshot, the user is working on a Google Docs document titled 'Template - Upgrade Draft'. The document appears to be a detailed specification or upgrade notice, with sections for employee information, upgrade information, and manager information. The user is likely involved in writing or editing this document, as indicated by the visible text and layout.",
+    "In the second screenshot, the user is viewing a PDF document titled 'Release_Notes_2022R2.pdf' using a web-based PDF viewer. The document contains information about new features, enhancements, and fixed issues in a software release. This suggests that the user is reviewing product documentation or release notes, possibly to understand recent changes or updates in the software.",
+    "The third screenshot shows the user interacting with the Mixmax web application. The user is on the 'Sequences' page, which lists various email sequences such as 'Messenger Upgrade Poll' and 'Automate for Customer Care Call'. This indicates that the user is managing email sequences, likely for marketing or customer communication purposes. The user is also seen navigating to the 'Settings' page within Mixmax, specifically the 'Billing' section, suggesting they are managing account or billing information.",
+    "In the fourth screenshot, the user is composing an email in Gmail. The email content includes a receipt from Mixmax, indicating a recent purchase or subscription renewal. The user is attaching files to the email, as shown by the file selection dialog. This activity suggests that the user is handling email communication, possibly related to billing or subscription management."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in document editing, reviewing release notes, managing email sequences, and handling email communication without any visible interaction with AI tools.",
+  "activities": [
+    "READING_SPEC",
+    "WRITING_SPEC",
+    "EMAIL"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_SPEC",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 10,
+      "mouse": 3,
+      "date": "2024-06-05T14:20:34Z",
+      "windowTitle": " Sequences ï¿½ george.dita@trilogy.com - Google Chrome\n",
+      "processName": "app.mixmax.com",
+      "visitingUrl": "https://app.mixmax.com/dashboard/sequences",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 17,
+      "mouse": 7,
+      "date": "2024-06-05T14:21:34Z",
+      "windowTitle": " Your receipt from Mixmax #2479-9762 - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQVwwvDMbrgnZKdpCvLTTrsmNNq?projector=1&messagePartId=0.2",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 43,
+      "mouse": 14,
+      "date": "2024-06-05T14:22:34Z",
+      "windowTitle": " Settings ï¿½ george.dita@trilogy.com - Google Chrome\n",
+      "processName": "app.mixmax.com",
+      "visitingUrl": "https://app.mixmax.com/dashboard/settings/admin/billing",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T14:23:34Z",
+      "windowTitle": " Settings ï¿½ george.dita@trilogy.com - Google Chrome\n",
+      "processName": "app.mixmax.com",
+      "visitingUrl": "https://app.mixmax.com/dashboard/settings/admin/billing",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T14:24:34Z",
+      "windowTitle": " Settings ï¿½ george.dita@trilogy.com - Google Chrome\n",
+      "processName": "app.mixmax.com",
+      "visitingUrl": "https://app.mixmax.com/dashboard/settings/admin/billing",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T14:25:34Z",
+      "windowTitle": " Settings ï¿½ george.dita@trilogy.com - Google Chrome\n",
+      "processName": "app.mixmax.com",
+      "visitingUrl": "https://app.mixmax.com/dashboard/settings/admin/billing",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-05T14:26:34Z",
+      "windowTitle": " Settings ï¿½ george.dita@trilogy.com - Google Chrome\n",
+      "processName": "app.mixmax.com",
+      "visitingUrl": "https://app.mixmax.com/dashboard/settings/admin/billing",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 11,
+      "mouse": 17,
+      "date": "2024-06-05T14:27:34Z",
+      "windowTitle": " Inbox (9) - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#inbox?compose=new",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 49,
+      "mouse": 23,
+      "date": "2024-06-05T14:28:34Z",
+      "windowTitle": " Settings ï¿½ george.dita@trilogy.com - Google Chrome\n",
+      "processName": "app.mixmax.com",
+      "visitingUrl": "https://app.mixmax.com/dashboard/settings/admin/billing",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 49,
+      "mouse": 34,
+      "date": "2024-06-05T14:29:34Z",
+      "windowTitle": " Downloads\n",
+      "processName": "Google Chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T14:20:00Z"
+}

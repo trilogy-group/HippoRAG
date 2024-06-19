@@ -1,0 +1,303 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "meet.google.com",
+    "mail.google.com",
+    "explorer"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T18:32:51Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Microsoft Edge, File Explorer, Microsoft Store, Mail, Calendar, Photos, Microsoft Teams, Weather, News, Settings, and several other unidentified applications. Also includes system tray with notifications, sound, network, and battery status icons, as well as the date and time display showing '5/6/2024 9:32 PM'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "WorkSmart - Google Chrome",
+                "url": "",
+                "position": "fullscreen",
+                "isActive": true,
+                "highlightedElement": "tabs, address bar, navigation buttons, profile icon, extensions icons",
+                "content": [
+                  {
+                    "title": "WorkSmart Dashboard",
+                    "layoutDescription": "Grid layout of thumbnails",
+                    "visibleText": "app.crossover.com/dash\n08:00 PM\n218\n50\n08:10 PM\n0\n0\n08:20 PM\n0\n0\n08:30 PM\n0\n0\nSamy's Original VP TP...\n08:50 PM\n26\n1\n09:00 PM\n0\n0\n09:10 PM\n0\n0\nIdle time repeated for multiple entries"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T18:36:16Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, widgets, and several pinned applications. System tray includes network, sound, battery, and clock (9:36 PM, 6/5/2024).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Meet - wyj-rdjj-kan - Google Chrome",
+                "url": "https://meet.google.com/wyj-rdjj-kan",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "call interface with participant thumbnails, mute, camera, and more options buttons"
+                },
+                "content": [
+                  {
+                    "title": "Video Conference",
+                    "layoutDescription": "Grid layout",
+                    "visibleText": "David's AI Notetaker (from Ottawa), read.ai meeting notes, Isaac Squires, Robert Egglestone, Samy Aboel-Nil, Dragos Nuta"
+                  }
+                ]
+              },
+              {
+                "title": "Gmail - Inbox - Google Chrome",
+                "url": "https://mail.google.com/mail/u/0/#inbox",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "interface with sidebar, search bar, and email list"
+                },
+                "content": [
+                  {
+                    "title": "Email List",
+                    "layoutDescription": "List layout",
+                    "visibleText": "All VIP, Edu spec on core DSEs - update - I acknowledge, Samy Aboel-Nil - FW: 7 Golden Rules for Generative AI Apps: A..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T18:38:27Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, File Explorer, Google Chrome, and system tray with notifications, sound, network, and clock showing '9:38 PM'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - wyj-rdjj-kan - Google Chrome",
+                "url": "meet.google.com/wyj-rdjj-kan",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, Google account icon, and extensions icons"
+                },
+                "content": [
+                  {
+                    "title": "Google Meet Video Conference",
+                    "layoutDescription": "Video conference layout",
+                    "visibleText": "David's AI Notetaker (from Otter.ai) David Schwartz Robert Egglestone Isaac Squires Samy Aboel-Nil Dragos Nuta"
+                  },
+                  {
+                    "title": "Google Meet Controls",
+                    "layoutDescription": "Controls at bottom",
+                    "visibleText": "Microphone toggle, camera toggle, captions, present now, more options, hang up button"
+                  }
+                ]
+              },
+              {
+                "title": "Gmail - Inbox - Google Chrome",
+                "url": "mail.google.com/mail/u/0/#inbox",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "sidebar, search bar, compose button, refresh and more options"
+                },
+                "content": [
+                  {
+                    "title": "Gmail Inbox",
+                    "layoutDescription": "Email list layout",
+                    "visibleText": "Inbox Starred Snoozed Sent Drafts More Labels: 1 VIP, AI Coach Emails, Billing, CS Tempo, Kayako Important: meet-recordings-nor... George Dita (Google. Delivery progress (InfluxData) Jamie Sidey (via Go... Document shared with... Ben Moosher 2 Re: Crossover and Google... Matheus Vinicius de. 2 Re: Invitation: Matheus... George Dita PM Playbook Draft - for... Firat Gomi (Google . 2 Jive Upgrade - I like to..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Google Meet video conference, as evidenced by the screenshots showing the Google Meet interface with multiple participants. The meeting appears to be active, with participants such as David Schwartz, Isaac Squires, Robert Egglestone, Samy Aboel-Nil, and Dragos Nuta. The user is likely discussing work-related topics, given the professional context and the presence of multiple team members.",
+    "Simultaneously, the user is also checking their Gmail inbox. The screenshots show the Gmail interface with various emails, including those from Samy Aboel-Nil, George Dita, and Jamie Sidey. The user is likely managing their emails, possibly reading and responding to important messages. The email subjects suggest topics related to generative AI apps, delivery progress, and playbook drafts.",
+    "The user is utilizing Google Chrome as their primary web browser, with multiple tabs open. The tabs include the WorkSmart dashboard, Google Meet, and Gmail. The WorkSmart dashboard shows a grid layout of thumbnails, indicating the user is tracking their work activities and idle times. This suggests the user is monitoring their productivity and ensuring they are meeting their work targets."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a video conference and managing their emails. No AI chat interfaces or AI-driven email applications like Shortwave are visible in the screenshots. Therefore, it can be concluded that the user is not utilizing AI tools during this specific timeframe.",
+  "activities": [
+    "MEETING",
+    "EMAIL"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 51,
+      "mouse": 16,
+      "date": "2024-06-05T18:30:01Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 97,
+      "mouse": 20,
+      "date": "2024-06-05T18:31:01Z",
+      "windowTitle": "Marcelo Skaba - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/1kR4S0AAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 50,
+      "mouse": 10,
+      "date": "2024-06-05T18:32:01Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 43,
+      "mouse": 20,
+      "date": "2024-06-05T18:33:01Z",
+      "windowTitle": "Home",
+      "processName": "explorer",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 53,
+      "mouse": 12,
+      "date": "2024-06-05T18:34:01Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 2,
+      "mouse": 2,
+      "date": "2024-06-05T18:35:01Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 29,
+      "mouse": 8,
+      "date": "2024-06-05T18:36:01Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-05T18:37:01Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T18:38:01Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T18:39:01Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-05T18:30:00Z"
+}

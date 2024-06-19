@@ -1,0 +1,148 @@
+{
+  "candidateId": 2027577,
+  "apps": [
+    "mail.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-13T19:50:45Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Finder, Microsoft Edge, and other unidentified applications. Also includes system clock showing '19:50' and system status icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Hey Niklas, anything blocking you from enabling CoPilot? - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.7 GB - Google Chrome - Firat (trilogy.com)",
+                "url": "mail.google.com",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Tabs, address bar, bookmarks bar, Gmail interface with navigation pane on the left"
+                },
+                "content": [
+                  {
+                    "title": "Email Composition Window",
+                    "layoutDescription": "Central layout",
+                    "visibleText": "Draft saved\nfernando.junior@braskem.com\nHey Fernando, anything I can help with regarding your increased daily views?\nMeetings Remind me Templates Sequences Collaborators\nI hope that you are well.\nThis is Firat, Product Manager at Jive. I wanted to personally reach you, regarding the increasing usage you have for the platform. I've especially seen a spike on the 4th of June, and wanted to create a meeting to talk further about your activities.\nI would also like to get your feedback regarding Jive, and address any concerns you might have regarding CoPilot. Do you have 15 minutes for a quick meeting? https://calendly.com/firat-jive/meeting\nBesides these, let me know if I can help you in any way. I'd love to create a connection and help each other further.\nBest regards,\nFirat"
+                  },
+                  {
+                    "title": "Email Reading Pane",
+                    "layoutDescription": "Right side layout",
+                    "visibleText": "Firat Gomi to niklas.hogberg@trilogy.com\nHello Niklas,\nThis is Firat, Product Manager at DevFactory. I wanted to reach out to you regarding your usage of CoPilot in May. I found that you have not enabled it for any of your projects or client calls.\nAs the Product Manager responsible for CoPilot, I am keen to understand the reasons behind your decision. Do you have any concerns or feedback that might help us improve the service?\nYou can also reach out to me directly if you think the issue is too harsh or sensitive to discuss over email.\nIf you weren't aware, CoPilot can be enabled in your project settings. I encourage you to enable it as it can significantly enhance your productivity and client interactions.\nBesides these, let me know if I can help you in any way. I'd love to create a connection and help each other further.\nBest regards,\nFirat"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in email communication using Gmail. They are composing an email to Fernando Junior, discussing the increased daily views and proposing a meeting to talk further about activities. The email also mentions addressing concerns regarding CoPilot and includes a Calendly link for scheduling a meeting. The user is also reading a previously sent email to Niklas Hogberg, discussing the usage of CoPilot in May and encouraging its enablement for projects and client calls.",
+    "The user is managing their calendar within Gmail, as evidenced by the sidebar showing a scheduled meeting with Fernando Junior on June 21 from 6:00 PM to 7:00 PM. The calendar interface includes options to add guests, rooms, and locations, and to join the meeting via Google Meet. This indicates the user's effort to organize and plan their meetings efficiently.",
+    "The user is utilizing the Google Chrome web browser, as indicated by the active tabs and the address bar visible in the screenshot. The browser is primarily used for accessing Gmail, where the user is composing and reading emails. The presence of multiple tabs suggests that the user might be multitasking or preparing to switch between different tasks or resources."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in email communication and calendar management within Gmail. No AI chat interfaces or AI-generated suggestions are visible in the screenshots.",
+  "activities": [
+    "EMAIL"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "EMAIL",
+  "doubts": [],
+  "confidenceScore": 100,
+  "events": [
+    {
+      "keyboard": 73,
+      "mouse": 17,
+      "date": "2024-06-13T19:50:31Z",
+      "windowTitle": " Hey Niklas, anything blocking you from enabling CoPilot? - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.7 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#sent/FMfcgzQVwxGQzcCdLLkpwLQNtfZBxgjs?compose=DmwnWslvvBJDlzdWhdnVtQJbrXNxsfWsJNPPgChlDBVlkBzmVJxTVCpQgnmzRPmlrXlJGkWGdfqV",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 224,
+      "mouse": 17,
+      "date": "2024-06-13T19:51:31Z",
+      "windowTitle": " Hey Niklas, anything blocking you from enabling CoPilot? - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.8 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#sent/FMfcgzQVwxGQzcCdLLkpwLQNtfZBxgjs?compose=DmwnWslvvBJDlzdWhdnVtQJbrXNxsfWsJNPPgChlDBVlkBzmVJxTVCpQgnmzRPmlrXlJGkWGdfqV",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 181,
+      "mouse": 24,
+      "date": "2024-06-13T19:52:31Z",
+      "windowTitle": " Hey Niklas, anything blocking you from enabling CoPilot? - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.8 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#sent/FMfcgzQVwxGQzcCdLLkpwLQNtfZBxgjs?compose=DmwnWslvvBJDlzdWhdnVtQJbrXNxsfWsJNPPgChlDBVlkBzmVJxTVCpQgnmzRPmlrXlJGkWGdfqV",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 88,
+      "mouse": 18,
+      "date": "2024-06-13T19:53:31Z",
+      "windowTitle": " Hey Niklas, anything blocking you from enabling CoPilot? - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.7 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#sent/FMfcgzQVwxGQzcCdLLkpwLQNtfZBxgjs?compose=DmwnWslvvBJDlzdWhdnVtQJbrXNxsfWsJNPPgChlDBVlkBzmVJxTVCpQgnmzRPmlrXlJGkWGdfqV",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 15,
+      "mouse": 23,
+      "date": "2024-06-13T19:54:31Z",
+      "windowTitle": " Hey Niklas, anything blocking you from enabling CoPilot? - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.7 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#sent/FMfcgzQVwxGQzcCdLLkpwLQNtfZBxgjs?compose=DmwnWslvvBJDlzdWhdnVtQJbrXNxsfWsJNPPgChlDBVlkBzmVJxTVCpQgnmzRPmlrXlJGkWGdfqV",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 4,
+      "mouse": 41,
+      "date": "2024-06-13T19:55:31Z",
+      "windowTitle": " Hey Niklas, anything blocking you from enabling CoPilot? - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.7 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#sent/FMfcgzQVwxGQzcCdLLkpwLQNtfZBxgjs?compose=DmwnWslvvBJDlzdWhdnVtQJbrXNxsfWsJNPPgChlDBVlkBzmVJxTVCpQgnmzRPmlrXlJGkWGdfqV",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-13T19:50:00Z"
+}

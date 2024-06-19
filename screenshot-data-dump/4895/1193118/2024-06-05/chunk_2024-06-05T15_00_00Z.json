@@ -1,0 +1,398 @@
+{
+  "candidateId": 2368956,
+  "apps": [
+    "Google Chat",
+    "meet.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T15:03:02Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, Microsoft Edge, File Explorer, and several other unidentified icons. Notification area includes clock showing '3:03 PM' and date '6/5/2024', Wi-Fi, sound, and battery status icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Weekly Progress Report - TPM+Eng - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tools including font settings, paragraph settings, and other editing tools"
+                },
+                "content": [
+                  {
+                    "title": "Weekly Progress Report - TPM+Eng",
+                    "layoutDescription": "Text document layout",
+                    "visibleText": "Week 23\n\n1. **Accomplishments**\n - Successfully coordinated with the engineering team to finalize the new feature release.\n - Conducted comprehensive testing and resolved all critical bugs.\n - Prepared and delivered a detailed presentation to the stakeholders.\n\n2. **Challenges**\n - Encountered delays due to unforeseen technical issues which impacted the project timeline.\n - Difficulty in aligning with the marketing team on the go-to-market strategy.\n\n3. **Next Steps**\n - Focus on the deployment of the new features.\n - Schedule a follow-up meeting with the marketing team to finalize the launch plan.\n\n4. **Miscellaneous**\n - Reminder to review the latest security protocols with the IT department.\n - Update the project documentation to reflect recent changes.\n\n*This document is a collaborative effort and is regularly updated by the TPM and engineering teams."
+                  }
+                ]
+              },
+              {
+                "title": "Chat",
+                "url": "https://chat.ex",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "interface with contact list and message area"
+                },
+                "content": [
+                  {
+                    "title": "Chat with Nichole Moser",
+                    "layoutDescription": "Chat layout",
+                    "visibleText": "Nichole Moser: I'll have your proposal on my desk by tomorrow. I need to present it to the board next week, and I want it to be perfect.\n\nUser: I understand, I'll make sure everything is polished and ready.\n\nNichole Moser: With the last project, I noticed that the documentation was a bit sloppy. This time I need everything to be meticulous.\n\nUser: Noted, I'll go over the documents again and ensure everything is up to standard.\n\nNichole Moser: I want to avoid any delays this time. Your last project particularly got us into some issues with our schedule.\n\nUser: Understood.\n\nNichole Moser: On another note, your team did handle the project well after we saw those initial issues. It's more than what I expected and I'm grateful.\n\nUser: Thank..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T15:06:32Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Google Chat, and other unidentified applications. Also includes system clock showing '3:06 PM' and system date '6/5/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Weekly Progress Report - TPMlog - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Toolbar with tools like Share, Comments, File, Edit, View, Insert, Format, Tools, Extensions, Help"
+                },
+                "content": [
+                  {
+                    "title": "Weekly Progress Report - TPMlog",
+                    "layoutDescription": "Document layout with text and tables",
+                    "visibleText": "Weekly Progress Report - TPMlog\n\n1. **Team Updates**\n - **Completed Tasks**\n - Task 1: Description of Task 1\n - Task 2: Description of Task 2\n - **Ongoing Tasks**\n - Task 3: Description of Task 3\n - Task 4: Description of Task 4\n - **Issues/Blockers**\n - Issue 1: Description of Issue 1\n - Issue 2: Description of Issue 2\n\n2. **Individual Contributions**\n - Person A: Description of Person A's contributions\n - Person B: Description of Person B's contributions\n\n3. **Miscellaneous**\n - Note: Additional notes here\n\n[Document History] [Last edited by Person X]"
+                  }
+                ]
+              },
+              {
+                "title": "Google Chat",
+                "url": "https://chat.google.com/room/abc123",
+                "position": "right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Chat interface with search bar, settings, and chat options"
+                },
+                "content": [
+                  {
+                    "title": "Chat with Nichole Moser",
+                    "layoutDescription": "Chat window layout",
+                    "visibleText": "Nichole Moser: I just wanted to express my support for the new project and offer to share documentation best practices...\n\nUser: I found the L4 & L5 documents in the repo very useful. Can we have them updated...\n\nNichole Moser: Would you like any help from our documentation team getting all these set up?\n\nUser: We could use some help, yes. If your team has the bandwidth, could you help us out for a few...\n\nNichole Moser: It's a team effort! I'm glad I could help. If you need any more assistance...\n\nUser: Thanks, Nichole. All your help is invaluable for managing our transition!"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Google Meet",
+            "windows": [
+              {
+                "title": "Project Status Meeting",
+                "url": "https://meet.google.com/meeting/x",
+                "position": "left",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Video conference interface with participant list, chat, and settings"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Tom Greenfield",
+                      "expression": "smiling"
+                    },
+                    {
+                      "name": "Sara Johnson",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "John Doe",
+                      "expression": "concentrating"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "appName": "Other Applications",
+            "windows": []
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T15:08:36Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. System tray visible with clock showing '3:08 PM', date '6/5/2024', Wi-Fi, sound, and battery status icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Chat",
+                "position": "left",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Chat interface with sidebar showing contacts and conversations"
+                },
+                "content": [
+                  {
+                    "title": "Chat with Nichole Moser",
+                    "layoutDescription": "Chat window layout",
+                    "visibleText": "Nichole Moser\nI was told I might go for you. Show them that blonde people will go far! Show them all!\n\nNichole Moser\nIt's not true that I suggested that! It's really awful.\n\nNichole Moser\nHi Nichole, did you finish the research for Messenger and Teams?\n\nNichole Moser\nCan you help me with the list of needed licenses to install all the video conferencing apps?\n\nNichole Moser\nI have to admit I am a bit flustered. Any projects, workstreams this Q?\n\nNichole Moser\nI'm not sure I expected it will have to be handled that thought it absolutely has to go."
+                  }
+                ]
+              },
+              {
+                "title": "Weekly Progress Report - TPMs",
+                "position": "top right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Document editing interface in Google Docs"
+                },
+                "content": [
+                  {
+                    "title": "Weekly Progress Report - TPMs",
+                    "layoutDescription": "Document layout",
+                    "visibleText": "Weekly Progress Report - TPMs\n\nProject: Messenger Integration\n\nTeam Members:\nJohn Doe - 120 hours\nJane Doe - 100 hours\n\nTasks Completed:\n- Integration of Messenger API with internal systems\n- Comprehensive testing of the integration\n- Documentation of the process and results\n\nIssues:\n- Delay in API delivery affected the timeline\n- Some discrepancies in data handling were noted\n- Need for additional resources to handle unexpected complexities\n\nNext Steps:\n- Continue with the integration testing\n- Address the issues noted above\n- Prepare for the final presentation to stakeholders"
+                  }
+                ]
+              },
+              {
+                "title": "System Status & Control",
+                "position": "bottom right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "System monitoring and control interface"
+                },
+                "content": [
+                  {
+                    "title": "System Status & Control",
+                    "layoutDescription": "System status layout",
+                    "visibleText": "System Status & Control\n\nCPU Usage: 45%\nMemory Usage: 68%\nDisk Usage: 53%\nNetwork Status: Connected\n\nProcesses:\n- Google Chrome\n- Microsoft Edge\n- System Monitor\n- Various background processes"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Google Meet",
+            "windows": [
+              {
+                "title": "Project Status Update - Weekly",
+                "position": "bottom center",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Video conference interface with participant thumbnails"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Anna Smith",
+                      "expression": "focused"
+                    },
+                    {
+                      "name": "John Doe",
+                      "expression": "speaking"
+                    },
+                    {
+                      "name": "Emily White",
+                      "expression": "listening"
+                    },
+                    {
+                      "name": "Robert Brown",
+                      "expression": "neutral"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in a Google Chat conversation with Nichole Moser. The discussion revolves around the preparation and review of a proposal that needs to be presented to the board. Nichole emphasizes the importance of meticulous documentation and avoiding delays, referencing issues from a previous project. The user acknowledges these points and commits to ensuring the proposal is polished and ready on time.",
+    "The user is also working on a 'Weekly Progress Report' in Google Docs. The document outlines accomplishments, challenges, and next steps for the team. Specific accomplishments include coordinating with the engineering team to finalize a new feature release, conducting comprehensive testing, and delivering a presentation to stakeholders. Challenges mentioned include technical issues and alignment difficulties with the marketing team. The next steps focus on deploying new features and scheduling follow-up meetings.",
+    "The user participates in a Google Meet video conference. The meeting appears to be a project status update, with multiple participants visible in the interface. The user is likely discussing the progress and next steps of ongoing projects, as indicated by the shared screen showing the 'Weekly Progress Report' document. The meeting includes discussions on team updates, completed tasks, ongoing tasks, issues, and individual contributions."
+  ],
+  "aiUseSummary": "",
+  "activities": [
+    "READING_SPEC",
+    "WRITING_SPEC",
+    "CHATTING_WITH_TEAM",
+    "MEETING"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_SPEC",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 212,
+      "mouse": 6,
+      "date": "2024-06-05T15:00:34Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 126,
+      "mouse": 3,
+      "date": "2024-06-05T15:01:34Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 107,
+      "mouse": 4,
+      "date": "2024-06-05T15:02:34Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 16,
+      "date": "2024-06-05T15:03:34Z",
+      "windowTitle": " Meet - qtv-ugaf-ywq - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/qtv-ugaf-ywq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 4,
+      "mouse": 2,
+      "date": "2024-06-05T15:04:34Z",
+      "windowTitle": " Meet - qtv-ugaf-ywq - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/qtv-ugaf-ywq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T15:05:34Z",
+      "windowTitle": " Meet - qtv-ugaf-ywq - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/qtv-ugaf-ywq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 105,
+      "mouse": 4,
+      "date": "2024-06-05T15:06:34Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 17,
+      "mouse": 6,
+      "date": "2024-06-05T15:07:34Z",
+      "windowTitle": " Meet - qtv-ugaf-ywq - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/qtv-ugaf-ywq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 130,
+      "mouse": 1,
+      "date": "2024-06-05T15:08:34Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-05T15:09:34Z",
+      "windowTitle": " Meet - qtv-ugaf-ywq - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/qtv-ugaf-ywq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-05T15:00:00Z"
+}

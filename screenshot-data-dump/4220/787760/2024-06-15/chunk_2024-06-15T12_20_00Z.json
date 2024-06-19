@@ -1,0 +1,283 @@
+{
+  "candidateId": 1444536,
+  "apps": [
+    "mail.google.com",
+    "crossover.lightning.force.com",
+    "ws-lambda.atlassian.net",
+    "app.codesignal.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-15T12:21:16Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Adobe Acrobat Reader, and other unidentified applications. System tray includes network status, sound volume, date and time display (15/06/2024 13:21:16), and language setting (ENG).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Inbox (29) - dmitrii.shutenkov@trilogy.com - DevFactory Mail - Google Chrome",
+                "url": "mail.google.com/mail/u/0/#inbox",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs for SF Prod, SF Sandbox, ADFS, My Tasks, Crossover Sprints, Technical Debt - Crossover, Guides - Crossover, WS.Eng TPO: Leadership, Task Catalog. Also includes address bar, bookmarks bar, and multiple extension icons."
+                },
+                "content": [
+                  {
+                    "title": "Gmail",
+                    "layoutDescription": "client interface",
+                    "visibleText": "Inbox (29) - dmitrii.shutenkov@trilogy.com\nCompose\nInbox 29\nStarred\nSnoozed\nSent\nDrafts\nMore\nLabels\nExceptions\nAnnouncement\n[Company-wide announcement] Action required: Update your manager in Workday\nFailing delivery to webhook 'Update Pipeline Status'\nLAMBDA-76089 Veriff Error - Isabelle A.\nUpdated invitation: XO Check-in @ Wed Jun 19, 2024\n[...]"
+                  },
+                  {
+                    "title": "Email List",
+                    "layoutDescription": "List of emails",
+                    "visibleText": "[JIRA] Isabelle A. mentioned you on LAMBDA-76078\n[JIRA] (LAMBDA-76078) Acceptance Crossover\nAutomation, WS 3\nDragos, me, Ben 15\nKontent.ai\nSuccessful delivery to webhook 'Update Pipeline Status'\n[Company-wide announcement] Action required: Update your manager in Workday\nFailing delivery to webhook 'Update Pipeline Status'\nLAMBDA-76089 Veriff Error - Isabelle A.\nUpdated invitation: XO Check-in @ Wed Jun 19, 2024\n[...]"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-15T12:24:34Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes notifications, ENG language indicator, time display '13:24:34', date '15/06/2024', and PRE network status.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "LAMBDA-76078 Acceptance Crossover: Hire tasks 2024-06-13 - WorkSmart Lambda - Google Chrome",
+                "url": "ws-lambda.atlassian.net/browse/LAMBDA-76078",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs for SF Prod, SF Sandbox, ADFS, My Tasks, Crossover Sprints, Technical Debt - Crossover, Guides - Crossover, WS.Eng TPO: Leadership, Task Catalog. Address bar, navigation buttons, bookmarks bar visible. Multiple extension icons and profile icon at top right."
+                },
+                "content": [
+                  {
+                    "title": "WS Lambda Service project",
+                    "layoutDescription": "Left sidebar navigation",
+                    "visibleText": "WS Lambda\nService project\nQueues\nRaise a request\nScheduled Issues\nScriptRunner Enhanced...\nKnowledge base\nReports\nDirectory\nChannels\nInvite agents\nCustomers\nYou're in a company-managed project"
+                  },
+                  {
+                    "title": "Acceptance Crossover: Hire tasks 2024-06-13",
+                    "layoutDescription": "Main content area",
+                    "visibleText": "Projects / WS Lambda / Add parent / LAMBDA-76078\nAcceptance Crossover: Hire tasks 2024-06-13\nCreate subtask\nLink issue\nCreate\nMy Forge App\nInfo\nMore Inputs\nOutputs\nLambda Service\nBSU Owner Review\nDmitrii Shutkenkov raised this request via Portal\nView request in portal\nProduct\nCrossover: Hire - Maintenance\nDescription\nAcceptance Crossover: Hire tasks 2024-06-13\nStory Points\nNone\nPriority\nStandard\nAdd internal note\nReply to customer\nPro tip: press M to comment"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-15T12:27:43Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Search, Microsoft Edge, Windows Terminal, File Explorer, and several unidentified applications. Also includes system tray with network, sound, and battery status icons, as well as the date and time display '15/06/2024 13:27:43'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Shalaby Waseem - General Coding Assessment | CodeSignal",
+                "url": "https://app.codesignal.com",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "browser tabs, address bar, navigation buttons, bookmarks bar, and CodeSignal website interface"
+                },
+                "content": [
+                  {
+                    "title": "Coding Report > Assessment Result",
+                    "layoutDescription": "Web page layout",
+                    "visibleText": "Shalaby Waseem 600 shalabywaseem@zohomail.com LINK DOWNLOAD BASIC INFO Pre-Screen: General Coding Assessment Framework: General Coding Framework Completed On: Aug 23, 2023 Duration: 70m/70m Proctored: Yes Solved: 0/4 CORE SKILLS Implementation Speed Problem Solving"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in managing their email inbox on Gmail. They are reviewing multiple emails, including notifications from JIRA regarding tasks and mentions, as well as company-wide announcements and updates from various services like Kontent.ai. The user is likely prioritizing tasks and organizing their workflow based on the emails received.",
+    "The user is also working on a task in JIRA, specifically the 'Acceptance Crossover: Hire tasks 2024-06-13' under the WS Lambda project. They are reviewing the task details, including the description, priority, and SLA times. The user might be planning the next steps or updating the task status based on the information provided.",
+    "Additionally, the user is reviewing a coding assessment report on CodeSignal. The report shows the results of a general coding assessment for an individual named Shalaby Waseem. The user is likely evaluating the candidate's performance, which includes details like the score, completion time, and core skills assessed. This activity suggests involvement in the hiring or evaluation process."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in email management, task review in JIRA, and candidate evaluation on CodeSignal. No AI chat interfaces or AI-driven suggestions are visible in the screenshots, indicating that the user is not utilizing AI tools during this period.",
+  "activities": [
+    "EMAIL",
+    "REVIEWING_CODE"
+  ],
+  "workTypes": [
+    "BACKEND"
+  ],
+  "programmingLanguages": [
+    "OTHER"
+  ],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "EMAIL",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-15T12:20:41Z",
+      "windowTitle": "Inbox (29) - dmitrii.shutenkov@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 5,
+      "date": "2024-06-15T12:21:41Z",
+      "windowTitle": "Inbox (29) - dmitrii.shutenkov@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-15T12:22:41Z",
+      "windowTitle": "Inbox (29) - dmitrii.shutenkov@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 8,
+      "date": "2024-06-15T12:23:41Z",
+      "windowTitle": "Writing Code - Data Structures & Algorithms | Application Step Result | Salesforce - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/r/Application_Step_Result__c/a0B2j00000GIs3SEAT/view",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 5,
+      "date": "2024-06-15T12:24:41Z",
+      "windowTitle": "[LAMBDA-76078] Acceptance Crossover: Hire tasks 2024-06-13 - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-76078",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-15T12:25:41Z",
+      "windowTitle": "[LAMBDA-76078] Acceptance Crossover: Hire tasks 2024-06-13 - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-76078",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-15T12:26:41Z",
+      "windowTitle": "[LAMBDA-76116] Minimum Badge issue - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-76116",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 18,
+      "date": "2024-06-15T12:27:41Z",
+      "windowTitle": "Shalaby Waseem - General Coding Assessment | CodeSignal - Google Chrome",
+      "processName": "app.codesignal.com",
+      "visitingUrl": "app.codesignal.com/coding-report/QRpuzX6AoQAgfeeiu-z3RSjiFCwsrikPbAG7q3DnCD/gLGxcxGu68wE8qws7?accessToken=dAvXempFskDuRLE7t-ewNc4sdAiFrREmQoSMJfzSeT",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-15T12:28:41Z",
+      "windowTitle": "Writing Code - Data Structures & Algorithms | Application Step Result | Salesforce - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/r/Application_Step_Result__c/a0B2j00000BYoEwEAL/view",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-15T12:29:41Z",
+      "windowTitle": "Writing Code - Data Structures & Algorithms | Application Step Result | Salesforce - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/r/Application_Step_Result__c/a0B2j00000BYoEwEAL/view",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-15T12:20:00Z"
+}

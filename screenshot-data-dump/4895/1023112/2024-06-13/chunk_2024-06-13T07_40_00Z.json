@@ -1,0 +1,217 @@
+{
+  "candidateId": 2027577,
+  "apps": [
+    "mail.google.com",
+    "chatgpt.com",
+    "web.outreach.io",
+    "login.outreach.io",
+    "sidebar.outreach.io"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-13T07:42:28Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. System tray includes network status, sound volume, date and time display (Wednesday, June 12, 2024, 7:42 PM), and notifications icon.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "HEMA SHARMA messaged you - Chat - Pinned - High memory usage - 1.3 GB - Google Chrome - Firat (trilogy.com)",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Address bar visible with URL. Bookmark bar with various bookmarks. Multiple extension icons including Google Account, Google Keep, and others."
+                },
+                "content": [
+                  {
+                    "title": "Gmail",
+                    "layoutDescription": "Email client interface",
+                    "visibleText": "Gmail interface showing inbox with multiple emails listed. Emails include subjects like 'How did you notice ROI?', 'Your Questions Regarding Capitol-C', 'Summary Blog', and others. The left sidebar shows Gmail folders such as Inbox, Starred, Snoozed, Sent, Drafts, and more. The top of the interface includes a search bar with options for filtering emails."
+                  },
+                  {
+                    "title": "Google Calendar",
+                    "layoutDescription": "Calendar interface",
+                    "visibleText": "Google Calendar interface displaying the month of June 2024. Dates from June 12 to June 17 are visible with various events marked, such as 'Product Data Check', 'Marketing strategy alignment', 'Email for System Admins', and others. The left sidebar shows options to create a new event and view different calendar views."
+                  },
+                  {
+                    "title": "HubSpot",
+                    "layoutDescription": "CRM tool interface",
+                    "visibleText": "HubSpot interface showing email performance metrics. Sections include 'Performance' with stats like Sent (206), Delivered (206), Opened (29), Clicked (6), and more. The bottom part of the interface includes a search bar for contacts and a list of recipients who clicked on emails, with names and email addresses like 'Dion Kuhenberg', 'Tess McGinn', 'Ray Newbyland', and others."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-13T07:44:46Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Finder, Mail, Calendar, and other unidentified applications. Also includes system clock showing 'Thu Jun 13 19:44' and system status icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Mailbox: fiaat.gmit@trilogy.com - Google Chrome",
+                "url": "https://app1a.outreach.io/api/auths/google",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "navigation bar, bookmarks bar, multiple tabs, address bar, and webpage content"
+                },
+                "content": [
+                  {
+                    "title": "Mailbox: fiaat.gmit@trilogy.com",
+                    "layoutDescription": "Webpage layout with left sidebar and main content area",
+                    "visibleText": "Mailbox: fiaat.gmit@trilogy.com\nAuthentication\nEmail provider: Gmail\nEmail: This is the email you'll be sending and syncing from.\nfiaat.gmit@trilogy.com\nConnected to fiaat.gmit@trilogy.com\nDisconnect\nWe couldn't connect most likely due to missing Google permissions. Please reconnect your mailbox.\nSending and syncing\nEnable sending messages from this mailbox\nEnable syncing messages from this mailbox\nSignature\nPlease specify an SMTP host and port."
+                  },
+                  {
+                    "title": "Performance",
+                    "layoutDescription": "Table layout with columns and rows",
+                    "visibleText": "Performance\nSent 286\nDelivered 286\nOpened 29\nBounced 2\nReplied 0\nUnsubscribed 2\nSpam reports 0\nNot sent 144"
+                  },
+                  {
+                    "title": "Recipients",
+                    "layoutDescription": "Table layout with columns and rows",
+                    "visibleText": "Recipients\nClicked 6\nRECIPIENT\nDiane Kohlberg diane_kohlberg@choiceshotels.com Clicked https://crossoverzoom.us/webinar/re..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is primarily engaged in email-related activities. The Gmail interface shows the user managing their inbox, which includes emails with subjects like 'How did you notice ROI?', 'Your Questions Regarding Capitol-C', and 'Summary Blog'. The user is also composing a new email, as indicated by the 'New Message' window at the bottom of the screen. Additionally, the user is interacting with the Google Calendar interface, which displays various events scheduled for the month of June 2024, such as 'Product Data Check' and 'Marketing strategy alignment'.",
+    "The user is also utilizing HubSpot, a CRM tool, to monitor email performance metrics. The HubSpot interface shows statistics such as Sent (206), Delivered (206), Opened (29), and Clicked (6). The user is reviewing a list of recipients who clicked on emails, including names like 'Dion Kuhenberg' and 'Tess McGinn'. This indicates that the user is analyzing the effectiveness of their email campaigns and possibly planning follow-up actions based on these metrics.",
+    "In another screenshot, the user is seen on the Outreach platform, specifically on a mailbox configuration page. The user is attempting to connect their Gmail account to Outreach but encounters an error message indicating missing Google permissions. The user is also configuring settings for sending and syncing messages from this mailbox and specifying an SMTP host and port. This suggests that the user is in the process of setting up or troubleshooting their email integration with Outreach."
+  ],
+  "aiUseSummary": "The user is utilizing ChatGPT for research and guidance. The screenshot shows the user interacting with ChatGPT, likely for assistance with email-related tasks or other work activities. The specific content of the conversation is not visible, but the presence of ChatGPT indicates that the user is leveraging AI for support in their workflow. This usage of AI tools helps the user to enhance productivity and efficiency by providing quick answers and solutions to their queries.",
+  "activities": [
+    "EMAIL",
+    "RESEARCH"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [
+    "OPENAI_CHATGPT"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "EMAIL",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 21,
+      "mouse": 8,
+      "date": "2024-06-13T07:40:47Z",
+      "windowTitle": " HEMA SHARMA messaged you - Chat - Pinned - High memory usage - 1.3 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#search/close+brothers?compose=dwRfsxmdpTnKdNmvZzShhfkhDffwhvKlRTxcdqPVLFTVsZgPNTrRsVqTjqkrFCZWJhWGcqSZFBFbwznQGkwxFVjlJDZKsKsttCSgPkScqlQLzDLlFHTFrRcDHssFFFRNdJFGsxMnrNChRvccQLrZZqjQkRhSgbbLzwmJbJMbV",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 10,
+      "date": "2024-06-13T07:41:47Z",
+      "windowTitle": " Google Chrome\n",
+      "processName": "chatgpt.com",
+      "visitingUrl": "https://chatgpt.com/c/07811091-7f6f-4920-a9c8-efcc60d5df73",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 8,
+      "mouse": 8,
+      "date": "2024-06-13T07:42:47Z",
+      "windowTitle": " Outreach - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "web.outreach.io",
+      "visitingUrl": "https://web.outreach.io/?code=ory_ac_QY2ZlqoKCK6kOoDJ_t2f0f50Cuy0bMIApDPqEZhxNJ8.MQVa1L1ReWicQD4hSgaDqR0b7Vb2DB5cSFfwqNmhc7Y&scope=profile+email+resources.all+openid&state=b776b2767f7c4558b4dda68339733bcb",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 11,
+      "mouse": 2,
+      "date": "2024-06-13T07:43:47Z",
+      "windowTitle": "  - Firat (trilogy.com)\n",
+      "processName": "login.outreach.io",
+      "visitingUrl": "https://login.outreach.io/extension-auth/index.html?version=2",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 13,
+      "date": "2024-06-13T07:44:47Z",
+      "windowTitle": " Outreach - Firat (trilogy.com)\n",
+      "processName": "sidebar.outreach.io",
+      "visitingUrl": "https://sidebar.outreach.io/users/353/mailboxes/609",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-13T07:45:47Z",
+      "windowTitle": " Outreach - Firat (trilogy.com)\n",
+      "processName": "sidebar.outreach.io",
+      "visitingUrl": "https://sidebar.outreach.io/users/353/mailboxes/609",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-13T07:46:47Z",
+      "windowTitle": " Outreach - Firat (trilogy.com)\n",
+      "processName": "sidebar.outreach.io",
+      "visitingUrl": "https://sidebar.outreach.io/users/353/mailboxes/609",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-13T07:40:00Z"
+}

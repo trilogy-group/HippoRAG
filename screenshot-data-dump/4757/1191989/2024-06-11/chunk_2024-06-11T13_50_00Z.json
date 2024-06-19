@@ -1,0 +1,200 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "meet.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-11T13:58:50Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, widgets, and several pinned applications including Edge, Chrome, and a folder. System tray includes network, sound, and clock icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - sjt-mpfd-bwj - Google Chrome",
+                "url": "meet.google.com/sjt-mpfd-bwj",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, and Google account avatar at top right"
+                },
+                "content": [
+                  {
+                    "title": "Google Meet Video Conference",
+                    "layoutDescription": "Grid layout of video feeds",
+                    "visibleText": "Simon Said, Samy Aboel-Nil, Bogdan Tenea, Serban Petrescu, Dmitry Bakaev, Phil Hewinson, Isaac Squires, read.ai meeting notes"
+                  },
+                  {
+                    "title": "In-call messages",
+                    "layoutDescription": "Sidebar on right",
+                    "visibleText": "Messages are being recorded with the call\n\nBogdan Tenea 7:34 AM\nThis was David's comment -\nhttps://docs.google.com/document/d/1Q2pt-1M0gN Tenea 7:36 AM\nGT XO HC sheet:\nhttps://docs.google.com/spreadsheets/d/1V Tenea 7:51 AM\nPhil - can we meet right after this to talk about TeachTap staffing?\n\nPhil Hewinson 7:51 AM\nsure"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is participating in a Google Meet video conference. The meeting interface shows a grid layout of video feeds with participants named Simon Said, Samy Aboel-Nil, Bogdan Tenea, Serban Petrescu, Dmitry Bakaev, Phil Hewinson, and Isaac Squires. There is also a participant named 'read.ai meeting notes', which suggests that meeting notes are being recorded or transcribed by an AI tool. The in-call messages sidebar on the right shows messages from Bogdan Tenea and Phil Hewinson discussing various documents and a follow-up meeting about TeachTap staffing.",
+    "The user is actively engaged in the meeting, as indicated by the visible text in the in-call messages. Bogdan Tenea shared a Google Docs link at 7:34 AM, a Google Sheets link at 7:36 AM, and a message at 7:51 AM asking Phil Hewinson if they can meet right after the current meeting to discuss TeachTap staffing. Phil Hewinson responded affirmatively at 7:51 AM. This indicates that the user is involved in discussions about project documentation and staffing plans."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used by the user in the provided screenshots. The 'read.ai meeting notes' participant suggests that an AI tool might be used for transcribing the meeting, but there is no direct interaction with AI tools by the user visible in the screenshots.",
+  "activities": [
+    "MEETING",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 100,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T13:50:56Z",
+      "windowTitle": "Meet - sjt-mpfd-bwj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/sjt-mpfd-bwj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T13:51:56Z",
+      "windowTitle": "Meet - sjt-mpfd-bwj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/sjt-mpfd-bwj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T13:52:56Z",
+      "windowTitle": "Meet - sjt-mpfd-bwj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/sjt-mpfd-bwj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T13:53:56Z",
+      "windowTitle": "Meet - sjt-mpfd-bwj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/sjt-mpfd-bwj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T13:54:56Z",
+      "windowTitle": "Meet - sjt-mpfd-bwj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/sjt-mpfd-bwj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 5,
+      "date": "2024-06-11T13:55:56Z",
+      "windowTitle": "Meet - sjt-mpfd-bwj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/sjt-mpfd-bwj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-11T13:56:56Z",
+      "windowTitle": "Meet - sjt-mpfd-bwj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/sjt-mpfd-bwj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-11T13:57:56Z",
+      "windowTitle": "Meet - sjt-mpfd-bwj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/sjt-mpfd-bwj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T13:58:56Z",
+      "windowTitle": "Meet - sjt-mpfd-bwj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/sjt-mpfd-bwj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T13:59:56Z",
+      "windowTitle": "Meet - sjt-mpfd-bwj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/sjt-mpfd-bwj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-11T13:50:00Z"
+}

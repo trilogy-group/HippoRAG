@@ -1,0 +1,119 @@
+{
+  "candidateId": 2368956,
+  "apps": [
+    "Google Chat"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T16:39:08Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Microsoft Edge, Finder, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Microsoft Outlook, OneNote, Microsoft Teams, Adobe Acrobat, System Preferences, Terminal, and Trash. Also includes a system clock showing '4:39 PM' and a date 'Tue Jun 5'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Chat",
+                "url": "https://chat.example.com",
+                "position": "left",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Chat window with search bar, settings icon, and chat list on the left"
+                },
+                "content": [
+                  {
+                    "title": "Chat",
+                    "layoutDescription": "Chat interface",
+                    "visibleText": "Brenda: I have some questions about the Anderson account. I emailed you regarding this a few hours ago.\n\nDragos Nitu: If I have some answers for you and if Anderson is available, I would suggest going to a call this afternoon."
+                  }
+                ]
+              },
+              {
+                "title": "Customer On-Boarding Acceleration",
+                "url": "https://docs.google.com/spreadsheets/d/1A2B3C",
+                "position": "right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Spreadsheet window with toolbar containing undo, redo, print, format painter, and more tools"
+                },
+                "content": [
+                  {
+                    "title": "Customer On-Boarding Acceleration",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "Position, Name, Email, Account Owner, Account Creation Date, Last Login Date, Subscription Status, Notes\n1, John Doe, john.doe@gmail.com, Brenda, 2021-05-01, 2021-05-02, Active, -\n2, Jane Doe, jane.doe@gmail.com, Brenda, 2021-05-03, 2021-05-04, Active, -\n3, Alice Smith, alice.smith@gmail.com, Brenda, 2021-05-05, 2021-05-06, Active, -\n4, Bob Brown, bob.brown@gmail.com, Brenda, 2021-05-07, 2021-05-08, Active, -\n5, Charlie Johnson, charlie.johnson@gmail.com, Brenda, 2021-05-09, 2021-05-10, Active, -"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Excel",
+            "windows": [
+              {
+                "title": "Sheet1 - Excel",
+                "position": "bottom",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Excel window with toolbar containing file, home, insert, page layout, formulas, data, review, view, help tabs"
+                },
+                "content": [
+                  {
+                    "title": "Sheet1",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "A1: 1, B1: 100, C1: 200, D1: 300, E1: 400, F1: 500, G1: 600, H1: 700, I1: 800, J1: 900, K1: 1000, L1: 1100, M1: 1200, N1: 1300, O1: 1400, P1: 1500, Q1: 1600, R1: 1700, S1: 1800, T1: 1900, U1: 2000, V1: 2100, W1: 2200, X1: 2300, Y1: 2400, Z1: 2500, AA1: 2600, AB1: 2700, AC1: 2800, AD1: 2900, AE1: 3000, AF1: 3100, AG1: 3200, AH1: 3300, AI1: 3400, AJ1: 3500, AK1: 3600, AL1: 3700, AM1: 3800, AN1: 3900, AO1: 4000, AP1: 4100, AQ1: 4200, AR1: 4300, AS1: 4400, AT1: 4500, AU1: 4600, AV1: 4700, AW1: 4800, AX1: 4900, AY1: 5000"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in a chat conversation on Google Chat. The conversation involves discussing the extension of a product feature and the need to jump on a call for further discussion. The user is also providing better contacts for PR and Advocates, indicating a collaborative effort to improve communication and outreach strategies.",
+    "The user is working with multiple Google Sheets documents. One document titled 'Customer On-Boarding Acceleration' contains detailed information about customer positions, names, emails, account owners, account creation dates, last login dates, subscription statuses, and notes. This suggests the user is involved in managing customer data and tracking their onboarding progress.",
+    "Another Google Sheets document titled 'Admins' lists various admin details such as names, roles, and other relevant information. This indicates the user is also involved in administrative tasks, possibly managing or organizing team members and their roles within the organization."
+  ],
+  "aiUseSummary": "",
+  "activities": [
+    "READING_SPEC",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [
+    "UI",
+    "DB"
+  ],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "CHATTING_WITH_TEAM",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 241,
+      "mouse": 12,
+      "date": "2024-06-05T16:39:39Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T16:30:00Z"
+}

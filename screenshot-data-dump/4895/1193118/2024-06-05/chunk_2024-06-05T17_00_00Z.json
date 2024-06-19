@@ -1,0 +1,352 @@
+{
+  "candidateId": 2368956,
+  "apps": [
+    "docs.google.com",
+    "mail.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T17:00:29Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Siri, Google Chrome, Microsoft Excel, Microsoft Word, Slack, and other unidentified applications. Also includes system status icons like Wi-Fi, battery indicator, clock showing '5:00 PM', and Spotlight search.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "ChallengeEngagement - CustomerInterview - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "left side of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Toolbar with File, Edit, View, Insert, Format, Tools, Add-ons, Help. Toolbar with undo, redo, print, styling options, and zoom controls."
+                },
+                "content": [
+                  {
+                    "title": "Document Content",
+                    "layoutDescription": "Text document layout",
+                    "visibleText": "What do you hope to learn from the talk? The purpose of discussion is to better understand how... (text continues)"
+                  }
+                ]
+              },
+              {
+                "title": "Medium posts",
+                "url": "https://medium.com/",
+                "position": "bottom of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Navigation bar including Home, Notifications, Profile, and more."
+                },
+                "content": [
+                  {
+                    "title": "Webpage Content",
+                    "layoutDescription": "Webpage layout",
+                    "visibleText": "Medium posts - Overview of recent posts and articles on Medium. (text continues)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Excel",
+            "windows": [
+              {
+                "title": "Customer Outreach - Associations",
+                "position": "right side of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Toolbar with File, Home, Insert, Page Layout, Formulas, Data, Review, View, Help. Cell formatting and formula bar visible."
+                },
+                "content": [
+                  {
+                    "title": "Excel Content",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "A1: Name, B1: Email, C1: Phone, D1: Association, E1: Last Contact, F1: Notes... (text continues)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T17:05:46Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Time Machine, and others. Includes a system clock showing '5:06 PM' and a Spotlight search icon.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Work with me to improve PostBeyond - give feedback on new AI features - george.dita@trilogy.com - DevFactory Mail - Google Chrome",
+                "url": "https://mail.google.com/mail/u/0/#",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and multiple extension icons including Google Account, Google Docs Offline, and others"
+                },
+                "content": [
+                  {
+                    "title": "Email Content",
+                    "layoutDescription": "Email body visible",
+                    "visibleText": "George Dita\nProduct Manager at PostBeyond\n\nI am actively shaping the new features we are developing and creating strategies.\n\nI want to invite you to be an active voice in these discussions. Currently, we've got a new AI-enhanced tool, and I'd like to hear your thoughts and feedback as part of our trusted tester group.\n\nThanks,\nGeorge Dita\ngeorge.dita@trilogy.com"
+                  },
+                  {
+                    "title": "Medium posts",
+                    "layoutDescription": "Web page visible",
+                    "visibleText": "See all Medium posts ↓"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T17:09:33Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Siri, Google Chrome, Microsoft Excel, Microsoft Word, Microsoft PowerPoint, Outlook, Slack, and other unidentified applications",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Re: Aurea version 2024 - Risk of failing PCI certification: next steps - george.dita@trilogy.com - DevFactory Mail",
+                "url": "https://mail.google.com/mail/u/0/#inbox",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and Gmail interface elements"
+                },
+                "content": [
+                  {
+                    "title": "Email Content",
+                    "layoutDescription": "Standard Gmail layout",
+                    "visibleText": "Chris Miller\n\nHi George,\n\nThanks for the heads up about the potential risk of failing PCI certification due to the new changes in Aurea v2024. I've CC'd our COMPLIANCE MONITORING BOARD, as they need to be looped in on this.\n\nBest,\nChris\n\nGeorge Dita\n\nHi Chris,\n\nWe are preparing for a PCI audit and I have collected reports on how the newly updated Aurea affects the way they interact.\n\nBest regards,\nGeorge\n\nMichael Townsend\n\nHi George,\n\nI have attached the reports you requested.\n\nBest,\nMichael"
+                  }
+                ]
+              },
+              {
+                "title": "Chat - Nicole Moser",
+                "url": "https://chat.google.com/room/ABCDE",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "chat interface elements"
+                },
+                "content": [
+                  {
+                    "title": "Chat Content",
+                    "layoutDescription": "Google Chat layout",
+                    "visibleText": "Nicole Moser\n\nHi George,\n\nI saw your request for reports. Have them ready and will get back to you later today.\n\nBest,\nNicole\n\nGeorge Dita\n\nHi Nicole, do you have leads for tomorrow's user engagement session?\n\nBest,\nGeorge\n\nNicole Moser\n\nYes, I do. I have a list of 20 customers ready for the study of the new updates.\n\nBest,\nNicole"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Excel",
+            "windows": [
+              {
+                "title": "Customer Onboard - Acceleration",
+                "position": "right side of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Excel interface elements"
+                },
+                "content": [
+                  {
+                    "title": "Excel Spreadsheet Content",
+                    "layoutDescription": "Excel layout with multiple columns and rows",
+                    "visibleText": "Customer Onboard - Acceleration\n\nCustomer Name, Status, Notes, Risk Level\n\n[Multiple customer names and corresponding statuses, notes, and risk levels are listed in the spreadsheet]"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Word",
+            "windows": []
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in reading and writing specifications. They are working on a Google Docs document titled 'ChallengeEngagement - CustomerInterview'. The document contains questions and learning objectives related to customer engagement and interview scripts. The user is likely preparing for or documenting a customer interview session, focusing on understanding customer needs and feedback.",
+    "The user is also involved in team communication through Google Chat. They are having a conversation with a team member named Nicole Moser. The discussion revolves around product leads and customer engagement sessions. Nicole provides updates on the availability of leads for a study on new updates, indicating collaborative planning and coordination within the team.",
+    "Additionally, the user is managing customer outreach data using a Google Sheets document titled 'Customer Outreach - Associations'. The spreadsheet includes columns for customer names, emails, phone numbers, associations, last contact dates, and notes. This activity suggests that the user is organizing and tracking customer interactions and outreach efforts.",
+    "The user is checking and responding to emails using Gmail. One email from George Dita, a Product Manager at PostBeyond, invites the user to provide feedback on new AI features. Another email thread involves a discussion about the risk of failing PCI certification for Aurea version 2024, with multiple stakeholders including Chris Miller and Michael Townsend. The user is actively involved in these email conversations, indicating their role in product feedback and compliance monitoring."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in reading and writing specifications, team communication, managing customer outreach data, and handling emails. No interactions with AI tools for code suggestions, research, guidance, or debugging are visible in the screenshots.",
+  "activities": [
+    "READING_SPEC",
+    "WRITING_SPEC",
+    "CHATTING_WITH_TEAM",
+    "EMAIL"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_SPEC",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 9,
+      "mouse": 0,
+      "date": "2024-06-05T17:00:39Z",
+      "windowTitle": " ChallengeEngagement - CustomerInterview - Google Docs - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1b_0qBFgkXtuyVJMiL3UCigjgYz5271tUQuxtdh-Pq_4/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T17:01:39Z",
+      "windowTitle": " ChallengeEngagement - CustomerInterview - Google Docs - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1b_0qBFgkXtuyVJMiL3UCigjgYz5271tUQuxtdh-Pq_4/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 53,
+      "mouse": 5,
+      "date": "2024-06-05T17:02:39Z",
+      "windowTitle": " ChallengeEngagement - CustomerInterview - Google Docs - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1b_0qBFgkXtuyVJMiL3UCigjgYz5271tUQuxtdh-Pq_4/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 47,
+      "mouse": 11,
+      "date": "2024-06-05T17:03:39Z",
+      "windowTitle": " ChallengeEngagement - CustomerInterview - Google Docs - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1b_0qBFgkXtuyVJMiL3UCigjgYz5271tUQuxtdh-Pq_4/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 17,
+      "mouse": 8,
+      "date": "2024-06-05T17:04:39Z",
+      "windowTitle": " ChallengeEngagement - CustomerInterview - Google Docs - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1b_0qBFgkXtuyVJMiL3UCigjgYz5271tUQuxtdh-Pq_4/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 9,
+      "mouse": 14,
+      "date": "2024-06-05T17:05:39Z",
+      "windowTitle": " Inbox (31) - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 17,
+      "mouse": 39,
+      "date": "2024-06-05T17:06:39Z",
+      "windowTitle": " Inbox (27) - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 42,
+      "date": "2024-06-05T17:07:39Z",
+      "windowTitle": " Work with me to improve PostBeyondï¿½ - give feedback on new AI features - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQVwwvDMfKGbvndmgQGRrXFnnNs",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 2,
+      "mouse": 26,
+      "date": "2024-06-05T17:08:39Z",
+      "windowTitle": " Inbox (8) - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 10,
+      "mouse": 29,
+      "date": "2024-06-05T17:09:39Z",
+      "windowTitle": " Re: Aurea version 2024 - Risk of failing PCI certification: next steps - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQVwnfNxRsmMzWHLmhVcZrZkHpn",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T17:00:00Z"
+}

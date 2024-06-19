@@ -1,0 +1,277 @@
+{
+  "candidateId": 1444536,
+  "apps": [
+    "help.veriff.com",
+    "crossover.lightning.force.com",
+    "workbench.developerforce.com",
+    "station.veriff.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-15T11:32:37Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, File Explorer, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Outlook, OneNote, Teams, Visual Studio Code, and a red circular icon with a white cross, possibly a notification or alert icon. System tray includes icons for network, sound, notifications, and a clock displaying '12:32:38' on '15/06/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "A-00001669 | Identity Proof | Salesforce - Google Chrome",
+                "url": "https://crossover.lightning.force.com",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs for SF Prod, SF Sandbox, ADFS, My Tasks, Crossover Sprints, Create Task, Technical Debt - Crossover, Guides - Crossover, WS.Eng TPO: Leadership, Task Catalog. Address bar, navigation buttons, and multiple extension icons visible."
+                },
+                "content": [
+                  {
+                    "title": "Identity Proof",
+                    "layoutDescription": "Structured layout with multiple sections",
+                    "visibleText": "Document Provided for Identity Verification\nDocument Type: Driver License\nDocument Country: PH\nDocument Number: N26-11-023221\nDocument Valid From: \nDocument Valid Until: 02/06/2032\nDocument Expired: \nPersonal Identification Information from the document\nFirst Name: PATRICK NORMAN FERRIOLS\nLast Name: LAGARDE\nNationality: \nNational ID Number: \nDate of Birth: 02/06/1991\nPlace of Birth: \nAddress: \nVerification results communicated by the Identity Verification Service\nVendor Verification Outcome: approved\nVendor Reject Code: \nVendor Reject Reason: \nVendor Session ID: ce09136a-6a2f-4b20-afb2-b191207be5c9\nVendor Session URL: https://magic.verify.me/...[URL continues]\nVendor Session Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9u continues"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-15T11:36:02Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Search, Edge, File Explorer, Workbench (active), and several unidentified applications. System tray includes network status, sound, date/time, and language (ENG).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Workbench: SOQL Query - Google Chrome",
+                "url": "workbench.developerforce.com/query",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Browser tabs, address bar, bookmarks bar"
+                },
+                "content": [
+                  {
+                    "title": "Workbench: SOQL Query",
+                    "layoutDescription": "Web page layout",
+                    "visibleText": "TEXT TOO BLURRY"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-15T11:37:58Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, Word, Excel, PowerPoint, OneNote, Outlook, Teams, File Explorer, and other unidentified applications. System tray includes network, sound, and clock (12:37:59 on 15/06/2024).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Workbench: SOQL Query - Google Chrome",
+                "url": "https://workbench.developerforce.com",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "navigation bar, bookmarks bar, multiple tabs, address bar, webpage content"
+                },
+                "content": [
+                  {
+                    "title": "Query Editor",
+                    "layoutDescription": "Text input area with buttons",
+                    "visibleText": "Enter or modify a SOQL query below:\nSELECT Id FROM Identity_Proof__c WHERE CreatedDate > 2023-06-01T00:00:00.000Z AND CreatedDate < 2023-06-01T00:00:00.000Z LIMIT 10"
+                  },
+                  {
+                    "title": "Query Results",
+                    "layoutDescription": "Table with action dropdown",
+                    "visibleText": "Query Results\nReturned records 1 - 10 of 10 total records in 0.214 seconds:\nId\n1 a112j000000nnyLAAQ\n2 a112j000000nnyQAAQ\n3 a112j000000nnyVAAQ\n4 a112j000000nnyAAAA\n5 a112j000000nnyFAAA\n6 a112j000000nnyKAAA\n7 a112j000000nnyPAAA\n8 a112j000000nnyZAAA\n9 a112j000000nnz4AAA\n10 a112j000000nnz9AAA\nChoose an action: Update Delete Undelete Purge View in Salesforce\nRequested in 0.861 sec\nWorkbench 58.0.0"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in verifying identity proofs using Salesforce. They are viewing detailed information about a specific identity proof, including document type, country, number, validity dates, and personal identification information. The verification results are also displayed, showing the outcome as approved. The user is likely ensuring that all the details are correct and that the verification process is completed successfully.",
+    "The user is performing SOQL queries on the Workbench tool. They are querying the 'Identity_Proof__c' object to retrieve records based on specific criteria. The user is modifying the query to filter results by creation date and is viewing the returned records. This activity indicates that the user is analyzing or validating data related to identity proofs, possibly for reporting or further processing.",
+    "The user continues to work with SOQL queries on the Workbench tool. They are refining their query to limit the results and view specific records. The returned records are displayed in a table format, and the user has options to update, delete, undelete, purge, or view the records in Salesforce. This suggests that the user is managing and maintaining data integrity within the Salesforce environment."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in manual data verification and querying activities within Salesforce and Workbench. No interactions with AI chat interfaces or AI-driven tools are visible in the screenshots.",
+  "activities": [
+    "READING_SPEC"
+  ],
+  "workTypes": [
+    "DB"
+  ],
+  "programmingLanguages": [
+    "SALESFORCE"
+  ],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "READING_SPEC",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 32,
+      "mouse": 5,
+      "date": "2024-06-15T11:30:41Z",
+      "windowTitle": "Verification sessions | Veriff Knowledge Base - Google Chrome",
+      "processName": "help.veriff.com",
+      "visitingUrl": "help.veriff.com/en/collections/1900847-verification-sessions?q=period+of+stor",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-15T11:31:41Z",
+      "windowTitle": "How long are the verifications stored? | Veriff Knowledge Base - Google Chrome",
+      "processName": "help.veriff.com",
+      "visitingUrl": "help.veriff.com/en/articles/4222681-how-long-are-the-verifications-stored",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 2,
+      "mouse": 12,
+      "date": "2024-06-15T11:32:41Z",
+      "windowTitle": "A-00001669 | Identity Proof | Salesforce - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "https://crossover.lightning.force.com/lightning/r/Identity_Proof__c/a112j000000o2hAAAQ/view",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 36,
+      "mouse": 17,
+      "date": "2024-06-15T11:33:41Z",
+      "windowTitle": "Workbench - Google Chrome",
+      "processName": "workbench.developerforce.com",
+      "visitingUrl": "workbench.developerforce.com/retrieve.php?id=a112j000000o2hAAAQ",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 2,
+      "mouse": 4,
+      "date": "2024-06-15T11:34:41Z",
+      "windowTitle": "Workbench: SOQL Query - Google Chrome",
+      "processName": "workbench.developerforce.com",
+      "visitingUrl": "workbench.developerforce.com/query.php?qrjb=eyJRQl9vYmplY3Rfc2VsIjoiSWRlbnRpdHlfUHJvb2ZfX2MiLCJRQl9maWVsZF9zZWwiOlsiSWQiXSwiUUJfb3JkZXJieV9maWVsZCI6IiIsIlFCX29yZGVyYnlfc29ydCI6IkFTQyIsIlFCX251bGxzIjoiRklSU1QiLCJRQl9saW1pdF90eHQiOiIiLCJtYXRyaXhfcm93cyI6IiI",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 37,
+      "mouse": 9,
+      "date": "2024-06-15T11:35:41Z",
+      "windowTitle": "Workbench - Google Chrome",
+      "processName": "workbench.developerforce.com",
+      "visitingUrl": "workbench.developerforce.com/retrieve.php?id=a112j000000o2hAAAQ",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 41,
+      "mouse": 12,
+      "date": "2024-06-15T11:36:41Z",
+      "windowTitle": "Lightning Experience - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/_classic/%2Fa112j000000N2AZAA0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 4,
+      "mouse": 11,
+      "date": "2024-06-15T11:37:41Z",
+      "windowTitle": "Workbench: SOQL Query - Google Chrome",
+      "processName": "workbench.developerforce.com",
+      "visitingUrl": "workbench.developerforce.com/query.php?qrjb=eyJRQl9vYmplY3Rfc2VsIjoiSWRlbnRpdHlfUHJvb2ZfX2MiLCJRQl9maWVsZF9zZWwiOlsiSWQiXSwiUUJfb3JkZXJieV9maWVsZCI6IiIsIlFCX29yZGVyYnlfc29ydCI6IkFTQyIsIlFCX251bGxzIjoiRklSU1QiLCJRQl9saW1pdF90eHQiOiIiLCJtYXRyaXhfcm93cyI6IiI",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 14,
+      "mouse": 11,
+      "date": "2024-06-15T11:38:41Z",
+      "windowTitle": "Veriff Station - Google Chrome",
+      "processName": "station.veriff.com",
+      "visitingUrl": "station.veriff.com/verifications/3e635350-b43a-4b61-893b-4140c9ed1900",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 5,
+      "mouse": 11,
+      "date": "2024-06-15T11:39:41Z",
+      "windowTitle": "Lightning Experience - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/_classic/%2Fa112j000000MaJ9AAK",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-15T11:30:00Z"
+}

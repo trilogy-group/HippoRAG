@@ -1,0 +1,364 @@
+{
+  "candidateId": 2368956,
+  "apps": [
+    "central-supportdesk.zendesk.com",
+    "Google Chat",
+    "Notes",
+    "calendar.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-06T20:10:28Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Outlook, Word, Chrome, and other unidentified applications. Also includes system clock showing '6:10 PM' and system date '6/6/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Ticket: Recent upgrade of Aurea monitor toolâ¦ â Central Support â Zendesk",
+                "url": "https://company.zendesk.com/agent",
+                "position": "right",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Contains multiple tabs, address bar, bookmarks bar, and vertical scroll bar."
+                },
+                "content": [
+                  {
+                    "title": "Email Content",
+                    "layoutDescription": "Text-heavy layout",
+                    "visibleText": "SUBJECT: Recent upgrade of Aurea monitor tool version 2020.10.31 (EN-434) is causing failures\n\nHello Support,\n\nCan you please review and resolve why each of our requests to alter the monitoring of communications from your system end up in failures? The attached document has the details for the Aurea Monitorship Issues Form.\n\nThis appears to be an issue since Aurea recently updated their system software. Most of the issues...\n\nBest Regards,\n\nRahul Sareen\nTech Support Team"
+                  }
+                ]
+              },
+              {
+                "title": "Gmail - shannon.ramsey@company.com",
+                "url": "https://mail.google.com",
+                "position": "left",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Contains sidebar with folders, search bar, and settings icon."
+                },
+                "content": [
+                  {
+                    "title": "Chat with Shannon Ramsey",
+                    "layoutDescription": "Chat interface",
+                    "visibleText": "Shannon Ramsey: Hi there! How's everything with the kids?\n\nYou: It's going really well. The kids are doing great in school and we're all adjusting to the new routine.\n\nShannon Ramsey: That's wonderful to hear! Remember, if you need any help or just want to chat, I'm here.\n\nYou: Thanks, Shannon. I really appreciate that. How about we catch up over coffee next week?\n\nShannon Ramsey: Sounds great! Let's plan for Wednesday morning.\n\nYou: Perfect, see you then!"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-06T20:14:56Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Reminders, Notes, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a system clock showing '6:14 PM' and a Spotlight search icon.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Gmail",
+                "position": "top left",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Contains tabs for Gmail, Google Chat, and Google Meet. Active tab shows Google Chat with a search bar, settings icon, and help icon."
+                },
+                "content": [
+                  {
+                    "title": "Google Chat",
+                    "layoutDescription": "Chat interface with multiple conversations",
+                    "visibleText": "Catalin Daniel -\n\nHi, I hope you're well. I'm reaching out to see if you have any updates on the project. I'm particularly interested in the timeline and any major milestones we should be aware of.\n\nCatalin Daniel, June 5, 2:17 PM\n\nHi, I hope you're well. I'm reaching out to see if you have any updates on the project. I'm particularly interested in the timeline and any major milestones we should be aware of.\n\nCatalin Daniel, June 5, 2:17 PM\n\nHi, I hope you're well. I'm reaching out to see if you have any updates on the project. I'm particularly interested in the timeline and any major milestones we should be aware of."
+                  }
+                ]
+              },
+              {
+                "title": "Google Chrome",
+                "position": "top right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Contains tabs for various websites including a project tracking sheet and a software development site."
+                },
+                "content": [
+                  {
+                    "title": "TMSheet - Project Tracking",
+                    "layoutDescription": "Spreadsheet interface",
+                    "visibleText": "Project Name | Task | Assigned To | Due Date | Status | Priority | Notes\n\nVarious project tasks listed with details such as task name, assigned personnel, due dates, status of the task, and priority levels."
+                  },
+                  {
+                    "title": "Software Development Site",
+                    "layoutDescription": "Webpage with text and links",
+                    "visibleText": "Recent updates of Apache Ant available for version 20230130.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Finder",
+            "windows": []
+          }
+        ]
+      },
+      "applications": [
+        {
+          "appName": "Finder",
+          "windows": []
+        }
+      ]
+    },
+    {
+      "capturedAt": "2024-06-06T20:16:45Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, Outlook, Excel, Word, PowerPoint, OneNote, Teams, File Explorer, and other unidentified applications. System tray includes network, sound, and battery status icons, as well as the date and time display '6:16 PM 6/6/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Gmail - csaba.daniel@company.com - Company Mail",
+                "url": "https://mail.google.com/mail/u/0/#in",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs for Mail, Chat, Spaces, and Meet. Sidebar with folders such as Inbox, Starred, Snoozed, Important, Drafts, Sent, and more."
+                },
+                "content": [
+                  {
+                    "title": "Chat with Csaba Daniel",
+                    "layoutDescription": "Chat window on the left",
+                    "visibleText": "Csaba Daniel - csaba.daniel@company.com\n\nCsaba Daniel\n\nHello, can you help me with Aurea Monitor?\n\nYes, I'll check it. Is it about the recent upgrade to the standard version and the issues arising there?\n\nThey are encountering multiple crashes, a couple of bugs of management and data visualization.\n\nOkay, I'll check and get back to you.\n\nI understand the concerns. I'm on it.\n\nCsaba Daniel\n\nGreat, looking forward to the updates and fixes! Can you also suggest the next steps?\n\nOf course, I'll update you soon with the next steps and solutions once I've figured them out."
+                  },
+                  {
+                    "title": "Recent upgrade of Aurea monitor tool version 10.3.3.0 (EN-434) is causing failures",
+                    "layoutDescription": "Email content",
+                    "visibleText": "Hello Mark,\n\nWe have recently upgraded Aurea Monitor to immediately address some parts currently not supported after the loss of the 3 products. Unfortunately, despite our best efforts, multiple issues have been identified and already there are 5 including some very few with a severity of 4 (high).\n\nWe are currently deploying a patch to address complications in configuration and compatibility.\n\nPlease let me know if you require further assistance and we will be happy to help.\n\nKind regards,\n\nCsaba Daniel\n\nThe Aurea Support Team\n\nNote: Our team will be in touch with you shortly with \"The next best course of action\" to update the status to Closed in the portal.\n\nSent from my Google Chrome"
+                  }
+                ]
+              },
+              {
+                "title": "Ticket: Recent upgrade of Aurea monitor toolâ¦ â Central Support â Zendesk",
+                "url": "https://company.zendesk.com/agent",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "details and communication thread visible."
+                },
+                "content": [
+                  {
+                    "title": "Ticket details",
+                    "layoutDescription": "Detailed ticket view",
+                    "visibleText": "Ticket ID: 12345\nSubject: Recent upgrade of Aurea monitor tool version 10.3.3.0 (EN-434) is causing failures\nStatus: Open\nPriority: High\nAssignee: Csaba Daniel\n\nDescription:\nThe recent upgrade has caused several issues including crashes and bugs in management and data visualization. We are working on deploying a patch to address these issues.\n\nComments:\nMark Smith: Please update me on the progress.\nCsaba Daniel: I am currently working on it and will provide updates soon."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Excel",
+            "windows": [
+              {
+                "title": "T9 Status - Project Tracking",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "with multiple columns and rows."
+                },
+                "content": [
+                  {
+                    "title": "T9 Status - Project Tracking",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "Project Name | Status | Start Date | End Date | Priority | Assigned To | Notes\nAurea Monitor | In Progress | 01/06/2024 | 15/06/2024 | High | John Doe | Addressing recent upgrade issues\n... (and other project details continue)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in a chat conversation on Google Chat with Shannon Ramsey. The conversation is casual, discussing personal matters such as family and plans to catch up over coffee. This indicates a break or a casual interaction during work hours.",
+    "The user is also involved in another chat on Google Chat with Csaba Daniel. The discussion revolves around technical issues related to the Aurea Monitor tool. Csaba is seeking help with recent upgrades that have caused multiple crashes and bugs. The user assures Csaba that they will check the issues and provide updates soon.",
+    "The user is managing emails on Gmail. One email thread involves a discussion about the recent upgrade of the Aurea monitor tool, which is causing failures. The email is from Rahul Sareen, who is requesting support to resolve the issues caused by the upgrade. The user is likely involved in troubleshooting and resolving these issues.",
+    "The user is viewing a project tracking sheet on Google Sheets. The sheet contains various project tasks, assigned personnel, due dates, status of the tasks, and priority levels. This indicates that the user is involved in project management and tracking the progress of different tasks.",
+    "The user is accessing Zendesk to manage support tickets. One of the tickets is about the recent upgrade of the Aurea monitor tool causing failures. The ticket details include the issue description, status, priority, and comments from both the user and the support team. The user is actively involved in resolving this ticket."
+  ],
+  "aiUseSummary": "There is no evidence of AI tool usage in the provided screenshots. The user is primarily engaged in chat conversations, email management, project tracking, and support ticket management without any visible interaction with AI tools.",
+  "activities": [
+    "EMAIL",
+    "CHATTING_WITH_TEAM",
+    "READING_SPEC"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "UI"
+  ],
+  "programmingLanguages": [
+    "OTHER"
+  ],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "CHATTING_WITH_TEAM",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 6,
+      "mouse": 38,
+      "date": "2024-06-06T20:10:05Z",
+      "windowTitle": " Ticket: Recent upgrade of Aurea monitor toolâ¦ â Central Support â Zendesk - Google Chrome\n",
+      "processName": "central-supportdesk.zendesk.com",
+      "visitingUrl": "https://central-supportdesk.zendesk.com/agent/tickets/4075689",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 196,
+      "mouse": 12,
+      "date": "2024-06-06T20:11:05Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 251,
+      "mouse": 1,
+      "date": "2024-06-06T20:12:05Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 89,
+      "mouse": 2,
+      "date": "2024-06-06T20:13:05Z",
+      "windowTitle": " Notes\n",
+      "processName": "Notes",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 6,
+      "date": "2024-06-06T20:14:05Z",
+      "windowTitle": " DevFactory - Calendar - Week of June 3, 2024 - Google Chrome\n",
+      "processName": "calendar.google.com",
+      "visitingUrl": "https://calendar.google.com/calendar/u/0/r/week",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 80,
+      "mouse": 26,
+      "date": "2024-06-06T20:15:05Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 127,
+      "mouse": 15,
+      "date": "2024-06-06T20:16:05Z",
+      "windowTitle": " Find in page\n    Ticket: Recent upgrade of Aurea monitor toolâ¦ â Central Support â Zendesk\n",
+      "processName": "central-supportdesk.zendesk.com",
+      "visitingUrl": "https://central-supportdesk.zendesk.com/agent/tickets/4075689",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 23,
+      "date": "2024-06-06T20:17:05Z",
+      "windowTitle": " Find in page\n    Ticket: Recent upgrade of Aurea monitor toolâ¦ â Central Support â Zendesk\n",
+      "processName": "central-supportdesk.zendesk.com",
+      "visitingUrl": "https://central-supportdesk.zendesk.com/agent/tickets/4075689",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 10,
+      "date": "2024-06-06T20:18:05Z",
+      "windowTitle": " Find in page\n    Ticket: Recent upgrade of Aurea monitor toolâ¦ â Central Support â Zendesk\n",
+      "processName": "central-supportdesk.zendesk.com",
+      "visitingUrl": "https://central-supportdesk.zendesk.com/agent/tickets/4075689",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T20:19:05Z",
+      "windowTitle": " Find in page\n    Ticket: Recent upgrade of Aurea monitor toolâ¦ â Central Support â Zendesk\n",
+      "processName": "central-supportdesk.zendesk.com",
+      "visitingUrl": "https://central-supportdesk.zendesk.com/agent/tickets/4075689",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-06T20:10:00Z"
+}

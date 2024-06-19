@@ -1,0 +1,203 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "Zoom",
+    "docs.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-11T16:47:46Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Minimize, Core, Zoom Meeting, and other unidentified applications. Also shows system status icons including network, sound, and battery level.",
+            "position": "top of the screen"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Zoom Meeting",
+            "windows": [
+              {
+                "title": "Zoom Meeting",
+                "position": "full screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "buttons for Mute, Stop Video, Participants, Chat, Share Screen, Summarize, Notes, More, and Leave. Also shows recording status at the top left corner."
+                },
+                "content": [
+                  {
+                    "title": "Video Conference Participants",
+                    "layoutDescription": "Grid layout",
+                    "visibleText": "Tristan Muniz, Isaac Squires, Mark Nygren, Phil Hewinson, Samy Aboel-Nil"
+                  },
+                  {
+                    "title": "Chat Window",
+                    "layoutDescription": "Right side panel",
+                    "visibleText": "Tristan Muniz's Personal Meeting Room\nToday\nread.ai meeting notes to You (direct message) 10:31\nTristan added read.ai meeting notes to the meeting.\nRead provides AI generated meeting summaries to make meetings more effective and efficient. View our Privacy Policy at https://www.read.ai/pp\nType \"read stop\" to disable, or \"opt out\" to delete meeting data.\nNew messages\nTristan Muniz to Everyone 10:34\nhttps://docs.google.com/spreadsheets/d/1gU"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively participating in a Zoom meeting. The meeting interface shows multiple participants, including Tristan Muniz, Isaac Squires, Mark Nygren, Phil Hewinson, and Samy Aboel-Nil. The user is engaged in the meeting, as indicated by the full-screen Zoom application and the visible chat window on the right side of the screen. The chat window shows a direct message from read.ai, which provides AI-generated meeting summaries. Additionally, the user shared a Google Sheets link with everyone in the meeting, indicating collaboration on a shared document.",
+    "The user is also interacting with Google Sheets during the meeting. The shared link in the chat window points to a specific Google Sheets document, suggesting that the user is either presenting or discussing data from this document with the meeting participants. The Google Sheets document appears to be related to 'TeachTap Ad Metrics,' as inferred from the visible tab in the taskbar. This indicates that the user is involved in data analysis or presentation tasks related to ad metrics."
+  ],
+  "aiUseSummary": "The user utilizes AI tools for generating meeting summaries. Specifically, the read.ai tool is used to provide AI-generated meeting notes, which are shared in the Zoom chat. This tool helps in making meetings more effective and efficient by summarizing key points and actions. The AI tool's impact on productivity is significant as it allows the user to focus on the meeting content while the AI handles note-taking and summarization tasks.",
+  "activities": [
+    "MEETING",
+    "READING_SPEC"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [
+    "SHORTWAVE"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T16:40:47Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T16:41:47Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 17,
+      "mouse": 13,
+      "date": "2024-06-11T16:42:47Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T16:43:47Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 4,
+      "mouse": 11,
+      "date": "2024-06-11T16:44:47Z",
+      "windowTitle": "TeachTap Ad Metrics - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/19uZM6yGbuyzzAhlNcGY6x2ehgPsoVaoEutB70RyGdWA/edit?gid=0#gid=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 13,
+      "date": "2024-06-11T16:45:47Z",
+      "windowTitle": "TeachTap Ad Metrics - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/19uZM6yGbuyzzAhlNcGY6x2ehgPsoVaoEutB70RyGdWA/edit?gid=131961663#gid=131961663",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 1,
+      "mouse": 22,
+      "date": "2024-06-11T16:46:47Z",
+      "windowTitle": "TeachTap Ad Metrics - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/19uZM6yGbuyzzAhlNcGY6x2ehgPsoVaoEutB70RyGdWA/edit?pli=1#gid=131961663",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 7,
+      "date": "2024-06-11T16:47:47Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 3,
+      "mouse": 13,
+      "date": "2024-06-11T16:48:47Z",
+      "windowTitle": "TeachTap Ad Metrics - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/19uZM6yGbuyzzAhlNcGY6x2ehgPsoVaoEutB70RyGdWA/edit?pli=1#gid=131961663",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 8,
+      "date": "2024-06-11T16:49:47Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-11T16:40:00Z"
+}

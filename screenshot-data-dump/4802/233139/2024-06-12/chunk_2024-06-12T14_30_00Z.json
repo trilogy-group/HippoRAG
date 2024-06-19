@@ -1,0 +1,286 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "us-east-1.console.aws.amazon.com",
+    "docs.google.com",
+    "idea64",
+    "crossover.lightning.force.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T14:30:02Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, File Explorer, Adobe Reader, Microsoft Excel, Microsoft Word, Outlook, Slack, Visual Studio Code, Command Prompt, and other unidentified applications. Also includes system icons for network, sound, notifications, and clock displaying '16:31 / 06/12/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Query editor | Athena | us-east-1 - Google Chrome",
+                "url": "https://us-east-1.console.aws.amazon.com",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "multiple tabs, address bar, bookmarks bar, AWS management console navigation bar"
+                },
+                "content": [
+                  {
+                    "title": "SQL Editor",
+                    "layoutDescription": "Text editor with SQL code",
+                    "visibleText": "-- xoh-sourcing-campaign-analysis\n-- xoh-historical-data\n\nSELECT\n CASE\n WHEN summary.\"Completed Skills\" > 0 THEN 'Conversion (Of Completed Skills)',\n ELSE 'Conversion (Of Passed Skills)'\n END AS \"Conversion KPI\",\n CASE\n WHEN summary.\"Completed Realwork\" > 0 THEN 'Conversion (Of Completed Realwork) / summary.\"Completed Skills\"',\n ELSE 'Conversion (Of Passed Realwork)'\n END AS \"Conversion KPI\",\n CASE\n WHEN summary.\"Passed Realwork\" > 0 THEN 'Conversion (Of Applications Approved for Interview / summary.\"Passed Realwork\"',\n ELSE 'Conversion (Of Passed Realwork)'\n END AS \"Conversion KPI\",\n summary.\"Applications Approved for Interview\",\n summary.\"Passed Realwork\",\n summary.\"Offers\",\n summary.\"Completed Interviews\",\n summary.\"Hired\",\n summary.\"Completed Fraud-check\",\n summary.\"Pipeline\"\nFROM\n Sourcing_PipelineId = Pipeline.Id\nLEFT JOIN 11publishing\n ON 11publishing.Sourcing_Platform = 11publishing.Pipeline\nLEFT JOIN 11analysisRnous\n ON 11analysisRnous.Inflation = 11publishing.Sourcing_Platform\nLEFT JOIN 11analysisRnous\n ON 11analysisRnous.RiskyBusiness.Sourcing_Platform = 11publishing.Sourcing_Platform\nORDER BY pipeline.Name, summary.SourcingPlatformAnalysis;"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T14:34:14Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Edge, File Explorer, and other unidentified applications. System tray includes network, sound, and battery status icons, as well as the date and time display '6/12/2024 16:34'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "CPA calculator - Google Sheets - Google Chrome",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help. Toolbar with undo, redo, print, formatting options, and cell editing features. Right sidebar with 'Data connector for Salesforce' widget."
+                },
+                "content": [
+                  {
+                    "title": "CPA Calculator",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "A2:G29\nId, ProductCode, Name, Family, Hourly_Rate_C, Target_CPA_C, Brand__Name\n1 0120000000MEAA2 5260 A1-First Software Engineer engineering 50 0.94 Trilogy\n2 0120000000MWAAU 5125 A1-First Software Engineer II engineering 30 1.21 Trilogy\n3 0120000000YVAAJ 4784 A1-First Full-Stack Developer engineering 50 0.81 Trilogy\n4 0120000000ZCMAE 6375 A1-First Full-Stack Principal Engi engineering 30 0.51 Trilogy\n5 0120000000YVAAU 5269 A1-First Innovation Specialist - Software engineering 50 0.68 InfiniTech\n6 0120000000YVAAE 5270 A1-First Innovation Specialist - Software Engi engineering 30 0.36 InfiniTech\n7 0120000000YVAAJ 5271 A1-First Innovation Developer engineering 30 0.42 Trilogy\n8 0120000000YVAAE 5360 A1-First Innovation Developer engineering 50 0.75 g!school\n9 0120000000ZMA3C 5360 A1-Augmented Back-end Principal Engi engineering 50 0.75 g!school\nColumns H to N with LinkedIn Cost, LinkedIn Apps, Computed Target CPA, Adjusted Target CPA for Indeed, Updated status. Right sidebar shows Salesforce data connector with mapping fields and 'EXECUTE' button."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T14:38:27Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, File Explorer, Microsoft Edge, Visual Studio Code, and system tray with network, sound, and clock (16:38, 2024-06-12)",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "feature/LAMBDA-76029",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Icons for Explorer, Search, Source Control, Run, Extensions. Minimized section at the bottom."
+                },
+                "content": [
+                  {
+                    "title": "Source Control",
+                    "layoutDescription": "Left sidebar",
+                    "visibleText": "Project\n- handlers\n - IlluminatedCloud\n - JUnit\n - linkedInapi\n - manifest\n - mdapi\n - node_modules\n - package\n - salesforce-action-caller\nCommit\nShelf\nChanges\nRemove problematic layout\nCommit and Push..."
+                  },
+                  {
+                    "title": "CustomField - precision",
+                    "layoutDescription": "Main editor area",
+                    "visibleText": "CountStepsNotCompletedExt:\n <fullName>MiningRank__c.field</fullName>\n <label>MiningRank__c</label>\n <type>Number</type>\n <formula>IF(ISPICKVAL( SourcingPlatform__c , 'LinkedIn'),\n AND(MiningRank__c + Job_Board_Cell_Analytics__c\n WHERE SourcingPlatform__c = 'LinkedIn' BY LastModifiedD..."
+                  },
+                  {
+                    "title": "SOQL Query 16",
+                    "layoutDescription": "Bottom panel",
+                    "visibleText": "SELECT Id, MiningRank__c FROM Job_Board_Cell_Analytics__c WHERE SourcingPlatform__c = 'LinkedIn' ORDER BY LastModifiedD..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in querying and analyzing data using AWS Athena. The SQL editor is open with a query that involves multiple CASE statements to calculate conversion metrics based on completed skills, real work, and applications approved for interviews. The user is likely working on a data analysis task related to sourcing and pipeline metrics, as indicated by the detailed SQL query and the various tables and views listed in the AWS Athena console.",
+    "The user is also working on a Google Sheets document titled 'CPA calculator'. The spreadsheet contains columns for Id, ProductCode, Name, Family, Hourly Rate, Target CPA, Brand Name, LinkedIn Cost, LinkedIn Apps, Computed Target CPA, and Adjusted Target CPA for Indeed. The user is updating rows and mapping columns to object fields using the 'Data connector for Salesforce' widget. This indicates that the user is performing data entry or data analysis tasks related to cost per acquisition (CPA) metrics for different engineering roles across various brands.",
+    "The user is using IntelliJ IDEA (indicated by 'idea64') to work on a feature branch named 'LAMBDA-76029'. The user is modifying a custom field in a Salesforce project, as seen in the main editor area. The user is also running SOQL queries to fetch data from the 'Job_Board_Cell_Analytics__c' table, filtering by the 'SourcingPlatform__c' field. This suggests that the user is working on backend development tasks related to Salesforce, possibly involving data integration or analytics features."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in data analysis, spreadsheet management, and backend development tasks without any visible interaction with AI tools or assistants.",
+  "activities": [
+    "WRITING_CODE",
+    "READING_SPEC"
+  ],
+  "workTypes": [
+    "DB",
+    "BACKEND"
+  ],
+  "programmingLanguages": [
+    "SQL",
+    "SALESFORCE"
+  ],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "IDE"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 6,
+      "mouse": 14,
+      "date": "2024-06-12T14:30:02Z",
+      "windowTitle": "Query editor | Athena | us-east-1 - Google Chrome",
+      "processName": "us-east-1.console.aws.amazon.com",
+      "visitingUrl": "us-east-1.console.aws.amazon.com/athena/home?region=us-east-1#/query-editor/history/b05efd12-15b3-4666-870e-0346a3b7caff",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 6,
+      "date": "2024-06-12T14:31:02Z",
+      "windowTitle": "CPA calculator - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1ewHudB-e3-oP8JtMNKrdP8WdduhlqF1oy29lErfSs5Q/edit?pli=1#gid=874383807",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 14,
+      "mouse": 18,
+      "date": "2024-06-12T14:32:02Z",
+      "windowTitle": "CPA calculator - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1ewHudB-e3-oP8JtMNKrdP8WdduhlqF1oy29lErfSs5Q/edit?pli=1#gid=1967631982",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 4,
+      "mouse": 4,
+      "date": "2024-06-12T14:33:02Z",
+      "windowTitle": "CPA calculator - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1ewHudB-e3-oP8JtMNKrdP8WdduhlqF1oy29lErfSs5Q/edit?pli=1#gid=1967631982",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 5,
+      "mouse": 18,
+      "date": "2024-06-12T14:34:02Z",
+      "windowTitle": "CPA calculator - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1ewHudB-e3-oP8JtMNKrdP8WdduhlqF1oy29lErfSs5Q/edit?pli=1#gid=1967631982",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 8,
+      "mouse": 17,
+      "date": "2024-06-12T14:35:02Z",
+      "windowTitle": "sfdx ? MiningRank__c.field",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 106,
+      "mouse": 11,
+      "date": "2024-06-12T14:36:02Z",
+      "windowTitle": "sfdx ? MiningRank__c.field",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 56,
+      "mouse": 39,
+      "date": "2024-06-12T14:37:02Z",
+      "windowTitle": "Muhammad Asif - AI-First Software Engineer | Application | Salesforce - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/r/Opportunity/006Ij000002wAq4IAE/view",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 56,
+      "mouse": 21,
+      "date": "2024-06-12T14:38:02Z",
+      "windowTitle": "sfdx ? MiningRank__c.field",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 87,
+      "mouse": 48,
+      "date": "2024-06-12T14:39:02Z",
+      "windowTitle": "sfdx ? MiningRank__c.field",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-12T14:30:00Z"
+}

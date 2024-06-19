@@ -1,0 +1,284 @@
+{
+  "candidateId": 1444536,
+  "apps": [
+    "ws-lambda.atlassian.net",
+    "mail.google.com",
+    "crossover.lightning.force.com",
+    "chrome"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T16:02:29Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Widgets, Microsoft Edge, File Explorer, Microsoft Store, and pinned applications. System tray includes network, sound, notifications, and clock displaying '17:02:31' on '14/06/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "[LAMBDA-76060] GenAI Prompt Engineering Assessment Stuck - WorkSmart Lambda - Google Chrome",
+                "url": "ws-lambda.atlassian.net/browse/LAMBDA-76060",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs for SF Prod, SF Sandbox, ADFS, My Tasks, Crossover Sprints, Create Task, Technical Debt - Crossover, Guides - Crossover, WS.Eng TPO: Leadership, Task Catalog. Address bar, navigation buttons, and multiple extension icons visible."
+                },
+                "content": [
+                  {
+                    "title": "WS Lambda",
+                    "layoutDescription": "Left sidebar navigation",
+                    "visibleText": "WS Lambda Service project Queues Raise a request Scheduled Issues ScriptRunner Enhanced... Knowledge Knowledge base Reports Directory Channels Invite agents You're in a company-managed project"
+                  },
+                  {
+                    "title": "Add internal note",
+                    "layoutDescription": "Text editor interface",
+                    "visibleText": "Reply to customer @Isabelle A. It looks like a valid claim. The candidate sent the first prompt 3 minutes from the assessment start, 17 minutes later the same prompt, and then they were sending prompts Save Cancel"
+                  },
+                  {
+                    "title": "Isabelle A. - Message",
+                    "layoutDescription": "Message thread",
+                    "visibleText": "Isabelle A. June 12, 2024 at 3:27 PM Hi @Ahmet Metin Birgili, We don’t have the result yet. Hi @Dmitrii Shutenkov, Are we able to determine if the candidate's claim is valid? Thanks, Edit · Delete"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T16:03:43Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, File Explorer, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Visual Studio Code, and other unidentified applications. Also includes system tray with clock showing '17:03:45', date '14/06/2024', language 'ENG', and a notification area.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "CloudWatch | us-east-1 - Google Chrome",
+                "url": "https://us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "navigation bar with back, forward, refresh, and home buttons, address bar, bookmarks bar with several bookmarks, tabs bar with multiple tabs open, and options menu."
+                },
+                "content": [
+                  {
+                    "title": "CloudWatch",
+                    "layoutDescription": "standard layout",
+                    "visibleText": "Favorites and recents\nDashboards\nAlarms 7 🔔 31 ⚠️ 36\nBilling\nLogs\nLog groups\nLog Anomalies\nLive Tail\nLogs Insights\nContributor Insights\nMetrics\nX-Ray traces\nEvents\nApplication Signals New\nNetwork monitoring\nCloudShell\nFeedback\n\n# timestamp name level message context_q... logStream\n5 2024-06-12T10:58:53.668Z xo-hiring-interview-bot-production-gla... info User attempt prompt evaluation (1344 characters length, attempt 5/20) 40000000... 2024/06/12/SLAT\n6 2024-06-12T10:58:53.182Z xo-hiring-interview-bot-production-gla... info User attempt prompt evaluation (1344 characters length, attempt 6/20) 40000000... 2024/06/12/SLAT\n7 2024-06-12T10:59:19.822Z xo-hiring-interview-bot-production-gla... info User attempt prompt evaluation (1273 characters length, attempt 7/20) 40000000... 2024/06/12/SLAT\n8 2024-06-12T10:59:19.822Z xo-hiring-interview-bot-production-gla... info User attempt prompt evaluation (1332 characters length, attempt 8/20) 40000000... 2024/06/12/SLAT\n9 2024-06-12T10:59:54.851Z xo-hiring-interview-bot-production-gla... info User attempt prompt evaluation (1273 characters length, attempt 9/20) 40000000... 2024/06/12/SLAT\n10 2024-06-12T10:59:54.837Z xo-hiring-interview-bot-production-gla... info User attempt prompt evaluation (1281 characters length, attempt 10/20) 40000000... 2024/06/12/SLAT\n11 2024-06-12T11:02:56.818Z xo-hiring-interview-bot-production-gla... info User attempt prompt evaluation (334 characters length, attempt 11/20) 935ae959-57... 2024/06/12/SLAT\n12 2024-06-12T11:03:58.592Z xo-hiring-interview-bot-production-gla... info User attempt prompt evaluation (333 characters length, attempt 12/20) 935ae959-57... 2024/06/12/SLAT\n13 2024-06-12T11:04:04.360Z xo-hiring-interview-bot-production-gla... info User attempt prompt evaluation (415 characters length, attempt 13/20) 935ae959-57... 2024/06/12/SLAT\n14 2024-06-12T11:05:06.337Z xo-hiring-interview-bot-production-gla... info User attempt prompt evaluation (413 characters length, attempt 14/20) 935ae959-57... 2024/06/12/SLAT\n15 2024-06-12T11:06:03.932Z xo-hiring-interview-bot-production-gla... info User attempt prompt evaluation (518 characters length, attempt 15/20) 935ae959-57... 2024/06/12/SLAT\n16 2024-06-12T11:07:11.547Z xo-hiring-interview-bot-production-gla... info User attempt prompt evaluation (522 characters length, attempt 16/20) 935ae959-57... 2024/06/12/SLAT\n17 2024-06-12T11:08:23.702Z xo-hiring-interview-bot-production-gla... info User attempt prompt evaluation (522 characters length, attempt 17/20) 935ae959-57... 2024/06/12/SLAT\n18 2024-06-12T11:09:14.782Z xo-hiring-interview-bot-production-gla... info User attempt prompt evaluation (539 characters length, attempt 18/20) 935ae959-57... 2024/06/12/SLAT\n19 2024-06-12T11:09:44.986Z xo-hiring-interview-bot-production-gla... info User attempt prompt evaluation (457 characters length, attempt 19/20) 935ae959-57... 2024/06/12/SLAT\n20 2024-06-12T11:10:40.192Z xo-hiring-interview-bot-production-gla... info User attempt prompt evaluation (561 characters length, attempt 20/20) 935ae959-57... 2024/06/12/SLAT\n21 2024-06-12T11:11:03.072Z xo-hiring-interview-bot-production-gla... info User attempt prompt evaluation (576 characters length, attempt 21/20) 935ae959-57... 2024/06/12/SLAT\n22 2024-06-12T11:11:27.452Z xo-hiring-interview-bot-production-gla... info User attempt prompt evaluation (662 characters length, attempt 22/20) 935ae959-57... 2024/06/12/SLAT\n23 2024-06-12T11:13:15.152Z xo-hiring-interview-bot-production-gla... info User attempt prompt evaluation (1281 characters length, attempt 23/20) 935ae959-57... 2024/06/12/SLAT\n24 2024-06-12T11:13:21.892Z xo-hiring-interview-bot-production-gla... info User attempt prompt evaluation (662 characters length, attempt 24/20) 935ae959-57... 2024/06/12/SLAT\n25 2024-06-12T11:13:45.852Z xo-hiring-interview-bot-production-gla... info User attempt prompt evaluation (561 characters length, attempt 25/20) 935ae959-57... 2024/06/12/SLAT"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T16:09:13Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Search, Edge, File Explorer, Windows Terminal, Visual Studio Code, and several other unidentified applications. Also includes system status icons for network, sound, and clock displaying '17:09:15' on '14/06/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Complex Problem-Solving in Code | Application Step | Salesforce",
+                "url": "https://crossover.lightning.force.com",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "toolbar with back, forward, refresh, home buttons, URL bar, bookmarks bar with multiple bookmarks, and extension icons including Salesforce, an ad blocker, and others."
+                },
+                "content": [
+                  {
+                    "title": "Complex Problem-Solving in Code",
+                    "layoutDescription": "Web page layout with tabs and sections",
+                    "visibleText": "Application Step\nComplex Problem-Solving in Code\nRelated\nDetails\n[Multiple greyed-out lines representing text fields or data entries, not readable]"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in reviewing and responding to a support ticket on the WS Lambda service project. The ticket, identified as LAMBDA-76060, involves a GenAI Prompt Engineering Assessment that appears to be stuck. The user is adding an internal note to the ticket, addressing Isabelle A., and confirming the validity of the candidate's claim regarding the assessment prompts. The user is also reviewing previous messages in the thread, including one from Isabelle A. asking Dmitrii Shutenkov if the candidate's claim is valid.",
+    "The user is monitoring logs in AWS CloudWatch. The logs pertain to the 'xo-hiring-interview-bot-production' and include multiple entries of user attempts at prompt evaluation. Each log entry details the timestamp, name, level, and message, indicating the length and attempt number of each prompt evaluation. The user is likely analyzing these logs to understand the performance and issues related to the interview bot's prompt evaluations.",
+    "The user is viewing an application step in Salesforce related to 'Complex Problem-Solving in Code'. The page includes sections for 'Related' and 'Details', although the specific details are not readable in the screenshot. The user is likely reviewing the application step results or grading the candidate's performance in this step. The presence of multiple bookmarks and extensions in the browser indicates the user is well-organized and possibly multitasking."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in reviewing support tickets, monitoring logs, and reviewing application steps in Salesforce. There are no visible interactions with AI chat interfaces or AI-driven tools in the screenshots provided.",
+  "activities": [
+    "REVIEWING_CODE",
+    "READING_SPEC",
+    "EMAIL"
+  ],
+  "workTypes": [
+    "BACKEND"
+  ],
+  "programmingLanguages": [
+    "SALESFORCE"
+  ],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "REVIEWING_CODE",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 4,
+      "date": "2024-06-14T16:00:24Z",
+      "windowTitle": "[LAMBDA-76060] GenAI Promp Engineering Assessment Stuck - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-76060",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 118,
+      "mouse": 3,
+      "date": "2024-06-14T16:01:24Z",
+      "windowTitle": "[LAMBDA-76060] GenAI Promp Engineering Assessment Stuck - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-76060",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 105,
+      "mouse": 5,
+      "date": "2024-06-14T16:02:24Z",
+      "windowTitle": "[LAMBDA-76060] GenAI Promp Engineering Assessment Stuck - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-76060",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 44,
+      "mouse": 4,
+      "date": "2024-06-14T16:03:24Z",
+      "windowTitle": "[LAMBDA-76060] GenAI Promp Engineering Assessment Stuck - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-76060",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 55,
+      "mouse": 4,
+      "date": "2024-06-14T16:04:24Z",
+      "windowTitle": "[LAMBDA-76060] GenAI Promp Engineering Assessment Stuck - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-76060",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 41,
+      "mouse": 11,
+      "date": "2024-06-14T16:05:24Z",
+      "windowTitle": "[JIRA] Isabelle A. mentioned you on LAMBDA-72746 - dmitrii.shutenkov@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#search/from%3Aisabelle/FMfcgzGxSHfbwxDtcbkTZlrNGsNHvmhV",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 7,
+      "date": "2024-06-14T16:06:24Z",
+      "windowTitle": "Lightning Experience - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/r/Application_Step_Result__c/a0BIj0000013lKeMAI/related/Histories/view",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-14T16:07:24Z",
+      "windowTitle": "Complex Problem-Solving in Code | Application Step Result | Salesforce - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/r/Application_Step_Result__c/a0BIj0000013lKeMAI/view",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-14T16:08:24Z",
+      "windowTitle": "History: Application Step Result | Salesforce - Google Chrome",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 7,
+      "date": "2024-06-14T16:09:24Z",
+      "windowTitle": "Complex Problem-Solving in Code | Application Step | Salesforce - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/r/ApplicationStep__c/a082j000000PguDAAS/view",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-14T16:00:00Z"
+}

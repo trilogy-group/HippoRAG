@@ -1,0 +1,406 @@
+{
+  "candidateId": 2368956,
+  "apps": [
+    "Google Chat",
+    "docs.google.com",
+    "Poe"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-06T20:30:11Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Google Chrome, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Outlook, OneNote, Teams, and other unidentified applications",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Chat",
+                "position": "left side of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "sidebar, search bar, chat window with user 'Nouman Shah'"
+                },
+                "content": [
+                  {
+                    "title": "Chat with Nouman Shah",
+                    "layoutDescription": "Chat layout",
+                    "visibleText": "Nouman Shah\n\nLooks like the project is postponed again? I read it was on the documentation, possibly postponed as much as 5-6 months. That would push it back to the Q1-Q2 cutover ideally\n\n(April 1)\n\nhttps://www.jigsaw.com/secure/doc/DOCUMENTI it advisable to use PostBeyond and..."
+                  }
+                ]
+              },
+              {
+                "title": "Prod2 Mini Spec - Jigsaw:PostBeyond - GA AI beta feature for content creation - Google Docs",
+                "position": "center of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Docs editing tools, sharing settings, document content"
+                },
+                "content": [
+                  {
+                    "title": "Prod2 Mini Spec - Jigsaw:PostBeyond - GA AI beta feature for content...",
+                    "layoutDescription": "Document layout",
+                    "visibleText": "[Document content not visible due to zoom level or focus on other window]"
+                  }
+                ]
+              },
+              {
+                "title": "GA Adoption for PostBeyond and Adoption Rate",
+                "position": "right side of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "tools, cell selection, row and column headers"
+                },
+                "content": [
+                  {
+                    "title": "GA Adoption for PostBeyond and Adoption Rate",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "[Spreadsheet content not visible due to zoom level or focus on other window]"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-06T20:34:45Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Contacts, Calendar, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a docked application bar with visible icons for Google Chrome, Microsoft Word, and Eclipse.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Untitled spreadsheet - Google Sheets",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Toolbar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help. Toolbar with undo, redo, print, format painter, zoom, functions, and chart editor icons."
+                },
+                "content": [
+                  {
+                    "title": "Untitled spreadsheet",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "A blank spreadsheet with grid lines visible, no data entered."
+                  }
+                ]
+              },
+              {
+                "title": "TMS Docs - Project Booking",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Toolbar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help. Toolbar with undo, redo, print, format painter, zoom, functions, and chart editor icons."
+                },
+                "content": [
+                  {
+                    "title": "TMS Docs - Project Booking",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "Columns labeled from A to Z with multiple rows filled with data. Column titles include 'Project Code', 'Project Name', 'Resource', 'Role', 'Start Date', 'End Date', 'Days', 'Rate', 'Total'. Data under these columns include various project codes, names, resources, roles, dates, and financial figures."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Word",
+            "windows": [
+              {
+                "title": "Project Mile Spec",
+                "url": "file:///Users/username/Documents/ProjectMileSpec.docx",
+                "position": "center of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Toolbar with File, Home, Insert, Design, Layout, References, Mailings, Review, View, Help. Text formatting tools like font size, style, bold, italic, underline, text color, and highlight color."
+                },
+                "content": [
+                  {
+                    "title": "Project Mile Spec",
+                    "layoutDescription": "Document layout",
+                    "visibleText": "Document titled 'Project Mile Spec' with sections titled 'Summary', 'Scope', 'Notes', 'Approach & Methods'. Contains text describing project goals, scope details, notes on project execution, and methodologies used."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Eclipse",
+            "windows": [
+              {
+                "title": "Prod - Eclipse",
+                "url": "file:///Users/username/workspace/Prod.java",
+                "position": "right of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Toolbar with File, Edit, Source, Refactor, Navigate, Search, Project, Run, Window, Help. Code editing tools like save, undo, redo, cut, copy, paste, find, replace."
+                },
+                "content": [
+                  {
+                    "title": "Prod - Eclipse",
+                    "layoutDescription": "Code editor layout",
+                    "visibleText": "Java code visible with package declaration, imports, and a class definition. Code includes annotations, method definitions, and comments explaining the functionality of the code."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Finder",
+            "windows": []
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-06T20:38:41Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Excel, Microsoft Word, Slack, and other unidentified applications. Also includes system clock showing '6:38 PM' and system date '6/6/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Project Improvements & Details",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Toolbar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help"
+                },
+                "content": [
+                  {
+                    "title": "Sheet1",
+                    "layoutDescription": "Standard spreadsheet layout",
+                    "visibleText": "A1: Project\nB1: Description\nC1: Category\nD1: Start Date\nE1: End Date\nF1: Status\nG1: Comments\nA2: Project Alpha\nB2: Initial phase of an extensive network upgrade project\nC2: Network Upgrade\nD2: 2024-01-01\nE2: 2024-12-31\nF2: In Progress\nG2: Kick-off meeting scheduled for January 5th, 2024"
+                  }
+                ]
+              },
+              {
+                "title": "TMS Data - Project Tracking",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Toolbar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help"
+                },
+                "content": [
+                  {
+                    "title": "Sheet1",
+                    "layoutDescription": "Standard spreadsheet layout",
+                    "visibleText": "A1: Project Code\nB1: Project Name\nC1: Project Manager\nD1: Budget\nE1: Start Date\nF1: End Date\nG1: Status\nH1: Department\nI1: Location\nJ1: Notes\nA2: PC001\nB2: Automation System Upgrade\nC2: John Doe\nD2: $500,000\nE2: 2024-01-01\nF2: 2024-12-31\nG2: In Progress\nH2: IT\nI2: Headquarters\nJ2: Initial budget approved, awaiting final approval"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Slack",
+            "windows": [
+              {
+                "title": "Direct Messages",
+                "position": "left of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Toolbar with File, Edit, View, Window, Help"
+                },
+                "content": [
+                  {
+                    "title": "Direct Messages",
+                    "layoutDescription": "Chat interface",
+                    "visibleText": "Neil Patel\n- Expertise: SEO, content marketing\n- Notable Info: Co-Founder Crazy Egg and Hello Bar, and for his comprehensive guides on better SEO and marketing\n\nMark Smith\n- Expertise: Facebook marketing, Twitter\n- Notable Info: Has a leading Facebook marketing expert and he engages, informative tutorials on Facebook\n\nGuy Kawasaki\n- Expertise: Social media marketing, entrepreneurship\n- Notable Info: Social media expert with an emphasis on books on social media, including 'The Art of Social Media'\n\nKim Garst\n- Expertise: Live video, social selling\n- Notable Info: Trailblazer in live video broadcasting and social media strategy for business\n\nJay Baer\n- Expertise: Customer service, digital innovation\n- Notable Info: Best in the business at"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Excel",
+            "windows": []
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in a chat conversation on Google Chat with a person named Nouman Shah. The conversation revolves around the postponement of a project, with Nouman mentioning that the project might be delayed by 5-6 months, pushing it to Q1-Q2. The user responds by acknowledging the information and mentions that they will review the documentation properly. The chat window is positioned on the left side of the screen.",
+    "The user is also working on a Google Sheets document titled 'TMS Docs - Project Booking'. This spreadsheet contains various columns such as 'Project Code', 'Project Name', 'Resource', 'Role', 'Start Date', 'End Date', 'Days', 'Rate', and 'Total'. The user is likely reviewing or updating project-related data. This document is positioned on the right side of the screen.",
+    "In another instance, the user is viewing a Google Docs document titled 'Prod2 Mini Spec - Jigsaw:PostBeyond - GA AI beta feature for content creation'. The document appears to be a specification for a product feature related to AI content creation. The user is likely reviewing the document, as indicated by the visible text and document layout. This document is positioned in the center of the screen.",
+    "The user is also working on another Google Sheets document titled 'Prompt Improvements & Details'. This spreadsheet contains columns such as 'Project', 'Description', 'Category', 'Start Date', 'End Date', 'Status', and 'Comments'. The user is likely updating or reviewing project details, as indicated by the visible text in the spreadsheet. This document is positioned on the left half of the screen.",
+    "Additionally, the user is using the Poe application, which is visible in the bottom half of the screen. The user is likely researching or gathering information from social media experts, as indicated by the visible text in the Poe application. The text includes details about various experts such as Neil Patel, Mari Smith, Guy Kawasaki, Kim Garst, and Jay Baer, along with their expertise and notable information."
+  ],
+  "aiUseSummary": "The user is utilizing the Poe application, which is an AI tool, to gather information about social media experts. The visible text in the Poe application includes details about various experts such as Neil Patel, Mari Smith, Guy Kawasaki, Kim Garst, and Jay Baer. The user is likely using this information for research or to enhance their understanding of social media marketing strategies. The AI tool provides comprehensive details about each expert, including their expertise and notable achievements, which helps the user in their research.",
+  "activities": [
+    "CHATTING_WITH_TEAM",
+    "READING_SPEC",
+    "WRITING_SPEC",
+    "RESEARCH"
+  ],
+  "workTypes": [
+    "UI"
+  ],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [
+    "ANTHROPIC_CLAUDE"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "WRITING_SPEC",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 54,
+      "mouse": 23,
+      "date": "2024-06-06T20:30:05Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 71,
+      "mouse": 32,
+      "date": "2024-06-06T20:31:05Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 70,
+      "mouse": 25,
+      "date": "2024-06-06T20:32:05Z",
+      "windowTitle": " Untitled spreadsheet - Google Sheets - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/spreadsheets/d/1WuvnpN2mOTjguQMK5JPOmyddk2kjRN0krUJaruUk7ng/edit#gid=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T20:33:05Z",
+      "windowTitle": " Untitled spreadsheet - Google Sheets - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/spreadsheets/d/1WuvnpN2mOTjguQMK5JPOmyddk2kjRN0krUJaruUk7ng/edit#gid=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T20:34:05Z",
+      "windowTitle": " Untitled spreadsheet - Google Sheets - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/spreadsheets/d/1WuvnpN2mOTjguQMK5JPOmyddk2kjRN0krUJaruUk7ng/edit#gid=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 32,
+      "mouse": 3,
+      "date": "2024-06-06T20:35:05Z",
+      "windowTitle": " Prompt Improvements & Tests - Google Sheets - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/spreadsheets/d/1WuvnpN2mOTjguQMK5JPOmyddk2kjRN0krUJaruUk7ng/edit#gid=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 35,
+      "mouse": 38,
+      "date": "2024-06-06T20:36:05Z",
+      "windowTitle": " Prompt Improvements & Tests - Google Sheets - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/spreadsheets/d/1WuvnpN2mOTjguQMK5JPOmyddk2kjRN0krUJaruUk7ng/edit#gid=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 64,
+      "mouse": 24,
+      "date": "2024-06-06T20:37:05Z",
+      "windowTitle": " Prompt Improvements & Tests - Google Sheets - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/spreadsheets/d/1WuvnpN2mOTjguQMK5JPOmyddk2kjRN0krUJaruUk7ng/edit#gid=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 130,
+      "mouse": 4,
+      "date": "2024-06-06T20:38:05Z",
+      "processName": "Poe",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 90,
+      "mouse": 14,
+      "date": "2024-06-06T20:39:05Z",
+      "processName": "Poe",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-06T20:30:00Z"
+}

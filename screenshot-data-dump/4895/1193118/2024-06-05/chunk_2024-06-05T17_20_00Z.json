@@ -1,0 +1,387 @@
+{
+  "candidateId": 2368956,
+  "apps": [
+    "chrome:",
+    "docs.google.com",
+    "Google Chat",
+    "meet.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T17:21:32Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Siri, Google Chrome, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Outlook, OneNote, Calendar, Reminders, Notes, Maps, Messages, FaceTime, Photo Booth, iTunes, iBooks, App Store, System Preferences, Terminal, Trash",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Chat",
+                "position": "left side, large window",
+                "isActive": true,
+                "uiElements": {
+                  "details": "sidebar, search bar, chat window"
+                },
+                "content": [
+                  {
+                    "title": "Chat",
+                    "layoutDescription": "chat interface",
+                    "visibleText": "Chat\n\nFavorites\n\nRecent Messages\n\nBen\n\nJessica\n\nSamuel\n\nDerek\n\nChats\n\nDr. Nicole Moser\n\nSearch in chat\n\nDr. Nicole Moser\n\n(8:00 AM) Good morning!\n\n(8:01 AM) I've reviewed your case. From what I've gathered, it seems like we might need to adjust your treatment plan slightly.\n\n(8:02 AM) I'll explain more when I meet you next week. Are you available on Monday?\n\n(8:03 AM) Also, I noticed that I requested that you notify me if...\n\nNichole Moser LMT\n\n(8:04 AM) Are you free to talk now?\n\n(8:05 AM) Can you help me with a list of documents to bring?\n\n(8:06 AM) I suggest that the items on the list are mandatory, any medications, and recent test results.\n\n(8:07 AM) I have some prescriptions and something else...\n\n(8:08 AM) Thank you."
+                  }
+                ]
+              },
+              {
+                "title": "Calendar - Google Chrome",
+                "position": "right side, large window",
+                "isActive": false,
+                "uiElements": {
+                  "details": "calendar interface"
+                },
+                "content": [
+                  {
+                    "title": "Calendar",
+                    "layoutDescription": "calendar layout",
+                    "visibleText": "Calendar\ncalendar.google.com\nJanuary 2024\n\nS M T W T F S\n\n1 2 3 4 5 6 7 8 9\n\n10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30\n\nToday\n\nEvents\n\n9:00 AM - 10:00 AM\n\nMeeting with Dr. Smith\n\n10:30 AM - 11:30 AM\n\nTeam Meeting\n\n12:00 PM - 1:00 PM\n\nLunch with Sarah\n\n2:00 PM - 3:00 PM\n\nProject Review\n\n3:30 PM - 4:30 PM\n\nClient Call\n\n5:00 PM - 6:00 PM\n\nWorkshop: New Tech\n\n6:30 PM - 7:30 PM\n\nDinner with Team\n\n8:00 PM - 9:00 PM\n\nEvening Jog"
+                  }
+                ]
+              },
+              {
+                "title": "New Tab - Google Chrome",
+                "position": "bottom, large window",
+                "isActive": false,
+                "uiElements": {
+                  "details": "search bar, top sites"
+                },
+                "content": [
+                  {
+                    "title": "New Tab",
+                    "layoutDescription": "search interface",
+                    "visibleText": "Google\n\nSearch Google or type a URL\n\nGmail\n\nDrive\n\nYouTube\n\nMaps\n\nNews\n\nAccess your Google Drive\n\nTech Talk - Shared Document\n\nCustomerEngagement - CustomerNotes\n\nDesign Ideas 2024 - MindMap\n\nMeeting Notes 2024 - MindMap"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T17:24:23Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Siri, Google Chrome, Microsoft Outlook, Calendar, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Docked at the bottom of the screen.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Chat",
+                "position": "left side of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Chat sidebar, search bar, chat window, message input area"
+                },
+                "content": [
+                  {
+                    "title": "Chat",
+                    "layoutDescription": "Chat interface with sidebar",
+                    "visibleText": "Chat\n\nFavorites\n\nSpace for messages\n\nBrandon\n\nMarcus\n\nSamantha\n\nGeorge Thompson\n\nDirect message\n\nWendy Harold\n\nMichael Brown\n\nOlivia Stone\n\nRecent\n\nSelena\n\nThe Engineering Team\n\nProject Alpha Team\n\nThe Creative Hub\n\nRecent chats off"
+                  }
+                ]
+              },
+              {
+                "title": "Google Calendar",
+                "position": "right side of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Month view, event details"
+                },
+                "content": [
+                  {
+                    "title": "Calendar",
+                    "layoutDescription": "Month layout",
+                    "visibleText": "June 2024\n\nS\nM\nT\nW\nT\nF\nS\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n\n9:00 AM - Team Meeting\n\n12:00 PM - Lunch with Sarah\n\n3:00 PM - Project Review"
+                  }
+                ]
+              },
+              {
+                "title": "Google",
+                "position": "bottom of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Search bar, frequently visited sites"
+                },
+                "content": [
+                  {
+                    "title": "Google",
+                    "layoutDescription": "Search page",
+                    "visibleText": "Google\n\nSearch Google or type a URL\n\nGmail\n\nDrive\n\nYouTube\n\nMaps\n\nNews\n\nAccess your Google Drive\n\nTech Talk - Google Docs\n\nCustomer Engagement - Customer Service\n\nProject Review 2024 - Sheets\n\nMedium posts\n\nSee all Medium posts"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T17:29:16Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Contacts, Calendar, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "ChallengeEngagement - CustomerInterview - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "editing toolbar visible with options for editing text, adding comments, and viewing document history"
+                },
+                "content": [
+                  {
+                    "title": "Legacy CSM Interview",
+                    "layoutDescription": "Two-column text layout",
+                    "visibleText": "Legacy CSM Interview\n\nLearning Objectives:\n- What are the customer's current learning program challenges?\n- How does the customer currently manage and measure success?\n- What are the customer's expectations from engaging with us on the Challenge Doctor framework?\n\nBackground:\n- How many people does your team consist of? What are their roles?\n- What challenges have you faced that led you to consider the Challenge Doctor framework?\n- What are your expectations from this engagement?\n\nInterview Questions:\n- Can you provide us with some background about your team and their responsibilities?\n- How does your team currently manage and measure success?\n- What are the challenges you've faced that led you to consider the Challenge Doctor framework?\n- What are your expectations from this engagement?\n\nGeneral Questions:\n- Can you share any details about your team's budget for learning programs?\n- What are the challenges you've faced that led you to consider the Challenge Doctor framework?\n- What are your expectations from this engagement?\n\nCustomer Insights:\n- Can you share any details about your team's budget for learning programs?\n- What are the challenges you've faced that led you to consider the Challenge Doctor framework?\n- What are your expectations from this engagement?"
+                  }
+                ]
+              },
+              {
+                "title": "Google",
+                "url": "https://www.google.com",
+                "position": "center",
+                "isActive": false,
+                "uiElements": {
+                  "details": "search bar and frequently visited sites visible"
+                },
+                "content": [
+                  {
+                    "title": "Google Search",
+                    "layoutDescription": "Search bar centered",
+                    "visibleText": "Search Google or type a URL"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Messages",
+            "windows": [
+              {
+                "title": "Chat with John Doe",
+                "position": "right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "interface visible with conversation threads"
+                },
+                "content": [
+                  {
+                    "title": "Chat with John Doe",
+                    "layoutDescription": "Chat layout",
+                    "visibleText": "John Doe: I need help with a few things here (not related to the project but rather work related)\n\nUser: understood\n\nJohn Doe: I am back home so I have access to my files\n\nUser: great\n\nJohn Doe: I need help with a few things here (not related to the project but rather work related)\n\nUser: understood\n\nJohn Doe: I am back home so I have access to my files\n\nUser: great\n\nJohn Doe: I need help with a few things here (not related to the project but rather work related)\n\nUser: understood\n\nJohn Doe: I am back home so I have access to my files\n\nUser: great"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Calendar",
+            "windows": [
+              {
+                "title": "June 2024",
+                "position": "right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "interface showing current month with dates and events"
+                },
+                "content": [
+                  {
+                    "title": "June 2024",
+                    "layoutDescription": "Monthly calendar view",
+                    "visibleText": "Calendar\nJune 2024\n\nSun Mon Tue Wed Thu Fri Sat\n1 2 3 4 5 6 7\n8 9 10 11 12 13 14\n15 16 17 18 19 20 21\n22 23 24 25 26 27 28\n29 30"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in multiple activities during the captured timeframe. They are primarily using Google Chrome with several tabs open, including Google Docs, Google Chat, and Google Calendar. The user is seen interacting with team members through Google Chat, discussing various topics such as document lists and scheduling meetings. They are also viewing and editing a document titled 'Legacy CSM Interview' in Google Docs, which includes learning objectives, background information, and interview questions. Additionally, the user is checking their calendar for upcoming events and meetings.",
+    "In the first screenshot, the user is seen chatting with Dr. Nicole Moser on Google Chat, discussing a treatment plan and scheduling a meeting. The user is also viewing their Google Calendar, which shows a detailed schedule of events and meetings for the day. The bottom part of the screen shows a new tab in Google Chrome, indicating that the user might be preparing to search for something or access frequently visited sites.",
+    "In the second screenshot, the user is chatting with another team member, Fint Gomi, on Google Chat. The conversation revolves around work-related topics, including project updates and scheduling. The user continues to have their Google Calendar open, displaying their schedule. The bottom part of the screen remains the same, showing the new tab in Google Chrome.",
+    "In the third screenshot, the user is focused on editing a document in Google Docs titled 'Legacy CSM Interview.' The document contains detailed questions and objectives for a customer interview. The user is also seen chatting with Fint Gomi on Google Chat, discussing the relevance of certain work products. The Google Calendar remains open, showing the user's schedule for the day."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in chatting with team members, editing documents, and checking their calendar. No AI chat interfaces or AI-driven tools are visible in the screenshots.",
+  "activities": [
+    "READING_SPEC",
+    "WRITING_SPEC",
+    "CHATTING_WITH_TEAM",
+    "MEETING"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_SPEC",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 64,
+      "mouse": 14,
+      "date": "2024-06-05T17:20:39Z",
+      "windowTitle": " New Tab - Google Chrome\n",
+      "processName": "chrome:",
+      "visitingUrl": "chrome://newtab/",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T17:21:39Z",
+      "windowTitle": " New Tab - Google Chrome\n",
+      "processName": "chrome:",
+      "visitingUrl": "chrome://newtab/",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-05T17:22:39Z",
+      "windowTitle": " ChallengeEngagement - CustomerInterview - Google Docs - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1b_0qBFgkXtuyVJMiL3UCigjgYz5271tUQuxtdh-Pq_4/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 124,
+      "mouse": 10,
+      "date": "2024-06-05T17:23:39Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 122,
+      "mouse": 0,
+      "date": "2024-06-05T17:24:39Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 126,
+      "mouse": 6,
+      "date": "2024-06-05T17:25:39Z",
+      "windowTitle": " ChallengeEngagement - CustomerInterview - Google Docs - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1b_0qBFgkXtuyVJMiL3UCigjgYz5271tUQuxtdh-Pq_4/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 90,
+      "mouse": 6,
+      "date": "2024-06-05T17:26:39Z",
+      "windowTitle": " Temporary Upgrade (Influitive - Add AI to Discourse Communities) - Google Docs - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1WQl-2wkScDxZ3vvOHt2NKpnm1k6WAh6XCF7JtMxGdW4/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 155,
+      "mouse": 15,
+      "date": "2024-06-05T17:27:39Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 135,
+      "mouse": 13,
+      "date": "2024-06-05T17:28:39Z",
+      "windowTitle": " ChallengeEngagement - CustomerInterview - Google Docs - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1b_0qBFgkXtuyVJMiL3UCigjgYz5271tUQuxtdh-Pq_4/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 118,
+      "mouse": 11,
+      "date": "2024-06-05T17:29:39Z",
+      "windowTitle": " Meet - zou-etyv-eii - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/zou-etyv-eii?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T17:20:00Z"
+}

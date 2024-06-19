@@ -1,0 +1,284 @@
+{
+  "candidateId": 1444536,
+  "apps": [
+    "Code",
+    "pythonw"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T12:20:14Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Microsoft Edge, File Explorer, and other unidentified applications. Displays the system clock showing '13:20:16' and date '14/06/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "test.py - tools - Visual Studio Code",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Top bar with File, Edit, Selection, View, Go, Run, Terminal, Help. Side bar with icons for Explorer, Search, Source Control, Run, Extensions. Bottom bar with Python environment, problems count, output, debug console, terminal tabs, command line input."
+                },
+                "content": [
+                  {
+                    "title": "test.py",
+                    "layoutDescription": "Code editor open with code",
+                    "visibleText": "def test1():\n # print(campaign_query(['GA-Cat.%', 'GA-5183.%'], '2000-01-01T00:00:00.000+0000'))\n sf_connection = SalesforceConnection('dmitrii.shutenkov@trilogy.com', 'Tsv03VSp@', 'F3pzUv74kSTm')\n res = sf_connection.get_applications(['GA-Cat.%', 'GA-5183.%'])\n print(res[:10])\n print(res[-10:])\n\ndef test2():\n with open('config.json') as f:\n config = json.load(f)\n print(config)\n credentials = config['gsheet_credentials']\n sheet_id = config['campaigns'][0]['sheet_id']\n client = authenticate_gsprea..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T12:25:27Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, File Explorer, Microsoft Edge, and system tray with notifications, sound, network, and battery status icons",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "test.py - tools - Visual Studio Code",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, Selection, View, Go, Run, Terminal tabs; Sidebar with Explorer, Search, Source Control, Run, Extensions icons; Status bar with Python interpreter version, problem count, encoding, line and column indicator, spaces information, and feedback smiley"
+                },
+                "content": [
+                  {
+                    "title": "test.py",
+                    "layoutDescription": "editor layout",
+                    "visibleText": "def test1():\n sf_connection = SalesforceConnection()\n res = sf_connection.get_applications(['GA-Cat.*'])\n print(res[:10])\n print(res[-10:])\n\ndef test2():\n with open('config.json') as f:\n config = json.load(f)\n print(config)\n credentials = config['gsheet_credentials']\n sheet_id = config['campaigns'][0]['sheet_id']\n client = authenticate_gspread(credentials)\n\n sf_connection = SalesforceConnection(config['username'], config['password'], config['security_token'])\n res = sf_connection.get_applications(['GA-Cat.*'])\n\n sheet = client.open_by_key(sheet_id).sheet1\n\n sheet.update('A1', data)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T12:26:42Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, File Explorer, and several pinned applications. Displays the system clock showing '13:26:44' and date '14/06/2024'. Network, sound, and battery status icons are visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Spyder",
+            "windows": [
+              {
+                "title": "Python Code",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, Search, Source, Run, Debug, Consoles, Projects, Tools, View, Help. Toolbar with icons for save, cut, copy, paste, undo, redo, run file, configure, and others. A file navigation pane on the left with files like 'typing.py', 'Experiment.py', 'CreateTicket.working.py', 'CreateTask.ChatGPT.py', 'give_permissions_to_dps.py', 'untitled0.py'."
+                },
+                "content": [
+                  {
+                    "title": "Python Code",
+                    "layoutDescription": "Text editor with code",
+                    "visibleText": "import requests\nimport json\nfrom collections import defaultdict\nfrom operator import itemgetter\n\nurl = \"https://sentry.io/api/0/projects/trilogyxo-chro = {\n \"accept\": \"application/json\",\n \"authorization\": \"Bearer 7d7e5c71abf14be37ef0deff7958b22a1875504d20d5b3a04 = requests.get(url, headers=headers)\n# response = requests.get(url, auth=('dmitrii.shutenkov@devfactory.com', 'Jk13qwe'))\n\nt = response.text\ndata = json.loads(t)\n\nissue_type_counts = defaultdict(lambda: 'a')\n\nfor event in data:\n Level = event['level']\n counts_14d = event['stats']['14d']\n counts_last_7d = sorted(counts_14d, key=itemgetter(0))[7:]\n sum_last_7d = sum([row[1] for row in counts_last_7d])\n print(f\"Level={sum_last_7d}\")\n issue_type_counts[Level] += sum_last_7d"
+                  }
+                ]
+              },
+              {
+                "title": "Variable Explorer",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Explorer pane with columns for Name, Type, Size, and Value. Displays variables 'res', 'sf_connection'."
+                },
+                "content": [
+                  {
+                    "title": "Variable Details",
+                    "layoutDescription": "Variable explorer with details",
+                    "visibleText": "Name: res\nType: list\nSize: 2473\nValue: [OrderedDict, OrderedDict, ...]\n\nName: sf_connection\nType: SalesforceConnection\nSize: 1\nValue: SalesforceConnection object of salesforce module"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in writing and editing Python code in Visual Studio Code. They are working on a file named 'test.py' within a project directory called 'campaign-tracking'. The code includes functions for connecting to Salesforce and Google Sheets APIs, loading configurations from a JSON file, and updating a Google Sheet with data retrieved from Salesforce. The user is also handling deprecation warnings and ensuring the correct authentication methods are used.",
+    "In another instance, the user is seen using the Spyder IDE, where they are working on a script that interacts with an API to fetch project data. The script involves making HTTP requests, processing JSON responses, and aggregating data based on certain criteria. The user is also utilizing the Variable Explorer in Spyder to inspect the contents of variables, which helps in debugging and verifying the correctness of the data being processed.",
+    "Throughout the session, the user is focused on backend development tasks, specifically dealing with data integration and API interactions. They are not seen engaging in activities related to UI development, infrastructure as code, database management, or testing. The primary focus is on writing and navigating code, with no evidence of code reviews, reading or writing specifications, research, email, chatting with team members, or meetings."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is working within Visual Studio Code and Spyder IDEs, but there are no visible AI chat interfaces or indications of AI assistance in their workflow. The focus is solely on manual coding and debugging activities without leveraging AI for code suggestions, research, or debugging.",
+  "activities": [
+    "WRITING_CODE",
+    "NAVIGATING_CODE"
+  ],
+  "workTypes": [
+    "BACKEND"
+  ],
+  "programmingLanguages": [
+    "PYTHON",
+    "SALESFORCE"
+  ],
+  "toolTypes": [
+    "IDE"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 9,
+      "mouse": 6,
+      "date": "2024-06-14T12:20:24Z",
+      "windowTitle": "? test.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-14T12:21:24Z",
+      "windowTitle": "gsheets.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 4,
+      "mouse": 10,
+      "date": "2024-06-14T12:22:24Z",
+      "windowTitle": "? test.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 21,
+      "mouse": 19,
+      "date": "2024-06-14T12:23:24Z",
+      "windowTitle": "? test.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 7,
+      "mouse": 8,
+      "date": "2024-06-14T12:24:24Z",
+      "windowTitle": "? test.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 17,
+      "mouse": 10,
+      "date": "2024-06-14T12:25:24Z",
+      "windowTitle": "? test.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 11,
+      "date": "2024-06-14T12:26:24Z",
+      "windowTitle": "Spyder",
+      "processName": "pythonw",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 10,
+      "mouse": 13,
+      "date": "2024-06-14T12:27:24Z",
+      "windowTitle": "Spyder",
+      "processName": "pythonw",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 34,
+      "mouse": 9,
+      "date": "2024-06-14T12:28:24Z",
+      "windowTitle": "Spyder",
+      "processName": "pythonw",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 38,
+      "mouse": 3,
+      "date": "2024-06-14T12:29:24Z",
+      "windowTitle": "? test.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-14T12:20:00Z"
+}

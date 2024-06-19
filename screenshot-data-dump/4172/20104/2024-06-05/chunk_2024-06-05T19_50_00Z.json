@@ -1,0 +1,344 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "meet.google.com",
+    "Notepad",
+    "cloud.getliteral.ai"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T19:51:49Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '10:51 PM 6/5/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Threads - cloud.getiterai.ai",
+                "url": "https://cloud.getiterai.ai",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Navigation bar with back, forward, refresh buttons, and URL bar. Tabs bar with multiple tabs open, including 'Threads', 'Meet - zii-cirx-oyg', and another Google Meet tab. Bookmark bar visible below the tabs bar."
+                },
+                "content": [
+                  {
+                    "title": "Threads",
+                    "layoutDescription": "List view with sidebar",
+                    "visibleText": "Threads\nA thread represents a conversation session between an assistant and a user.\nSearch by name...\nFilter | 1 filter(s)\n\nName\nTell me about action items that I missed and didn't react\nPlease write an email to the Magic Academy Beta testers that is a follow-up...\nWhat was the link the Samy shared over email about 7 golden rules for Gen...\nWhat is the last email from the 'Stack AI - Trilogy' email thread that you k...\nI received the following email - generate a reply for me. Subject: '@gt.sch...\n10 total row(s)."
+                  }
+                ]
+              },
+              {
+                "title": "Meet - zii-cirx-oyg - Google Chrome",
+                "url": "https://meet.google.com/zii-cirx-oyg",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Video conference controls including microphone, camera, and settings buttons. Participants list visible."
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Isaac Squires",
+                      "expression": "smiling"
+                    },
+                    {
+                      "name": "Dragos"
+                    }
+                  ]
+                },
+                "content": [
+                  {
+                    "title": "Meet - zii-cirx-oyg",
+                    "layoutDescription": "Video call screen",
+                    "visibleText": "Isaac / Dragos"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T19:54:54Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Settings, and hidden icons. System tray includes network, sound, battery, and clock (10:54 PM, 06/05/2024)",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Meet - zii-cirx-oyg - Google Chrome",
+                "url": "meet.google.com/zii-cirx-oyg?authu",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "bar, navigation buttons, tabs, profile icon, extensions, and minimize, maximize, close buttons"
+                },
+                "content": [
+                  {
+                    "title": "Video Conference",
+                    "layoutDescription": "Main participant video on right, smaller participant video on bottom right",
+                    "visibleText": "Isaac Squires"
+                  },
+                  {
+                    "title": "Chat",
+                    "layoutDescription": "Chat window on right side",
+                    "visibleText": "Isaac Squires"
+                  }
+                ]
+              },
+              {
+                "title": "cloud.getliterai.ai/project",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "bar, navigation buttons, tabs, profile icon, extensions, and minimize, maximize, close buttons"
+                },
+                "content": [
+                  {
+                    "title": "Threads",
+                    "layoutDescription": "interface with navigation sidebar on left",
+                    "visibleText": "June 2024 M T W T F S S 22 23 24 25 26 27 28 29 30 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 New Zealand Trip Meet with... Search field Time Insights JUN 3 – 9, 2024 More insights My calendars Dragos Nuta Birthdays Dragos Nuta Dragos Nuta Tasks Other calendars"
+                  },
+                  {
+                    "title": "My-GPT40",
+                    "layoutDescription": "area with tabs for Tree view and Chat view",
+                    "visibleText": "Tree view Chat view Message Run LLM Other AI Assist Hello **Isaac** (Admin), enter a user's ema... isaac.squires@trilogy.com isaac.squires@trilogy.com AI Assist Thanks! The email isaac.squires@trilogy.co... isaac.squires@trilogy.com Can you help me write a ... AI Assist Tool usage breakdown - **RAQ_GA_SCAN... AI Assist Sure thing, Isaac! Here's your weekly updat..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T19:57:11Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, widgets, and several pinned applications. Also shows system tray with notifications, sound, network, and clock displaying '10:57 PM' and '6/5/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Meet - zii-cirx-oyg - Google Chrome",
+                "url": "meet.google.com/zii-cirx-oyg?authu",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "conference controls including microphone, camera, captions, present now, more options, and hang up. Small video window of another participant named Dragos Nută."
+                },
+                "content": [
+                  {
+                    "title": "Video Call Window",
+                    "layoutDescription": "Large video on right, small video bottom right",
+                    "visibleText": "Isaac Squires"
+                  },
+                  {
+                    "title": "Browser Tab",
+                    "layoutDescription": "URL bar and tab titles visible",
+                    "visibleText": "Meet - zii-cirx-oyg - Google Chrome"
+                  }
+                ]
+              },
+              {
+                "title": "Threads - Google Chrome",
+                "url": "cloud.getliterai.ai/projects/ai-co",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "sidebar, message input area, and message display area."
+                },
+                "content": [
+                  {
+                    "title": "Threads Window",
+                    "layoutDescription": "Split view with sidebar and main content area",
+                    "visibleText": "Threads\nThread #0ca4f030-c67b-4d2b-8d6b-5b9c3f0b0b0b\n- My-GPT40\nTree view | Chat view\nMessage | Run | LLM | Other\ndmitrii.shutenkov@trilogy.com\nTell me about action ...\nAI Assist Agent\n01:47am\nTool usage breakdown - **RRAQ_GA_SCAN**\nHey Dmitrii, Here are the action items..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Google Meet video conference with two participants, Isaac Squires and Dragos Nuta. The meeting is active, and the user is interacting with the participants. The video conference controls, including microphone, camera, and settings buttons, are visible. The user is likely discussing project-related topics, as indicated by the presence of the 'Threads' application on the left half of the screen.",
+    "The user is also actively using the 'Threads' application on cloud.getliteral.ai. The interface shows a list of conversation threads between an assistant and a user. Specific threads include requests to write emails, retrieve links, and generate replies. The user is interacting with the AI assistant within the 'Threads' application, as evidenced by the visible text and conversation flow.",
+    "The user is managing their calendar and tasks using Google Calendar. The calendar view shows various events and tasks scheduled for June 2024. The user is likely organizing their schedule and ensuring they are on track with their tasks and meetings. The calendar interface includes options to create new events, search for events, and view time insights.",
+    "The user is utilizing the AI assistant within the 'Threads' application to automate tasks such as writing emails and retrieving information. The AI assistant is providing responses and updates based on the user's requests. This interaction indicates the user's reliance on AI tools to enhance productivity and streamline their workflow."
+  ],
+  "aiUseSummary": "The user utilizes AI tools within the 'Threads' application on cloud.getliteral.ai for various tasks. The AI assistant helps the user write emails, retrieve links, and generate replies. Specific interactions include the AI assistant providing a tool usage breakdown and weekly updates. The user relies on the AI assistant to automate repetitive tasks and improve efficiency, demonstrating the significant impact of AI on their productivity.",
+  "activities": [
+    "MEETING",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [
+    "DEVFACTORY_TPM_AI"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 17,
+      "mouse": 8,
+      "date": "2024-06-05T19:50:01Z",
+      "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 12,
+      "mouse": 6,
+      "date": "2024-06-05T19:51:01Z",
+      "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T19:52:01Z",
+      "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 23,
+      "mouse": 0,
+      "date": "2024-06-05T19:53:01Z",
+      "windowTitle": "*is this related - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 44,
+      "mouse": 14,
+      "date": "2024-06-05T19:54:01Z",
+      "windowTitle": "Threads - Google Chrome",
+      "processName": "cloud.getliteral.ai",
+      "visitingUrl": "cloud.getliteral.ai/projects/ai-coach-AA9M01hzCsyH/threads?threads-filter=%5B%5D&threads-search-filter=\"\"",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 4,
+      "mouse": 15,
+      "date": "2024-06-05T19:55:01Z",
+      "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T19:56:01Z",
+      "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 4,
+      "mouse": 8,
+      "date": "2024-06-05T19:57:02Z",
+      "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-05T19:58:02Z",
+      "windowTitle": "Threads - Google Chrome",
+      "processName": "cloud.getliteral.ai",
+      "visitingUrl": "cloud.getliteral.ai/projects/ai-coach-AA9M01hzCsyH/threads/1b3440de-dde0-4dbe-8ee9-64565446bdf8",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 21,
+      "date": "2024-06-05T19:59:02Z",
+      "windowTitle": "Threads - Google Chrome",
+      "processName": "cloud.getliteral.ai",
+      "visitingUrl": "cloud.getliteral.ai/projects/ai-coach-AA9M01hzCsyH/threads/afd402fd-1f16-47f9-aa14-6c8cbe741257?currentStepId=92013ec3-1c36-4df6-8a71-fe0168e66f0e",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T19:50:00Z"
+}

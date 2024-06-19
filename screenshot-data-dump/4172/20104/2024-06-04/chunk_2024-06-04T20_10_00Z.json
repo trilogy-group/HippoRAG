@@ -1,0 +1,324 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "meet.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-04T20:11:17Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "for Chrome, Notepad, ARR, EU, Dev, Info, Min, Max, Close, Windows Start Menu, Search, Task View, Wi-Fi, Sound, Notifications, ENG language, Time display (11:11 PM 6/4/2024)",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - keh-vdmq-vie - Google Chrome",
+                "url": "https://meet.google.com/keh-vdmq-vie",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, Google account icon, Meet controls (microphone, camera, raise hand, captions, present now, more options, hang up, chat, show everyone, settings, feedback, fullscreen, change layout, turn on captions, record meeting, whiteboard, polls, Q&A, breakout rooms, activities, attachments, meeting details, add people, use a phone for audio, meeting notes, internal note, reply to customer, comment shortcut info)"
+                },
+                "content": [
+                  {
+                    "title": "Video Conference",
+                    "layoutDescription": "Two video feeds displayed",
+                    "visibleText": "Noumaan Shah, Dragos Nuta"
+                  }
+                ]
+              },
+              {
+                "title": "Crossover Hire - Backlog - Google Chrome",
+                "url": "https://ws-lambda.atlassian.net/jira",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, Jira dashboard elements (backlog, active sprints, reports, releases, project pages, scheduled issues, add shortcut, project settings, search bar, filters, versions, epics, labels, types, more results button)"
+                },
+                "content": [
+                  {
+                    "title": "Crossover Hire - Backlog",
+                    "layoutDescription": "List of project issues",
+                    "visibleText": "LAMBDA-75783 Iteration 2 of Lead Source Tracking Enhancements, LAMBDA-75685 The campaignCookie is not set on generic pages (reiteration), LAMBDA-75449 Include job recommendations in reject emails, LAMBDA-74606 Many users are complaining that they are stuck at the login to the Crossover portal, LAMBDA-75627 Interview Bot incorrectly manages ASR state by returning it to 'Not Started', LAMBDA-73792 XO Report token usage, LAMBDA-74247 Matching Interview ASR remains in the Started state when another assessment is graded and drives..., LAMBDA-74427 Change manual BFQ verification work unit trigger, LAMBDA-74643 Update ENCODED_STYLES for Atlas widget component, LAMBDA-75147 Profile Application 360 shows only one interview for the applications with multiple interviews, LAMBDA-75444 Assessment renewal feature, LAMBDA-75050 Cancel the backlog of ASRs for applications canceled due to pipelines closed, LAMBDA-74644 Interview Bot assessments are returning to 'Not Started' state while candidates claim it was comple..., LAMBDA-71091 DO NOT PICK TICKETS BELOW THIS LINE, LAMBDA-64660 [Update Email Template] Approve, High_CCAT, Candidate, send from notifications@crossover.com, LAMBDA-85191 Proper Waiting For Grading screen on English stage, LAMBDA-65775 Incorrect label displayed for Candidate Submission, LAMBDA-65764 Percent Score Missing, LAMBDA-71979 Update the Admin Tool Sourcing tab, LAMBDA-64810 Protect against Click-Jacking vulnerability, LAMBDA-65085 Gracefully Handle Get Assessment URL issues"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T20:13:38Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "taskbar for Chrome, File Explorer, Notepad, ARR, EU, Dev, Note, and others. System tray with clock showing '11:13 PM', date '6/4/2024', Wi-Fi, sound, and battery status icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - keh-vdmq-vie - Google Chrome",
+                "url": "https://meet.google.com/keh-vdmq-vie",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "conference controls including microphone, camera, captions, present now, and hang up buttons. Participant list and chat sidebar."
+                },
+                "content": [
+                  {
+                    "title": "Video Conference",
+                    "layoutDescription": "Two main video feeds displayed",
+                    "visibleText": "Noumaan Shah, Dragos Nutu"
+                  },
+                  {
+                    "title": "Participant Sidebar",
+                    "layoutDescription": "List of participants",
+                    "visibleText": "Noumaan Shah, read.ai meeting notes, Dragos Nutu"
+                  }
+                ]
+              },
+              {
+                "title": "Crossover Hire - Google Chrome",
+                "url": "https://ws-lambda.atlassian.net/jira",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "interface with navigation sidebar, search bar, and issue list."
+                },
+                "content": [
+                  {
+                    "title": "JIRA Backlog",
+                    "layoutDescription": "List of issues in a backlog",
+                    "visibleText": "Backlog (93 of 231 issues visible), LAMBDA-75843 Iteration 2 of Lead Source Tracking Enhancements, LAMBDA-75863 The campaignCookie is not set on generic pages (reiteration), LAMBDA-75449 Include job recommendations in reject emails, LAMBDA-74606 Many users are complaining that they are stuck at the login to the Crossover portal, LAMBDA-75627 Interview Bot incorrectly manages ASR state by returning it to 'Not Started', LAMBDA-73792 XO Report token usage, LAMBDA-74427 Matching Interview ASR remains in the Started state when another assessment is graded and drives..., LAMBDA-74467 Change manual BFQ verification work unit trigger, LAMBDA-74643 Update ENCODED_STYLES for Atlas widget component, LAMBDA-75147 Profile Application 360 shows only one interview for the applications with multiple interviews, LAMBDA-75444 Assessment renewal feature, LAMBDA-75050 Cancel the backlog of ASRs for applications canceled due to pipelines closed, LAMBDA-74644 Interview Bot assessments are returning to 'Not Started' state while candidates claim it was comple..., LAMBDA-71091 DO NOT PICK TICKETS BELOW THIS LINE, LAMBDA-64660 [Update Email Template] Approve, High_CCAT, Candidate, send from notifications@crossover.com, LAMBDA-85191 Proper Waiting For Grading screen on English stage, LAMBDA-65775 Incorrect label displayed for Candidate Submission, LAMBDA-65764 Percent Score Missing, LAMBDA-71979 Update the Admin Tool Sourcing tab, LAMBDA-64810 Protect against Click-Jacking vulnerability, LAMBDA-65095 Gracefully Handle Get Assessment URL issues"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T20:17:59Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, File Explorer, and other unidentified applications. System clock shows '11:17 PM'. Date '6/4/2024'. Wi-Fi, sound, and battery status icons are visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - keh-vdmq-vie - Google Chrome",
+                "url": "https://meet.google.com/keh-vdmq-vie",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "conference controls include microphone toggle, camera toggle, captions, present now, more options, hang up call, and full screen. Participant list and chat icons are visible."
+                },
+                "content": [
+                  {
+                    "title": "Video Conference",
+                    "layoutDescription": "Two visible participants",
+                    "visibleText": "Noumaan Shah, Dragos Nuta"
+                  },
+                  {
+                    "title": "Chat",
+                    "layoutDescription": "Visible on right side",
+                    "visibleText": "read.ai meeting notes"
+                  }
+                ]
+              },
+              {
+                "title": "Gmail - chris.hornby@devfactory.com - Google Chrome",
+                "url": "https://mail.google.com/mail/u/0/#inbox",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "email interface with folders and settings visible."
+                },
+                "content": [
+                  {
+                    "title": "Email List",
+                    "layoutDescription": "List of emails displayed",
+                    "visibleText": "How are you? - Hi Chris, How are you? I hope you are doing well.\nCanceled: ESW AIML and GenAI - Office Hours\nRE: ESW AIML and GenAI - Office Hours\nInvitation to Webinar Event: The Future of AI in Business\nFwd: Introducing “Think-With-Me” Sessions\nESW - Amazon Bedrock | Cloudera Data Platform\nRE: ESW AIML and GenAI - Office Hours\nAWS/ESW Office Hours - Hi everyone, We will have our regular office hours tomorrow. Let us know if you have any questions"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a video conference on Google Meet, as evidenced by the screenshots showing the Google Meet interface with two participants, Noumaan Shah and Dragos Nuta. The meeting appears to be ongoing, with the user actively participating in the discussion. The Google Meet interface shows typical controls such as microphone, camera, captions, present now, and hang up buttons, along with a participant list and chat sidebar.",
+    "In addition to the video conference, the user is also viewing a Jira backlog on the Crossover Hire project. The Jira interface displays a list of project issues, including various tasks and enhancements such as 'Iteration 2 of Lead Source Tracking Enhancements' and 'The campaignCookie is not set on generic pages (reiteration)'. The user is likely reviewing these issues while in the meeting, as the Jira window is open but not active.",
+    "The user is also seen checking their email on Gmail. The Gmail interface shows a list of emails, including messages from Erick Irigoyen and Bogdan Adedolapo, as well as an invitation to a webinar event and office hours notifications. This indicates that the user is managing their communications and staying updated on relevant information while participating in the video conference."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a video conference, reviewing Jira issues, and checking emails. No AI chat interfaces or AI-driven tools are visible in the screenshots, indicating that the user is not utilizing AI for their tasks during this period.",
+  "activities": [
+    "MEETING",
+    "EMAIL"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 100,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 5,
+      "date": "2024-06-04T20:10:11Z",
+      "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-04T20:11:12Z",
+      "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T20:12:12Z",
+      "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T20:13:12Z",
+      "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T20:14:12Z",
+      "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T20:15:12Z",
+      "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T20:16:12Z",
+      "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 13,
+      "mouse": 3,
+      "date": "2024-06-04T20:17:12Z",
+      "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T20:18:12Z",
+      "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T20:19:12Z",
+      "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-04T20:10:00Z"
+}

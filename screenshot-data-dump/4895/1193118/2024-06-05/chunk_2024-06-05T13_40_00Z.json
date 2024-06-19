@@ -1,0 +1,365 @@
+{
+  "candidateId": 2368956,
+  "apps": [
+    "file:",
+    "Finder",
+    "AdobeReader",
+    "mail.google.com",
+    "Google Chat"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T13:42:16Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Contacts, Calendar, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Time Machine, and Trash. Also includes a Spotlight search icon and Notification Center icon.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Finder",
+            "windows": [
+              {
+                "title": "Finder Window",
+                "position": "left side of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Sidebar with folders and files"
+                },
+                "content": [
+                  {
+                    "title": "Sidebar",
+                    "layoutDescription": "List",
+                    "visibleText": "All My Files, iCloud, AirDrop, Applications, Desktop, Documents, Downloads, Movies, Music, Pictures, Aaron, Backup, Development, Work"
+                  }
+                ]
+              },
+              {
+                "title": "Aaron_Jackson_Business_Summit.pdf",
+                "position": "middle of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "PDF viewer toolbar"
+                },
+                "content": [
+                  {
+                    "title": "PDF Document",
+                    "layoutDescription": "Full view",
+                    "visibleText": "Aaron Jackson Business Summit 2024\n\nCONFIDENTIAL\n\nThis document is intended for the recipient only and may contain confidential information. Unauthorized use is strictly prohibited."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Word",
+            "windows": [
+              {
+                "title": "Table of Contents",
+                "position": "bottom right of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Toolbar and formatting options"
+                },
+                "content": [
+                  {
+                    "title": "Document Content",
+                    "layoutDescription": "Formatted text",
+                    "visibleText": "Table of Contents\n\nWelcome to Aaron Jackson Summit 2024...\n\nChapter 1: Introduction\n\nChapter 2: Keynote Speakers\n\nChapter 3: Schedule\n\nChapter 4: Venue\n\nChapter 5: Accommodation\n\nChapter 6: Registration\n\nChapter 7: FAQs\n\nChapter 8: Sponsor Information\n\nChapter 9: Contact Us"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T13:46:01Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Google Chrome, Microsoft Outlook, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Adobe Photoshop, System Preferences, and other unidentified applications. Also includes a system clock showing '1:46 PM' and a system tray with network, sound, and battery status icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Status of Aurea Monitor Fix Deployment - george.dita@trilogy.com - DevFactory Mail",
+                "url": "https://mail.google.com/mail/u/0/#inbox",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and vertical scroll bar."
+                },
+                "content": [
+                  {
+                    "title": "Email Content",
+                    "layoutDescription": "Email displayed in a large pane",
+                    "visibleText": "Re: Aurea version 2204 - Risk of failing PCI certification next steps\n\nHello team,\n\nThis is to inform you that...\n\nBest regards,\nJohn Doe\n\nAttachments:\n- Document1.pdf\n- Screenshot2.png"
+                  },
+                  {
+                    "title": "Email List",
+                    "layoutDescription": "List of emails on the left side",
+                    "visibleText": "Inbox\nStarred\nSnoozed\nImp Thread"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T13:48:54Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Time Machine, and others. Includes a system tray with network, sound, battery, and clock indicators.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Finder",
+            "windows": [
+              {
+                "title": "Finder",
+                "position": "left side of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Sidebar with Favorites, iCloud, Locations, and Tags sections"
+                },
+                "content": [
+                  {
+                    "title": "Finder Sidebar",
+                    "layoutDescription": "Vertical list",
+                    "visibleText": "Favorites, AirDrop, Recents, Applications, Desktop, Documents, Downloads, iCloud, iCloud Drive, Locations, Network, Tags, Recent Tags"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Google Chat",
+            "windows": [
+              {
+                "title": "Google Chat",
+                "position": "left center of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Chat interface with search bar, settings icon, and chat list"
+                },
+                "content": [
+                  {
+                    "title": "Chat with Marcello Sabato",
+                    "layoutDescription": "Chat layout",
+                    "visibleText": "Marcello Sabato: If the team agrees I can integrate with the suggested configuration of the backend. I have reviewed the specs and it seems feasible. I will need to discuss some of the details with the backend team to ensure compatibility. Let me know if this is okay with you. I think it's a solid plan, and it will help us meet the new scope easily. I have some questions about the data integrity. I can discuss it with you tomorrow. [Unread]"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Gmail",
+            "windows": [
+              {
+                "title": "Email on Aurora version 2204 - Risk of failing PCI certification next steps",
+                "position": "right center of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Email interface with subject, sender, recipients, and email body"
+                },
+                "content": [
+                  {
+                    "title": "Email Content",
+                    "layoutDescription": "Email layout",
+                    "visibleText": "John Smith, Hello, Please find below the updated assessment and next steps for the Aurora project. We have identified several risks associated with the current implementation that could potentially lead to a failure in meeting PCI certification standards. The main issues are: - Lack of encryption in some areas (DB and file storage) which could lead to data breaches. - Inadequate error handling which could expose sensitive information. - The use of outdated software components that are no longer supported by their developers. We recommend the following actions: - Accelerate the encryption implementation across all vulnerable points (DB and file storage) immediately. - Review and enhance error handling procedures to ensure that no sensitive data is exposed. - Update all software components to the latest versions to ensure support and security. Please let me know if you have any questions or need further clarification. Regards, John"
+                  }
+                ]
+              },
+              {
+                "title": "Email List",
+                "position": "center of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Email interface with search bar, settings icon, and email list"
+                },
+                "content": [
+                  {
+                    "title": "Email List",
+                    "layoutDescription": "List layout",
+                    "visibleText": "George Simos, Re: Urgent project update, Hello, I hope this email finds you well. I wanted to reach out and provide a quick update on the project. We have made significant progress over the last few weeks, and I am confident that we will meet the deadlines. Please let me know if you need any updates or have any questions. Regards, George"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in reading and reviewing a PDF document titled 'Aurea Monitor Release Notes Enterprise 2024 R1'. This is evident from the multiple screenshots showing the document open in Adobe Reader. The user is likely focusing on understanding the release notes, which include sections such as 'Changes in this Release', 'New Features', and 'Bug Fixes'. This activity is crucial for staying updated with the latest changes and ensuring that any new features or fixes are well understood.",
+    "The user is also seen managing files using Finder. The Finder window shows a list of files and folders, indicating that the user is organizing or accessing specific documents. This activity is essential for maintaining an organized workspace and quickly accessing necessary files for their tasks.",
+    "Email communication is another significant activity observed. The user is engaged in reading and responding to emails related to the 'Aurea version 2024 - Risk of failing PCI certification next steps'. The emails discuss various risks and proposed solutions, such as implementing encryption and updating software components. This indicates that the user is involved in addressing critical security concerns and coordinating with team members to ensure compliance with PCI certification standards.",
+    "The user is also seen chatting with a team member, Marcello Sabato, on Google Chat. The conversation revolves around integrating backend configurations and discussing data integrity issues. This suggests that the user is collaborating with team members to ensure that the backend configurations are compatible and meet the project's requirements. The chat also indicates that the user is planning to discuss further details with the backend team, highlighting ongoing collaboration and problem-solving efforts."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in reading documents, managing files, and communicating via email and chat. There are no visible AI chat interfaces or AI-generated suggestions in the screenshots. Therefore, it can be concluded that the user did not utilize any AI tools during this period.",
+  "activities": [
+    "READING_SPEC",
+    "EMAIL",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "READING_SPEC",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 78,
+      "mouse": 17,
+      "date": "2024-06-05T13:40:22Z",
+      "windowTitle": " AureaMonitor_Release_Notes_Enterprise_2024_R1 - Google Chrome\n",
+      "processName": "file:",
+      "visitingUrl": "file:///Users/georgecrossover/Downloads/AureaMonitor_Release_Notes_Enterprise_2024_R1%20(4).pdf",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 13,
+      "date": "2024-06-05T13:41:22Z",
+      "windowTitle": " Downloads\n",
+      "processName": "Finder",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 17,
+      "mouse": 43,
+      "date": "2024-06-05T13:42:22Z",
+      "processName": "AdobeReader",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 20,
+      "date": "2024-06-05T13:43:22Z",
+      "windowTitle": " Re: Aurea version 2024 - Risk of failing PCI certification: next steps - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#search/chris.morino%40aurea.com/FMfcgzQVwnXckmqGNbWWqtmJVhZpCrJL",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 224,
+      "mouse": 5,
+      "date": "2024-06-05T13:44:22Z",
+      "windowTitle": " Status of Aurea Monitor Fix Deployment - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#search/chris.morino%40aurea.com/FMfcgzQVwnXckmqGNbWWqtmJVhZpCrJL",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 158,
+      "mouse": 6,
+      "date": "2024-06-05T13:45:22Z",
+      "windowTitle": " Status of Aurea Monitor Fix Deployment - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#search/chris.morino%40aurea.com/FMfcgzQVwnXckmqGNbWWqtmJVhZpCrJL",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 115,
+      "mouse": 5,
+      "date": "2024-06-05T13:46:22Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 73,
+      "mouse": 3,
+      "date": "2024-06-05T13:47:22Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-05T13:48:22Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 170,
+      "mouse": 0,
+      "date": "2024-06-05T13:49:22Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T13:40:00Z"
+}

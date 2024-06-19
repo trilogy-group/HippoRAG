@@ -1,0 +1,293 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "meet.google.com",
+    "ai-feature-adoption-dash.s3.amazonaws.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-04T16:41:59Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Microsoft Edge, File Explorer, Google Chrome, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '7:41 PM 6/4/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - shs-orkn-nkx - Google Chrome",
+                "url": "meet.google.com/shs-orkn-nkx",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "browser tabs, address bar, navigation buttons, Google account avatar, and browser settings"
+                },
+                "content": [
+                  {
+                    "title": "Google Meet Video Call",
+                    "layoutDescription": "Video call interface",
+                    "visibleText": "Jamie Sidey, Jamie's Assistant, Dragos Nuta"
+                  },
+                  {
+                    "title": "Chat with George Dita",
+                    "layoutDescription": "Chat interface on left side",
+                    "visibleText": "George Dita: exista o pagina pentru asta? George Dita: ups sorry George Dita: ok, sorry; got it"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T16:43:44Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Mail, Internet Explorer, Google Chrome, File Explorer, Microsoft Store, and system tray with notifications, sound, network, and clock displaying '7:43 PM 6/4/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - shs-orkn-nkx - Google Chrome",
+                "url": "meet.google.com/shs-orkn-nkx",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, profile icon, extensions icons"
+                },
+                "content": [
+                  {
+                    "title": "Google Meet Video Call",
+                    "layoutDescription": "Video call interface",
+                    "visibleText": "Jamie Sidey, Jamie's Assistant, Dragos Nuta"
+                  },
+                  {
+                    "title": "Chat with George Dita",
+                    "layoutDescription": "Chat interface",
+                    "visibleText": "George Dita: exista o pagina pentru asta? Jamie Sidey: ups sorry George Dita: ok, sorry; got it"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T16:48:48Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. System tray includes notifications, sound, network, and clock displaying '7:48 PM 6/4/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - shs-orkn-nkx - Google Chrome",
+                "url": "meet.google.com/shs-orkn-nkx",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, and extensions"
+                },
+                "content": [
+                  {
+                    "title": "Video Conference",
+                    "layoutDescription": "Two main video feeds and one smaller feed",
+                    "visibleText": "Jamie Sidey\nDragos Nuta\nJamie's Assistant"
+                  }
+                ]
+              },
+              {
+                "title": "AI Feature Adoption Dashboard - Google Chrome",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, and extensions"
+                },
+                "content": [
+                  {
+                    "title": "AI Feature Adoption Dashboard",
+                    "layoutDescription": "Graphs and navigation sidebar",
+                    "visibleText": "AI Feature Adoption Dashboard\nFactory stats\nPer Feature\nPer Product\n# of Transactions by Product by Time\ncreated_at (Day)\nSum of Output Tokens by Product by Time"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Google Meet video conference, as evidenced by the screenshots showing the Google Meet interface with participants Jamie Sidey, Dragos Nuta, and Jamie's Assistant. The meeting appears to be active throughout the captured timeframe, with the user interacting with the participants. Additionally, the user is chatting with George Dita on Google Chat, discussing a specific page and apologizing for a mistake. This indicates active communication and collaboration with team members during the meeting.",
+    "The user is also viewing the AI Feature Adoption Dashboard hosted on an Amazon S3 bucket. The dashboard displays various graphs and statistics related to AI feature adoption, such as the number of transactions by product over time and the sum of output tokens by product over time. This suggests that the user is analyzing data related to AI feature adoption, likely to gain insights or report on the performance of AI features. The dashboard is visible alongside the Google Meet interface, indicating multitasking during the meeting."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a video conference and data analysis on the AI Feature Adoption Dashboard. No interactions with AI chat interfaces or AI-driven tools are visible in the screenshots.",
+  "activities": [
+    "MEETING",
+    "CHATTING_WITH_TEAM",
+    "READING_SPEC"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T16:40:11Z",
+      "windowTitle": "Meet - shs-orkn-nkx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/shs-orkn-nkx",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 2,
+      "mouse": 3,
+      "date": "2024-06-04T16:41:11Z",
+      "windowTitle": "Meet - shs-orkn-nkx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/shs-orkn-nkx",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T16:42:11Z",
+      "windowTitle": "Meet - shs-orkn-nkx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/shs-orkn-nkx",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T16:43:11Z",
+      "windowTitle": "Meet - shs-orkn-nkx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/shs-orkn-nkx",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T16:44:11Z",
+      "windowTitle": "Meet - shs-orkn-nkx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/shs-orkn-nkx",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T16:45:11Z",
+      "windowTitle": "Meet - shs-orkn-nkx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/shs-orkn-nkx",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T16:46:11Z",
+      "windowTitle": "Meet - shs-orkn-nkx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/shs-orkn-nkx",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 38,
+      "mouse": 5,
+      "date": "2024-06-04T16:47:11Z",
+      "windowTitle": "React App - Google Chrome",
+      "processName": "ai-feature-adoption-dash.s3.amazonaws.com",
+      "visitingUrl": "ai-feature-adoption-dash.s3.amazonaws.com/index.html",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 4,
+      "mouse": 3,
+      "date": "2024-06-04T16:48:11Z",
+      "windowTitle": "React App - Google Chrome",
+      "processName": "ai-feature-adoption-dash.s3.amazonaws.com",
+      "visitingUrl": "ai-feature-adoption-dash.s3.amazonaws.com/index.html",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 2,
+      "mouse": 0,
+      "date": "2024-06-04T16:49:11Z",
+      "windowTitle": "Meet - shs-orkn-nkx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/shs-orkn-nkx",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-04T16:40:00Z"
+}

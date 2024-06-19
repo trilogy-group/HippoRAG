@@ -1,0 +1,307 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "ws-lambda.atlassian.net",
+    "colab.research.google.com",
+    "github.com",
+    "mail.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T08:41:16Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time as 10:41 AM and date as 06/12/2024. Language set to English (ENG).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "[LAMBDA-75972] Update Beginner Mind badge based on feedback - WorkSmart Lambda - Google Chrome",
+                "url": "ws-lambda.atlassian.net/browse/LAMBDA-75972",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, and extensions visible."
+                },
+                "content": [
+                  {
+                    "title": "WorkSmart Lambda",
+                    "layoutDescription": "Complex layout with multiple panels",
+                    "visibleText": "WorkSmart Lambda\nService project\nQueues\nRaise a request\nScriptRunner Enhanced Search\nKnowledge\nKnowledge base\nReports\nChannels\nCustomers\nShortcuts\nLe Open Task Filter\nGet New Task\nCustomer notification logs\n\n[LAMBDA-75972] Update Beginner Mind badge based on feedback\nNone\nLinked issues\nis part of project\nLAMBDA-4009\nAssessments\nActivity\nShow All Comments History Timesheet SLA History Approvals\nAdd internal note Reply to customer\n\nArtem Melnikov 22 minutes ago - Internal note\n@Denys Yefimenko Using service credentials to access public google sheet seems like too much work tbh. I asked GPT and it seems like there is an easier way for the public.\n\nimport pandas as pd\nURL of the Google Sheet (make sure it's public)\nsheet_url = 'YOUR_GOOGLE_SHEET_PUBLIC_URL'\ncsv_export_url = sheet_url.replace('/edit#gid=', '/export?format=csv&gid=')\n\nRead the Google Sheet data into a DataFrame\ndf = pd.read_csv(csv_export_url)\n\nDisplay the DataFrame\nprint(df)\n\nI tested it and it seem to work fine 😉 Go Google Colab\n\nAutomation for Jira 2 hours ago - Internal note\n@Artem Melnikov\nPlease perform this task as soon as possible! SLA for QC review: 2h 45min 24s and you have 30m more before breaching it which can cause blockers for other workers and projects and also affect your rank on the QC Units - External QA leaderboard.\nPlease consider this as a final reminder for this task and do the review as soon as possible."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T08:44:25Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, File Explorer, Microsoft Edge, Google Chrome, and other unidentified applications. System tray includes network, sound, and battery status icons, as well as the date and time display.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Update Readme to Educate Users - WorkSmart Lambda - Google Chrome",
+                "url": "ws-lambda.atlassian.net/browse/LAMBDA-75914",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Navigation bar with back, forward, refresh, and home buttons. Address bar with URL. Bookmark bar with several bookmarks. Multiple tabs open, one of which is active and titled 'Update Readme to Educate Users'."
+                },
+                "content": [
+                  {
+                    "title": "Update Readme to Educate Users",
+                    "layoutDescription": "Two-column layout",
+                    "visibleText": "Projects / WS Lambda / Add / Parent / LAMBDA-75914\nUpdate Readme to Educate Users\nCreate subtask Link issue Create My Forge App\nDefault Outputs API Review Lambda Service\nMichael Madume raised this request via Portal\nDescription\n- Add readme to educate users on how to use AI Assist\nProduct\nCrossover Hire - AI Coach\nPriority\nStandard\nPlaybook URL\nNone\nEngineering Story Points Estimation Breakdown\nhttps://docs.google.com/spreadsheets/d Tests\nNone\nLinked issues\nis part of project\nLAMBDA_75914 AI Coach\nSimilar requests\nActivity\nShow: All Comments History Timepiece SLA History Approvals\nNewest first list\nAdd internal note / Reply to customer\nPro tip: press M to comment\nYou're in a company-managed project"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T08:48:18Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, File Explorer, Microsoft Edge, and other unidentified applications. Displays the time as '08:48' and the date as '2024-06-12'. Network status icon visible. Speaker volume icon visible. Language set to 'ENG'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Inbox - artyom.melnikov@trilogy.com - DevFactory Mail",
+                "url": "mail.google.com/mail/u/0/#inbox",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Search mail input box, Compose button, Gmail sidebar with labels such as Inbox, Starred, Snoozed, Sent, Drafts, More, AI Coach, Github, Jira Important, Loom, Salesforce."
+                },
+                "content": [
+                  {
+                    "title": "Email List",
+                    "layoutDescription": "List of emails displayed in a vertical column",
+                    "visibleText": "1. [JIRA] [LAMBDA-76029] Add new fields to the JobBoardCallAnalytics and enhance calculation - Devs Yefimenko made 2 updates. WS Lambda..."
+                  },
+                  {
+                    "title": "Email List",
+                    "layoutDescription": "List of emails displayed in a vertical column",
+                    "visibleText": "2. [JIRA] WS Lambda Automation mentioned you on LAMBDA-75972 - Automation for Jira mentioned you on an issue WS Lambda..."
+                  },
+                  {
+                    "title": "Email List",
+                    "layoutDescription": "List of emails displayed in a vertical column",
+                    "visibleText": "3. [JIRA] WS Lambda Automation mentioned you on LAMBDA-75827 - WS Lambda Automation mentioned you on an issue WS Lambda..."
+                  },
+                  {
+                    "title": "Email List",
+                    "layoutDescription": "List of emails displayed in a vertical column",
+                    "visibleText": "4. [JIRA] WS Lambda Automation made 4 updates. WS Lambda..."
+                  },
+                  {
+                    "title": "Email List",
+                    "layoutDescription": "List of emails displayed in a vertical column",
+                    "visibleText": "5. [JIRA] [LAMBDA-75835] The campaignCookie is not set on generic pages (reiteration) - Dragos Nuta made 1 update. WS Lambda..."
+                  },
+                  {
+                    "title": "Email List",
+                    "layoutDescription": "List of emails displayed in a vertical column",
+                    "visibleText": "6. Weekly Backup Report - Here's your weekly Backup Report. June 03 to June 09, 2024 if you can't see this email properly, please download the attached PDF file. Salesforce Metadata XO Hire X0 Hire Production Metadata"
+                  },
+                  {
+                    "title": "Email List",
+                    "layoutDescription": "List of emails displayed in a vertical column",
+                    "visibleText": "7. [JIRA] [LAMBDA-76006] (Indexed 2024) Week 11 Investigation - Automation for Jira made 4 updates. WS Lambda..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in reviewing and updating tasks on the WorkSmart Lambda project. At 08:41:16, the user is seen on the Atlassian Jira page for the task LAMBDA-75972, which involves updating the Beginner Mind badge based on feedback. The user is reviewing internal notes and code snippets related to accessing a public Google Sheet using Python's pandas library. The user is also responding to reminders from the Automation for Jira bot to complete the task within the specified SLA.",
+    "At 08:44:25, the user is still on the WorkSmart Lambda project, now focusing on the task LAMBDA-75914, which involves updating the README to educate users on how to use AI Assist. The user is reviewing the task details, including the description, priority, and linked issues. The user is also looking at the engineering story points estimation breakdown and a Google Sheets link provided in the task description.",
+    "By 08:48:18, the user has switched to their Gmail inbox, where they are reviewing multiple emails related to Jira tasks and project updates. The emails include notifications about updates to various Jira issues, weekly backup reports, and meeting cancellations. The user is likely prioritizing and organizing their tasks based on the email content."
+  ],
+  "aiUseSummary": "The user utilizes AI tools to streamline their workflow, particularly in the context of the WorkSmart Lambda project. In the task LAMBDA-75972, the user mentions consulting GPT to find an easier way to access a public Google Sheet using Python. This indicates the user relies on AI for code suggestions and problem-solving. The AI tool provided a Python code snippet to read and display data from a Google Sheet, which the user tested and confirmed to work fine.",
+  "activities": [
+    "REVIEWING_CODE",
+    "READING_SPEC",
+    "EMAIL"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "UI"
+  ],
+  "programmingLanguages": [
+    "PYTHON"
+  ],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [
+    "AI_IDE_EXTENSION"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "REVIEWING_CODE",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 170,
+      "mouse": 12,
+      "date": "2024-06-12T08:40:00Z",
+      "windowTitle": "[LAMBDA-75972] Update Beginner Mind badge based on feedback - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-75972",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 11,
+      "date": "2024-06-12T08:41:00Z",
+      "windowTitle": "[LAMBDA-75972] Update Beginner Mind badge based on feedback - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-75972",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-12T08:42:01Z",
+      "windowTitle": "[LAMBDA-75972] Update Beginner Mind badge based on feedback - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-75972",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 5,
+      "date": "2024-06-12T08:43:01Z",
+      "windowTitle": "Beginner Mind Coding Assessment.ipynb - Colab - Google Chrome",
+      "processName": "colab.research.google.com",
+      "visitingUrl": "colab.research.google.com/drive/1MH0-btlh2iKODb_Go9yMBeVYPWq9imQR#scrollTo=shE97VzGwZ4v",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 21,
+      "date": "2024-06-12T08:44:00Z",
+      "windowTitle": "feat(LAMBDA-75915): Update Readme Visibility and Content by michael-madume-trilogy ? Pull Request #129 ? trilogy-group/xo-ai-coach - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-ai-coach/pull/129",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 18,
+      "date": "2024-06-12T08:45:00Z",
+      "windowTitle": "feat(LAMBDA-75915): Update Readme Visibility and Content by michael-madume-trilogy ? Pull Request #129 ? trilogy-group/xo-ai-coach - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-ai-coach/pull/129",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 80,
+      "mouse": 7,
+      "date": "2024-06-12T08:46:00Z",
+      "windowTitle": "Inbox - artyom.melnikov@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T08:47:00Z",
+      "windowTitle": "Inbox - artyom.melnikov@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T08:48:00Z",
+      "windowTitle": "Inbox - artyom.melnikov@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T08:49:00Z",
+      "windowTitle": "Inbox - artyom.melnikov@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-12T08:40:00Z"
+}

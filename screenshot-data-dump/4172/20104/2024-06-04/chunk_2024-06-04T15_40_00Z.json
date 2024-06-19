@@ -1,0 +1,347 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "meet.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-04T15:40:24Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Widgets, Microsoft Edge, File Explorer, Google Chrome, and system tray with notifications, sound, network, and clock displaying '6:40 PM 6/4/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "AI Feature Adoption Dashboard",
+                "url": "ai-feature-adoption-dash.s3.amazonaws.com",
+                "position": "left half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "address bar, navigation buttons, bookmarks bar"
+                },
+                "content": [
+                  {
+                    "title": "AI Feature Adoption Dashboard",
+                    "layoutDescription": "Web page with charts and filters",
+                    "visibleText": "AI Feature Adoption Dashboard\nPer Feature Per Product\n# of Transactions by Product by Time\nProduct Id\nJive Cloud\nPostBeyond\ncreated_at (Day)\nSum of Output Tokens by Product by Time\nProduct Id"
+                  }
+                ]
+              },
+              {
+                "title": "Meet - pvi-xucn-nkp - Google Chrome",
+                "url": "meet.google.com/pvi-xucn-nkp?authuser=0",
+                "position": "right half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "address bar, navigation buttons, video conference controls"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "David Schwartz",
+                      "expression": "thinking"
+                    },
+                    {
+                      "name": "Marcel Skaba",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Ben New",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Joe Conley",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Noumaan Shah",
+                      "expression": "speaking"
+                    },
+                    {
+                      "name": "Dragos Nuta",
+                      "expression": "listening"
+                    }
+                  ]
+                },
+                "content": [
+                  {
+                    "title": "Meet - pvi-xucn-nkp",
+                    "layoutDescription": "Video conference window",
+                    "visibleText": "Central TPM O...\nread.ai meeting notes\nDavid's AI Notetaker (from Otter..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T15:43:55Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '6:43 PM'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - pvi-xucn-nkp - Google Chrome",
+                "url": "meet.google.com/pvi-xucn-nkp",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, Google account avatar, Meet controls including microphone, camera, captions, present now, more options, and hang up"
+                },
+                "content": [
+                  {
+                    "title": "Video Conference",
+                    "layoutDescription": "Grid layout with participant videos",
+                    "visibleText": "David Schwartz, Marcelo Skaba, Ben New, Joe Conley, Noumaan Shah, Dragos Nuta"
+                  }
+                ]
+              },
+              {
+                "title": "Calendar - Google Chrome",
+                "url": "calendar.google.com/calendar/u/0/r",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, Google account avatar"
+                },
+                "content": [
+                  {
+                    "title": "Google Calendar",
+                    "layoutDescription": "Monthly calendar view",
+                    "visibleText": "June 2024, Week 23, Today, Create button, Search for people, Time Insights, My calendars, Other calendars, Dragos Nuta Trilogy, Birthdays, Dragos Nuta - Aurea, Tasks, Events listed with times and descriptions including 'AI Coach Daily Sync', 'Product Daily Check', 'Pre-acquisition Ideas', 'Generative Crossover', 'Central TPM Meeting'"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T15:47:51Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, File Explorer, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '6:47 PM'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - pvi-xucn-nkp - Google Chrome",
+                "url": "meet.google.com/pvi-xucn-nkp?authu",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, and Google account avatar"
+                },
+                "content": [
+                  {
+                    "title": "Meet - pvi-xucn-nkp",
+                    "layoutDescription": "Video conference layout",
+                    "visibleText": "David Schwartz, Marcelo Skaba, Ben New, Joe Conley, Noumaan Shah, Dragos Nutu"
+                  },
+                  {
+                    "title": "Video Conference Participants",
+                    "layoutDescription": "Faces and names visible",
+                    "visibleText": "David Schwartz, Marcelo Skaba, Ben New, Joe Conley, Noumaan Shah, Dragos Nutu"
+                  }
+                ]
+              },
+              {
+                "title": "Calendar - Google Chrome",
+                "url": "calendar.google.com/calendar/u/0/r",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, and Google account avatar"
+                },
+                "content": [
+                  {
+                    "title": "Calendar",
+                    "layoutDescription": "Month view with events",
+                    "visibleText": "June 2024, Week 23, Events listed include 'AI Coach Daily Sync', 'Product Daily Check', 'Pre-acquisition Ideas', 'Generative', 'Crossover', 'Review Prompting Badge', 'Stratifly Daily Standup', 'Joe vs Joe Discussion', 'Noumaan / Dragos, 23:00'"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively participating in a Google Meet video conference. The meeting includes several participants, such as David Schwartz, Marcelo Skaba, Ben New, Joe Conley, Noumaan Shah, and Dragos Nuta. The user is engaged in discussions, as indicated by the visible video feeds and the presence of meeting notes from read.ai and David's AI Notetaker from Otter. The user is likely discussing topics related to AI feature adoption, as suggested by the open dashboard on the left side of the screen.",
+    "In addition to the video conference, the user has a Google Calendar open, displaying a detailed schedule for the week of June 3-9, 2024. The calendar includes various meetings and events, such as 'AI Coach Daily Sync,' 'Product Daily Check,' 'Pre-acquisition Ideas,' 'Generative Crossover,' and 'Central TPM Meeting.' This indicates that the user is managing a busy schedule and coordinating multiple projects and meetings. The calendar view helps the user keep track of their commitments and plan their activities effectively."
+  ],
+  "aiUseSummary": "The user is utilizing AI tools during the video conference. Specifically, the meeting includes participants like read.ai meeting notes and David's AI Notetaker from Otter, which suggests that AI is being used to transcribe and take notes during the meeting. This use of AI tools helps in capturing important information discussed during the meeting, ensuring that no critical details are missed and improving overall productivity and efficiency.",
+  "activities": [
+    "MEETING"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [
+    "DEVFACTORY_TPM_AI"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 100,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T15:40:11Z",
+      "windowTitle": "Meet - pvi-xucn-nkp - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/pvi-xucn-nkp?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T15:41:11Z",
+      "windowTitle": "Meet - pvi-xucn-nkp - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/pvi-xucn-nkp?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 15,
+      "mouse": 3,
+      "date": "2024-06-04T15:42:11Z",
+      "windowTitle": "Meet - pvi-xucn-nkp - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/pvi-xucn-nkp?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T15:43:11Z",
+      "windowTitle": "Meet - pvi-xucn-nkp - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/pvi-xucn-nkp?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T15:44:11Z",
+      "windowTitle": "Meet - pvi-xucn-nkp - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/pvi-xucn-nkp?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T15:45:11Z",
+      "windowTitle": "Meet - pvi-xucn-nkp - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/pvi-xucn-nkp?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T15:46:11Z",
+      "windowTitle": "Meet - pvi-xucn-nkp - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/pvi-xucn-nkp?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T15:47:11Z",
+      "windowTitle": "Meet - pvi-xucn-nkp - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/pvi-xucn-nkp?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T15:48:11Z",
+      "windowTitle": "Meet - pvi-xucn-nkp - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/pvi-xucn-nkp?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T15:49:11Z",
+      "windowTitle": "Meet - pvi-xucn-nkp - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/pvi-xucn-nkp?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-04T15:40:00Z"
+}

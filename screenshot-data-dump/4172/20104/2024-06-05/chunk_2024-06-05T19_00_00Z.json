@@ -1,0 +1,352 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "meet.google.com",
+    "mail.google.com",
+    "google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T19:00:41Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, File Explorer, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '10:00 PM 5/6/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "docs.chainlit.io/api",
+                "position": "left half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "menu on the left, scrollbar on the right"
+                },
+                "content": [
+                  {
+                    "title": "ChainLit API Reference",
+                    "layoutDescription": "Vertical layout",
+                    "visibleText": "Documentation\nExamples\nAPI Reference\nAudio\nVideo\nAvatar\nPlotly\nTaskList User\nAskUserMessage\nAskFileMessage\nAskUserAction Callback Handler\nLlamaIndex Callback Handler\nHaystack\nGeneration\nChatGeneration\nGe"
+                  }
+                ]
+              },
+              {
+                "title": "Google Meet",
+                "url": "https://meet.google.com/wyj-rdjj-kan",
+                "position": "right half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "video conference UI with participant tiles, chat, and control bar"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Samy Aboel-Nil",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "David Schwartz",
+                      "expression": "Not visible"
+                    },
+                    {
+                      "name": "Robert Egglestone",
+                      "expression": "Speaking"
+                    },
+                    {
+                      "name": "Isaac Squires",
+                      "expression": "Listening"
+                    },
+                    {
+                      "name": "Dragos Nută",
+                      "expression": "Neutral"
+                    }
+                  ]
+                },
+                "content": [
+                  {
+                    "title": "Kanban Weekly Demo",
+                    "layoutDescription": "Grid layout",
+                    "visibleText": "Samy Aboel-Nil\nDavid Schwartz\nRobert Egglestone\nIsaac Squires\nDragos Nută\nread.ai meeting notes\nDavid's AI Notetaker (from Otter.ai)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T19:03:28Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, and system status icons including network, sound, and clock displaying '10:03 PM'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - wyj-rdjj-kan - Google Chrome",
+                "url": "meet.google.com/wyj-rdjj-kan",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "conference window with participant videos and controls"
+                },
+                "content": [
+                  {
+                    "title": "Video Conference Participants",
+                    "layoutDescription": "Grid layout",
+                    "visibleText": "Samy Aboel-Nil, David Schwartz, Isaac Squires, Robert Egglestone, Dragos Nutu, read.ai meeting notes, David's AI Notetaker (from Otter.ai)"
+                  },
+                  {
+                    "title": "Chat Window",
+                    "layoutDescription": "Sidebar on the right",
+                    "visibleText": "David Schwartz: ok - done, ill do more changes, i need to log off, take a look, I'll be online in 10 mins"
+                  }
+                ]
+              },
+              {
+                "title": "Gmail - David Schwartz - Google Chrome",
+                "url": "mail.google.com/mail/u/0/#chat/dm",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "email and chat interface"
+                },
+                "content": [
+                  {
+                    "title": "Gmail Interface",
+                    "layoutDescription": "List and chat layout",
+                    "visibleText": "New chat, Shortcuts, Home (7), Mentions (3), Starred, Direct messages (5), XO Kanban Weekly ..., David Schwartz, Jozsef Czapovics, Marcelo Skaba, Robert Egglestone, Muhammad Javed, George Dita, Samy Aboel-Nil, Spaces (2), Samy's VPs Gen ..., AWS News, XO Team Chat, AppManager Techni..., GFI BU/CE/TPM Man..., CNU AI Assist - Extra..., Feature Line autom..., CNU Q Business Prod..., tpm reboot, Crossover - Upwork S..., XO Candidate Suppor..., David Schwartz: may even keep it, anyway - let me know"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T19:07:24Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Settings, and hidden icons. Also displays the system clock showing '10:07 PM' and system date '6/5/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Meet - wyj-rdjj-kan - Google Chrome",
+                "url": "meet.google.com/wyj-rdjj-kan?authu",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, profile icon, and Google apps menu"
+                },
+                "content": [
+                  {
+                    "title": "Google Meet Video Conference",
+                    "layoutDescription": "Grid layout with participant videos",
+                    "visibleText": "Samy Aboel-Nil, Robert Egglestone, Isaac Squires, David's AI Notetaker (from Otter.ai), David Schwartz, Dragos Nută"
+                  },
+                  {
+                    "title": "Chat Window",
+                    "layoutDescription": "Vertical layout",
+                    "visibleText": "David Schwartz: may even keep it anyway - let me know. ok - done. ill do more changes tomorrow. i need to log off now. take a look. read.ai meeting notes. I'll be online in 10 mins."
+                  }
+                ]
+              },
+              {
+                "title": "Gmail - David Schwartz - Google Chrome",
+                "url": "mail.google.com/mail/u/0/#chat/dm/",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "navigation pane, chat window, profile icon"
+                },
+                "content": [
+                  {
+                    "title": "Gmail Interface",
+                    "layoutDescription": "List and chat layout",
+                    "visibleText": "New chat, Shortcuts, Home, Mentions, Starred, Direct messages, XO Kanban Weekly, David Schwartz, Jozsef Czapovics, Marcelo Skaba, Robert Egglestone, Muhammad Javed, George Dita, Samy Aboel-Nil, Spaces, Samy's VPs Gen, AWS News, XO Team Chat, AppManager Technical, GFI BU/CE/TPM Management, CNU AI Assist - Extraction, Feature Line automation, CNU Q Business Productivity, tpm reboot, Crossover - Upwork Support, XO Candidate Support, David Schwartz: may even keep it anyway - let me know. ok - done. ill do more changes tomorrow. i need to log off now. take a look. read.ai meeting notes. I'll be online in 10 mins."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Google Meet video conference titled 'XO Kanban Weekly Demo' with multiple participants, including Samy Aboel-Nil, David Schwartz, Robert Egglestone, Isaac Squires, and Dragos Nută. The meeting interface shows participant tiles, chat, and control bar. The user is actively participating in the meeting, as indicated by the visible chat messages and participant interactions.",
+    "The user is also interacting with Gmail, specifically in a chat with David Schwartz. The chat interface shows messages exchanged between the user and David Schwartz, discussing changes and logging off. The user is managing multiple direct messages and spaces, indicating active communication and collaboration with team members.",
+    "The user is viewing the ChainLit API Reference documentation on the left half of the screen. The documentation includes sections on 'TaskList', 'Ask User', 'Integrations', and 'Generation'. This suggests the user is researching or referencing API documentation, likely to support their development tasks or to gain a better understanding of the API's capabilities."
+  ],
+  "aiUseSummary": "There is no visible evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a video conference, email, and chat activities, as well as viewing API documentation. No AI chat interfaces or AI-generated content are visible in the screenshots.",
+  "activities": [
+    "MEETING",
+    "EMAIL",
+    "READING_SPEC",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 16,
+      "mouse": 20,
+      "date": "2024-06-05T19:00:01Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T19:01:01Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 96,
+      "mouse": 12,
+      "date": "2024-06-05T19:02:01Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 141,
+      "mouse": 2,
+      "date": "2024-06-05T19:03:01Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/lbuwS0AAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 54,
+      "mouse": 0,
+      "date": "2024-06-05T19:04:01Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T19:05:01Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T19:06:01Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T19:07:01Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T19:08:01Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 45,
+      "mouse": 6,
+      "date": "2024-06-05T19:09:01Z",
+      "windowTitle": "compile java to binary - Google Search - Google Chrome",
+      "processName": "google.com",
+      "visitingUrl": "google.com/search?q=compile+java+to+binary&oq=compile+java+to+binay&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCQgCEAAYDRiABDIKCAMQABgIGA0YHjINCAQQABiGAxiABBiKBdIBCDQ3NjBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T19:00:00Z"
+}

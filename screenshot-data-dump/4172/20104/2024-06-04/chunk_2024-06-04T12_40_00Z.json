@@ -1,0 +1,283 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "docs.google.com",
+    "ws-lambda.atlassian.net",
+    "meet.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-04T12:40:17Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, widgets, and several pinned applications including Edge, Chrome, File Explorer, and others. System tray includes notifications, sound, network, and clock displaying '3:40 PM 6/24/24'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "1-Pager: BFQ completion rate improvement plan - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help. Toolbar with undo, redo, print, spelling and grammar check, formatting options, zoom controls, and document sharing settings."
+                },
+                "content": [
+                  {
+                    "title": "1-Pager: BFQ completion rate improvement plan",
+                    "layoutDescription": "Text document layout",
+                    "visibleText": "Insights & DD Plans\nVariations that seem correlated with a change\nSwitching to Cognito led to a drop of ~5-8% in the percentage of candidates log in\nNote: the data looks only at LinkedIn Easy Apply applicants; these are not even required to validate email and the only extra functional step added is using easy pass or password\nImpact: increased the percent of people that do not log in by 6-10%, which was offsetted by an improvement of the percentage of candidates that take the BFQ (aka drop in BFQ not started)\nPlan: We do not have any useful evidence from our support team of technical issues introduced by adding Cognito. To look into this deeper, we will first enable AWS RUM monitoring on the client side: LAMBDA-6702\nOther options considered:\nChange the set password screen to be more welcoming and have a clearer intent\nSet up monitoring on email opens and clicks to understand the drop rate\nSend password over email and automatically log in the candidate\nReducing the number of BFQ reminders led to a drop in BFQ takers of 2%\nNote: The reasoning for this change is in the third document 📄 Purchase Super Messages for SF Marketing Cloud\nPlan: none, the decision is still sound in terms of cost/benefit/impact\nAdding standard BFQs as a step before taking the BFQ led to a drop in BFQ completion of 2%\nNote: this was done at the time in an attempt to enrich the data we have for Prime customers.\nPlan: The change was undone on Oct 5, 2023 through LAMBDA-6576 and the negative effect should now be undone\nVariations that seem unrelated to any change\nSevere 2x drop on the percent of candidates that took the BFQ between 1 to 11 days\nIt may be related to the email that LinkedIn sent is sending, although unfortunately we have no information on when that email was introduced\nPlan: Dragos Nuta to define a task that keeps LinkedIn ads open for another 4 weeks or more\nDrop from 2.5% to under 1% for the percent of candidates that take the BFQ between days 5 and 11\nIt happened at the same time with switching to Cognito, but does not seem logical related, nor is it offsetted by a different segment.\nPlan: None. The change is small so we will not investigate further at this time\nA consistent month-over-month drop of ~1% in the percentage of candidates that take the BFQ in the first 24h from applying\nIt started with the switch to Cognito but instead of having a sudden drop and a plateau, we are seeing a constant drop month over month\nOne hypothesis is that it is a reflection of all changes - each change has worsened things a bit, and as changes were made, the overall impact was more negative than expected."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T12:44:15Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Crossover, WorkSmart, AWS, DevSpaces, JIRA, Crossover Sprints, Loom, ChatGPT Next, Google Ads, Iteration, Login, Salesforce, Fullshared, My Profile, Crossover, UpSert Records Unit, and several unidentified icons. Also includes system icons for notifications, sound, network, battery, language (ENG US), and time (3:44 PM | 04.06.2024).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Meet - khm-qevt-udu - Google Chrome",
+                "url": "",
+                "isActive": true,
+                "position": "fullscreen",
+                "uiElements": {
+                  "details": "conference window with participant videos, chat, and other controls"
+                },
+                "content": [
+                  {
+                    "title": "[LAMBDA-75449] Include job recommendations in reject emails - WorkSmart Lambda - 4 June...",
+                    "layoutDescription": "Visible participant videos",
+                    "visibleText": "Denys Yefimenko (Presenting), Dmitrii Shutenkov, Artem Melnikov, Dragos Nuta"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T12:47:49Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '3:47 PM 6/4/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Calendar - Google Chrome",
+                "position": "left half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Top bar with options for Google apps, notifications, and Google account access"
+                },
+                "content": [
+                  {
+                    "title": "Google Calendar",
+                    "layoutDescription": "Full month view with event details",
+                    "visibleText": "Calendar\nJune 2024\nWeek 23\nMonday 3, Home\n5:00 - Rakshit Bha\n9:00 - Dragos - with J\n9:30 - CNU 1-week Project\n10:00 - AI Coach Daily Sync, and other events listed with times and descriptions."
+                  }
+                ]
+              },
+              {
+                "title": "Meet - khm-qevt-udu - Google Chrome",
+                "position": "right half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Video call interface with participant controls and options"
+                },
+                "content": [
+                  {
+                    "title": "Google Meet",
+                    "layoutDescription": "Video call screen with participant thumbnails",
+                    "visibleText": "Dennys Yefimenko\nDmitrii Shutenkov\nArtem Melnikov\nDragos Nuta\nXO Check-in\nTime in meetings\nMost meetings\nMalonade days\nDaily average\n2 hr"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in reading and editing a Google Docs document titled '1-Pager: BFQ completion rate improvement plan'. The document contains detailed insights and plans regarding the BFQ completion rate, including variations correlated with changes, impacts, and plans for improvement. The user is also seen interacting with comments from a colleague, Dragos Nuta, discussing monitoring tasks and next steps.",
+    "The user is participating in a Google Meet video conference titled 'XO Check-in'. The meeting involves multiple participants, including Denys Yefimenko, Dmitrii Shutenkov, Artem Melnikov, and Dragos Nuta. The user is actively engaged in the meeting, which includes a presentation on job recommendations in reject emails, as indicated by the shared screen content.",
+    "The user is managing their schedule using Google Calendar. The calendar view shows a detailed schedule for the week of June 3, 2024, with various meetings and events listed, including daily syncs, project reviews, and check-ins. The user is balancing multiple tasks and meetings, indicating a busy and structured workday."
+  ],
+  "aiUseSummary": "",
+  "activities": [
+    "READING_SPEC",
+    "MEETING"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 84,
+      "mouse": 14,
+      "date": "2024-06-04T12:40:09Z",
+      "windowTitle": "1-Pager: BFQ completion rate improvement plan - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1OiiOKlIX_9RxkPOCoSa3lfrA08BYgsqmT-ioomhg4ek/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 34,
+      "mouse": 26,
+      "date": "2024-06-04T12:41:09Z",
+      "windowTitle": "- Backlog - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/jira/software/c/projects/HIRE/boards/25/backlog?issueLimit=100&quickFilter=195&selectedIssue=LAMBDA-75635",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 15,
+      "mouse": 1,
+      "date": "2024-06-04T12:42:09Z",
+      "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 12,
+      "mouse": 3,
+      "date": "2024-06-04T12:43:09Z",
+      "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 12,
+      "date": "2024-06-04T12:44:09Z",
+      "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 1,
+      "mouse": 0,
+      "date": "2024-06-04T12:45:09Z",
+      "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 6,
+      "mouse": 35,
+      "date": "2024-06-04T12:46:09Z",
+      "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 10,
+      "mouse": 21,
+      "date": "2024-06-04T12:47:09Z",
+      "windowTitle": "Notes - XO Check-in - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1bFE8dS2O4hddYrd6jxeF73JClGjyUvMMQQp9uIYhC14/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 4,
+      "mouse": 7,
+      "date": "2024-06-04T12:48:09Z",
+      "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T12:49:09Z",
+      "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-04T12:40:00Z"
+}

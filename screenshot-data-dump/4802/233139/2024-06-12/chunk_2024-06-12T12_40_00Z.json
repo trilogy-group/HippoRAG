@@ -1,0 +1,265 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "sublime_text"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T12:40:27Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned and running applications. Displays the date and time '12:40 PM 06/12/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Sublime Text",
+            "windows": [
+              {
+                "title": "This is the Salesforce Formula I have: ? - Sublime Text (UNREGISTERED)",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with options like File, Edit, Selection, View, Goto, Tools, Project, Help"
+                },
+                "content": [
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Text editor with multiple lines of code",
+                    "visibleText": "18 // Indeed - clearly expensive */\n19 0,\n20 \n21 IF (IndirectHires_c + IndirectInterviewPassers_c + IndirectSQLs_c + IndirectMQLs_c == 0\n22 && ISBLANK(MostRecentTest_c) + $Setup.LinkedIn_Integration_c.WeeksForSlotPerform )),\n23 /* no indirect conversions & no recent activity */\n24 NULL,\n25 \n26 IF (IndirectHires_c + IndirectInterviewPassers_c + IndirectSQLs_c + IndirectMQLs_c == 0\n27 && BFQs_c == 0\n28 && BFQTestTakers_c < $Setup.LinkedIn_Integration_c.SignificantMQLTaker /* no indirect conversions no too early to decide if known_bad */\n30 NULL,\n31 \n32 IF (ISPICKVAL(Sourcing_Platform_c, 'Indeed'),\n33 (Hires_c + BlankValue(Job_Board_Cell_r.Location_r.Rank_Boost * 44 +\n34 InterviewPassers_c * 33 +\n35 SQLs_c * 22 +\n36 MQLs_c * 11 +\n37 BFQs_c +\n38 IndirectHires_c * 44 +\n39 IndirectInterviewPassers_c * 33 +\n40 IndirectSQLs_c * 22 +\n41 IndirectMQLs_c * 11 +\n42 Job_Board_Cell_r.OrphanHires_c * 44 +\n43 Job_Board_Cell_r.OrphanInterviewPassers_c * 33 +\n44 Job_Board_Cell_r.OrphanSQLs_c * 22 +\n45 Job_Board_Cell_r.OrphanMQLs_c * 11,\n46 \n47 IF (ISPICKVAL(Sourcing_Platform_c, 'LinkedIn'),\n48 CEILING(\n49 (Hires_c + BLANKVALUE(Job_Board_Cell_r.Location_r.Rank_Boost * 330 +\n50 InterviewPassers_c * 220 +\n51 SQLs_c * 130 +\n52 MQLs_c * 10) / JobSlotWeeks_c +\n53 IndirectHires_c * 330 +\n54 IndirectInterviewPassers_c * 220 +\n55 IndirectSQLs_c * 130 +\n56 IndirectMQLs_c * 10 +\n57 Job_Board_Cell_r.OrphanHires_c * 330 +\n58 Job_Board_Cell_r.OrphanInterviewPassers_c * 220 +\n59 Job_Board_Cell_r.OrphanSQLs_c * 130 +\n60 Job_Board_Cell_r.OrphanMQLs_c * 10"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T12:43:40Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the date and time '06/12/2024 12:43 PM'. Network, sound, and battery status icons are visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Sublime Text",
+            "windows": [
+              {
+                "title": "This is the Salesforce Formula I have: ? - Sublime Text (UNREGISTERED)",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with options like File, Edit, Selection, View, Goto, Tools, Project, Preferences, Help. Tabs for multiple documents are visible, current tab is active with the title 'This is the Salesforce Formula I have: ?'."
+                },
+                "content": [
+                  {
+                    "title": "Code Content",
+                    "layoutDescription": "Text editor with code",
+                    "visibleText": "18 // Indeed - clearly expensive */\n19 0,\n20 \n21 IF (IndirectHires_c + IndirectInterviewPassers_c + IndirectSQLs_c + IndirectMQLs_c == 0\n22 && ISBLANK(MostRecentTest_c) -> 7 * $Setup.LinkedIn_Integration_c.WeeksForSlotPerform ),\n23 /* no indirect conversions & no recent activity */\n24 NULL,\n25 \n26 IF (IndirectHires_c + IndirectInterviewPassers_c + IndirectSQLs_c + IndirectMQLs_c == 0\n27 && BFQs_c == 0\n28 && BFQTestTakers_c < $Setup.LinkedIn_Integration_c.SignificantMQLTaker /* no indirect conversions no too early to decide if known_bad */\n30 NULL,\n31 \n32 IF (ISPICKVAL(Sourcing_Platform_c, 'Indeed'),\n33 (Hires_c + BlankValue(Job_Board_Cell_r.Location_r.Rank_Boost * 44 +\n34 InterviewPassers_c * 33 +\n35 SQLs_c * 22 +\n36 MQLs_c * 11 +\n37 BFQs_c +\n38 IndirectHires_c * 44 +\n39 IndirectInterviewPassers_c * 33 +\n40 IndirectSQLs_c * 22 +\n41 IndirectMQLs_c * 11 +\n42 Job_Board_Cell_r.OrphanHires_c * 44 +\n43 Job_Board_Cell_r.OrphanInterviewPassers_c * 33 +\n44 Job_Board_Cell_r.OrphanSQLs_c * 22 +\n45 Job_Board_Cell_r.OrphanMQLs_c * 11,\n46 \n47 IF (ISPICKVAL(Sourcing_Platform_c, 'LinkedIn'),\n48 CEILING(\n49 (Hires_c + BLANKVALUE(Job_Board_Cell_r.Location_r.Rank_Boost * 330 +\n50 InterviewPassers_c * 220 +\n51 SQLs_c * 130 +\n52 MQLs_c * 10) / JobSlotWeeks_c +\n53 IndirectHires_c * 330 +\n54 IndirectInterviewPassers_c * 220 +\n55 IndirectSQLs_c * 130 +\n56 IndirectMQLs_c * 10 +\n57 Job_Board_Cell_r.OrphanHires_c * 330 +\n58 Job_Board_Cell_r.OrphanInterviewPassers_c * 220 +\n59 Job_Board_Cell_r.OrphanSQLs_c * 130 +\n60 Job_Board_Cell_r.OrphanMQLs_c * 10\n"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T12:47:49Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the date and time as '12/06/2024 12:47 PM'. Network, sound, and battery status icons are visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Sublime Text",
+            "windows": [
+              {
+                "title": "This is the Salesforce Formula I have: ? - Sublime Text (UNREGISTERED)",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with options like File, Edit, Selection, View, Goto, Tools, Project, Preferences, Help"
+                },
+                "content": [
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Text editor with multiple lines of code",
+                    "visibleText": "18 // Indeed - clearly expensive */\n19 0,\n20 \n21 IF (IndirectHires_c + IndirectInterviewPassers_c + IndirectSQLs_c + IndirectMQLs_c == 0\n22 && ISBLANK(MostRecentTest_c) + $Setup.LinkedIn_Integration_c.WeeksForSlotPerform )),\n23 /* no indirect conversions & no recent activity */\n24 NULL,\n25 \n26 IF (IndirectHires_c + IndirectInterviewPassers_c + IndirectSQLs_c + IndirectMQLs_c == 0\n27 && BFQs_c == 0\n28 && BFQTestTakers_c < $Setup.LinkedIn_Integration_c.SignificantMQLTaker /* no indirect conversions no too early to decide if known_bad */\n30 NULL,\n31 \n32 IF (ISPICKVAL(Sourcing_Platform_c, 'Indeed'),\n33 (Hires_c + BlankValue(Job_Board_Cell_r.Location_r.Rank_Boost * 44 +\n34 InterviewPassers_c * 33 +\n35 SQLs_c * 22 +\n36 MQLs_c * 11 +\n37 BFQs_c +\n38 IndirectHires_c * 44 +\n39 IndirectInterviewPassers_c * 33 +\n40 IndirectSQLs_c * 22 +\n41 IndirectMQLs_c * 11 +\n42 Job_Board_Cell_r.OrphanHires_c * 44 +\n43 Job_Board_Cell_r.OrphanInterviewPassers_c * 33 +\n44 Job_Board_Cell_r.OrphanSQLs_c * 22 +\n45 Job_Board_Cell_r.OrphanMQLs_c * 11,\n46 \n47 IF (ISPICKVAL(Sourcing_Platform_c, 'LinkedIn'),\n48 CEILING(\n49 (Hires_c + BLANKVALUE(Job_Board_Cell_r.Location_r.Rank_Boost * 330 +\n50 InterviewPassers_c * 220 +\n51 SQLs_c * 130 +\n52 MQLs_c * 10) / JobSlotWeeks_c * 130 +\n53 IndirectHires_c * 330 +\n54 IndirectInterviewPassers_c * 220 +\n55 IndirectSQLs_c * 130 +\n56 IndirectMQLs_c * 10)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in writing code using Sublime Text. The code visible in the screenshots is a Salesforce formula, which includes multiple IF statements and logical conditions. The user is working on a complex formula that involves various fields such as IndirectHires_c, IndirectInterviewPassers_c, IndirectSQLs_c, and IndirectMQLs_c. The formula also includes conditions for different sourcing platforms like 'Indeed' and 'LinkedIn'. The user is likely focused on calculating or analyzing some performance metrics based on these conditions.",
+    "Throughout the captured timeframe, the user remains focused on the same task, as indicated by the consistent content in the Sublime Text editor. The user is not seen switching between different applications or performing other tasks, suggesting a high level of concentration on the coding task at hand. The formula being written appears to be part of a larger project, as indicated by the presence of multiple tabs in the Sublime Text editor, although the content of these tabs is not visible in the screenshots."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is solely working within Sublime Text, and there are no visible AI chat interfaces or interactions with AI tools for code suggestions, debugging, or research.",
+  "activities": [
+    "WRITING_CODE"
+  ],
+  "workTypes": [
+    "BACKEND"
+  ],
+  "programmingLanguages": [
+    "SALESFORCE"
+  ],
+  "toolTypes": [
+    "IDE"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 100,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T12:40:01Z",
+      "windowTitle": "This is the Salesforce Formula I have: ? - Sublime Text (UNREGISTERED)",
+      "processName": "sublime_text",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T12:41:01Z",
+      "windowTitle": "This is the Salesforce Formula I have: ? - Sublime Text (UNREGISTERED)",
+      "processName": "sublime_text",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T12:42:01Z",
+      "windowTitle": "This is the Salesforce Formula I have: ? - Sublime Text (UNREGISTERED)",
+      "processName": "sublime_text",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T12:43:01Z",
+      "windowTitle": "This is the Salesforce Formula I have: ? - Sublime Text (UNREGISTERED)",
+      "processName": "sublime_text",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T12:44:01Z",
+      "windowTitle": "This is the Salesforce Formula I have: ? - Sublime Text (UNREGISTERED)",
+      "processName": "sublime_text",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T12:45:01Z",
+      "windowTitle": "This is the Salesforce Formula I have: ? - Sublime Text (UNREGISTERED)",
+      "processName": "sublime_text",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T12:46:01Z",
+      "windowTitle": "This is the Salesforce Formula I have: ? - Sublime Text (UNREGISTERED)",
+      "processName": "sublime_text",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T12:47:01Z",
+      "windowTitle": "This is the Salesforce Formula I have: ? - Sublime Text (UNREGISTERED)",
+      "processName": "sublime_text",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T12:48:01Z",
+      "windowTitle": "This is the Salesforce Formula I have: ? - Sublime Text (UNREGISTERED)",
+      "processName": "sublime_text",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T12:49:01Z",
+      "windowTitle": "This is the Salesforce Formula I have: ? - Sublime Text (UNREGISTERED)",
+      "processName": "sublime_text",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-12T12:40:00Z"
+}

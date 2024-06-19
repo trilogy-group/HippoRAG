@@ -1,0 +1,286 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "idea64"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T07:32:25Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Visual Studio Code, File Explorer, and other unidentified applications. Displays the time as 19:34 and date as 08/12/2024. Language set to ENG.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Sidebar with file explorer, bottom panel with logs"
+                },
+                "content": [
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Text editor with code",
+                    "visibleText": "public void execute(Database.BatchableContext bc, List<Campaign> campaigns) { System.debug('ComputeCellMetricsBatch processing: ' + campaigns.size() + ' records.'); if (campaigns.size() <= 0) { System.debug('Nothing to process!'); return; } DateTime referenceDateForPerformanceAnalysis = DateTime.now().addDays(-7 * (Integer)LinkedIn_Integration__c.getOrgDefaults()); List<Job_Board_Cell_Analytics__c> analytics = new List<Job_Board_Cell_Analytics__c>(); for (Campaign campaign : campaigns) { Id cellId = campaign.Job_Board_Cell__c; String recruitingCampaignRecordType = DeveloperName; SourcingPlatformDetails platform = SourcingPlatformRepo.getPlatformByName(recruitingCampaignRecordType); if (campaign.Job_Board_Cell__c != null && platform.contains(cellId)) { continue; } processedCells.put(getRecordTypeName().add(cellId)); AggregateResult sumResults = (AggregateResult) [ SELECT MAX(CreatedDate) MostRecentTest, SUM(LsHp__c) MQIs, SUM(EssQ__c) SQIs, SUM(PassengerVolume__c) InterviewerPassers FROM Opportunity WHERE CreatedDate >= referenceDateForPerformanceAnalysis AND Campaign.Job_Board_DeveloperName = platform.recruitingCampaignRecordType AND Campaign.Job_Board_Cell__c = cellId ]; }"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T07:36:16Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '07:36' and date '2024-06-12'. Network, sound, and battery status icons are visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "LinkedInSlots_ComputeC - Visual Studio Code",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Top bar, sidebar on left, bottom bar with terminal and problems panel, right sidebar with minimap"
+                },
+                "content": [
+                  {
+                    "title": "File Explorer",
+                    "layoutDescription": "Vertical list",
+                    "visibleText": "LinkedInSlots_BatchCoordinat"
+                  },
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Text editor with multiple tabs",
+                    "visibleText": "public class LinkedInSlots_ComputeCellMetricsTests extends JobBoardTestHelper {\n\n\tpublic static void execute() {\n\t\tSystem.assertEqua... (full code visible in screenshot)"
+                  },
+                  {
+                    "title": "Terminal",
+                    "layoutDescription": "Bottom panel",
+                    "visibleText": "Test Results\nLinkedInSlots_ComputeCellMetricsTests.execute() - 11 sec 477 ms\nTests Failed: 1 of 1 tests - 11sec 477ms\nTesting started at 9:35 ...\nUsing connection 'xo-...'"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T07:37:06Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '9:37 AM' and date '06/12/2024'. Network, sound, and battery status icons are visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "LinkedInSlots_ComputeCellMetricsTests",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "menus (File, Edit, View, Go, Run, Terminal, Help), a sidebar with project files, and a status bar showing Git branch, problems count, and a smiley face icon."
+                },
+                "content": [
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Text editor with multiple tabs",
+                    "visibleText": "public class LinkedInSlots_ComputeCellMetricsTests extends JDBoardTestHelper {\n\n public static void setup() {\n JD ad = new JD();\n if (ad.Job_Board_Cell_ID == JD0.f0) {\n ad = a2;\n } else if (ad.Job_Board_Cell_ID == JD0.a2) {\n ad = a2;\n } else if (ad.Job_Board_Cell_ID == JD0.a5) {\n ad = a5;\n }\n }\n\n // Assertions\n System.assertE..."
+                  },
+                  {
+                    "title": "Terminal Output",
+                    "layoutDescription": "Bottom panel showing terminal output",
+                    "visibleText": "Testing started at 9:36 ...\n\nApex log for LinkedInSlots_ComputeCellMetricsTests.execute\n60 APEX_CODE,DEBUG;APEX_PROFILING,INFO;CALLOUT,INFO; (3831529) EXECUTION_STARTED\n09:36:47.3 (3852190) CODE_UNIT_STARTED [EXTERNAL] jobId:0000D0000000000004 [LinkedInSlots_ComputeCellMetricsTests.execute()] (3952042) DML_BEGIN [1]\n09:36:47.3 (3953747) DML_END [1]\n09:36:47.3 (4180709) SOQL_EXECUTE_BEGIN [13] Aggregations:0\n09:36:47.3 (4183973) SOQL_EXECUTE_END [13] Rows:1\n09:36:47.3 (4187073) SOSL_EXECUTE_BEGIN [13] Aggregations:0\n09:36:47.3 (4189073) SOSL_EXECUTE_END [13] Rows:1"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in writing and navigating code within the IntelliJ IDEA IDE. The primary focus is on a project related to LinkedIn slots, specifically working on the 'ComputeCellMetricsBatch' and 'ComputeCellMetricsTests' classes. The user is seen writing methods and assertions, indicating they are implementing and testing functionalities. The code includes various Salesforce-specific elements, such as 'Database.BatchableContext' and 'AggregateResult', suggesting the user is working on backend logic for data processing and analytics.",
+    "The user is also seen running tests within the IDE. The terminal output shows test results for 'LinkedInSlots_ComputeCellMetricsTests.execute()', with one test failing. The user is likely debugging and refining the code to ensure all tests pass. The presence of detailed logs and SOQL queries in the terminal output further supports the focus on backend development and data handling.",
+    "Throughout the session, the user navigates through different files and classes within the project. The file explorer on the left sidebar shows a structured project with various components related to LinkedIn slots, such as 'BatchCoordinator', 'GenerateCampaigns', and 'TextGeneratorTests'. This indicates a comprehensive project structure, and the user is likely working on multiple aspects of the project simultaneously.",
+    "The user is seen making commits to the repository, as indicated by the commit messages and the 'Commit and Push' button in the IDE. This suggests that the user is actively contributing to the codebase, implementing new features, and possibly fixing bugs. The commit messages provide context on the changes being made, such as 'Category jobs support' for the 'OpportunityFields' file.",
+    "The user is utilizing various features of the IntelliJ IDEA IDE, including the code editor, terminal, and file explorer. The IDE's interface shows multiple tabs open, indicating the user is working on several files concurrently. The use of IntelliJ IDEA suggests a preference for a robust development environment that supports advanced coding, debugging, and testing capabilities."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily focused on writing and navigating code, running tests, and making commits within the IntelliJ IDEA IDE. There are no visible AI chat interfaces or interactions with AI tools for code suggestions, debugging, or research. The user's workflow appears to be manual, relying on their coding skills and the features of the IntelliJ IDEA IDE.",
+  "activities": [
+    "WRITING_CODE",
+    "NAVIGATING_CODE"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "TESTS"
+  ],
+  "programmingLanguages": [
+    "SALESFORCE",
+    "SQL"
+  ],
+  "toolTypes": [
+    "IDE"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 100,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 24,
+      "date": "2024-06-12T07:30:00Z",
+      "windowTitle": "sfdx ? ApplicationStagesSingleton",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 5,
+      "mouse": 25,
+      "date": "2024-06-12T07:31:00Z",
+      "windowTitle": "sfdx ? Commit: IsBFQ__c.field-meta...",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 38,
+      "mouse": 33,
+      "date": "2024-06-12T07:32:00Z",
+      "windowTitle": "sfdx ? JobPublishing_ComputeIndirectStatsBatch",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 39,
+      "mouse": 13,
+      "date": "2024-06-12T07:33:00Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 23,
+      "mouse": 35,
+      "date": "2024-06-12T07:34:00Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 31,
+      "mouse": 22,
+      "date": "2024-06-12T07:35:00Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsTests",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 21,
+      "mouse": 42,
+      "date": "2024-06-12T07:36:00Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsTests",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 3,
+      "mouse": 9,
+      "date": "2024-06-12T07:37:00Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsTests",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 3,
+      "mouse": 6,
+      "date": "2024-06-12T07:38:00Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsTests",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 3,
+      "mouse": 24,
+      "date": "2024-06-12T07:39:00Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-12T07:30:00Z"
+}

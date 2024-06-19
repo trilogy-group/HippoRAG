@@ -1,0 +1,350 @@
+{
+  "candidateId": 2027577,
+  "apps": [
+    "Preferences",
+    "app.crossover.com",
+    "docs.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T12:51:04Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Siri, Safari, Mail, Maps, Photos, Messages, FaceTime, Calendar, Contacts, Reminders, Notes, Music, Podcasts, News, TV, System Preferences, Adobe Creative Cloud, Microsoft Word, Excel, PowerPoint, Outlook, OneNote, OneDrive, Teams, Visual Studio Code, Terminal, Docker, WhatsApp, Slack, Zoom, and others. Docked at the bottom of the screen.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "WorkSmart - Google Chrome - Firat (trilogy.com)",
+                "url": "",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, navigation buttons"
+                },
+                "content": [
+                  {
+                    "title": "WorkSmart Dashboard",
+                    "layoutDescription": "Grid layout",
+                    "visibleText": "VIBES4A Announces... 09:02 AM 46 15 The AI Winning Paradig... 09:04 AM 32 10 Edit Email | Eve Coll... 09:04 AM 27 9 Cloud97: Google Cl... 09:04 AM 29 15 GPTS Everything we ... 09:04 AM 77 25 Don'tC1 Underestimat... 09:05 AM 45 14 Edit Email | Eve Coll... 10:00 AM 40 14 Edit Email | Eve Coll... 10:02 AM 44 14 Edit Email | Eve Coll... 10:03 AM 44 14 Edit Email | Eve Coll... 10:04 AM 44 14 Edit Email | Eve Coll... 10:05 AM 44 14 Edit Email | Eve Coll... 10:06 AM 44 14 Edit Email | Eve Coll... 10:07 AM 44 14 Edit Email | Eve Coll... 10:08 AM 44 14 Edit Email | Eve Coll... 10:09 AM 44 14 Edit Email | Eve Coll... 10:10 AM 44 14 Defectory Mail - Pla... 11:28 AM 32 24 Defectory Mail - Pla... 11:29 AM 32 24 Defectory Mail - Pla... 11:30 AM 32 24 Defectory Mail - Pla... 11:31 AM 32 24 Defectory Mail - Pla... 11:32 AM 32 24 Defectory Mail - Pla... 11:33 AM 32 24 Defectory Mail - Pla... 11:34 AM 32 24 Defectory Mail - Pla... 11:35 AM 32 24"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Teams",
+            "windows": [
+              {
+                "title": "June - TPR - worksmart",
+                "position": "bottom right quadrant",
+                "isActive": false,
+                "uiElements": {
+                  "details": "user interface, message input box, navigation pane"
+                },
+                "content": [
+                  {
+                    "title": "Team Chat",
+                    "layoutDescription": "List layout",
+                    "visibleText": "Team Chat Melissa Calls Contact Requests Drafts and Sent More Messages Starred From: Grant (Prod) Recents June - TPR: customer-focused clari... June - TPR: Strategy talk demo June - TPR: thumbnails June - TPR: customer focus From: FEMA Message June - TPR: Strategy talk demo"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T12:55:40Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Notes, Reminders, Photo Booth, Maps, Messages, FaceTime, News, iTunes, iBooks, App Store, System Preferences, Terminal, Trash",
+            "position": "bottom"
+          },
+          {
+            "elementType": "dock",
+            "details": "additional application icons such as Microsoft Teams, Visual Studio Code, and others",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Untitled document - Google Docs - Google Chrome",
+                "url": "https://docs.google.com/document/u",
+                "position": "left to bottom right, maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "menu bar at top with options for File, Edit, View, Insert, Format, Tools, Extensions, Help. Share button at top right. Document editing toolbar below menu bar with options for font type, size, bold, italic, underline, text color, background color, align, line spacing, numbered list, bullet list, indent, outdent, comment, zoom, and more."
+                },
+                "content": [
+                  {
+                    "title": "Q2 Review",
+                    "layoutDescription": "Text document layout",
+                    "visibleText": "Q2 Review\n\nWe had a lot of feedback during Q2 to reach customers, and we learned a lot.\n\n1. Segmenting Customers\n2. Managing User Features and Existing Insights\n3. A new layout of the system dashboard, we analyzed usage and gave feedback like\n - what works, what don't, what should be improved came"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "WorkSmart",
+            "windows": [
+              {
+                "title": "Team Chat - Juve - TPM | WorkSmart",
+                "url": "https://worksmart.com/chat",
+                "position": "left, partially visible",
+                "isActive": false,
+                "uiElements": {
+                  "details": "interface with tabs for Team Chat, Missed Calls, Contact Requests, Drafts and Sent, More. Active tab is Team Chat. Search bar at the top. Message list below with options for Starred, Recent, and Contacts."
+                },
+                "content": [
+                  {
+                    "title": "Team Chat",
+                    "layoutDescription": "Chat application layout",
+                    "visibleText": "Team Chat\n\nMessages\n\n* Starred\n* Recent\n* Contacts\n\nJuve - TPM\n\n* Juve: TPMing daily ask demo\n* Juve: TPMing dashboard\n* Juve: customer focus\n\nFrom: FRM\n\n* Juve: TPMing daily ask demo"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T12:58:58Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Siri, Safari, Mail, Contacts, Calendar, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash",
+            "position": "bottom"
+          },
+          {
+            "elementType": "dock",
+            "details": "application bar with visible icons for WorkSmart, Safari, Mail, Calendar, Contacts, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash, and others. Semi-transparent with a blurred background",
+            "position": "bottom"
+          },
+          {
+            "elementType": "clock",
+            "details": "Shows the current time as 15:58",
+            "position": "top right corner"
+          },
+          {
+            "elementType": "system status icons",
+            "details": "Visible icons include Wi-Fi signal, battery indicator, and Spotlight search",
+            "position": "top right corner"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Untitled document - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "left quadrant of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "bar at the top with options for File, Edit, View, Insert, Format, Tools, Extensions, Help. Share button at the top right corner. Editing mode toggle next to the share button"
+                },
+                "content": [
+                  {
+                    "title": "Q2 Review",
+                    "layoutDescription": "Bulleted list format",
+                    "visibleText": "Q2 Review\n\nWe held a lot of methods during Q2 to reach customers, and we learned a lot.\n\n1. Segmenting Customers\n2. Managing User Features and Educating Insights\n3. Analyze Lots of data generated, look to analyze usage and give feedback like\n - what works,\n - what doesn't work,\n - what should be improved come from these insights, and\n - suggestions.\n4. Preparing Educational Videos\n5. Special Event like the Xmas Meal\n6. Reading Decision Makers Generally\n7. Sending Invitation Mails by X-type People directly"
+                  }
+                ]
+              },
+              {
+                "appName": "WorkSmart",
+                "windows": [
+                  {
+                    "title": "Team Chat",
+                    "position": "bottom left quadrant of the screen",
+                    "isActive": false,
+                    "uiElements": {
+                      "details": "bar at the top with options for Search, Team Chat, Missions, Contact Requests, Drafts and Sent, More. Active tab is Team Chat"
+                    },
+                    "content": [
+                      {
+                        "title": "Team Chat",
+                        "layoutDescription": "Chat interface with messages",
+                        "visibleText": "Team Chat\n\nMissions\nContact Requests\nDrafts and Sent\nMore\n\nMessages\n\n* Starred\n* From: Grant (Prod)\n* Recents\n - Juve - TPM\n - Juve: TPMing daily ask demo\n - Juve: TPMing daily ask demo\n - Juve - customer focused draft...\n - Juve - customer focus\n\nMessage Juve - TPMing daily ask demo\n\nFrom: FIRMA\n\n\"Type 'read' to start.\"\n\"Read meeting notes. Ready.\"\n\"Done, Brian, and Firat added read meeting notices to the\n roadmap.\"\n\"Read synopsis & generated meeting. Venture over to Mail\n to have additional advice & direct mail.\"\n\"Type 'read' to start dialogue, or 'quit' to exit delete meeting\n dialogue.\""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in writing and editing a document titled 'Q2 Review' on Google Docs. The document outlines various methods and insights gained during Q2 to reach customers. The user is adding detailed points about segmenting customers, managing user features, analyzing data, preparing educational videos, and more. This activity is evident from the visible text and the structured format of the document.",
+    "The user is also engaged in team communication via Microsoft Teams. The chat interface shows messages related to 'TPMing daily ask demo' and other team-related discussions. The user is interacting with team members, possibly discussing project updates or clarifications. The chat interface includes options for starred messages, recent messages, and contacts, indicating active participation in team communication.",
+    "The user has multiple tabs open in Google Chrome, including the WorkSmart dashboard and Google Docs. The WorkSmart dashboard displays a grid layout with various tasks and activities, such as 'Edit Email | Eve Coll' and 'Defectory Mail - Pla'. This suggests that the user is managing multiple tasks and projects simultaneously, possibly related to email editing and defect management."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in document editing on Google Docs and team communication on Microsoft Teams. No AI chat interfaces or AI-generated content are visible in the screenshots, indicating that the user is not utilizing AI tools for their workflow during this period.",
+  "activities": [
+    "WRITING_SPEC",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_SPEC",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 6,
+      "mouse": 6,
+      "date": "2024-06-14T12:50:43Z",
+      "windowTitle": " Preferences\n",
+      "processName": "Preferences",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 2,
+      "mouse": 12,
+      "date": "2024-06-14T12:51:43Z",
+      "windowTitle": " WorkSmart - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "app.crossover.com",
+      "visitingUrl": "https://app.crossover.com/x/dashboard/contractor/my-dashboard?date=2024-06-14&activeView=dailyLogbook",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 210,
+      "mouse": 0,
+      "date": "2024-06-14T12:52:43Z",
+      "windowTitle": " Untitled document - Google Docs - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1ucBUHvX8Bkn5NOwSUYt2pBsbYiCkg6bYY7d2toW3q44/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 146,
+      "mouse": 0,
+      "date": "2024-06-14T12:53:43Z",
+      "windowTitle": " Untitled document - Google Docs - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1ucBUHvX8Bkn5NOwSUYt2pBsbYiCkg6bYY7d2toW3q44/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 104,
+      "mouse": 0,
+      "date": "2024-06-14T12:54:43Z",
+      "windowTitle": " Untitled document - Google Docs - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1ucBUHvX8Bkn5NOwSUYt2pBsbYiCkg6bYY7d2toW3q44/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 160,
+      "mouse": 3,
+      "date": "2024-06-14T12:55:43Z",
+      "windowTitle": " Untitled document - Google Docs - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1ucBUHvX8Bkn5NOwSUYt2pBsbYiCkg6bYY7d2toW3q44/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 165,
+      "mouse": 0,
+      "date": "2024-06-14T12:56:43Z",
+      "windowTitle": " Untitled document - Google Docs - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1ucBUHvX8Bkn5NOwSUYt2pBsbYiCkg6bYY7d2toW3q44/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 92,
+      "mouse": 1,
+      "date": "2024-06-14T12:57:43Z",
+      "windowTitle": " Untitled document - Google Docs - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1ucBUHvX8Bkn5NOwSUYt2pBsbYiCkg6bYY7d2toW3q44/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 66,
+      "mouse": 0,
+      "date": "2024-06-14T12:58:43Z",
+      "windowTitle": " Untitled document - Google Docs - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1ucBUHvX8Bkn5NOwSUYt2pBsbYiCkg6bYY7d2toW3q44/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 14,
+      "mouse": 0,
+      "date": "2024-06-14T12:59:43Z",
+      "windowTitle": " Untitled document - Google Docs - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1ucBUHvX8Bkn5NOwSUYt2pBsbYiCkg6bYY7d2toW3q44/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-14T12:50:00Z"
+}

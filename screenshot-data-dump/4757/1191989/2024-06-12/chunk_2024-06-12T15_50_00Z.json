@@ -1,0 +1,202 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "docs.google.com",
+    "meet.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T15:53:15Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, widgets, and several pinned applications including Edge, Chrome, and others. System tray includes network, sound, and clock icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - mns-wkxc-dga - Google Chrome",
+                "url": "meet.google.com/mns-wkxc-dga",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, extensions icons, and profile icon"
+                },
+                "content": [
+                  {
+                    "title": "Video Conference",
+                    "layoutDescription": "Grid layout of participant videos",
+                    "visibleText": "Simon Said\nPhil Hewinson\nDavid's Assistant\nAndy Price\nBogdan Tenea\nDavid Harpur\nSamy Aboel-Nil\nIsaac Squires"
+                  },
+                  {
+                    "title": "In-call messages",
+                    "layoutDescription": "Sidebar with chat messages",
+                    "visibleText": "Unless they're pinned, messages can only be seen by people in the call when the message is sent. All messages are deleted when the call ends.\n\nDavid's Assistant 9:31 AM\nDavid and Shawn added read.ai meeting notes to the meeting (recording enabled).\n\nRead will generate a transcript of this meeting.\nReview our Terms of Service at https://read.ai/tos and Privacy Policy at https://read.ai/pp.\n\nType 'read stop' to disable, or 'opt out' to delete meeting data.\n\nView Privacy Policy: https://www.read.ai/pp\n\nPhil Hewinson 9:46 AM\nhttps://docs.google.com/document/d/1wRJCIDXbF 9:47 AM\nhttps://docs.google.com/spreadsheets/d/1r912L"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is participating in a video conference on Google Meet. The meeting includes multiple participants, and the user is actively engaged in the discussion. The in-call messages sidebar shows that meeting notes are being added by David's Assistant, and there are links to Google Docs and Google Sheets shared by Phil Hewinson and another participant. The meeting appears to be focused on the Q3 Budget for PBM1 at GT School.",
+    "The user is also viewing a Google Docs document, as indicated by the shared link in the in-call messages. This document likely contains important information or specifications related to the meeting's agenda. The user is actively following the discussion and referencing the shared document to stay aligned with the meeting's objectives."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a video conference and referencing shared documents. No interactions with AI tools or AI-generated content are visible.",
+  "activities": [
+    "MEETING",
+    "READING_SPEC"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 4,
+      "date": "2024-06-12T15:50:45Z",
+      "windowTitle": "LearnWith.ai Q3 2024 Budget Update - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1wRJiCDXbFF0pR2cSKCtEeEa5BQWZFem1vLqOqLAI2ic/edit#heading=h.vbhqvcs88jdp",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-12T15:51:45Z",
+      "windowTitle": "Meet - mns-wkxc-dga - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/mns-wkxc-dga?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T15:52:45Z",
+      "windowTitle": "Meet - mns-wkxc-dga - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/mns-wkxc-dga?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T15:53:45Z",
+      "windowTitle": "Meet - mns-wkxc-dga - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/mns-wkxc-dga?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T15:54:45Z",
+      "windowTitle": "Meet - mns-wkxc-dga - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/mns-wkxc-dga?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T15:55:45Z",
+      "windowTitle": "Meet - mns-wkxc-dga - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/mns-wkxc-dga?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T15:56:45Z",
+      "windowTitle": "Meet - mns-wkxc-dga - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/mns-wkxc-dga?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T15:57:45Z",
+      "windowTitle": "Meet - mns-wkxc-dga - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/mns-wkxc-dga?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T15:58:45Z",
+      "windowTitle": "Meet - mns-wkxc-dga - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/mns-wkxc-dga?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T15:59:45Z",
+      "windowTitle": "Meet - mns-wkxc-dga - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/mns-wkxc-dga?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-12T15:50:00Z"
+}

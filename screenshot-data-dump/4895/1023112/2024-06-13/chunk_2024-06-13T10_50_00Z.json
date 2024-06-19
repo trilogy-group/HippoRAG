@@ -1,0 +1,215 @@
+{
+  "candidateId": 2027577,
+  "apps": [
+    "app.apollo.io",
+    "mail.google.com",
+    "docs.google.com",
+    "central-supportdesk.zendesk.com",
+    "spark.pentanasolutions.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-13T10:50:51Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Outlook, Adobe Acrobat, and other unidentified applications. Also includes the system clock showing the time as 10:50 AM and date as June 13, 2024.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Hello Tess and William, Thanks for Reading My Last Email!",
+                "url": "https://mail.google.com/mail/u/0/#inbox",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Email interface with navigation pane on the left, main content in the center, and a right sidebar"
+                },
+                "content": [
+                  {
+                    "title": "Email Content",
+                    "layoutDescription": "Standard email layout",
+                    "visibleText": "Hello Tess and William,\n\nFred Grint <fred.grint@apollo.io>\n\nWed, Jun 13, 2024, 10:30 AM (6 days ago)\n\nHello Tess and William,\n\nI appreciate you both taking the time to read my previous email about our new initiative OptiCell. I wanted to personally reach you and thank you for your previous high usage of OptiCell as well.\n\nHere is My Pitch\n\nSince you've last visited the site, but you are not using it anymore, I would be very happy to hear any thoughts or questions you might have. Feel free to reply to this email or book a meeting through my Calendly at william.taylor@closebrothers.com.\n\nData Privacy Assurance\n\nWe've addressed data privacy concerns from other customers, ensuring full transparency. These video options have no handle your data policies; we don't keep anything. It's also very useful for collaboration on government and public projects.\n\nAdditional Resources\n\nAs promised, here is another useful short video (less than 1 minute, literally 45 seconds) regarding HR & Summative Information in Documents with OptiCell.\n\nYour feedback is incredibly important to us. If you have any thoughts on OptiCell or the initiative, please share. It will help us better understand how we can support you and others in the community.\n\nLooking forward to working together to make OptiCell a valuable tool for your team.\n\nBest regards,\n\nFred"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-13T10:55:58Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned and running applications",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Jive Admin Console : User Summary: Candice.Hendoro - Part of group Jive - Google Chrome",
+                "url": "https://part.jivex.com/admin/users",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and multiple extension icons"
+                },
+                "content": [
+                  {
+                    "title": "User Summary: Candice.Hendoro",
+                    "layoutDescription": "Detailed user information form",
+                    "visibleText": "User Properties for Candice Hendoro\nFirst Name: Candice\nLast Name: Hendoro\nEmail: candice.hendoro@trilogy.com\nUsername: Candice\nUser ID: 5946\nActivated: Yes\nFederation ID: (empty)\nExternal Identities: 0\n\nUser Groups\nAuthor, Change Permissions Group, Author Change Permissions Group, Author Change Permissions Group, Ghost, Quality Admin, Editor, Jive Users, Peach and Bottom Jeans, Admin, Author, Super Admin, Content Admin, Read-Only, Community Admin, Author, News, Mobile Content Editor, South America, North America, EMEA, APAC\n\nActivity\nLast Activity: 12-Jun-2024 16:33\nMember Since: 03-Dec-2013\nName Visibility: Everyone\nInternal Visibility: Everyone\nUser Type: Standard\nTitle: Communications and Events Coordinator\nDepartment: Health & Welfare\nPhone Number: (empty)\nLocation: Mount Waverley"
+                  },
+                  {
+                    "title": "Your Single Identity",
+                    "layoutDescription": "Information about user's single identity",
+                    "visibleText": "Single ID: outlast - Outmatch"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in email communication, as evidenced by the Gmail interface open in the first screenshot. The email is addressed to Tess and William, discussing a new initiative called OptiCell. The user is thanking them for their previous high usage of OptiCell and providing additional resources and a video link. The email also includes a request for feedback and a meeting invitation via Calendly.",
+    "The user is also working within the Apollo.io application, as seen in both screenshots. The first screenshot shows the user viewing contact information for a company named Close Brothers. The details include contact information, engagement metrics, and company overview. This indicates that the user is likely involved in sales or customer relationship management activities.",
+    "In the second screenshot, the user is accessing the Jive Admin Console to view the user summary for an individual named Candice Hendoro. The detailed user information includes personal details, user groups, activity history, and other administrative data. This suggests that the user is performing administrative or support tasks, possibly related to user management or system administration.",
+    "Throughout the captured period, the user is consistently using Google Chrome to navigate between different web applications and perform various tasks. This includes managing emails, accessing customer relationship management tools, and handling administrative tasks in the Jive Admin Console."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in email communication, customer relationship management, and administrative tasks without any visible interaction with AI tools or assistants.",
+  "activities": [
+    "EMAIL",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "EMAIL",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 7,
+      "date": "2024-06-13T10:50:44Z",
+      "windowTitle": " Will Taylor - Apollo - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "app.apollo.io",
+      "visitingUrl": "https://app.apollo.io/#/contacts/666acedc13f82b06873e1280",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 2,
+      "mouse": 0,
+      "date": "2024-06-13T10:51:44Z",
+      "windowTitle": " Will Taylor - Apollo - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "app.apollo.io",
+      "visitingUrl": "https://app.apollo.io/#/contacts/666acedc13f82b06873e1280",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 4,
+      "date": "2024-06-13T10:52:44Z",
+      "windowTitle": " Hope you enjoyed my last e-mail Rupert! - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.7 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#sent/FMfcgzQVwwwNdtSpVMxxHvMsrjPwvMXw",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 1,
+      "mouse": 13,
+      "date": "2024-06-13T10:53:44Z",
+      "windowTitle": " Jive Cloud CoPilot - Outreach - Google Sheets - Part of group Jive CoPilot - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/spreadsheets/d/1-RRgVkDpEa_z6PnSiqqKllWiAWX2os3OAmuDttJ_oNA/edit?pli=1#gid=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 59,
+      "mouse": 12,
+      "date": "2024-06-13T10:54:44Z",
+      "windowTitle": " Search: Pentana Solutions â Central Support â Zendesk - High memory usage - 954 MB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "central-supportdesk.zendesk.com",
+      "visitingUrl": "https://central-supportdesk.zendesk.com/agent/search/1",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 29,
+      "mouse": 11,
+      "date": "2024-06-13T10:55:44Z",
+      "windowTitle": " Google Chrome\n",
+      "processName": "spark.pentanasolutions.com",
+      "visitingUrl": "https://spark.pentanasolutions.com/admin/user-search.jspa?start=0&sort=&query=candice&usernameEnabled=true&__checkbox_usernameEnabled=true&nameEnabled=true&__checkbox_nameEnabled=true&emailEnabled=true&__checkbox_emailEnabled=true&includeDisabled=true&__c",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 44,
+      "mouse": 11,
+      "date": "2024-06-13T10:56:44Z",
+      "windowTitle": " Jive Admin Console : User Profiles - Part of group Jive - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "spark.pentanasolutions.com",
+      "visitingUrl": "https://spark.pentanasolutions.com/admin/user-search.jspa?start=0&sort=&query=anca&usernameEnabled=true&__checkbox_usernameEnabled=true&nameEnabled=true&__checkbox_nameEnabled=true&emailEnabled=true&__checkbox_emailEnabled=true&includeDisabled=true&__chec",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 30,
+      "mouse": 9,
+      "date": "2024-06-13T10:57:44Z",
+      "windowTitle": " Jive Admin Console : User Profiles - Part of group Jive - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-13T10:50:00Z"
+}

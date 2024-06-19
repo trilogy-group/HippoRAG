@@ -1,0 +1,210 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "Zoom"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-11T13:11:04Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Mute, Stop Video, Participants, Chat, Share Screen, Record, Show Captions, Reactions, Apps, Notes, and a Leave button",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Zoom Meeting",
+            "windows": [
+              {
+                "title": "Zoom Meeting",
+                "url": "",
+                "position": "fullscreen",
+                "isActive": true,
+                "highlightedElement": "indicator at top left, View options at top right, and a toolbar at the bottom with various controls",
+                "content": [
+                  {
+                    "title": "Video Conference Participants",
+                    "layoutDescription": "Four video feeds displayed",
+                    "visibleText": "Simon Said\nIsaac Squires\nPhil Hewinson\nSamy Aboel-Nil"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Zoom",
+            "windows": [
+              {
+                "title": "Zoom Meeting",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "indicator at top left, View options at top right, and a toolbar at the bottom with various controls"
+                },
+                "content": [
+                  {
+                    "title": "Video Conference Participants",
+                    "layoutDescription": "Four video feeds displayed",
+                    "visibleText": "Simon Said\nIsaac Squires\nPhil Hewinson\nSamy Aboel-Nil"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Zoom meeting, as evidenced by the screenshot showing the Zoom application in full-screen mode. The meeting includes four participants: Simon Said, Isaac Squires, Phil Hewinson, and Samy Aboel-Nil. The Zoom interface displays various controls such as Mute, Stop Video, Participants, Chat, Share Screen, Record, Show Captions, Reactions, Apps, Notes, and a Leave button. The meeting appears to be in progress, with the recording indicator active at the top left of the screen.",
+    "The detailed analysis of the screenshot indicates that the user is actively participating in a video conference. The Zoom meeting window is the only application visible and active during this timeframe. The participants are engaged in a discussion, as indicated by their focused expressions and the presence of the recording indicator. The toolbar at the bottom of the Zoom window provides various options for interacting with the meeting, but no specific actions such as screen sharing or chatting are visible in the screenshot."
+  ],
+  "aiUseSummary": "",
+  "activities": [
+    "MEETING"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 100,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T13:10:56Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T13:11:56Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T13:12:56Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T13:13:56Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T13:14:56Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T13:15:56Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T13:16:56Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T13:17:56Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T13:18:56Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T13:19:56Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-11T13:10:00Z"
+}

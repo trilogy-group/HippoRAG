@@ -1,0 +1,316 @@
+{
+  "candidateId": 1444536,
+  "apps": [
+    "chrome",
+    "mail.google.com",
+    "ws-lambda.atlassian.net",
+    "crossover--fullshared.sandbox.lightning.force.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T08:02:29Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, File Explorer, and other unidentified applications. System clock shows 09:02:31 on 14/06/2024. Language setting is English (ENG). Network status icon indicates connectivity. Speaker icon is visible. Battery status is not visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Inbox (29) - dmitrii.shutenkov@trilogy.com - DevFactory Mail",
+                "url": "mail.google.com/mail/u/0/#inbox",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Standard Gmail interface with navigation pane on the left, main email list in the center, and Google apps and user account details on the right"
+                },
+                "content": [
+                  {
+                    "title": "Email List",
+                    "layoutDescription": "List of emails displayed in center",
+                    "visibleText": "Isabelle A. (Jira) LAMBDA-76089 Veriff Error - ---------- Isabelle A. (Jira) [JIRA] Isabelle A. mentioned you on... Dragos, me, Ben 14 Re: Crossover and Google - Hey Everyone, Ho... Isabelle A. (Jira) [JIRA] Isabelle A. mentioned you on LAMBDA... Dragos, Isabelle 2 Re: Moving candidate to Identity Check - Ple... Read Assistant Demo Day on June 13, 2024 at 12:30 PM | ... Dragos Nuta Updated invitation: XO Check-in @ Wed Jun ... Notes - XO Che... Dragos Nuta Updated invitation: XO Check-in @ Tue Jun 1... Notes - XO Che... Dragos Nuta Updated invitation: XO Check-in @ Mon Jun ... Notes - XO Che..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Word",
+            "windows": []
+          },
+          {
+            "appName": "Microsoft Excel",
+            "windows": []
+          },
+          {
+            "appName": "Microsoft PowerPoint",
+            "windows": []
+          },
+          {
+            "appName": "File Explorer",
+            "windows": []
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T08:04:22Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, Outlook, and other unidentified applications. Displays the date and time as '14/06/2024' and the time '09:04:24'. Language set to 'ENG'. Network status icon visible. Speaker volume icon visible. Battery status icon indicates charging.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "My Tasks - WorkSmart Lambda - Google Chrome",
+                "url": "https://ws-lambda.atlassian.net/jira",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs for 'Inbox', 'Home | Salesforce', 'New Tab', and others. Address bar visible with URL. Bookmark bar with links to 'SF Prod', 'SF Sandbox', 'ADFS', 'My Tasks', 'Crossover Sprints', 'Create Task', 'Technical Debt - Crossover', 'Guides - Crossover...', 'WS.Eng TPO: Leadership...', 'Task Catalog'. Navigation buttons, refresh button, star button for favorites, profile icon with a user's image, and notification bell with a red badge showing '9+' notifications."
+                },
+                "content": [
+                  {
+                    "title": "Tasks Pending Approval",
+                    "layoutDescription": "List format",
+                    "visibleText": "Tasks Pending Approval\nT Key Summary P Category - Task Type Epic Link Delivered at\nLAMBDA-75521 Regrade Coding Score assessments Engineering - Story 6/3/2024 2:49:00 PM\nLAMBDA-75845 Sign-up without applying for a specific job Engineering - Story 6/10/2024 10:52:00 AM\nLAMBDA-75972 Update Beginner Mind badge based on feedback Engineering - Story 6/12/2024 8:41:00 AM\nLAMBDA-76046 Create QuickSight dashboard for Retargeting V2 Engineering - Story Yesterday 8:01:00 AM\n1-4 of 4 issues"
+                  },
+                  {
+                    "title": "Filters",
+                    "layoutDescription": "List and dropdown format",
+                    "visibleText": "Filters\nHide Blocked Epics Epic Plans Customer Requests"
+                  },
+                  {
+                    "title": "My Open Tasks",
+                    "layoutDescription": "List format",
+                    "visibleText": "My Open Tasks\nT Key Summary P Status Category - Task Type Epic Link Product"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T08:07:30Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, File Explorer, Google Chrome, and other unidentified applications. Displays the system clock showing '09:07:32' and date '14/06/2024'. Language set to 'ENG'. Network status icon visible. Battery status icon showing power mode 'PRE'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Application Step Pipeline Mappings | Salesforce",
+                "url": "https://crossover--fullshared",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "UI includes back and forward navigation buttons, refresh button, home button, URL bar, bookmarks bar, tabs, and user profile icon. Extensions visible include Salesforce inspector and others."
+                },
+                "content": [
+                  {
+                    "title": "CROSSOVER",
+                    "layoutDescription": "banner",
+                    "visibleText": "CROSSOVER"
+                  },
+                  {
+                    "title": "XO Recruiting",
+                    "layoutDescription": "Navigation menu",
+                    "visibleText": "XO Recruiting Home Candidates Applications Application Step Results Application Steps Campaigns Pipelines Identity Proofs Application Step Pipeline Mappings Tasks Calendar More"
+                  },
+                  {
+                    "title": "Pipelines > Software Engineering",
+                    "layoutDescription": "Sub-navigation",
+                    "visibleText": "Pipelines > Software Engineering"
+                  },
+                  {
+                    "title": "Application Steps",
+                    "layoutDescription": "Main content area",
+                    "visibleText": "Application Steps 1 item selected Application Step Pipeline Mapping Name 1 SMQ - 5077 - Engineering SignUp Pipeline Test - Using Generative AI FRQ - 5077 - Engineering SignUp Pipeline Test - AI Beginner Mind Application Step Using Generative AI AI Beginner Mind Proctoring None None Pass Threshold 30% 50% Desired Proficiency Basic Beginner Reject Threshold 30% 50% Minimum Proficiency Basic Beginner"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user starts by checking their email on Gmail. The inbox shows multiple emails, including mentions from Jira and updates from colleagues. The user is likely prioritizing tasks and gathering information from these emails. The calendar on the right side indicates the user is planning their day.",
+    "Next, the user navigates to Jira on the ws-lambda.atlassian.net domain. The dashboard displays tasks pending approval, including stories related to coding score assessments, job sign-ups, and dashboard creation. The user is likely reviewing these tasks to understand their status and determine the next steps.",
+    "The user then moves to Salesforce on the crossover--fullshared.sandbox.lightning.force.com domain. They are viewing the 'Application Step Pipeline Mappings' page, which lists different engineering sign-up pipeline tests. The user is likely managing or reviewing these application steps, focusing on the use of generative AI and beginner mindsets in the engineering sign-up process."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily interacting with Gmail, Jira, and Salesforce without any visible AI assistance or chat interfaces. Therefore, no AI interactions or impacts on productivity can be inferred from the current data.",
+  "activities": [
+    "EMAIL",
+    "REVIEWING_CODE",
+    "READING_SPEC"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "UI"
+  ],
+  "programmingLanguages": [
+    "SALESFORCE"
+  ],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "REVIEWING_CODE",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-14T08:00:23Z",
+      "windowTitle": "New Tab - Google Chrome",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 5,
+      "date": "2024-06-14T08:01:23Z",
+      "windowTitle": "Inbox (34) - dmitrii.shutenkov@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-14T08:02:23Z",
+      "windowTitle": "Inbox (29) - dmitrii.shutenkov@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T08:03:23Z",
+      "windowTitle": "Inbox (29) - dmitrii.shutenkov@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-14T08:04:23Z",
+      "windowTitle": "My Tasks - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/jira/dashboards/10058",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-14T08:05:23Z",
+      "windowTitle": "Home | Salesforce - Google Chrome",
+      "processName": "crossover--fullshared.sandbox.lightning.force.com",
+      "visitingUrl": "crossover--fullshared.sandbox.lightning.force.com/lightning/page/home",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 6,
+      "mouse": 11,
+      "date": "2024-06-14T08:06:23Z",
+      "windowTitle": "Application Step Pipeline Mappings | Salesforce - Google Chrome",
+      "processName": "crossover--fullshared.sandbox.lightning.force.com",
+      "visitingUrl": "crossover--fullshared.sandbox.lightning.force.com/lightning/r/Product2/01tF3000006EIKEIA4/related/Application_Step_Pipeline_Mappings__r/view",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T08:07:23Z",
+      "windowTitle": "Application Step Pipeline Mappings | Salesforce - Google Chrome",
+      "processName": "crossover--fullshared.sandbox.lightning.force.com",
+      "visitingUrl": "crossover--fullshared.sandbox.lightning.force.com/lightning/r/Product2/01tF3000006EIKEIA4/related/Application_Step_Pipeline_Mappings__r/view",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-14T08:08:23Z",
+      "windowTitle": "My Tasks - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/jira/dashboards/10058",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-14T08:09:23Z",
+      "windowTitle": "My Tasks - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/jira/dashboards/10058",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-14T08:00:00Z"
+}

@@ -1,0 +1,282 @@
+{
+  "candidateId": 1444536,
+  "apps": [
+    "cmd",
+    "LockApp"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T13:20:20Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Microsoft Edge, File Explorer, Microsoft Store, and system tray with network, sound, and date/time indicators",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Command Prompt",
+            "windows": [
+              {
+                "title": "Administrator: Command Prompt",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Command output on a black background with white and green text"
+                },
+                "content": [
+                  {
+                    "title": "Command Prompt Output",
+                    "layoutDescription": "Textual output displayed in a command-line interface",
+                    "visibleText": "Collecting rsas>=3.1.4 (from google-auth>=12.0.0->gspread)\nUsing cached rsa-4.9-py3-none-any.whl (38.4 kB)\nCollecting requests-oauthlib>=0.7.0 (from google-auth>=12.0.0->gspread)\nDownloading requests_oauthlib-2.0.0-py2.py3-none-any.whl (24 kB)\nCollecting pyasn1-modules>=0.2.1 (from google-auth>=12.0.0->gspread)\nDownloading pyasn1-0.6.0-py2.py3-none-any.whl (85 kB)\nCollecting oauthlib>=3.0.0 (from requests-oauthlib>=0.7.0->google-auth>=12.0.0->gspread)\nDownloading oauthlib-3.2.2-py3-none-any.whl (151 kB)\nRequirement already satisfied: requests>=2.0.0 in c:\\users\\xouser\\projects\\tools\\campaign-trac (from google-auth>=12.0.0->gspread)\nRequirement already satisfied: charset-normalizer>=2 in c:\\users\\xouser\\projects\\tools\\campaign-trac (from google-auth>=12.0.0->gspread)\nRequirement already satisfied: idna<4,>=2.5 in c:\\users\\xouser\\projects\\tools\\campaign-trac (from google-auth>=12.0.0->gspread)\nInstalling collected packages: pyasn1, oauthlib, cachetools, rsa, requests-oauthlib, pyasn1-modules, google-auth, google-auth-oauthlib, gspread\nSuccessfully installed cachetools-5.3.3 google-auth-2.30.0 google-auth-oauthlib-1.12.0 gspread-6.1.2 oauthlib-3.2.2 pyasn1-0.6.0 pyasn1-modules-0.4.0 requests-oauthlib-2.0.0 rsa-4.9\n[notice] A new release of pip is available: 23.1.2 -> 24.0\nTo update, run: python.exe -m pip install --upgrade pip"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T13:24:28Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Microsoft Edge, File Explorer, Microsoft Store, and system tray with network, sound, and date/time indicators",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Command Prompt",
+            "windows": [
+              {
+                "title": "Administrator: Command Prompt",
+                "position": "maximized",
+                "isActive": true,
+                "highlightedElement": "Command output on a black background with white and green text",
+                "uiElements": {
+                  "details": "Command output"
+                },
+                "content": [
+                  {
+                    "title": "Command Prompt Output",
+                    "layoutDescription": "Textual output",
+                    "visibleText": "Collecting rsas>=3.1.4 (from google-auth>=1.12.0->gspread)\nUsing cached rsa-4.9-py3-none-any.whl (84 kB)\nCollecting requests-oauthlib>=0.7.0 (from google-auth>=0.4.1->gspread)\nDownloading requests_oauthlib-2.0.0-py2.py3-none-any.whl (24 kB)\nCollecting pyasn1>=0.6.0-py2.py3-none-any.whl (85 kB)\nCollecting oauthlib>=3.0.0 (from requests-oauthlib>=0.7.0->google-auth>=0.4.1->gspread)\nDownloading oauthlib-3.2.2-py3-none-any.whl (151 kB)\nRequirement already satisfied: requests>=2.0.0 in c:\\users\\xouser\\projects\\tools\\campaign-trac (from requests-oauthlib>=0.7.0->google-auth>=0.4.1->gspread) (3.3.2)\nRequirement already satisfied: charset-normalizer>=2 in c:\\users\\xouser\\projects\\tools\\campaign-trac (from requests>=2.0.0->requests-oauthlib>=0.7.0->google) (2.0.0)\nRequirement already satisfied: idna<4,>=2.5 in c:\\users\\xouser\\projects\\tools\\campaign-trac (from requests>=2.0.0->requests-oauthlib>=0.7.0->google) (3.7)\nRequirement already satisfied: urllib3<1.27,>=1.21.1 in c:\\users\\xouser\\projects\\tools\\campaign-trac (from requests>=2.0.0->requests-oauthlib>=0.7.0->google) (2.2.1)\nRequirement already satisfied: oauthlib>=0.7.0->google-auth>=0.4.1->gspread) (2024.6.2)\nInstalling collected packages: pyasn1, oauthlib, cachetools, rsa, requests-oauthlib, pyasn1-modules, google-auth, google-auth-oauthlib, gspread\nSuccessfully installed cachetools-5.3.3 google-auth-2.30.0 google-auth-oauthlib-1.12.0 gspread-6.1.2 oauthlib-3.2.2 pyasn1-1.0.6 pyasn1-modules-0.4.0 requests-oauthlib-2.0.0 rsa-4.9\n[notice] A new release of pip is available: 23.1.2 -> 24.0\nTo update, run: python.exe -m pip install --upgrade pip"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T13:27:18Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for network status, sound volume, and battery level",
+            "position": "bottom right"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Windows Default Lock Screen",
+            "windows": [
+              {
+                "title": "Windows Default Lock Screen",
+                "position": "full screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "image of a landscape with a windmill, clouds, and fields"
+                },
+                "content": [
+                  {
+                    "title": "Time and Date Display",
+                    "layoutDescription": "Centered large text",
+                    "visibleText": "14:27\nFriday 14 June"
+                  },
+                  {
+                    "title": "Weather Widget",
+                    "layoutDescription": "Top left corner",
+                    "visibleText": "São Martinho\n22°C\nMostly cloudy\n22° / 14°\nSee full forecast"
+                  },
+                  {
+                    "title": "Market Indices Widget",
+                    "layoutDescription": "Bottom left corner",
+                    "visibleText": "Markets\nFTSE 100 -0.12% 8,153.64\nFTSE 250 -0.30% 20,135.86\nFTSE 350 -0.15% 4,486.28\nSee more in markets"
+                  },
+                  {
+                    "title": "Traffic Widget",
+                    "layoutDescription": "Bottom right corner",
+                    "visibleText": "Traffic near you\nSão Martinho\nLight traffic\nSee more traffic updates"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively working in the Command Prompt, as evidenced by the maximized Command Prompt window displaying command output. The user is installing various Python packages, including rsa, requests-oauthlib, pyasn1-modules, oauthlib, and gspread. The installation process involves downloading and installing these packages, with the command output showing the progress and completion of the installations. The user is also informed about a new release of pip and the command to update it.",
+    "The user’s computer screen also shows the Windows Default Lock Screen at 14:27, indicating a brief period of inactivity or a locked screen. The lock screen displays the current time and date, weather information for São Martinho, market indices, and local traffic updates. This suggests that the user might have stepped away from their computer or locked it temporarily."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily working in the Command Prompt and there are no visible interactions with AI tools or AI chat interfaces.",
+  "activities": [
+    "WRITING_CODE"
+  ],
+  "workTypes": [
+    "BACKEND"
+  ],
+  "programmingLanguages": [
+    "PYTHON"
+  ],
+  "toolTypes": [
+    "DEVELOPMENT_UTILITIES"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T13:20:25Z",
+      "windowTitle": "Administrator: Command Prompt",
+      "processName": "cmd",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T13:21:25Z",
+      "windowTitle": "Administrator: Command Prompt",
+      "processName": "cmd",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T13:22:25Z",
+      "windowTitle": "Administrator: Command Prompt",
+      "processName": "cmd",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T13:23:25Z",
+      "windowTitle": "Administrator: Command Prompt",
+      "processName": "cmd",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T13:24:25Z",
+      "windowTitle": "Administrator: Command Prompt",
+      "processName": "cmd",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T13:25:25Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T13:26:25Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T13:27:25Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T13:28:25Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T13:29:25Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-14T13:20:00Z"
+}

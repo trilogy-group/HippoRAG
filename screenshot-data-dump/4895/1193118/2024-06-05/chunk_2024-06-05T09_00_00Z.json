@@ -1,0 +1,437 @@
+{
+  "candidateId": 2368956,
+  "apps": [
+    "Google Chat",
+    "upwork.com",
+    "dev.postbeyonddev.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T09:02:03Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a docked application bar with visible icons for Google Chrome, Slack, Microsoft Outlook, and a folder named 'Work'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Influitive Challenge Creation Consultancy - Customer Service & Tech Support",
+                "url": "https://www.upwork.com/ab/jobs/se",
+                "position": "left",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Close Job popup visible"
+                },
+                "content": [
+                  {
+                    "title": "Close Job",
+                    "layoutDescription": "Popup window",
+                    "visibleText": "Late to close this job? We keep applications and notify current applicants. Those you have hired will continue working.\n\nHow to close this job:\n\n- Job completed or completed skills\n- Project not necessary\n- Prefer to hire someone else\n- Not actively hiring\n- Accidental job posting mistake\n\nCancel Yes, Close Job"
+                  }
+                ]
+              },
+              {
+                "title": "Influitive Challenge Creation Consultancy",
+                "position": "center",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Main window"
+                },
+                "content": [
+                  {
+                    "title": "Influitive Challenge Creation Consultancy",
+                    "layoutDescription": "Main window",
+                    "visibleText": "Customer Service & Tech Support\n\nJob Description\n\nThis job involves creating challenges for a software platform that engages users in various activities. The job requires a strong understanding of customer service and technical support to ensure the challenges are appropriate and engaging for users.\n\nSkills and Expertise\n\n- Customer Service\n- Technical Support\n- Challenge Creation\n- Engagement Strategies\n- Software Platform Knowledge"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T09:05:11Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. System tray visible with clock showing '9:05 AM' and date '6/5/2024'. Network, sound, and battery status icons present.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "My Feed – PostBeyond",
+                "url": "https://app.postbeyond.com/Feed",
+                "position": "left",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Navigation bar with PostBeyond logo, search bar, user profile icon, and menu icons"
+                },
+                "content": [
+                  {
+                    "title": "My Feed",
+                    "layoutDescription": "List of posts with titles, engagement stats",
+                    "visibleText": "1. Apple - iOS 14 Launch - 5 Essential Tips\n2. Apple - Sustainability & Climate Change Pledge\n3. Apple - Innovation in Detail\n4. Apple - Privacy: How We Protect You\n5. Apple - Today at Apple\n6. Apple - Join Us: Apple October Event\n7. Apple - Developer Update: New API\n8. Apple - Today at Apple\n9. Apple - Join Us: Apple October Event\n10. Apple - Developer Update: New API"
+                  }
+                ]
+              },
+              {
+                "title": "Marketing Email",
+                "url": "https://mail.google.com/mail/u/0/#inbox",
+                "position": "right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Gmail interface with navigation panel, search bar, settings icon, and user profile icon"
+                },
+                "content": [
+                  {
+                    "title": "Inbox",
+                    "layoutDescription": "Email list with subject, sender, date, and snippet",
+                    "visibleText": "Subject: Team Update - Q4 Goals\nFrom: Sarah Connor\nDate: June 4, 2024\nSnippet: 'Looking forward to our Q4 goals meeting tomorrow. Please review the attached documents.'\n\nSubject: Project Phoenix Update\nFrom: John Doe\nDate: June 3, 2024\nSnippet: 'Project Phoenix is progressing well. We've completed the initial phases and are on track for the next steps.'"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T09:07:44Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a docked application bar with visible icons for Google Chrome, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Adobe Photoshop, and other unidentified applications.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "My Feed – PostBeyond",
+                "url": "https://app.postbeyond.com/feed",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and multiple extension icons including an ad blocker and a cloud storage service."
+                },
+                "content": [
+                  {
+                    "title": "My Feed – PostBeyond",
+                    "layoutDescription": "Web page layout",
+                    "visibleText": "Top navigation bar with options for Home, Content, Leaderboard, and Settings. Main content area displays various posts with titles such as 'AI in Marketing: How Automation Helps Personalize Customer Interactions' and 'The Future of Retail: Technology Driven Customer Experiences'. Each post includes a thumbnail image, title, description, and options to view details or share."
+                  }
+                ]
+              },
+              {
+                "title": "Marketing Email",
+                "url": "https://mail.google.com/mail/u/0/#inbox",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and multiple extension icons including an ad blocker and a cloud storage service."
+                },
+                "content": [
+                  {
+                    "title": "Marketing Email",
+                    "layoutDescription": "Email client layout",
+                    "visibleText": "Email list with columns for Star, Sender, Subject, Date, and Snippet. Visible emails include subjects like 'Update on Q4 Goals', 'New Marketing Strategy Discussion', and 'Weekly Analytics Report'. The selected email is open, showing details of a marketing campaign with statistics such as open rate, click rate, and total recipients."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Gmail",
+            "windows": [
+              {
+                "title": "Gmail",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and multiple extension icons including an ad blocker and a cloud storage service."
+                },
+                "content": [
+                  {
+                    "title": "Gmail",
+                    "layoutDescription": "Email client layout",
+                    "visibleText": "Email list with columns for Star, Sender, Subject, Date, and Snippet. Visible emails include subjects like 'Team Meeting Reminder', 'Project Update', and 'Client Feedback Request'. The selected email is open, showing a conversation about project timelines and deliverables."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Finder",
+            "windows": [
+              {
+                "title": "Finder",
+                "position": "window likely minimized or hidden behind other applications.",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Finder application likely minimized or hidden behind other applications."
+                },
+                "content": [
+                  {
+                    "title": "Finder",
+                    "layoutDescription": "File explorer layout",
+                    "visibleText": "TEXT TOO BLURRY"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Word",
+            "windows": [
+              {
+                "title": "Microsoft Word",
+                "position": "hidden",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Word application likely minimized or hidden behind other applications."
+                },
+                "content": [
+                  {
+                    "title": "Microsoft Word",
+                    "layoutDescription": "Word processor layout",
+                    "visibleText": "TEXT TOO BLURRY"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Excel",
+            "windows": [
+              {
+                "title": "Microsoft Excel",
+                "position": "hidden",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Excel application likely minimized or hidden behind other applications."
+                },
+                "content": [
+                  {
+                    "title": "Microsoft Excel",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "TEXT TOO BLURRY"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft PowerPoint",
+            "windows": [
+              {
+                "title": "Microsoft PowerPoint",
+                "position": "hidden",
+                "isActive": false,
+                "uiElements": {
+                  "details": "PowerPoint application likely minimized or hidden behind other applications."
+                },
+                "content": [
+                  {
+                    "title": "Microsoft PowerPoint",
+                    "layoutDescription": "Presentation software layout",
+                    "visibleText": "TEXT TOO BLURRY"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Adobe Photoshop",
+            "windows": [
+              {
+                "title": "Adobe Photoshop",
+                "position": "hidden",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Photoshop application likely minimized or hidden behind other applications."
+                },
+                "content": [
+                  {
+                    "title": "Adobe Photoshop",
+                    "layoutDescription": "Image editing software layout",
+                    "visibleText": "TEXT TOO BLURRY"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in multiple tasks across different applications. At 09:02:03, the user is seen on Upwork, specifically on a job posting titled 'Influitive Challenge Creation Consultancy'. They are in the process of closing the job, as indicated by the 'Close Job' popup. The visible options suggest reasons for closing the job, such as job completion, project cancellation, or hiring someone else.",
+    "At 09:05:11, the user is on PostBeyond, viewing their feed. The feed contains various posts related to Apple, including topics like iOS 14 launch tips, sustainability pledges, and developer updates. This indicates the user is likely keeping up with industry news and updates. Simultaneously, the user has Gmail open, although it is not the active window. The Gmail interface shows emails with subjects related to team updates and project progress.",
+    "At 09:07:44, the user continues to engage with PostBeyond, viewing posts about AI in marketing and the future of retail. The user also has the Marketing Email tool open, displaying a list of emails related to marketing campaigns. The selected email shows detailed statistics about a campaign, including open rates and click rates. This suggests the user is involved in monitoring and analyzing marketing performance.",
+    "Throughout the session, the user is also seen interacting with Google Chat. They are engaged in a conversation with a team member named Dragos Nuta, discussing topics related to project timelines and deliverables. This indicates active collaboration and communication with team members."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in tasks related to project management, industry research, and team communication without any visible interaction with AI tools for code suggestions, research, or debugging.",
+  "activities": [
+    "EMAIL",
+    "CHATTING_WITH_TEAM",
+    "RESEARCH"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "CHATTING_WITH_TEAM",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 205,
+      "mouse": 14,
+      "date": "2024-06-05T09:00:20Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 18,
+      "mouse": 9,
+      "date": "2024-06-05T09:01:20Z",
+      "windowTitle": " Influitive Challenge Creation Consultancy - Customer Service & Tech Support - Google Chrome\n",
+      "processName": "upwork.com",
+      "visitingUrl": "https://www.upwork.com/jobs/~014f3b7b7bfab0ef78",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 4,
+      "date": "2024-06-05T09:02:20Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-05T09:03:20Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 14,
+      "date": "2024-06-05T09:04:20Z",
+      "windowTitle": " My Feed ï¿½ PostBeyond - Google Chrome\n",
+      "processName": "dev.postbeyonddev.com",
+      "visitingUrl": "https://dev.postbeyonddev.com/element/",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T09:05:20Z",
+      "windowTitle": " My Feed ï¿½ PostBeyond - Google Chrome\n",
+      "processName": "dev.postbeyonddev.com",
+      "visitingUrl": "https://dev.postbeyonddev.com/element/",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 3,
+      "mouse": 14,
+      "date": "2024-06-05T09:06:20Z",
+      "windowTitle": " My Feed ï¿½ PostBeyond - Google Chrome\n",
+      "processName": "dev.postbeyonddev.com",
+      "visitingUrl": "https://dev.postbeyonddev.com/element/",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 2,
+      "mouse": 12,
+      "date": "2024-06-05T09:07:20Z",
+      "windowTitle": " My Feed ï¿½ PostBeyond - Google Chrome\n",
+      "processName": "dev.postbeyonddev.com",
+      "visitingUrl": "https://dev.postbeyonddev.com/element/",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T09:08:20Z",
+      "windowTitle": " My Feed ï¿½ PostBeyond - Google Chrome\n",
+      "processName": "dev.postbeyonddev.com",
+      "visitingUrl": "https://dev.postbeyonddev.com/element/",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T09:09:20Z",
+      "windowTitle": " My Feed ï¿½ PostBeyond - Google Chrome\n",
+      "processName": "dev.postbeyonddev.com",
+      "visitingUrl": "https://dev.postbeyonddev.com/element/",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-05T09:00:00Z"
+}

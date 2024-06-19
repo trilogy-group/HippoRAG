@@ -1,0 +1,274 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "mail.google.com",
+    "webstorm64"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T09:51:23Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '11:51 AM' and date '2024-06-12'. Network status, sound volume, and battery status icons are visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "index.ts - xo-hiring-monorepo - Visual Studio Code",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar at top with File, Edit, View, Go, Run, Terminal, Help. Sidebar on the left with file explorer showing project structure. Bottom bar with problems, output, debug console, terminal tabs. Right sidebar with minimap, outline, and other tools."
+                },
+                "content": [
+                  {
+                    "title": "index.ts",
+                    "layoutDescription": "Code editor open with code",
+                    "visibleText": "import { List, Map } from 'immutable';\nimport { LinkedIn_Publish_Log } from './logs';\n\ninterface PipelineStep {\n pipelineCode: string;\n budget: string;\n}\n\nconst rows: List<Map<string, String>> = new List<Map<string, String>>();\nfor (const log of LinkedIn_Publish_Log) {\n const elem: Map<string, String> = new Map<string, String>();\n elem.put('budget', log.Budget_c.toString());\n elem.put('pipelineCode', log.PipelineCode_c.toString());\n rows.push(elem);\n}\n\nFram.debug(JSON.serializeP SFLogs\nconst budgets: {budget: string, pipelineCode: string}[] = [\n { \"budget\": \"2133\", \"pipelineCode\": \"3889\" },\n { \"budget\": \"132\", \"pipelineCode\": \"4358\" },\n { \"budget\": \"329\", \"pipelineCode\": \"4581\" },\n { \"budget\": \"175\", \"pipelineCode\": \"4593\" },\n { \"budget\": \"2987\", \"pipelineCode\": \"5183\" },\n { \"budget\": \"399\", \"pipelineCode\": \"5245\" },\n { \"budget\": \"527\", \"pipeline..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T09:55:21Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '11:55 AM' and date '2024-06-12'. Language set to 'ENG'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "xo-hiring-monorepo",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar at top, sidebar on left, status bar at bottom, multiple editor tabs open"
+                },
+                "content": [
+                  {
+                    "title": "index.ts - indeed-report-generator\\src",
+                    "layoutDescription": "Code editor open with code",
+                    "visibleText": "import { List, Map } from 'immutable';\nimport { LinkedIn_Publish_Log } from '../logs';\nimport { PipelineStep, PipelineLog, MapEntry, StringMap } from '../types';\n\nconst rows: List<Map<String, String>> = new List<Map<String, String>>();\nfor (const step of PipelineStep) {\n const log: PipelineLog = new PipelineLog();\n const elem: MapEntry<String, String> = a MapEntry<String, String>();\n elem.put('budget', log.Budget_C.toStrin..."
+                  },
+                  {
+                    "title": "SFLogs",
+                    "layoutDescription": "Code editor open with code",
+                    "visibleText": "{\n \"budget\": \"2133\",\n \"pipelineCode\": \"3889\"\n},\n{\n \"budget\": \"132\",\n \"pipelineCode\": \"4358\"\n},\n{\n \"budget\": \"329\",\n \"pipelineCode\": \"4581\"\n},\n{\n \"budget\": \"175\",\n \"pipelineCode\": \"4593\"\n},\n{\n \"budget\": \"2987\",\n \"pipelineCode\": \"5183\"\n},\n{\n \"budget\": \"399\",\n \"pipelineCode\": \"5245\"\n},\n{\n \"budget\": \"527\",\n \"pipelineCode\": \"5260\"\n},\n{\n \"budget\": \"658\",\n \"pipelineCode\": \"5268\"\n},\n{\n \"budget\": \"322\",\n \"pipelineCode\": \"5269\"\n},\n{\n \"budget\": \"182\",\n \"pipelineCode\": \"5271\"\n},\n{\n \"budget\": \"329\",\n \"pipelineCode\": \"4774\"\n},\n{\n \"budget\": \"182\",\n \"pipelineCode\": \"4774\"\n}"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T09:57:39Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Settings, and hidden icons. Displays the date and time '12/06/2024 11:57 AM'. Language setting displayed as 'ENG'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "index.ts - xo-hiring-monorepo - Visual Studio Code",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with options like File, Edit, View, Go, Run, Terminal, Help. Sidebar with icons for Explorer, Search, Source Control, Run and Debug, Extensions. Status bar at the bottom showing 'master' branch, 'LF' line ending, 'UTF-8' encoding, '2 spaces' indentation, and 'JavaScript' language mode."
+                },
+                "content": [
+                  {
+                    "title": "index.ts",
+                    "layoutDescription": "editor open with code",
+                    "visibleText": "import { List, Map } from 'immutable';\nimport { LinkedIn_Publish_Log } from './logs';\nimport { SFLogs, Budget, PipelineCode, ProductCode } from './types';\n\nconst rows: List<Map<String, String>> = new List<Map<String, String>>();\nfor (const log of LinkedIn_Publish_Log) {\n const elem: Map<String, String> = new Map<String, String>();\n elem.put('budget', log.Budget_C.toStrin... [TEXT TOO LONG TO DISPLAY COMPLETELY]"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in writing code using the WebStorm IDE. The code editor is open with multiple files, including 'index.ts', 'indeed-report-generator/index.ts', and 'index-candidates/lambda-executor.ts'. The user is working on a project related to 'xo-hiring-monorepo', as indicated by the project structure visible in the sidebar. The code involves importing modules from 'immutable' and 'logs', and defining constants and functions for handling data related to budgets and pipeline codes.",
+    "The user is also seen managing JSON data structures within the code. The 'SFLogs' constant is defined as an array of objects, each containing 'budget' and 'pipelineCode' properties. This suggests that the user is working on a feature that involves processing or analyzing log data, possibly for reporting or data visualization purposes. The presence of multiple open tabs indicates that the user is navigating through different parts of the codebase to implement or debug this feature.",
+    "The user has the mail.google.com application open, indicating that they are also checking or managing emails during this period. However, the primary focus remains on coding activities within the WebStorm IDE. The taskbar shows icons for various applications, but only WebStorm and the web browser with the Gmail tab are actively used. The user is likely multitasking, balancing coding tasks with email communication."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily focused on writing and navigating code within the WebStorm IDE. No AI chat interfaces or AI-generated suggestions are visible in the screenshots. The user's workflow appears to be manual, relying on their coding skills and knowledge without the assistance of AI tools.",
+  "activities": [
+    "WRITING_CODE",
+    "EMAIL"
+  ],
+  "workTypes": [
+    "BACKEND"
+  ],
+  "programmingLanguages": [
+    "TYPESCRIPT"
+  ],
+  "toolTypes": [
+    "IDE",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T09:50:00Z",
+      "windowTitle": "Inbox - artyom.melnikov@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-12T09:51:00Z",
+      "windowTitle": "xo-hiring-monorepo ? indeed-report-generator\\src\\index.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T09:52:01Z",
+      "windowTitle": "xo-hiring-monorepo ? indeed-report-generator\\src\\index.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T09:53:01Z",
+      "windowTitle": "xo-hiring-monorepo ? indeed-report-generator\\src\\index.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T09:54:01Z",
+      "windowTitle": "xo-hiring-monorepo ? indeed-report-generator\\src\\index.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T09:55:01Z",
+      "windowTitle": "xo-hiring-monorepo ? indeed-report-generator\\src\\index.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T09:56:01Z",
+      "windowTitle": "xo-hiring-monorepo ? indeed-report-generator\\src\\index.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T09:57:01Z",
+      "windowTitle": "xo-hiring-monorepo ? indeed-report-generator\\src\\index.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T09:58:01Z",
+      "windowTitle": "xo-hiring-monorepo ? indeed-report-generator\\src\\index.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T09:59:01Z",
+      "windowTitle": "xo-hiring-monorepo ? indeed-report-generator\\src\\index.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-12T09:50:00Z"
+}

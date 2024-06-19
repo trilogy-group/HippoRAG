@@ -1,0 +1,283 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "mail.google.com",
+    "meet.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-04T08:01:45Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search bar, pinned applications, and system tray including time and language settings",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "AI Assist - first release - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+                "url": "https://mail.google.com/mail/u/0/#",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, extensions icons"
+                },
+                "content": [
+                  {
+                    "title": "Email Content",
+                    "layoutDescription": "Email body visible",
+                    "visibleText": "Bogdan Tenea (bogdan.tenea@trilogy.com), Dmitrii Shutkenov, Isaac Squires, Serban Petrescu (trilogy.com), David Schwartz (devfactory.com), Noumaan Shah (devfactory.com)... Draft saved\n\nAI Assist has a new home: https://ai-assist.crossover.com, and it has improved. We would love for you to try it and share your feedback.\n\nWhen should you use it:\nIt may not compete with your purpose-built assistants, but there are a few cases it can already be helpful:\n- whenever you find yourself opening a new GPT/Claude window and needing to pull in content from documents/emails - if you've seen that information and you reference it,\n\nNote: It still runs on screenshots."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T08:06:10Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, File Explorer, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '11:06 AM 6/4/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - zfj-rojw-kzq - Google Chrome",
+                "url": "meet.google.com/zfj-rojw-kzq",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Browser tabs, address bar, navigation buttons, Google account avatar, Meet control buttons, and a sidebar with Gmail options"
+                },
+                "content": [
+                  {
+                    "title": "Gmail Sidebar",
+                    "layoutDescription": "Vertical list on left",
+                    "visibleText": "Gmail\nCompose\nInbox\nStarred\nVIP\nAI Coach Emails\nBilling\nCS Tempo\nKayako"
+                  },
+                  {
+                    "title": "Google Meet Video Call",
+                    "layoutDescription": "Main central area",
+                    "visibleText": "Phil / Dragos - What can AI Assist help you?\nDragos Nuta\nPhil Hewinson\nread.ai meeting notes"
+                  },
+                  {
+                    "title": "Google Meet Participants Panel",
+                    "layoutDescription": "Right sidebar",
+                    "visibleText": "People\nAdd people\nSearch for people\nIN MEETING\nContributors\nDragos Nuta (You) Meeting host\nPhil Hewinson\nread.ai meeting notes\nEveryone invited has joined"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T08:09:06Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, widgets, and several pinned applications. Displays the time as 11:09 AM and date as 6/4/2024. Language set to ENG. Network, sound, and battery status icons are visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "AI Assist - first release - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+                "url": "mail.google.com/mail/u/0/#search/a",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, extensions icons, and settings menu"
+                },
+                "content": [
+                  {
+                    "title": "Email Content",
+                    "layoutDescription": "Email displayed in reading, visibleText:"
+                  },
+                  {
+                    "title": "Email Content",
+                    "layoutDescription": "Email displayed in reading pane",
+                    "visibleText": "Subject: AI Assist Ben\nFrom: Dragos Nuta (dragos.nuta@trilogy.com)\nTo: Bogdan Tenea (bogdan.tenea@trilogy.com), Dmitrii Shutkenov, Isaac Squires, Serban Petrescu (trilogy.com), David Schwartz (devfactory.com), Noumaan Shah (devfactory.com) and 6 more\n\nAI Assist has a new home: https://ai-assist.crossover.com, and it has improved. We would love for you to try it and share your feedback.\n\nWhen should you use it:\n- It may not compete with your purpose-built assistants, but there are a few cases where it can be helpful:\n - whenever you find yourself opening a new GPT/Clade window and needing to pull in information from documents/emails - brainstorm, it should do that for you\n - whenever you need to find a needle in your haystack of past work - I've seen people using it to write their weekly summaries, find some site or information that they vaguely remember about, or index information on a topic.\n\nNote: It still runs on screenshots."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in email communication using Gmail. They are composing an email to multiple recipients, including Bogdan Tenea, Dmitrii Shutkenov, Isaac Squires, Serban Petrescu, David Schwartz, and Noumaan Shah. The email discusses the new home for AI Assist and its improvements, encouraging recipients to try it and share feedback. The email also outlines scenarios where AI Assist can be helpful, such as pulling content from documents/emails and finding information from past work.",
+    "The user is participating in a Google Meet video call. The meeting includes participants Dragos Nuta, Phil Hewinson, and a bot named 'read.ai meeting notes'. The discussion appears to be focused on AI Assist, as indicated by the visible text 'Phil / Dragos - What can AI Assist help you?'. The user is the meeting host, and all invited participants have joined the call. The meeting interface shows standard Google Meet controls and participant management options.",
+    "The user continues to work on the email in Gmail, making edits and adjustments to the content. The email remains focused on AI Assist, its new home, and its potential use cases. The user is seen interacting with the email interface, which includes options for composing, formatting, and sending the email. The email draft is saved, indicating ongoing work and revisions."
+  ],
+  "aiUseSummary": "The user is utilizing AI tools integrated within Gmail. The AI Assistant in Gmail is providing suggestions and assistance for composing the email. The AI tools help the user by suggesting content, formatting options, and providing quick access to relevant information. This enhances the user's productivity by streamlining the email composition process and ensuring that important details are included accurately.",
+  "activities": [
+    "EMAIL",
+    "MEETING"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [
+    "SHORTWAVE"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "EMAIL",
+  "doubts": [],
+  "confidenceScore": 100,
+  "events": [
+    {
+      "keyboard": 217,
+      "mouse": 6,
+      "date": "2024-06-04T08:00:09Z",
+      "windowTitle": "AI Assist - first release - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#search/ai+assist+ben/QgrcJHrtstrzqjfBbdbxxFNjwcCMzxhHTqb",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 156,
+      "mouse": 10,
+      "date": "2024-06-04T08:01:09Z",
+      "windowTitle": "AI Assist - first release - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#search/ai+assist+ben/QgrcJHrtstrzqjfBbdbxxFNjwcCMzxhHTqb",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 217,
+      "mouse": 3,
+      "date": "2024-06-04T08:02:09Z",
+      "windowTitle": "AI Assist - first release - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#search/ai+assist+ben/QgrcJHrtstrzqjfBbdbxxFNjwcCMzxhHTqb",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 221,
+      "mouse": 0,
+      "date": "2024-06-04T08:03:09Z",
+      "windowTitle": "AI Assist - first release - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#search/ai+assist+ben/QgrcJHrtstrzqjfBbdbxxFNjwcCMzxhHTqb",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 126,
+      "mouse": 5,
+      "date": "2024-06-04T08:04:09Z",
+      "windowTitle": "AI Assist - first release - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#search/ai+assist+ben/QgrcJHrtstrzqjfBbdbxxFNjwcCMzxhHTqb",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 92,
+      "mouse": 0,
+      "date": "2024-06-04T08:05:09Z",
+      "windowTitle": "Meet - zfj-rojw-kzq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/zfj-rojw-kzq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 49,
+      "mouse": 0,
+      "date": "2024-06-04T08:06:09Z",
+      "windowTitle": "Meet - zfj-rojw-kzq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/zfj-rojw-kzq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 51,
+      "mouse": 10,
+      "date": "2024-06-04T08:07:09Z",
+      "windowTitle": "Meet - zfj-rojw-kzq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/zfj-rojw-kzq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T08:08:09Z",
+      "windowTitle": "Meet - zfj-rojw-kzq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/zfj-rojw-kzq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 2,
+      "mouse": 0,
+      "date": "2024-06-04T08:09:09Z",
+      "windowTitle": "AI Assist - first release - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#search/ai+assist+ben/QgrcJHrtstrzqjfBbdbxxFNjwcCMzxhHTqb",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-04T08:00:00Z"
+}

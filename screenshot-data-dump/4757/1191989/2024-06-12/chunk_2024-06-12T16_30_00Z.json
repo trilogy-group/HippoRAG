@@ -1,0 +1,201 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "mail.google.com",
+    "Zoom"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T16:31:03Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Google Chrome, File Explorer, and other unidentified applications. Displays the time as 10:31 AM and date as 12 Jun 2024. Notification area visible with network, sound, and battery status icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Rough Priorities Assignment - Google Docs - Google Chrome",
+                "url": "https://docs.google.com/document/d",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help. Toolbar with undo, redo, print, spelling and grammar check, zoom controls, and text formatting options. Google account profile picture on top right."
+                },
+                "content": [
+                  {
+                    "title": "Rough Priorities Assignment",
+                    "layoutDescription": "Text document layout",
+                    "visibleText": "Rough Priorities Assignment\n\nMagic Academy\nMohamed (Gameplay)\nGiovanny (Combat)\nAbhineet (Multiplayer)\nVedran (Monetization)\n1. Add a field to the profile screen to redeem voucher codes\n2. In-app purchase for premium membership\n a. Collect parent email and address\n b. Allow parent to customize which rewards are enabled\n3. Prompt to rate the app\n4. Local notification reminders to play (daily streak, offline rewards)\n5. Push notification when your friends are playing\n6. In-app purchase for equipment LAMBDA-73735\n7. In-app purchase for season pass\n a. Free rewards in one column\n b. Premium rewards in another column (diamonds and unique equipment / customizations)\n c. Complete blocks to earn progress and unlock subsequent rewards\n d. Change the graphic on the blocks to be 3 pass points instead of diamonds directly\n e. Progress resets and prizes rotate every 3 months, and the pass must be re-purchased\n8. Advent calendar with prizes for logging in\n a. Each day you log in, get the next prize in the list (coins, pet food, pass points, etc)\n b. Prizes #14 and #28 are bigger prizes (such as unique customization unlock)\n c. Prizes refresh on the 1st of each month (so if you didn't log in enough times, you miss out on bigger prizes)\nAntoine (Academic UI)\n1. Use new API 'getTeachTowerStack' to retrieve blocks and recommendations LAMBDA-75799\n a. UI part of https://ws-lambda.atlassian.net/browse/LAMBDA-750 Fix GraphQL issue on mobile\n a. When spending diamonds in the shop, the balance at the top of the UI doesn't update right away\n b. Make sure you can't accidentally double-click to purchase an item twice\n3. Prototype rendering stimulus-based MDL content type (basically, adding support for an image in the rotation selection)\n4. Add a celebration screen on block completion that shows what rewards were earned (we should give coins to free users, and coins + diamonds to premium users).\n5. Apple Authentication LAMBDA-73846"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in reading a document titled 'Rough Priorities Assignment' on Google Docs. The document outlines various tasks and priorities for different team members, including sections on gameplay, combat, multiplayer, monetization, and academic UI. Specific tasks include adding fields to profile screens, implementing in-app purchases, and fixing GraphQL issues on mobile. The user is also reviewing comments from team members, indicating a collaborative effort in refining the document's content.",
+    "The user is also engaged in email activities, as indicated by the active links to Gmail chat. The user is likely communicating with team members or stakeholders through Gmail, discussing project-related topics. The presence of multiple chat links suggests ongoing conversations, possibly for clarifications or updates on the tasks outlined in the Google Docs document.",
+    "The user is utilizing Google Chrome as their primary web browser, with multiple tabs open, including Google Docs and Gmail. This indicates a multitasking environment where the user is switching between reading specifications, communicating with team members, and possibly conducting research or other related activities. The taskbar shows icons for other applications, but they are not active during this period."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in reading and reviewing documents and communicating via Gmail chat. No AI chat interfaces or AI-generated content are visible in the screenshots, indicating that the user is not leveraging AI tools for their tasks during this period.",
+  "activities": [
+    "READING_SPEC",
+    "EMAIL",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [
+    "UI"
+  ],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "READING_SPEC",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 179,
+      "mouse": 4,
+      "date": "2024-06-12T16:30:45Z",
+      "windowTitle": "CoachBot Alerts - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/iXTDrUAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 135,
+      "mouse": 12,
+      "date": "2024-06-12T16:31:46Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/5vi3_UAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 17,
+      "date": "2024-06-12T16:32:46Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T16:33:46Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 8,
+      "date": "2024-06-12T16:34:45Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-12T16:35:45Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 11,
+      "date": "2024-06-12T16:36:46Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 6,
+      "date": "2024-06-12T16:37:46Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T16:38:46Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-12T16:39:46Z",
+      "windowTitle": "CoachBot Alerts - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/home",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-12T16:30:00Z"
+}

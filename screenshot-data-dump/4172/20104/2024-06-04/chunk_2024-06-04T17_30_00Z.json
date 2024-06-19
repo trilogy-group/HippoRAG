@@ -1,0 +1,328 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "Notepad",
+    "mail.google.com",
+    "LockApp"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-04T17:30:31Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search bar, pinned applications (Edge, Chrome, Notepad, File Explorer, and others), system tray with notifications, language input, time and date display",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "LinkedIn Renewal 2024 - Google Sheets",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help; Toolbar with undo, redo, print, formatting options, zoom controls, sheet tabs at the bottom"
+                },
+                "content": [
+                  {
+                    "title": "LinkedIn Renewal 2024",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "Plan, Slots, Cost, Cost/slot, Projected flow, CPA per BFQ, Cost per BFQ Passer, Cost per BFQ Taker (CPQA), Now, Early renewal, Late renewal, Reduce to 75%, Reduce to 50%, Reduce to 25%, $1,600,000, $2,300,000, $2,600,000, $1,600,000, $930,000, $460, $607, $686, $920, $1,069, 80,000, 85,000, 85,000, 73,600, 40,000, $0.38, $0.52, $0.59, $0.48, $0.45, $1.2, $1.7, $1.9, $1.6, $1.4, $2.5, $3.4, $3.8, $3.1, $2.9"
+                  }
+                ]
+              },
+              {
+                "title": "Google Meet",
+                "url": "https://meet.google.com/fmk-krtz-vbf",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Video conference interface with participant videos, mute, camera, and settings controls"
+                },
+                "content": [
+                  {
+                    "title": "Google Meet",
+                    "layoutDescription": "Video call layout",
+                    "visibleText": "Cory's Sybill Notetaker, read.ai meeting notes, recruitics.com"
+                  }
+                ],
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Cory Kapner",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "Jason Messinger",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "Kathe Rose",
+                      "expression": "Thoughtful"
+                    },
+                    {
+                      "name": "Dragos Nută",
+                      "expression": "Neutral"
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Notifications",
+                "position": "right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Notification area with snooze and close buttons"
+                },
+                "content": [
+                  {
+                    "title": "Joe / Dragos",
+                    "layoutDescription": "Notification layout",
+                    "visibleText": "2:30 - 21:00 calendar.google.com"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T17:36:05Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, File Explorer, Microsoft Edge, and other unidentified applications. Displays the date and time as '6/4/2024 8:36 PM'. Language set to English (ENG).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Inbox (14 : 7,639) - dragos.nuta@aurea.com - DevFactory Mail",
+                "url": "https://mail.google.com/mail/u/0/#inbox",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and multiple extension icons."
+                },
+                "content": [
+                  {
+                    "title": "Email List",
+                    "layoutDescription": "List of emails displayed in a column",
+                    "visibleText": "All VIP - me, Jozef 9\nVIP Re: Urgent Action Required: Migration to Microsoft Graph API for Playbooks - @Leonardo Lima will own this from my team\nMay 30\nVIP central tracking of AI usage in products - Hi Samy, The dashboard is now up at https://ai-feature-adoption-dash.s3.my\nMay 14\nFwd: Introducing 'Think-With-Me': Your AI-Powered brainstorming assistant! - Awesome, thanks for sharing. We will...\nMay 7\nFwd: How Perplexity builds product - So aligned... At First, minimize coordination and promote independence, 2-3...\nApr 30\nVIP TM Forum Second Brain - Yes. DR asked Mark Crouse to order TPM spec no engineering.\nApr 3\nQ2 budget notes - Q2 budget summary ======================== TPM task list - list of projects for all BUs (later, validate ...\nMar 19\nAi coach - Separate content from platform -- this is how 2nd brains are introducedHelpful summaries of your day and we...\nMar 15\nAI Matching Interviewer - AI matching interview (rebrand from screening) Fit-interview 10 minute will save you hours ha...\n11/30/23\nCrossover Jan/2024 usage & invoicing - Pearson - Hi Dragos, Find attached the May/2024 usage report. Pearson is su...\n8:21PM\n[LogRocket] Monthly session quota reached - Hello, 10% of your organization's LogRocket web sessions have been ...\n8:16PM\nAction Needed: Almost Out of Tasks! - You're getting close to the maximum number of tasks allowed on your plan.\n8:05PM\n[JIRA] (LAMBDA-75449) Include job recommendations in reject emails - Denys Yefimenko and WS Lambda Automati...\n7:40PM\nTivian © Perform... - @jamie.sidey@trilogy.com - how many k... - David Harpur (david.harpur@trilogy.com) mentioned\n2:52PM\n[JIRA] (LAMBDA-75737) Content-Pack: Tasks & questions - Michael made 1 update. WS Lambda Automati...\n2:08PM\n[Company-wide announcement] [ACTION REQUIRED] Github Access - PLEASE CONFIRM - Gear Github User, As part of our ongoing efforts to ensure...\n11:45AM\nJob Boards - @isabelle.adventio@crossover.com which... - Isabelle Adventio replied to a comment in the following doc...\n10:26AM\nA/P Processing Updates - Dear all, I am writing to summarize some key changes in A/P processing in the past 6 weeks ...\n8:27AM"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T17:37:18Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Settings, and hidden icons. Displays the date and time as '6/4/2024 8:37 PM'.",
+            "position": "bottom"
+          },
+          {
+            "elementType": "system tray",
+            "details": "Includes network status, sound volume, battery indicator, language input method (ENG), and notifications icon.",
+            "position": "bottom right"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Code with AI - Chat - Google Chrome",
+                "url": "https://mail.google.com/mail/u/0/#",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, extensions icons"
+                },
+                "content": [
+                  {
+                    "title": "Gmail",
+                    "layoutDescription": "client interface",
+                    "visibleText": "Gmail\nCompose\nInbox 14 : 7,639\nStarred\nSnoozed\nSent\nDrafts 125\nMore\nLabels\n-JIRA\n-Prime customers\n-!!! Salesforce Errors\n-I Don't loose\n-I Follow-up\n-Testing Platforms - Important\n-Prime Commercial\n-Administrative\n-AI Coach\n-Criteria\n-GT\n-JobBoards\n-Kayako\n-PS - Tempo\n-Reading\n-XO - Legal\n-XO Billing\n-XO Budgeting\nAll VIP\nme, Jozef 9\nSamy, Dragos 3\nSamy, me, Andrew 4\nMarc, me 3\nStarred\nme\nImportant\nBernardo .. Anupreet 7\nLogRocket Support\nZapier Notifications\nDragos .. Jira .. 50\nDav, Rag., Jam. 5\nDenys .. Michael .. 9\nAnnouncement, Bogd...\nIsabelle, Dragos 2\nLudel Mier\nEmails:\nRe: Urgent Action Required: Migration to Microsoft Graph API for Playbooks - @Leonardo Lima will own this from my...\nVIP central tracking of AI usage in products - Hi Samy, The dashboard is now up at https://ai-feature-adoption-dash.s3.m...\nFwd: Introducing 'Think-With-Me': Your AI-Powered brainstorming assistant! - Awesome, thanks for sharing. We will ...\nFwd: How Perplexity builds product - So aligned... Al, First, minimize coordination and promote independence, 2-3...\nVIP TM Forum Second Brain - Yes. DR asked Mark Crouse to order TPM spec no engineering.\nQ2 budget notes - Q2 budget summary ======================== TPM task list - list of projects for all BUs (later, validate ...\nAi coach - Separate content from platform -- this is how 2nd brains are introducedHelpful summaries of your day and we...\nAI Matching Interviewer - AI matching interview (rebrand from screening) Fit-interview 10 minute will save you hours he...\nCrossover Jan/2024 usage & invoicing - Pearson - Hi Dragos, Find attached the May/2024 usage report. Pearson is su...\n[LogRocket] Monthly session quota reached - Hello, 10% of your organization's LogRocket web sessions have been ...\nAction Needed: Almost Out of Tasks! - You're getting close to the maximum number of tasks allowed on your plan.\n[JIRA] (LAMBDA-75449) Include job recommendations in reject emails - Denys Yefimenko and WS Lambda Automati...\nTivian © Perform... - jamie.sidey@trilogy.com - how many k... - David Harpur (david.harpur@trilogy.com) mentioned...\n[JIRA] (LAMBDA-75737) Content-Pack: Tasks & questions - Michael made 1 update. WS LambdA/Automati...\n[Company-wide announcement] [ACTION REQUIRED] Github Access - PLEASE CONFIRM - Dear Github User, As p...\nJob Boards - @isabelle.adventio@crossover.com which... - Isabelle Adventio replied to a comment in the following doc...\nA/P Processing Updates - Dear all, I am writing to summarize some key changes in A/P processing in the past 6 weeks ..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Google Meet video conference, as evidenced by the screenshot showing the Google Meet interface with multiple participants. The meeting appears to be related to a project or task, as indicated by the presence of a notetaker and meeting notes. The user is also viewing a Google Sheets document titled 'LinkedIn Renewal 2024,' which contains detailed financial projections and cost analysis for different renewal plans. This suggests that the meeting may be discussing these financial details.",
+    "The user is actively managing their email inbox on Gmail, as shown in the screenshots. The inbox contains various emails related to project updates, budget notes, AI tools, and other work-related communications. The user is likely prioritizing and organizing their tasks based on the emails received. The presence of multiple VIP emails and starred messages indicates that the user is focusing on important communications that require immediate attention.",
+    "The user is also using Notepad to jot down quick notes or calculations. The content in Notepad shows a simple calculation related to media spend, which might be part of the financial analysis or project planning discussed in the Google Sheets document. This indicates that the user is multitasking, using different tools to manage various aspects of their work."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a video conference, managing emails, and working on a Google Sheets document. There are no visible AI chat interfaces or AI-generated content in the screenshots.",
+  "activities": [
+    "MEETING",
+    "EMAIL",
+    "READING_SPEC"
+  ],
+  "workTypes": [
+    "UI"
+  ],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 4,
+      "date": "2024-06-04T17:30:11Z",
+      "windowTitle": "*2500month - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-04T17:31:11Z",
+      "windowTitle": "*2500month - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 35,
+      "mouse": 18,
+      "date": "2024-06-04T17:32:11Z",
+      "windowTitle": "Inbox - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 3,
+      "mouse": 12,
+      "date": "2024-06-04T17:33:11Z",
+      "windowTitle": "XO Candidate Support Escalations - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T17:34:11Z",
+      "windowTitle": "Samy's VPs Gen AI Adoption - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T17:35:11Z",
+      "windowTitle": "Code with AI - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T17:36:11Z",
+      "windowTitle": "Samy's VPs Gen AI Adoption - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T17:37:11Z",
+      "windowTitle": "Code with AI - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T17:38:11Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T17:39:11Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-04T17:30:00Z"
+}

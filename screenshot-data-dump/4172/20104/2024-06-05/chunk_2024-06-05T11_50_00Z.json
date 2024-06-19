@@ -1,0 +1,284 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "docs.google.com",
+    "chrome",
+    "mail.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T11:50:36Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Outlook, Microsoft Teams, a folder, and other unidentified applications. System tray includes network, sound, and clock (2:50 PM, 6/5/24).",
+            "position": "bottom"
+          },
+          {
+            "elementType": "notification",
+            "details": "no Chrome notification for 'XO Check-in' scheduled from 15:00 to 15:30 on calendar.google.com with options to 'Snooze' or 'Close'.",
+            "position": "bottom right"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Factory status May 2024 (TPM/Eng) - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "toolbar visible with options for File, Edit, View, Insert, Format, Tools, Extensions, Help. Editing tools include font style, size, bold, italic, underline, text color, highlight color, alignment, lists, indent, link, comment, and more."
+                },
+                "content": [
+                  {
+                    "title": "Factory status May 2024 (TPM/Eng)",
+                    "layoutDescription": "Text document layout",
+                    "visibleText": "Factory status May 2024 (TPM/Eng)\n\n• Start by reaching out to ALL customers, presenting the feature or the plans (depending on stage)\n• Reach out broadly to all contacts in a company that would get value from the feature\n• Focus on the pool of early adopters that responded positively and make that list clear to the BU\n• All other customers are in BU's responsibility\n• Work with customers, do interviews, get feedback, improve and generate value for their business\n\nOther topics\n• Cost reduction: completed a top level cost reduction analysis, focused on lower-complexity changes\n• Discount programs: working with AWS to reactivate MAP, targeting up to ~500k savings per year. EDP and private pricing discount programs are in good shape.\n• Waste: working to solve $200k+ of wasted reservations on eu-north-1. The remaining waste found was either resolved or known by the SaaSops Cost team.\n• Reservation and Centralization: We have an additional ~100k cost reduction opportunities that will require mini systems (FS reservation; RDS optimization, centralization, and reservations).\n• Independently, West East has made a number of product-level recommendations: these will have to be reviewed by TPMs to establish and then handled through mini sessions.\n• Providing updates during renewal: TPM will provide content to Renewals that talks about product investments which will be made available to customers during the renewal process\n• AI Feature Usage:An API is now available for tracking AI feature usage. It collects information about customers, users, feature usage as well as technical details on model use, tokens, etc.\n• Link: https://ai-feature-adoption-dash.s3.amazonaws.com Slots\n\nJigsaw (1 slot)\n• 1 commit defense goal: delivered, release made available to customers with 4 customers requesting access to date\n• 1 stretch defense goal: canceled in agreement with the BU after assessing its value\n• 4 new defense goals were added mid-quarter: 2 already delivered, 1 pending completion by EQo2 and the 4th blocked on the customer side\n\nCommit: Upgrade Messenger to Java 11, fix two vulnerabilities, support three OSes\n• Lufthansa failed the PCI audit due to security issues with Monitor - this is now fixed\n• SoftwareAG was blocked from upgrading its white-label product because the interceptor did not support Java 11. We have released a version that will enable that upgrade.\n• We have confirmed $11M out of $12M planned ARR customers, but we are seeing low adoption: \n• Half (10) of high ARR customers who requested the changes answered our request for deployment plans\n• Our customers are very supportive. Only 4 (5%) customers asked for new versions but didn't plan upgrading in Q2. We will reach out to the entire customer base but, most likely, no customers will upgrade within Q2."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T11:55:13Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Mail, Chat, Meet, Search, Google Chrome, and system tray including network, sound, and clock",
+            "position": "bottom"
+          },
+          {
+            "elementType": "notification",
+            "details": "Chrome notification for XO Check-in from 15:00 - 15:30 on calendar.google.com with options to Snooze or Close",
+            "position": "bottom right"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "React App",
+                "url": "ai-feature-adoption-dash.s3.amazonaws",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, profile icon, extensions icons"
+                },
+                "content": [
+                  {
+                    "title": "AI Feature Adoption",
+                    "layoutDescription": "Two main sections with charts",
+                    "visibleText": "AI Feature Adoption\nPer Feature Per Product\n# of Transactions by Feature by Time\nFeature Id\nANSWER\nContentGe...\nSUMMARY\nSum of Input Tokens by Feature by Time\nFeature Id\nANSWER\nContentGe...\nSUMMARY\nSum of Output Tokens by Feature by Time\n# of Unique Customers by Feature by Time"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T11:57:13Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Search, Windows, Cortana, Task View, and system tray with notifications, sound, network, and battery status icons",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "DevFactory Mail - Google Chrome",
+                "url": "https://mail.google.com/mail/u/0/#",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, and extensions"
+                },
+                "content": [
+                  {
+                    "title": "Gmail",
+                    "layoutDescription": "sidebar, chat window",
+                    "visibleText": "Gmail\nNew chat\nShortcuts\nHome 5\nMentions 3\nStarred\nDirect messages 4\nXO Check-in\nGeorge Dita\nDavid Schwartz\nMarcelo Skaba\nJoe Conley\nBogdan Tenea\nJozsef Czapovics\nSyed Shamael\nSpaces\nCNU Quantum Business Process\nXO Team Chat\ntpm reboot\nFeature Line automation\nCNU AI Assist - Extra\nXO Candidate Support\nAWS News\nCentral PMS team\nGFI BU/CE/TPM Management\nAI Coach - internal\nCrossover - Upwork Support\n\nChat\nShared\nTasks\n\nA clean deploy is very much non-trivial for a lot of these products\nIt's not like they all have nice SAM templates that you can just point to another AWS account\ni guess we just disagree - i do not see how we can consider an import done if we have never done a clean install\nthat was my LAMP comment on the call\nwe have stacks that are compliant - e.g. gh actinos, or whatever\nand we CAN do a clean install\nand those that are NOT\nand the closer it is to LAMP - the easier the import and the less chance of breaking it\nBen New 8:24AM\nIt depends on the product. If deploying a clean instance is part of operating the product (e.g. you do it for every customer) then it should be part of import. But if it's a \"singleton\" SaaS platform then the only reason to move is because of this AWS accounting mumbo jumbo.\nDavid Schwartz 8:42AM\nIts like 1M USD\nso its not just mumbo jumbo\nThanks! Neat! Ha!"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in reading and editing a Google Docs document titled 'Factory status May 2024 (TPM/Eng)'. The document includes detailed information on various topics such as cost reduction, discount programs, waste management, reservation and centralization, and AI feature usage. The user is likely preparing or reviewing a status report or project update, as indicated by the structured format and specific details mentioned in the document.",
+    "The user is also researching AI feature adoption metrics on a web page hosted on Amazon S3. The page contains various charts and graphs that display data on the number of transactions by feature, input and output tokens by feature, and the number of unique customers by feature over time. This suggests that the user is analyzing the performance and usage of different AI features, possibly to inform future development or marketing strategies.",
+    "In addition to document editing and research, the user is engaged in a team chat on Gmail. The chat, titled 'tpm reboot', involves multiple participants discussing the complexities of deploying clean instances of products, compliance with SAM templates, and the challenges associated with AWS accounting. The conversation indicates a collaborative effort to address technical and operational issues, with participants sharing their insights and opinions."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in document editing, research, and team communication without any visible interaction with AI tools or assistants.",
+  "activities": [
+    "READING_SPEC",
+    "WRITING_SPEC",
+    "RESEARCH",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "UI"
+  ],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_SPEC",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 198,
+      "mouse": 0,
+      "date": "2024-06-05T11:50:53Z",
+      "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 159,
+      "mouse": 3,
+      "date": "2024-06-05T11:51:53Z",
+      "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 221,
+      "mouse": 0,
+      "date": "2024-06-05T11:52:53Z",
+      "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 198,
+      "mouse": 1,
+      "date": "2024-06-05T11:53:53Z",
+      "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 124,
+      "mouse": 4,
+      "date": "2024-06-05T11:54:53Z",
+      "windowTitle": "React App - Google Chrome",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 104,
+      "mouse": 5,
+      "date": "2024-06-05T11:55:53Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-05T11:56:53Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAPc5Jjgw",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-05T11:57:53Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAPc5Jjgw",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 186,
+      "mouse": 5,
+      "date": "2024-06-05T11:58:53Z",
+      "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 222,
+      "mouse": 6,
+      "date": "2024-06-05T11:59:53Z",
+      "windowTitle": "tpm reboot - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/chat/u/0/#chat/space/AAAAPc5Jjgw",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T11:50:00Z"
+}

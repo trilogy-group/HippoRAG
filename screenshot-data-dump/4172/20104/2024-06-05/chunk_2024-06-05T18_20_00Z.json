@@ -1,0 +1,266 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "LockApp",
+    "explorer",
+    "mail.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T18:23:05Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "taskbar visible at the bottom of the screen, contains icons for Google Chrome and other unidentified applications",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Google Chrome",
+                "position": "bottom right of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Chrome icon visible on the taskbar"
+                },
+                "content": [
+                  {
+                    "title": "Google Chrome Private",
+                    "layoutDescription": "Popup window",
+                    "visibleText": "Google Chrome\nPrivate\ncalendar.google.com"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T18:26:17Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "taskbar visible at the bottom of the screen",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Google Chrome",
+                "position": "bottom right of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Chrome icon visible on taskbar"
+                },
+                "content": [
+                  {
+                    "title": "Google Chrome",
+                    "layoutDescription": "Single window visible",
+                    "visibleText": "Google Chrome\nPrivate\ncalendar.google.com"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T18:27:35Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Settings, and hidden icons. System tray includes network, sound, battery, and clock (9:27 PM, 6/5/2024).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "DevFactory Mail - Google Chrome",
+                "url": "mail.google.com/mail/u/0/#chat/dm/",
+                "position": "",
+                "isActive": false,
+                "uiElements": {
+                  "details": "UI includes back, forward, refresh, home buttons, address bar, bookmarks bar, tabs, profile icon, and more options menu."
+                },
+                "content": [
+                  {
+                    "title": "Gmail",
+                    "layoutDescription": "layout",
+                    "visibleText": "Gmail\n\nMail\nChat\nMeet\nchat\n\nShortcuts\nHome 8\nMentions 3\nStarred\nDirect messages 6\nXO Kanban Weekly ...\nMuhammad Javed\nMarcelo Skaba\nJozsef Czapovics\nGeorge Dita\nSamy Aboel-Nil\nAnuj, Joe, Jozsef\nDmitrii Shutkenkov\nSpaces\nSamy's VPs Gen ...\nAWS News\nXO Team Chat\nAppManager Techni...\nGFI BU/CE/TPM Man...\nCNU AI Assist - Extra...\nFeature Line autom...\nCNU Q Business Pro...\ntpm reboot\nCrossover - Upwork S...\nXo Candidate Suppor...\n\nJozsef Czapovics\n\nJozsef Czapovics 7:49PM\nI appreciate samy here\nyes, but these are things they would accept only if they came from Samy\nJozsef Czapovics 7:49PM\nyep\nyou should try send an email to joe that ai is not good enough :)\nI think you can send with data and show progress/status\nJozsef Czapovics 7:51PM\nI dont know if I have a job, but if I have, I will try\nnot say good or bad, just capture snapshot\nJozsef Czapovics 7:52PM\nI do think that TPM and Eng should work closer in using AI in implementation\ni told you a number of time - we need 2nd brains and context packs that span tpm & eng\nand that can get us 10x benefits"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in a chat conversation on Gmail. The conversation involves discussing the use of AI in implementation, specifically mentioning the need for second brains and context packs that span TPM and engineering. The user is also discussing sending an email to Joe to show progress and status using data. The chat interface shows multiple direct messages with various team members, indicating active communication and collaboration.",
+    "The user has Google Chrome open, with a notification indicating a private browsing session on calendar.google.com. This suggests that the user might be managing their calendar or scheduling meetings. The taskbar at the bottom of the screen shows icons for Google Chrome and other unidentified applications, indicating that the user is primarily using the web browser for their tasks during this period.",
+    "The user is engaged in a detailed chat with a colleague named Jozsef Czapovics. The conversation includes discussions about the effectiveness of AI, the importance of data in showing progress, and the potential benefits of using AI in implementation. The user is also seen typing a message asking 'how did it go,' indicating ongoing communication and follow-up on previous discussions or tasks."
+  ],
+  "aiUseSummary": "There is no direct evidence of AI tools being used in the provided screenshots. The user is primarily engaged in chat conversations and managing their calendar. Although AI is mentioned in the chat, there is no visible interaction with AI tools such as AI_IDE_EXTENSION, SHORTWAVE, or others. The focus of the user's activity is on communication and collaboration with team members.",
+  "activities": [
+    "CHATTING_WITH_TEAM",
+    "EMAIL"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "CHATTING_WITH_TEAM",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T18:20:01Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T18:21:01Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T18:22:01Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T18:23:01Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T18:24:01Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T18:25:01Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T18:26:01Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T18:27:01Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 24,
+      "mouse": 7,
+      "date": "2024-06-05T18:28:01Z",
+      "windowTitle": "",
+      "processName": "explorer",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 208,
+      "mouse": 8,
+      "date": "2024-06-05T18:29:01Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAhwn64Tw",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T18:20:00Z"
+}

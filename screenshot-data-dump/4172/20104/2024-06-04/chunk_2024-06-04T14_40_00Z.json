@@ -1,0 +1,409 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "Teams"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-04T14:40:00Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Teams, and system utilities like volume and network, as well as the date and time display",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "LinkedIn Renewal 2024 - Google Sheets",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs for analytics, impact-on-hires, Sheet4, and contract. Also includes Google Sheets menu with File, Edit, View, Insert, Format, Data, Tools, Extensions, and Help"
+                },
+                "content": [
+                  {
+                    "title": "LinkedIn Renewal 2024",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "Plan, Slots, Cost, Cost/Slot, Now, 3,480, $1,600,000, $460, Early renewal, 3,788, $2,300,000, $607, Late renewal, 3,788, $2,600,000, $686, Reduce to 75%, 2,610, $2,000,000, $766, Reduce to 50%, 1,740, $1,600,000, $920, Reduce to 25%, 870, $930,000, $1,069, Cost per slot, Slots, Now: $1.6M, Early renewal: $2.3M, Late renewal: $2.6M, Reduce to 75%: $2M, Reduce to 50%: $1.6M, Reduce to 25%: $0.9M"
+                  }
+                ]
+              },
+              {
+                "title": "Microsoft Teams Meeting Notification",
+                "position": "bottom-right",
+                "isActive": true,
+                "uiElements": {
+                  "details": "notification popup"
+                },
+                "content": [
+                  {
+                    "title": "Crossover × Appcast",
+                    "layoutDescription": "Notification layout",
+                    "visibleText": "17:30 - 18:00 Microsoft Teams Meeting calendar.google.com"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Teams",
+            "windows": [
+              {
+                "title": "Video Call - Microsoft Teams",
+                "position": "foreground",
+                "isActive": true,
+                "uiElements": {
+                  "details": "call interface with options for Chat, People, Raise hand, Reactions, More actions, Camera, Mic, and Share"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Scott Saunders",
+                      "expression": "focused"
+                    },
+                    {
+                      "name": "Thomas Kinnie",
+                      "expression": "neutral"
+                    }
+                  ]
+                },
+                "content": [
+                  {
+                    "title": "Video Call",
+                    "layoutDescription": "Video call layout",
+                    "visibleText": "Scott Saunders, Thomas Kinnie"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T14:45:10Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Mail, Chat, Meet, Google Chrome, Microsoft Teams, and system utilities like clock and language settings",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "LinkedIn Renewal 2024 - Google Sheets",
+                "url": "docs.google.com/spreadsheets",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Tabs for analytics, impact-on-hires, Sheet4, contract visible"
+                },
+                "content": [
+                  {
+                    "title": "LinkedIn Renewal 2024",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "Plan\nNow\nEarly renewal\nLate renewal\nReduce to 75%\nReduce to 50%\nReduce to 25%\nSlots\n3,480\n3,788\n3,788\n2,610\n1,740\n87 per slot\nSlots\nNow: $1.6M\nEarly renewal: $2.3M\nLate renewal: $2.6M\nReduce to 75%: $2M\nReduce to 50%: $1.6M\nReduce to 25%: $0.9M"
+                  }
+                ]
+              },
+              {
+                "title": "Microsoft Teams",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Video call interface with buttons for Camera, Mic, Share, and Leave"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Scott Saunders",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Thomas Kinnie",
+                      "expression": "neutral"
+                    }
+                  ]
+                },
+                "content": [
+                  {
+                    "title": "Video Call",
+                    "layoutDescription": "Video call layout",
+                    "visibleText": "Scott Saunders\nThomas Kinnie"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T14:47:59Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Mail, Chat, Meet, Google Chrome, and system utilities like clock and language settings",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "LinkedIn Renewal 2024 - Google Sheets",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Tabs for analytics, impact-on-hires, Sheet4, contract visible"
+                },
+                "content": [
+                  {
+                    "title": "LinkedIn Renewal 2024",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "Plan Slots Cost Cost/slot Now 3,480 $1,600,000 $460 Early renewal 3,788 $2,300,000 $607 Late renewal 3,788 $2,600,000 $686 Reduce to 75% 2,610 $2,000,000 $766 Reduce to 50% 1,740 $1,600,000 $920 Reduce to 25% 870 $930,000 $1,069 Cost per slot Slots Cost Now: $1.6M Early renewal: $2.3M Late renewal: $2.6M Reduce to 75%: $2M Reduce to 50%: $1.6M Reduce to 25%: $0.9M"
+                  }
+                ]
+              },
+              {
+                "title": "Microsoft Teams Meeting Notification",
+                "url": "https://calendar.google.com",
+                "position": "right of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Notification popup"
+                },
+                "content": [
+                  {
+                    "title": "Crossover x Appcast 17:30 - 18:00 Microsoft Teams Meeting",
+                    "layoutDescription": "Notification layout",
+                    "visibleText": "Crossover x Appcast 17:30 - 18:00 Microsoft Teams Meeting calendar.google.com Sum: $19.0 Snooze Close"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Teams",
+            "windows": [
+              {
+                "title": "Sourcing team - Chat",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Video call interface visible"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Sarah Saunders",
+                      "expression": "focused"
+                    },
+                    {
+                      "name": "Thomas Kinnie",
+                      "expression": "neutral"
+                    }
+                  ]
+                },
+                "content": [
+                  {
+                    "title": "Sourcing team - Chat",
+                    "layoutDescription": "Video call layout",
+                    "visibleText": "Chat People Raise hand React Share View more Camera Mic Share Leave"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "System Utilities",
+            "windows": [
+              {
+                "title": "System Clock",
+                "position": "bottom right of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Current time and date"
+                },
+                "content": [
+                  {
+                    "title": "System Clock",
+                    "layoutDescription": "Clock display",
+                    "visibleText": "17:18"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Microsoft Teams video call with two participants, Scott Saunders and Thomas Kinnie. The call interface shows options for Chat, People, Raise hand, Reactions, More actions, Camera, Mic, and Share. The participants appear focused and neutral, indicating a professional discussion. The user is also viewing a Google Sheets document titled 'LinkedIn Renewal 2024,' which contains a detailed spreadsheet layout with columns for Plan, Slots, Cost, and Cost/Slot. The spreadsheet includes various renewal plans and their associated costs, suggesting the user is discussing or analyzing these plans during the call.",
+    "The user continues to participate in the Microsoft Teams video call while actively viewing the Google Sheets document. The spreadsheet remains the focal point, with tabs for analytics, impact-on-hires, Sheet4, and contract visible. The user is likely discussing the financial implications of different renewal plans, as indicated by the detailed cost analysis in the spreadsheet. The call interface shows the same participants, Scott Saunders and Thomas Kinnie, maintaining their focused and neutral expressions.",
+    "The user remains in the Microsoft Teams video call, with the Google Sheets document still open and active. The spreadsheet's content is consistent, showing detailed cost analysis for various renewal plans. The user is likely engaged in a detailed discussion about these plans, as indicated by the consistent focus on the spreadsheet. The call interface continues to show the same participants, Scott Saunders and Thomas Kinnie, with their expressions unchanged. Additionally, a Microsoft Teams meeting notification for 'Crossover × Appcast' is visible, indicating an upcoming meeting scheduled from 17:30 to 18:00."
+  ],
+  "aiUseSummary": "",
+  "activities": [
+    "MEETING",
+    "READING_SPEC"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 100,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T14:40:11Z",
+      "windowTitle": "Microsoft Teams classic",
+      "processName": "Teams",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 2,
+      "mouse": 3,
+      "date": "2024-06-04T14:41:11Z",
+      "windowTitle": "Microsoft Teams classic",
+      "processName": "Teams",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 8,
+      "mouse": 0,
+      "date": "2024-06-04T14:42:11Z",
+      "windowTitle": "Microsoft Teams classic",
+      "processName": "Teams",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T14:43:11Z",
+      "windowTitle": "Microsoft Teams classic",
+      "processName": "Teams",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T14:44:10Z",
+      "windowTitle": "Microsoft Teams classic",
+      "processName": "Teams",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T14:45:10Z",
+      "windowTitle": "Microsoft Teams classic",
+      "processName": "Teams",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T14:46:11Z",
+      "windowTitle": "Microsoft Teams classic",
+      "processName": "Teams",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T14:47:11Z",
+      "windowTitle": "Microsoft Teams classic",
+      "processName": "Teams",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T14:48:11Z",
+      "windowTitle": "Microsoft Teams classic",
+      "processName": "Teams",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T14:49:11Z",
+      "windowTitle": "Microsoft Teams classic",
+      "processName": "Teams",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-04T14:40:00Z"
+}

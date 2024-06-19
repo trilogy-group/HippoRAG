@@ -1,0 +1,275 @@
+{
+  "candidateId": 1444536,
+  "apps": [
+    "Code",
+    "google.com",
+    "explorer",
+    "docs.gspread.org"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T12:00:56Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, File Explorer, Microsoft Edge, and several pinned applications. System tray includes network, sound, notifications, and clock displaying '13:00:58' on '14/06/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Anthropic Console - Google Chrome",
+                "url": "https://console.anthropic.com",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "work tabs for SF Prod, SF Sandbox, ADFS, My Tasks, Crossover Sprints, Write, My Pipeline, Lambda, Python, Work, Home, Docs, and more. Address bar, navigation buttons, and profile icon visible."
+                },
+                "content": [
+                  {
+                    "title": "Untitled - 2024-06-14 12:56:04 PM",
+                    "layoutDescription": "Split into two main sections: left and right.",
+                    "visibleText": "SYSTEM PROMPT Set a system prompt (optional)\n\nUSER\ngenerate python code that writes to google sheet using gspread 6. authentication data is in json object not file\n\nASSISTANT\nCertainly! Here's an example of Python code that writes data to a Google Sheet using the gspread library version 6, with the authentication data provided as a JSON object:\n```python\nimport gspread\n\n# Authentication data as a JSON object\nauth_data = {\n \"type\": \"service_account\",\n \"project_id\": \"your-project-id\",\n \"private_key_id\": \"your-private-key-id\",\n \"private_key\": \"-----BEGIN PRIVATE KEY-----\\nYOUR_PRIVATE_KEY\\n-----END PRIVATE KEY-----\\n\",\n \"client_email\": \"your-client-email@your-project-id.iam.gservicea \"client_id\": \"your-client-id\",\n \"auth_uri\": \"https://accounts.google.com/o/oauth2/auth\",\n \"token_uri\": \"https://oauth2.googleapis.com/token\",\n \"auth_provider_x509_cert_url\": \"https://www.googleapis.com/robot/v1/metadata/x5 \"client_x509_cert_url\": \"https://www.googleapis.com/robot/v1/metadata/x5 Create credentials using the authentication data\ncredentials = Credentials.from_service_account_info(auth_data)\nCreate a client using the credentials\nclient = gspread.service_ac"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T12:05:13Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Chrome, File Explorer, and other unidentified applications. Displays the time as '13:05:15' and date as '14/06/2024'. Network status icon, sound volume icon, and language setting 'ENG' are visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "gspread.http_client. example - Google Search - Google Chrome",
+                "url": "https://www.google.com/search?q=gspread.http_client.example",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Address bar, navigation buttons, tabs, and user profile icon are visible."
+                },
+                "content": [
+                  {
+                    "title": "Search Results",
+                    "layoutDescription": "List of links and descriptions",
+                    "visibleText": "gspread.http_client. example\n\nClient — gspread 6.0.0 documentation\nhttps://docs.gspread.org > api > client\nClient — gspread 6.0.0 documentation\nIt is used to: open/create/list/delete spreadsheet permission, etc.\nIt is the gspread entry ...\n\nPeople also ask\nWhere are Gspread credentials stored?\n\nGitHub\nhttps://github.com > burnash > gspread > blob > auth\ngspread/gspread/auth.py at master · burnash/gspread\ntype http_client: `class:`gspread.http_client.HTTPClient`.param http_client: A factory function that returns a client class. Defaults to `class:`gspread ...\n\nGitHub\nhttps://github.com > burnash > gspread > blob > master\ngspread.client.py — burnash/gspread\ngspread.client ~~~~~~~~~~~ This module contains Client class responsible for managing spreadsheet files ..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T12:09:41Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, File Explorer, Microsoft Edge, and system tray with notifications, sound, network, and battery status icons, and a clock displaying '13:09:43'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "gsheets.py - tools - Visual Studio Code",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "menu bar with File, Edit, Selection, View, Go, Run, Terminal, Help; sidebar with Explorer, Search, Source Control, Run, Extensions; status bar with Python language mode, line and column indicator, spaces setting, encoding, line ending, and Python version"
+                },
+                "content": [
+                  {
+                    "title": "gsheets.py",
+                    "layoutDescription": "editor open",
+                    "visibleText": "import gspread\nfrom google.oauth2.service_account import Credentials\n\n# Set up the credentials\ndef authenticate_gspread(json_credentials):\n scope = [\n 'https://www.googleapis.com/auth/spreadsheets',\n 'https://www.googleapis.com/auth/drive'\n ]\n client = gspread.service_account_from_dict(json_credentials, scopes=scope)\n #sa_credentials = Credentials.from_service_account_info(json_credentials, scopes=scope)\n #client = gspread.authorize(sa_credentials)\n return client"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in generating Python code to write data to a Google Sheet using the gspread library version 6. This is evident from the screenshot showing the user interacting with the Anthropic Console, where they have requested the AI to generate Python code for this purpose. The AI provides a code snippet that includes authentication data as a JSON object and instructions on how to create credentials and a client using the gspread library.",
+    "The user is conducting research on the gspread.http_client.HTTPClient example. This is shown in the screenshot where the user is on a Google search results page, looking for documentation and examples related to gspread. The search results include links to the gspread 6.0.0 documentation and GitHub repositories, indicating the user's intent to understand and implement the HTTPClient class in their project.",
+    "The user is writing code in Visual Studio Code, specifically working on a Python script named gsheets.py. The screenshot shows the user importing the gspread library and setting up credentials for Google Sheets API authentication. The code includes a function to authenticate using a JSON credentials object and return a client object. This indicates the user's focus on integrating Google Sheets functionality into their Python project."
+  ],
+  "aiUseSummary": "The user utilizes AI tools, specifically the Anthropic Console, to generate Python code for writing data to Google Sheets using the gspread library. The user requests the AI to provide a code snippet that includes authentication data as a JSON object. The AI responds with a detailed example, including the necessary imports, authentication data structure, and instructions to create credentials and a client. This interaction demonstrates the user's reliance on AI for quick and accurate code generation, enhancing their productivity and ensuring correct implementation.",
+  "activities": [
+    "WRITING_CODE",
+    "RESEARCH"
+  ],
+  "workTypes": [
+    "BACKEND"
+  ],
+  "programmingLanguages": [
+    "PYTHON"
+  ],
+  "toolTypes": [
+    "IDE",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [
+    "ANTHROPIC_CLAUDE"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 35,
+      "mouse": 5,
+      "date": "2024-06-14T12:00:24Z",
+      "windowTitle": "test.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 18,
+      "mouse": 9,
+      "date": "2024-06-14T12:01:24Z",
+      "windowTitle": "gsheets.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 21,
+      "mouse": 9,
+      "date": "2024-06-14T12:02:24Z",
+      "windowTitle": "gsheets.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-14T12:03:24Z",
+      "windowTitle": "gsheets.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 7,
+      "mouse": 9,
+      "date": "2024-06-14T12:04:24Z",
+      "windowTitle": "? gsheets.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 18,
+      "mouse": 9,
+      "date": "2024-06-14T12:05:24Z",
+      "windowTitle": "gspread.http_client.HTTPClient example - Google Search - Google Chrome",
+      "processName": "google.com",
+      "visitingUrl": "google.com/search?q=gspread.http_client.HTTPClient+example&oq=gspread.http_client.HTTPClient+example&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigAdIBCDI1MTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 29,
+      "mouse": 9,
+      "date": "2024-06-14T12:06:24Z",
+      "windowTitle": "? gsheets.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 9,
+      "mouse": 14,
+      "date": "2024-06-14T12:07:24Z",
+      "windowTitle": "Task Switching",
+      "processName": "explorer",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 3,
+      "mouse": 5,
+      "date": "2024-06-14T12:08:24Z",
+      "windowTitle": "Authentication ? gspread 6.0.0 documentation - Google Chrome",
+      "processName": "docs.gspread.org",
+      "visitingUrl": "docs.gspread.org/en/v6.0.0/oauth2.html",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 8,
+      "mouse": 2,
+      "date": "2024-06-14T12:09:24Z",
+      "windowTitle": "Authentication ? gspread 6.0.0 documentation - Google Chrome",
+      "processName": "docs.gspread.org",
+      "visitingUrl": "docs.gspread.org/en/v6.0.0/oauth2.html",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-14T12:00:00Z"
+}

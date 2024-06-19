@@ -1,0 +1,323 @@
+{
+  "candidateId": 2027577,
+  "apps": [
+    "meet.google.com",
+    "mail.google.com",
+    "docs.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-13T13:53:06Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Siri, Safari, Mail, Contacts, Calendar, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Time Machine, and Trash. Also includes a docked application bar with visible icons for various applications like Chrome, Slack, and others.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Meet - dsq-wmwy-gkm - Camera and microphone recording - Google Chrome - Firat (trilogy.com)",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "conference window with multiple participant videos, chat sidebar, and control buttons"
+                },
+                "content": [
+                  {
+                    "title": "Video Conference Participants",
+                    "layoutDescription": "Grid layout",
+                    "visibleText": "Leonhard Holz, Dan Gosselin, Firat Corli"
+                  },
+                  {
+                    "title": "Chat Sidebar",
+                    "layoutDescription": "Vertical list",
+                    "visibleText": "Ben New, 4:53 PM | Jive - TPMEng daily slot demo, read all meeting notes"
+                  }
+                ]
+              },
+              {
+                "title": "Jive - TPMEng daily slot demo",
+                "position": "bottom right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "window with messages and contact list"
+                },
+                "content": [
+                  {
+                    "title": "Messages",
+                    "layoutDescription": "Vertical list",
+                    "visibleText": "Ben New, read all meeting notes, Dan, Brian, and Firat added read all meeting notes to the roadmap, Road involves a dedicated meeting venue similar to Main Base and Storage Area, and gives us..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-13T13:55:53Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Siri, Google Chrome, Microsoft Outlook, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Visual Studio Code, Adobe Acrobat Reader, Terminal, System Preferences, and others. Docked at the bottom of the screen with a slight transparency effect.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Prod2 Mini Spec - IgniteTech:Jive Copilot - Refine Copilot - MS2 - Better Responses - Google Docs - High memory usage - 822 MB - Google Chrome - Firat (trilogy.com)",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Docs interface with menu bar, toolbar, and document content"
+                },
+                "content": [
+                  {
+                    "title": "Prod2 Mini Spec - IgniteTech:Jive Copilot - Refine Copilot - MS2 - Better Responses",
+                    "layoutDescription": "Document with text and tables",
+                    "visibleText": "Menus\nFile Edit View Insert Format Tools Extensions Help\n\nDocument Title\nProd2 Mini Spec - IgniteTech:Jive Copilot - Refine Copilot - MS2 - Better Responses\n\nDocument Content\nSBD 7 - Allow the LLM...\nEngineering Guidance\nUX Guidance\nAnswer Question 1 - A...\nAnswer Question 1 - B...\nWow Demo Guidance\nAppendices\nCustomer Panel\nSearch Parameters\nSystem Prompt\nUser Prompt\nAnswer Generator Prompts\nSystem Prompt\nEngineering Execution\nQuestions Engineering Sheet...\nTMP Certifications\nIID 1 - Set the feature...\nIID 2 - Use the desired...\nIID 3 - Store the LLM...\nMilestone Test Plan\nMT Decomposition\n\nTable Content\nTable with columns labeled 'Jira Ticket', 'Feature', 'Implementation', 'FBS'. Rows contain text describing features and their implementation status."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Teams",
+            "windows": [
+              {
+                "title": "Team Chat",
+                "position": "bottom right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Chat interface with sidebar and chat content"
+                },
+                "content": [
+                  {
+                    "title": "Team Chat",
+                    "layoutDescription": "Chat interface with messages",
+                    "visibleText": "Team Chat\n\nSections\nMissed Calls\nMentions\nContact Requests\nDrafts and Sent\nMore\n\nMessages\nStarred\nFrom: Root (CIO)\nRecents\nJive - TMP staffing daily stand demo\nJive - TMP standup\nFrom: Jive - customer-focused data...\n\nMessage Content\nType 'restart' in... (message truncated)\n\nRecent Messages\nFrom: Root (CIO), 'Read meeting notes. Need...'\nFrom: Jive - TMP staffing daily stand demo, 'Please report to...'"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-13T13:57:11Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Siri, Safari, Mail, Calendar, Contacts, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a docked application bar with active indicators beneath some apps.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - dsq-wmwy-gkm - Camera and microphone recording - Google Chrome - Firat (trilogy.com)",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, extensions icons"
+                },
+                "content": [
+                  {
+                    "title": "Google Meet Video Conference",
+                    "layoutDescription": "Four video feeds displayed",
+                    "visibleText": "Firat's AI Nostradamus\nLeonhard Horle\nBen New\nread all meeting notes\nFirat Goni"
+                  }
+                ]
+              },
+              {
+                "title": "Jive - TMP-Eng daily slot demo",
+                "position": "bottom right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "window with message list and input area"
+                },
+                "content": [
+                  {
+                    "title": "Jive Chat Window",
+                    "layoutDescription": "List of messages and chat input area",
+                    "visibleText": "Team Chat\n\nMessages\n\nStarred\nFront Room\nRecents\nJive - TMP customer-focused culture\nJive - TMP-Eng daily slot demo\nJive - TMPHUB\n\nFirat | FIRMA\n\nJive - customer focus\n\nMessage Jive - TMP-Eng daily slot demo\n\nFirat | FIRMA\n\nDan, Emma, and Firat added read meeting notes to the\nRoad involves a diversified mining venture to Mali\n'Please stop' to Goni, etc., or 'quit' to close meeting\nCC: G"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Google Meet video conference, as evidenced by the screenshots showing multiple participants in a grid layout. The meeting includes individuals named Leonhard Holz, Dan Gosselin, Firat Corli, and Ben New. The user is actively participating in the meeting, which is likely related to project discussions or team updates. The chat sidebar in the Google Meet window shows messages from Ben New, indicating ongoing communication during the meeting.",
+    "The user is also working on a Google Docs document titled 'Prod2 Mini Spec - IgniteTech:Jive Copilot - Refine Copilot - MS2 - Better Responses.' The document contains various sections, including Engineering Guidance, UX Guidance, and Answer Questions. The user is likely reviewing or editing the document, as the interface shows the document content and a table with columns labeled 'Jira Ticket,' 'Feature,' 'Implementation,' and 'FBS.' This suggests the user is involved in project planning or specification writing.",
+    "Additionally, the user is engaged in team communication via Microsoft Teams. The Teams interface shows a chat window with messages from various team members, including Root (CIO) and Jive - TMP staffing daily stand demo. The messages indicate discussions about meeting notes and project updates. The user is likely coordinating with team members and staying updated on project progress through these chats."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a video conference, document editing, and team communication. No AI chat interfaces or AI-generated suggestions are visible in the screenshots, indicating that the user is not utilizing AI tools for their workflow during this period.",
+  "activities": [
+    "MEETING",
+    "READING_SPEC",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-13T13:50:56Z",
+      "windowTitle": " Meet - dsq-wmwy-gkm - Camera and microphone recording - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/dsq-wmwy-gkm?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 24,
+      "mouse": 3,
+      "date": "2024-06-13T13:51:56Z",
+      "windowTitle": " HEMA SHARMA messaged you - Chat - Pinned - High memory usage - 1.4 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#chat/dm/xoYotMAAAAE?compose=GTvVlcSBpgVhkJnqvqtZsLjTDtFjPtcLnXMhHMhXMDfHKjZcNTsJbDVJxcgkvxvBmKxMwxkXwwpTq",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 104,
+      "mouse": 6,
+      "date": "2024-06-13T13:52:56Z",
+      "windowTitle": " Meet - dsq-wmwy-gkm - Camera and microphone recording - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/dsq-wmwy-gkm?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-13T13:53:56Z",
+      "windowTitle": " Meet - dsq-wmwy-gkm - Camera and microphone recording - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/dsq-wmwy-gkm?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-13T13:54:56Z",
+      "windowTitle": " Weekly Progress Report - TPM+Eng - Google Docs - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1ZpDZFhxlCdiHNCBofrePLV4fzgVUfIH3de4corNiNt0/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 15,
+      "date": "2024-06-13T13:55:55Z",
+      "windowTitle": " Prod2 Mini Spec - IgniteTech:Jive Copilot - Refine Copilot - MS2 - Better Responses - Google Docs - High memory usage - 822 MB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1R8GYrigUEvU7kpR2W5E1I4_rfIqlwElR4nFZ3cPW2_Q/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-13T13:56:55Z",
+      "windowTitle": " Meet - dsq-wmwy-gkm - Camera and microphone recording - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/dsq-wmwy-gkm?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-13T13:57:55Z",
+      "windowTitle": " Meet - dsq-wmwy-gkm - Camera and microphone recording - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/dsq-wmwy-gkm?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-13T13:58:55Z",
+      "windowTitle": " Meet - dsq-wmwy-gkm - Camera and microphone recording - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/dsq-wmwy-gkm?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 2,
+      "mouse": 3,
+      "date": "2024-06-13T13:59:55Z",
+      "windowTitle": " DevFactory Mail - Pinned - High memory usage - 1.5 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#chat/space/AAAAPc5Jjgw?compose=GTvVlcSBpgVhkJnqvqtZsLjTDtFjPtcLnXMhHMhXMDfHKjZcNTsJbDVJxcgkvxvBmKxMwxkXwwpTq",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-13T13:50:00Z"
+}

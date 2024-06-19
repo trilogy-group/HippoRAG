@@ -1,0 +1,207 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "meet.google.com",
+    "mail.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T17:17:05Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Minimize, Core, Coach, Rough, DevFac, Me, (9+), AI, Pending, Magic Academy, Budget, New Tab, and user profile picture. Also includes system clock showing 11:17 AM, 12 Jun 2024, and system icons for network, sound, and notifications.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Meet - hxk-aqgq-oyj - Google Chrome",
+                "url": "meet.google.com/hxk-aqgq-oyj",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "UI includes back, forward, refresh, home buttons, address bar, bookmarks bar with icons for Core, Coach, Rough, DevFac, Me, (9+), AI, Pending, Magic Academy, Budget, New Tab, and user profile picture. Minimize, maximize, close buttons at top right."
+                },
+                "content": [
+                  {
+                    "title": "Google Meet Video Call",
+                    "layoutDescription": "Main participant in large frame, smaller frame for self-view",
+                    "visibleText": "Mark Nygren, Isaac / Mark Biweekly Sync"
+                  }
+                ],
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Mark Nygren",
+                      "expression": "speaking"
+                    },
+                    {
+                      "name": "Isaac Squires",
+                      "expression": "listening"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Google Meet video call, as evidenced by the screenshot showing the Google Meet interface. The meeting is titled 'Isaac / Mark Biweekly Sync,' indicating a regular sync-up between two participants, Mark Nygren and Isaac Squires. Mark Nygren appears to be speaking, while Isaac Squires is listening. The browser tab shows the URL 'meet.google.com/hxk-aqgq-oyj?authuser=0,' confirming the use of Google Meet for this activity. The system clock shows the time as 11:17 AM on June 12, 2024.",
+    "The taskbar at the bottom of the screen includes icons for various applications such as Minimize, Core, Coach, Rough, DevFac, Me, (9+), AI, Pending, Magic Academy, Budget, and New Tab. This indicates that the user has multiple applications open, although the primary focus during this time frame is the Google Meet call. The presence of these icons suggests that the user might switch between different tasks and applications throughout their work session."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a Google Meet video call, and there are no visible interactions with AI chat interfaces or other AI tools during this time frame.",
+  "activities": [
+    "MEETING"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 100,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T17:10:45Z",
+      "windowTitle": "Meet - hxk-aqgq-oyj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/hxk-aqgq-oyj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T17:11:45Z",
+      "windowTitle": "Meet - hxk-aqgq-oyj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/hxk-aqgq-oyj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T17:12:45Z",
+      "windowTitle": "Meet - hxk-aqgq-oyj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/hxk-aqgq-oyj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T17:13:45Z",
+      "windowTitle": "Meet - hxk-aqgq-oyj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/hxk-aqgq-oyj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T17:14:45Z",
+      "windowTitle": "Meet - hxk-aqgq-oyj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/hxk-aqgq-oyj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T17:15:45Z",
+      "windowTitle": "Meet - hxk-aqgq-oyj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/hxk-aqgq-oyj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T17:16:46Z",
+      "windowTitle": "Meet - hxk-aqgq-oyj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/hxk-aqgq-oyj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T17:17:46Z",
+      "windowTitle": "Meet - hxk-aqgq-oyj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/hxk-aqgq-oyj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T17:18:46Z",
+      "windowTitle": "Meet - hxk-aqgq-oyj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/hxk-aqgq-oyj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 121,
+      "mouse": 3,
+      "date": "2024-06-12T17:19:46Z",
+      "windowTitle": "CoachBot Alerts - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/2uwcQ0AAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-12T17:10:00Z"
+}

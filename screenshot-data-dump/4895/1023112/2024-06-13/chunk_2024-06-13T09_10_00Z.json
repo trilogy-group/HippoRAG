@@ -1,0 +1,358 @@
+{
+  "candidateId": 2027577,
+  "apps": [
+    "mail.google.com",
+    "linkedin.com",
+    "aws.prod.jivehosted.com",
+    "docs.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-13T09:11:02Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, Spotify, and other unidentified applications. System clock shows 09:11. Date is 2024-06-13.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "New Tab",
+                "url": "chrome://newtab/",
+                "position": "top half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Search bar, top sites, Google Drive section"
+                },
+                "content": [
+                  {
+                    "title": "Search Bar",
+                    "layoutDescription": "Centered at top",
+                    "visibleText": "Search Google or type a URL."
+                  },
+                  {
+                    "title": "Top Sites",
+                    "layoutDescription": "Below search bar",
+                    "visibleText": "Jive, Thrive, ChartIQ, MarketingAI, Ticket"
+                  },
+                  {
+                    "title": "Google Drive Section",
+                    "layoutDescription": "Below top sites",
+                    "visibleText": "From Your Google Drive\n- Jive Upgrade\nJive often went around this time\n- Jive Capital Usage Q4 2024\nThe capital usage during Q4 2024\n- 2nd Brain: How to Approach Customers as PM\nYou've opened Frequently"
+                  }
+                ]
+              },
+              {
+                "title": "LinkedIn Search",
+                "url": "https://www.google.com/search?q=linkedin",
+                "position": "bottom half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Search results"
+                },
+                "content": [
+                  {
+                    "title": "Search Results",
+                    "layoutDescription": "Full window",
+                    "visibleText": "linkedin - Google Search\nlinkedin\nLinkedIn Learning - Educational technology company\nlinkedin\nlinkedin login\nlinkedin\nlink katalima\nlinkedin\nlinkedin logo\nlinkedin\nWorld's Largest Professional Network | LinkedIn - linkedin.com"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Spotify",
+            "windows": [
+              {
+                "title": "Web Player: Music for everyone",
+                "url": "https://open.spotify.com",
+                "position": "bottom half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Search bar, music player controls"
+                },
+                "content": [
+                  {
+                    "title": "Spotify Interface",
+                    "layoutDescription": "Full window",
+                    "visibleText": "Home\nYour Library\nPlaylists\nAlbums\nPodcasts & Shows\nLiked Songs\nYour Episodes\nSearch\nDeep House Unique\nPlaylist - Spotify\nBoris - First\nPlaylist - Spotify\nChill 2024\nPlaylist - Spotify\nRecommended radio\nINJI Radio\nVendredi sur Mer\nJungle\nR3HAB\nSia\nYour favorite artists\nSad\nFocus\nDeep Breath - Link\nShow all\nLiked Songs\n2024 Winners\nAnkaralı Turgut\nDeutsche Songs, die jeder kennt"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-13T09:14:22Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Spotify, WhatsApp, Python, Automation, Git, Visual Studio Code, and a folder icon labeled 'Old Code'. There is also a system clock showing '9:14 AM' and a date 'Wed, Jun 13'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Inbox - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.4 GB - Google Chrome - Firat (trilogy.com)",
+                "url": "https://mail.google.com/mail",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "mail input box, Compose button, Gmail sidebar with labels such as Inbox, Starred, Snoozed, Sent, Drafts, and more."
+                },
+                "content": [
+                  {
+                    "title": "Email List",
+                    "layoutDescription": "List of emails displayed in a table format",
+                    "visibleText": "Guido Team - Someone from Istanbul viewed 1000s of your Guido video - New View by Someone from Istanbul viewed 1000s of your Guido video. \n\nEliot at Perplexity - Welcome to Perplexity! (D-7) - Over the next seven days, we will show you how to get the most out of Perplexity and... \n\nJie - Welcome to your new membership - Thanks for becoming a member! Membership number is... \n\nLeonhard Holz - Leonhard Holz (leonhard.holz@devfactory.com) messaged you on Google Chat while you were away - Leonhard Holz - Use the hashtag... \n\nMedium Daily Digest - New Churching Method for B2C Systems | Anecdotal Data in DevInvestorWatch - First Edition Stories for Firat Gomi... \n\nJesse Manning - Invitation: CNRI / WRI tech-to-tech - Bi-Weekly Check-In Meetings @ Thu Jun 20, 2024 5:30pm - 6:30pm (GMT+3) - Be part of a better Internet. 20% off Medium membership for a limited time... \n\nElvis, Firat & Team - Accepted Devita, Jeffers and Firat Gomi - FIR - Thanks for reaching out. We kind of hit the floor about proceeding... \n\nRead Assistant - Jive - TFW-Pricing daily sales demo on June 10, 2024 @ 4:45 PM | Read Meeting Report - The team discussed the progress... \n\nRead Assistant - Currently unable to record. Upgrade for higher reliability - Hi Firat! Due to increased demand on our free server... \n\nDragos Nita (nita.dragos@devfactory.com) - Share request for 'Educational Series' - Share a document! Dragos Nita (nita.dragos@devfactory.com) is requesting access... \n\nAmy from Insider - Event Reminder: Beyond the Prod - Email for System Admins - \n\n"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "LinkedIn",
+            "windows": [
+              {
+                "title": "Search - Tess McCain - LinkedIn",
+                "url": "https://www.linkedin.com/search/",
+                "position": "right side of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "search bar, People tab active, filters for 1st, 2nd, 3rd degree, Locations, Current company, All filters."
+                },
+                "content": [
+                  {
+                    "title": "LinkedIn Search Results",
+                    "layoutDescription": "List of profiles in a grid format",
+                    "visibleText": "Tess McCain - Terminal Communications at Close Brothers - London \n\nTess M. - Student at Bard College, Columbia University - New York, NY \n\nTess McCain - Easily find people who are actively hiring with advanced search filters \n\nTess McCain, West RD, RD LD - Registered Dietitian, RD, LD, RD - Bozeman, MT \n\nTess McCain - Kansas City, MO - Home Economics Teacher at Close Colleges - Promotes kitchen safety - Origin: Tess McCain | LinkedIn \n\n"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-13T09:18:17Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Outlook, Microsoft Excel, Python, Automation, My Guides, Amazon Web Services, and LogMeIn Rescue. Also includes system clock showing '9:18 AM' and system date '6/13/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "JCA for Aurea (PROD) - AWS Installations - Part of group Jive - Google Chrome - Firat (trilogy.com)",
+                "url": "https://docs.google.com/spreadsheets/d/1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "multiple tabs open"
+                },
+                "content": [
+                  {
+                    "title": "Jive Cloud CtrlPnl - Outreach",
+                    "layoutDescription": "spreadsheet layout",
+                    "visibleText": "Jive Cloud CtrlPnl - Outreach"
+                  },
+                  {
+                    "title": "Helper Tools",
+                    "layoutDescription": "spreadsheet layout",
+                    "visibleText": "Helper Tools"
+                  },
+                  {
+                    "title": "Jive - Usage of CP",
+                    "layoutDescription": "spreadsheet layout",
+                    "visibleText": "Jive - Usage of CP"
+                  },
+                  {
+                    "title": "Jive Cloud CtrlPnl - Prod",
+                    "layoutDescription": "spreadsheet layout",
+                    "visibleText": "Jive Cloud CtrlPnl - Prod"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user started their session by opening Google Chrome and performing a search for LinkedIn. The search results page was visible, showing various LinkedIn-related links. This indicates that the user was likely looking to access LinkedIn for professional networking or research purposes. The user also had Spotify open, but it was not the active window, suggesting it was being used for background music.",
+    "The user then switched to their Gmail account, where they reviewed several emails. The emails included notifications from various sources such as Guido Team, Perplexity, and Jive. The user also received a message from Leonhard Holz on Google Chat. This activity indicates that the user was managing their email communications and possibly preparing for upcoming tasks or meetings.",
+    "Next, the user accessed LinkedIn to search for a specific individual named Tess McCain. The search results showed multiple profiles with the same name, indicating that the user was likely trying to find and connect with a specific person for professional reasons. This activity suggests that the user was engaged in networking or recruitment tasks.",
+    "The user then opened a Google Sheets document titled 'Jive Cloud CtrlPnl - Outreach'. The spreadsheet contained detailed information about various customers, including their contact details, outreach status, and meeting notes. This indicates that the user was involved in managing customer outreach and tracking interactions with clients. The user also had multiple tabs open in Chrome, including HubSpot, which suggests they were using it for customer relationship management."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user primarily interacted with Google Chrome, Gmail, LinkedIn, and Google Sheets. No AI chat interfaces or AI-driven tools were visible in the screenshots, indicating that the user did not utilize AI for their tasks during this period.",
+  "activities": [
+    "RESEARCH",
+    "EMAIL",
+    "READING_SPEC"
+  ],
+  "workTypes": [
+    "UI",
+    "DB"
+  ],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "EMAIL",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-13T09:10:44Z",
+      "windowTitle": " Hello Tess and William, Thanks for Reading My Last Email! - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.4 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#sent/FMfcgzQVwwwNTfkfTdHhCGPQDCmpfQbV?compose=lqrsljcJBdGzLMXvPnxgvJVvTWqNrQnjxwgdpjjjzlMSQCRdggnTffhSJHdgkzgvFzwsWnCkWJctrXNXz",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 71,
+      "mouse": 10,
+      "date": "2024-06-13T09:11:44Z",
+      "windowTitle": " \"tess mckain\" | Search | LinkedIn - High memory usage - 1.0 GB - Google Chrome - F?rat\n",
+      "processName": "linkedin.com",
+      "visitingUrl": "https://www.linkedin.com/search/results/people/?keywords=tess%20mckain&origin=GLOBAL_SEARCH_HEADER&sid=gsC",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 44,
+      "mouse": 7,
+      "date": "2024-06-13T09:12:44Z",
+      "windowTitle": " \"clare, close brothers\" | Search | LinkedIn - High memory usage - 1,005 MB - Google Chrome - F?rat\n",
+      "processName": "linkedin.com",
+      "visitingUrl": "https://www.linkedin.com/search/results/people/?keywords=tess%20mckain&origin=GLOBAL_SEARCH_HEADER&sid=%40gz",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 6,
+      "mouse": 1,
+      "date": "2024-06-13T09:13:44Z",
+      "windowTitle": " Inbox - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.4 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#inbox?compose=FZxzwjphXXHlqqrWMSdptbPwjTwkDJhqzVmMHdnlbLZTDPdVmqFHDsfzJwZhqZzNJrBWdhBnCZCPsvpZMcHXzgDZjNzHFDXJMdLTsRgkmTpzvfnLGHcZxVVzdkwTcDQVLkNppkDLLfgFspRjnJddTwtZTsCBBGLrSxgNB",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-13T09:14:44Z",
+      "windowTitle": " Inbox - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.4 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#inbox?compose=FZxzwjphXXHlqqrWMSdptbPwjTwkDJhqzVmMHdnlbLZTDPdVmqFHDsfzJwZhqZzNJrBWdhBnCZCPsvpZMcHXzgDZjNzHFDXJMdLTsRgkmTpzvfnLGHcZxVVzdkwTcDQVLkNppkDLLfgFspRjnJddTwtZTsCBBGLrSxgNB",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 8,
+      "date": "2024-06-13T09:15:44Z",
+      "windowTitle": " Sent Mail - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.6 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#sent?compose=FZxzwjphXXHlqqrWMSdptbPwjTwkDJhqzVmMHdnlbLZTDPdVmqFHDsfzJwZhqZzNJrBWdhBnCZCPsvpZMcHXzgDZjNzHFDXJMdLTsRgkmTpzvfnLGHcZxVVzdkwTcDQVLkNppkDLLfgFspRjnJddTwtZTsCBBGLrSxgNB",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 9,
+      "date": "2024-06-13T09:16:44Z",
+      "windowTitle": " Thanks for Reading my e-mail Robert - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.6 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#sent/FMfcgzQVwwwMhvKfGJzGGfRCbWTpHvkC?compose=FZxzwjphXXHlqqrWMSdptbPwjTwkDJhqzVmMHdnlbLZTDPdVmqFHDsfzJwZhqZzNJrBWdhBnCZCPsvpZMcHXzgDZjNzHFDXJMdLTsRgkmTpzvfnLGHcZxVVzdkwTcDQVLkNppkDLLfgFspRjnJddTwtZTsCBBGLrSxgNB",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 28,
+      "mouse": 8,
+      "date": "2024-06-13T09:17:44Z",
+      "windowTitle": " JCA for Aurea (PROD) - AWS Installations - Part of group Jive - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "aws.prod.jivehosted.com",
+      "visitingUrl": "https://aws.prod.jivehosted.com/admin/jcx-installation-list.jspa",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 90,
+      "mouse": 8,
+      "date": "2024-06-13T09:18:44Z",
+      "windowTitle": " Jive Cloud CoPilot - Outreach - Google Sheets - Part of group Jive CoPilot - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/spreadsheets/d/1-RRgVkDpEa_z6PnSiqqKllWiAWX2os3OAmuDttJ_oNA/edit?pli=1#gid=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 103,
+      "mouse": 5,
+      "date": "2024-06-13T09:19:44Z",
+      "windowTitle": " JCA for Aurea (PROD) - AWS Installations - Part of group Jive - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "aws.prod.jivehosted.com",
+      "visitingUrl": "https://aws.prod.jivehosted.com/admin/jcx-installation-list.jspa",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-13T09:10:00Z"
+}

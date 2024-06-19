@@ -1,0 +1,285 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "loom.com",
+    "github.com",
+    "google.com",
+    "developer.salesforce.com",
+    "chrome",
+    "ws-lambda.atlassian.net"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T08:31:03Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Visual Studio Code, and other unidentified applications. Displays the time as '10:31' and the date as '06/12/2024'. System tray includes network status, sound volume, and battery status icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "feat(LAMBDA-75974): Enhance job recommendations by denysyefimenko ? Pull Request #2313 ? trilogy-group/xo-hiring - Google Chrome",
+                "url": "https://github.com/trilogy-group/xo-hiring/pull/2313",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Multiple tabs, address bar, GitHub repository navigation, file navigation sidebar, pull request details, code review interface"
+                },
+                "content": [
+                  {
+                    "title": "GitHub Repository - Pull Request Review",
+                    "layoutDescription": "Divided into multiple sections",
+                    "visibleText": "feat(LAMBDA-75974): Enhance job recommendations by denysyefimenko ? Pull Request #2313 ? trilogy-group/xo-hiring\n\nFiles changed 0 / 76 files viewed\nReview changes\nFinish update 2\n\nFilter changed files\nFilter by extension\nFilter by filename\nFilter by owner\nFilter by reviewer\n\nConversations\nFiles\nCommits\nChecks\n\nThe navigation sidebar includes:\ndocs/context-pack\nsrc/force-app/main/default\n\nThe code review interface shows changes in files with additions (green) and deletions (red). The code snippets visible include:\n\n// Store Job Recommendations: Utilize the custom object, 'Job_Recommendation__c', to store generated job recommendations, including references to the candidate and recommended pipeline, AI-generated pitch, and apply likelihood score.\n\n// Get all existing job recommendations for candidates\nprivate Map<Id, List<JobRecommendation__c>> getCandidateJobRecommendations(List<Id> candidateIds) {\n\nList<JobRecommendation__c> jobRecs = [SELECT Id, Candidate__c, Reasoning__c, Pipeline__c, Likelihood_Score__c FROM Job_Recommendation__c WHERE Candidate__c IN :candidateIds];\n\n// Get pipeline IDs for all recommendations\n\npublic class ServiceException extends Exception {\n\n// System.assertEqua..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T08:36:19Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays system tray with clock showing '10:36 AM', date '06/12/2024', and other system icons like network, sound, and notifications.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Date Formats and Date Literals in WHERE | SOQL and SOSL Reference | Salesforce Developers - Google Chrome",
+                "url": "https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql_select_date_formats.htm",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, navigation buttons, and Salesforce Developers website header"
+                },
+                "content": [
+                  {
+                    "title": "SOQL and SOSL Reference",
+                    "layoutDescription": "Two-column layout",
+                    "visibleText": "Developers\nHome Blog Documentation APIs Discover Build Connect\nSOQL and SOSL Reference\nSearch\nSummer '24 (API version...)\nIntroduction to SOQL and SOSL\nSalesforce Object Query Language (SOQL)\nTypographical Conventions in This Document\nQuoted String Escape Sequences\nReserved Characters\nAlias Notation\nSOQL SELECT Syntax\nSELECT\nTYPEOF\nUSING SCOPE\nWHERE\nComparison Operators\nLogical Operators\nDate Formats and Date Literals in WHERE\nFilter on Polymorphic Relationship Fields\nQuery Multi-Select Picklists\nUse null in WHERE\nWITH\nGROUP BY\nHAVING\nORDER BY\nLIMIT\nOFFSET\nFOR VIEW and FOR REFERENCE\nUPDATE\nFOR UPDATE\nSOQL SELECT Examples\nSOQL SELECT Functions\nNEXT_N_MONTHS:n\nStarts at 12:00:00 AM on the first day of the month after the current month and continues until the end of the nth month.\nSELECT Id FROM Opportunity WHERE CloseDate > NEXT_N_MONTHS:2\nLAST_N_MONTHS:n\nStarts at 12:00:00 AM on the first day of the month that started n months before the current month and continues up to 11:59 PM on the last day of the month before the current month.\nSELECT Id FROM Account WHERE CreateDate = LAST_N_MONTHS:12\nN_MONTHS_AGO:n\nStarts at 12:00:00 AM on the first day of the month that started n months before the start of the current month and continues for all the days of that month.\nSELECT Id FROM Opportunity WHERE CloseDate = N_MONTHS_AGO:6\nTHIS_QUARTER\nStarts at 12:00:00 AM on the first day of the current calendar quarter and continues to the end of the quarter.\nSELECT Id FROM Account WHERE CreateDate = THIS_QUARTER\nLAST_QUARTER\nStarts at 12:00:00 AM on the first day of the calendar quarter before the current calendar quarter and continues to the end of that quarter.\nSELECT Id FROM Account WHERE CreateDate = LAST_QUARTER\nNEXT_QUARTER\nStarts at 12:00:00 AM on the first day of the calendar quarter after the current calendar quarter and continues to the end of that quarter.\nSELECT Id FROM Account WHERE CreateDate = NEXT_QUARTER\nNEXT_N_QUARTERS:n\nStarts at 12:00:00 AM on the first day of the calendar quarter after the current calendar quarter and continues to the end of the nth quarter.\nSELECT Id FROM Account WHERE CreateDate = NEXT_N_QUARTERS:2\nLAST_N_QUARTERS:n\nStarts at 12:00:00 AM on the first day of the calendar quarter before the current calendar quarter and continues to the end of the nth quarter.\nSELECT Id FROM Opportunity WHERE CloseDate = LAST_N_QUARTERS:2\nN_QUARTERS_AGO:n\nStarts at 12:00:00 AM on the first day of the calendar quarter n quarters before the current calendar quarter and continues to the end of that quarter.\nSELECT Id FROM Opportunity WHERE CloseDate = N_QUARTERS_AGO:6\nTHIS_YEAR\nStarts at 12:00:00 AM on January 1 of the current year and continues through the end of December 31 of the current year.\nSELECT Id FROM Opportunity WHERE CloseDate = THIS_YEAR\nLAST_YEAR\nStarts at 12:00:00 AM on January 1 of the year before the current year and continues through the end of December 31 of that year.\nSELECT Id FROM Opportunity WHERE CloseDate = LAST_YEAR\nNEXT_YEAR\nStarts at 12:00:00 AM on January 1 of the year after the current year and continues through the end of December 31 of that year.\nSELECT Id FROM Opportunity Where CloseDate = NEXT_YEAR"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T08:37:41Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the system clock showing '10:37' and date '06/12/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Google Chat - Denys Yefimenko - Chat",
+                "url": "https://chat.google.com",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "interface with a sidebar on the left and a chat window on the right"
+                },
+                "content": [
+                  {
+                    "title": "Chat Sidebar",
+                    "layoutDescription": "Vertical list",
+                    "visibleText": "New chat\nShortcuts\nHome\nMentions\nStarred\nDirect messages\nDenys Yefimenko\nDragos Nauta\nVinodh Talapaneni\nDimitri Shutkenov\nMichael Madume\nSerban Petrescu\nIsabelle Alviento\nEvgeniy Belostytskiy\nBogdan Tenca\nBurak Goktouk\nMore\nSpaces\nWS Eng Random\nWS Eng QC Requests\nWS Eng AI Adoption\nWS Eng Team\nGeneral\nXO Team Chat\nCrossover - Upwork Sourcing...\nCode with AI\nWS Eng Onboarding\nWS Eng Code Review through...\nMore"
+                  },
+                  {
+                    "title": "Chat Window",
+                    "layoutDescription": "Chat messages displayed chronologically",
+                    "visibleText": "Denys Yefimenko 9:17AM\nПривет, столкнулась с проблемой с ИОВ в ПФ СФ, на тестовых боксах кажется не видны Job_Recommendation и С... Не знаешь, что еще может быть связано? Это из-за Crossover или с Мастером?\nDenys Yefimenko 9:21AM\nПопробую лучше добавить эти объекты в манифест, ассо работает...\nDenys Yefimenko 9:22AM\nСоздал для этого тикет https://ws-lambda.atlassian.net/browse/LAMBDA-750 Yefimenko 9:26AM\nДа, добавь\nDenys Yefimenko 9:26AM\nДумаю из-за синка, а не\nDenys Yefimenko 9:26AM\nНадо уже его почистить\nDenys Yefimenko 6 min\nОбычный, стало красивее) спасибо\nDenys Yefimenko 2 min\nМне кажется эта функция не то же самое\nDenys Yefimenko 1 min\nнасколько я понимаю он будет брать записи начиная с 00:01 предшествующего дня, то есть 24 часа плюс сколько осталось пройти почти в сегодня. То есть от 24 до 48 часов.\nНе то чтобы это было критично, но я предпочёл бы указано именно 24 часа"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in reviewing code on GitHub. The screenshot shows a pull request titled 'feat(LAMBDA-75974): Enhance job recommendations' with changes in multiple files. The user is examining the code differences, which include additions and deletions in the 'JobRecommendationService.cls' file. The code changes involve utilizing a custom object 'Job_Recommendation__c' to store job recommendations and applying a likelihood score. The user is also seen navigating through the file structure in the repository.",
+    "The user is conducting research on Salesforce SOQL and SOSL reference documentation. The screenshot shows the user viewing a page titled 'Date Formats and Date Literals in WHERE' on the Salesforce Developers website. The user is likely looking for information on how to format date queries in SOQL, as indicated by the visible text and examples on the page. This research is relevant to their task of enhancing job recommendations.",
+    "The user is chatting with a team member, Denys Yefimenko, on Google Chat. The conversation is in Russian and discusses issues related to the visibility of 'Job_Recommendation' objects in test environments. The user mentions creating a ticket for this issue and provides a link to the Jira ticket. The chat also includes discussions about adding objects to the manifest and cleaning up synchronization issues. This indicates collaboration and troubleshooting with a team member."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in code review, research, and team communication without visible interaction with AI tools. Therefore, no specific AI usage can be summarized from the available data.",
+  "activities": [
+    "REVIEWING_CODE",
+    "RESEARCH",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "DB",
+    "TESTS"
+  ],
+  "programmingLanguages": [
+    "SALESFORCE",
+    "JAVA",
+    "SQL"
+  ],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "REVIEWING_CODE",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T08:30:00Z",
+      "windowTitle": "[LAMBDA-75974] Support Job Recommendations in Reject emails release and iterate - WorkSmart Lambda - 12 June 2024 - Google Chrome",
+      "processName": "loom.com",
+      "visitingUrl": "loom.com/share/d126b0df8bbd44d2b64861512c87e4a1?sid=5a31824d-eb91-4ef2-ba1f-29f016cab471",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 10,
+      "date": "2024-06-12T08:31:00Z",
+      "windowTitle": "feat(LAMBDA-75974): Enhance job recommendations by denysyefimenko ? Pull Request #2313 ? trilogy-group/xo-hiring - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-hiring/pull/2313/files",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 96,
+      "mouse": 12,
+      "date": "2024-06-12T08:32:00Z",
+      "windowTitle": "last n days salesforce - Google Search - Google Chrome",
+      "processName": "google.com",
+      "visitingUrl": "google.com/search?q=last+n+days+salesforce&oq=last+n+days+salesforce&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyCAgBEAAYFhgeMggIAhAAGBYYHjIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhgeMgoICBAAGAoYFhgeMggICRAAGBYYHtIBCDI5NzZqMGo3qAIAsA",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 77,
+      "mouse": 15,
+      "date": "2024-06-12T08:33:00Z",
+      "windowTitle": "feat(LAMBDA-75974): Enhance job recommendations by denysyefimenko ? Pull Request #2313 ? trilogy-group/xo-hiring - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-hiring/pull/2313/files",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 76,
+      "mouse": 11,
+      "date": "2024-06-12T08:34:00Z",
+      "windowTitle": "feat(LAMBDA-75974): Enhance job recommendations by denysyefimenko ? Pull Request #2313 ? trilogy-group/xo-hiring - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-hiring/pull/2313/files",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 52,
+      "mouse": 9,
+      "date": "2024-06-12T08:35:00Z",
+      "windowTitle": "feat(LAMBDA-75974): Enhance job recommendations by denysyefimenko ? Pull Request #2313 ? trilogy-group/xo-hiring - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-hiring/pull/2313#pullrequestreview-2112332717",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 6,
+      "mouse": 3,
+      "date": "2024-06-12T08:36:00Z",
+      "windowTitle": "Date Formats and Date Literals in WHERE | SOQL and SOSL Reference | Salesforce Developers - Google Chrome",
+      "processName": "developer.salesforce.com",
+      "visitingUrl": "developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql_select_dateformats.htm",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 48,
+      "mouse": 5,
+      "date": "2024-06-12T08:37:00Z",
+      "windowTitle": "Google Chat - Denys Yefimenko - Chat",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 198,
+      "mouse": 4,
+      "date": "2024-06-12T08:38:00Z",
+      "windowTitle": "Google Chat - Denys Yefimenko - Chat",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 106,
+      "mouse": 18,
+      "date": "2024-06-12T08:39:00Z",
+      "windowTitle": "[LAMBDA-75974] Support Job Recommendations in Reject emails release and iterate - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-75974",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-12T08:30:00Z"
+}

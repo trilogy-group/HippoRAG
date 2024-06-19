@@ -1,0 +1,265 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "sublime_text"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T13:10:55Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and system tray including network, sound, and date/time indicators",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Sublime Text",
+            "windows": [
+              {
+                "title": "IF(ISPICKVAL(Sourcing_ 'Indeed') - Sublime Text (UNREGISTERED)",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, Selection, Find, View, Goto, Tools, Project, Preferences, Help"
+                },
+                "content": [
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Text editor with multiple lines of code",
+                    "visibleText": "1 IF (ISPICKVAL(Sourcing_Platform__c, 'Indeed')\n2 && Applications__c == 0\n3 && Cost__c > $Setup.IndeedJobPublishing__c.Dry_Budget_Multiplier * Job_Board_Cell__r.Pipeline_Job_Title__r.Pipeline_ /* Indeed - clearly dry */\n5 0,\n6 \n7 IF (ISPICKVAL(Sourcing_Platform__c, 'Indeed')\n8 && NOT ISBLANK(MostRecentTest__c)\n9 && CEILING((NOW() - MostRecentTest__c) / 7 * $Setup.LinkedIn_Integration__c.WeeksForSlotPerformance) && Applications__c > 0\n11 && Cost__c > $Setup.IndeedJobPublishing__c.Lean_Budget_Multiplier * Job_Board_Cell__r.Pipeline_Job_Title__r.Pipeline_ && Cost__c == IF (Applications__c > 1 && $Setup.IndeedJobPublishing__c.Cost_Precision__c) * Job_Board_Cell__r.Pipeline_Job_Title__r.Pipeline_ /* Indeed - clearly expensive */\n14 0,\n15 \n16 IF (IndirectHires__c + IndirectInterviewPassers__c + IndirectSQLs__c + IndirectMQLs__c == 0\n17 && ISBLANK(MostRecentTest__c) || (CEILING((NOW() - MostRecentTest__c) / 7 * $Setup.LinkedIn_Integration__c.WeeksForSlotPerformance) /* no indirect conversions & no recent activity */\n19 NULL,\n20 \n21 IF (ISPICKVAL(Sourcing_Platform__c, 'Indeed')\n22 && BFQs__c == 0\n23 && BFQTestTakers__c < 10,\n24 /* Indeed: too early to decide if known_bad */\n25 NULL,\n26 \n27 IF (NOT ISPICKVAL(Sourcing_Platform__c, 'Indeed')\n28 && IndirectHires__c + IndirectInterviewPassers__c + IndirectSQLs__c + IndirectMQLs__c == 0\n29 && MQLTestTakers__c < $Setup.LinkedIn_Integration__c.SignificantMQLTake /* no indirect conversions & too early to decide if known_bad */\n31 NULL,\n32 \n33 IF (ISPickVAL(Sourcing_Platform__c, 'Indeed')\n34 && Hires__c + BFQs__c + Job_Board_Cell__r.Location__r.Rank_Boost__c, 0)) * 44 +\n35 InterviewPassers__c * 33 +\n36 SQLs__c * 22 +\n37 MQLs__c * 11 +\n38 NULL"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T13:13:52Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays system tray with network, sound, and clock icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Sublime Text",
+            "windows": [
+              {
+                "title": "IF (ISPICKVAL(Sourcing_Platform__c, 'Indeed') ? - Sublime Text (UNREGISTERED)",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, Selection, Find, View, Goto, Tools, Project, Preferences, Help. Tabs for multiple files open, one highlighted with the title 'IF (ISPICKVAL(Sourcing_Platform__c, 'Indeed') ?'."
+                },
+                "content": [
+                  {
+                    "title": "Code Editing Window",
+                    "layoutDescription": "Text editor with multiple lines of code",
+                    "visibleText": "1 IF (ISPICKVAL(Sourcing_Platform__c, 'Indeed')\n2 && Applications__c == 0\n3 && Cost__c > $Setup.IndeedJobPublishing__c.Dry_Budget_Multipli * Job_Board_Cell__r.Pipeline_Job_Title__r.Pipeline_ /* Indeed - clearly dry */\n5 0,\n6 \n7 IF (ISPICKVAL(Sourcing_Platform__c, 'Indeed')\n8 && NOT ISBLANK(MostRecentTest__c)\n9 && CEILING((NOW() - MostRecentTest__c) / 7 * $Setup.LinkedIn_Integration__c.WeeksForSlotPerfor && Applications__c > 0\n11 && Cost__c > $Setup.IndeedJobPublishing__c.Lean_Budget_Multipl * Job_Board_Cell__r.Pipeline_Job_Title__r.Pipeline_ && Cost__c == IF (Applications__c > 1 && $Setup.IndeedJobPublishing__c.Cost_Precision__c) * Job_Board_Cell__r.Pipeline_Job_Title__r.Pipeline_ /* Indeed - clearly expensive */\n14 0,\n15 \n16 IF (IndirectHires__c + IndirectInterviewPassers__c + IndirectSQLs__c + IndirectMQLs__c == 0\n17 && ISBLANK(MostRecentTest__c) || (CEILING((NOW() - MostRecentTest__c) / 7 * $Setup.LinkedIn_Integration__c.WeeksForSlotPerfor /* no indirect conversions & no recent activity */\n19 NULL,\n20 \n21 IF (ISPICKVAL(Sourcing_Platform__c, 'Indeed')\n22 && BFQs__c == 0\n23 && BFQTestTakers__c < 10,\n24 /* Indeed: too early to decide if known_bad */\n25 NULL,\n26 \n27 IF (NOT ISPICKVAL(Sourcing_Platform__c, 'Indeed')\n28 && IndirectHires__c + IndirectInterviewPassers__c + IndirectSQLs__c + IndirectMQLs__c == 0\n29 && MQLTestTakers__c < $Setup.LinkedIn_Integration__c.SignificantMQLTake /* no indirect conversions & too early to decide if known_bad */\n31 NULL,\n32 \n33 IF (ISPICKVAL(Sourcing_Platform__c, 'Indeed')\n34 && Hires__c + BFQs__c + Job_Board_Cell__r.Location__r.Rank_Boost__c, 0)) * 44 +\n35 InterviewPassers__c * 33 +\n36 SQLs__c * 22 +\n37 MQLs__c * 11 +\n38 MQLs__c"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T13:17:29Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays system tray with network, sound, and clock icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Sublime Text",
+            "windows": [
+              {
+                "title": "IF(ISPICKVAL(Sourcing_ 'Indeed') - Sublime Text (UNREGISTERED)",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, Selection, Find, View, Goto, Tools, Project, Preferences, Help. Status bar at bottom showing 'Tab Size: 4' and 'Plain Text'"
+                },
+                "content": [
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Text editor with multiple lines of code",
+                    "visibleText": "1 IF (ISPICKVAL(Sourcing_Platform__c, 'Indeed')\n2 && Applications__c == 0\n3 && Cost__c > $Setup.IndeedJobPublishing__c.Dry_Budget_Multipli * Job_Board_Cell__r.Pipeline_Job_Title__r.Pipeline_ /* Indeed - clearly dry */\n5 0,\n6\n7 IF (ISPICKVAL(Sourcing_Platform__c, 'Indeed')\n8 && NOT ISBLANK(MostRecentTest__c)\n9 && CEILING((NOW() - MostRecentTest__c) / 7 * $Setup.LinkedIn_Integration__c.WeeksForSlotPerfor && Applications__c > 0\n11 && Cost__c > $Setup.IndeedJobPublishing__c.Lean_Budget_Multipl * Job_Board_Cell__r.Pipeline_Job_Title__r.Pipeline_ /* Cost__c == IF (Applications__c > 1 && $Setup.IndeedJobPublishing__c.Cost_Precision__c) * Job_Board_Cell__r.Pipeline_Job_Title__r.Pipeline_ /* Indeed - clearly expensive */\n14 0,\n15\n16 IF (IndirectHires__c + IndirectInterviewPassers__c + IndirectSQLs__c + IndirectMQLs__c == 0\n17 && ISBLANK(MostRecentTest__c) || (CEILING((NOW() - MostRecentTest__c) / 7 * $Setup.LinkedIn_Integration__c.WeeksForSlotPerfor /* no indirect conversions & no recent activity */\n19 NULL,\n20\n21 IF (ISPICKVAL(Sourcing_Platform__c, 'Indeed')\n22 && BFQs__c == 0\n23 && BFQTestTakers__c < 10,\n24 /* Indeed: too early to decide if known_bad */\n25 NULL,\n26\n27 IF (NOT ISPICKVAL(Sourcing_Platform__c, 'Indeed')\n28 && IndirectHires__c + IndirectInterviewPassers__c + IndirectSQLs__c + IndirectMQLs__c == 0\n29 && MQLTestTakers__c < $Setup.LinkedIn_Integration__c.SignificantMQLTake /* no indirect conversions & too early to decide if known_bad */\n31 NULL,\n32\n33 IF (ISPICKVAL(Sourcing_Platform__c, 'Indeed')\n34 && Hires__c + BFQs__c + Job_Board_Cell__r.Location__r.Rank_Boost__c, 0)) * 44 +\n35 InterviewPassers__c * 33 +\n36 SQLs__c * 22 +\n37 MQLs__c * 11 +\n38 NULL"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in writing code using Sublime Text. The code visible in the screenshots involves multiple conditional statements and calculations, likely related to job board data and performance analysis. The user is working on a script that includes various IF statements to handle different conditions based on the sourcing platform and other parameters. The code includes comments that provide context for each condition, such as 'Indeed - clearly dry' and 'no indirect conversions & no recent activity'. This indicates the user is implementing logic to evaluate job board performance metrics.",
+    "Throughout the captured period, the user remains focused on the same task within Sublime Text. The code editor is maximized, and the user is editing a file with multiple lines of code. The visible text includes complex logical conditions and calculations, suggesting the user is working on a backend script or algorithm. The consistent focus on this task indicates a deep engagement in coding activities, with no visible distractions or context switches to other applications or tasks."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is solely working within Sublime Text, and there are no visible AI chat interfaces or interactions with AI tools. The focus is entirely on writing and editing code manually.",
+  "activities": [
+    "WRITING_CODE"
+  ],
+  "workTypes": [
+    "BACKEND"
+  ],
+  "programmingLanguages": [
+    "SALESFORCE"
+  ],
+  "toolTypes": [
+    "IDE"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 100,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-12T13:10:01Z",
+      "windowTitle": "IF (ISPICKVAL(Sourcing_Platform__c, 'Indeed') ? - Sublime Text (UNREGISTERED)",
+      "processName": "sublime_text",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T13:11:01Z",
+      "windowTitle": "IF (ISPICKVAL(Sourcing_Platform__c, 'Indeed') ? - Sublime Text (UNREGISTERED)",
+      "processName": "sublime_text",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T13:12:02Z",
+      "windowTitle": "IF (ISPICKVAL(Sourcing_Platform__c, 'Indeed') ? - Sublime Text (UNREGISTERED)",
+      "processName": "sublime_text",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T13:13:02Z",
+      "windowTitle": "IF (ISPICKVAL(Sourcing_Platform__c, 'Indeed') ? - Sublime Text (UNREGISTERED)",
+      "processName": "sublime_text",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T13:14:01Z",
+      "windowTitle": "IF (ISPICKVAL(Sourcing_Platform__c, 'Indeed') ? - Sublime Text (UNREGISTERED)",
+      "processName": "sublime_text",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T13:15:01Z",
+      "windowTitle": "IF (ISPICKVAL(Sourcing_Platform__c, 'Indeed') ? - Sublime Text (UNREGISTERED)",
+      "processName": "sublime_text",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T13:16:01Z",
+      "windowTitle": "IF (ISPICKVAL(Sourcing_Platform__c, 'Indeed') ? - Sublime Text (UNREGISTERED)",
+      "processName": "sublime_text",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T13:17:01Z",
+      "windowTitle": "IF (ISPICKVAL(Sourcing_Platform__c, 'Indeed') ? - Sublime Text (UNREGISTERED)",
+      "processName": "sublime_text",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T13:18:01Z",
+      "windowTitle": "IF (ISPICKVAL(Sourcing_Platform__c, 'Indeed') ? - Sublime Text (UNREGISTERED)",
+      "processName": "sublime_text",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T13:19:01Z",
+      "windowTitle": "IF (ISPICKVAL(Sourcing_Platform__c, 'Indeed') ? - Sublime Text (UNREGISTERED)",
+      "processName": "sublime_text",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-12T13:10:00Z"
+}

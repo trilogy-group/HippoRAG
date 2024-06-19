@@ -1,0 +1,340 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "idea64",
+    "crossover--fullshared.sandbox.lightning.force.com",
+    "crossover.lightning.force.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T06:40:06Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Visual Studio Code, Chrome, File Explorer, and other unidentified applications. Also displays the system clock showing '22:52', system date '8/12/2024', and network status icon indicating connectivity. Language set to 'ENG'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "CountStepsNotCompleted",
+                "uiElements": {
+                  "details": "menu bar, sidebar, status bar, editor area, terminal panel"
+                },
+                "content": [
+                  {
+                    "title": "Project Explorer",
+                    "layoutDescription": "Sidebar on left",
+                    "visibleText": "sfdx\nfeature/LAMBDA-76029-s"
+                  },
+                  {
+                    "title": "Editor",
+                    "layoutDescription": "Large central panel",
+                    "visibleText": "public class CountStepsNotCompletedService {\n\n\t// Method signature\n\tpublic static Outputs count(Opportunity application, String stageName, Integer cacheKeyForGetSteps, Account candidate) {\n\t\t// HQ\n\t\tif (positionOfAppStage <= positionOfCcat ||\n\t\t\tposition.Last_AppStage__c == null || // Rejected right from EasyApply\n\t\t\tapplicationStageActive.positionO &&\n\t\t\t!positionOfAppStage == positionOfCcat &&\n\t\t\thasWaitingForGradingForCcatSteps) || // STILL have many failed steps\n\t\t\t(stageName == 'Cancelled' or stageName == 'Expired') && positionOfLastActiveStage <= positionOfCcat)\n\t\t{\n\t\t\tif (result != null) {\n\t\t\t\tresult.isHq = 1;\n\t\t\t} else {\n\t\t\t\tresult.isHq = 0;\n\t\t\t}\n\t\t\tif (hasFailedGradingCcatSteps || (stageName == 'Rejected' && positionOfLastActiveStage <= positionOfCcat))\n\t\t\t{\n\t\t\t\tresult.isHq = null;\n\t\t\t} else {\n\t\t\t\tresult.isHq = 1;\n\t\t\t}\n\t\t} else {\n\t\t\tresult.isHq = 0;\n\t\t}\n\t\t// BP\n\t\tif (positionOfAppStage <= positionOfBp && positionOfAppStage <= positionOfReview) {\n\t\t\tresult.isBp = 1;\n\t\t} else if (stageName == 'Rejected') {\n\t\t\tresult.isBp = null;\n\t\t} else if (positionOfLastActiveStage == positionOfBp) {\n\t\t\tresult.isBp = 0;\n\t\t} else {\n\t\t\tresult.isBp = 1;\n\t\t}\n\t\tresult.isBp = null;\n\t\t}\n\t}"
+                  }
+                ]
+              },
+              {
+                "title": "Terminal",
+                "uiElements": {
+                  "details": "terminal panel"
+                },
+                "content": [
+                  {
+                    "title": "Terminal",
+                    "layoutDescription": "terminal panel",
+                    "visibleText": "SOQL Query\nSOQL Query 3\nSOQL Query 4\nSOQL Query 5\nSOQL Query 6\nSOQL Query 7\nSOQL Query 8\nSOQL Query 9\nSOQL Query 10\nSOQL Query 11\nSOQL Query 12\nSOQL Query 13\nSOQL Query 14\nSOQL Query 15\nSOQL Query 16\n\n--production (artem.melnik@krovitargy.com)\nSELECT DeveloperName FROM Country__mdt WHERE IsIndedAvailable__c = true\n\nUnited_Arab_Emirates\nSouth_Africa\nEgypt DeveloperName FROM Country__mdt WHERE IsIndedAvailable__c = true\n13 rows returned."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T06:45:53Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Visual Studio Code, File Explorer, Google Chrome, Microsoft Edge, and other unidentified applications. Also displays the system clock showing '22:26:01' and system status icons including network status and battery level.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "CountStepsNotCompleted",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, a sidebar with file explorer, a bottom panel with terminal and problems view, and a top menu bar."
+                },
+                "content": [
+                  {
+                    "title": "File Explorer Sidebar",
+                    "layoutDescription": "Vertical list",
+                    "visibleText": "sfdx\nfeature/LAMBDA-76029-s"
+                  },
+                  {
+                    "title": "Editor Window",
+                    "layoutDescription": "Code editor",
+                    "visibleText": "public class CountStepsNotCompletedService extends ApplicationStagesSingleton {\n\n\t// Variables\n\tprivate static Outputs count(Opportunity application, String stageName, Integer cacheKeyForGetSteps, Account candidate) {\n\t\tif (positionOfAppStage <= positionOfCat) {\n\t\t\tif (application.LastActive_stage__c != null && !Rejected right from EasyApply\n\t\t\t\tpositionOfAppStage.positionOfR && // Passed CCAT, but not rejected/expired/canceled\n\t\t\t\thasWaitingForG || // STILL have many failed steps\n\t\t\t\t(stageName == 'Expired' && positionOfLastActiveStage < positionOfCat)\n\t\t\t\t\tresult.isMql = null;\n\t\t\telse if (hasFailedGradingForCatSteps (if (stageName == 'Rejected' && positionOfLastActiveStage < positionOfCat)\n\t\t\t\tresult.isMql = 0;\n\t\t\telse\n\t\t\t\tresult.isMql = 1;\n\t\t} else {\n\t\t\tif (positionOfLastActiveStage > positionOfBrf) {\n\t\t\t\tresult.isMql = 1;\n\t\t\telse if (stageName == 'Rejected')\n\t\t\t\tresult.isMql = 'Rejected';\n\t\t\telse if (positionOfLastActiveStage == positionOfBrf) {\n\t\t\t\tresult.isMql = 0;\n\t\t\telse\n\t\t\t\tresult.isMql = null;\n\t\t}\n\t}"
+                  }
+                ]
+              },
+              {
+                "title": "Terminal Panel",
+                "layoutDescription": "Command line interface",
+                "visibleText": "gp\nsfdx force-app > main > default > classes > CountStepsNotCompletedService.cls"
+              }
+            ]
+          },
+          {
+            "appName": "SQL Query Tool",
+            "windows": [
+              {
+                "title": "SQL Query Tool",
+                "position": "bottom right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "multiple tabs for different SQL queries."
+                },
+                "content": [
+                  {
+                    "title": "SQL Query Tab",
+                    "layoutDescription": "Text editor",
+                    "visibleText": "SELECT DeveloperName FROM Country__mdt WHERE IsIndeedAvailable__c = true\n\nUnited_Arab_Emirates\nSouth-Africa\nEgypt DeveloperName FROM Country__mdt WHERE IsIndeedAvailable__c = true\n13 rows returned."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "New Tab",
+                "position": "top right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "search bar, bookmarks bar"
+                },
+                "content": [
+                  {
+                    "title": "Browser Tab",
+                    "layoutDescription": "Web browser",
+                    "visibleText": "TEXT TOO BLURRY"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T06:48:13Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Visual Studio Code, Google Chrome, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes network status, sound volume, date and time display (06/12/2024 08:34), and language indicator (ENG).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "CountStepsNotCompleted",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Top bar, sidebar, bottom bar, right sidebar"
+                },
+                "content": [
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Text editor with multiple tabs",
+                    "visibleText": "public class CountStepsNotCompletedService {\n\n // Singleton instance\n public static CountStepsNotCompletedService applicationStageSingleton;\n\n // Constructor\n private CountStepsNotCompletedService() {}\n\n // Get instance method\n public static CountStepsNotCompletedService getInstance() {\n if (applicationStageSingleton == null) {\n applicationStageSingleton = new CountStepsNotCompletedService();\n }\n return applicationStageSingleton;\n }\n\n // Method to count steps not completed\n public static void countStepsNotCompleted(Outputs outputs, Integer stageName, Integer cacheKeyForSteps, Account candidate) {\n // HQ override\n if (result.lastStep == 1 && result.step1 == 1) {\n qualificationOverride.add(\"HQ\\\"OverrideSQL\"); }\n\n // Overrides\n qualificationOverride = String.join(new List<String>(qualificationOverride), \";\");\n // If (lossReason == 'Rejected Fraud Incident' && lossReason == 'Blacklisted Protected CAT') return result;\n\n return result;\n }\n\n // Public static void countAndAssign(Outputs outputs, Account candidate) {\n application.Steps_Need_Grading_C = outputs.applicationC;\n application.Steps_Not_Completed_C = outputs.applicationC;\n application.Steps_Pending_Action_Required_C = outputs.applicationC;\n application.StepsFailed_C = outputs.applicationC;\n application.TSBFP_C = outputs.applicationC;\n application.ISQL_C = outputs.applicationC;\n application.TSHQ_C = outputs.applicationC;\n application.RSMHQ_C = outputs.applicationC;\n application.Qualification_Override_C = outputs.applicationC;\n }\n}"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in writing and navigating code within Visual Studio Code. The primary focus is on a class named 'CountStepsNotCompletedService' which appears to be part of a larger project related to job board cell analytics. The user is working on methods to count steps not completed and assign outputs based on various conditions. The code includes logic for handling different stages of an application process, such as 'Rejected', 'Cancelled', and 'Expired'. The user is also running multiple SOQL queries in the terminal to fetch developer names from a database, indicating a backend development task.",
+    "The user is working on a Salesforce project, as indicated by the presence of Salesforce-specific files and SOQL queries. The project involves modifying and analyzing classes and layouts related to job board cell analytics. The user is seen editing a file named 'Job_Board_Cell_Analytics__c-Job Board Cell Analytics Layout.layout-meta.xml' and running SOQL queries to retrieve data from the 'Country__mdt' object. The queries are executed to check the availability of developers from various countries, which is crucial for the project's requirements.",
+    "The user is utilizing the IntelliJ IDEA IDE for their development tasks. The IDE's interface shows multiple tabs open, including the 'CountStepsNotCompletedService.cls' file and several SOQL query tabs. The user is actively editing the code, adding and modifying logic to handle different application stages. The terminal panel at the bottom shows the execution of SOQL queries, with results displayed for developer availability from different countries. This indicates that the user is validating data and ensuring the correctness of their code logic."
+  ],
+  "aiUseSummary": "The user is utilizing an AI_IDE_EXTENSION within IntelliJ IDEA. The AI tool is likely being used for code suggestions and possibly for debugging purposes. The presence of the AI chat interface in the IDE suggests that the user is leveraging AI to enhance their coding efficiency. The AI might be providing code snippets, suggesting improvements, or helping with complex logic implementations. This integration of AI tools within the IDE significantly boosts the user's productivity by offering real-time assistance and reducing the time spent on manual coding tasks.",
+  "activities": [
+    "WRITING_CODE",
+    "NAVIGATING_CODE"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "DB"
+  ],
+  "programmingLanguages": [
+    "SALESFORCE",
+    "SQL"
+  ],
+  "toolTypes": [
+    "IDE",
+    "DEVELOPMENT_UTILITIES"
+  ],
+  "aiTools": [
+    "AI_IDE_EXTENSION"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 4,
+      "mouse": 13,
+      "date": "2024-06-12T06:40:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedService",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 6,
+      "mouse": 15,
+      "date": "2024-06-12T06:41:00Z",
+      "windowTitle": "Lightning Experience | Salesforce - Google Chrome",
+      "processName": "crossover--fullshared.sandbox.lightning.force.com",
+      "visitingUrl": "crossover--fullshared.sandbox.lightning.force.com/lightning/o/Event/home",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 2,
+      "mouse": 15,
+      "date": "2024-06-12T06:42:00Z",
+      "windowTitle": "Edit BFQ - Principal Software Architect - GT School | Salesforce - Google Chrome",
+      "processName": "crossover--fullshared.sandbox.lightning.force.com",
+      "visitingUrl": "crossover--fullshared.sandbox.lightning.force.com/lightning/r/Application_Step_Result__c/a0BF300000Fsi7DMAR/edit?navigationLocation=RELATED_LIST_ROW&count=1&backgroundContext=%2Flightning%2Fr%2FOpportunity%2F006F300000cPeDeIAK%2Fview",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 6,
+      "mouse": 14,
+      "date": "2024-06-12T06:43:00Z",
+      "windowTitle": "Applications | Salesforce - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/r/Campaign/701Ij0000000qk8IAA/related/Opportunities/view",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 6,
+      "mouse": 11,
+      "date": "2024-06-12T06:44:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedService",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 5,
+      "mouse": 20,
+      "date": "2024-06-12T06:45:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedService",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 50,
+      "mouse": 27,
+      "date": "2024-06-12T06:46:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedService",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 91,
+      "mouse": 11,
+      "date": "2024-06-12T06:47:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedService",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 142,
+      "mouse": 10,
+      "date": "2024-06-12T06:48:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedService",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 22,
+      "mouse": 19,
+      "date": "2024-06-12T06:49:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedServiceTests",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-12T06:40:00Z"
+}

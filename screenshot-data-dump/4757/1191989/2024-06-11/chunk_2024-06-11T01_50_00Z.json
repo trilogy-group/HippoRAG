@@ -1,0 +1,183 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "docs.google.com",
+    "mail.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-11T01:54:08Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Edge, and other unidentified applications. Displays the date and time as '10 Jun 2024 19:54'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "DevFactory Mail - Google Chrome",
+                "url": "mail.google.com/mail/u/0/#/chat/sp",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and various extension icons including Google Account, Pending (5), GT School, (9+), Stand, Magic Academy, LearnWith, and Second Brain."
+                },
+                "content": [
+                  {
+                    "title": "Gmail",
+                    "layoutDescription": "left sidebar, main content area, right sidebar",
+                    "visibleText": "Magic Academy\n27 members - Private\nChat\nShared\nTasks\nGio\nSummary from last week. (in thread)\n2 replies 42 min\nZapier App\n4:34 AM\nZap sent by @Giorgio Micotti\nPR Merged by DavidKubeTrilogy\nMerge pull request #351 from trilogy-group/fix/add-browserstack-condition\nAdd if statement to browserstack cleanup\nGo to\nMohamed Mortada\n5:01 AM\nI think the need for using the camera culling mask to hide certain layers during customization will become more and more necessary for situations like\nHistory is on"
+                  },
+                  {
+                    "title": "Thread",
+                    "layoutDescription": "Main content area",
+                    "visibleText": "Giovanny Ramirez\nYesterday 11:27 PM\nSummary from last week. (in thread)\n2 replies\nAI\n- Small AI improvements. Commands info provided so the AI (cursor) is more accurate when generates a command + command list (AI generated)\n- Speed command (AI Generated). Set Speed X\nPaper cuts\n- Sign up email format fixed, NPC look at player face, MCQ report issue includes notification, MCQ chest doesn't disappear on incorrect question, random run speed for enemies (in review), damage notification based on the actual damage (in review).\nEnemies.\n- There are now multiple enemies on the map, they have different random skins, subtle size and color variations, and random weapons.\n- Enemies now have 3 different attacks (will add more)\n- It is possible to set up different customization per character type in case we want that some enemies are bigger or \"any\" other modification, for example we can decide that souls only have certain type of weapons and would be possible\n- Levels: Now (visible level), the level affects: damage, health, weapon level, etc.\n- Balance scriptable: now there is a file that contains"
+                  },
+                  {
+                    "title": "Tasks",
+                    "layoutDescription": "right sidebar",
+                    "visibleText": "Tasks\nActive\nAdd a task\nQ2 progress / Q3 plan\nBudget meeting\nhttps://docs.google.com/docume...\nSamy 1:1 topics\n- App testing as a service\n- Doreen run research study...\nWeekly update\nEnter grade (support US grades only)\nPost TeachTap content on TikTok following the unit schedule on the calendar\nSplit by channel per AP course\nhttps://assetstore.unity.co\nm/packages/t up with Doreen about beta program and research study\nXbox / PS5 distribution?\nApple version pro\n$299 per grade level\n- 2 Map tests\n- $50 in rewards...\n$100 per grade level\nAds where the player gets the math wrong as the click bait"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in a Gmail chat space named 'Magic Academy' with 27 members. The chat includes a summary from the previous week, mentioning small AI improvements and various updates related to game development, such as NPC look at player face, MCQ report issues, and random run speed for enemies. The user is also managing tasks in the right sidebar, which includes links to Google Docs and other resources.",
+    "The user is viewing and interacting with emails in Gmail. They are part of a conversation where a pull request was merged by a colleague, and there are discussions about the need for using the camera culling mask to hide certain layers during customization. The user is also managing tasks related to Q2 progress, Q3 plan, and other project-related activities."
+  ],
+  "aiUseSummary": "The user is utilizing AI tools within the Gmail chat space. The chat mentions AI-generated commands and a command list, indicating the use of AI for improving command accuracy and speed. The AI is used to generate commands and set speed, showcasing its role in enhancing productivity and task efficiency in game development.",
+  "activities": [
+    "EMAIL",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [
+    "SHORTWAVE"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "CHATTING_WITH_TEAM",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 13,
+      "date": "2024-06-11T01:52:13Z",
+      "windowTitle": "LearnWith.ai Q3 2024 Budget Update - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1wRJiCDXbFF0pR2cSKCtEeEa5BQWZFem1vLqOqLAI2ic/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 16,
+      "mouse": 13,
+      "date": "2024-06-11T01:53:13Z",
+      "windowTitle": "LearnWith.ai Q3 2024 Budget Update - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1wRJiCDXbFF0pR2cSKCtEeEa5BQWZFem1vLqOqLAI2ic/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 5,
+      "mouse": 23,
+      "date": "2024-06-11T01:54:13Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAnM2TMLc",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 22,
+      "mouse": 13,
+      "date": "2024-06-11T01:55:13Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAnM2TMLc",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 8,
+      "mouse": 18,
+      "date": "2024-06-11T01:56:13Z",
+      "windowTitle": "LearnWith.ai Q3 2024 Budget Update - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1wRJiCDXbFF0pR2cSKCtEeEa5BQWZFem1vLqOqLAI2ic/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 26,
+      "mouse": 18,
+      "date": "2024-06-11T01:57:13Z",
+      "windowTitle": "LearnWith.ai Q3 2024 Budget Update - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1wRJiCDXbFF0pR2cSKCtEeEa5BQWZFem1vLqOqLAI2ic/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 4,
+      "mouse": 20,
+      "date": "2024-06-11T01:58:13Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjHz_mgo",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 162,
+      "mouse": 17,
+      "date": "2024-06-11T01:59:13Z",
+      "windowTitle": "GT School - Budge... - @bogdan.tenea@trilogy.com - the vendo... - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxBptDGVXMlFvjqgBjrrjNnG",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-11T01:50:00Z"
+}

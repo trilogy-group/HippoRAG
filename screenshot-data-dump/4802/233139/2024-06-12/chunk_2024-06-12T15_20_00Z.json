@@ -1,0 +1,306 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "MusNotificationUx"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T15:21:51Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, File Explorer, Edge, and other unidentified applications. Displays the time as 17:24 and date as 06/12/2024. Language set to ENG. Notification area visible with network, sound, and battery status icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "feature/LAMBDA-3896 - Indeed.com",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Top menus (File, Edit, View, Go, Run, Terminal, Help), a sidebar with Explorer, Search, Source Control, Run and Debug, Extensions icons, and a status bar showing branch name, problems count, and sync status."
+                },
+                "content": [
+                  {
+                    "title": "Source Code Editor",
+                    "layoutDescription": "Text editor with multiple tabs",
+                    "visibleText": "function buildJobFeedXml(campaigns: Campaign[], countries: Country[], config: Config): string {\n batches.forEach((campaigns: CampaignId) => void => {\n // Implementation details\n const miningCampaigns: Campaign[] = [];\n campaigns.forEach(Cat => {\n if (Cat.Pipeline.__.ProductCode === '5183' || Cat.Pipeline.__.ProductCode === '5260') && Cat.Publish_Selection.__ === 'Mine') {\n miningCampaigns.push(it);\n }\n });\n if (miningCampaigns.length > 0) {\n miningCampaigns.forEach(Campaign => {\n Campaign.Pipeline.__.ProductCode_MINING_EXP = '12_T1PE_SFCampaign.Pipeline.__.ProductCode';\n incCategory(Campaign.categoryOverride);\n });\n }\n const byIdZtoOffsets: Record<string, number> = {};\n callback for batches.forEach()\n }\n return 'Successfully uploaded to crossover-indeed/indeed-job-wrapping.xml';\n Done\n}\n\n// Console output\nSuccessfully uploaded to crossover-indeed/indeed-job-wrapping.xml\nDone\nP finished with exit code 0"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "System Popup",
+            "windows": [
+              {
+                "title": "We've got an update for you",
+                "position": "center",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Centered window with blue header"
+                },
+                "content": [
+                  {
+                    "title": "Update Notification",
+                    "layoutDescription": "Centered popup",
+                    "visibleText": "We've got an update for you\nWindows is continuously improving, and updates are a normal part of keeping it running smoothly. We'll restart and install this update at 17:35. Or, you can restart now if you're ready.\nRestart now\nAnother time\nOK"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T15:24:14Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '17:24' and date '06/12/2024'. Language setting 'ENG' visible. Notification area visible with network, sound, and battery status icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "feature/LAMBDA-3896 - Visual Studio Code",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "menu bar with options like File, Edit, View, Go, Run, Terminal, Help. Sidebar with Explorer tab open showing project files. Bottom bar showing Git branch, problems count, and feedback icon."
+                },
+                "content": [
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Text editor with multiple tabs open",
+                    "visibleText": "// src\n// data.ts\n// index.ts\n// run.ts\n// utils.ts\n// test\n// Build.ts\n// Util.ts\n// package.json\n// package-lock.json\n// README.md\n// tsconfig.json\n// .env\n// .env.local\n// node_modules\n// Open-search\n// dist\n// src\n// node_modules\n// common\n// athena-utils\n// base-lambda-executor.ts\n// commit-utils.ts\n// config.ts\n// constants.ts\n// function buildJobFeedXml (campaigns: Campaign[], countries: Country[], config: Config): string {\n// batches.forEach((campaigns: CampaignId) => void => {\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T15:29:21Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, File Explorer, Edge, and other unidentified applications. System tray includes network, sound, and battery status icons, date and time display (17:29, 06/12/2024), and language input method (ENG).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "feature/LAMBDA-3896 - Visual Studio Code",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "menu bar with options like File, Edit, View, Go, Run, Terminal, Help. Sidebar with Explorer tab open showing project structure. Bottom bar showing Git branch, problems count, and feedback icon."
+                },
+                "content": [
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Text editor with multiple tabs open",
+                    "visibleText": "function buildJobFeedXml (campaigns: Campaign[], countries: Country[], config: Config): string {\n batches.forEach((campaigns: CampaignId) => void => {\n //\n //\n //\n const miningCampaigns: Campaign[] = [];\n if (cft.Pipeline...ProductCode === '5183' || it.Pipeline...ProductCode === '5260') && it.Publish_Selection_c === 'Mine') {\n miningCampaigns.push(it);\n }\n if (miningCampaigns.length > 0) {\n miningCampaigns.forEach((campaign: Campaign) => {\n cgn.categoryOverride = '12_T1PE_S[campaign.Pipeline...ProductCode]_MININ incCategory(campaign.categoryOverride);\n });\n }\n const byIdZtoOffsets: Record<string, number> = {};\n callback for batches.forEach()\n }\n\nSuccessfully uploaded to crossover-indeed/indeed-job-wrapping.xml\nDone\n\finished with exit code 0"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "System Popup",
+            "windows": [
+              {
+                "title": "We've got an update for you",
+                "position": "center",
+                "isActive": false,
+                "uiElements": {
+                  "details": "window with blue header"
+                },
+                "content": [
+                  {
+                    "title": "System Update Notification",
+                    "layoutDescription": "Popup window with text and buttons",
+                    "visibleText": "We've got an update for you\nWindows is continuously improving, and updates are a normal part of keeping it running smoothly. We'll restart and install this update at 17:35. Or, you can restart now if you're ready.\n\nRestart now\nAnother time\nOK"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in writing code within Visual Studio Code. The code editor shows multiple tabs open, including files like data.ts, index.ts, run.ts, utils.ts, and test files. The user is working on a function named buildJobFeedXml, which processes campaign data and generates XML output. The console output indicates that the process has successfully uploaded data to a specified XML file and finished with exit code 0. The user is likely focused on backend development tasks, given the nature of the files and functions being worked on.",
+    "A system popup notification appears on the screen, indicating that a Windows update is available. The notification offers options to restart now, schedule the update for another time, or dismiss the notification. This popup is not actively interacted with, suggesting that the user is focused on their coding tasks and may address the update later. The presence of this popup does not seem to interrupt the user's workflow significantly.",
+    "Throughout the captured timeframe, the user remains within the Visual Studio Code environment, consistently working on the same set of files and functions. The project structure visible in the sidebar includes directories like src, common, and node_modules, indicating a well-organized codebase. The user is likely making iterative changes and testing them, as evidenced by the console output showing successful uploads and process completions."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is focused on writing and testing code within Visual Studio Code, and there are no visible interactions with AI chat interfaces or other AI tools. The system popup notification about a Windows update does not involve any AI usage.",
+  "activities": [
+    "WRITING_CODE"
+  ],
+  "workTypes": [
+    "BACKEND"
+  ],
+  "programmingLanguages": [
+    "TYPESCRIPT"
+  ],
+  "toolTypes": [
+    "IDE"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 100,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T15:20:02Z",
+      "windowTitle": "We've got an update for you",
+      "processName": "MusNotificationUx",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T15:21:02Z",
+      "windowTitle": "We've got an update for you",
+      "processName": "MusNotificationUx",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T15:22:02Z",
+      "windowTitle": "We've got an update for you",
+      "processName": "MusNotificationUx",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T15:23:02Z",
+      "windowTitle": "We've got an update for you",
+      "processName": "MusNotificationUx",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T15:24:02Z",
+      "windowTitle": "We've got an update for you",
+      "processName": "MusNotificationUx",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T15:25:02Z",
+      "windowTitle": "We've got an update for you",
+      "processName": "MusNotificationUx",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T15:26:02Z",
+      "windowTitle": "We've got an update for you",
+      "processName": "MusNotificationUx",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T15:27:02Z",
+      "windowTitle": "We've got an update for you",
+      "processName": "MusNotificationUx",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T15:28:02Z",
+      "windowTitle": "We've got an update for you",
+      "processName": "MusNotificationUx",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T15:29:02Z",
+      "windowTitle": "We've got an update for you",
+      "processName": "MusNotificationUx",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-12T15:20:00Z"
+}
