@@ -19,4 +19,4 @@ if __name__ == '__main__':
         print(ranks)
         print(scores)
 
-# python cli.py --dataset worksmart_20104_2024-06-04 --retrieval_model facebook/contriever
+# python cli.py --dataset worksmart_20104_2024-06-04 --retrieval_model colbertv2
