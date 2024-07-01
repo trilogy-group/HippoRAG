@@ -1,0 +1,194 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "Zoom",
+        "GoogleDriveFS"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-11T21:11:44Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Mute, Stop Video, Participants, Chat, Share Screen, Summary, Record, Show Captions, Reactions, Apps, Notes, and a Leave button with a red background. Zoom controls visible at the bottom.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Zoom Meeting",
+                        "windows": [
+                            {
+                                "title": "Zoom Meeting",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Bottom bar shows 'You are viewing Tristan Muniz's screen' and 'View Options' button. Includes meeting controls like mute, video, participants, chat, share screen, record, and leave."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Zoom Meeting Screen Share",
+                                        "layoutDescription": "Browser window displayed within Zoom",
+                                        "visibleText": "You are viewing Tristan Muniz's screen\nRevenue per user by Media source\nNo results found\nTry different filter combinations\nGroup by Media source Campaign\nTotals\norganic\nsitkoglobal_int\nGoogl 15+ postbacks\nShop now\nMedia source by Redownload rate\nExport"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is participating in a Zoom meeting, as evidenced by the Zoom Meeting application being active and the visible meeting controls at the bottom of the screen. The user is viewing a screen shared by Tristan Muniz, which displays a browser window with various tabs open. The content of the shared screen includes an analytics dashboard from AppsFlyer, showing metrics related to revenue per user by media source, iOS postbacks, and campaign performance. The user is likely discussing these metrics with other meeting participants.",
+        "The user is also interacting with Google Drive File Stream (GoogleDriveFS), as indicated by the list of active applications. This suggests that the user may be accessing or managing files stored in Google Drive, possibly related to the content being discussed in the Zoom meeting. The absence of any other active applications or links visited during this period indicates that the user's focus is primarily on the Zoom meeting and the shared content."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being utilized in the user's workflow during the captured period. The screenshots and analysis do not show any interactions with AI chat interfaces, code suggestions, or other AI-driven tools. The user's activities are centered around participating in a Zoom meeting and viewing shared content related to analytics and campaign performance.",
+    "activities": [
+        "MEETING"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T21:10:48Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T21:11:48Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T21:12:48Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T21:13:49Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T21:14:49Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T21:15:48Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T21:16:48Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T21:17:48Z",
+            "windowTitle": "Google Drive Status Window",
+            "processName": "GoogleDriveFS",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T21:18:48Z",
+            "windowTitle": "Google Drive Status Window",
+            "processName": "GoogleDriveFS",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T21:19:48Z",
+            "windowTitle": "Google Drive Status Window",
+            "processName": "GoogleDriveFS",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-11T21:10:00Z"
+}

@@ -1,0 +1,208 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "Zoom",
+        "calendar.google.com",
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-11T17:02:40Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "Contains icons for Minimize, Core, Pending, View, and additional unidentified icons",
+                        "position": "top of the screen"
+                    },
+                    {
+                        "elementType": "system clock",
+                        "details": "Time displayed as 11:02, Date: 11 Jun 2024",
+                        "position": "bottom right corner"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Zoom Meeting",
+                        "windows": [
+                            {
+                                "title": "Zoom Meeting",
+                                "position": "full screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Contains buttons for Mute, Stop Video, Participants, Chat, Share Screen, Summary, Reactions, Apps, Notes, More, and Leave"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference Participants",
+                                        "layoutDescription": "Grid layout",
+                                        "visibleText": "Tristan Muniz, Isaac Squires, Mark Nygren, Phil Hewinson, Samy Aboel-Nil"
+                                    },
+                                    {
+                                        "title": "Chat Window",
+                                        "layoutDescription": "Right side panel",
+                                        "visibleText": "Tristan Muniz's Personal Meeting Room\nToday\nread.ai meeting notes to You (direct message) 10:31\nTristan added read.ai meeting notes to the meeting.\nRead provides AI generated meeting summaries to make meetings more effective and efficient. View our Privacy Policy at https://www.read.ai/pp\nType \"read stop\" to disable, or \"opt out\" to delete meeting data.\n\nNew messages\nTristan Muniz to Everyone 10:34\nhttps://docs.google.com/spreadsheets/d/1gU"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively participating in a Zoom meeting. The meeting involves multiple participants, including Tristan Muniz, Isaac Squires, Mark Nygren, Phil Hewinson, and Samy Aboel-Nil. The meeting is being recorded, and the user is engaged in the discussion. The chat window on the right side of the screen shows that Tristan Muniz has shared a Google Docs link with everyone in the meeting. Additionally, there is a direct message from read.ai meeting notes, indicating that AI-generated meeting summaries are being used to make the meetings more effective and efficient.",
+        "The user is also interacting with the chat feature within the Zoom meeting. The chat window shows a message from read.ai meeting notes, which provides AI-generated summaries of the meeting. This indicates that the user is utilizing AI tools to enhance the productivity and efficiency of the meeting. The user has also shared a Google Docs link with everyone in the meeting, suggesting that they are collaborating on a document or project during the meeting."
+    ],
+    "aiUseSummary": "The user is utilizing read.ai, an AI tool, to generate meeting summaries during the Zoom meeting. The AI tool provides summaries to make the meetings more effective and efficient. The user receives a direct message from read.ai meeting notes, indicating the use of AI-generated summaries. This enhances the productivity of the meeting by providing concise and relevant information, allowing participants to focus on the discussion without worrying about taking detailed notes.",
+    "activities": [
+        "MEETING",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "SHORTWAVE"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T17:00:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T17:01:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 6,
+            "date": "2024-06-11T17:02:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 7,
+            "date": "2024-06-11T17:03:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 18,
+            "date": "2024-06-11T17:04:47Z",
+            "windowTitle": "DevFactory - Calendar - Week of June 9, 2024 - Google Chrome",
+            "processName": "calendar.google.com",
+            "visitingUrl": "calendar.google.com/calendar/u/0/r/week",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 15,
+            "date": "2024-06-11T17:05:47Z",
+            "windowTitle": "Introduction - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCwzfRpJMvpGwWggkzlhcXw",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 14,
+            "date": "2024-06-11T17:06:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T17:07:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T17:08:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T17:09:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-11T17:00:00Z"
+}

@@ -1,0 +1,296 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "webstorm64",
+    "github.com",
+    "docs.aws.amazon.com",
+    "chatgpt.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T08:12:35Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '10:24' and date '6/14/2024'. Network status icon, sound volume icon, and language indicator 'ENG' are visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "observability.ts - lambda-cdk-infra - Visual Studio Code",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Top bar with File, Edit, View, Go, Run, Terminal, Help. Sidebar with Explorer tab showing project structure. Bottom bar with terminal output."
+                },
+                "content": [
+                  {
+                    "title": "File Content",
+                    "layoutDescription": "Text editor open with code",
+                    "visibleText": "import { GraphqlApi } from 'aws-cdk-lib/aws-appsync';\nimport { Duration } from 'aws-cdk-lib';\nimport { RestApi } from 'aws-cdk-lib/aws-apigateway';\nimport {\n Alarm,\n AlarmRule,\n AlarmStatusWidget,\n CompositeAlarm,\n Dashboard,\n GraphWidget,\n IAlarm,\n Widget,\n MathExpression,\n Metric,\n PeriodOverride,\n} from 'aws-cdk-lib/aws-cloudwatch';\nimport { SnsAction } from 'aws-cdk-lib/aws-cloudwatch-actions';\nimport { Metric } from 'aws-cdk-lib/aws-cloudwatch/lib/metric-types';\ni { Function } from 'aws-cdk-lib/aws-lambda';\nimport { DatabaseCluster } from 'aws-cdk-lib/aws-rds';\nimport { Topic } from 'aws-cdk-lib/aws-sns';\nimport { Construct } from 'constructs';\nimport merge from 'deepmerge';\nimport { Info } from './info';\nimport { StackConfig } from './root-stack';\n\nexport type DeepPartial<T> = {\n [P in keyof T]?: DeepPartial<T[P]>;\n};"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T08:16:18Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '16:04' and date '14/06/2024'. Network, sound, and battery status icons are visible. Language setting displayed as 'ENG'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "infra-cli.ts - lambda-cdk-infra - Visual Studio Code",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Top bar with options like File, Edit, View. Right side shows minimap, scrollbar, and vertical tabs for open files. Bottom status bar shows branch 'master', problems count, and notifications icon."
+                },
+                "content": [
+                  {
+                    "title": "File Explorer",
+                    "layoutDescription": "Vertical panel",
+                    "visibleText": "lambda-cdk-infra\n.github\n Libraries\nScratches and Consoles"
+                  },
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Main central panel",
+                    "visibleText": "export const InfraCLI: IArgs<{}> = yargs\n.handler(async (argv: { string?: (string | ...) => Promise<void> }) => {\n const {target = 'dep'} = argv;\n if (target === 'destroy') {\n log.info('msg: 'Using indirect removal through AWS SDK...');\n // Get all stack names\n const stackNames: string[] = [];\n activeDeployments.forEach((deployment: DeploymentConfig) => {\n deployment.stacks.forEach(getStackDecorator('stac stringFunction) => {\n stackNames.push(stackName);\n });\n });\n log.debug('Found ${stackNames.length} stacks to remove');\n const cfn: CloudFormationClient = new CloudFormationClient();\n let promises = stackNames.map((it: string) => {\n return cfn.send(new DeleteStackCommand({ input: { StackName: it, } }));\n });\n log.debug('Removing stack: ${it}');\n return await Promise.all(promises);\n promises = stackNames.map((it: string) => {\n log.debug('Waiting for stack delete complete: ${it}');\n return cfn.waitFor('stackDeleteComplete', { StackName: it, }).promise();\n });\n await Promise.all(promises);\n log.info('msg: 'Done!');\n } else {\n // code continues\n }\n"
+                  }
+                ]
+              },
+              {
+                "title": "Terminal",
+                "position": "bottom panel",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Terminal tab visible with npm commands output"
+                },
+                "content": [
+                  {
+                    "title": "Terminal Output",
+                    "layoutDescription": "Text output",
+                    "visibleText": "51 vulnerabilities (7 moderate, 43 high, 1 critical)\n\nTo address issues that do not require attention, run:\nnpm audit fix\n\nTo address all issues (including breaking changes), run:\nnpm audit fix --force\n\nRun 'npm audit' for details.\n\nProcess finished with exit..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T08:18:15Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Outlook, File Explorer, Microsoft Teams, Visual Studio Code, and other unidentified applications. Also includes system clock showing '10:18 AM' and system date '6/14/2024', system tray with network, sound, and battery status icons, and a Start menu icon.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "AWS SDK for JavaScript v3 - Google Chrome",
+                "url": "https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, navigation buttons, and profile icon"
+                },
+                "content": [
+                  {
+                    "title": "AWS SDK for JavaScript v3",
+                    "layoutDescription": "Two-column layout with navigation on the left and content on the right",
+                    "visibleText": "Getting Started Introduction Installation Contributing Developer Guides Migrating From V2 References Libraries Packages Services cloudformation dynamodb ec2 iam lambda s3 accessoryanalyzer account acm acm-pca amp amplify amplifybackend amplifybuilder api-gateway apigatewaymanagementapi apigatewayv2 app-mesh appconfig appconfigdata appfabric appflow appintegrations application-auto-scaling application-discovery-service application-insights application-signals CloudFormationClient Operations CloudFormationClient Configuration Type Description DefaultsMode | Provider:DefaultsMode The @smithy/smithy-clientDefaultsMode that will be used to determine how certain default configuration options are resolved in the SDK. disabledHostPrefix boolean Disable dynamically changing the endpoint of the client based on the hostPrefix trait of an operation. RuntimeExtension(s) Optional extensions Logger Optional logger for logging debug/info/warn/error. maxAttempts number | Provider:number Value for how many times a request will be made at most in case of retry. region string | Provider:string The AWS region to which this client will send requests. __httpHandlerInput string | Provider:string The HTTP handler to use or its constructor options. Fetch in browser and Https in Nodejs. retryMode string | Provider:string Specifies which retry algorithm to use. useDualstackEndpoint boolean | Provider:boolean Enables IPv6/IPv4 dualstack endpoint. useFipsEndpoint boolean |..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in writing code within the WebStorm IDE. They are working on a project named 'lambda-cdk-infra' and have multiple TypeScript files open, including 'observability.ts' and 'infra-cli.ts'. The code involves importing various AWS CDK libraries and defining types and functions for AWS infrastructure management. The user is also running npm commands in the terminal to check for vulnerabilities and fix them.",
+    "The user is conducting research on the AWS SDK for JavaScript v3. They have a Google Chrome window open, viewing the official AWS documentation. The specific focus is on the CloudFormationClient configuration and operations, indicating that the user is looking for information on how to use this client in their code. This research is likely related to the code they are writing in the WebStorm IDE.",
+    "The user is also reviewing an issue on GitHub related to the AWS SDK for JavaScript v3. They are looking at issue #2473, which might be relevant to the problem they are trying to solve in their code. This activity shows that the user is troubleshooting and seeking solutions from the community to address specific issues in their project."
+  ],
+  "aiUseSummary": "The user is utilizing ChatGPT for assistance in their workflow. They have the ChatGPT website open, indicating that they are likely using it for research, guidance, or code suggestions. The specific interactions with ChatGPT are not visible in the screenshots, but the presence of the site suggests that the user is leveraging AI to enhance their productivity and solve coding challenges.",
+  "activities": [
+    "WRITING_CODE",
+    "RESEARCH",
+    "REVIEWING_CODE"
+  ],
+  "workTypes": [
+    "IAC",
+    "BACKEND"
+  ],
+  "programmingLanguages": [
+    "TYPESCRIPT"
+  ],
+  "toolTypes": [
+    "IDE",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [
+    "OPENAI_CHATGPT"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 13,
+      "mouse": 21,
+      "date": "2024-06-14T08:10:16Z",
+      "windowTitle": "lambda-cdk-infra ? package.json",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 15,
+      "mouse": 18,
+      "date": "2024-06-14T08:11:16Z",
+      "windowTitle": "lambda-cdk-infra ? package.json",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 6,
+      "mouse": 26,
+      "date": "2024-06-14T08:12:17Z",
+      "windowTitle": "lambda-cdk-infra ? root-stack.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 22,
+      "mouse": 25,
+      "date": "2024-06-14T08:13:17Z",
+      "windowTitle": "lambda-cdk-infra ? observability.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 5,
+      "mouse": 14,
+      "date": "2024-06-14T08:14:17Z",
+      "windowTitle": "lambda-cdk-infra ? observability.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 51,
+      "mouse": 31,
+      "date": "2024-06-14T08:15:17Z",
+      "windowTitle": "lambda-cdk-infra ? package.json",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 47,
+      "mouse": 31,
+      "date": "2024-06-14T08:16:17Z",
+      "windowTitle": "lambda-cdk-infra ? infra-cli.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 74,
+      "mouse": 14,
+      "date": "2024-06-14T08:17:17Z",
+      "windowTitle": "waitFor for CloudFormation client ? Issue #2473 ? aws/aws-sdk-js-v3 - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/aws/aws-sdk-js-v3/issues/2473",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 3,
+      "mouse": 9,
+      "date": "2024-06-14T08:18:17Z",
+      "windowTitle": "AWS SDK for JavaScript v3 - Google Chrome",
+      "processName": "docs.aws.amazon.com",
+      "visitingUrl": "docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/client/cloudformation/",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 121,
+      "mouse": 12,
+      "date": "2024-06-14T08:19:17Z",
+      "windowTitle": "ChatGPT ? Mozilla Firefox",
+      "processName": "chatgpt.com",
+      "visitingUrl": "https://chatgpt.com",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-14T08:10:00Z"
+}

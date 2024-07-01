@@ -1,0 +1,421 @@
+{
+  "candidateId": 2368956,
+  "apps": [
+    "calendar.google.com",
+    "mail.google.com",
+    "Google Chat"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T08:32:58Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, File Explorer, and other unidentified applications. Also includes system clock showing '8:32 AM' and system date '6/5/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "DevFactory - Calendar - Week of June 3, 2024",
+                "url": "https://calendar.google.com/calendar",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs for 'Dashboard', 'Chat', 'Calendar', and other unidentified tabs. Also includes address bar, bookmarks bar, and various extension icons."
+                },
+                "content": [
+                  {
+                    "title": "Calendar",
+                    "layoutDescription": "week view layout",
+                    "visibleText": "Monday, June 3, 2024 - Sunday, June 9, 2024. Events include 'Q1 Update Call', 'Marketing Sync', 'Product Review', 'Team Lunch', 'One-on-One with Sarah', 'Dev Review', 'Client Call with TechRabbit', 'Budget Review', 'Strategy Meeting'."
+                  }
+                ]
+              },
+              {
+                "title": "My Feed - Dashboard - 4 June 2024",
+                "url": "https://dashboard.devfactory.com/feed",
+                "position": "left",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Contains video player, navigation buttons, and other UI elements."
+                },
+                "content": [
+                  {
+                    "title": "Dashboard",
+                    "layoutDescription": "feed layout",
+                    "visibleText": "Summary: Chapters: 0, Duration: 1h 49m. Video titled 'DevFactory Q2 Goals and Updates'."
+                  }
+                ]
+              },
+              {
+                "title": "Marketing Email",
+                "url": "https://mail.google.com/mail/u/0/#inbox",
+                "position": "right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Contains email list, search bar, and other UI elements."
+                },
+                "content": [
+                  {
+                    "title": "Email",
+                    "layoutDescription": "list layout",
+                    "visibleText": "Emails with subjects 'Re: Q2 Marketing Strategy', 'New Product Launch Details', 'Budget Approval Needed', 'Client Feedback Report', 'Weekly Newsletter', 'Staff Updates', 'Meeting Reminder: Strategy Session', 'Your Amazon Order Has Shipped', 'Google Calendar Event Reminder: Strategy Meeting'."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T08:33:31Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Outlook, OneNote, Word, Excel, PowerPoint, Teams, Chrome, File Explorer, and other unidentified applications",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "DevFactory - Calendar - Week of June 3, 2024",
+                "url": "https://calendar.google.com/calendar",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and extensions"
+                },
+                "content": [
+                  {
+                    "title": "Calendar",
+                    "layoutDescription": "view layout",
+                    "visibleText": "Monday, June 3, 2024 - Sunday, June 9, 2024\nEvents:\n- 9:00 AM - 10:00 AM: DevFactory Sync\n- 1:00 PM - 2:00 PM: Project Kickoff\n- 3:00 PM - 4:00 PM: Team Meeting\n- 10:00 AM - 11:00 AM: Client Call\n- 2:00 PM - 3:00 PM: Design Review\n- 4:00 PM - 5:00 PM: Sprint Planning"
+                  }
+                ]
+              },
+              {
+                "title": "My Feed - Dashboard - 4 June 2024",
+                "url": "https://myfeed.example.com/dashboard",
+                "position": "left",
+                "isActive": false,
+                "uiElements": {
+                  "details": "video player, navigation buttons, and comment section"
+                },
+                "content": [
+                  {
+                    "title": "Dashboard",
+                    "layoutDescription": "layout and summary layout",
+                    "visibleText": "Summary:\nChapters: 0\nDuration: 0\nComments: 0\n[Video paused]"
+                  }
+                ]
+              },
+              {
+                "title": "Chat",
+                "url": "https://chat.example.com",
+                "position": "center",
+                "isActive": false,
+                "uiElements": {
+                  "details": "chat list, search bar, and message area"
+                },
+                "content": [
+                  {
+                    "title": "Chat",
+                    "layoutDescription": "interface layout",
+                    "visibleText": "Chat with:\n- Barbara\n- Tom\n- Jessica\n- George\n- Daniel\n- Sharon\n- Greg\n- Stephanie\n- Monica\n- Peter\n- Various Teams\nMessages:\n- George: \"The project will continue as scheduled...\"\n- Tom: \"I have updated the project timeline...\""
+                  }
+                ]
+              },
+              {
+                "title": "Marketing Email",
+                "url": "https://email.example.com",
+                "position": "center",
+                "isActive": false,
+                "uiElements": {
+                  "details": "email list, search bar, and email content area"
+                },
+                "content": [
+                  {
+                    "title": "Marketing Email",
+                    "layoutDescription": "Email interface layout",
+                    "visibleText": "Subject: Important Update\nFrom: Company CEO\nTo: All Employees\nContent:\n- We are making significant changes...\n- Please review the attached document..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T08:39:10Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a docked application bar with active indicators beneath some apps.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "My Feed - Dashboard - 4 June 2024",
+                "position": "top left",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Chrome tabs, address bar, bookmarks bar, and various extension icons"
+                },
+                "content": [
+                  {
+                    "title": "My Feed - Dashboard - 4 June 2024",
+                    "layoutDescription": "Web page layout",
+                    "visibleText": "Summary\nChapters: 0\nDuration: 0\n\n1. Feed\n2. Dashboard\n3. 4 June 2024\n\n[Further details are not visible]"
+                  }
+                ]
+              },
+              {
+                "title": "Google Chat",
+                "position": "center left",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Contains chat list, search bar, chat window, and settings icon"
+                },
+                "content": [
+                  {
+                    "title": "Google Chat",
+                    "layoutDescription": "Chat application layout",
+                    "visibleText": "Chat\n\nBarbara\nBethany\nMitchell Horowitz\n\n[Chat content with Mitchell Horowitz]\n\n\"The reason is that our finance partners (FPs) are unable to accommodate a meeting today.\"\n\n[Further chat messages and details]"
+                  }
+                ]
+              },
+              {
+                "title": "Marketing Email",
+                "position": "top right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Chrome tabs, address bar, bookmarks bar, and various extension icons"
+                },
+                "content": [
+                  {
+                    "title": "Marketing Email",
+                    "layoutDescription": "Email client layout",
+                    "visibleText": "Marketing Email\n\n[Email content and details]\n\n[Further details are not visible]"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Finder",
+            "windows": [
+              {
+                "title": "Finder",
+                "position": "top right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Contains file navigation pane, file view pane, and status bar"
+                },
+                "content": [
+                  {
+                    "title": "Finder",
+                    "layoutDescription": "File explorer layout",
+                    "visibleText": "Scheduled\n\n[File names and details]\n\n[Further details are not visible]"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Gmail",
+            "windows": [
+              {
+                "title": "Gmail",
+                "position": "center",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Contains sidebar with folders, search bar, email list, and settings icon"
+                },
+                "content": [
+                  {
+                    "title": "Gmail",
+                    "layoutDescription": "Email client layout",
+                    "visibleText": "Gmail\n\nInbox\n\nMitchell Baines\n\"The team at KinetEco has reviewed the Terms and believe it is fair. However, we have a request...\"\n\nMitchell Baines\n\"...we would like to negotiate on the service terms, which is different from your proposal. Do you have time for a call to go over this?\"\n\nMitchell Horowitz\n\"...I've had a chance to review the contract. While I agree with the terms in principle, there are a few points I'd like to discuss further...\"\n\n[Further email messages and details]"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in multiple activities during the captured timeframe. They are using Google Calendar to manage their schedule, as evidenced by the open calendar showing events for the week of June 3, 2024. The events include various meetings such as 'Q1 Update Call', 'Marketing Sync', 'Product Review', and 'Team Lunch'. This indicates the user is planning and organizing their tasks and meetings for the week.",
+    "The user is also engaged in email communication, as seen from the Gmail interface. They are reading and possibly responding to emails with subjects like 'Re: Q2 Marketing Strategy', 'New Product Launch Details', and 'Budget Approval Needed'. This suggests the user is involved in marketing and budget-related discussions, likely coordinating with team members and stakeholders.",
+    "Additionally, the user is using Google Chat to communicate with team members. The chat interface shows conversations with various individuals, including a detailed chat with Mitchell Horowitz discussing the availability of a meeting. This indicates the user is coordinating and collaborating with colleagues in real-time, addressing scheduling and project-related queries.",
+    "The user is also viewing a dashboard on 'My Feed - Dashboard - 4 June 2024', which includes a video titled 'DevFactory Q2 Goals and Updates'. This suggests the user is keeping up-to-date with company goals and updates, possibly for strategic planning or alignment with organizational objectives.",
+    "The user is accessing a marketing email platform, as seen from the 'Marketing Email' window. The content includes automated emails being modified for a specific domain, indicating the user is involved in email marketing campaigns, possibly reviewing or editing email content for better engagement and performance."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in calendar management, email communication, and team collaboration without any visible interaction with AI tools. Therefore, no specific AI usage can be summarized from the given data.",
+  "activities": [
+    "EMAIL",
+    "CHATTING_WITH_TEAM",
+    "READING_SPEC",
+    "MEETING"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "EMAIL",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 8,
+      "mouse": 7,
+      "date": "2024-06-05T08:30:20Z",
+      "windowTitle": " DevFactory - Calendar - Week of June 3, 2024 - Google Chrome\n",
+      "processName": "calendar.google.com",
+      "visitingUrl": "https://calendar.google.com/calendar/u/0/r",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T08:31:20Z",
+      "windowTitle": " DevFactory - Calendar - Week of June 3, 2024 - Google Chrome\n",
+      "processName": "calendar.google.com",
+      "visitingUrl": "https://calendar.google.com/calendar/u/0/r",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T08:32:20Z",
+      "windowTitle": " DevFactory - Calendar - Week of June 3, 2024 - Google Chrome\n",
+      "processName": "calendar.google.com",
+      "visitingUrl": "https://calendar.google.com/calendar/u/0/r",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T08:33:20Z",
+      "windowTitle": " DevFactory - Calendar - Week of June 3, 2024 - Google Chrome\n",
+      "processName": "calendar.google.com",
+      "visitingUrl": "https://calendar.google.com/calendar/u/0/r",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 13,
+      "date": "2024-06-05T08:34:20Z",
+      "windowTitle": " Re: Consulting hours - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQVwngXvqQfWxgxVfpLMqnqdnNt",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 92,
+      "mouse": 10,
+      "date": "2024-06-05T08:35:20Z",
+      "windowTitle": " Re: Consulting hours - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQVwngXvqQfWxgxVfpLMqnqdnNt",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 1,
+      "mouse": 23,
+      "date": "2024-06-05T08:36:20Z",
+      "windowTitle": " Re: Aurea version 2024 - Risk of failing PCI certification: next steps - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQVwnfNxRsmMzWHLmhVcZrZkHpn",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 33,
+      "mouse": 19,
+      "date": "2024-06-05T08:37:20Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 215,
+      "mouse": 2,
+      "date": "2024-06-05T08:38:20Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 33,
+      "mouse": 0,
+      "date": "2024-06-05T08:39:20Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T08:30:00Z"
+}

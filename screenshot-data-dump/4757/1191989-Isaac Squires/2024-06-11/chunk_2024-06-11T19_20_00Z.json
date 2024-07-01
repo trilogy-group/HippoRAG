@@ -1,0 +1,199 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "meet.google.com",
+    "mail.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-11T19:21:59Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, widgets, and several pinned applications including Edge, Mail, and File Explorer. Notification area includes network, sound, and battery status icons, as well as the date and time display showing '1:21 PM | 11 Jun 2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - pca-zhdh-phx - Google Chrome",
+                "url": "meet.google.com/pca-zhdh-phx",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Browser window with tabs, address bar, navigation buttons, and extension icons"
+                },
+                "content": [
+                  {
+                    "title": "Google Meet Video Call",
+                    "layoutDescription": "Video call interface",
+                    "visibleText": "In-call messages\nLet everyone send messages\nUnless they're pinned, messages can only be seen by people in the call when the message is sent. All messages are deleted when the call ends.\nYou 1:20 PM\nisaac.squires+1@trilogy.com\nisaac.squires+2@trilogy.com\n1:21 PM | pca-zhdh-phx"
+                  },
+                  {
+                    "title": "Video Conference Participants",
+                    "layoutDescription": "Two participants visible",
+                    "visibleText": "Samy Aboel-Nil - Main participant shown with eyes closed, possibly blinking, against a background that appears to be a blurred office or landscape view. Isaac Squires - Smaller video thumbnail showing a male participant with a neutral expression, wearing a headset, in a room with a plain background."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Google Meet video call, as evidenced by the screenshot showing the Google Meet interface with two participants. The main participant, Samy Aboel-Nil, is shown with his eyes closed, possibly blinking, against a blurred office or landscape background. The smaller video thumbnail shows Isaac Squires with a neutral expression, wearing a headset, in a room with a plain background. The in-call messages section indicates that messages can only be seen by people in the call when sent and are deleted when the call ends. The user has sent messages to isaac.squires+1@trilogy.com, isaac.squires+2@trilogy.com, and isaac.squires+magicacademy@trilogy.co at 1:20 PM."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots or data. The user is primarily engaged in a Google Meet video call and there are no visible interactions with AI tools such as AI_IDE_EXTENSION, ChatGPT, or Shortwave.",
+  "activities": [
+    "MEETING"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 100,
+  "events": [
+    {
+      "keyboard": 117,
+      "mouse": 6,
+      "date": "2024-06-11T19:20:48Z",
+      "windowTitle": "Meet - pca-zhdh-phx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/pca-zhdh-phx",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 12,
+      "date": "2024-06-11T19:21:48Z",
+      "windowTitle": "Meet - pca-zhdh-phx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/pca-zhdh-phx",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 3,
+      "mouse": 11,
+      "date": "2024-06-11T19:22:48Z",
+      "windowTitle": "Meet - pca-zhdh-phx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/pca-zhdh-phx",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 8,
+      "date": "2024-06-11T19:23:47Z",
+      "windowTitle": "Meet - pca-zhdh-phx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/pca-zhdh-phx",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 9,
+      "date": "2024-06-11T19:24:47Z",
+      "windowTitle": "Meet - pca-zhdh-phx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/pca-zhdh-phx",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T19:25:48Z",
+      "windowTitle": "Meet - pca-zhdh-phx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/pca-zhdh-phx",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T19:26:48Z",
+      "windowTitle": "Meet - pca-zhdh-phx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/pca-zhdh-phx",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T19:27:48Z",
+      "windowTitle": "Meet - pca-zhdh-phx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/pca-zhdh-phx",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 36,
+      "mouse": 30,
+      "date": "2024-06-11T19:28:48Z",
+      "windowTitle": "Inbox (8) - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 24,
+      "date": "2024-06-11T19:29:48Z",
+      "windowTitle": "TeachTap - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwwwMPNXnwnMDZRFJSCLMsWXt",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-11T19:20:00Z"
+}

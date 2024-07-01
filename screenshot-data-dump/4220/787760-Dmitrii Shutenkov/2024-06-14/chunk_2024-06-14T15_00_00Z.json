@@ -1,0 +1,281 @@
+{
+  "candidateId": 1444536,
+  "apps": [
+    "Docker Desktop",
+    "TOTALCMD64",
+    "pythonw",
+    "us-east-1.console.aws.amazon.com",
+    "Postman",
+    "docs.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T15:00:06Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Search, Docker Desktop, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, File Explorer, Google Chrome, and a PRE badge",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Docker Desktop",
+            "windows": [
+              {
+                "title": "stoic_khayyam - Container - Docker Desktop",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "menu with options: Logs, Inspect, Terminal, Files, Stats. Active tab: Files"
+                },
+                "content": [
+                  {
+                    "title": "File Browser",
+                    "layoutDescription": "List and details view",
+                    "visibleText": "Name\nboot\ndev\netc\nhome\nusr/lib\nlib64 -> usr/lib64\nmedia\nmnt\nopt\nproc\nroot\nrun\nsbin\nmodified\n1 year ago\n21 hours ago\n21 hours ago\n1 year ago\n24 years ago\n1 year ago\n1 year ago\n1 year ago\n1 year ago\n1 year ago\n1 year ago\n1 year ago\n1 year ago\n1 year ago\n1 year ago\n1 year ago\n1 year ago\n1 year ago\n1 year ago\nMode\ndr-xr-xr-x\ndrwxr-xr-x\ndrwxr-xr-x"
+                  },
+                  {
+                    "title": "Content Viewer",
+                    "layoutDescription": "Text editor view",
+                    "visibleText": "#!/bin/sh\n# Copyright 2020 Amazon.com, Inc. or its affiliates. All Rights Reserved.\n\nif [ $# -ne 1 ]; then\necho \"entrypoint requires the handler name to be the first argument\" 1>&2\nexit 142\nfi\nexport _HANDLER=\"$1\"\n\nRUNTIME_ENTRYPOINT=/var/runtime\nif [ -z \"${AWS_LAMBDA_RUNTIME_API}\" ]; then\nunset AWS_LAMBDA_RUNTIME_API\nexport AWS_LAMBDA_RUNTIME_API=\"${AWS_LAMBDA_RUNTIME_API}"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T15:03:37Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Search, Docker Desktop, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Microsoft Teams, and a web browser. Also includes system tray with network, sound, and battery status icons, as well as the date and time display.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Docker Desktop",
+            "windows": [
+              {
+                "title": "Docker Desktop",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Top menu with options: Docker Desktop, Update to latest, search bar with placeholder text 'Search for images, containers, volumes, extensions and more...', and user profile icon with 'Sign in' text. Bottom status bar with a message and a tip."
+                },
+                "content": [
+                  {
+                    "title": "Main Content Area",
+                    "layoutDescription": "Centered text",
+                    "visibleText": "Turning off the Docker Engine...\nTip: You can also pause the Docker Engine instead of turning it off to free up resources"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T15:06:53Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for CloudShell, Feedback, Search, Windows Start Menu, and several unidentified applications. Also displays the system clock showing '16:06:55' and date '14/06/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "campaign.ts - master-assistant - Visual Studio Code",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "UI bar at the top with File, Edit, Selection, View, Go, Run, Debug, Terminal, Help. Sidebar on the left with icons for Explorer, Search, Source Control, Run and Debug, Extensions. Bottom bar shows 'Collect campaign results (master-assistant)' running, PowerShell terminal open."
+                },
+                "content": [
+                  {
+                    "title": "campaign.ts",
+                    "layoutDescription": "editor open with multiple tabs",
+                    "visibleText": "1 import { executeSoqlQuery } from './salesforce';\n2 import { populateData } from './gsheets';\n3\n4 const campaignConf = {\n5 facebook: {\n6 idPattern: 'FB-5183-WW-IF',\n7 directSheet: '1g2C1o25deCF7tU6bGMAMVliwdq6BX8vV0WlH7_sSm9s',\n8 indirectSheet: '1QYCuylH5VKLt90E-hqXS412lVMkxoC15CJ5Nyk6tPfrY',\n9 processIndirect: false\n10 },\n11 gads : {\n12 idPattern: 'GA-5183-X',\n13 directSheet: '1IY_RR4F6MsxAlMwZ6mTy_J0ScfI_j4w5uq-UrKZDI4PU',\n14 indirectSheet: '1mb0Q3YHNC0QGlrlEwBe8g8W7fFAZkzgrZskQhQJwTNuwU',\n15 processIndirect: true\n16 },\n17 gads_new : {\n18 idPattern: 'GA-Cat.x',\n19 directSheet: '18fm1zh67mZkrw0r5BfVZHlg-VezCtHgo5rkqkl9TBtEY',\n20 processIndirect: true\n21 }\n22 };\n\nPROBLEMS OUTPUT DEBUG CONSOLE TERMINAL PORTS\n\n8F276C5F190BA5E1A43906D8A784A1B4402C0865"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user started their session by working with Docker Desktop. They were managing a container named 'stoic_khayyam' and were viewing the file structure within this container. The user navigated through directories such as 'boot', 'dev', 'etc', and 'home'. They also viewed the contents of a shell script file named 'lambda-entrypoint.sh', which included environment variable settings and runtime entry points for AWS Lambda functions.",
+    "The user then proceeded to turn off the Docker Engine, as indicated by the message 'Turning off the Docker Engine...' on the Docker Desktop interface. This action was likely taken to free up system resources or to stop the container operations temporarily.",
+    "Next, the user switched to Visual Studio Code, where they were actively working on a TypeScript file named 'campaign.ts'. The code in this file involved importing functions from 'salesforce' and 'gsheets' modules and defining a configuration object 'campaignConf' for handling campaign data from various sources like Facebook and Google Ads. The user was running a debugging session, as indicated by the 'Collect campaign results' process running in the terminal.",
+    "The user also had multiple tabs open in Visual Studio Code, suggesting they were working on different parts of the project simultaneously. The terminal output showed environment variables and paths related to AWS services, indicating that the user was working on a cloud-based application, possibly involving data processing or integration tasks."
+  ],
+  "aiUseSummary": "",
+  "activities": [
+    "WRITING_CODE",
+    "NAVIGATING_CODE"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "IAC"
+  ],
+  "programmingLanguages": [
+    "TYPESCRIPT"
+  ],
+  "toolTypes": [
+    "IDE",
+    "DEVELOPMENT_UTILITIES",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 11,
+      "date": "2024-06-14T15:00:25Z",
+      "windowTitle": "stoic_khayyam - Container - Docker Desktop",
+      "processName": "Docker Desktop",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 8,
+      "date": "2024-06-14T15:01:25Z",
+      "windowTitle": "Total Commander (x64) 10.52 - NOT REGISTERED",
+      "processName": "TOTALCMD64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 2,
+      "mouse": 16,
+      "date": "2024-06-14T15:02:25Z",
+      "windowTitle": "Spyder",
+      "processName": "pythonw",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 2,
+      "mouse": 15,
+      "date": "2024-06-14T15:03:25Z",
+      "windowTitle": "",
+      "processName": "Docker Desktop",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 28,
+      "date": "2024-06-14T15:04:25Z",
+      "windowTitle": "CampaignTracking | Functions | Lambda - Google Chrome",
+      "processName": "us-east-1.console.aws.amazon.com",
+      "visitingUrl": "us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/functions/CampaignTracking?tab=monitoring",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 2,
+      "mouse": 17,
+      "date": "2024-06-14T15:05:25Z",
+      "windowTitle": "API Gateway - APIs - Google Chrome",
+      "processName": "us-east-1.console.aws.amazon.com",
+      "visitingUrl": "us-east-1.console.aws.amazon.com/apigateway/main/apis?api=unselected&region=us-east-1",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 16,
+      "mouse": 18,
+      "date": "2024-06-14T15:06:25Z",
+      "windowTitle": "https://h92gjbrhhj.execute-api.us-east-1.amazonaws.com/default/CampaignTracking - My Workspace",
+      "processName": "Postman",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 6,
+      "mouse": 10,
+      "date": "2024-06-14T15:07:25Z",
+      "windowTitle": "Google Ads - Direct - New - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/18fm1zh67mZKrw0r5BfvZHLg-YezCtHgo5rkqWk9TBEY/edit#gid=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 7,
+      "mouse": 14,
+      "date": "2024-06-14T15:08:25Z",
+      "windowTitle": "Google Ads - Direct - New - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/18fm1zh67mZKrw0r5BfvZHLg-YezCtHgo5rkqWk9TBEY/edit#gid=976649687",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 11,
+      "mouse": 14,
+      "date": "2024-06-14T15:09:25Z",
+      "windowTitle": "Google Ads - Direct - New - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/18fm1zh67mZKrw0r5BfvZHLg-YezCtHgo5rkqWk9TBEY/edit#gid=976649687",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-14T15:00:00Z"
+}

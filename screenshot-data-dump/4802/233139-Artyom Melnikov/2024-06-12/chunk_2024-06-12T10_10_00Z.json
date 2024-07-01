@@ -1,0 +1,299 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "mail.google.com",
+    "chrome",
+    "us-east-1.quicksight.aws.amazon.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T10:11:29Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned and running applications. Notification area on the right with system clock showing '12:11 PM' and date '6/12/2024'. Language input method 'ENG' visible. Network status icon, sound volume icon, and battery status icon are also present.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Google Chat - XO Team Chat - Chat",
+                "url": "mail.google.com/mail/u/0/#inbox",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Browser tabs, address bar, bookmarks bar, and multiple extension icons"
+                },
+                "content": [
+                  {
+                    "title": "Xo Team Chat",
+                    "layoutDescription": "Chat interface with multiple panels",
+                    "visibleText": "XO Team Chat\n10 members - Private\nDragos Nuta Yesterday 5:17PM\nDenys, you'll move to fixing the beginner mind badge after this?\n2 replies Yesterday 5:46 PM\nDenys Yefimenko Yesterday 5:17PM\nOut of 177 unique cases where openreach record for candidate was missing only 20 are currently resolvable. Meaning is indeed an issue caused by low frequency of exposure. For 20 cases which are resolvable currently I did smoke check. Reasons are variable, no resume at all, 3 resume rejection within 6-12 hours before rejection and was not synced, probably due to candidate having no badges acquired.\n1 unread 5 replies Yesterday 8:32 PM\nDragos Nuta Yesterday 7:43 PM\nI have new statistics for Job Recommendations in Reject emails over different funnels. For abc:\n* Generated 134 job recommendations\n* Sent approximately 184 (76 + 108) rejection emails with job recommendations (not exact number, because there were permission issue which prevented some of emails to be sent)\n* Number of applications created by rejected candidates who followed job recommendations from email: 14.\nDenys, can you share an update on this please?\nDenys Yefimenko 1 min\nPlease remind me how to access shared quicksight dashboards. I keep getting redirected to the empty quicksight account."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T10:14:10Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, widgets, and several pinned applications. Displays the system tray with network, sound, and battery status icons, as well as the date and time.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "QuickSight Sign-In",
+                "url": "https://us-east-1.quicksight.aws.amazon.com/sn/start",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "multiple tabs, address bar, bookmarks bar, and browser controls"
+                },
+                "content": [
+                  {
+                    "title": "QuickSight Sign-In",
+                    "layoutDescription": "Main content area is mostly empty",
+                    "visibleText": "The main content area does not contain any readable text, only a graphical representation of data."
+                  },
+                  {
+                    "title": "Gmail - Inbox",
+                    "layoutDescription": "Email list on the right, navigation on the left",
+                    "visibleText": "Email subjects visible include 'Automation - WS to...', '[JIRA] (LAMBDA-75743) Iteration 2 of Lead Source Tracking Enhancements', 'ScriptRunner for Js...', '[JIRA] (LAMBDA-75791) Plan and Desion Stories - Week 23 - Artem', and others. The selected email is from Demya Yefimenko, subject 'Re: [JIRA] (LAMBDA-75743) Iteration 2 of Lead Source Tracking Enhancements', containing a discussion about job recommendations and rejection emails."
+                  },
+                  {
+                    "title": "Slack - Chat",
+                    "layoutDescription": "Chat window with conversation threads",
+                    "visibleText": "Visible conversation includes messages from Demya Yefimenko discussing access issues to QuickSight dashboards and a screenshot of an AWS sign-in page."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T10:19:24Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Google Chrome, Visual Studio Code, and system tray with notifications, sound, network, and battery status icons",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Gmail",
+                "position": "left half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Top bar with options for Mail, Chat, Spaces, and Meet"
+                },
+                "content": [
+                  {
+                    "title": "Gmail",
+                    "layoutDescription": "Navigation on left, main content on right",
+                    "visibleText": "Inbox, Starred, Snoozed, Sent, Drafts, Labels, AI Coach, Github, Jira Important, Loom, Salesforce, Automation for Jira, Dragoș Nuța (Google), Serban Petrescu, Last Week in AI, Read Assistant, Automation - WS10, ScriptRunner for Jira, Jira WS 3"
+                  },
+                  {
+                    "title": "Google Chat - WS.Eng QC Requests - Chat",
+                    "layoutDescription": "Chat interface with sidebar",
+                    "visibleText": "WS.Eng QC Requests, 30 members - Private, Chat, Threads, Shared, Tasks, New chat, Home, Shortcuts, Mentions, Starred, Direct messages, Spaces, WS Eng QC Requests, XO Team Chat, WS Eng Random, Crossover - Upwork Sourcing, WS Eng AI Adoption, General, Code with AI, WS Eng Onboarding, WS Eng Code Review through..."
+                  }
+                ]
+              },
+              {
+                "title": "Google Chat - WS.Eng QC Requests - Chat",
+                "url": "https://mail.google.com/mail/u/0/#in",
+                "position": "right half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Chat window with message threads"
+                },
+                "content": [
+                  {
+                    "title": "Chat Content",
+                    "layoutDescription": "List of chat messages",
+                    "visibleText": "WS Eng Bot App, Ticket LAMBDA-7558 Fix sign up issues is ready for OC. Regar is the reviewer. Please review it., Ticket LAMBDA-7385 Kno..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in team communication and email management. In the first screenshot, the user is seen in Google Chat within the 'XO Team Chat' space, discussing job recommendations and issues related to candidate records. The user is also seen asking for assistance with accessing shared QuickSight dashboards. This indicates a focus on resolving access issues and collaborating with team members to address ongoing tasks and challenges.",
+    "In the second screenshot, the user is attempting to sign in to AWS QuickSight, as indicated by the visible QuickSight sign-in page. This suggests that the user is working on accessing or managing data dashboards, likely related to the job recommendations and candidate records discussed in the chat. The user is also seen in Gmail, with emails related to automation and Jira tasks, indicating ongoing project management and task tracking activities.",
+    "The third screenshot shows the user in Google Chat within the 'WS.Eng QC Requests' space, where they are involved in quality control (QC) requests. The user is reviewing tickets and discussing issues related to sign-up problems and content model creation. This indicates a focus on ensuring the quality and accuracy of project deliverables, as well as collaborating with team members to address and resolve issues."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in team communication, email management, and accessing AWS QuickSight dashboards. No interactions with AI tools or AI-driven features are visible in the screenshots.",
+  "activities": [
+    "EMAIL",
+    "CHATTING_WITH_TEAM",
+    "RESEARCH"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "CHATTING_WITH_TEAM",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T10:10:01Z",
+      "windowTitle": "Inbox - artyom.melnikov@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 4,
+      "date": "2024-06-12T10:11:01Z",
+      "windowTitle": "Google Chat - XO Team Chat - Chat",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 129,
+      "mouse": 3,
+      "date": "2024-06-12T10:12:01Z",
+      "windowTitle": "Inbox - artyom.melnikov@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T10:13:01Z",
+      "windowTitle": "Inbox - artyom.melnikov@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 8,
+      "mouse": 6,
+      "date": "2024-06-12T10:14:01Z",
+      "windowTitle": "QuickSight Sign-In - Google Chrome",
+      "processName": "us-east-1.quicksight.aws.amazon.com",
+      "visitingUrl": "us-east-1.quicksight.aws.amazon.com/sn/auth/signin?directory_alias=df-quicksight-jira&redirect_uri=https%3A%2F%2Fus-east-1.quicksight.aws.amazon.com%2Fsn%2Fstart%3Fdirectory_alias%3Ddf-quicksight-jira%26ref_%3Dpe_3035110_233161080%26state%3DhashArgs%2523%",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 100,
+      "mouse": 18,
+      "date": "2024-06-12T10:15:01Z",
+      "windowTitle": "Google Chat - XO Team Chat - Chat",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 88,
+      "mouse": 3,
+      "date": "2024-06-12T10:16:01Z",
+      "windowTitle": "Google Chat - WS.Eng QC Requests - Chat",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T10:17:01Z",
+      "windowTitle": "Google Chat - WS.Eng QC Requests - Chat",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T10:18:01Z",
+      "windowTitle": "Google Chat - WS.Eng QC Requests - Chat",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T10:19:00Z",
+      "windowTitle": "Google Chat - WS.Eng QC Requests - Chat",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-12T10:10:00Z"
+}

@@ -1,0 +1,277 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "calendar.google.com",
+        "mail.google.com",
+        "cloud.getliteral.ai",
+        "Notepad"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-04T07:32:40Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, Microsoft Edge, File Explorer, Microsoft Store, and system tray with notifications, sound, network, and battery status icons, as well as the date and time displaying '10:32 AM 6/4/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "AI Assist - first release - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+                                "url": "mail.google.com/mail/u/0/#search/a",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email Content",
+                                        "layoutDescription": "Email displayed in full view",
+                                        "visibleText": "Examples of tasks it can handle today:\n- write the release notes for Messenger.\n- propose a sound go-to-market strategy for the AI Copilot feature of Jive\n- compare the tech stack of products X vs Y\n\nWhat would you want to use it for?\n\nImportant Notes\n- Underlying Data: AI Assist uses your screenshots as data. Most of you have 1 screenshot per 10 minutes, with some having 3 per 10 minutes.\n- How It Works: Your screenshots are converted into text and utilized in an RAG pipeline that employs HyDE.\n- Data Coverage: For most users, AI Assist has the last 2-3 weeks of data. If you just added your business email to WorkSmart, it will only start accumulating now.\n- Model Options: You can switch it to use GPT-4 or Claude3.\n- Limitation: Currently, it does not maintain session history. Each request is handled independently, without connecting to the previous chat history.\n- Lag: It takes a few minutes for the latest screenshots to be sent to the backend and indexed. Give it 10-15 minutes.\n\nShare Your Feedback!\nMichael and I would love to hear about your experience using AI Assist! Whether it did things right, messed something up, or if there are features you'd like to see, we want to hear it all.\n\nThank..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T07:35:30Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Google Chrome, Microsoft Edge, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Notepad++, File Explorer, CloudShell, ESW Console, Stephanie's Notes, Notes++, OpenVPN GUI, and system tray icons including network, sound, and clock",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "AI Coach - internal - Chat - Google Chrome",
+                                "url": "mail.google.com/chat/u/0/#chat/spaces/AAAAJdEiEQA",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, profile icon, Google apps menu, and settings menu"
+                                },
+                                "content": [
+                                    {
+                                        "title": "AI Coach - internal",
+                                        "layoutDescription": "Chat interface with sidebar",
+                                        "visibleText": "AI Coach - internal\n5 members - Private\nChat\nShared\nTasks\n\nMichael Madume Yesterday 4:33 PM\n@Dragos Nuta , just an example of a multi-retrieval question that wasn't handled correctly. - both requiring deep search.\n\nAI-Assist called deep search for first question correctly but didn't get to call for second question due to threshold.\n\nShould threshold be removed on tool call or increased?\n\nLink\n\n@Michael Madume Yesterday 4:55 PM\nok, send Isaac a message about this\n\nyou can write on our joint chat too\n\nYesterday 5:56 PM\nDo we have a way to filter sessions with feedback?\n\n1 unread reply Yesterday 5:58 PM"
+                                    },
+                                    {
+                                        "title": "Active threads",
+                                        "layoutDescription": "Sidebar with thread list",
+                                        "visibleText": "Active threads\nMentions me\nFollowing\n\nDragos Nuta Yesterday 5:56 PM\nDo we have a way to filter sessions with feedback?\n\n1 reply Yesterday 5:58 PM\n\nDragos Nuta Yesterday 2:06 PM\nIs this all? Is our stack sane otherwise?\n\n1 unread reply Yesterday 2:12 PM\n\nDragos Nuta Yesterday 10:39 AM\nMichael, can we sync in 20 minutes?\n\n1 unread reply Yesterday 11:02 AM\n\nDragos Nuta May 21, 2:44 PM\nWhy should it be a hardcoded flow? Didn't we move agents so that it can decide what tool to call at the specific stage?\n\n11 replies May 22, 12:06 PM\n\nDragos Nuta May 15, 1:33 PM\nDo you see a downside of using langraph, even if the use-cases is simpler for now?\n\n1 reply May 15, 1:37 PM"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T07:39:35Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Chrome, File Explorer, and other unidentified applications. System tray visible with notifications, sound, network, and clock displaying '10:39 AM 6/4/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Threads - Google Chrome",
+                                "url": "https://cloud.getliteral.ai/projec",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs open, address bar, bookmarks bar, and various extension icons visible"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Threads",
+                                        "layoutDescription": "split view with left sidebar and main content area",
+                                        "visibleText": "Dashboard\nObservability\nTh Evaluation\nExperiments\nUsers\nSettings\nv0.0.68 your feedback\nDragos Nuta\nAI Assist\nTool usage breakdown - **RAQ_QA_SCAN_TOOL** - **Inputs...**\nHey George, Here are the next steps you discussed with Nou...\ngeorge.dita@trilogy.com\nWhat are the next steps that George Dita ha...\n1:24 PM\nwhat have I worked on last week?\nTool usage breakdown - **RAQ_QA_SCAN_TOOL** - **Inputs...**\nHey George, Here's a detailed breakdown of what you...\ngeorge.dita@trilogy.com\nwhat is the conclusion on Aurea Messenger ...\nTool usage breakdown - **RAQ_QA_SCAN_TOOL** - **Inputs...**\nHey George, Here's the conclusion on Aurea Messen...\ngeorge.dita@trilogy.com\nwhat are the conclusions and summary for ...\nTool usage breakdown ### Inputs - **Question:** What are ...\nStep\n# Details\nStep ID: 308ceac47-dc8f-44d4-a7d8-c70dd7384cdb\nTiming: 03/06/2024, 1:36:59 PM\nAdd tags\nuser-feedback 0\nInput\n1 {}\nOutput\n1 {\n2 \"content\": \"Hey George,\n3 Here's a detailed breakdown of what you worked on from May 27, 2024, to June 2, 2024:\n4 ### Jigsaw Slot Update Preparation\n5 1. **Updated Priorities for Q2**:\n6 Revised priorities for the second quarter to align with current goals and projects.\n7 2. **Customer Rollout and Engagement for Jigsaw: Messenger - Platform Upgrade**:\n8 Focused on engaging customers and rolling out the platform upgrade for Jigsaw Messenger.\n9 }"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in email communication, as evidenced by the Gmail interface open in the first screenshot. The email content discusses the capabilities and limitations of an AI tool called 'AI Assist.' The user is reading through the email, which includes details about how the AI tool uses screenshots as data, its data coverage, model options, and limitations. The user is also seen replying to the email, indicating active participation in the communication.",
+        "In the second screenshot, the user is engaged in a team chat on Google Chat. The chat is titled 'AI Coach - internal,' and the user is discussing issues related to a multi-retrieval question that wasn't handled correctly by AI-Assist. The conversation involves multiple team members, and the user is seen providing feedback and discussing potential improvements to the AI tool's performance. This indicates active collaboration and problem-solving within the team.",
+        "The third screenshot shows the user working on the Literal AI platform. The user is viewing a thread related to 'AI Coach' and is analyzing tool usage breakdowns and next steps. The interface shows detailed interactions with the AI tool, including inputs and outputs for various tasks. The user is reviewing the AI-generated content and providing feedback, indicating a focus on improving the AI tool's accuracy and effectiveness."
+    ],
+    "aiUseSummary": "The user utilizes AI tools extensively in their workflow. In the Gmail interface, the user is reading about 'AI Assist,' an AI tool that uses screenshots as data. In Google Chat, the user discusses issues and improvements related to 'AI-Assist,' indicating active collaboration with team members to enhance the tool's performance. On the Literal AI platform, the user reviews AI-generated content and provides feedback, focusing on improving the tool's accuracy. The AI tools are used for communication, problem-solving, and enhancing productivity.",
+    "activities": [
+        "EMAIL",
+        "CHATTING_WITH_TEAM",
+        "READING_SPEC"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "DEVFACTORY_TPM_AI"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "CHATTING_WITH_TEAM",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 11,
+            "mouse": 9,
+            "date": "2024-06-04T07:30:08Z",
+            "windowTitle": "DevFactory - Calendar - Week of June 3, 2024 - Google Chrome",
+            "processName": "calendar.google.com",
+            "visitingUrl": "calendar.google.com/calendar/u/0/r/week",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 44,
+            "mouse": 10,
+            "date": "2024-06-04T07:31:08Z",
+            "windowTitle": "AI Assist - first release - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#search/ai+assist+ben/QgrcJHrtstrzqjfBbdbxxFNjwcCMzxhHTqb",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 77,
+            "mouse": 7,
+            "date": "2024-06-04T07:32:08Z",
+            "windowTitle": "tpm reboot - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/space/AAAAPc5Jjgw",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 67,
+            "mouse": 9,
+            "date": "2024-06-04T07:33:08Z",
+            "windowTitle": "AI Assist - first release - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#search/ai+assist+ben/QgrcJHrtstrzqjfBbdbxxFNjwcCMzxhHTqb",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 18,
+            "mouse": 18,
+            "date": "2024-06-04T07:34:08Z",
+            "windowTitle": "Threads - Google Chrome",
+            "processName": "cloud.getliteral.ai",
+            "visitingUrl": "cloud.getliteral.ai/projects/ai-coach-AA9M01hzCsyH/threads/703120c0-b3ea-4d53-859c-31f2e27151d2?currentStepId=3aa5f2ca-3b4f-47be-9828-3f6301bc0ef6",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 106,
+            "mouse": 12,
+            "date": "2024-06-04T07:35:08Z",
+            "windowTitle": "AI Coach - internal - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/space/AAAAtTzc_M0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 284,
+            "mouse": 0,
+            "date": "2024-06-04T07:36:09Z",
+            "windowTitle": "AI Coach - internal - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/space/AAAAtTzc_M0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 164,
+            "mouse": 5,
+            "date": "2024-06-04T07:37:09Z",
+            "windowTitle": "Threads - Google Chrome",
+            "processName": "cloud.getliteral.ai",
+            "visitingUrl": "cloud.getliteral.ai/projects/ai-coach-AA9M01hzCsyH/threads/703120c0-b3ea-4d53-859c-31f2e27151d2?currentStepId=99e51e2b-447d-4882-9bf6-594032f1e4b2",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 30,
+            "mouse": 20,
+            "date": "2024-06-04T07:38:09Z",
+            "windowTitle": "*[ - Notepad",
+            "processName": "Notepad",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 13,
+            "date": "2024-06-04T07:39:09Z",
+            "windowTitle": "Threads - Google Chrome",
+            "processName": "cloud.getliteral.ai",
+            "visitingUrl": "cloud.getliteral.ai/projects/ai-coach-AA9M01hzCsyH/threads?threads-filter=%5B%7B\"field\"%3A\"scoreValue\"%2C\"path\"%3A%5B\"user-feedback\"%5D%2C\"operator\"%3A\"nis\"%2C\"value\"%3Anull%7D%5D",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-04T07:30:00Z"
+}

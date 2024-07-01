@@ -1,0 +1,282 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "sublime_text",
+        "chatgpt.com",
+        "explorer",
+        "webstorm64"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T09:31:27Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned and running applications. Visible icons include Sublime Text, File Explorer, and others. System tray contains network, sound, and time display (11:31 AM, 06/14/2024).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Sublime Text",
+                        "windows": [
+                            {
+                                "title": "C:\\Users\\APXEOLOG\\D ? - Sublime Text (UNREGISTERED)",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar at the top with File, Edit, Selection, Find, View, Goto, Tools, Project, Preferences, Help. Status bar at the bottom showing 'diff - \\ - git' and 'Spaces: 2'"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Text Content",
+                                        "layoutDescription": "Text editor with vertical scroll",
+                                        "visibleText": "2672\n\"version\": \"8.2.3\",\n\"resolved\": \"https://registry.npmjs.org/@graphql-tools/merge \"sha512-Rj3sRt5yQn/ggB575CPVWiL6qkB7pposFruJfG/z {\n\"version\": \"7.24.7\",\n\"resolved\": \"https://registry.npmjs.org/@babel/plugin-transf \"MIT\",\n\"dependencies\": {\n\"@graphql-tools/utils\": \"^8.6.2\",\n\"tslib\": \"~2.3.0\",\n\"@babel/helper-plugin-utils\": \"^7.24.7\"\n},\n\"engines\": {\n\"node\": \">=6.9.0\"\n},\n\"peerDependencies\": {\n\"graphql\": \"^14.0.0 || ^15.0.0 || ^16.0.0\",\n\"@babel/core\": \"^7.0.0\"\n},\n\"node_modules/@graphql-tools/mer {\n\"version\": \"2.3.1\",\n\"resolved\": \"https://registry.npmjs.org/tslib/-/tslib-2.3.1. \"sha512-7E7byPPpMz7E7byPPpMz7E7byPPpMz7E7byPPpMz"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T09:33:40Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Settings, and hidden icons. System tray includes network, sound, battery, and clock (showing 11:33 AM, 06/14/2024).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Firefox",
+                        "windows": [
+                            {
+                                "title": "ChatGPT - Mozilla Firefox",
+                                "url": "https://chatgpt.com",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, bookmarks bar, and ChatGPT extension sidebar."
+                                },
+                                "content": [
+                                    {
+                                        "title": "ChatGPT 4",
+                                        "layoutDescription": "Text-heavy layout",
+                                        "visibleText": "@types/node Updated from '14.17.32' to '20.14.2'.\ntypescript Updated from '4.4.4' to '5.4.5'.\namplify-frontend javascript Remained at '3.4.3'.\nts-decorator Updated from '2.0.1' to '2.0.2'.\nyargs Remained at '17.2.1'.\nchalk Remained at '4.1.2'.\nes-extra Remained at '0.10.0'.\nexecution-time Remained at '1.4.1'.\nloglevel Remained at '1.7.1'.\nyaml Remained at '1.10.2'.\ngraphql: Downgraded from '16.3.0' to '15.8.0'.\nlodash Remained at '4.17.21'.\n\nNew Dependencies\n@aws-sdk/client-cloudformation: Added version '3.96.0'.\n@aws-sdk/client-sts: Added version '3.96.0'.\n@aws-sdk/credential-providers: Added version '3.96.0'.\n@aws-sdk/client-s3: Added version '3.96.0'.\n@aws-sdk/client-rum: Added version '3.96.0'.\n@aws-sdk/client-cognito-identity-provi Added version '3.96.0'.\n\nRemoved Dependencies\n@aws-sdk: Removed version '2.1046.0'.\n@aws-cdk/aws-appsync-alpha: Removed version '2.15.0-alpha.0'.\n@aws-cdk/aws-glue-alpha: Removed version '2.15.0-alpha.0'.\n\nCode Changes\naws-config.ts\nMigrated from 'aws-sdk' to '@aws-sdk/client-sts' and '@aws-sdk/credential-providers'.\nReplaced 'sts' with 'stsclient' and ' "
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T09:39:19Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Visual Studio Code, File Explorer, Google Chrome, and other unidentified applications. System tray includes network, sound, and battery status icons, as well as the date and time displayed as '11:39 AM 6/14/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "lambda-cdk-infra \u2014 feature/LAMBDA-#01-dependency-version-upgrade \u2014 Visual Studio Code",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "UI pane on the left, editor with multiple tabs open in the center, terminal at the bottom"
+                                },
+                                "content": [
+                                    {
+                                        "title": "EXPLORER: LAMBDA-CDK-INFRA",
+                                        "layoutDescription": "Vertical list of folders and files",
+                                        "visibleText": "- .github\n- .vscode\n- node_modules\n- src\n - shared\n - data-seeding.ts\n - graphql-utils.ts\n - package-utils.ts\n - s3-utils.ts\n - aws-configs\n - console.ts\n - decorators.ts\n - index.ts\n - infra.ts\n - lambda-builders.ts\n - observability.ts\n - root.ts\n - types.ts\n - .gitignore\n - changelog.md\n - package.json\n - package-lock.json\n - pull_request_template.md"
+                                    },
+                                    {
+                                        "title": "changelog.md editor with markdown content",
+                                        "layoutDescription": "Markdown editor",
+                                        "visibleText": "# Core Changes:\n* **AWS SDK Migration**: Migrated from AWS SDK V2 to AWS SDK V3.\n* **AWS CDK Upgrade**: Updated AWS CDK to version 2.146.0.\n\n# Dependency Updates\n* **@types/node**: Updated from '12.15.0' to '12.146.0'.\n* **@types/node**: Updated from '14.17.32' to '20.14.2'.\n* **@types/express**: Updated from '4.4.4' to '4.5.5'.\n* **@types/deepmerge**: Updated from '2.0.1' to '7.0.0'.\n* **@types/lodash**: Updated from '4.16.0' to '15.8.0'.\n\n# New Dependencies\n* **@aws-sdk/client-cloudformation**: Added version '3.596.0'.\n* **@aws-sdk/client-sts**: Added version '3.596.0'.\n* **@aws-sdk/client-providers**: Added version '3.596.0'.\n* **@aws-sdk/client-s3**: Added version '3.596.0'.\n* **@aws-sdk/client-cognito-identity-provider**: Added version '3.596.0'.\n\n# Removed Dependencies\n* **@aws-sdk/aws-appsync-alpha**: Removed version '12.15.0-alpha.0'.\n* **@aws-sdk/aws-glue-alpha**: Removed version '2.15.0-alpha.0'.\n\n# Breaking Changes\n* **Updated default Lambda runtime to Node.js 20.x in 'InfraLambdaFunction'.\n* **AwsConfig.LoadAwsCredentials()** changes behavior. Now it will load and cache 'credentials', that will be required to pass to most endpoints.\n\nconst credentials = await AwsConfig.LoadAwsCredentials();"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "At 09:31:27, the user is actively working in Sublime Text, focusing on a file located at 'C:\\Users\\APXEOLOG\\D'. The content of the file includes various dependencies and configurations related to GraphQL and Babel plugins. The user is likely reviewing or editing the package configuration, as indicated by the detailed JSON structure and versioning information visible in the editor.",
+        "At 09:33:40, the user is on the ChatGPT website using Mozilla Firefox. The visible content includes a list of updated, new, and removed dependencies for a project. The user is likely researching or verifying dependency updates and changes, as the page details specific version changes and code modifications related to AWS SDK and other libraries.",
+        "At 09:39:19, the user is working in Visual Studio Code on a project named 'lambda-cdk-infra'. The user is viewing multiple files and folders within the project, including 'aws-config.ts', 'changelog.md', and various TypeScript files. The changelog file shows detailed notes on core changes, dependency updates, new dependencies, removed dependencies, and breaking changes. The user is likely updating or reviewing the project's changelog and related code files."
+    ],
+    "aiUseSummary": "The user utilizes AI tools integrated within Visual Studio Code, specifically GPT-4.0, for code suggestions and guidance. The AI provides detailed instructions on migrating code to AWS SDK v3, including necessary package installations and file updates. This interaction indicates the user's reliance on AI for efficient code migration and ensuring adherence to best practices.",
+    "activities": [
+        "WRITING_CODE",
+        "RESEARCH",
+        "REVIEWING_CODE"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "IAC"
+    ],
+    "programmingLanguages": [
+        "TYPESCRIPT"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "AI_IDE_EXTENSION",
+        "OPENAI_CHATGPT"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 57,
+            "mouse": 17,
+            "date": "2024-06-14T09:30:17Z",
+            "windowTitle": "C:\\Users\\APXEOLOG\\Desktop\\pr_diff.diff.txt - Sublime Text (UNREGISTERED)",
+            "processName": "sublime_text",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 3,
+            "date": "2024-06-14T09:31:17Z",
+            "windowTitle": "C:\\Users\\APXEOLOG\\Desktop\\pr_diff.diff.txt ? - Sublime Text (UNREGISTERED)",
+            "processName": "sublime_text",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 52,
+            "mouse": 12,
+            "date": "2024-06-14T09:32:17Z",
+            "windowTitle": "ChatGPT ? Mozilla Firefox",
+            "processName": "chatgpt.com",
+            "visitingUrl": "https://chatgpt.com",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 246,
+            "mouse": 4,
+            "date": "2024-06-14T09:33:17Z",
+            "windowTitle": "ChatGPT ? Mozilla Firefox",
+            "processName": "chatgpt.com",
+            "visitingUrl": "https://chatgpt.com",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 15,
+            "mouse": 1,
+            "date": "2024-06-14T09:34:17Z",
+            "windowTitle": "Task Switching",
+            "processName": "explorer",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 78,
+            "mouse": 16,
+            "date": "2024-06-14T09:35:17Z",
+            "windowTitle": "lambda-cdk-infra ? changelog.md",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 77,
+            "mouse": 6,
+            "date": "2024-06-14T09:36:17Z",
+            "windowTitle": "lambda-cdk-infra ? changelog.md",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 65,
+            "mouse": 21,
+            "date": "2024-06-14T09:37:17Z",
+            "windowTitle": "lambda-cdk-infra ? changelog.md",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 21,
+            "mouse": 26,
+            "date": "2024-06-14T09:38:17Z",
+            "windowTitle": "lambda-cdk-infra ? aws-config.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 166,
+            "mouse": 11,
+            "date": "2024-06-14T09:39:17Z",
+            "windowTitle": "lambda-cdk-infra ? changelog.md",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T09:30:00Z"
+}

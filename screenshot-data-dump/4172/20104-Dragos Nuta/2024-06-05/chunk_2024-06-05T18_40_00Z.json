@@ -1,0 +1,295 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "meet.google.com",
+    "app.crossover.com",
+    "Microsoft.Media.Player",
+    "google.com",
+    "docs.chainlit.io"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T18:40:07Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Settings, and hidden icons tray. System tray includes network, sound, and battery status icons, date and time display, and language selection (ENG).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - wyj-rdjj-kan - Google Chrome",
+                "url": "https://meet.google.com/wyj-rdjj-kan",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, profile icon, and extensions including Google Account and Otter.ai"
+                },
+                "content": [
+                  {
+                    "title": "Google Meet Video Conference",
+                    "layoutDescription": "Video tiles layout",
+                    "visibleText": "David's AI Notetaker (From Otter.ai) David Schwartz Isaac Squires Robert Egglestone Samy Aboel-Nil Dragos Nuta"
+                  },
+                  {
+                    "title": "Participant Names",
+                    "layoutDescription": "Listed below video tiles",
+                    "visibleText": "David Schwartz, Isaac Squires, Robert Egglestone, Samy Aboel-Nil, Dragos Nuta"
+                  }
+                ]
+              },
+              {
+                "title": "Gmail - Inbox - Google Chrome",
+                "url": "https://mail.google.com/mail/u/0/#inbox",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "email list, navigation pane, compose button, search bar, and settings"
+                },
+                "content": [
+                  {
+                    "title": "Email Inbox",
+                    "layoutDescription": "List of emails",
+                    "visibleText": "All VIP: to me... Mar, Joe, Joe 33 VIP Edu spec on core... FW: 7 Golden Rules for AI Coaches Congratulations! Your AI Coach... Fwd: Chat in tpm reboot... Innovation through product... notes from Samy - 2... Confirm your subscription... Delivery progress (InfluxData)... Document shared with... Re: Crossover and Google... Re: Invitation: Matheus... PM Playbook Draft - for review... Jive Upgrade - I like to move it..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T18:45:16Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search bar, pinned applications, and system tray including clock and language indicator",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "My Feed - PostBeyond - 4 June 2024",
+                "url": "https://postbeyond-client-prod.bucke",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "navigation bar, tabs, address bar"
+                },
+                "content": [
+                  {
+                    "title": "My Feed",
+                    "layoutDescription": "standard web layout",
+                    "visibleText": "TEXT TOO BLURRY"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T18:47:07Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Search, Task View, Microsoft Edge, File Explorer, and other unidentified applications. Also includes system tray with notifications, sound, network, and battery status icons, as well as the date and time display '9:47 PM 6/5/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "BlackHole: Route Audio Between Apps - Google Chrome",
+                "url": "https://existential.audio/blackhole",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "back and forward navigation buttons, refresh button, home button, address bar with URL, bookmarks bar with several bookmarks, tabs bar with two tabs, one active titled 'BlackHole: Route Audio Between Apps' and another titled 'Meet - wjyd-fjkn', extensions icons, and profile icon"
+                },
+                "content": [
+                  {
+                    "title": "BlackHole: Route Audio Between Apps",
+                    "layoutDescription": "Centered layout with text and images",
+                    "visibleText": "BlackHole\nRoute Audio Between Apps\nBlackHole is a modern macOS virtual audio loopback driver that allows applications to pass audio to other applications with zero additional latency.\nDonate $10\nI can't afford to donate\nWindows\nDipper\ncapture audio from any source with ease.\neffortlessly record or stream to any destination\nStreamers\nInstructors\nPodcasters"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Google Meet video conference, as evidenced by the screenshot showing the Google Meet interface with multiple participants. The meeting includes individuals named David Schwartz, Isaac Squires, Robert Egglestone, Samy Aboel-Nil, and Dragos Nuta. The user is likely discussing project updates or collaborating on tasks, given the professional context and the presence of multiple team members.",
+    "The user is also checking their Gmail inbox, as shown in the screenshot with the Gmail interface open. The inbox contains various emails, including those related to AI coaching, project updates, and document sharing. This indicates that the user is managing their email communications, possibly responding to or organizing emails related to their work.",
+    "In another screenshot, the user is seen using a media player to watch a video on PostBeyond. The video appears to be related to a feed or update, suggesting that the user is consuming content that may be relevant to their work or professional development. The presence of multiple browser tabs indicates that the user is multitasking, possibly researching or gathering information from various sources.",
+    "The user is also engaged in a chat conversation with a colleague named Dragos Nuta. The chat interface shows a discussion about project details, including the progress of tasks and potential changes. This indicates that the user is actively collaborating with team members, discussing project specifics, and making decisions based on the conversation.",
+    "The user is conducting research on BlackHole, a macOS virtual audio loopback driver, as shown in the screenshot of the BlackHole website. This research is likely related to finding solutions for audio routing between applications, which could be relevant to the user's current project or technical requirements."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in video conferencing, email management, media consumption, chat communication, and research activities without any visible interaction with AI tools.",
+  "activities": [
+    "MEETING",
+    "EMAIL",
+    "CHATTING_WITH_TEAM",
+    "RESEARCH"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 2,
+      "mouse": 2,
+      "date": "2024-06-05T18:40:01Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 10,
+      "mouse": 11,
+      "date": "2024-06-05T18:41:01Z",
+      "windowTitle": "WorkSmart - Google Chrome",
+      "processName": "app.crossover.com",
+      "visitingUrl": "app.crossover.com/x/dashboard/contractor/my-dashboard?date=2024-06-05&activeView=dailyLogbook",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 8,
+      "mouse": 10,
+      "date": "2024-06-05T18:42:01Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T18:43:01Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 2,
+      "mouse": 8,
+      "date": "2024-06-05T18:44:01Z",
+      "windowTitle": "WorkSmart - Google Chrome",
+      "processName": "app.crossover.com",
+      "visitingUrl": "app.crossover.com/x/dashboard/contractor",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 16,
+      "mouse": 26,
+      "date": "2024-06-05T18:45:01Z",
+      "windowTitle": "Media Player",
+      "processName": "Microsoft.Media.Player",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 8,
+      "mouse": 14,
+      "date": "2024-06-05T18:46:01Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 42,
+      "mouse": 4,
+      "date": "2024-06-05T18:47:01Z",
+      "windowTitle": "blackhole audio - Google Search - Google Chrome",
+      "processName": "google.com",
+      "visitingUrl": "google.com/search?q=blackhole+audio&sca_esv=23c20ded85caa685&sca_upv=1&ei=l7JgZoLhGM-D9u8Pvq2u-A8&ved=0ahUKEwjCiNvoj8WGAxXPgf0HHb6WC_8Q4dUDCBA&uact=5&oq=blackhole+audio&gs_lp=Egxnd3Mtd2l6LXNlcnAiD2JsYWNraG9sZSBhdWRpbzIKEAAYgAQYQxiKBTIFEAAYgAQyBRAAGIAEMgUQ",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 32,
+      "mouse": 9,
+      "date": "2024-06-05T18:48:01Z",
+      "windowTitle": "TaskList - Chainlit - Google Chrome",
+      "processName": "docs.chainlit.io",
+      "visitingUrl": "docs.chainlit.io/api-reference/elements/tasklist",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 3,
+      "mouse": 7,
+      "date": "2024-06-05T18:49:01Z",
+      "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T18:40:00Z"
+}

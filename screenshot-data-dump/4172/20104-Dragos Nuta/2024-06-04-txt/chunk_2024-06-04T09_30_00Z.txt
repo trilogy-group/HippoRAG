@@ -1,0 +1,265 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "mail.google.com",
+        "LockApp"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-04T09:32:32Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, File Explorer, Microsoft Edge, and other unidentified applications. Displays the time as '12:32 PM' and date as '6/24/24'. Network status icon, sound volume icon, and language setting 'ENG' are visible.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Firat Gomi messaged you - Chat - Google Chrome",
+                                "url": "mail.google.com/chat/u/0/#chat/spaces/AAAAJqknhZU",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Multiple tabs for Inbox, Firat, DevFest, ARRI, EDU, Jive, Cloud, Note, and others visible. Address bar, bookmarks bar, and Google account icon present."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat with CNU Q Business ProductMind",
+                                        "layoutDescription": "Chat interface layout",
+                                        "visibleText": "CNU Q Business ProductMind\n5 members - Private\nChat\nShared\nTasks\nCloudSense Marketing\nBogdan Tenea 11:15 AM\nQuestions for AWS Meeting - add to this thread:\nBogdan Tenea 11:16 AM - Edited\nBogdan's questions:\nQ: Is the _document_content field used as the main data source if it's populated? (i.e. as opposed to using the pdf-converted text, we put a cleaned-up version of the content here)\nQ: How can we force what LLM is used under the hood to provide a response?\nQ: How can we debug to see what results/chunks went into building the response?\nQ: Is there any plan to support Notion as a connector, or should we build a custom connector?\nQ: What are the variables that we can reference when we call plugins? (e.g. logged in user?)\n1 unread reply\nMeeting recording:\nCNU 1-week Project - Amazon Q Business for ProductMind (2024-06-04 10:33 GMT-3)\n1 reply 11:16 AM\nBogdan Tenea 34 min ago\nMeeting recording:\nCNU 1-week Project - Amazon Q Business for ProductMind (2024-06-04 10:33 GMT-3)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T09:33:49Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "Lock Screen",
+                        "details": "Windows Default Lock Screen displaying a scenic background with a castle, mountain, and coastline. Time and date displayed prominently in the center.",
+                        "position": "Full Screen"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Lock Screen",
+                        "windows": [
+                            {
+                                "title": "Windows Default Lock Screen",
+                                "position": "Full Screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Time display, date display, scenic background image"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Lock Screen Content",
+                                        "layoutDescription": "Centered time and date",
+                                        "visibleText": "12:33\nTuesday, June 4\nThe peninsula is rough, the mountain ridge is magnificent, the castle is brooding, and rather surprisingly...\nFrom this vantage point, that castle looks as if it could be a natural part of the rough landscape.\nLike the image that you see?"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T09:39:29Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '12:39 PM' and date '6/24/2024'. Language setting 'ENG' visible. System tray icons include network status, sound volume, and notifications.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Firat Gomi - Chat - Google Chrome",
+                                "url": "mail.google.com/chat/u/0/#chat/dm/",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, and extensions visible"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat",
+                                        "layoutDescription": "split layout with list and chat window",
+                                        "visibleText": "Chat\nNew chat\nShortcuts\nHome 5\nMentions 3\nStarred\nDirect messages 3\nFirat Gomi\nGeorge, Noumaan\nBogdan Tenea\nPhil Hewinson\nDavid Schwartz\nBen New\nIsaac Squires\nEDGAR H MULONGO\nSpaces 2\nCrossover - Upwork Source...\nCNU Q Business ProductMind\nAI Coach - internal\nXO Candidate Support Esc...\nSpec Request Notifications\ntpm reboot\nXO Team Chat\nAWS News\nGFI BU/CE/TPM Managemen...\nFeature Line automations\nCentral PMs team\nAppManager Technical Pe...\n\nFirat Gomi\nDragos Nuta 11:22 AM Today\nI don't understand this...\nFirat Gomi 50 min\napologies, you are right on there, I was not feeling good for the last 3-4 days, I could have prepared something better. I'm trying to understand still, and I'm trying to get better. Anything I can do to make it better? I'm trying to imagine it from a stance like you shared, should be valuable for Eric to see and understand in 5-10 seconds\nLast week, there was a lot of questions regarding the stuff we shared, so I also tried to answer some of them while writing (why are we doing this etc.). Do you think we should have done something else?\nDragos Nuta 11:25 AM Today\nAdd: 'and contacted 90 users at X companies'\nFirat Gomi 54 min\nmy point is not about fixing comments from yesterday, it's about the output not being good enough and I'd hope that after numerous discussions you'd get closer\nFirat Gomi 9 min\nwhy did we choose this approach, which customers are we reaching, why them, which channels are you using. these were the ones that I thought\nDragos Nuta\nwhat questions were there that you answered now?\nFirat Gomi\nbut I did not ask to remove that information, just made it less length, less verbo"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in team communication through Google Chat. In the first screenshot, the user is participating in a group chat named 'CNU Q Business ProductMind' with five members. The conversation revolves around questions for an AWS meeting, including topics like document content fields, LLM usage, debugging results, and potential support for Notion as a connector. The user also views a meeting recording related to the 'CNU 1-week Project - Amazon Q Business for ProductMind'.",
+        "In the second screenshot, the user's computer is on the lock screen, displaying a scenic background with a castle, mountain, and coastline. The time is shown as 12:33 PM on Tuesday, June 4. This indicates a brief period of inactivity or a break.",
+        "The third screenshot shows the user engaged in a direct message conversation with a colleague named Firat Gomi. The discussion includes feedback on previous work, questions about the approach taken, and suggestions for improvement. The user is actively typing a response, indicating ongoing collaboration and problem-solving efforts."
+    ],
+    "aiUseSummary": "",
+    "activities": [
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "CHATTING_WITH_TEAM",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T09:30:09Z",
+            "windowTitle": "CNU Q Business ProductMind - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/space/AAAArMEfJMs",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T09:31:09Z",
+            "windowTitle": "Firat Gomi messaged you - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/space/AAAArMEfJMs",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T09:32:09Z",
+            "windowTitle": "Firat Gomi messaged you - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/space/AAAArMEfJMs",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T09:33:09Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T09:34:09Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T09:35:09Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T09:36:09Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T09:37:09Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T09:38:09Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 39,
+            "mouse": 15,
+            "date": "2024-06-04T09:39:09Z",
+            "windowTitle": "Firat Gomi - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/gwDF1MAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-04T09:30:00Z"
+}

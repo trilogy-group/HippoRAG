@@ -1,0 +1,267 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "webstorm64"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T11:32:34Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, File Explorer, Microsoft Edge, and other unidentified applications. Also displays the system tray with network, sound, and battery status icons, as well as the date and time '11:32 AM 6/14/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "IDE",
+                        "windows": [
+                            {
+                                "title": "package.json",
+                                "url": "",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Top bar with options like File, Edit, View, Navigate, Code, Analyze, Refactor, Build, Run, Tools, VCS, Window, Help. Left sidebar with project files and folders. Bottom bar with terminal output and status bar showing 'Process finished with exit code 0'"
+                                },
+                                "content": [
+                                    {
+                                        "title": "package.json",
+                                        "layoutDescription": "editor layout",
+                                        "visibleText": "{\n \"name\": \"@trilogy-group/lambda-cdk-infra\",\n \"version\": \"0.0.0-preview.2\",\n \"description\": \"CDK Infrastructure Library\",\n \"main\": \"dist/index.js\",\n \"types\": \"dist/index.d.ts\",\n \"files\": [\n \"dist/\"\n ],\n \"author\": \"Artyom Melnikov\",\n \"publishConfig\": {\n \"registry\": \"https://npm.pkg.github.com\"\n },\n \"repository\": {\n \"type\": \"git\",\n \"url\": \"https://github.com/trilogy-group/lambda-cdk-infra\"\n },\n \"scripts\": {\n \"generate-index\": \"npx cti -b create ./src\",\n \"build\": \"tsc\"\n },\n \"peerDependencies\": {\n \"aws-cdk-lib\": \"^2.146.0\",\n \"constructs\": \"^10.0.0\"\n },\n \"optionalDependencies\": {\n \"amplify-frontend-javascript\": \"^4.3.3\",\n \"@aws-amplify/cli-extensibility-helper\": \"^2.3.22\",\n \"@aws-cdk/aws-cognito-identitypool-alpha\": \"^2.146.0\"\n }\n}"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T11:35:33Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications. Also displays system tray with network, sound, and clock icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "package.json",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "editor with bar at top, sidebar on left with file explorer, bottom bar with terminal output"
+                                },
+                                "content": [
+                                    {
+                                        "title": "package.json",
+                                        "layoutDescription": "editor with JSON content",
+                                        "visibleText": "{\n \"name\": \"lambda-cdk-infra\",\n \"version\": \"0.3.0-0.preview.2\",\n \"private\": true,\n \"description\": \"\",\n \"main\": \"index.js\",\n \"scripts\": {\n \"generate-index\": \"npx cti -i ./src\",\n \"build\": \"tsc\"\n },\n \"peerDependencies\": {\n \"@aws-cdk/aws-cognito\": \"^1.42.0\",\n \"constructs\": \"^10.0.0\"\n },\n \"dependencies\": {\n \"@aws-amplify/frontend-javascript\": \"^3.4.3\",\n \"@aws-cdk/aws-cognito-identitypool-alpha\": \"^2.146.0\"\n },\n \"devDependencies\": {\n \"@types/node\": \"^20.14.2\",\n \"@types/yargs\": \"^17.0.5\",\n \"@types/fs-extra\": \"^9.0.0\",\n \"@typescript-eslint/eslint-plugin\": \"^5.4.5\"\n }\n}"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T11:36:54Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes network status, sound volume, battery indicator, date and time display (11:34 AM, 06/14/2024), and language setting (ENG).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Code Editor",
+                        "windows": [
+                            {
+                                "title": "package.json",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Top bar with options like File, Edit, View, Navigate, Code, Analyze, Refactor, Tools, VCS, Window, Help. Left sidebar with project directory structure. Bottom bar with terminal output."
+                                },
+                                "content": [
+                                    {
+                                        "title": "package.json",
+                                        "layoutDescription": "editor with JSON content",
+                                        "visibleText": "{\n \"name\": \"@tlrgy-group/lambda-cdk-infra\",\n \"version\": \"0.0.0-preview.2\",\n \"private\": true,\n \"scripts\": {\n \"build\": \"tsc\",\n \"watch\": \"tsc -w\",\n \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"\n },\n \"dependencies\": {\n \"@aws-sdk/client-cognito-identity\": \"^3.59.0\",\n \"@aws-sdk/client-s3\": \"^3.59.0\",\n \"@aws-sdk/client-sts\": \"^3.59.0\",\n \"@aws-sdk/credential-providers\": \"^3.59.0\",\n \"@aws-sdk/client-cognito-identity-provider\": \"^3.59.0\",\n \"@aws-sdk/client-rum\": \"^3.59.0\",\n \"@tlrgy/cdk\": \"^1.0.0\",\n \"@tlrgy/cdk-utils\": \"^1.0.0\",\n \"aws-cdk\": \"^2.17.0\",\n \"cdk-nag\": \"^2.7.0\",\n \"dotenv\": \"^10.0.0\",\n \"esbuild\": \"^0.14.0\",\n \"fs-extra\": \"^10.0.0\",\n \"execution-time\": \"^1.4.1\",\n \"loglevel\": \"^1.7.1\",\n \"middy\": \"^2.7.0\",\n \"graphql\": \"^15.8.0\",\n \"@graphql-codegen/core\": \"^2.5.1\",\n \"@graphql-codegen/typescript\": \"^2.4.5\",\n \"@graphql-codegen/typescript-operations\": \"^2.3.2\",\n \"@graphql-codegen/introspection\": \"^1.1.1\",\n \"@graphql-codegen/typescript-graphql-request\": \"^4.4.1\",\n \"lodash\": \"^4.17.21\"\n }\n}"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in writing code within the WebStorm IDE. The primary file being edited is 'package.json' for the project '@trilogy-group/lambda-cdk-infra'. The user is updating dependencies and scripts, including 'aws-cdk-lib', 'constructs', and various AWS SDK clients. The terminal output indicates that the user has successfully run a build command, as evidenced by the message 'Process finished with exit code 0'. This suggests that the user is working on infrastructure as code (IAC) using AWS CDK.",
+        "The user continues to work on the 'package.json' file, focusing on adding and updating dependencies. The dependencies include various AWS SDK clients, GraphQL code generation tools, and utility libraries like 'lodash'. The user is also managing peer and optional dependencies, ensuring that the project has all necessary packages for development and deployment. The consistent focus on 'package.json' indicates that the user is preparing the project for a new release or a significant update.",
+        "Throughout the session, the user is primarily engaged in editing the 'package.json' file, which is crucial for managing the project's dependencies and scripts. The user is adding new dependencies, updating existing ones, and configuring scripts for building and generating indexes. The terminal output shows successful execution of commands, indicating that the user is testing the changes in real-time. This activity is essential for maintaining the project's build and deployment pipeline."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is focused on manual code editing and dependency management within the WebStorm IDE. No AI chat interfaces or AI-generated suggestions are visible in the screenshots.",
+    "activities": [
+        "WRITING_CODE"
+    ],
+    "workTypes": [
+        "IAC"
+    ],
+    "programmingLanguages": [
+        "TYPESCRIPT"
+    ],
+    "toolTypes": [
+        "IDE"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T11:30:17Z",
+            "windowTitle": "lambda-cdk-infra ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T11:31:17Z",
+            "windowTitle": "lambda-cdk-infra ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T11:32:17Z",
+            "windowTitle": "lambda-cdk-infra ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T11:33:17Z",
+            "windowTitle": "lambda-cdk-infra ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T11:34:17Z",
+            "windowTitle": "lambda-cdk-infra ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 3,
+            "date": "2024-06-14T11:35:17Z",
+            "windowTitle": "lambda-cdk-infra ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-14T11:36:17Z",
+            "windowTitle": "lambda-cdk-infra ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T11:37:17Z",
+            "windowTitle": "lambda-cdk-infra ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-14T11:38:17Z",
+            "windowTitle": "lambda-cdk-infra ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T11:39:17Z",
+            "windowTitle": "lambda-cdk-infra ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-14T11:30:00Z"
+}

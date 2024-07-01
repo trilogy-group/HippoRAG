@@ -1,0 +1,198 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "Zoom",
+        "mail.google.com",
+        "ads.tiktok.com",
+        "business.tiktok.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T16:58:37Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications including a web browser, file explorer, and other unidentified apps. System tray includes network, sound, and battery status icons, as well as the date and time display.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "TikTok Business Center - Google Chrome",
+                                "url": "https://business.tiktok.com",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "UI includes back, forward, refresh, home buttons, address bar, bookmarks bar, tabs, and profile icon."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Welcome to TikTok Business Center",
+                                        "layoutDescription": "Main content visible",
+                                        "visibleText": "Welcome to TikTok Business Center\n\nMeet all your marketing needs with TikTok Business Center. Manage and access advertising, creators, commerce and other marketing solutions in one place for quick collaboration and maximum flexibility.\n\nGet started"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in the TikTok Business Center, as evidenced by the maximized Google Chrome window displaying the TikTok Business Center webpage. The user is likely exploring or managing marketing needs, including advertising, creators, commerce, and other marketing solutions. The visible text on the webpage includes a welcome message and a call to action to 'Get started,' indicating that the user might be in the initial stages of setting up or managing a business account on TikTok.",
+        "The user has multiple tabs open in Google Chrome, including 'WS.Eng AI,' 'DevFactory,' and 'Magic Academy,' suggesting that they might be multitasking or preparing to switch between different tasks or projects. The presence of these tabs indicates that the user is likely involved in various activities, possibly related to work or research, although the specific content of these tabs is not visible in the screenshot.",
+        "The taskbar at the bottom of the screen shows icons for the Start menu, search, task view, and several pinned applications, including a web browser and file explorer. The system tray includes network, sound, and battery status icons, as well as the date and time display. This setup suggests that the user is working in a typical desktop environment, with easy access to essential tools and system information."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being utilized in the provided screenshots. The user is primarily engaged with the TikTok Business Center webpage and has multiple browser tabs open, but none of these indicate interaction with AI tools. Therefore, it can be concluded that AI tools were not part of the user's workflow during this period.",
+    "activities": [
+        "RESEARCH"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "RESEARCH",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T16:50:45Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T16:51:45Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T16:52:45Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T16:53:45Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 10,
+            "date": "2024-06-12T16:54:45Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-12T16:55:45Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 7,
+            "date": "2024-06-12T16:56:45Z",
+            "windowTitle": "CoachBot Alerts - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxFHwxQTXtLlBkBSZrvzDrQW",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 26,
+            "date": "2024-06-12T16:57:45Z",
+            "windowTitle": "CoachBot Alerts - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/6hvc7UAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 28,
+            "mouse": 17,
+            "date": "2024-06-12T16:58:45Z",
+            "windowTitle": "Advertising on TikTok - Google Chrome",
+            "processName": "ads.tiktok.com",
+            "visitingUrl": "ads.tiktok.com/i18n/signup/?register_type=1&check_sso=1&redirect=https%3A%2F%2Fbusiness.tiktok.com%2F%3Fattr_campaign%3DmemberInvite-new-filled%26attr_medium%3D%26attr_source%3Demail%26attr_sys_campaign_id%3D7203317465795510274%26attr_sys_drip_id%3D720331",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 37,
+            "mouse": 33,
+            "date": "2024-06-12T16:59:45Z",
+            "windowTitle": "TikTok Business Center - Google Chrome",
+            "processName": "business.tiktok.com",
+            "visitingUrl": "business.tiktok.com/addName?inviteCode=7ec99e8f679ad0d171abf6e5bd5043c6",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-12T16:50:00Z"
+}

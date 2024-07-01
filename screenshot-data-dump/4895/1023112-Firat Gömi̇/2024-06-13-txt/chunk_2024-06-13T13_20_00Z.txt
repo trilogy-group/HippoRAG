@@ -1,0 +1,324 @@
+{
+    "candidateId": 2027577,
+    "apps": [
+        "mail.google.com",
+        "trilogy-sales.lightning.force.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-13T13:20:44Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. System tray visible with clock showing '1:20 PM' and date 'Fri, Jul 19'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "File Explorer",
+                        "windows": []
+                    },
+                    {
+                        "appName": "Microsoft Store",
+                        "windows": []
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-13T13:26:32Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. System tray visible with clock showing 'Fri, Jul 19' and battery, network, sound icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Hey Niklas, anything blocking you from enabling CoPilot? - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.3 GB - Google Chrome - Firat (trilogy.com)",
+                                "url": "https://mail.google.com/mail",
+                                "position": "left half",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Email interface with tabs for Inbox, Starred, Snoozed, Sent, Drafts, and more. Compose button visible. Search bar present."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email Content",
+                                        "layoutDescription": "Email displayed prominently",
+                                        "visibleText": "Hey Niklas, anything blocking you from enabling CoPilot?\n\nFirat Gomi\nProduct Manager\nfirat.gomi@ignitetech.com\n\nHello Niklas,\n\nThis is Firat, Product Manager of Jive. Hope that all is well!\n\nI wanted to reach you personally because I've seen that you haven't enabled CoPilot ever since the new update was launched in May. I was wondering if there was a reason holding that off, or if you don't mind to share the Redlines Docs on top of Ignite or capable of it?\n\nI'd like to address your concerns and thoughts regarding CoPilot if you have any. Do you have 5 minutes for a chat? If not, you can also just shoot me your thoughts as a reply to this email. You can be as candid as possible.\n\nIf you weren't aware of the CoPilot launch yet, you can check this list of videos to learn more about it. You're also welcome to enable it via the system menu.\n\nBesides that, let me know if I can help you in any way. I'd love to create a connection and help each other.\n\nBest regards,\nFirat\n\nFirat Gomi | Product Manager\n\n[IgniteTech logo]\n\nLearn more at ignitetech.com/onthejive"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "New Message",
+                                "position": "right half",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Email composition interface with fields for Recipients, Subject, and message body. Buttons for Send, Save Draft, and more."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Draft Email",
+                                        "layoutDescription": "Email composition form",
+                                        "visibleText": "Hello Niklas,\n\nThis is Firat, Product Manager of Jive. Hope that all is well!\n\nI wanted to reach you personally because I've seen that the Enterprise Holding hasn't enabled CoPilot ever since it was launched in May. I was wondering if there was a reason holding that off, or if you don't mind to share the Redlines Docs on top of Ignite or capable of it?\n\nI'd like to address your concerns and thoughts regarding CoPilot if you have any. Do you have 5 minutes for a chat? If not, you can also just shoot me your thoughts as a reply to this email. You can be as candid as possible.\n\nIf you weren't aware of the CoPilot launch yet, you can check this list of videos to learn more about it. You're also welcome to enable it via the system menu.\n\nBesides that, let me know if I can help you in any way. I'd love to create a connection and help each other.\n\nBest regards,\nFirat"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Google Sheets",
+                        "windows": [
+                            {
+                                "title": "Jive Cloud CoPilot - Outreach",
+                                "url": "https://docs.google.com/spreadsheets",
+                                "position": "maximized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Spreadsheet interface with tabs for File, Edit, View, Insert, Format, Data, Tools, Extensions, Help. Multiple sheets visible at the bottom."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Spreadsheet Content",
+                                        "layoutDescription": "Detailed spreadsheet",
+                                        "visibleText": "Jive Cloud\n\nCustomer Name\tARR\tContact Person\tEmail\tRole\tSystem Admin\nThe Doctors Management Company\t$135,000\tGreg Liu\tgreg.liu@thedocs.com\tRachel Nation - ITNation@thedocs.com - VP of IT\nHumana Inc.\t$72,400\tJim Eufers\tjim.eufers@humana.com\tCarrie Lawson - CLawson@humana.com - IT Head\n\n... (and more entries similar to these)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Edge",
+                        "windows": []
+                    }
+                ]
+            },
+            "applications": [
+                {
+                    "appName": "Microsoft Edge",
+                    "windows": []
+                }
+            ]
+        },
+        {
+            "capturedAt": "2024-06-13T13:26:47Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. System clock shows 'Fri, Jul 19'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Hey Niklas, anything blocking you from enabling CoPilot? - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.3 GB - Google Chrome - Firat (trilogy.com)",
+                                "url": "https://mail.google.com/mail",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Email interface with tabs for Inbox, Starred, Snoozed, Sent, Drafts, and more. Compose button visible. Search bar present."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email Content",
+                                        "layoutDescription": "Email displayed prominently in center",
+                                        "visibleText": "Hey Niklas, anything blocking you from enabling CoPilot?\n\nFirat Gomi\nProduct Manager at IgniteTech\nfirat.gomi@ignitetech.com\n\nHello Niklas,\n\nThis is Firat, Product Manager of Jive. Hope that all is well!\n\nI wanted to reach you personally because I've seen that you haven't enabled CoPilot ever since the new feature launched in May. I was wondering if there was a reason holding that off, or if you hadn't noticed what the Reliance Docs icon at top right corner is capable of?\n\nI'd like to address your concerns and thoughts regarding CoPilot if you have any. Do you have 5 minutes for a chat? Jive's mission is to help businesses optimize their communications.\n\nIf you weren't aware of the CoPilot launch yet, you can check this list of videos to learn more about it. You're also welcome to enable it via the system menu.\n\nBesides that, let me know if I can help you in any way. I'd love to create a connection and help each other.\n\nBest regards,\nFirat\n\nFirat Gomi | Product Manager\n\nLearn more at ignitetech.com/onthejive"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Google Sheets",
+                        "windows": [
+                            {
+                                "title": "Jive Cloud CoPilot - Outreach",
+                                "url": "https://docs.google.com/spreadsheets",
+                                "position": "center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Spreadsheet interface with tabs for Sheet 1, Sheet 2, Sheet 3, and more. Toolbar with options for File, Edit, View, Insert, Format, Data, Tools, Extensions, Help."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Spreadsheet Content",
+                                        "layoutDescription": "Spreadsheet displayed prominently in center",
+                                        "visibleText": "Jive Cloud\n\nCustomer Name\tARR\tContact Person\tEmail\tRole\tSystem Admin\nThe Doctors Management Company\t$135,000\tGreg Liu\tgreg.liu@thedocs.com\tRachel Nation - ITNation@thedocs.com - VP of IT\nWinter Blast USA\t$125,000\tChris Lister\tchris.lister@winterblast.com\tDave LESCUD - dave.lescud@winterblast.com - VP of IT\nHumana Inc.\t$72,400\tIan Calhern\tian.calhern@humana.com\tCannot access their system\n\n... (additional rows with similar data structure)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in email communication using Gmail. They are composing an email to a recipient named Niklas, discussing the CoPilot feature of Jive. The email content includes an introduction, a query about the recipient's experience with CoPilot, and an invitation to share feedback or schedule a chat. The user is also referencing a list of videos to help the recipient learn more about CoPilot.",
+        "In addition to email communication, the user is working with a Google Sheets document titled 'Jive Cloud CoPilot - Outreach'. The spreadsheet contains detailed information about various customers, including their names, annual recurring revenue (ARR), contact persons, emails, roles, and system administrators. The user is likely using this document to track and manage outreach efforts related to the CoPilot feature.",
+        "The user is utilizing Google Chrome as their primary web browser, with multiple tabs open. The active tabs include Gmail and Google Sheets, indicating that the user is multitasking between email communication and data management. The user is also seen navigating through their calendar, possibly to schedule meetings or manage their time effectively."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in email communication and data management without any visible interaction with AI tools or assistants.",
+    "activities": [
+        "EMAIL",
+        "READING_SPEC"
+    ],
+    "workTypes": [
+        "UI"
+    ],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DOCUMENT_VIEWER_OR_EDITOR"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "EMAIL",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 11,
+            "mouse": 18,
+            "date": "2024-06-13T13:20:56Z",
+            "windowTitle": " Hey Niklas, anything blocking you from enabling CoPilot? - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.3 GB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#sent/FMfcgzQVwxGQzcCdLLkpwLQNtfZBxgjs?compose=GTvVlcSBpgVhkJnqvqtZsLjTDtFjPtcLnXMhHMhXMDfHKjZcNTsJbDVJxcgkvxvBmKxMwxkXwwpTq",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 43,
+            "mouse": 9,
+            "date": "2024-06-13T13:21:56Z",
+            "windowTitle": " Hey Niklas, anything blocking you from enabling CoPilot? - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.3 GB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#sent/FMfcgzQVwxGQzcCdLLkpwLQNtfZBxgjs?compose=GTvVlcSBpgVhkJnqvqtZsLjTDtFjPtcLnXMhHMhXMDfHKjZcNTsJbDVJxcgkvxvBmKxMwxkXwwpTq",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 15,
+            "mouse": 7,
+            "date": "2024-06-13T13:22:56Z",
+            "windowTitle": " Enterprise Holdings, Inc. - Jive - Renewal - 5_2023 | Opportunity | Salesforce - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "trilogy-sales.lightning.force.com",
+            "visitingUrl": "https://trilogy-sales.lightning.force.com/lightning/r/Opportunity/0062x00000BVFdkAAH/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 19,
+            "mouse": 12,
+            "date": "2024-06-13T13:23:56Z",
+            "windowTitle": " Hey Niklas, anything blocking you from enabling CoPilot? - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.3 GB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#sent/FMfcgzQVwxGQzcCdLLkpwLQNtfZBxgjs?compose=GTvVlcSBpgVhkJnqvqtZsLjTDtFjPtcLnXMhHMhXMDfHKjZcNTsJbDVJxcgkvxvBmKxMwxkXwwpTq",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 163,
+            "mouse": 3,
+            "date": "2024-06-13T13:24:56Z",
+            "windowTitle": " Hey Niklas, anything blocking you from enabling CoPilot? - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.3 GB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#sent/FMfcgzQVwxGQzcCdLLkpwLQNtfZBxgjs?compose=GTvVlcSBpgVhkJnqvqtZsLjTDtFjPtcLnXMhHMhXMDfHKjZcNTsJbDVJxcgkvxvBmKxMwxkXwwpTq",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 1,
+            "mouse": 0,
+            "date": "2024-06-13T13:25:56Z",
+            "windowTitle": " Hey Niklas, anything blocking you from enabling CoPilot? - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.3 GB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#sent/FMfcgzQVwxGQzcCdLLkpwLQNtfZBxgjs?compose=GTvVlcSBpgVhkJnqvqtZsLjTDtFjPtcLnXMhHMhXMDfHKjZcNTsJbDVJxcgkvxvBmKxMwxkXwwpTq",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-13T13:26:56Z",
+            "windowTitle": " Hey Niklas, anything blocking you from enabling CoPilot? - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.3 GB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#sent/FMfcgzQVwxGQzcCdLLkpwLQNtfZBxgjs?compose=GTvVlcSBpgVhkJnqvqtZsLjTDtFjPtcLnXMhHMhXMDfHKjZcNTsJbDVJxcgkvxvBmKxMwxkXwwpTq",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-13T13:27:56Z",
+            "windowTitle": " Hey Niklas, anything blocking you from enabling CoPilot? - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.3 GB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#sent/FMfcgzQVwxGQzcCdLLkpwLQNtfZBxgjs?compose=GTvVlcSBpgVhkJnqvqtZsLjTDtFjPtcLnXMhHMhXMDfHKjZcNTsJbDVJxcgkvxvBmKxMwxkXwwpTq",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-13T13:28:56Z",
+            "windowTitle": " Hey Niklas, anything blocking you from enabling CoPilot? - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.3 GB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#sent/FMfcgzQVwxGQzcCdLLkpwLQNtfZBxgjs?compose=GTvVlcSBpgVhkJnqvqtZsLjTDtFjPtcLnXMhHMhXMDfHKjZcNTsJbDVJxcgkvxvBmKxMwxkXwwpTq",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-13T13:29:56Z",
+            "windowTitle": " Hey Niklas, anything blocking you from enabling CoPilot? - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.2 GB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#sent/FMfcgzQVwxGQzcCdLLkpwLQNtfZBxgjs?compose=GTvVlcSBpgVhkJnqvqtZsLjTDtFjPtcLnXMhHMhXMDfHKjZcNTsJbDVJxcgkvxvBmKxMwxkXwwpTq",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-13T13:20:00Z"
+}

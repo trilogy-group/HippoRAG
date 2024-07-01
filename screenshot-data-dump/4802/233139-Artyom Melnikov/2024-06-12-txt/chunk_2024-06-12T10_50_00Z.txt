@@ -1,0 +1,338 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "us-east-1.console.aws.amazon.com",
+        "ws-lambda.atlassian.net",
+        "github.com",
+        "notepad"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T10:51:43Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, Edge, File Explorer, Google Chrome, and system tray with clock showing '10:51 AM', date '6/12/2024', Wi-Fi status, sound volume, and notifications icon",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Query editor | Athena | us-east-1 - Google Chrome",
+                                "url": "https://us-east-1.console.aws.amazon.com/athena/home?region=us-east-1#query",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "address bar, tabs, bookmarks bar, navigation buttons, AWS management console navigation bar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Amazon Athena Query Editor",
+                                        "layoutDescription": "Split view with editor and results",
+                                        "visibleText": "Data source: AwsDataCatalog\nDatabase: xo-hiring-production-stats-tracker-bkp\nTables and views: accepted_event_relation, accepted_event_relations_schema, cv, sg, account_brand, account_brands_schema, cv, sg, account_contact_relations_schema, cv, sg, account_contract_role, account_contract_roles_schema, cv, sg, account_history, accounts_schema, cv, sg, action_link_group_template, action_link_group_templates_schema, cv, sg, action_link_template, action_link_templates_schema, cv, sg, active_features_license_metric, cv, sg\nQuery: where date(from_iso8601_date(c.startdate)) > params.campaignStartDate order by c.startdate desc\nSQL Code: -- cell Analytics fields based on field ranking and cell.dCellMingRank > 2 -- then false -- The last 3 statures are considered 'unknown' when cell.dCellSortRecentest is null on (cell(dif('day', cell.dCellSortRecentest, current_date)) > 7) params.weeks_for_slot_performance_analysis) then true when d.cellWeeklyApplicants is not null and cell.weeklyApplicants > params.min_clicks_per_week then false when d.cellSortWeeks is not null and d.cellSortWeeks > params.max_exploration_weeks then false else true\n-- Applications Aggregation report(count distinct dCellApplications, 0) as 'totalApplications', coalesce(appStats.totalAppOpens, 0) as 'totalAppOpens', coalesce(appStats.totalFakers, 0) as 'totalFakers', coalesce(appStats.totalPassers, 0) as 'totalPassers', coalesce(appStats.totalReachedHere, 0) as 'totalReachedHere', coalesce(appStats.totalCancelledPassers, 0) as 'totalCancelledPassers', coalesce(appStats.totalCancelledDuplication, 0) as 'totalCancelledDuplication', if (appStats.totalApplications > d.cp.platformCost / appStats.totalAppOpens, 0) as 'cpa', report(count distinct dCellApplications, 0) as 'totalApplications', left join 'xo-hiring-production-stats-tracker-bkp'.job_boar -- cellAn on cellAn.job_board_cell_c -- cd.cellAn and cellAn.sourcing_platform_c -- cd.sourcingPlatform\nButtons: Run again, Explain, Cancel, Clear, Create"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T10:54:52Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Chrome, Notepad++, File Explorer, and other unidentified applications. System tray visible with network, sound, and clock icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Sync Master To Staging ? trilogy-group/xo-hiring@74834f4 - Google Chrome",
+                                "url": "https://github.com/trilogy-group/xo-hiring/pull/74834f4",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, GitHub specific buttons like 'Summary', 'Jobs', 'Run details', 'Usage', 'Workflow file'"
+                                },
+                                "content": [
+                                    {
+                                        "title": "GitHub Actions Log",
+                                        "layoutDescription": "Text-heavy layout",
+                                        "visibleText": "deploy\ndeploy-to-ci-agent CI_01, CIDC, CIDCEND_KEY_CIO\n... (repeated for multiple jobs)\n\n{\"created\": \"false\", \"release\": \"false\", \"file\": \"0000000000000-JSON\", \"func\": \"0000000000000-JSON\"}\n\n... (repeated for multiple jobs)\n\n{\"job\": \"true\", \"lastFinished\": \"true\", \"started\": \"2024-06-12T00:22:00Z\", \"numberComponentsDeploy\": 4659, \"numberTests\": 8595, \"numberErrors\": 0, \"rollbackComplete\": true, \"status\": \"Failed\", \"success\": false\n\n\"warning\": \"We plan to deprecate this command in the future. Try using the 'project deploy start' command instead.\", \"v-targetusername\": \"[username]\" has been deprecated. Use 'v-target-org' or 'v1' instead.\n\nError: Warning: sf-cli update available from 7.200.7 to 7.209.6.\nError: Warning: sf-cli update available from 7.200.7 to 7.209.6."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T10:59:30Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time as 12:59 PM and date as 06/12/2024. Network, sound, and battery status icons are visible.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Notepad",
+                        "windows": [
+                            {
+                                "title": "(0, ci1, CICD_CONSUMER_KEY_CI1).txt - Notepad",
+                                "position": "left side of the screen, maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "details bar with File, Edit, Format, View, Help. Scroll bars visible."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Text Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "{\n \"createdDate\": \"2024-06-12T07:48:49.932Z\",\n \"fileName\": \"zip/portal_login/portal_login.crt.reportType\", \"fileId\": \"4151705\",\n \"problem\": \"In field 'field' - no CustomField named NetworkMember-User.ExternalUserRole__c found\",\n \"problemType\": \"Error\",\n \"success\": false\n},\n{\n \"changed\": false,\n \"createdDate\": \"2024-06-12T07:58:28.000Z\",\n \"componentType\": \"WorkFlowAlert\",\n \"fileName\": \"zip/workflows/OpportunityWorkflow\",\n \"fileId\": \"4151706\",\n \"problem\": \"In field 'template' - no EmailTemplate named unfiled$public/Reject_Candidate_Job_Recommendatio found\",\n \"problemType\": \"Error\",\n \"success\": false\n},\n{\n \"changed\": false,\n \"createdDate\": \"2024-06-12T07:58:25.577Z\",\n \"componentType\": \"Flow\",\n \"fileName\": \"zip/flows/ProcessCandidateRejectionStage.flow\", \"fileId\": \"4151707\",\n \"problem\": \"In field 'action' - We can't find an action with the name and action type that you specified.\",\n \"problemType\": \"Error\",\n \"success\": false\n},\n{\n \"changed\": false,\n \"createdDate\": \"2024-06-12T07:58:25.577Z\",\n \"componentType\": \"Flow\",\n \"fileName\": \"zip/flows/ProcessCandidateRejectionStageDelayed\", \"fileId\": \"4151708\",\n \"problem\": \"In field 'action' - We can't find an action with the name and action type that you specified.\",\n \"problemType\": \"Error\",\n \"success\": false\n}\n]\n}\n\n45\n{\n \"changed\": false,\n \"componentType\": \"customLabel\"\n}\n\n46\n{\n \"status\": \"1\",\n"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Sync Master to Staging #862",
+                                "url": "https://github.com/trilogy-group/x-hiring",
+                                "position": "right side of the screen, maximized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "detail bar, tabs, navigation buttons, and bookmarks bar visible."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Web Page Content",
+                                        "layoutDescription": "Web browser layout",
+                                        "visibleText": "GitHub repository page for trilogy-group/x-hiring, displaying a list of actions and their statuses for a specific run. Includes navigation options for Code, Issues, Pull requests, Actions, Projects, Wiki, Security, Insights, and Settings. The active tab shows the Actions page with a detailed view of the 'Sync Master to Staging #862' workflow, including a list of jobs such as deploy, deploy-to-ci-agents, and others with timestamps and status indicators. The page also includes options to re-run jobs, and a search bar for logs."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "System",
+                        "windows": [
+                            {
+                                "title": "System Notifications",
+                                "position": "bottom right of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "notification area"
+                                },
+                                "content": [
+                                    {
+                                        "title": "System Notifications Content",
+                                        "layoutDescription": "Notification popup",
+                                        "visibleText": "No new notifications."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "Visual Studio Code",
+                                "position": "hidden behind other windows",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "layout with multiple tabs and a sidebar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Editor Content",
+                                        "layoutDescription": "Code editor layout",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in querying data using Amazon Athena. The screenshot shows the user working on a SQL query in the Athena Query Editor, with the query focusing on campaign start dates and various application statistics. The user is utilizing the AWS management console to navigate through different tables and views, indicating a focus on data analysis and retrieval.",
+        "The user is reviewing a GitHub Actions log for a repository named 'xo-hiring'. The log details various deployment jobs, including their statuses and any errors encountered. The user is examining the output of these jobs, which includes JSON formatted logs and error messages. This activity suggests the user is involved in continuous integration and deployment processes, ensuring that the codebase is properly built and deployed.",
+        "The user is using Notepad to view and edit a log file related to a deployment process. The log file contains detailed information about various components, their statuses, and any errors encountered during the deployment. This indicates that the user is troubleshooting and analyzing deployment issues, likely to ensure successful deployment of the application.",
+        "The user is also viewing a GitHub repository page for 'xo-hiring', specifically looking at the 'Sync Master to Staging #862' workflow. The page displays a list of actions and their statuses, including options to re-run jobs and search logs. This further supports the user's involvement in managing and troubleshooting deployment processes."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in querying data, reviewing deployment logs, and troubleshooting issues without any visible interaction with AI tools or assistants.",
+    "activities": [
+        "REVIEWING_CODE",
+        "READING_SPEC"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "DB",
+        "TESTS"
+    ],
+    "programmingLanguages": [
+        "SQL",
+        "OTHER"
+    ],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DOCUMENT_VIEWER_OR_EDITOR"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "REVIEWING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T10:50:01Z",
+            "windowTitle": "Query editor | Athena | us-east-1 - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/athena/home?region=us-east-1#/query-editor/history/fd581800-5bdd-4682-8745-69205de2a534",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 1,
+            "mouse": 5,
+            "date": "2024-06-12T10:51:01Z",
+            "windowTitle": "Query editor | Athena | us-east-1 - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/athena/home?region=us-east-1#/query-editor/history/fd581800-5bdd-4682-8745-69205de2a534",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T10:52:01Z",
+            "windowTitle": "Query editor | Athena | us-east-1 - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/athena/home?region=us-east-1#/query-editor/history/fd581800-5bdd-4682-8745-69205de2a534",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T10:53:01Z",
+            "windowTitle": "Query editor | Athena | us-east-1 - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/athena/home?region=us-east-1#/query-editor/history/fd581800-5bdd-4682-8745-69205de2a534",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-12T10:54:01Z",
+            "windowTitle": "Crossover Kanban - Agile Board - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/jira/software/c/projects/HIRE/boards/1?quickFilter=5",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 1,
+            "mouse": 20,
+            "date": "2024-06-12T10:55:01Z",
+            "windowTitle": "Sync Master To Staging ? trilogy-group/xo-hiring@74834f4 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring/actions/runs/9474836331/job/26105162518#step:10:49322",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 13,
+            "mouse": 25,
+            "date": "2024-06-12T10:56:01Z",
+            "windowTitle": "1_deploy-to-ci-agents (0, ci1, CICD_CONSUMER_KEY_CI1).txt - Notepad",
+            "processName": "notepad",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-12T10:57:01Z",
+            "windowTitle": "1_deploy-to-ci-agents (0, ci1, CICD_CONSUMER_KEY_CI1).txt - Notepad",
+            "processName": "notepad",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T10:58:01Z",
+            "windowTitle": "1_deploy-to-ci-agents (0, ci1, CICD_CONSUMER_KEY_CI1).txt - Notepad",
+            "processName": "notepad",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T10:59:01Z",
+            "windowTitle": "1_deploy-to-ci-agents (0, ci1, CICD_CONSUMER_KEY_CI1).txt - Notepad",
+            "processName": "notepad",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-12T10:50:00Z"
+}

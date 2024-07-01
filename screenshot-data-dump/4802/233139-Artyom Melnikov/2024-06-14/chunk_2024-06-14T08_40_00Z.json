@@ -1,0 +1,330 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "webstorm64"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T08:40:55Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '18:34', date '2024-06-14', and system language 'ENG'. Network status icon visible. Sound volume icon and notifications icon are also present.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "lambda-cdk-infra \\ src \\ workspace \\ lambda-cdk-infra",
+                "url": null,
+                "position": "fullscreen",
+                "uiElements": {
+                  "details": "Menu bar at the top with options like File, Edit, Selection, View, Go, Run, Terminal, Help. Sidebar on the left with project files and folders. Bottom bar with terminal output and status bar showing TypeScript version, spaces information, and encoding type."
+                },
+                "content": [
+                  {
+                    "title": "aws-config.ts",
+                    "layoutDescription": "Code editor open",
+                    "visibleText": "1 import { GetCallerIdentityCommand, STSClient } from '@aws-sdk/client-sts';\n2 import { fromIni } from '@aws-sdk/credential-providers';\n3 import { AwsCredentialIdentityProvider } from './identity';\n4\n5 process.env.AWS_SDK_LOAD_CONFIG = 'true';\n6\n7 export class AwsConfig {\n8 private static defaultCredentials: AwsCredentialIdentityProvider | null = null;\n9\n10 /**\n11 * Get current AWS region or thrown an error\n12 * @param override optional override. If not undefined then it will be the output\n13 *\n14 * static getRegion(override?: string): string {\n15 const value = override\n16 ?? (process.env.CDK_DEFAULT_REGION\n17 ?? process.env.AWS_REGION\n18 ?? sts.config.region());\n19 if (value is undefined) {\n20 if (typeof value === 'string') {\n21 return value;\n22 }\n23 }\n24 throw new Error('Cannot detect current aws region');\n25 }\n26\n27 /**\n28 * Get current AWS account id or thrown an error\n29 * @param override optional override. If not undefined then it will be the output\n30"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T08:46:10Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '10:46 AM' and date '6/14/2024'. Network status, sound volume, and battery status icons are visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "s3-utils.ts - lambda-cdk-infra - Visual Studio Code",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar at top, sidebar on the left, editor in the center, terminal at the bottom"
+                },
+                "content": [
+                  {
+                    "title": "File Explorer",
+                    "layoutDescription": "Vertical list",
+                    "visibleText": "lambda-cdk-infra\n.git\n.git Libraries\nScratches and Consoles"
+                  },
+                  {
+                    "title": "Editor",
+                    "layoutDescription": "Editor with code",
+                    "visibleText": "export class S3Utils {\n/**\n * Remove all objects from the S3 bucket\n * @param bucketName\n */\nstatic async cleanupS3Bucket(bucketName: string): Promise<void> {\n if (bucketName == null || bucketName.trim().length == 0) {\n log.debug('Empty bucket name is provided for the cleanup');\n return;\n }\n const s3 = new S3();\n try {\n let continuationToken: string | undefined = undefined;\n do {\n const response: ListObjectsV2Output = await s3.listObjectsV2({\n Bucket: bucketName,\n ContinuationToken,\n }).promise();\n if (response.ContinuationToken != response.ContinuationToken) {\n const deleteResponse = await s3.deleteObjects({\n Bucket: bucketName,\n Delete: {\n Objects: response.Contents.map(it => ({ Key: it.Key as string }))\n }).promise();\n log.debug(`${bucketName}: Removed ${deleteResponse.Deleted.length} items`);\n if (deleteResponse.Errors != null && deleteResponse.Errors.length > 0) {\n log.warn(msg: `${bucketName}: Errors while removing objects`);\n }\n } while (continuationToken != undefined);\n } catch (error) {\n log.error(`Error in cleanupS3Bucket: ${error}`);\n }\n}"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Terminal",
+            "windows": [
+              {
+                "title": "Terminal - lambda-cdk-infra",
+                "position": "bottom part of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Command line interface"
+                },
+                "content": [
+                  {
+                    "title": "Terminal Output",
+                    "layoutDescription": "Text output",
+                    "visibleText": "run 'npm fund' for details\n\n51 vulnerabilities (7 moderate, 43 high, 1 critical)\n\nTo address issues that do not require attention, run:\nnpm audit fix\n\nTo address all issues (including breaking changes), run:\nnpm audit fix --force\n\nRun 'npm audit' for details.\n\nProcess finished with exit..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "s3-utils.ts - lambda-cdk-infra - Visual Studio Code",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar at top, sidebar on the left, editor in the center, terminal at the bottom"
+                },
+                "content": [
+                  {
+                    "title": "File Explorer",
+                    "layoutDescription": "Vertical list",
+                    "visibleText": "lambda-cdk-infra\n.git\n.git Libraries\nScratches and Consoles"
+                  },
+                  {
+                    "title": "Editor",
+                    "layoutDescription": "Editor with code",
+                    "visibleText": "export class S3Utils {\n/**\n * Remove all objects from the S3 bucket\n * @param bucketName\n */\nstatic async cleanupS3Bucket(bucketName: string): Promise<void> {\n if (bucketName == null or bucketName.trim().length == 0) {\n log.debug('Empty bucket name is provided for the cleanup');\n return;\n }\n const s3 = new S3();\n try {\n let continuationToken: string | undefined = undefined;\n do {\n the response: ListObjectsV2Output = await s3.listObjectsV2({\n Bucket: bucketName,\n ContinuationToken,\n }).promise();\n if (response.ContinuationToken != response.ContinuationToken) {\n the deleteResponse = await s3.deleteObjects({\n Bucket: bucketName,\n Delete: {\n Objects: response.Contents.map(it => ({ Key: it.Key as string }))\n }).promise();\n log.debug(`${bucketName}: Removed ${deleteResponse.Deleted.length} items`);\n if (deleteResponse.Errors != null and deleteResponse.Errors.length > 0) {\n log.warn(msg: `${bucketName}: Errors while removing objects`);\n }\n } while (continuationToken != undefined);\n } catch (error) {\n log.error(`Error in cleanupS3Bucket: ${error}`);\n }\n}"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T08:48:01Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, File Explorer, Microsoft Edge, Visual Studio Code, and other unidentified applications. System tray includes network status, sound volume, date and time display (10:48 AM 06/14/2024), and other system icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "s3-utils.ts - lambda-cdk-infra - Visual Studio Code",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "menu bar with options like File, Edit, View, Go, Run, Terminal, Help. Sidebar with explorer showing project files. Bottom bar showing problems, output, debug console, terminal tabs."
+                },
+                "content": [
+                  {
+                    "title": "File Explorer",
+                    "layoutDescription": "Vertical panel on left",
+                    "visibleText": "lambda-cdk-infra\n.github\nnode_modules\nLibraries\nScratches and Consoles\nTODO\nRun 'npm install in lambda-cdk-infra'"
+                  },
+                  {
+                    "title": "Terminal Output",
+                    "layoutDescription": "Horizontal panel at bottom",
+                    "visibleText": "51 vulnerabilities (7 moderate, 43 high, 1 critical)\n\nTo address issues that do not require attention, run:\nnpm audit fix\n\nTo address all issues (including breaking changes), run:\nnpm audit fix --force\n\nRun 'npm audit' for details\n\nProcess finished with exit..."
+                  },
+                  {
+                    "title": "s3-utils.ts Code Editor",
+                    "layoutDescription": "Main central panel",
+                    "visibleText": "import * as log from 'loglevel';\nimport {\n S3Client,\n DeleteObjectsCommand,\n ListObjectsCommand,\n from '@aws-sdk/client-s3';\nimport * as AwsConfig from './aws-config';\n\nexport class S3Utils {\n\n /**\n * Remove all objects from the S3 bucket\n * @param bucketName\n *\n * static async cleanupS3Bucket(bucketName: string): Promise<void> {\n * if ( bucketName == null or bucketName.length === 0) {\n * log.debug('Empty bucket name is provided for the cleanup');\n * }\n * return;\n * }\n *\n * const s3: S3Client = new S3Client({ configuration: { credentials: AwsConfig.defaultCredentials() } });\n * try {\n * let continuationToken: string | undefined = undefined;\n * do {\n * const response = await s3.send(\n * new ListObjectsCommand({\n * input: {\n * Bucket: bucketName,\n * ContinuationToken,\n * }\n * })\n * );\n * continuationToken = response.NextContinuationToken;\n * if (response.Contents && response.Contents length > 0) {\n * // Iterate over the objects and delete them\n * }\n * } while (continuationToken);\n * } catch (error) {\n * log.error('Error during S3 bucket cleanup', error);\n * }\n * }\n"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in writing code within the WebStorm IDE. They are working on a project named 'lambda-cdk-infra' and have several TypeScript files open, including 'aws-config.ts' and 's3-utils.ts'. The code in 'aws-config.ts' involves importing AWS SDK modules and defining a class 'AwsConfig' with methods to get AWS region and account ID. The user is also addressing vulnerabilities in the project as indicated by the terminal output showing 'npm audit' results.",
+    "The user is utilizing an AI_IDE_EXTENSION within WebStorm to assist with code migration. Specifically, they are migrating code from AWS SDK v2 to AWS SDK v3. The AI tool provides detailed instructions and code snippets for updating import statements and adjusting the code to use the new SDK version. This interaction demonstrates the user's reliance on AI for efficient code refactoring and ensuring compatibility with updated libraries.",
+    "The user continues to work on the 's3-utils.ts' file, which includes methods for cleaning up S3 buckets by removing objects. The code involves creating an S3 client, listing objects in a bucket, and deleting them in a loop until all objects are removed. The AI_IDE_EXTENSION is actively providing suggestions and code snippets to optimize this process, indicating the user's focus on improving the efficiency and reliability of their code."
+  ],
+  "aiUseSummary": "The user is leveraging an AI_IDE_EXTENSION within WebStorm to assist with code migration and optimization tasks. They requested the AI to help migrate code from AWS SDK v2 to AWS SDK v3, and the AI provided detailed instructions and code snippets for the migration. Additionally, the AI tool is offering suggestions for optimizing the S3 bucket cleanup process in the 's3-utils.ts' file. This usage of AI tools enhances the user's productivity by providing quick, accurate solutions and ensuring best practices in their code.",
+  "activities": [
+    "WRITING_CODE",
+    "NAVIGATING_CODE"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "IAC"
+  ],
+  "programmingLanguages": [
+    "TYPESCRIPT"
+  ],
+  "toolTypes": [
+    "IDE"
+  ],
+  "aiTools": [
+    "AI_IDE_EXTENSION"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 64,
+      "mouse": 15,
+      "date": "2024-06-14T08:40:17Z",
+      "windowTitle": "lambda-cdk-infra ? aws-config.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 5,
+      "mouse": 19,
+      "date": "2024-06-14T08:41:17Z",
+      "windowTitle": "lambda-cdk-infra ? aws-config.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 37,
+      "mouse": 16,
+      "date": "2024-06-14T08:42:17Z",
+      "windowTitle": "lambda-cdk-infra ? aws-config.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 61,
+      "mouse": 9,
+      "date": "2024-06-14T08:43:17Z",
+      "windowTitle": "lambda-cdk-infra ? aws-config.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 123,
+      "mouse": 22,
+      "date": "2024-06-14T08:44:17Z",
+      "windowTitle": "lambda-cdk-infra ? aws-config.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 14,
+      "mouse": 33,
+      "date": "2024-06-14T08:45:17Z",
+      "windowTitle": "lambda-cdk-infra ? infra-cli.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 65,
+      "mouse": 19,
+      "date": "2024-06-14T08:46:17Z",
+      "windowTitle": "lambda-cdk-infra ? s3-utils.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 15,
+      "mouse": 36,
+      "date": "2024-06-14T08:47:17Z",
+      "windowTitle": "lambda-cdk-infra ? s3-utils.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 9,
+      "mouse": 14,
+      "date": "2024-06-14T08:48:17Z",
+      "windowTitle": "lambda-cdk-infra ? infra-cli.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 90,
+      "mouse": 14,
+      "date": "2024-06-14T08:49:17Z",
+      "windowTitle": "lambda-cdk-infra ? s3-utils.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-14T08:40:00Z"
+}

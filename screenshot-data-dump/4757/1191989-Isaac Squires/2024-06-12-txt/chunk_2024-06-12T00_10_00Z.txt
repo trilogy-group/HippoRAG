@@ -1,0 +1,201 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "mail.google.com",
+        "drive.google.com",
+        "notion.so"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T00:19:33Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, widgets, and several pinned applications including Google Chrome, Microsoft Edge, and others. System tray includes notifications, sound, network, and clock displaying '18:19 11 Jun 2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "(9+) Weekly Update - Google Chrome",
+                                "url": "notion.so/isaacsquires-trilogy/Weekly-Update",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, profile icon, extensions icons, and settings menu"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Weekly Update",
+                                        "layoutDescription": "Text and links listed in bullet points",
+                                        "visibleText": "\u2022 Emphasize that the base avatar can be changed (completed with AI) (video)\n\u2022 Pick a safe place to spawn the player\u2019s tower each time a player joins the server (video)\n\u2022 Automatically upload builds to browserstack.com for testing\n\nSpec for adding voucher code generation for web commerce: Voucher Generation API\nInstructions for enabling premium enrollment for any user as an admin: Program Enrollment\n\nParent ads: https://drive.google.com/drive/folders/1XGHSERylf ads: https://chat.google.com/room/AAAAAbFga_dm/sckKAnb page: https://store.steampowered.com/app/2998980/Magic_ Store page: https://apps.apple.com/us/app/magic-academy-play- Item shops and unlockable equipment (video)\n\u2022 Update damage shown to reflect damage mitigation from blocking"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in reading and updating a document on Notion. The document titled 'Weekly Update' includes various tasks and specifications related to a project. The user is reviewing tasks such as changing the base avatar, spawning player towers, and uploading builds to browserstack.com. Additionally, the user is looking at specifications for adding voucher code generation and enabling premium enrollment through CMS. The document also contains links to Google Drive, Google Chat, Steam, and the App Store.",
+        "The user is also navigating through their email on Gmail. They have accessed their inbox and a chat space within Gmail. The user is likely communicating with team members or reviewing emails related to their tasks. The presence of multiple tabs in the browser indicates that the user is multitasking, switching between Notion, Gmail, and other resources to manage their work efficiently."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in reading and updating documents on Notion and navigating through their email on Gmail. No interactions with AI tools such as AI_IDE_EXTENSION, ChatGPT, or Shortwave are visible in the screenshots.",
+    "activities": [
+        "READING_SPEC",
+        "EMAIL"
+    ],
+    "workTypes": [
+        "UI",
+        "BACKEND"
+    ],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "READING_SPEC",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 89,
+            "mouse": 10,
+            "date": "2024-06-12T00:10:45Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAnM2TMLc",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 186,
+            "mouse": 9,
+            "date": "2024-06-12T00:11:45Z",
+            "windowTitle": "Item shared with you: \"IMG_5767.MOV\" - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCzXhjHqTvTjgXgzxSZwvKn",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-12T00:12:45Z",
+            "windowTitle": "IMG_5767.MOV - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1alTcH01HycSbfp7KSDMZ1fyzjVqFwz74/view?ts=6668a8d0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T00:13:45Z",
+            "windowTitle": "IMG_5767.MOV - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1alTcH01HycSbfp7KSDMZ1fyzjVqFwz74/view?ts=6668a8d0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T00:14:45Z",
+            "windowTitle": "IMG_5767.MOV - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1alTcH01HycSbfp7KSDMZ1fyzjVqFwz74/view?ts=6668a8d0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 95,
+            "mouse": 11,
+            "date": "2024-06-12T00:15:44Z",
+            "windowTitle": "Item shared with you: \"IMG_5767.MOV\" - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCzXhjHqTvTjgXgzxSZwvKn",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 22,
+            "date": "2024-06-12T00:16:44Z",
+            "windowTitle": "LearnWith.AI Beta Test - Ana (2024-06-06 18:05 GMT+3) - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1CmwimKV96gAkuaeeAGpSJ_fRJQIZnbZ-/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 36,
+            "mouse": 19,
+            "date": "2024-06-12T00:17:45Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/rYPDrUAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 53,
+            "mouse": 3,
+            "date": "2024-06-12T00:18:45Z",
+            "windowTitle": "LearnWith.AI Beta Test - Ana (2024-06-06 18:05 GMT+3) - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1CmwimKV96gAkuaeeAGpSJ_fRJQIZnbZ-/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 47,
+            "mouse": 16,
+            "date": "2024-06-12T00:19:45Z",
+            "windowTitle": "(9+) Weekly Update - Google Chrome",
+            "processName": "notion.so",
+            "visitingUrl": "notion.so/isaacsquires-trilogy/Weekly-Update-1889ea73558648feabbe9cf2e4bca96f",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-12T00:10:00Z"
+}

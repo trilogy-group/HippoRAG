@@ -1,0 +1,267 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "docs.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-04T13:51:01Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '4:51 PM 6/4/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+                                "url": "https://docs.google.com/document/d",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help. Toolbar with undo, redo, print, spelling and grammar check, zoom settings, styles, and formatting options. Google account icon, document status 'Saving...','Share' button, and document outline toggle."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Factory status May 2024 (TPM/Eng)",
+                                        "layoutDescription": "Two-column layout",
+                                        "visibleText": "Factory status May 2024 (TPM/Eng)\n\nSummary\n\nSlot Delivery\nIn numbers:\n15 commit goals: 6 completed, 7 on track, 2 off track (of which, one is at high risk)\n7 stretch goals: 2 deprioritized, 3 on track, 2 off track\n8 new goals (added during Q2): 1 completed, 3 on track, 4 off track (of which, two are at high risk)\nWhy are we adding new goals when not all commit/stretch goals are green?\nHigher priority defense goals that were not planned (for the case of Influitive)\nProject completing early than planned, leaving available capacity (e.g. Jigsaw)\nNew acquisitions (the case of Stratifyd)\n\nWhat went well:\nResponded well to changing BU priorities - took over and made progress on many new goals\nTurned better in meeting commitments - we will deliver all but one of the Commit goals in Q2\nDid much around the Messenger slot - delivered more than planned\n\nWhat did not go well:\nCustomer adoption is low and remains low (details below)\n\nMaintenance\nMaintenance had a great month. We have already delivered 88% of our Q2 orders (goal: 20 tickets per SE7), and we are on track to overdeliver for all BUs.\nWe removed 62% of our backlog in Q2 so far and are on track to eliminate our backlog in Q2.\n\nYou can find the delivery scorecard and the burndown charts at the bottom of the document.\n\nEarly Customer Adoption\nWe added the preliminary scorecard to projects in 3 BUs (ignite, Jigsaw, Influitive). We made progress, but results are below what we would have wanted and usage/activity remains low:\nMessenger: of 20 customers, 4 customers showed interest, none has concrete upgrade plans (many want to wait until the new version is proven stable or are mid-upgrade with older versions)\nJive Security: of 12 customers, 3 are interested in upgrading.\nJive Cloud AI Copilot: 2 customers actively using it, 7 have it enabled, most have it disabled\n\nWhat went well:\nFocus on customer problems - conducted calls to understand their problems (for projects in early stages), help them use the product (for AI features), or get them to upgrade (for defense projects)\nFocus on business value: analyzing usage (e.g. Jive Copilot Usage Report) and acting upon it\n\nWhat did not go well:\nWe started without a clear framework and spent time aligning expectations, navigating our org, or doing work that we did actually believe to be in our a scope\nWe focused on a subset of customers which we believed to be more interested and got low response rates. We should have contacted all customers to increase the size of the early adoption pool."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T13:54:03Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '4:54 PM 6/4/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "TPM Slot - Early Adoption Service - Google Docs",
+                                "url": "https://docs.google.com/document/d/1",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help. Toolbar with undo, redo, print, zoom, styles, fonts, text formatting options, and more. Right sidebar with Google Docs tools."
+                                },
+                                "content": [
+                                    {
+                                        "title": "TPM Slot - Early Adoption Service",
+                                        "layoutDescription": "Text document layout",
+                                        "visibleText": "Background\n\nThe Product Manager (PM) service within the TPM group exists to prove the business value of offense projects by driving early adoption, getting customer feedback involving, and validating that the business got value out of their investment in the slot. The goal is to get the product enhancements in the hands of engaged early adopter customers.\n\nApproach\n\nWhat is in the scope of the PM early adoption service\n\nEarly Involvement: PMs get involved in the early stages of the project to deeply understand the customer problem and validate the solution.\nSelecting Early Adopters: For each slot, the PMs will reach out broadly to the entire applicable customer base and identify the willing early adopters who want to engage.\nContinuous Engagement: As the feature is being built and released in small iterations, PMs will work with selected customers and collect customer feedback that will guide the implementation. They will ensure that customers are successful in using the new features/updates and demonstrate the business value delivered by the slot.\nImproving Outreach: Over time, PMs will improve their outreach, playbook and techniques to convert more of the overall customer base into engaged early adopters. However, their scope will remain limited to customers who willingly opt-in to participate.\n\nWhat is out of scope\n\nDriving adoption from the remaining unengaged customers. The PMs will provide a clear list of which subset of customers they are focused on so there is no ambiguity about the split of responsibilities with the BU.\nDefense projects - security upgrades or certifications do not need an early adoption service, just proper announcements and coordination of the install (e.g., distributing binaries for on-prem or install/release for SaaS products)\nRelease process coordination - e.g., distributing binaries for on-prem or install/release for SaaS products, paperwork, marketing announcements, project managing the various involved parties (CS, Eng, BU, customer), etc\n\nService prerequisites\n\nAutonomy: PMs need the autonomy to contact and work with customers but all communication plans and messaging will be shared for review with BUs. Throughout the project, they will position their work as focused on the slot business goal, to avoid any confusion with the responsibility of the BU PMs or CSMs.\nCustomer Contacts: BUs will provide the customer list and known contacts. In addition, PMs will attempt to navigate the organization or use available information to identify the most relevant stakeholders.\n\nProcess\n\nTo ensure the successful early adoption of AI features and enhancements, the AI Adoption Product Manager (PM) service will follow structured and methodical approaches to engage the right stakeholders and ensure that the AI solutions are effectively integrated into the customer's operational processes."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T13:58:04Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Teams, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '4:58 PM 6/4/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+                                "url": "https://docs.google.com/document/d",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help. Toolbar with undo, redo, print, spelling and grammar check, zoom settings, styles, and formatting options. Google account icon at top right."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Factory status May 2024 (TPM/Eng)",
+                                        "layoutDescription": "Document layout with text and bullet points",
+                                        "visibleText": "Factory status May 2024 (TPM/Eng)\n\nFile Edit View Insert Format Tools Extensions Help\n\nMenus\n\n100% Normal text Calibri\n\nOutline\n\nFactory status April 2024 (TPM/Eng)\n\nSummary\n\nKanban Slots\nJigsaw (1 slot)\nIgniteTech #1: Security\nIgniteTech #2: Copilot\nIgniteTech Maintenance\nGFI (1 slot)\nInfluitive (2 slots)\nStratifyd (1 slot)\nCrossover (1 slot)\nApplied AI (1 slot)\nTelco (3 slots + 1 Ops slot)\nTPM only slots (1 slot)\n\nMaintenance Delivery scorecard\nBurndown charts - road to zero...\nAll BUs\nIgniteTech\nCopperTree\nJigsaw\nInfluitive\nYou can find the delivery scorecard and the burndown charts at the bottom of the document.\n\nEarly Customer Adoption\nThe PM service was added in May to 3 slots. We made progress, but results are below what we would have wanted and usage/activity remains low:\nMessenger: of 20 customers, 4 customers showed interest, none has concrete upgrade plans (many want to wait until the new version is proven stable or are mid-upgrade with older versions)\nJive Security: of 12 customers, 3 are interested in upgrading\nJive Cloud AI Copilot: 2 customers actively using it, 7 have it enabled, others have it disabled\nInfluitive AI features: outreach started recently\n\nWhat went well:\nFocus on customer problems - conducted calls to understand their problems (for projects in early stages), help them use the product (for AI features), or get them to upgrade (for defense projects)\nFocus on business value: analyzing usage (e.g., Jive Copilot Usage Report) and acting upon it\nWhat did not go well:\nWe started without a clear framework and spent a time aligning expectations, navigating our org, or doing work that we did actually believe to be in our scope\nWe focused on a subset of customers which we believed to be more interested and got low response rates. We should have contacted all customers to increase the size of the early adoption pool.\nLong upgrade cycles for hosted projects (Messenger, Jive HQ) make it impossible to demonstrate customer value during the quarter.\n\nImprovements: we are fixing this by defining the service\nTPM Slot - Early Adoption Service. . ."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in reading and editing documents on Google Docs. The first document, titled 'Factory status May 2024 (TPM/Eng)', includes detailed summaries of various project slots, their progress, and issues encountered. The user is reviewing sections on slot delivery, maintenance, and early customer adoption, focusing on what went well and what did not. The document also includes links to delivery scorecards and burndown charts.",
+        "In the second document, 'TPM Slot - Early Adoption Service', the user is reviewing the background and approach for a product manager service aimed at driving early adoption of projects. The document outlines the scope of the service, including early involvement, selecting early adopters, continuous engagement, and improving outreach. The user is also reviewing what is out of scope and the service prerequisites.",
+        "The user revisits the 'Factory status May 2024 (TPM/Eng)' document, continuing to review and possibly edit sections related to early customer adoption and other topics like cost reduction. The user is focused on understanding the progress and challenges in various project slots, as well as identifying areas for improvement. The document includes detailed bullet points and summaries of customer interactions and project outcomes."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in reading and editing documents on Google Docs without any visible interaction with AI tools for code suggestions, research, or debugging. The focus is on reviewing project statuses and early adoption strategies.",
+    "activities": [
+        "READING_SPEC",
+        "WRITING_SPEC"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "READING_SPEC",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 222,
+            "mouse": 0,
+            "date": "2024-06-04T13:50:09Z",
+            "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 129,
+            "mouse": 7,
+            "date": "2024-06-04T13:51:09Z",
+            "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 141,
+            "mouse": 0,
+            "date": "2024-06-04T13:52:09Z",
+            "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 73,
+            "mouse": 22,
+            "date": "2024-06-04T13:53:09Z",
+            "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 85,
+            "mouse": 11,
+            "date": "2024-06-04T13:54:09Z",
+            "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 284,
+            "mouse": 4,
+            "date": "2024-06-04T13:55:09Z",
+            "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 183,
+            "mouse": 5,
+            "date": "2024-06-04T13:56:10Z",
+            "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 179,
+            "mouse": 0,
+            "date": "2024-06-04T13:57:10Z",
+            "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 295,
+            "mouse": 0,
+            "date": "2024-06-04T13:58:10Z",
+            "windowTitle": "TPM Slot - Early Adoption Service - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1f5MmCxxfZrwGwxnraESQ56ZliJ5FOdEb-HGROsb2wOc/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 226,
+            "mouse": 0,
+            "date": "2024-06-04T13:59:10Z",
+            "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-04T13:50:00Z"
+}

@@ -1,0 +1,371 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "docs.google.com",
+        "meet.google.com",
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-04T15:12:09Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Edge, File Explorer, Google Chrome, and several unidentified applications. System tray includes notifications, sound, network, and battery status icons, as well as the date and time display '6/4/2024 6:12 PM'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Weekly Progress Report - TPM+Eng",
+                                "url": "https://docs.google.com/document/",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "toolbar with options for File, Edit, View, Insert, Format, Tools, Extensions, Help. Editing tools include undo, redo, print, zoom, styles, fonts, lists, alignment, link, comment, and more. Scroll bar visible on the right."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Weekly Progress Report - TPM+Eng",
+                                        "layoutDescription": "Text document layout",
+                                        "visibleText": "Metrics/KPIs\nFunnel\nSegm 1 (Initial Interest)\nCustomers in segment 9\nReached 9\n - Interested 6\n - Declined 1\nEnabled Copilot 5\nActively using it 1\nJive Cloud Copilot - Outreach tracker\nTotal Enabled Companies: 7\nReasons for decline\n - Due to Company's AI Policy 2\n - Due to Company not renewing (they complained about renewal process) 1\nAdoption\nTotal Usage (conversations) Up Votes (%) Down Votes (%)\nMarch 2024 105 16.67 83.33\nApril 2024 2288 31.96 68.04\nMay 2024 1573 44.23 55.77\nMIP Week 22\nCustomers are not enabling Copilot on their own.\nProposal: does the BU approve enabling it for all other customers who did not specifically ask us to disable it last time?\nPlan Week 23\nFollow up on email trackers. Sending follow-up emails to clients. Mass E-mail Strategy\nMaintenance"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Meet - djt-sgrk-svq",
+                                "url": "https://meet.google.com/djt-sgrk-svq",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "conference controls include microphone, camera, captions, hand raise, more options, and end call. Participants' grid visible."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Meet - djt-sgrk-svq",
+                                        "layoutDescription": "Video conference layout",
+                                        "visibleText": "read.ai meeting notes"
+                                    }
+                                ],
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "Czapovics",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Eric Vaughan",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Thibaul Bridel-Bertomeu",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "New",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Firat Gomi",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "David Belton",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Leonhard Holz",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Dragos Nut",
+                                            "expression": "neutral"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T15:16:18Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, and several pinned and running applications. Includes a system tray with network, sound, and battery status icons, as well as the date and time display.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Weekly Progress Report - TPM+Eng",
+                                "url": "https://docs.google.com/document/",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "toolbar with options for File, Edit, View, Insert, Format, Tools, Extensions, Help. Zoom level at 100%, font style Calibri, font size 10, bold and italic options selected, bullet list and numbered list options, text alignment and line spacing options, hyperlink, comment, and text color options."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Weekly Progress Report - TPM+Eng",
+                                        "layoutDescription": "Text document layout",
+                                        "visibleText": "Customer engagement/rollout - A2: IgniteTech - Jive - Jive AI Copilot\nProgress Week 22\nSwitched our strategy to reach out to all Cloud customers (write-up) and contacted in an attempt to enlarge our pool of customers we can work with:\n260 users at 181 companies received email (HOP customers are also in Jive Cloud lists at Hubspot)\nAside from the standard contacts, we also include all users who have been active on Zendesk (list)\nCreate two how-to videos designed to get customer attention: Get Answers with Copilot and How-to-Summarize\nCreated a handbook with example customer use-cases, educating customers on how to properly use the Copilot - shared with Libro, SC, and PS\nThere were 134 conversions between 275 cof and 315 p25\nLibro: 106 and CFC: 23, with 3 down-votes and 2 up-votes.\nMetrics/KPIs\nFunnel\nSegment 1 (Initial Interest)\nCustomers in segment 9\nReached 9\nInterested 6\nDeclined 1\nEnabled Copilot 5\nActively using it 1\nSegment 2 (Internal Interest)\nCustomers in segment 9\nReached 7\nInterested 2\nDeclined 1\nEnabled Copilot 1\nActively using it 0\nSegment 3 (Compliance concerns)\nCustomers in segment 66\nReached 66\nInterested 6\nDeclined 1\nEnabled Copilot 1\nActively using it 1\nJive Cloud Copilot - Outreach tracker\nTotal Enabled Companies: 7\nReasons for decline\nDue to Company's AI Policy\nDue to Company not renewing (they complained about renewal process)\nAdoption\nTotal Usage (conversations) 105\nUp Votes (%) 16.67\nDown Votes (%) 68.04\nMarch 2024 2288\nApril 2024 1572\nMay 2024 1423"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Meet - djt-sgrk-svq",
+                                "url": "https://meet.google.com/djt-",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "conference interface with participant thumbnails, mute, camera, and settings options. Active speaker highlighted."
+                                },
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "Anna Czapovics",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Eric Vaughan",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Thibaul Bridel-Bertomeu",
+                                            "expression": "focused"
+                                        },
+                                        {
+                                            "name": "Alex New",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Firat Gomi",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Leonhard Holz",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Dragos Nut",
+                                            "expression": "focused"
+                                        }
+                                    ]
+                                },
+                                "content": [
+                                    {
+                                        "title": "Meet - djt-sgrk-svq",
+                                        "layoutDescription": "Video conference layout",
+                                        "visibleText": "read.ai meeting notes"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T15:18:28Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Google Chrome, File Explorer, and system tray including clock and language indicator",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "DevFactory Mail - Google Chrome",
+                                "url": "https://mail.google.com/mail/u/0/#",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, and extensions"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Gmail",
+                                        "layoutDescription": "standard layout",
+                                        "visibleText": "Mail\nNew chat\nShortcuts\nHome 6\nMentions 4\nStarred\nDirect messages 3\nMarcelo Skaba\nJozsef Czapovics\nFirat Gomi\nGeorge, Noumaan\nPhil Hewnson\nDavid Schwartz\nIsaac Squires\nEDGAR H MULONGO\nSpaces\nXO Team Chat 3\nCNU AI Assist - Extra\nXO Candidate Support\nCNU Q Business Process\nSamy's VPs Gen ...\nCentral PMs team\nFeature Line autom...\nCrossover - Upwork ...\nAI Coach - internal\nSpec Request Notifi...\ntpm reboot\nmore ...\nBen New\nToday\nhi, can you chose between ON TRACK and OFF TRACK for the Refine Copilot goal? I'd avoid having yet another status bucket...\n9:42AM \u2022 Edited\nI think it should be on track as you have good insights on how to improve ratings...\nBen New 9:43AM\nYeah I think so\nBen New 9:43AM \u2022 Edited\nIt would be nice to have been where are now, a month ago, but it is what it is\nBen New 15 min\nWe're in Zoom\nErick joined here\n15 min\nwhat zoom link\nBen New 14 min\nJoining Google now\nThanks! I'm in Great!"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in a Google Meet video conference, as evidenced by the screenshots showing the Google Meet interface with multiple participants. The meeting appears to be focused on discussing project updates and progress, as indicated by the presence of a document titled 'Weekly Progress Report - TPM+Eng' open in Google Docs. The user is likely presenting or discussing the contents of this document during the meeting.",
+        "The user is also working on a Google Docs document titled 'Weekly Progress Report - TPM+Eng'. The document contains detailed metrics and KPIs related to customer engagement and the adoption of a product called Jive Cloud Copilot. The user is editing and reviewing sections of the document, which include data on customer segments, outreach efforts, and reasons for customer decline. This indicates that the user is involved in preparing or updating a progress report for a project.",
+        "In addition to the meeting and document editing, the user is engaged in a chat conversation on Gmail. The chat is with a colleague named Ben New, discussing the status of a goal related to the Refine Copilot project. The conversation includes decisions about whether the goal is 'ON TRACK' or 'OFF TRACK' and mentions joining a Zoom meeting. This indicates that the user is coordinating with team members and making decisions about project status."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a video conference, document editing, and team chat activities without any visible interaction with AI tools. Therefore, there is no detailed summary of AI usage in the user's workflow for this specific time period.",
+    "activities": [
+        "READING_SPEC",
+        "WRITING_SPEC",
+        "MEETING",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 11,
+            "date": "2024-06-04T15:10:11Z",
+            "windowTitle": "Weekly Progress Report - TPM+Eng - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1ZpDZFhxlCdiHNCBofrePLV4fzgVUfIH3de4corNiNt0/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 5,
+            "date": "2024-06-04T15:11:11Z",
+            "windowTitle": "Weekly Progress Report - TPM+Eng - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1ZpDZFhxlCdiHNCBofrePLV4fzgVUfIH3de4corNiNt0/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 7,
+            "date": "2024-06-04T15:12:11Z",
+            "windowTitle": "Meet - djt-sgrk-svq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/djt-sgrk-svq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T15:13:11Z",
+            "windowTitle": "Meet - djt-sgrk-svq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/djt-sgrk-svq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-04T15:14:11Z",
+            "windowTitle": "Meet - djt-sgrk-svq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/djt-sgrk-svq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T15:15:11Z",
+            "windowTitle": "Meet - djt-sgrk-svq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/djt-sgrk-svq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-04T15:16:11Z",
+            "windowTitle": "Meet - djt-sgrk-svq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/djt-sgrk-svq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T15:17:11Z",
+            "windowTitle": "Meet - djt-sgrk-svq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/djt-sgrk-svq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T15:18:11Z",
+            "windowTitle": "Meet - djt-sgrk-svq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/djt-sgrk-svq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 15,
+            "mouse": 16,
+            "date": "2024-06-04T15:19:11Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAA8ETEWyA",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-04T15:10:00Z"
+}

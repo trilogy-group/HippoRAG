@@ -1,0 +1,275 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "cloud.getliteral.ai",
+        "explorer",
+        "mail.google.com",
+        "docs.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-04T07:40:13Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Chrome, File Explorer, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '10:40 AM 6/4/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Threads - Google Chrome",
+                                "url": "cloud.getliteral.ai/projects/ai-co",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, navigation buttons, Literal AI logo, user profile icon, and other extension icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Threads",
+                                        "layoutDescription": "Split layout with a list of threads on the left and detailed view on the right",
+                                        "visibleText": "AI Assist\nHey George, Here are the next steps you discussed with Nou...\ngeorge.dita@trilogy.com\nWhat are the next steps that George Dita ha...\nAI Assist\nTool usage breakdown - **RAG_QA_SCAN_TOOL** ### Inputs...\nAI Assist\nHey George, Based on the information available, there are no...\nAI Assist\nHey George, Here's a detailed breakdown of what you...\ngeorge.dita@trilogy.com\nwhat is the conclusion on Aurea Messenger ...\nAI Assist\nTool usage breakdown - **RAG_QA_SCAN_TOOL** - **Inputs...\nAI Assist\nHey George, Here's the conclusion on \"Aurea Messen...\ngeorge.dita@trilogy.com\nwhat are the conclusions and summary for ...\nAI Assist\nTool usage breakdown ### Inputs - **Question:** What are ...\nAI Assist\nHey George, Here's the detailed conclusion and summary for..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T07:46:07Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, widgets, and several pinned applications. Displays the time as 10:46 AM and date as 6/4/2024. System tray includes network, sound, and battery status icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "AI Coach - internal - Chat - Google Chrome",
+                                "url": "mail.google.com/chat/u/0/#/chat/sp",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, profile icon, and more"
+                                },
+                                "content": [
+                                    {
+                                        "title": "AI Coach - internal",
+                                        "layoutDescription": "Chat interface with multiple panels",
+                                        "visibleText": "AI Coach - internal\n5 members - Private\nChat\nShared\nTasks\nAI-Assist called deep search for first question correctly but didn't get to call for second question due to threshold.\nShould threshold be removed on tool call or increased?\nLink\nok, send Isaac a message about this\nyou can write on our joint chat too\ndo we have a way to filter sessions with feedback?\n@Michael Madume - useful feedback here. We need to improve the correctness of its answers. An answer may be evaluated on a few dimensions: correctness and completeness. We would rather go into incomplete than output incorrect information.\nanother example of making up stuff, and a 3rd.\nand this is an example of not answer the user questions (question was about how the user has been leveraging unity and answer was more of an advice). I think this is caused by how prompts talk about"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T07:48:46Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, File Explorer, Microsoft Edge, Google Chrome, and system tray with notifications, sound, network, and clock displaying '10:48 AM 6/4/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "XO Candidate Support Escalations - Chat - Google Chrome",
+                                "url": "mail.google.com/chat/u/0/#chat/spaces/12345",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "address bar, bookmarks bar, tabs, navigation buttons, profile icon, extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat",
+                                        "layoutDescription": "sidebar, main chat area, right sidebar",
+                                        "visibleText": "Chat\nNew chat\nShortcuts\nHome 4\nMentions 3\nStarred\nDirect messages 2\nDavid Schwartz\nBogdan Tenea\nBen New\nIsaac Squires\nFirat Gomi\nEDGAR H MULONGO\nMichael Madume\nNaouman Shah\nSpaces 2\nXO Candidate Support Escalations\nAI Coach - internal\nSpec Request Notifications\ntpm reboot\nXO Team Chat\nAWS News\nGFI BU/CE/TPM Management\nCNU \u00a9 Business ProductMind\nFeature Line automations\nCentral PMs team\nAppManager Technical De...\nSample VDe Call AI Ada\n\nXO Candidate Support Escalations\n8 members - Private\nDragos Nuta\n@Isabelle Adviento , why did he get an automated response from the support bot?\nHe was automatically handled by bot but I see that he was also able to successfully log a ticket after.\nIsabelle Adviento 9:18 AM\n2 unread\nAndrew Allen\nWill he be able to re-take the test? If so, it would be good if Arjun can respond publicly so other candidates can see we are responsive and took action to make it right.\nThe candidate already had two attempts and there were no technical issues that can be confirmed by the vendor. But I don't think it would hurt to allow him another take if it will be good for the company's reputation. Are you okay with this, @Dragos Nuta ?\nIsabelle Adviento\nHe was automatically handled by bot but I see that he was also able to successfully log a ticket after.\nwas the experience with the bot helpful?\nThe candidate already had two attempts and there were no technical issues that can be confirmed by the vendor. But I don't think it would hurt to allow him another take if it will be good for the company's reputation. Are you okay with this, @Dragos Nuta ?\nIsabelle Adviento\nThe candidate already had two attempts and there were no technical issues that can be confirmed by the vendor. But I don't think it would hurt to allow him another take if it will be good for the company's reputation. Are you okay with this, @Dragos Nuta ?"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in a project on Literal AI, as evidenced by the first screenshot. They are interacting with the AI Assist feature, which is providing detailed breakdowns and conclusions on various topics such as 'Aurea Messenger' and 'RAG_QA_SCAN_TOOL'. The user is also seen asking questions and receiving responses from the AI Assist, indicating a collaborative effort to gather and analyze information. The interface shows a split layout with a list of threads on the left and a detailed view on the right, suggesting that the user is managing multiple threads simultaneously.",
+        "In the second screenshot, the user is participating in a chat within the 'AI Coach - internal' space on Google Chat. The conversation involves discussing the performance of the AI-Assist tool, specifically its ability to perform deep searches and the need to adjust thresholds. The user is also seen providing feedback on the correctness and completeness of the AI's answers, indicating an ongoing effort to improve the tool's performance. The chat interface shows multiple panels, including a list of members and active threads, suggesting a collaborative environment.",
+        "The third screenshot shows the user in another chat space, 'XO Candidate Support Escalations', on Google Chat. The conversation revolves around handling a candidate's test retake request and the performance of a support bot. The user is seen coordinating with team members to ensure that the candidate's issues are addressed appropriately. The chat interface includes a sidebar with shortcuts and direct messages, as well as a main chat area and a right sidebar with active threads, indicating a structured and organized communication setup."
+    ],
+    "aiUseSummary": "The user utilizes AI tools extensively in their workflow. In the Literal AI interface, they interact with the AI Assist feature to obtain detailed breakdowns and conclusions on various topics. The AI Assist provides structured responses, including summaries and specific details, which the user uses to make informed decisions. In Google Chat, the user discusses the performance of the AI-Assist tool, providing feedback to improve its accuracy and completeness. This indicates that the user relies on AI for both information gathering and tool enhancement, significantly impacting their productivity and task efficiency.",
+    "activities": [
+        "READING_SPEC",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [
+        "OTHER"
+    ],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "DEVFACTORY_TPM_AI"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "READING_SPEC",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 16,
+            "date": "2024-06-04T07:40:09Z",
+            "windowTitle": "Threads - Google Chrome",
+            "processName": "cloud.getliteral.ai",
+            "visitingUrl": "cloud.getliteral.ai/projects/ai-coach-AA9M01hzCsyH/threads/5ada4992-65d8-4acc-92e6-0dcccf3e99ea?currentStepId=572fb274-a743-4ef6-8fca-d2d754c70e1f",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 62,
+            "mouse": 17,
+            "date": "2024-06-04T07:41:08Z",
+            "windowTitle": "Task Switching",
+            "processName": "explorer",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 68,
+            "mouse": 10,
+            "date": "2024-06-04T07:42:08Z",
+            "windowTitle": "Inbox - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 39,
+            "mouse": 23,
+            "date": "2024-06-04T07:43:08Z",
+            "windowTitle": "Threads - Google Chrome",
+            "processName": "cloud.getliteral.ai",
+            "visitingUrl": "cloud.getliteral.ai/projects/ai-coach-AA9M01hzCsyH/threads?threads-filter=%5B%5D",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 20,
+            "mouse": 18,
+            "date": "2024-06-04T07:44:09Z",
+            "windowTitle": "Threads - Google Chrome",
+            "processName": "cloud.getliteral.ai",
+            "visitingUrl": "cloud.getliteral.ai/projects/ai-coach-AA9M01hzCsyH/threads/37000acd-86bb-49fb-9add-171affb94875?currentStepId=fa8f41bb-4238-4f02-aace-82c0b6919990",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 10,
+            "mouse": 15,
+            "date": "2024-06-04T07:45:09Z",
+            "windowTitle": "AI Coach - internal - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/space/AAAAtTzc_M0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 309,
+            "mouse": 0,
+            "date": "2024-06-04T07:46:08Z",
+            "windowTitle": "AI Coach - internal - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/space/AAAAtTzc_M0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 177,
+            "mouse": 13,
+            "date": "2024-06-04T07:47:08Z",
+            "windowTitle": "AI Assist - first release - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#search/ai+assist+ben/QgrcJHrtstrzqjfBbdbxxFNjwcCMzxhHTqb",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 74,
+            "mouse": 21,
+            "date": "2024-06-04T07:48:08Z",
+            "windowTitle": "XO Candidate Support Escalations - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/space/AAAAjwUPS1s",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 122,
+            "mouse": 2,
+            "date": "2024-06-04T07:49:08Z",
+            "windowTitle": "Weekly Delivery Tracker - TPM+Eng - Google Sheets - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/spreadsheets/d/1mrOMkLf370WxK5CkvQXF0e9Q6pHGPf2IsweYGdyGe08/edit#gid=335515302",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-04T07:40:00Z"
+}

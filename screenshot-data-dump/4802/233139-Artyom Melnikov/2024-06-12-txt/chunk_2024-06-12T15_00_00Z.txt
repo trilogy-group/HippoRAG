@@ -1,0 +1,280 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "crossover.lightning.force.com",
+        "chrome",
+        "explorer",
+        "webstorm64"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T15:03:02Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Google Chrome, File Explorer, and other unidentified applications. Displays the time as 17:43 and date as 06/12/2024. Language setting shown as ENG.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Custom Settings | Salesforce - Google Chrome",
+                                "url": "https://crossover.lightning.force.com",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Tabs, address bar, navigation buttons, Salesforce setup menu, and user profile icon"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Custom Settings",
+                                        "layoutDescription": "Web page layout",
+                                        "visibleText": "Custom Settings\nIndeed Job Publishing\nThe setting is a list. Click New to add a new set of data. For example, if your application had a setting for country codes, each set might include the country's name and dialing code.\nIf the custom setting is a hierarchy, you can add data for the user, profile, or organization. For example, you may want different values to display depending on whether a specific user is running the app, a specific profile, or just a general user.\nEdit Delete\nDefault Organization Level Value\nLocation\nIndeed Apply API\nIndeed API Secret\nWeeks For Performance Analysis\nMax Retries\nMax Retries Location\nMax Titles Per Location For Exploiter\nMax Titles Per Location As Per Profile\nWeekly Budget\nDry Budget Multiplier\nActivate Authentication\nCPA Multiplier\nTarget Cost\nMax Titles Per Location For Mining\nMax Titles Per Location As Per Exploiter\nMax Titles Per Location As Per Profile\nWeekly Budget\nDry Budget Multiplier\nView: All | Custom View Name\nSetup Owner: No records to display."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T15:04:33Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time as '7:04 PM' and date as '2024/06/12'. Network, sound, and battery status icons are visible.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "xo-hiring-monorepo | indeed-xml-generator\\src\\index.ts - Visual Studio Code",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar at top, sidebar on the left with file explorer, bottom bar with language services and encoding info"
+                                },
+                                "content": [
+                                    {
+                                        "title": "File Explorer",
+                                        "layoutDescription": "Vertical list on the left",
+                                        "visibleText": "src\n data.ts\n index.ts\n run.ts\n utils.ts\n test\n utils.test.ts\n build\n package.json\n package-lock.json\n README.md\n tsconfig.json\n .env\n node_modules\n library root\n dist\n modules library..."
+                                    },
+                                    {
+                                        "title": "Code Editor",
+                                        "layoutDescription": "Main central area",
+                                        "visibleText": "function buildJobFeedXml(campaigns: Campaign[], countries: Country[], config: Config): string {\n const byProduct: Record<string, Campaign[]> = {};\n campaigns.forEach((campaign: Campaign) => {\n if (!campaign.Pipeline__r.ProductCode) return;\n byProduct[campaign.Pipeline__r.ProductCode] = [];\n });\n campaigns.forEach((campaign: Campaign) => {\n byProduct[campaign.Pipeline__r.ProductCode].push( });\n const byProductCampaign: Record<string, Campaign[]> = {};\n byProduct.forEach((product: string, campaigns: Campaign[]) => {\n const byCategory: Record<string, Campaign[]> = {};\n campaigns.forEach((campaign: Campaign) => {\n if (campaigns.length < CategoryJobsMax) return;\n byCategory[campaign.categoryOverride] = [];\n });\n campaigns.forEach((campaign: Campaign) => {\n byCategory[campaign.categoryOverride].push(campai });\n const byTzOffsets: Record<number, Campaign[]> = {};\n campaigns.forEach((campaign: Campaign) => {\n let tzOffset: number = countriesAndTimezones[campaign.Ad_Posted_Country_ if (!tzOffset) console.error('No timezone offset found for country ${campaign.Ad_Posted_Country_Name__c}');\n byTzOffsets[tzOffset] = [];\n });\n campaigns.forEach((campaign: Campaign) => {\n byTzOffsets[tzOffset].push(campaign);\n });\n let buffer: Campaign[] = [];\n let jobsCount: number = 0;\n for (const key: string in byTzOffsets) {\n buffer = byTzOffsets[key];\n for (const job: Campaign in buffer) {\n jobsCount += buffer.length;\n console.log('Processing ${jobsCount} campaigns for timezone offset: ${key}');\n buffer.push(...buffer);\n }\n if (jobsCount < CategoryJobsMin) {\n console.log('Total amount of sub-campaigns is less than ${CategoryJobsMin}, merging with next');\n }\n }\n });\n return 'XML';\n}"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T15:07:57Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Mailbox, Wise, Analysis, Task, Cross, BAM, Indeed, LinkedIn, Job, Cuto, CRM, Apps, Sales, HR, Calendar, Charts, Reports, and More. Also includes system icons for network, sound, notifications, and time display.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "LinkedIn Publish Logs - Indeed Current | XO Recruiting",
+                                "url": "https://crossover.lightning.force.com",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs for Home, Pipelines, LinkedIn Publish Logs, Campaigns, Campaign Analytics, Job Board Call Analytics, Candidates, Applications, Application Steps, Application Step Results, Application Step Pipeline Mapping, and More. Includes buttons for New, Import, Change Owner, Generate XML, Download XML, and a search field."
+                                },
+                                "content": [
+                                    {
+                                        "title": "LinkedIn Publish Logs",
+                                        "layoutDescription": "Table layout",
+                                        "visibleText": "LinkedIn Publish Logs\nSorted by LinkedIn Publish Log Name \u2b07 Filtered by All LinkedIn publish logs - Run ID, Sourcing Platform - Updated a few seconds ago\n\nRun LinkedIn Publish Log Name Pipeline Slots Assigned Budget Exploration Slots Mining Slots Sourcing Platform Is out of slots Last Modified Date Created Date\n1 Run #248 - #358 AI-Augmented Back-end Principal Engineer 262 262 225 37 Indeed \u2705 12/06/2024 16:43 12/06/2024 16:41\n2 Run #248 - #774 AI-Augmented Full-Stack Principal Engineer 267 267 224 43 Indeed 12/06/2024 16:43 12/06/2024 16:41\n3 Run #248 - #178 A1-First Software Engineer II 815 815 698 117 Indeed 12/06/2024 16:43 12/06/2024 16:41\n4 Run #248 - #545 A1-First Full-Stack Developer 161 161 87 74 Indeed 12/06/2024 16:43 12/06/2024 16:41\n5 Run #248 - #260 A1-First Software Engineer 965 965 844 121 Indeed 12/06/2024 16:43 12/06/2024 16:41\n6 Run #248 - #269 Senior AI Innovation Specialist - Software Engineering 262 262 221 41 Indeed 12/06/2024 16:43 12/06/2024 16:41\n7 Run #248 - #270 AI Innovation Specialist - Software Engineering 116 116 103 13 Indeed 12/06/2024 16:43 12/06/2024 16:41\n8 Run #248 - #271 A1-First Front-End Developer 156 156 97 59 Indeed 12/06/2024 16:43 12/06/2024 16:41"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in configuring custom settings within Salesforce. They are working on the 'Indeed Job Publishing' settings, which include various parameters such as 'Indeed Apply API', 'Indeed API Secret', 'Weeks For Performance Analysis', 'Max Retries', 'Max Titles Per Location For Exploiter', and 'Weekly Budget'. The user is likely setting up or modifying these configurations to optimize job publishing processes.",
+        "The user is writing code in Visual Studio Code, specifically working on a TypeScript file named 'index.ts' within the 'indeed-xml-generator' project. The code involves building a job feed XML from campaign data. The user is defining functions and handling various campaign-related data structures, including 'byProduct', 'byCategory', and 'byTzOffsets'. They are also implementing logging for processing campaigns and handling timezone offsets.",
+        "The user is reviewing LinkedIn publish logs within Salesforce. They are examining a table of logs related to different job runs, such as 'AI-Augmented Back-end Principal Engineer', 'AI-Augmented Full-Stack Principal Engineer', and 'A1-First Software Engineer II'. The table includes details like slots assigned, budget, exploration slots, mining slots, sourcing platform, and last modified date. This activity suggests the user is monitoring or analyzing the performance of job postings on LinkedIn."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in configuring Salesforce settings, writing TypeScript code in Visual Studio Code, and reviewing LinkedIn publish logs. No AI chat interfaces or AI-driven tools are visible in the screenshots, indicating that the user is not utilizing AI for code suggestions, research, or debugging during this period.",
+    "activities": [
+        "WRITING_CODE",
+        "READING_SPEC"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "UI"
+    ],
+    "programmingLanguages": [
+        "TYPESCRIPT",
+        "SALESFORCE"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 6,
+            "date": "2024-06-12T15:00:02Z",
+            "windowTitle": "Custom Settings | Salesforce - Google Chrome",
+            "processName": "crossover.lightning.force.com",
+            "visitingUrl": "crossover.lightning.force.com/lightning/setup/CustomSettings/page?address=%2Fsetup%2Fui%2FeditCustomSettingsData.apexp%3FappLayout%3Dsetup%26CS_list%253ACS_Form%253AtheDetailPageBlock%253AthePageBlockButtons%253Aedit%3DEdit%26retURL%3D%252Fsetup%252Fui%25",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 11,
+            "mouse": 36,
+            "date": "2024-06-12T15:01:02Z",
+            "windowTitle": "Google Chat - General - Chat",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 104,
+            "mouse": 0,
+            "date": "2024-06-12T15:02:02Z",
+            "windowTitle": "Google Chat - Danish Ahmad - Chat",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 27,
+            "mouse": 15,
+            "date": "2024-06-12T15:03:02Z",
+            "windowTitle": "Custom Settings | Salesforce - Google Chrome",
+            "processName": "crossover.lightning.force.com",
+            "visitingUrl": "crossover.lightning.force.com/lightning/setup/CustomSettings/page?address=%2Fsetup%2Fui%2FlistCustomSettingsData.apexp%3Fid%3Da1i%26setupid%3DCustomSettings%26sfdcIFrameOrigin%3Dhttps%253A%252F%252Fcrossover.lightning.force.com%26clc%3D1",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 16,
+            "mouse": 4,
+            "date": "2024-06-12T15:04:02Z",
+            "windowTitle": "Custom Settings | Salesforce - Google Chrome",
+            "processName": "crossover.lightning.force.com",
+            "visitingUrl": "crossover.lightning.force.com/lightning/setup/CustomSettings/page?address=%2Fsetup%2Fui%2FlistCustomSettingsData.apexp%3Fid%3Da1i%26isOrg%3D1%26setupid%3DCustomSettings%26sfdcIFrameOrigin%3Dhttps%253A%252F%252Fcrossover.lightning.force.com%26clc%3D1",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 15,
+            "mouse": 0,
+            "date": "2024-06-12T15:05:02Z",
+            "windowTitle": "Task Switching",
+            "processName": "explorer",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 36,
+            "mouse": 14,
+            "date": "2024-06-12T15:06:02Z",
+            "windowTitle": "Indeed Current | LinkedIn Publish Logs | Salesforce - Google Chrome",
+            "processName": "crossover.lightning.force.com",
+            "visitingUrl": "crossover.lightning.force.com/lightning/o/LinkedIn_Publish_Log__c/list?filterName=00B2j000001IIjmEAG",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 64,
+            "mouse": 13,
+            "date": "2024-06-12T15:07:02Z",
+            "windowTitle": "xo-hiring-monorepo ? data.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 45,
+            "mouse": 18,
+            "date": "2024-06-12T15:08:02Z",
+            "windowTitle": "Indeed Current | LinkedIn Publish Logs | Salesforce - Google Chrome",
+            "processName": "crossover.lightning.force.com",
+            "visitingUrl": "crossover.lightning.force.com/lightning/o/LinkedIn_Publish_Log__c/list?filterName=00B2j000001IIjmEAG",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 16,
+            "mouse": 17,
+            "date": "2024-06-12T15:09:02Z",
+            "windowTitle": "xo-hiring-monorepo ? indeed-xml-generator\\src\\index.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-12T15:00:00Z"
+}

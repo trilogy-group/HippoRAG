@@ -1,0 +1,318 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "docs.google.com",
+    "assessments.crossover.com",
+    "linkedin.com",
+    "meet.google.com",
+    "mail.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T10:30:40Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications including Google Chrome, Microsoft Edge, and others. System tray includes network, sound, and clock (1:30 PM, 6/5/2024).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "New Tab - Google Chrome",
+                "url": "https://www.google.com/",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Address bar, tabs, bookmarks bar, Google account icon, Chrome control buttons (minimize, maximize, close)."
+                },
+                "content": [
+                  {
+                    "title": "Google Homepage",
+                    "layoutDescription": "Centered Google logo, search bar, shortcuts below.",
+                    "visibleText": "Google\nSearch Google or type a URL\nChatGPT Read Google Meet Google Drive Google Docs\nChatbot Google Sheets WorkSmart Crossover Spreadsheet\nAdd shortcut\nFrom your Google Drive\nFactory status May 2024 (TPM/Eng)\nYou often open around this time\nWeekly Delivery Tracker - TPM-Eng\nRobert Egglestone commented today\nWeekly Progress Report - TPM-Eng\nJoe Conley edited yesterday"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T10:34:50Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. System tray includes network, sound, and clock icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - nfv-rifq-wxb - Google Chrome",
+                "url": "meet.google.com/nfv-rifq-wxb",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, and Google account icon"
+                },
+                "content": [
+                  {
+                    "title": "Video Conference",
+                    "layoutDescription": "Main participant visible",
+                    "visibleText": "Nilesh Deshpande and Dragos Nută"
+                  },
+                  {
+                    "title": "Chat",
+                    "layoutDescription": "Chat sidebar visible",
+                    "visibleText": "Jozsef Czapovics\ndo you have the same for Q1?\nmail.google.com"
+                  }
+                ]
+              },
+              {
+                "title": "Calendar - Google Calendar - Google Chrome",
+                "url": "calendar.google.com/calendar/u/0/r",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, and Google account icon"
+                },
+                "content": [
+                  {
+                    "title": "Calendar",
+                    "layoutDescription": "month view displayed",
+                    "visibleText": "June 2024\nWeek 23\nMonday, June 3 - Home\nTuesday, June 4 - Home\nWednesday, June 5\n5:00 - Rakshit Bha\n10:00 - Dragos/Rakshit, 10:00\n12:00 - Google Ads & FB plan & review\n13:30 - Nilesh Deshpande, 13:30, Google Meet\n15:00 - Product Daily Check-in\n16:00 - Acquisition, 16:00, Zoom, 20:00, GFI Re\n17:30 - Samy's Cef, 17:30 - 18:00\n18:00 - Central, 18:00\n19:00 - Monthly - FM, 19:00, 19:00, 19:00\n20:00 - Victor Santana, 20:00, Google Meet\n23:00 - Jungsoo Park and Dragos, 23:00, Google Meet"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T10:38:13Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Google Chrome, Notepad, Microsoft Store, and system tray with notifications, sound, network, and battery status icons",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - nfv-rifq-wxb - Google Chrome",
+                "url": "meet.google.com/nfv-rifq-wxb",
+                "position": "full screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "UI includes back, forward, refresh buttons, address bar, tabs, profile icon, and vertical ellipsis menu button"
+                },
+                "content": [
+                  {
+                    "title": "Google Meet Video Call",
+                    "layoutDescription": "Video call interface",
+                    "visibleText": "Nilesh Deshpande and Dragos Nutu read.ai meeting notes"
+                  },
+                  {
+                    "title": "Chat Window",
+                    "layoutDescription": "Chat sidebar on left",
+                    "visibleText": "Jozsef Czapovics do you have the slides for today's meeting?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Google Chat",
+            "windows": [
+              {
+                "title": "Chat - Jozsef Czapovics - Google Chrome",
+                "url": "mail.google.com/chat/u/0/#/chat/dm",
+                "position": "right side of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "UI includes search bar, settings icon, and chat options"
+                },
+                "content": [
+                  {
+                    "title": "Chat Sidebar",
+                    "layoutDescription": "List of chats and contacts",
+                    "visibleText": "New chat Shortcuts Home 10 Mentions 4 Starred Direct messages 6 Jozsef Czapovics George Dita Syed Shamael Michael Madume Anuj, Joe, Jozsef Rakshit Bhatt Joe Conley Isabelle Adviento Spaces 4 XO Team Chat Crossover - Upwork Source Feature Line automations CNU AI Assist - Extractor CNU Q Business ProductM... tpm reboot XO Candidate Support Escal... AWS News Central PMs team GFI BU/CE/TPM Managem... AI Coach - internal Cognos Budget Notifications"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user starts by opening Google Chrome and navigating to the Google homepage. The browser shows several shortcuts to frequently used applications such as ChatGPT, Google Meet, Google Drive, and Google Docs. The user appears to be preparing to access a Google Docs document, as indicated by the URL in the address bar.",
+    "The user then participates in a Google Meet video conference. The meeting interface shows two participants, Nilesh Deshpande and Dragos Nută. The user is also viewing their Google Calendar, which displays a detailed schedule for June 2024, including various meetings and tasks. This indicates that the user is managing their time and coordinating with team members.",
+    "During the video conference, the user receives a chat message from Jozsef Czapovics asking if they have the same information for Q1. This interaction takes place in Google Chat, which is integrated with the user's Gmail account. The user is actively engaged in both the meeting and the chat, indicating multitasking and collaboration with team members."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a video conference and managing their schedule through Google Calendar. Additionally, the user is communicating with a team member via Google Chat. No AI interactions or AI-generated content are visible in the screenshots.",
+  "activities": [
+    "MEETING",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 38,
+      "mouse": 10,
+      "date": "2024-06-05T10:30:53Z",
+      "windowTitle": "Deploy Mini-Spec Writer - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1n6KzO6YBLIJ_WZwPye799SShmtPFxEhs7mVzmF4Ymks/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 108,
+      "mouse": 18,
+      "date": "2024-06-05T10:31:53Z",
+      "windowTitle": "Crossover Hire Assessments - Google Chrome",
+      "processName": "assessments.crossover.com",
+      "visitingUrl": "assessments.crossover.com/grading-report?sessionId=fb0538a5-d91c-4e81-b65a-97bc55a7f307&detailed=true&secretKey=564d2577-0df0-4fa4-a717-6ce2851148f4",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 8,
+      "mouse": 23,
+      "date": "2024-06-05T10:32:53Z",
+      "windowTitle": "(86) WSP in the U.S.: Overview | LinkedIn - Google Chrome",
+      "processName": "linkedin.com",
+      "visitingUrl": "linkedin.com/company/wspusa/",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 5,
+      "mouse": 23,
+      "date": "2024-06-05T10:33:53Z",
+      "windowTitle": "Meet - nfv-rifq-wxb - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/nfv-rifq-wxb?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 1,
+      "mouse": 2,
+      "date": "2024-06-05T10:34:53Z",
+      "windowTitle": "Jozsef Czapovics - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/3f70MMAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 74,
+      "mouse": 1,
+      "date": "2024-06-05T10:35:53Z",
+      "windowTitle": "Meet - nfv-rifq-wxb - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/nfv-rifq-wxb?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T10:36:53Z",
+      "windowTitle": "Meet - nfv-rifq-wxb - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/nfv-rifq-wxb?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 15,
+      "mouse": 7,
+      "date": "2024-06-05T10:37:53Z",
+      "windowTitle": "Weekly Delivery Tracker - TPM+Eng - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1mrOMkLf370WxK5CkvQXF0e9Q6pHGPf2IsweYGdyGe08/edit#gid=243133582",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 2,
+      "mouse": 2,
+      "date": "2024-06-05T10:38:53Z",
+      "windowTitle": "Meet - nfv-rifq-wxb - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/nfv-rifq-wxb?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T10:39:53Z",
+      "windowTitle": "Meet - nfv-rifq-wxb - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/nfv-rifq-wxb?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-05T10:30:00Z"
+}

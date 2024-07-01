@@ -1,0 +1,322 @@
+{
+  "candidateId": 2027577,
+  "apps": [
+    "mail.google.com",
+    "docs.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T10:00:16Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Python, Automation, Git, Docker, and other unidentified applications. Also includes system clock showing '10:00 AM' and date 'Thu, Jun 13'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Central PMS team - Gmail",
+                "url": "https://mail.google.com/mail/u/0/#inbox",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Tabs for Mail, Chat, Spaces, and Meet. Sidebar with shortcuts, mail categories, and chat contacts. Main content area with email threads and chat messages."
+                },
+                "content": [
+                  {
+                    "title": "Email Thread",
+                    "layoutDescription": "Email thread layout",
+                    "visibleText": "Dragos Nita: So there is a definite 'we're used to doing things this way' mindset, and I think there could be more engagement where we make the knowledge more available. (June 10) Dragos Nita: I think we don't need to worry about their internal processes, we just need to build features that work good and are simple and people will use them (assuming they are enabled for it) (June 10) Dragos Nita: The fact that they feel the need to prepare internal training material for new features tells us the UK lacks it. (June 10) Viraj: Yeah, I agree (June 10) Yahya: Yeah, sure (June 10) Viraj: I suggest (June 10)"
+                  }
+                ]
+              },
+              {
+                "title": "DevFactory Mail - Pinned - High memory usage - 2.3 GB - Google Chrome",
+                "url": "https://mail.google.com/mail/u/0/#inbox",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Tabs for Mail, Chat, Spaces, and Meet. Sidebar with shortcuts, mail categories, and chat contacts. Main content area with email threads and chat messages."
+                },
+                "content": [
+                  {
+                    "title": "Email Thread",
+                    "layoutDescription": "Email thread layout",
+                    "visibleText": "Dragos Nita: Who are these comms managers? Seriously, are they police officers at some companies? MT, who lives in Atlanta, Christine Arnold and Quest Diagnostics said this directly after the meeting. It still bugs them even for just 2nd most recent customer for example, and CCO didn't know them. Not only are they so nosy they decide to document all latest gossip, who can consider it speed up the process of crippling Cecily for everyone. (June 10)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T10:05:54Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. System tray includes network status, sound volume, date and time display ('Thu, Jun 13'), and other system icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "DevFactory Mail - Pinned - High memory usage - 2.2 GB - Google Chrome - Firat (trilogy.com)",
+                "url": "https://mail.google.com/mail",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and multiple extension icons including Google Account, Google Drive, and others"
+                },
+                "content": [
+                  {
+                    "title": "Gmail",
+                    "layoutDescription": "client interface",
+                    "visibleText": "Gmail\nMail\nCompose\n[Labels]\nCentral PMS team\nDragos Nita said:\nI think we don't need to worry about their internal processes.\nBen Robertson:\nI agree, however, it does impact their ROI when they\nmake a new hire.\nDragos Nita:\nYes, sure, but I am just referring to the problem we have created...\n[Reply] [Forward]"
+                  },
+                  {
+                    "title": "Chat",
+                    "layoutDescription": "interface on the right side",
+                    "visibleText": "Chat\nSearch chat\nJohn Doe - Python Automation, AI\nJane Doe - Python Automation, AI\n[More contacts]"
+                  },
+                  {
+                    "title": "Calendar",
+                    "layoutDescription": "widget on the right side",
+                    "visibleText": "CALENDAR\nToday, Jun 13\nFri, Jun 14\nMon, Jun 17\n[More events]"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T10:07:30Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. System tray includes network status, sound volume, date and time display (2024-06-14 10:07 AM), and other system icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "DevFactory Mail - Pinned - High memory usage - 2.3 GB - Google Chrome - Firat (trilogy.com)",
+                "url": "https://mail.google.com/mail",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Tabs, address bar, bookmarks bar, Gmail side panel with chat and spaces, and multiple Gmail tabs open."
+                },
+                "content": [
+                  {
+                    "title": "Central PMS team - Chat",
+                    "layoutDescription": "Chat layout with messages",
+                    "visibleText": "Dragos Nita said:\n\nWe need to worry about their internal processes.\n\nI just want to build features that work good and that are simple and people will use them (assuming they are enabled for everyone).\n\nThe fact that they feel the need to prepare internal training material for new features tells us the UK sucks 😞\n\nBen Robertson:\n\nI agree, however, it does impact their ROI when they think we don't need to worry about their internal processes.\n\nDragos Nita:\n\nYes, I know, but I am just referring to the problem we have created..."
+                  },
+                  {
+                    "title": "Email Thread",
+                    "layoutDescription": "Email thread layout",
+                    "visibleText": "From: Customer Feedback <feedback@customer.com>\n\nSubject: Re: Your company's new features\n\nHello,\n\nAlso, from some customers, I've heard them saying 'we've told the multiple times in the years of our partnership, which shows they have been engaging before (unlike some that come from nowhere and demand a lot of our attention). It's easier for old clients to be met and addressed, like they're hurt in this process, and we need templates, as they have a lot of our engagement in ongoing communication to get to their old concerns before hearing about new features.\n\n1. Importing for analysis (HubSpot mentioned a recent Power BI skills training session and ongoing use for adapting to new tools).\n\n2. Having better customer relations (including video sessions).\n\n3. How HubSpot is adapting a very critical core of its (this is partly related to our core values as a company and a lot of effort by our team).\n\nBest regards,\n\nCustomer Feedback Team"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft PowerPoint",
+            "windows": [
+              {
+                "title": "Jive CoPilot - Educational Series Part 1",
+                "position": "bottom right quadrant",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Ribbon with Home, Insert, Design, Transitions, Animations, Slide Show, Review, View tabs, and slide editing area."
+                },
+                "content": [
+                  {
+                    "title": "Slide Content",
+                    "layoutDescription": "Slide editing layout",
+                    "visibleText": "Hello 👋 First name,\n\nWe are now starting to send educational videos to better address the pain points you experience and also the wishes shared with us so you can learn about CoPilot. We hope everyone can else can benefit from this knowledge.\n\nToday's video is about how we ensure your data when you use CoPilot. Understandably, there were questions regarding data security, and we want to address these concerns even more explicitly and informatively.\n\nWatch the video below to learn more about our commitment to keeping your data secure and ensuring no AI is ever being trained on your data.\n\nHow does CoPilot use your data?\n\nQ: Do you or any 3rd parties train on our Data?\nA: In short, no.\n\nAny data used by CoPilot or CoPilot AI is not being used to train any HubSpot account for OpenAI, which disables training on user data."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in email communication and chat within Gmail. They are part of a conversation in the 'Central PMS team' chat, discussing internal processes and feature development. The conversation includes multiple participants, and the user is contributing to the discussion by responding to messages and providing input on the topics being discussed. The chat interface shows a detailed thread of messages exchanged over several days.",
+    "The user is also working on a document in Google Docs. The document appears to be related to an educational series titled 'Jive CoPilot - Educational Series Part 1'. The user is editing text, adjusting formatting, and ensuring the content is well-structured. The document includes sections on data security and the use of CoPilot, addressing common questions and concerns from users. The user is focused on creating clear and informative content for the educational series.",
+    "Throughout the captured period, the user is primarily using Google Chrome to access Gmail and Google Docs. The Gmail interface shows multiple tabs open, including email threads and chat conversations. The user is managing their email and chat communications efficiently, switching between different threads and responding to messages promptly. The Google Docs interface shows the user actively editing and formatting the document, indicating a focus on content creation and refinement."
+  ],
+  "aiUseSummary": "There is no visible use of AI tools in the provided screenshots. The user is primarily engaged in email communication and document editing without any interaction with AI assistants or embedded AI chat interfaces. The focus is on manual input and content creation rather than leveraging AI for assistance or automation.",
+  "activities": [
+    "EMAIL",
+    "CHATTING_WITH_TEAM",
+    "WRITING_SPEC"
+  ],
+  "workTypes": [
+    "UI"
+  ],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_SPEC",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 26,
+      "mouse": 10,
+      "date": "2024-06-14T10:00:14Z",
+      "windowTitle": " DevFactory Mail - Pinned - High memory usage - 2.3 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#chat/space/AAAAaeKfuEw",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 130,
+      "mouse": 18,
+      "date": "2024-06-14T10:01:14Z",
+      "windowTitle": " Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/spreadsheets/d/1fXZAi1Enrfd3zn_eg7WFg-CqdvJRIDKEEAZUxYlEI7E/edit#gid=336053345",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 135,
+      "mouse": 14,
+      "date": "2024-06-14T10:02:14Z",
+      "windowTitle": " DevFactory Mail - Pinned - High memory usage - 2.5 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#chat/space/AAAAaeKfuEw",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 125,
+      "mouse": 3,
+      "date": "2024-06-14T10:03:14Z",
+      "windowTitle": " DevFactory Mail - Pinned - High memory usage - 2.3 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#chat/space/AAAAaeKfuEw",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 17,
+      "mouse": 4,
+      "date": "2024-06-14T10:04:14Z",
+      "windowTitle": " DevFactory Mail - Pinned - High memory usage - 2.3 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#chat/space/AAAAaeKfuEw",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 179,
+      "mouse": 3,
+      "date": "2024-06-14T10:05:14Z",
+      "windowTitle": " DevFactory Mail - Pinned - High memory usage - 2.2 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#chat/space/AAAAaeKfuEw",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T10:06:14Z",
+      "windowTitle": " DevFactory Mail - Pinned - High memory usage - 2.2 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#chat/space/AAAAaeKfuEw",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T10:07:14Z",
+      "windowTitle": " DevFactory Mail - Pinned - High memory usage - 2.3 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#chat/space/AAAAaeKfuEw",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T10:08:14Z",
+      "windowTitle": " DevFactory Mail - Pinned - High memory usage - 2.3 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#chat/space/AAAAaeKfuEw",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 1,
+      "mouse": 2,
+      "date": "2024-06-14T10:09:14Z",
+      "windowTitle": " DevFactory Mail - Pinned - High memory usage - 2.2 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#chat/space/AAAAaeKfuEw",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-14T10:00:00Z"
+}

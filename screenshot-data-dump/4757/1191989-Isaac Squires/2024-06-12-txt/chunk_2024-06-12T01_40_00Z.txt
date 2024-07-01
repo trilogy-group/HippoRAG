@@ -1,0 +1,201 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "docs.google.com",
+        "drive.google.com",
+        "mail.google.com",
+        "chrome"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T01:47:06Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Chrome, File Explorer, Microsoft Store, and other unidentified applications. System tray includes network, sound, and battery status icons, as well as the date and time display '11 Jun 2024 19:47'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "DevFactory Mail - Google Chrome",
+                                "url": "mail.google.com/mail/u/0/#chat/home",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, Google account avatar, minimize, maximize, close buttons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Gmail Chat",
+                                        "layoutDescription": "List of chat threads on left, task widget on right",
+                                        "visibleText": "Home\nMagic Academy Thread\nGiovanny: Do you want to add it to Papercuts Isaac or should it be assigned to @David Kube maybe\nAI Assist on WorkSmart Thread\nRobert: There's a bunch of these events we can ignore:\nBogdan Tenea\nYou: Thanks for hosting the play test with Ana - what is her age / grade?\nSamy Aboel-Nil\nYou: Said she'd recommend it to other kids her age - it's fun and learning at the same time.\nCoachBot Alerts Thread\nFernando: It's this one: https://ws-lambda.atlassian.net/browse/COACHBOT-3\nPrep MCQ Generators Thread\nClaudi: I see \ud83d\ude0a ...@Simon Said\nContentGen Acceptance Thread\nClaudi: Hey @Fernando Pina dos Santos yes, however to accept the scope change we should understand why is it so hard to ...\nNiraj Patel\nThat's right\nPhil, Bogdan, Simon, Shawn\nYou: btw, these budget docs hurt my brain - how do I see the total that we have spent in Q2 overall? (Just GT / LWAL, not Ivy or McKen...\nSimon Said\nYou: ok\nSamy's VPs Gen AI Adoption Thread\nMichelle: An issue, let me know"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in email communication using Gmail. They are seen interacting with various email threads, including discussions about project tasks, budget documents, and AI adoption. The user is also managing tasks through a task widget on the right side of the Gmail interface, which includes links to Google Docs and Google Drive files. This indicates a focus on project management and coordination with team members.",
+        "The user is also seen accessing Google Docs and Google Drive, as indicated by the list of links visited during the activity. This suggests that the user is involved in reviewing and possibly editing documents related to their projects. The presence of Google Docs and Drive links in the task widget further supports this observation, highlighting the user's engagement in document management and collaboration.",
+        "The user is engaged in team communication through Gmail's chat feature. They are seen participating in multiple chat threads, discussing various topics such as project tasks, play tests, and budget documents. This indicates that the user is actively collaborating with team members, providing updates, and seeking information to support their work."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in email communication, task management, and document review without any visible interaction with AI tools. Therefore, no specific AI usage can be summarized from the available data.",
+    "activities": [
+        "EMAIL",
+        "CHATTING_WITH_TEAM",
+        "READING_SPEC"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DOCUMENT_VIEWER_OR_EDITOR"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "EMAIL",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 96,
+            "mouse": 0,
+            "date": "2024-06-12T01:40:19Z",
+            "windowTitle": "Rough Priorities Assignment - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1xg25F13M7hSo1NjyQWFsRXGH6Jc_26tyRXI28OdMmpY/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 120,
+            "mouse": 8,
+            "date": "2024-06-12T01:41:19Z",
+            "windowTitle": "Rough Priorities Assignment - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1xg25F13M7hSo1NjyQWFsRXGH6Jc_26tyRXI28OdMmpY/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-12T01:42:19Z",
+            "windowTitle": "LearnWith.AI Beta Test - Ana (2024-06-06 18:05 GMT+3) - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1CmwimKV96gAkuaeeAGpSJ_fRJQIZnbZ-/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-12T01:43:19Z",
+            "windowTitle": "LearnWith.AI Beta Test - Ana (2024-06-06 18:05 GMT+3) - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1CmwimKV96gAkuaeeAGpSJ_fRJQIZnbZ-/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 1,
+            "mouse": 1,
+            "date": "2024-06-12T01:44:19Z",
+            "windowTitle": "Inbox - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 68,
+            "mouse": 10,
+            "date": "2024-06-12T01:45:19Z",
+            "windowTitle": "LearnWith.AI Beta Test - Ana (2024-06-06 18:05 GMT+3) - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1CmwimKV96gAkuaeeAGpSJ_fRJQIZnbZ-/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 102,
+            "mouse": 10,
+            "date": "2024-06-12T01:46:18Z",
+            "windowTitle": "LearnWith.AI Beta Test - Ana (2024-06-06 18:05 GMT+3) - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1CmwimKV96gAkuaeeAGpSJ_fRJQIZnbZ-/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 33,
+            "mouse": 14,
+            "date": "2024-06-12T01:47:18Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAnM2TMLc",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 4,
+            "mouse": 15,
+            "date": "2024-06-12T01:48:19Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAnM2TMLc",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 94,
+            "mouse": 17,
+            "date": "2024-06-12T01:49:19Z",
+            "windowTitle": "Magic Academy - Magic Academy / Mixpanel - Google Chrome",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-12T01:40:00Z"
+}

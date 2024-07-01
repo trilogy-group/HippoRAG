@@ -1,0 +1,260 @@
+{
+  "candidateId": 2368956,
+  "apps": [
+    "notion.so",
+    "Poe",
+    "chatgpt.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T18:40:51Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, File Explorer, Microsoft Edge, Google Chrome, Notepad, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Adobe Reader, Settings, and system tray including network, sound, and clock",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Consumer App Retention - Google Chrome",
+                "url": "https://www.medium.com/@username/consumer-app-retention",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "address bar, bookmarks bar, tabs bar, vertical scrollbar, horizontal scrollbar"
+                },
+                "content": [
+                  {
+                    "title": "Consumer App Retention",
+                    "layoutDescription": "Main content area with text and headings",
+                    "visibleText": "Consumer App Retention\n\nConsumer app retention is critical for maintaining users and profitable business. Acquiring new users is 10 times more expensive than retaining existing ones, as it increases retention rates by 5% to increase profitability by 25% to 95%.\n\nFoundations of User Retention\n1. User Expectations and Psychology\n- Simplicity: Clear copy that should be intuitive, easy to navigate, and have a clear conversion path.\n- Consistency: Consistent design and functionality throughout the app to reduce the learning curve.\n- Anticipation: Advanced user feedback forms and smooth performance are crucial for user engagement.\n- Personalization: Tailored experiences and anticipation of user preferences enhance app retention rates.\n\n2. Creating Engaging Content\n- Interactive features\n- Multiple opportunities for engagement\n- Fresh, relevant content\n- Consistently updated\n\nStrategies for Improving App Retention\n- Data-driven insights\n- User engagement strategies\n- Optimization of user experience\n- Regular updates and improvements\n\nSee all Medium posts »"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T18:43:51Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, File Explorer, Microsoft Edge, Google Chrome, Slack, Microsoft Teams, Visual Studio Code, and other unidentified applications. System tray visible with clock showing '6:43 PM', date '6/5/2024', and other system icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": []
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T18:47:58Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, Word, Excel, PowerPoint, Outlook, OneNote, Teams, File Explorer, Adobe Reader, and other unidentified applications. Also includes the Start menu icon, search bar, and system tray with time display.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "ChatGPT - Google Chrome",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs open, address bar, bookmarks bar, and Chrome control buttons visible."
+                },
+                "content": [
+                  {
+                    "title": "LinkedIn",
+                    "layoutDescription": "sidebar, main content area",
+                    "visibleText": "Explore\n\n* Home\n* My Network\n* Jobs\n* Messaging\n* Notifications\n* Me\n\nCarly Taylor\n\n* Settings\n\nAccount Settings\n\n* General\n* Security\n* Your Data\n* Currency\n\nAccount Defaults\n\n* General\n* Security\n* Your Data\n* Currency"
+                  },
+                  {
+                    "title": "Medium",
+                    "layoutDescription": "content area",
+                    "visibleText": "Medium posts\n\nKey Points:\n\n1. Methodology:\n\n- Reviewed 50+ Academic Articles\n- Employed 5+ Data Collection Methods (e.g., interviews, surveys, logging)\n- Significant use of Cross-Case Analysis\n\n2. ROI Justification:\n\n- ROI calculations were done via spreadsheets, customized based on customer goals\n- ROI tool was embedded in the product to facilitate customization and benchmarking\n\n3. Customer Outcomes:\n\n- 40% new customers yearly\n- High customer satisfaction rates, performed quantitative metrics analysis often\n\n4. Challenges Faced:\n\n- Real-time Supply Chain Issues\n- Navigating regulatory environments\n- Issues from legacy enterprise systems based on outdated, insecure IT\n\n5. Future Steps:\n\n- Plans to upgrade to newer systems\n- More aggressive expansion plans\n- Accountability for rapid change to accommodate more stringent challenges are published and discussed in 'Future Outlook'"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is primarily engaged in reading specifications and documentation. They are viewing a document titled 'Consumer App Retention' on Notion, which discusses strategies for improving user retention in consumer apps. The document outlines various foundations of user retention, including user expectations, psychology, and creating engaging content. The user is likely gathering information or preparing to implement strategies based on this document.",
+    "The user is also seen interacting with the Poe application, where they are engaged in a conversation with a bot named 'TranscriptAnalyzer'. The conversation involves uploading an interview transcript and discussing the details of a call. This indicates that the user is possibly working on transcribing or analyzing interview data, which could be part of a larger project or research task.",
+    "Additionally, the user is using ChatGPT for research purposes. They are viewing a document that outlines key points related to customer success management, ROI justification, customer outcomes, and future steps. This suggests that the user is seeking information or guidance on these topics, possibly to enhance their understanding or to apply this knowledge to their current work."
+  ],
+  "aiUseSummary": "The user utilizes AI tools primarily for research and data analysis. They interact with ChatGPT to gather information on customer success management and related topics. The user also engages with a bot on Poe named 'TranscriptAnalyzer' to transcribe and analyze interview data. These interactions indicate that the user relies on AI to streamline their research process and to handle data-intensive tasks efficiently.",
+  "activities": [
+    "READING_SPEC",
+    "RESEARCH",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "UI"
+  ],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [
+    "OPENAI_CHATGPT",
+    "ANTHROPIC_CLAUDE"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "READING_SPEC",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 11,
+      "mouse": 14,
+      "date": "2024-06-05T18:40:39Z",
+      "windowTitle": " CPM - Google Chrome\n",
+      "processName": "notion.so",
+      "visitingUrl": "https://www.notion.so/trilogy-enterprises/CPM-5b97a9ff8bc04be480ff900204c4d9f5",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 17,
+      "date": "2024-06-05T18:41:39Z",
+      "windowTitle": " Consumer App Retention - Google Chrome\n",
+      "processName": "notion.so",
+      "visitingUrl": "https://www.notion.so/trilogy-enterprises/Consumer-App-Retention-d5c6028917b04195867b7e06d8e71f77",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 18,
+      "date": "2024-06-05T18:42:39Z",
+      "windowTitle": " Appendix: Consumer App Retention - Google Chrome\n",
+      "processName": "notion.so",
+      "visitingUrl": "https://www.notion.so/trilogy-enterprises/Appendix-Consumer-App-Retention-5fb3b4d66d6248bb9f6c9d34d067fa0f",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 27,
+      "mouse": 13,
+      "date": "2024-06-05T18:43:39Z",
+      "processName": "Poe",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 83,
+      "date": "2024-06-05T18:44:39Z",
+      "processName": "Poe",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 249,
+      "mouse": 4,
+      "date": "2024-06-05T18:45:39Z",
+      "processName": "Poe",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 36,
+      "mouse": 10,
+      "date": "2024-06-05T18:46:39Z",
+      "windowTitle": " ChatGPT - Google Chrome\n",
+      "processName": "chatgpt.com",
+      "visitingUrl": "https://chatgpt.com/?model=gpt-4o",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 73,
+      "mouse": 4,
+      "date": "2024-06-05T18:47:39Z",
+      "windowTitle": " ChatGPT - Google Chrome\n",
+      "processName": "chatgpt.com",
+      "visitingUrl": "https://chatgpt.com/c/7169f32d-0b56-49cd-b476-6c7be955bc5e",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 72,
+      "mouse": 20,
+      "date": "2024-06-05T18:48:39Z",
+      "windowTitle": " ChatGPT - Google Chrome\n",
+      "processName": "chatgpt.com",
+      "visitingUrl": "https://chatgpt.com/c/7169f32d-0b56-49cd-b476-6c7be955bc5e",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 182,
+      "mouse": 3,
+      "date": "2024-06-05T18:49:39Z",
+      "windowTitle": " ChatGPT - Google Chrome\n",
+      "processName": "chatgpt.com",
+      "visitingUrl": "https://chatgpt.com/c/7169f32d-0b56-49cd-b476-6c7be955bc5e",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T18:40:00Z"
+}

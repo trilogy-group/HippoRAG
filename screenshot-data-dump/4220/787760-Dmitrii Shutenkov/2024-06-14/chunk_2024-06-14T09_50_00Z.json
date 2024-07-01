@@ -1,0 +1,294 @@
+{
+  "candidateId": 1444536,
+  "apps": [
+    "Code",
+    "cunning-panda-vsx7jz-dev-ed.trailblaze.my.salesforce.com",
+    "crossover.my.salesforce.com",
+    "explorer"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T09:51:50Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Search, Edge, File Explorer, Windows Terminal, Visual Studio Code, and other unidentified applications. Also displays the system clock showing '10:51:51', date '14/06/2024', and network status icon.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "campaign.ts - master-assistant",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Sidebar with icons for File Explorer, Search, Source Control, Run and Debug, Extensions, and more."
+                },
+                "content": [
+                  {
+                    "title": "File Content",
+                    "layoutDescription": "Text editor with code and terminal output",
+                    "visibleText": "const campaignConf = {\n gads : {\n idPattern: 'GA-5183.*',\n directSheet: '1RY_R4FM6SXAIwzm6ZtVY_J0Scf1_j4w5ug-UrkZDl4PU',\n indirectSheet: '1mbQ4Y3hXNQ0GlrEwBe8g8w7FfAZkgrZskKhQJwTNuWU',\n processIndirect: true\n },\n gads_new : {\n idPattern: 'GA-Cat.*',\n directSheet: '1f8m1zhx7Mkrw0r5BfVHZlg-VezCtHgo5rkqlW9TBEY',\n indirectSheet: '1glHh4cRe4qjwlpFiB2stuPOtul1IX73xZCo6P08SRSKo',\n processIndirect: false\n }\n};\n\nconst campaign = campaignConf.gads_new;\n\ninterface OpportunityRecord {\n Id: string;\n}\n\nPROBLEMS\nOUTPUT\nDEBUG CONSOLE\nTERMINAL\nPORTS\n\nSELECT Id, AccountId, CampaignId, CreatedDate, Lead_Source_Campaign__c, Advertised_Title__c, Candidate_Country__c, CCAT_Score__c, Last_Active_Stage__c, StageName\nFROM Opportunity WHERE\n CampaignId IN (SELECT Id from Campaign WHERE Name like 'GA-Cat.*') AND\n CreatedDate > 2000-01-01T00:00:00.000+0000 ORDER BY CreatedDate\n\nRefreshing token...\nquery 1: 15.733s\n2024-06-13T14:27:28.000+0000\nSELECT Id, AccountId, CampaignId, CreatedDate, Lead_Source_Campaign__c, Advertised_Title__c, Candidate_Country__c, CCAT_Score__c, Last_Active_Stage__c, StageName\nFROM Opportunity WHERE\n CampaignId IN (SELECT Id from Campaign WHERE Name like 'GA-Cat.*') AND\n CreatedDate > 2000-01-01T00:00:00.000+0000 ORDER BY CreatedDate"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T09:53:52Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Microsoft Edge, File Explorer, and other unidentified applications. Displays the system clock showing '10:53:54 AM' and date '14/06/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "salesforce.py - tools - Visual Studio Code",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "UI bar at the top with File, Edit, Selection, View, Go, Run, Terminal, Help. Side bar on the left with icons for Explorer, Search, Source Control, Run and Debug, Extensions, and more. Bottom bar with Problems, Output, Debug Console, Terminal tabs visible."
+                },
+                "content": [
+                  {
+                    "title": "EXPLORER",
+                    "layoutDescription": "layout list",
+                    "visibleText": "OPEN EDITORS\n5 unsaved\nWelcome\nREADME.md\n.gitattributes\nsales campaign-tracking\n test.py campaign-tracking\n lambda_function.py campaign-tracking\n config.json campaign-tracking\n Untitled-1\nTOOLS\n campaign-tracking\n .pycache__\n config.json\n lambda_function.py\n salesforce.py\n test.py\n .gitattributes\n README.md"
+                  },
+                  {
+                    "title": "salesforce.py",
+                    "layoutDescription": "editor",
+                    "visibleText": "def salesforce_login(username, password, security_token):\n\n# SOQL query\nquery = 'SELECT Id, Name FROM Account LIMIT 10'\n\n# Execute the query\nresults = sf.query(query)\n\n# Print results\nfor record in results['records']:\n print(record['Id'], record['Name'])"
+                  },
+                  {
+                    "title": "Terminal",
+                    "layoutDescription": "command line interface",
+                    "visibleText": "PS C:\\Users\\dima\\Projects\\tools\\campaign-tracking> python.exe test.py\nPS C:\\Users\\dima\\Projects\\tools\\campaign-tracking> python.exe test.py\nTraceback (most recent call last):\n File \"C:\\Users\\dima\\Projects\\tools\\campaign-tracking> line 1, in <module>\n from salesforce import create_query\n File \"C:\\Users\\dima\\Projects\\tools\\campaign-tracking> line 9, in <module>\n sf = Salesforce(username=username, password=password, security_token=security_token)\n AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T09:59:33Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, File Explorer, Microsoft Edge, and other unidentified applications. Displays the system clock showing 10:59:35 AM, date 14/06/2024, and language ENG. Network, sound, and battery status icons are also visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "salesforce.py - tools - Visual Studio Code",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Top bar with File, Edit, Selection, View, Go, Run, Terminal, Help. Side bar with icons for Explorer, Search, Source Control, Run, Extensions. Bottom bar with Problems, Output, Debug Console, Terminal, Ports."
+                },
+                "content": [
+                  {
+                    "title": "EXPLORER",
+                    "layoutDescription": "List",
+                    "visibleText": "OPEN EDITORS\n4 unsaved\nWelcome\nREADME.md\n.gitattributes\nsales campaign-tracking\n test.py campaign-tracking\n lambda_function.py campaign-tracking\n config.json campaign-tracking\n Untitled-1\nTOOLS\n campaign-tracking\n .pycache_\n config.json\n lambda_function.py\n salesforce.py\n test.py\n .gitattributes\n README.md"
+                  },
+                  {
+                    "title": "salesforce.py",
+                    "layoutDescription": "Code editor",
+                    "visibleText": "def create_query(id_patterns, last_date) -> str:\n\"\"\"FROM Opportunity WHERE\n CampaignId IN ({subquery}) AND\n CreatedDate > {last_date} ORDER BY CreatedDate\"\"\"\n\n def salesforce_connection(username, password, security_token):\n sf = Salesforce(username=username, password=password, security_token=security_token)\n return sf\n\n # Salesforce login credentials\n username = 'your_username'\n password = 'your_password'\n security_token = 'your_security_token'\n\n # Create a Salesforce connection\n sf = Salesforce(username=username, password=password, security_token=security_token)\n\n # SOQL query\n query = 'SELECT Id, Name FROM Account LIMIT 10'"
+                  },
+                  {
+                    "title": "Terminal",
+                    "layoutDescription": "Command line interface",
+                    "visibleText": "PS C:\\Users\\dima\\Projects\\tools\\campaign-tracking\\> SELECT Id, AccountId, CampaignId, CreatedDate, Lead_Source_Campaign_C, Advertised_Title_C, Candidate_Country_C, CCAT_Score_C, Last_Active_Stage_C, StageName FROM Opportunity WHERE (SELECT Id from Campaign WHERE Name like 'GA-Cat.%' OR Name like 'GA-5183.%') AND CreatedDate > 2000-01-01T00:00:00.000+0000 ORDER BY CreatedDate\nPS C:\\Users\\dima\\Projects\\tools\\campaign-tracking\\>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in writing and navigating code within Visual Studio Code. The first screenshot shows the user working on a TypeScript file named 'campaign.ts' in the 'master-assistant' project. The code defines a configuration object 'campaignConf' with properties for 'gads' and 'gads_new', each containing patterns and sheet IDs. The terminal output indicates the user is running SQL queries to fetch campaign-related data from a database, suggesting backend development work.",
+    "In the second screenshot, the user is working on a Python file named 'salesforce.py' within the 'campaign-tracking' project. The code includes a function 'salesforce_login' that executes a SOQL query to fetch account data from Salesforce. The terminal shows the user running the script and encountering an error, indicating active debugging and testing of the code. The presence of multiple unsaved files suggests ongoing development and testing activities.",
+    "The third screenshot continues to show the user working on 'salesforce.py' with additional functions like 'create_query' and 'salesforce_connection'. The terminal output shows the user executing SQL queries to fetch campaign data, similar to the first screenshot. This indicates a consistent focus on backend development and data retrieval tasks. The user is likely refining and testing their code to ensure it functions correctly with Salesforce data."
+  ],
+  "aiUseSummary": "There is no visible evidence of AI tools being used in the provided screenshots. The user is primarily focused on writing and debugging code within Visual Studio Code. No AI chat interfaces or AI-generated code suggestions are visible in the screenshots. Therefore, it can be inferred that the user did not utilize AI tools during this specific timeframe.",
+  "activities": [
+    "WRITING_CODE",
+    "NAVIGATING_CODE"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "DB"
+  ],
+  "programmingLanguages": [
+    "PYTHON",
+    "TYPESCRIPT",
+    "SQL"
+  ],
+  "toolTypes": [
+    "IDE",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 44,
+      "mouse": 3,
+      "date": "2024-06-14T09:50:24Z",
+      "windowTitle": "? test.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 19,
+      "mouse": 5,
+      "date": "2024-06-14T09:51:24Z",
+      "windowTitle": "? test.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 54,
+      "mouse": 10,
+      "date": "2024-06-14T09:52:24Z",
+      "windowTitle": "? test.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 17,
+      "mouse": 4,
+      "date": "2024-06-14T09:53:23Z",
+      "windowTitle": "? salesforce.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 30,
+      "mouse": 13,
+      "date": "2024-06-14T09:54:24Z",
+      "windowTitle": "salesforce.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 14,
+      "mouse": 7,
+      "date": "2024-06-14T09:55:24Z",
+      "windowTitle": "? salesforce.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 32,
+      "mouse": 10,
+      "date": "2024-06-14T09:56:24Z",
+      "windowTitle": "Change Your Password | Salesforce - Google Chrome",
+      "processName": "cunning-panda-vsx7jz-dev-ed.trailblaze.my.salesforce.com",
+      "visitingUrl": "cunning-panda-vsx7jz-dev-ed.trailblaze.my.salesforce.com/_ui/system/security/ChangePassword?retURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAZAbU2PTMDAwMDAwMDAwMDAwMDAwAAAA-sZ4cHjioSsI8QaCxez4JyToucN5I_PrZ05-4Pm1MxX3XkSOXqgye9",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 14,
+      "mouse": 13,
+      "date": "2024-06-14T09:57:24Z",
+      "windowTitle": "salesforce.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 12,
+      "mouse": 9,
+      "date": "2024-06-14T09:58:24Z",
+      "windowTitle": "Verify Your Identity | Salesforce - Google Chrome",
+      "processName": "crossover.my.salesforce.com",
+      "visitingUrl": "crossover.my.salesforce.com/_ui/identity/verification/method/TotpVerificationUi/e?vcsrf=Q9kwTrvfCqiVjzYAzmX8EB9Dak-6fqIuZuttq1dH5ANSWWQ3auloFST5jIsh6yQd8JMxtI1Gv-u82DTcYNaG6WI1iK12kKYyANksc69ZFoWNVOSYlbjTbiucWeuy5E-a6UgGsZf5ZAJsO03KbFGj0hIBzzpVSKU0nCg-a0D",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 16,
+      "mouse": 7,
+      "date": "2024-06-14T09:59:24Z",
+      "windowTitle": "Task Switching",
+      "processName": "explorer",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-14T09:50:00Z"
+}

@@ -1,0 +1,202 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "docs.google.com",
+    "mail.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-11T02:02:46Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. System clock shows '20:02'. Date displayed is '10 Jun 2024'.",
+            "position": "bottom"
+          },
+          {
+            "elementType": "system tray",
+            "details": "Icons for network, sound, and notifications are visible.",
+            "position": "bottom right"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Weekly update: Week of June 3, 2024 - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+                "url": "mail.google.com/mail/u/0/#inbox/FM",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, Gmail interface with navigation sidebar, email content area, task panel"
+                },
+                "content": [
+                  {
+                    "title": "Email Content",
+                    "layoutDescription": "Structured layout with headings and bullet points",
+                    "visibleText": "First, Content Gen has transitioned to Simon as of Monday. I'm at his disposal if he needs anything.\n\nReading Critters\nWork Completed:\n- Remaining two tasks for Lesson 23 implemented. Lesson 23 now complete and live in TestFlight v0.1 (12).\n- Handwriting recognition was tricky, but should be OK now. Uses two approaches:\n * First, a custom implementation of Dynamic Time Warping (possible patent) compares the written letter to the letter the app writes.\n * Second, if DTW fails, uses onboard text recognition. This is less reliable because it was trained for printed text, but gets it some percentage of the time.\n * If both of these still don't seem good enough, the next option to try is AWS Textract, which is trained on handwriting data.\n- About halfway into using pre-recorded sounds for single phonemes rather than on-the-fly generated speech.\n- Continued to work on improving flow and scripts.\n- Fixed several crashes.\n- Created initial brains and prompts for marketing automation. As I shared, the current results are subpar and would benefit from some work on second brains about what makes for good tweets and blog posts generally.\n * Tweet assistant (in Sandbox)\n * Blog post assistant (in Sandbox org)\n- Our evaluation license for SpeechSuper (used for single phoneme recognition) expired over the weekend, so it's currently broken. I've emailed the developer to set us up with a real license and extend the evaluation license by a week in the meantime.\n\nGoals for This Week:\n- Pre-recorded sounds for individual phonemes\n- Tasks needed for lessons 1-63\n- Add 4 more lessons across that range, bringing the total to 5\n- Home screen with lesson navigator\n- Add animal character and paw\n- Work on tweet assistant\n- Evaluate video tutor created by AndyM's vendors\n\nThanks,\nShawn"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in reading and managing emails on Gmail. The email content includes a detailed update on the progress of various tasks related to a project named 'Reading Critters'. The tasks mentioned include implementing handwriting recognition, using pre-recorded sounds for phonemes, improving flow and scripts, fixing crashes, and creating marketing automation prompts. The user is also managing a task list on the right side of the Gmail interface, which includes items such as Q2 progress, weekly updates, and various other tasks.",
+    "The user is viewing a Google Sheets document, as indicated by the link 'docs.google.com/spreadsheets/d/1VYZ2Hbs9Y6Dj691ej3HCOS_MWRcRC0X-7C81DixO6Qo/edit#gid=1998195287'. This suggests that the user is likely reviewing or updating a spreadsheet, possibly related to the tasks mentioned in the email. The spreadsheet could contain data or plans that are relevant to the ongoing project work."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in reading and managing emails and reviewing a Google Sheets document. No interactions with AI tools or AI-generated content are visible in the screenshots.",
+  "activities": [
+    "EMAIL",
+    "READING_SPEC"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "EMAIL",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 6,
+      "date": "2024-06-11T02:00:13Z",
+      "windowTitle": "GT School - Budget P&L - Q3'24 - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1VYZ2Hbs9Y6Dj691ej3HCOS_MWRcRC0X-7C81DixO6Qo/edit#gid=1998195287",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 6,
+      "mouse": 18,
+      "date": "2024-06-11T02:01:13Z",
+      "windowTitle": "Weekly update: Week of June 3, 2024 - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxBpbDglxqkHZzDXmxsCVchM",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 18,
+      "date": "2024-06-11T02:02:13Z",
+      "windowTitle": "Weekly update: Week of June 3, 2024 - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxBpbDglxqkHZzDXmxsCVchM",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T02:03:13Z",
+      "windowTitle": "Weekly update: Week of June 3, 2024 - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxBpbDglxqkHZzDXmxsCVchM",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T02:04:13Z",
+      "windowTitle": "Weekly update: Week of June 3, 2024 - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxBpbDglxqkHZzDXmxsCVchM",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T02:05:13Z",
+      "windowTitle": "Weekly update: Week of June 3, 2024 - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxBpbDglxqkHZzDXmxsCVchM",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T02:06:13Z",
+      "windowTitle": "Weekly update: Week of June 3, 2024 - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxBpbDglxqkHZzDXmxsCVchM",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T02:07:13Z",
+      "windowTitle": "Weekly update: Week of June 3, 2024 - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxBpbDglxqkHZzDXmxsCVchM",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T02:08:13Z",
+      "windowTitle": "Weekly update: Week of June 3, 2024 - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxBpbDglxqkHZzDXmxsCVchM",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-11T02:09:13Z",
+      "windowTitle": "Weekly update: Week of June 3, 2024 - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxBpbDglxqkHZzDXmxsCVchM",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-11T02:00:00Z"
+}

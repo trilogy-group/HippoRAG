@@ -1,0 +1,406 @@
+{
+    "candidateId": 1444536,
+    "apps": [
+        "type annotations",
+        "Code"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T09:31:15Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. Also includes system tray with notifications, sound, network, and battery status icons, as well as the date and time display '14/06/2024 10:31:17'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "Explorer",
+                                "position": "left side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "icons for files and folders such as 'README.md', '.gitattributes', 'salesforce.py', 'lambda_function.py', 'config.json' and others."
+                                },
+                                "content": [
+                                    {
+                                        "title": "File Explorer",
+                                        "layoutDescription": "Vertical list",
+                                        "visibleText": "EXPLORER\n\nOPEN EDITOR\n\nTOOLS\n\nOUTLINE\n\nTIMELINE\n\nRUNNING TASKS"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Terminal",
+                                "position": "bottom left of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "command line interface."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Terminal Output",
+                                        "layoutDescription": "Text output",
+                                        "visibleText": "Administrator: Command Prompt\n\n> git status\nOn branch main\nYour branch is up to date with 'origin/main'.\n\nnothing to commit, working tree clean"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Lambda runtimes - AWS Lambda",
+                                "position": "center of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "search bar with URL 'https://docs.aws.amazon.com/lambda/latest/dg/lam"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Page Content",
+                                        "layoutDescription": "Web page layout",
+                                        "visibleText": "Lambda runtimes\nAWS Lambda supports multiple languages through the use of runtimes. You can use the runtime to specify the language and version you want for your function. For example, you can use the Node.js 12.x runtime for a function that uses Node.js, or the Python 3.8 runtime for a function that uses Python. The following runtimes are supported: Node.js 12.x, Node.js 10.x, Python 3.8, Python 3.7, Ruby 2.7, Ruby 2.5, Java 11, Java 8, .NET Core 3.1, .NET Core 2.1, Go 1.x, Custom Runtime."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "campaign.ts - master-assistant",
+                                "position": "right of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "TypeScript code."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Code Editor",
+                                        "layoutDescription": "Code editor layout",
+                                        "visibleText": "import { Component, OnInit } from '@angular/core';\nimport { Campaign Service } from '../../services/campaign.service';\nimport { Campaign } from '../../models/campaign';\n\n@Component({\n selector: 'app-campaign-list',\n templateUrl: './campaign-list.component.html',\n styleUrls: ['./campaign-list.component.css']\n})\nexport class CampaignListComponent implements OnInit {\n campaigns: Campaign[] = [];\n\n constructor(private campaignService: CampaignService) { }\n\n ngOnInit(): void {\n this.campaignService.getCampaigns().then(campaign => {\n this.campaigns = campaigns;\n });\n }\n}"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "GitHub Desktop",
+                        "windows": [
+                            {
+                                "title": "GitHub Desktop",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "GitHub repository interface."
+                                },
+                                "content": [
+                                    {
+                                        "title": "GitHub Repository",
+                                        "layoutDescription": "Repository interface",
+                                        "visibleText": "GitHub Desktop\n\nCurrent repository: master-assistant\nBranch: main\n\nChanges\n1 modified file\nsalesforce.py\n\nHistory\nCommit message: 'Update salesforce.py to improve error handling'\nAuthor: John Doe\nDate: 2024-06-13"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "WorkSmart",
+                        "windows": [
+                            {
+                                "title": "WorkSmart",
+                                "position": "center of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "user productivity tracking interface."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Productivity Tracker",
+                                        "layoutDescription": "Compact layout",
+                                        "visibleText": "WORKSMART\n\nDmitrii Shutenkov\n1h 30m"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Notepad",
+                        "windows": [
+                            {
+                                "title": "Notepad",
+                                "position": "bottom right of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "text editing interface."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Text Document",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "*null - Notepad",
+                                "position": "bottom right of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "text editing interface."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Text Document",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T09:35:20Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Microsoft Edge, Windows Explorer, Microsoft Store, and other unidentified applications. Also displays the system clock showing '10:35:21' and date '14/06/2024'. Language set to 'ENG'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "lambda_function.py - tools - Visual Studio Code",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with options: File, Edit, Selection, View, Go, Run, Terminal, Help. Right side of the menu bar includes minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "lambda_function.py",
+                                        "layoutDescription": "Code editor open with Python code",
+                                        "visibleText": "1 import salesforce;\n2 def lambda_handler(event, context):\n3 # Salesforce login credentials\n4 username = event['username']\n5 password = event['password']\n6 security_token = event['security_token']\n7 # Campaign config\n8 campaigns = event['campaigns']\n9 for campaign in campaigns:\n10 "
+                                    },
+                                    {
+                                        "title": "Explorer",
+                                        "layoutDescription": "Sidebar on the left",
+                                        "visibleText": "OPEN EDITORS\n4 unsaved\nWelcome\nREADME.md\n.gitattributes\nsale campaign-tracking\nlambda_function.py campaign-tracking\nconfig.json campaign-tracking\nUntitled-1\n\nTOOLS\ncampaign- TASKS"
+                                    },
+                                    {
+                                        "title": "Other UI Elements",
+                                        "layoutDescription": "Bottom status bar",
+                                        "visibleText": "Ln 2, Col 36 Spaces: 4 UTF-8 CRLF Python 3.11.4 64-bit Prettier"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T09:37:34Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Edge, File Explorer, Windows Terminal, Visual Studio Code, and system status indicators including Wi-Fi, sound, notifications, and date/time",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "campaign.ts - master-assistant - Visual Studio Code",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "menu bar with File, Edit, Selection, View, Go, Run, Terminal, Help; sidebar with Explorer, Search, Source Control, Run and Debug, Extensions; status bar with bottom showing spaces info, UTF-8 encoding, CRLF line ending, TypeScript language mode, Python interpreter version, and a prettier code formatter"
+                                },
+                                "content": [
+                                    {
+                                        "title": "campaign.ts",
+                                        "layoutDescription": "code editor with multiple tabs",
+                                        "visibleText": "function processQueryResult(data: OpportunityRecord[]): string {\n data.forEach((record: Opportunity... too blurry"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in writing code using Visual Studio Code. They have multiple files open, including 'salesforce.py', 'lambda_function.py', and 'config.json'. The user is working on a Python script for handling Salesforce login credentials and campaign configurations. The code includes importing the Salesforce module and defining a lambda handler function that processes event data to extract username, password, security token, and campaign details.",
+        "The user is also working on a TypeScript file named 'campaign.ts' within the 'master-assistant' project. The code involves processing query results from an OpportunityRecord and fetching data using SQL queries. The user is likely implementing or debugging functions related to campaign data retrieval and processing. The terminal output shows the execution of SQL queries, indicating active debugging or testing of the code.",
+        "The user has a web browser open with a page titled 'Lambda runtimes - AWS Lambda', indicating they are researching AWS Lambda runtimes. The page details various supported runtimes for AWS Lambda functions, including Node.js, Python, Ruby, Java, .NET Core, and Go. This suggests the user is looking for information on how to configure or optimize their AWS Lambda functions for different programming languages."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily focused on writing and debugging code in Visual Studio Code and researching AWS Lambda runtimes. No AI chat interfaces or AI-generated code suggestions are visible in the screenshots.",
+    "activities": [
+        "WRITING_CODE",
+        "RESEARCH"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [
+        "PYTHON",
+        "TYPESCRIPT",
+        "SQL"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 50,
+            "mouse": 15,
+            "date": "2024-06-14T09:30:24Z",
+            "windowTitle": "New Tab - Google Chrome",
+            "processName": "type annotations",
+            "visitingUrl": "type annotations",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 10,
+            "mouse": 7,
+            "date": "2024-06-14T09:31:24Z",
+            "windowTitle": "campaign.ts - master-assistant - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-14T09:32:24Z",
+            "windowTitle": "campaign.ts - master-assistant - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 3,
+            "date": "2024-06-14T09:33:23Z",
+            "windowTitle": "campaign.ts - master-assistant - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-14T09:34:23Z",
+            "windowTitle": "campaign.ts - master-assistant - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 5,
+            "date": "2024-06-14T09:35:24Z",
+            "windowTitle": "? lambda_function.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 22,
+            "mouse": 7,
+            "date": "2024-06-14T09:36:24Z",
+            "windowTitle": "campaign.ts - master-assistant - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 19,
+            "mouse": 7,
+            "date": "2024-06-14T09:37:24Z",
+            "windowTitle": "campaign.ts - master-assistant - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 38,
+            "mouse": 9,
+            "date": "2024-06-14T09:38:24Z",
+            "windowTitle": "? salesforce.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 43,
+            "mouse": 5,
+            "date": "2024-06-14T09:39:24Z",
+            "windowTitle": "? salesforce.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T09:30:00Z"
+}

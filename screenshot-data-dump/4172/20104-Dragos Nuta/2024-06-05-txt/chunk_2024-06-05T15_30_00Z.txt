@@ -1,0 +1,308 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "mail.google.com",
+        "docs.google.com",
+        "meet.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T15:32:52Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, Mail, Calendar, Photos, Settings, Microsoft Teams, Spotify, Notepad, Calculator, Snipping Tool, Command Prompt, PowerShell, and a language indicator (ENG). System clock shows 6:32 PM. Date is 6/5/2024.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+                                "url": "https://docs.google.com/document/d",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help. Toolbar with undo, redo, print, spelling and grammar check, zoom controls, styles, fonts, and formatting options. Editing mode is set to 'Editing'."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Factory status May 2024 (TPM/Eng)",
+                                        "layoutDescription": "Detailed document layout",
+                                        "visibleText": "Factory status May 2024 (TPM/Eng)\n\n\u2014 Summary\n\nKanban Slots\nJigsaw (1 slot)\nIgniteTech #1: Security\nIgniteTech #2: Copilot\nIgniteTech Maintenance\nGFI (1 slot)\nInfluitive (2 slots)\nStratifyd (1 slot)\nCrossover (1 slot)\nTelco (3 slots + 1 Ops slot)\nTPM only slots (1 slot)\nApplied AI (1 slot)\n\nMaintenance Delivery scorecard\nBurndown charts - road to zero...\n\nAll BUs\nIgniteTech\nCopperTree\nJigsaw\nInfluitive\n Maintenance\n\u2022 Maintenance had a great month. We have already delivered 88% of our Q2 orders (goal: 20 tickets per SE7), and we are on track to clear all BUs.\n\u2022 We removed 62% of our backlog in Q2 so far and are on track to eliminate our backlog in Q2.\n\u2022 You can find the delivery scorecard and the burndown charts at the bottom of the document.\n\n\u2014 Early Customer Adoption\n\u2022 The PM service was added in May to 3 slots. We made progress, but results are below what we would have wanted and usage/activity remains low:\n\u2022 Messenger: of 20 customers, 4 customers showed interest, none has concrete upgrade plans (many want to wait until the new version is proven stable or are mid-upgrade with older versions)\n\u2022 Jive Security: of 12 customers, 3 are interested in upgrading\n\u2022 Jive Cloud AI: Copilot: 2 customers actively using it, 7 have it enabled, others have it disabled\n\n\u2014 What went well:\n\u2022 Focus on customer problems - conducted calls to understand their problems (for projects in early stages), help them use the product (for AI features), or get them to upgrade (for defense projects)\n\u2022 Focus on business value: analyzing usage (e.g., Jive Copilot Usage Report) and acting upon it\n\n\u2014 What did not go well:\n\u2022 We started without a clear framework and spent a time aligning expectations, navigating our org, or doing work that we did actually believe to be in our scope\n\u2022 We focused on a subset of customers which we believed to be more interested and got low response rates. We should have contacted all customers to increase the size of the early adoption pool. Longer upgrade cycles for the project (Messenger, Jive HQ) make it impossible to demonstrate consumable value during hosted projects.\n\n\u2014 Other topics\n\u2022 Cost reduction: completed a top level cost reduction analysis, focused on lower-complexity changes\n\u2022 Discount programs: working with AWS to reactivate MAP, targeting up to ~500K savings per year. EDP and private pricing discount programs are in good shape.\n\u2022 Waste: working to solve 20% of wasted resources on our-next-hour-1. The remaining waste found during private review sessions are considered manageable."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T15:34:19Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and system utilities like network, sound, and date/time display",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Calendar - Google Calendar",
+                                "url": "https://calendar.google.com/calendar",
+                                "position": "left half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "buttons, search bar, profile icon, settings icon, and other Google services icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Calendar",
+                                        "layoutDescription": "month view",
+                                        "visibleText": "June 2024\nMonday 3, Home\nTuesday 4, Home\nWednesday 5, Home\nMeet with...\nTime Insights\nMore insights\nMy calendars\nDragos Nuta Trilogy\nBirthdays\nDragos Nuta - Aurea\nDragos Nuta - XO\nTasks\nOther calendars"
+                                    },
+                                    {
+                                        "title": "Events on June 5, 2024",
+                                        "layoutDescription": "List of events",
+                                        "visibleText": "00:00 - 02:00, Bogdan / Dragos - what can AI do?\n02:00 - 04:00, Dragos/Rakshit, 10:00\n04:00 - 06:00, CNU - 1 week Project - AI Coach Daily Sync, 11\n06:00 - 08:00, Google Ads & FB 8 X - plan & review\n08:00 - 10:00, Product Daily Check-in\n10:00 - 12:00, May rex XO-Check-in, 15:00 - 17:30\n12:00 - 14:00, Pre-acquisition Ideas\n14:00 - 16:00, Acquisition\n16:00 - 18:00, Generative\n18:00 - 20:00, Stratiflyd - Crossover\n20:00 - 22:00, Stratiflyd Daily Standup\n22:00 - 24:00, X0 Kanban Weekly Debrief"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Meet - stp-shmc-fbc",
+                                "url": "https://meet.google.com/stp-shmc-fbc",
+                                "position": "right half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "video call interface with participant thumbnails, mute, camera, and other controls"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Call Participants",
+                                        "layoutDescription": "Video call layout",
+                                        "visibleText": "George Dita\nNoumaan Shah\nDragos Nut"
+                                    }
+                                ],
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "George Dita",
+                                            "expression": "smiling"
+                                        },
+                                        {
+                                            "name": "Noumaan Shah",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Dragos Nut",
+                                            "expression": "neutral"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T15:37:52Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, Mail, Calendar, Photos, Settings, and other unidentified applications. System tray includes network, sound, and battery status icons, date and time display (6:37 PM, 6/5/2024), and language setting (ENG).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+                                "url": "https://docs.google.com/document/d",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help. Toolbar with undo, redo, print, spelling and grammar check, zoom controls, styles, and formatting options. Editing mode enabled with cursor visible in the document."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Factory status May 2024 (TPM/Eng)",
+                                        "layoutDescription": "Structured document layout",
+                                        "visibleText": "Outline\nFactory status May 2024 (TPM/Eng)\n\u2014 Summary\nKanban Slots\nJigsaw (1 slot)\nIgniteTech #1: Security\nIgniteTech #2: Copilot\nIgniteTech Maintenance\nGFI (1 slot)\nInfluitive (2 slots)\nStratifyd (1 slot)\nCrossover (1 slot)\nTelco (3 slots + 1 Ops slot)\nTPM only slots (1 slot)\nApplied AI (1 slot)\nMaintenance Delivery scorecard\nBurndown charts - road to zero...\nAll BUs\nIgniteTech\nCopperTree\nJigsaw\nInfluitive\n had a great month. We have already delivered 88% of our Q2 orders (goal: 20 tickets per SE7), and we are on track to clear overdue for all BUs.\nWe removed 62% of our backlog in Q2 so far and are on track to eliminate our backlog in Q2.\nYou can find the delivery scorecard and the burndown charts at the bottom of the document.\n\nEarly Customer Adoption\nThe PM service was added in May to 3 slots. We made progress, but results are below what we would have wanted and usage/activity remains low:\nMessenger: of 20 customers, 4 customers showed interest, none has concrete upgrade plans (many went to wait until the new version is proven stable or are mid-upgrade with older versions)\nJive Security: Of 12 customers, 3 are interested in upgrading\nJive Cloud AI: Copilot: 2 customers are actively using it, 7 have it enabled, others have it disabled\nInfluitive AI features on one AI feature released one month ago being used, releasing another soon; uptrend started recently\n\nWhat went well:\nFocus on customer problems - conducted calls to understand their problems (for projects in early stages), help them use the product (for AI features), or get them to upgrade (for defense projects)\nFocus on business value: analyzing usage (e.g., Jive Copilot Usage Report) and acting upon it\n\nWhat did not go well:\nWe started without a clear framework and spent time aligning expectations, navigating our org, or doing work that we did actually believe to be in our scope\nWe focused on a subset of customers which we believed to be more interested and got low response rates. We should have contacted all customers to increase the size of the early adoption pool.\nLong upgrade cycles for hosted projects (Messenger, Jive HOP) make it impossible to demonstrate customer value during the quarter.\n\nImprovements:\nWe are fixing this by defining the services TPM Slot - Early Adoption Service.\n\nOther topics\nCost reduction: aimed to deliver cost reduction analysis, improve on low-value complexities\nDiscount programs: working with AWS to reactivate MAP, targeting up to ~500k savings per year. EDP and private pricing discount programs are in good shape."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in reading and editing a document titled 'Factory status May 2024 (TPM/Eng)' on Google Docs. The document includes detailed sections on maintenance, early customer adoption, and other topics. The user is seen interacting with the document by highlighting text and possibly making edits. The document outlines various project statuses, customer feedback, and internal metrics.",
+        "The user is participating in a Google Meet video conference with three other participants: George Dita, Noumaan Shah, and Dragos Nut. The meeting interface shows the participants' video feeds and names. The user is also viewing their Google Calendar, which displays a detailed schedule for June 5, 2024, including various meetings and tasks. This indicates that the user is multitasking, managing their schedule while attending the meeting.",
+        "The user continues to interact with the 'Factory status May 2024 (TPM/Eng)' document on Google Docs. The document's content remains the same, focusing on project updates, customer adoption, and other relevant topics. The user is seen replying to comments within the document, indicating active collaboration with team members. The comments section shows interactions with Kathy Slowinski and Omar Ortiz, discussing project progress and outreach efforts."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in document editing, video conferencing, and calendar management without any visible interaction with AI tools or assistants.",
+    "activities": [
+        "READING_SPEC",
+        "WRITING_SPEC",
+        "MEETING",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_SPEC",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 59,
+            "mouse": 13,
+            "date": "2024-06-05T15:30:55Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAhwn64Tw",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 202,
+            "mouse": 10,
+            "date": "2024-06-05T15:31:55Z",
+            "windowTitle": "XO Team Chat - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/space/AAAA8ETEWyA",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 110,
+            "mouse": 13,
+            "date": "2024-06-05T15:32:55Z",
+            "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 101,
+            "mouse": 4,
+            "date": "2024-06-05T15:33:55Z",
+            "windowTitle": "George Dita - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/sKno1MAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 46,
+            "mouse": 14,
+            "date": "2024-06-05T15:34:55Z",
+            "windowTitle": "Meet - stp-shmc-fbc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 19,
+            "mouse": 4,
+            "date": "2024-06-05T15:35:55Z",
+            "windowTitle": "Meet - stp-shmc-fbc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 7,
+            "date": "2024-06-05T15:36:55Z",
+            "windowTitle": "Meet - stp-shmc-fbc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 210,
+            "mouse": 1,
+            "date": "2024-06-05T15:37:55Z",
+            "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 43,
+            "mouse": 3,
+            "date": "2024-06-05T15:38:55Z",
+            "windowTitle": "Meet - stp-shmc-fbc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 1,
+            "date": "2024-06-05T15:39:55Z",
+            "windowTitle": "Meet - stp-shmc-fbc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-05T15:30:00Z"
+}

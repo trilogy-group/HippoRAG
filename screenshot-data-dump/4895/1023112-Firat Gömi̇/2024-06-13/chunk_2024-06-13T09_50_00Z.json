@@ -1,0 +1,368 @@
+{
+  "candidateId": 2027577,
+  "apps": [
+    "mail.google.com",
+    "sidebar.outreach.io",
+    "chrome:",
+    "app.crossover.com",
+    "app.apollo.io",
+    "web.outreach.io"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-13T09:52:23Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Notes, Reminders, Photo Booth, Maps, Messages, FaceTime, News, iTunes, iBooks, App Store, System Preferences, Terminal, Trash",
+            "position": "bottom"
+          },
+          {
+            "elementType": "dock",
+            "details": "application icons",
+            "position": "bottom"
+          },
+          {
+            "elementType": "system tray",
+            "details": "notifications, time, and system controls",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Onboarding hub",
+                "url": "https://app.apollo.io/#/onboarding-hub",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "navigation bar at top, sidebar on left"
+                },
+                "content": [
+                  {
+                    "title": "Onboarding Hub",
+                    "layoutDescription": "Two-column layout",
+                    "visibleText": "Onboarding Hub\nYour queue\nExplore Apollo\nRecommended setup\nInvite a team member\nLearn about credits\nProgress: 2% | 10/200 credits earned\nTo exit full screen, press [F11]"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Slack",
+            "windows": [
+              {
+                "title": "Team Chat",
+                "position": "partially visible bottom right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "sections for Mentions & reactions, Missed Calls, Contact Requests, Drafts and Sent, More, Starred, Front (Root), Recents, Jive - TPM/TNG daily sit demo, Jive - customer-focused calls, Jive - customer focus"
+                },
+                "content": [
+                  {
+                    "title": "Team Chat",
+                    "layoutDescription": "List and chat view",
+                    "visibleText": "Team Chat\nMentions & reactions\nMissed Calls\nContact Requests\nDrafts and Sent\nMore\nStarred\nFront (Root)\nRecents\nJive - TPM/TNG daily sit demo\nJive - customer-focused calls\nJive - customer focus\nMessages\nJive - TPM/TNG daily sit demo\nFrom: RIM\nRead meeting notes. Meet Wed., May 26, 10:25\nFrom: Brian, Fiona and Jared added read monitoring notes to the plan.\nRead assigned articles and meeting minutes. Our primary focus: 'How to streamline & direct workflow to make it more productive.'\nType 'read stop' to disable, or 'opt out' to delete meeting."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-13T09:54:13Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Siri, Google Chrome, Microsoft Outlook, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Adobe Acrobat Reader, System Preferences, Terminal, and others. Includes a system clock showing 'Thu Jun 13 19:54' and a notification center icon.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Jimmy Mäkinen | LinkedIn - Google Chrome",
+                "url": "https://www.linkedin.com/in/jimmy-makinen",
+                "position": "full screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "browser tabs, address bar, navigation buttons, LinkedIn profile interface"
+                },
+                "content": [
+                  {
+                    "title": "LinkedIn Profile",
+                    "layoutDescription": "Profile layout",
+                    "visibleText": "Jimmy Mäkinen 3d IT-konsult på Blocketjobs AB Stockholm, Stockholm County, Sweden - Contact info"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "WorkSmart",
+            "windows": [
+              {
+                "title": "Team Chat",
+                "position": "left half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "application interface, search bar, navigation tabs"
+                },
+                "content": [
+                  {
+                    "title": "Team Chat",
+                    "layoutDescription": "Chat layout",
+                    "visibleText": "Team Chat - Missed Calls, Mentions, Contact Requests, Drafts and Sent, More Messages - Starred, Front Room (Prod), Recents, Jive - TPM/TMG daily sit demo, Jive - TPM/TMG standup, Jive - customer focused chat, Jive - customer focus"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-13T09:57:24Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Siri, Safari, Mail, Calendar, Contacts, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash, and others. Docked at the bottom of the screen with a slight 3D effect and magnification on hover.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "People Lists - Apollo - Google Chrome - Firat (trilogy.com)",
+                "url": "https://app.apollo.io/#/app",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "multiple tabs, address bar, bookmarks bar, and various extension icons"
+                },
+                "content": [
+                  {
+                    "title": "New List",
+                    "layoutDescription": "Popup window centered",
+                    "visibleText": "New List\nName\n[Text field for name input]\nSave\nNo lists created\nBefore you start diving into the website or into your target market, you can create a list that helps you keep all the data you have about leads, deals, and sequences in one place.\nCreate new list"
+                  },
+                  {
+                    "title": "People Lists",
+                    "layoutDescription": "Main window layout",
+                    "visibleText": "Home\nProject & search\nSearch enrichment\nStorage\nSequences\nEmails\nCalls\nWi & close\nMeetings\nConversations\nDeals\nTools & workflows\nTasks\nPlay\nAnalytics\nUI\nOnboarding Hub\nSettings"
+                  }
+                ]
+              },
+              {
+                "appName": "Microsoft Teams",
+                "windows": [
+                  {
+                    "title": "Team Chat",
+                    "position": "bottom right",
+                    "isActive": false,
+                    "uiElements": {
+                      "details": "sidebar with navigation options, search bar, and user profile icon"
+                    },
+                    "content": [
+                      {
+                        "title": "Team Chat",
+                        "layoutDescription": "Chat window layout",
+                        "visibleText": "Team Chat\nMentions\nMissed Calls\nContact Requests\nDrafts and Sent\nMore\nMessages\nStarred\nFrom: Root (You)\nRecent\nJive - TPM/TMG daily demo\nJive - TPM/TMG bundaberg\nJive - customer focused clarity\nJive - customer focus\nMessage Jive - TPM/TMG daily demo\nFrom: FIRAT\nRead meeting notes. See..."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Teams",
+            "windows": [
+              {
+                "title": "Team Chat",
+                "position": "bottom right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "sidebar with navigation options, search bar, and user profile icon"
+                },
+                "content": [
+                  {
+                    "title": "Team Chat",
+                    "layoutDescription": "Chat window layout",
+                    "visibleText": "Team Chat\nMentions\nMissed Calls\nContact Requests\nDrafts and Sent\nMore\nMessages\nStarred\nFrom: Root (You)\nRecent\nJive - TPM/TMG daily demo\nJive - TPM/TMG bundaberg\nJive - customer focused clarity\nJive - customer focus\nMessage Jive - TPM/TMG daily demo\nFrom: FIRAT\nRead meeting notes. See..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in using Apollo.io for onboarding tasks. The screenshot shows the 'Onboarding Hub' with options to invite a team member and learn about credits. The progress bar indicates that the user has earned 10 out of 200 credits, suggesting they are in the early stages of the onboarding process. The user is likely setting up their workspace and familiarizing themselves with the platform.",
+    "The user is also seen on LinkedIn, viewing the profile of Jimmy Mäkinen, an IT consultant at Blocketjobs AB. This activity suggests that the user might be researching potential contacts or networking opportunities. The LinkedIn interface shows the user's profile picture, contact info, and professional details, indicating a focus on professional networking.",
+    "In another screenshot, the user is creating a new list in Apollo.io. The 'New List' popup window is visible, with a text field for the list name and a 'Save' button. This indicates that the user is organizing their data, possibly for lead management or project tracking. The sidebar shows various options like 'Home,' 'Project & search,' 'Search enrichment,' and more, suggesting a comprehensive use of the platform.",
+    "The user is also engaged in team communication via Slack. The 'Team Chat' window is partially visible, showing various chat sections like 'Mentions & reactions,' 'Missed Calls,' 'Contact Requests,' and more. The user is involved in a chat named 'Jive - TPM/TNG daily sit demo,' where they are discussing meeting notes and assigned articles. This indicates active participation in team meetings and collaborative tasks."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in onboarding tasks, professional networking, data organization, and team communication without any visible interaction with AI tools.",
+  "activities": [
+    "READING_SPEC",
+    "RESEARCH",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "READING_SPEC",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 43,
+      "mouse": 3,
+      "date": "2024-06-13T09:50:44Z",
+      "windowTitle": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 24,
+      "mouse": 7,
+      "date": "2024-06-13T09:51:44Z",
+      "windowTitle": " New - Prospects - Outreach - Firat (trilogy.com)\n",
+      "processName": "sidebar.outreach.io",
+      "visitingUrl": "https://sidebar.outreach.io/prospects/new?externalSource=outreach-extension",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 12,
+      "mouse": 12,
+      "date": "2024-06-13T09:52:44Z",
+      "windowTitle": " Extensions - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "chrome:",
+      "visitingUrl": "chrome://extensions/",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 2,
+      "mouse": 6,
+      "date": "2024-06-13T09:53:44Z",
+      "windowTitle": " WorkSmart - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "app.crossover.com",
+      "visitingUrl": "https://app.crossover.com/x/dashboard/contractor/my-dashboard?date=2024-06-13&activeView=dailyLogbook",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 11,
+      "mouse": 6,
+      "date": "2024-06-13T09:54:44Z",
+      "windowTitle": " Inbox - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.6 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 14,
+      "mouse": 12,
+      "date": "2024-06-13T09:55:44Z",
+      "windowTitle": " People - Apollo - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "app.apollo.io",
+      "visitingUrl": "https://app.apollo.io/#/people/saved-searches?finderViewId=5b8050d050a3893c382e9360",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 2,
+      "mouse": 28,
+      "date": "2024-06-13T09:56:44Z",
+      "windowTitle": " Engage - Apollo - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "app.apollo.io",
+      "visitingUrl": "https://app.apollo.io/#/tasks",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 53,
+      "mouse": 10,
+      "date": "2024-06-13T09:57:44Z",
+      "windowTitle": " People Lists - Apollo - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "app.apollo.io",
+      "visitingUrl": "https://app.apollo.io/#/people/tags?teamListsOnly[]=no",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 3,
+      "mouse": 10,
+      "date": "2024-06-13T09:58:44Z",
+      "windowTitle": " Jimmy Maekinen - Apollo - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "app.apollo.io",
+      "visitingUrl": "https://app.apollo.io/#/contacts/666ac1cf757ede06add374a5",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 7,
+      "mouse": 15,
+      "date": "2024-06-13T09:59:44Z",
+      "windowTitle": " Email outbox - Outreach - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "web.outreach.io",
+      "visitingUrl": "https://web.outreach.io/outbox?smart_view=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-13T09:50:00Z"
+}

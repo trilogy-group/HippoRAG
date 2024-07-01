@@ -1,0 +1,200 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "how much in t",
+    "mail.google.com",
+    "perplexity.ai",
+    "docs.google.com",
+    "loom.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T13:43:59Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, Outlook, File Explorer, Microsoft Store, and other unidentified applications. System tray includes network, sound, and battery status icons, as well as the date and time display.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "DevFactory Mail - Google Chrome",
+                "url": "https://mail.google.com/mail/u/0/#chat/spa",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, Gmail sidebar, chat window, and task list"
+                },
+                "content": [
+                  {
+                    "title": "Gmail Chat",
+                    "layoutDescription": "Chat interface with messages and task list",
+                    "visibleText": "Phil, Bogdan, Simon, Shawn \n5 members\n20% for non-US, 35% for US if I remember correctly\nBogdan Tenea 3 min\nUS folks are employees - taxes, benefits, etc etc\nBogdan Tenea Now\nActually, seems more like 40% - Mark's $100/hr or $200k/year or $50k/quarter is ending up at $70k/quarter \nGT School - Budget P&L - Q3'24\nthat seems inflated - I think the tax part is like 18% at most\nsheesh\nlesson here is don't hire anyone in the"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in a chat conversation on Gmail with team members Phil, Bogdan, Simon, and Shawn. The discussion revolves around tax rates for US and non-US employees, with specific mentions of percentages and annual salaries. Bogdan Tenea provides detailed figures, including a budget P&L for Q3'24. The user is also seen typing a message, indicating active participation in the conversation.",
+    "The user has a task list open on the right side of the Gmail interface. The tasks include various activities such as replying to Simon, checking Q2 progress/Q3 plan, and following up with Doreen about beta program and research study. This indicates that the user is managing multiple tasks and priorities simultaneously.",
+    "The user is using Google Chrome as their web browser, with multiple tabs open. The active tab is Gmail, but other tabs include 'how much in t', 'perplexity.ai', 'docs.google.com', and 'loom.com'. This suggests that the user is multitasking and possibly conducting research or managing documents alongside their email and chat activities."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in email and chat activities, managing tasks, and possibly conducting research or document management in other tabs. No AI chat interfaces or AI-generated content are visible in the screenshots.",
+  "activities": [
+    "EMAIL",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "CHATTING_WITH_TEAM",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 23,
+      "mouse": 3,
+      "date": "2024-06-12T13:40:45Z",
+      "windowTitle": "New Tab - Google Chrome",
+      "processName": "how much in t",
+      "visitingUrl": "how much in t",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 57,
+      "mouse": 9,
+      "date": "2024-06-12T13:41:45Z",
+      "windowTitle": "TeachTales Marketing - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 126,
+      "mouse": 7,
+      "date": "2024-06-12T13:42:45Z",
+      "windowTitle": "Perplexity - Google Chrome",
+      "processName": "perplexity.ai",
+      "visitingUrl": "perplexity.ai/search?q=pending&newFrontendContextUUID=b5a9e504-297b-4c03-8469-d5d2fe73e0d8",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 74,
+      "mouse": 4,
+      "date": "2024-06-12T13:43:45Z",
+      "windowTitle": "WS.Eng AI Adoption - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 46,
+      "mouse": 5,
+      "date": "2024-06-12T13:44:45Z",
+      "windowTitle": "WS.Eng AI Adoption - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 7,
+      "mouse": 14,
+      "date": "2024-06-12T13:45:45Z",
+      "windowTitle": "GT School Q3'24 Budget Details - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/19t2L4FosU9WLYwDFYdDf6EbfMwMUkto9JOJdjZXw57U/edit#gid=1935652953",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 141,
+      "mouse": 13,
+      "date": "2024-06-12T13:46:45Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 44,
+      "mouse": 5,
+      "date": "2024-06-12T13:47:45Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 12,
+      "mouse": 33,
+      "date": "2024-06-12T13:48:45Z",
+      "windowTitle": "GTSchool Confirmation - Send Mail as support@learnwith.ai - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxFJHSjChsPbkzmMKQdpqBzk",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 28,
+      "date": "2024-06-12T13:49:45Z",
+      "windowTitle": "Unity 2022.3.15f1 <DX11> - Jenga3D - Environment_New - Windows, Mac, Linux - Unity 2022.3.15f1 <DX11> - 7 June 2024 - Google Chrome",
+      "processName": "loom.com",
+      "visitingUrl": "loom.com/share/d1dbfd301aeb40e1b083931b3eda599c",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-12T13:40:00Z"
+}

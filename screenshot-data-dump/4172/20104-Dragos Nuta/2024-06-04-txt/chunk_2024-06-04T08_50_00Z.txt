@@ -1,0 +1,319 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "meet.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-04T08:52:29Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, Microsoft Edge, File Explorer, Microsoft Store, and pinned applications. System tray includes network, sound, and battery status icons, as well as the date and time display '11:52 AM'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - kxx-fcoj-dew - Google Chrome",
+                                "url": "meet.google.com/kxx-fcoj-dew",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, navigation buttons, Google account profile picture, and extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Michael Madume (Presenting)",
+                                        "layoutDescription": "Video conference layout",
+                                        "visibleText": "Michael Madume (Presenting)"
+                                    },
+                                    {
+                                        "title": "AI Coach Daily Sync",
+                                        "layoutDescription": "Video conference title",
+                                        "visibleText": "11:52 AM | AI Coach Daily Sync"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Live Upgrade - Google Docs",
+                                "url": "docs.google.com/document/d/abc123/ed",
+                                "position": "center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "title, sharing status, menu options"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Live Upgrade",
+                                        "layoutDescription": "Document editing interface",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T08:54:32Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, Microsoft Edge, File Explorer, Microsoft Store, and pinned applications. System tray includes network, sound, notifications, and clock displaying '11:54 AM'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - kxx-fcoj-dew - Google Chrome",
+                                "url": "meet.google.com/kxx-fcoj-dew",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, and extensions including Google Keep, Bitwarden, and more."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Michael Madume (Presenting)",
+                                        "layoutDescription": "Main content area with video call and sidebar",
+                                        "visibleText": "Michael Madume (Presenting) AI Coach Daily Sync"
+                                    },
+                                    {
+                                        "title": "Literal AI",
+                                        "layoutDescription": "Sidebar with collapsible menu",
+                                        "visibleText": "Dashboard Observability Threads Runs Generations Scores Playground Prompts Datasets Online Evaluation Experiments Users Settings Documentation coach.ai Clear your feedback Michael Madume"
+                                    },
+                                    {
+                                        "title": "AI Coach Daily Sync",
+                                        "layoutDescription": "Video call interface",
+                                        "visibleText": "Michael Madume Serban Petrescu Dragos Nuta read.ai meeting notes"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T08:58:54Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Google Chrome, and system tray with notifications, sound, network, and battery status icons",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - kxx-fcoj-dew - Google Chrome",
+                                "url": "meet.google.com/kxx-fcoj-dew",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Address bar, bookmarks bar, Google Meet controls"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Michael Madume (Presenting)",
+                                        "layoutDescription": "Main content area",
+                                        "visibleText": "\"rationale\": \"Using an existing transcription tool like AI avoids the overhead of setting up and maintaining a new database, making the implementation more efficient.\""
+                                    },
+                                    {
+                                        "title": "Chat",
+                                        "layoutDescription": "Sidebar on the left",
+                                        "visibleText": "\"rationale\": \"Choosing the right API strategy is crucial for data accessibility, reliability, and performance.\""
+                                    },
+                                    {
+                                        "title": "Serban Petrescu",
+                                        "layoutDescription": "Video participant on the right",
+                                        "visibleText": "Visible participant in a video call, showing a male with headphones, focused expression."
+                                    },
+                                    {
+                                        "title": "read.ai meeting notes",
+                                        "layoutDescription": "Video participant on the right",
+                                        "visibleText": "Visible participant in a video call, showing a male with a neutral expression."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Google Meet video conference titled 'AI Coach Daily Sync'. The meeting involves multiple participants, including Michael Madume, Serban Petrescu, and Dragos Nuta. The user is presenting their screen, which shows various tabs open in Google Chrome, including a document titled 'Live Upgrade' in Google Docs and a platform named 'Literal AI'. The user is discussing and reviewing content related to AI and prompt engineering.",
+        "During the meeting, the user is actively presenting content from the 'Literal AI' platform. The interface shows a detailed view of threads, runs, generations, scores, and other elements related to AI model evaluation and prompt engineering. The user is likely discussing the current issues the prompt engineering team is dealing with, as indicated by the visible text in the screenshots. The user is also interacting with the chat feature within the 'Literal AI' platform.",
+        "The user continues to present and discuss various aspects of AI model evaluation and prompt engineering. The screenshots show detailed content related to AI model performance, including input and output tokens, scores, and specific issues being addressed by the team. The user is likely providing insights and updates on the progress and challenges faced by the team in their AI projects."
+    ],
+    "aiUseSummary": "The user is utilizing AI tools within the 'Literal AI' platform to review and discuss AI model performance and prompt engineering issues. The AI tools are used to generate and evaluate responses, identify specific issues, and provide detailed updates on the progress of AI projects. The user is leveraging these tools to enhance their understanding and address challenges in AI model development and prompt engineering, thereby improving productivity and task efficiency.",
+    "activities": [
+        "MEETING",
+        "RESEARCH"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "UI"
+    ],
+    "programmingLanguages": [
+        "OTHER"
+    ],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "DEVFACTORY_TPM_AI"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T08:50:09Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T08:51:09Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T08:52:09Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T08:53:09Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T08:54:09Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T08:55:09Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T08:56:09Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T08:57:09Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T08:58:09Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T08:59:09Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-04T08:50:00Z"
+}

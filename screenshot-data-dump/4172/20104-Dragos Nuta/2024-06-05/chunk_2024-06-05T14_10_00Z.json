@@ -1,0 +1,286 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "meet.google.com",
+    "calendar.google.com",
+    "calendly.com",
+    "mail.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T14:12:04Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, widgets, and several pinned applications. System tray includes network, sound, and battery status icons, as well as the date and time display.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - uus-dzji-wsj - Google Chrome",
+                "url": "https://meet.google.com/uus-dzji-w",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, Google account avatar, and extension icons"
+                },
+                "content": [
+                  {
+                    "title": "Google Meet Video Conference",
+                    "layoutDescription": "Grid layout of video feeds",
+                    "visibleText": "Participants visible in the video conference: Bogdan Tenea, Phil Hewinson, Samy Aboel-Nil, Dmitry Bakayev, Serban Petrescu, Isaac Squires, Simon Said, Dragos Nuta. One participant represented by a blue circle with a white lowercase 'r'."
+                  }
+                ]
+              },
+              {
+                "title": "Gmail - Inbox - Google Chrome",
+                "url": "https://mail.google.com/mail/u/0/#",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "User interface with navigation pane, search bar, and email list"
+                },
+                "content": [
+                  {
+                    "title": "Gmail Inbox",
+                    "layoutDescription": "List of emails with labels and stars",
+                    "visibleText": "Visible emails: Samy Aboel-Nil - FW: 7 Golden Rules for Generative AI, Magic, me 2 - Congratulations! Your Child Has Been Accepted, me - Fwd: Chat in tpm reboot \"if you want to reboot\", Ethan Mollick from . - Innovation through prompting - Demo, me - notes from Samy - 2 TPMs are missing, All News - Confirm your subscription to All News - click here, Important emails: Niles Deshpande and Dragos Nuta (2) - meet-recordings-nor., LangSmith - [ACTION REQUIRED] Set up LangSmith, George Dita (Google. - Delivery progress (Influitive - Add AI to your, Jamie Sidey (via Go. - Document shared with you: \"Notes from, Ben Moosher 2 - Re: Crossover and Google - Hey Dragos, Matheus Vinicius de 2 - Re: Invitation: Matheus de Freitas and, George Dita - PM Playbook Draft - Feedback and direction"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T14:13:57Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, widgets, and several pinned applications. Also includes system tray with clock, language indicator, and other system icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Calendly",
+                "url": "https://calendly.com",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "address bar, bookmarks bar, multiple tabs, navigation buttons, profile icon, extensions icons"
+                },
+                "content": [
+                  {
+                    "title": "Calendly",
+                    "layoutDescription": "two-column page layout with sidebar and main content area",
+                    "visibleText": "Calendly\nCreate\nEvent types\nScheduled events\nContacts NEW\nWorkflows\nRouting\nAnalytics\nAvailability & apps\nAdmin center\nHelp\nDragos & Tarig\n30 mins, Collective\nView booking page\nCopy link\nShare\nArtie & Dragos\n30 mins, Collective\nView booking page\nCopy link\nShare\nDragos & Serban\n30 mins, Collective\nView booking page\nCopy link\nShare\nDragos & Rahul\n1 hr, Collective\nView booking page\nCopy link\nShare\nDmitry & Dragos\n1 hr, Collective\nView booking page\nCopy link\nShare\nprime-test-multiple-hosts\n30 mins, Collective\nView booking page\nCopy link\nShare\nCrossover Prime - Hire Top Talent\n20 mins, Collective\nView booking page\nCopy link\nShare\nDavid & Dragos\n30 mins, Collective\nView booking page\nCopy link\nShare\nKevin & Dragos\n30 mins, Collective\nView booking page\nCopy link\nShare"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T14:19:35Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, Edge, File Explorer, Chrome, Amazon Web Services, Events, Messages, videoask alternative, Plans & Pricing, Collect Client Testimonials, We Tried 5 Best Video Editors, and system tray with notifications, sound, network, and clock",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Gmail",
+                "url": "https://mail.google.com",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, and extensions"
+                },
+                "content": [
+                  {
+                    "title": "Email from Dragos Nută to Heather, Dmitrii, Kevin",
+                    "layoutDescription": "Email content displayed",
+                    "visibleText": "Dragos Nută - dragos.nuta@crossover.com\nto Heather, Dmitrii, Kevin\n\nno explanation of how you'll be evaluated in the candidate-facing instructions\nDid you open the Jupiter notebook?\n\nI'm confident we can get PHM approval to have 10-20 recent hires take this\nGreat. Can you help with this?\n\nreplace an existing badge on an open pipeline, we need calibration data and some data on its validity & reliability\nWe are not replacing a badge as we have no badge covering both Python and building GenAI apps. I think you are making this more complicated than it has to be. Regardless, will you help with the pool of 10-20 recent hires that are supposed to possess this skill?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is participating in a Google Meet video conference. The meeting includes multiple participants, such as Bogdan Tenea, Phil Hewinson, Samy Aboel-Nil, Dmitry Bakayev, Serban Petrescu, Isaac Squires, Simon Said, and Dragos Nuta. The user is actively engaged in the meeting, as evidenced by the open Google Meet window on the left half of the screen.",
+    "The user is also managing their email through Gmail. The Gmail window is open on the right half of the screen, displaying a list of emails. Some of the visible emails include topics like '7 Golden Rules for Generative AI,' 'Congratulations! Your Child Has Been Accepted,' and 'Innovation through prompting - Demo.' The user is likely reviewing and organizing their emails during this time.",
+    "The user is using Calendly to manage and schedule events. The Calendly window is maximized and shows various event types, such as 'Dragos & Tarig,' 'Artie & Dragos,' and 'Dmitry & Dragos.' The user is likely organizing and scheduling meetings, as indicated by the multiple event types and options to view booking pages, copy links, and share events.",
+    "The user is composing and reading emails in Gmail. One email from Dragos Nută to Heather, Dmitrii, and Kevin discusses topics like evaluating candidates, getting PHM approval for recent hires, and replacing an existing badge on an open pipeline. The user is actively engaged in email communication, as evidenced by the detailed email content and the user's responses."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in video conferencing, email management, and scheduling events through Calendly. No AI chat interfaces or AI-generated content are visible in the screenshots.",
+  "activities": [
+    "MEETING",
+    "EMAIL"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T14:10:55Z",
+      "windowTitle": "Meet - uus-dzji-wsj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/uus-dzji-wsj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-05T14:11:55Z",
+      "windowTitle": "Meet - uus-dzji-wsj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/uus-dzji-wsj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 39,
+      "mouse": 12,
+      "date": "2024-06-05T14:12:55Z",
+      "windowTitle": "DevFactory - Calendar - Event details - Google Chrome",
+      "processName": "calendar.google.com",
+      "visitingUrl": "calendar.google.com/calendar/u/0/r/eventedit/azNnMm50MmlkMzFudGRwaGk4czNsOGNzZW5fMjAyNDA2MDZUMTYzMDAwWiBkcmFnb3MubnV0YUB0cmlsb2d5LmNvbQ",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 31,
+      "mouse": 13,
+      "date": "2024-06-05T14:13:55Z",
+      "windowTitle": "Calendly - Google Chrome",
+      "processName": "calendly.com",
+      "visitingUrl": "calendly.com/event_types/user/me",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 12,
+      "mouse": 23,
+      "date": "2024-06-05T14:14:55Z",
+      "windowTitle": "Creating new event type - Calendly - Google Chrome",
+      "processName": "calendly.com",
+      "visitingUrl": "calendly.com/organization_event_types/new/collective?return_to=%2Fevent_types%2Fnew",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 30,
+      "mouse": 6,
+      "date": "2024-06-05T14:15:55Z",
+      "windowTitle": "Creating new event type - Calendly - Google Chrome",
+      "processName": "calendly.com",
+      "visitingUrl": "calendly.com/organization_event_types/new/collective?return_to=%2Fevent_types%2Fnew",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 108,
+      "mouse": 13,
+      "date": "2024-06-05T14:16:55Z",
+      "windowTitle": "Glean use cases and MNDA - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#search/steven.conway%40glean.com/FMfcgzGxTNvvZnzzNszHfVlRNnRMHNWW",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 149,
+      "mouse": 6,
+      "date": "2024-06-05T14:17:54Z",
+      "windowTitle": "Meet - uus-dzji-wsj - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/uus-dzji-wsj?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 108,
+      "mouse": 14,
+      "date": "2024-06-05T14:18:54Z",
+      "windowTitle": "Bogdan Tenea - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/ulE4Q0AAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 260,
+      "mouse": 2,
+      "date": "2024-06-05T14:19:54Z",
+      "windowTitle": "XO Platform - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#search/beginner+mind/FMfcgzQVwnXcRDzcDxsdGJxJHWfckBjv",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T14:10:00Z"
+}

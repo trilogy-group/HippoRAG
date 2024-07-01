@@ -1,0 +1,174 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "docs.google.com",
+    "Crossover"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-04T06:25:53Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, widgets, and several pinned applications. Notifications area includes network, sound, and date/time display.",
+            "position": "bottom"
+          },
+          {
+            "elementType": "notification",
+            "details": "no Nuta, 10:51 PM Yesterday, Requesting feedback before we start applying this",
+            "position": "bottom right"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+                "url": "https://docs.google.com/document/d",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help. Toolbar with undo, redo, print, spelling and grammar check, zoom controls, styles, and text formatting options."
+                },
+                "content": [
+                  {
+                    "title": "Factory status May 2024 (TPM/Eng)",
+                    "layoutDescription": "Document layout with text and bullet points",
+                    "visibleText": "Factory status April 2024 (TPM/Eng)\n\n— Summary\n\nKanban Slots\nJigsaw (1 slot)\nIgniteTech #1: Security\nIgniteTech #2: Copilot\nIgniteTech Maintenance\nGFI (1 slot)\nInfluitive (2 slots)\nCrossover (1 slot)\nApplied AI (1 slot)\nTelco (3 slots + 1 Ops slot)\nTPM only slots (1 slot)\n\nMaintenance Delivery scorecard\nBurndown charts - road to zero...\nAll BUs\nIgniteTech\nCopperTree\nJigsaw\nInfluitive\nWhat went well:\nResponded well to changing BU priorities - took over and made progress on new goals\nDid much better in meeting commitments - we believe we will deliver all but one of the Commit +\nNew goals in Q2\nTurned around the Messenger slot - delivered more than planned\n\nWhat did not go well: wip\n\nCustomer adoption for Jive Copilot remains very low – only 2 Cloud customers are actively using it\n\nMaintenance\nWe have had a great month. We have already delivered 88% of our Q2 orders (goal: 20 tickets per SE7), and we are on track to overhaul for all BUs.\nWe removed 62% of our backlog in Q2 so far and are on track to eliminate our backlog in Q2.\nYou can find the delivery scorecard and the burndown charts at the bottom of the document.\n\nEarly Customer Adoption\nPMs hired in April were assigned to 3 BUs (Ignite, Jigsaw, Influitive). We made progress, but results are below what we would have wanted:\nMessenger: of 20 customers, 4 customers showed interest, none has concrete upgrade plans (many went to wait until the new version is proven stable)\nJive Security: Of 12 customers, 3 are interested in upgrading.\nJive Cloud AI Copilot: 2 customers use it actively, 7 have it enabled, most have it disabled\n\nWhat went well:\nFocus on customer problems - conducted calls to understand their problems (for projects in early stages), help them use the product (for AI features), or get them to upgrade (for defense projects)\nFocus on business value: analyzing usage (e.g. Jive Copilot Usage Report) and acting upon it\n\nWhat did not go well:\nWe started without a clear framework and spent a time aligning expectations, navigating our org, or doing work that we did actually believe to be in our scope\nWe focused on a subset of customers which we believed to be more interested and got low response rates. We should have contacted all customers to increase the size of the early adoption pool.\nLong adoption cycles for hosted projects (Messenger Jive Security) that require customer effort to install make it impossible to demonstrate customer value during the quarter.\n\nLow engagement rate\n\nImprovements we are fixing this by defining the service\nTPM Slot - Early Adoption Service\n\nOther topics\nCost reduction: tbd\nProviding updates during renewal: TPM will provide content to the Renewals that talks about product investments which will be made available to customers during the renewal process."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T06:28:09Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Google Chrome, File Explorer, Microsoft Edge, Visual Studio Code, and other unidentified applications. System tray includes notifications, language settings (ENG), and clock (9:28 AM, 6/4/2024)",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Factory status May 2024 (TPM/Eng) - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help. Toolbar with undo, redo, print, spelling and grammar check, styles, zoom, and other editing options. Right side panel with document outline and tools for comments, share, and document status."
+                },
+                "content": [
+                  {
+                    "title": "Factory status May 2024 (TPM/Eng)",
+                    "layoutDescription": "Two-column layout",
+                    "visibleText": "Summary\nSlot Delivery\nIn numbers:\n17 commit goals: 6 completed, 8 on track, 3 off track (which, we may fail completing 1)\n7 stretch goals: 1 canceled, 3 on track, 3 off track\nWhat went well:\nResponded well to changing BU priorities - took over and made progress on new goals\nDid much better in meeting commitments - we believe we will deliver all but one of the Commit + New goals in Q2\nTurned around the Messenger slot - delivered more than planned\nWhat did not go well: wip\nCustomer adoption for Jive Colpilot remains very low – only 2 Cloud customers are actively using it\nMaintenance\nMaintenance had a great month. We have already delivered 88% of our Q2 orders (goal: 20 tickets per SE7), and we are on track for overdeliver for all BUs.\nOur backlog age will go down when we remove our backlog.\nYou can find the delivery scorecard and the burndown charts at the bottom of the document.\nEarly Customer Adoption\nPMs hired in April were assigned to 3 BUs (Ignite, Jigsaw, Influitive). We made progress, but results are below what we would have wanted:\nMessenger: of 20 customers, 4 customers showed interest, none has concrete upgrade plans (many went live at Q1 of the customers are prospective)\nJive Security: 12 customers, 3 are interested in upgrading.\nJive Colpilot: 2 customers use it actively, 7 have it enabled, most have it disabled\nInfluitive AI feature: outreach started recently\nWhat went well:\nFocus on customer problems - conducted calls to understand their problems (for projects in early stages), help them use the product (for AI features), or get them to upgrade (for defense projects)\nFocus on business value: analyzing usage (e.g., Jive Colpilot Usage Report) and acting upon it\nWhat did not go well:\nWe started without a clear framework and spent time aligning expectations, navigating our org, or doing work that we did actually believe to be in our scope\nWe used on a subset of customers which we believed to be more interested and got low response rates. We should have contacted all customers to increase the size of the early adoption pool.\nLong procedural cycles for host projects (Messenger, Jive HOP) make it impossible to demonstrate customer value during the quarter.\nLow response/engagement rate."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in reading and editing a Google Docs document titled 'Factory status May 2024 (TPM/Eng)'. The document contains detailed information about various project statuses, including Kanban slots, maintenance updates, early customer adoption, and other topics. The user is reviewing sections related to slot delivery, maintenance, and early customer adoption, focusing on what went well and what did not go well in these areas.",
+    "The user is also seen interacting with a notification from Dragos Nuta, requesting feedback before applying certain changes. This indicates that the user is involved in collaborative work, likely providing or receiving feedback on the document's content. The document outlines specific goals, achievements, and areas needing improvement, suggesting that the user is preparing or updating a status report for a team or project.",
+    "The user is utilizing Google Chrome to access the Google Docs document. The browser window is maximized, and the user is actively navigating through the document, which includes a menu bar with various editing tools and a right-side panel with document outline and tools for comments, sharing, and document status. The user is focused on detailed sections of the document, indicating thorough review and possibly making edits or notes."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in reading and editing a Google Docs document without any visible interaction with AI tools for code suggestions, research, or debugging purposes.",
+  "activities": [
+    "READING_SPEC",
+    "WRITING_SPEC",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "READING_SPEC",
+  "doubts": [],
+  "confidenceScore": 100,
+  "events": [
+    {
+      "keyboard": 10,
+      "mouse": 28,
+      "date": "2024-06-04T06:25:08Z",
+      "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 74,
+      "mouse": 7,
+      "date": "2024-06-04T06:26:07Z",
+      "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 87,
+      "mouse": 0,
+      "date": "2024-06-04T06:27:07Z",
+      "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 22,
+      "date": "2024-06-04T06:28:07Z",
+      "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 31,
+      "mouse": 7,
+      "date": "2024-06-04T06:29:07Z",
+      "windowTitle": "WorkSmart",
+      "processName": "Crossover",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-04T06:20:00Z"
+}

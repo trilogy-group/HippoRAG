@@ -1,0 +1,274 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "github.com",
+        "webstorm64"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T10:32:43Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, File Explorer, Microsoft Edge, Visual Studio Code, and system tray with notifications, sound, network, and battery status icons, and a clock showing '13:24 06/14/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "xo-hiring-monorepo",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "menu bar with File, Edit, View, Go, Run, Terminal, Help. Sidebar with Explorer, Search, Source Control, Run and Debug, Extensions. Status bar with information about language services, encoding, indentation, and line/column number."
+                                },
+                                "content": [
+                                    {
+                                        "title": "index.ts",
+                                        "layoutDescription": "editor open with code",
+                                        "visibleText": "async function refresh(sfClient: AxiosInstance, id: string): Promise<void> {\n await sfClient.sandboxRefresh(request: async (): Promise<void> => {\n const response = await AxiosRequest({\n url: 'https://example.com/api',\n method: 'POST',\n headers: {\n 'Authorization': 'Bearer ' + sfClient.getAuthToken(),\n 'Content-Type': 'application/json'\n },\n data: {\n 'id': '012QD0000000gUAAQ',\n 'type': 'refresh'\n }\n });\n return response.data;\n });\n}\n\nfunction getRequestConfig(): Headers {\n return {\n 'Accept-Encoding': 'gzip',\n };\n}\n\nasync function getServiceUserInfo(): Promise<clientId: string, cli..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T10:35:09Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, widgets, and several pinned applications. Notification area includes network, sound, and clock icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+                                "url": "https://github.com/trilogy-group/xo-hiring-monorepo@bb9eaf7",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Address bar, tabs, navigation buttons, profile icon, and extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "GitHub Actions - Build Failed",
+                                        "layoutDescription": "Text and code editor layout",
+                                        "visibleText": "Summary\n\nbuild\nfailed minutes ago in 3m 15s\n\nJobs\n\nCheck modified projects\n\nPrepare CDK parameters\n\nRun actions/setup-cdk@v8\n\nDeploy to env\n\n1 Run chmod +x cli.sh\n2 chmod +x cli.sh\n3 env=\"prod\"\n4 projects=\"\"\n5 echo \"Projects: $projects\"\n6 echo \"Env: $env\"\n7\n8 if [ \"$#\" -eq 2 ]; then\n9 ./cli.sh prepare $env $projects -- --debug\n10 ./cli.sh deploy $env $projects -- --debug\n11 else\n12 echo \"Nothing to deploy!\"\n13 fi\n14\n15 shell: /usr/bin/bash -e {0}\n16 env:\n17 GITHUB_TOKEN: \"\"\n18 AWS_CLI_VERSION: 2.4\n19 USE_GIT: false\n20 VERBOSE: false\n21 LIGHTSAIL: false\n22 INSTALL_USER: /usr/local\n23 MONITOR: false\n24 ROOTDIR: \"/\"\n25 TZ: UTC\n26 NPM_PACKAGES_TOKEN: \"\"\n27 Projects: 0\n28 deploy.sh: 0\n29 proxy src/scripts.sh qa cli\n30 proxy src/minos-pre-preplications.sh/produter site-reacher stats-tracker translationed patterns tsconfig.json devoploader watcher xo-al-coach -d --debug\n31 (03:18) [INFO] Scanning path '/home/xo-hiring-monorepo/xo-hiring-monorepo/prox (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'production'\n33 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'sandbox'\n34 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Track 'PrepareProject'\n35 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Series 'Prepare'\n36 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Verification 'PrepareVerification'\n37 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'production'\n38 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'sandbox'\n39 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Verification 'PrepareVerification'\n40 (03:18) [DEBUG] Adding metadata to the deployment 'auth': AfterDeployment 'AfterDeployment'\n41 (03:18) [DEBUG] Adding metadata to the deployment 'auth': AfterDeployment 'AfterDeploymentLogic'\n42 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Verification 'Stack' 'PrepareVerificationStack'\n43 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'production'\n44 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'sandbox'\n45 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Verification 'Stack' 'PrepareVerificationStack'\n46 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'production'\n47 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'sandbox'\n48 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Verification 'Stack' 'PrepareVerificationStack'\n49 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'production'\n50 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'sandbox'\n51 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Verification 'Stack' 'PrepareVerificationStack'\n52 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'production'\n53 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'sandbox'\n54 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Verification 'Stack' 'PrepareVerificationStack'\n55 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'production'\n56 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'sandbox'\n57 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Verification 'Stack' 'PrepareVerificationStack'\n58 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'production'\n59 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'sandbox'\n60 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Verification 'Stack' 'PrepareVerificationStack'\n61 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'production'\n62 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'sandbox'\n63 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Verification 'Stack' 'PrepareVerificationStack'\n64 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'production'\n65 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'sandbox'\n66 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Verification 'Stack' 'PrepareVerificationStack'\n67 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'production'\n68 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'sandbox'\n69 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Verification 'Stack' 'PrepareVerificationStack'\n70 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'production'\n71 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'sandbox'\n72 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Verification 'Stack' 'PrepareVerificationStack'\n73 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'production'\n74 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'sandbox'\n75 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Verification 'Stack' 'PrepareVerificationStack'\n76 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'production'\n77 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'sandbox'\n78 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Verification 'Stack' 'PrepareVerificationStack'\n79 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'production'\n80 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'sandbox'\n81 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Verification 'Stack' 'PrepareVerificationStack'\n82 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'production'\n83 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'sandbox'\n84 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Verification 'Stack' 'PrepareVerificationStack'\n85 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'production'\n86 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'sandbox'\n87 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Verification 'Stack' 'PrepareVerificationStack'\n88 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'production'\n89 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'sandbox'\n90 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Verification 'Stack' 'PrepareVerificationStack'\n91 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'production'\n92 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'sandbox'\n93 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Verification 'Stack' 'PrepareVerificationStack'\n94 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'production'\n95 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'sandbox'\n96 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Verification 'Stack' 'PrepareVerificationStack'\n97 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'production'\n98 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'sandbox'\n99 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Verification 'Stack' 'PrepareVerificationStack'\n100 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'production'\n101 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'sandbox'\n102 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Verification 'Stack' 'PrepareVerificationStack'\n103 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'production'\n104 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'sandbox'\n105 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Verification 'Stack' 'PrepareVerificationStack'\n106 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'production'\n107 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'sandbox'\n108 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Verification 'Stack' 'PrepareVerificationStack'\n109 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'production'\n110 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'sandbox'\n111 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Verification 'Stack' 'PrepareVerificationStack'\n112 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'production'\n113 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'sandbox'\n114 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Verification 'Stack' 'PrepareVerificationStack'\n115 (03:18) [DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'production'\n116 (03:18) [DEBUG]"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T10:36:59Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications. Displays the system tray with network, sound, and battery status icons, as well as the date and time '12:37 PM 6/14/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+                                "url": "https://github.com/trilogy-group/xo-hiring-monorepo",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs for GitHub, AWS, and other sites. Address bar, navigation buttons, and profile icon visible."
+                                },
+                                "content": [
+                                    {
+                                        "title": "build",
+                                        "layoutDescription": "content in a structured format",
+                                        "visibleText": "Summary\nbuild\nfailed now in 4s\nJobs\nSet up job\nRun actions/checkout@v3\nRun runfor(9)install-aws-cli-action@v1\nConfigure AWS\nInstall CDK project\nCheck modified projects\nPrepare CDK parameters\nDeploy to env\nRun chmod +x cli.sh\nProjects: auth,gv-verification,grading-bot,indexed-mail-gen prod\n\ndeploy@.0.1\ntsx src/main.ts prepare p459 auth,gv-verification,grading-bot,indexed-mail-gen --cli --debug\n\n(13:30) [INFO] Scanning path: /home/runfor/work/xo-hiring-monorepo/xo-hiring-monorepo\n[DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'production'\n[DEBUG] Adding metadata to the deployment 'auth': Configuration for env 'sandbox'\n[DEBUG] Adding metadata to the deployment 'auth': Prepare 'PrepareProject'\n[DEBUG] Adding metadata to the deployment 'auth': Stack 'PrepareStack' repeated multiple times"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively writing code in WebStorm, as evidenced by the open IDE and the visible code in the 'index.ts' file. The code includes functions for refreshing a sandbox environment, getting request configurations, and retrieving service user information. The user is working on a project related to AWS Secrets Manager, as indicated by the code comments and function names.",
+        "The user is also reviewing code on GitHub. The screenshots show the user navigating through GitHub Actions pages, specifically looking at build logs and deployment configurations. The user is examining the output of a failed build, which includes detailed logs of the deployment process and metadata configurations for different environments such as 'production' and 'sandbox'.",
+        "The user is engaged in debugging and troubleshooting a failed deployment. The GitHub Actions logs show various steps in the deployment process, including setting up the job, running actions, configuring AWS, and deploying to the environment. The user is likely trying to identify the cause of the failure and resolve it.",
+        "The user is navigating through different tabs in the WebStorm IDE, which suggests they are working on multiple files or aspects of the project simultaneously. The open tabs include various configuration files and scripts related to the deployment process, indicating a focus on infrastructure as code (IaC) and deployment automation."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily focused on writing and reviewing code, as well as debugging deployment issues. There are no visible AI chat interfaces or AI-generated code suggestions in the IDE or on GitHub.",
+    "activities": [
+        "WRITING_CODE",
+        "REVIEWING_CODE",
+        "NAVIGATING_CODE"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "IAC"
+    ],
+    "programmingLanguages": [
+        "TYPESCRIPT"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 4,
+            "mouse": 20,
+            "date": "2024-06-14T10:30:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514511544/job/26226855351",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 46,
+            "date": "2024-06-14T10:31:17Z",
+            "windowTitle": "xo-hiring-monorepo ? index.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T10:32:17Z",
+            "windowTitle": "xo-hiring-monorepo ? index.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 2,
+            "mouse": 0,
+            "date": "2024-06-14T10:33:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514511544/job/26226855351",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 15,
+            "mouse": 22,
+            "date": "2024-06-14T10:34:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514511544/job/26226855351",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 21,
+            "mouse": 18,
+            "date": "2024-06-14T10:35:17Z",
+            "windowTitle": "Deploy environment on push ? Workflow runs ? trilogy-group/xo-hiring-monorepo - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/workflows/deploy-env-on-push.yml",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 18,
+            "mouse": 22,
+            "date": "2024-06-14T10:36:17Z",
+            "windowTitle": "Deploy environment on push ? Workflow runs ? trilogy-group/xo-hiring-monorepo - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/workflows/deploy-env-on-push.yml",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 6,
+            "mouse": 30,
+            "date": "2024-06-14T10:37:17Z",
+            "windowTitle": "Deploy environment on push ? Workflow runs ? trilogy-group/xo-hiring-monorepo - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/workflows/deploy-env-on-push.yml",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 25,
+            "mouse": 27,
+            "date": "2024-06-14T10:38:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514770164/job/26227606906",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-14T10:39:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514770164/job/26227606906",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T10:30:00Z"
+}

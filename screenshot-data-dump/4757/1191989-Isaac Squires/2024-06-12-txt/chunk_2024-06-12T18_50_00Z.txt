@@ -1,0 +1,197 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "meet.google.com",
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T18:59:28Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Word, Microsoft Excel, Visual Studio Code, and other unidentified applications. Displays the time as 12:59 PM and date as 12 Jun 2024. System tray includes network, sound, and battery status icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "CoachBot Alerts - Chat - Google Chrome",
+                                "url": "mail.google.com/mail/u/0/#chat/dm/",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, Google account avatar, navigation buttons, and extension icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Gmail Chat with Simon Said",
+                                        "layoutDescription": "Chat interface with message threads",
+                                        "visibleText": "Simon Said\n1 min\nthat's actually one of the things I wanted to cover, as the moment I bring this up I expect a bit of chaos, especially since Nima, Jacob, and Pranav are all friends. If we set this in motion and we lose 3+ people, would this be a good time for that or would we rather delay it?\n\nWe want to make that change before the start of Q4\n\nprobably sooner is better - when we chat we could brainstorm how to go about that"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a chat conversation on Gmail with a person named Simon Said. The conversation revolves around a potential change that might cause some chaos, especially since certain individuals are friends. The user is discussing the timing of this change and suggests making it before the start of Q4. They also mention brainstorming how to go about the change during their chat.",
+        "The user has a task list open on the right side of the screen, which includes various tasks such as addressing an authentication error on UGS, reviewing Q2 progress and Q3 plan, and discussing revenue models for each product. The tasks also include personal items like getting a tablet for Phil's son and entering grades to support US grades only.",
+        "The user is actively using Google Chrome, as indicated by the open tabs and the active window. The tabs include various work-related and possibly personal sites, such as CoachBot Alerts, DevFactory, and Magic Academy. The user is also using Gmail for both email and chat functionalities, as seen in the screenshot."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a chat conversation and managing tasks through Gmail and Google Chrome. No AI chat interfaces or AI-driven suggestions are visible in the screenshots.",
+    "activities": [
+        "EMAIL",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "CHATTING_WITH_TEAM",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-12T18:50:54Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-12T18:51:54Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 3,
+            "date": "2024-06-12T18:52:54Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-12T18:53:54Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T18:54:54Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T18:55:54Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T18:56:54Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 18,
+            "date": "2024-06-12T18:57:54Z",
+            "windowTitle": "WS.Eng AI Adoption - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxFJbGvplSvzbnTNbVTQfZtB",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 84,
+            "mouse": 28,
+            "date": "2024-06-12T18:58:54Z",
+            "windowTitle": "CoachBot Alerts - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/iXTDrUAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 215,
+            "mouse": 4,
+            "date": "2024-06-12T18:59:54Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-12T18:50:00Z"
+}

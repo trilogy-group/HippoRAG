@@ -1,0 +1,291 @@
+{
+    "candidateId": 1444536,
+    "apps": [
+        "docs.google.com",
+        "Code",
+        "chatgpt.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T12:51:35Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Windows Start, Microsoft Edge, File Explorer, and Visual Studio Code. Displays the time as '13:51:37' and date as '14/06/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "test.py - tools - Visual Studio Code",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Top bar with File, Edit, Selection, View, Go, Run, Terminal tabs. Side bar with Explorer, Search, Source Control, Run, Extensions icons. Bottom bar with Problems, Output, Debug Console, Terminal tabs."
+                                },
+                                "content": [
+                                    {
+                                        "title": "test.py",
+                                        "layoutDescription": "Code editor open with Python code",
+                                        "visibleText": "def test1():\n res = sf_connection.get_applications(['GA-Cat.*'])\n print(res[:10])\n print(res[-10:])\ndef test2():\n with open('config.json') as f:\n config = json.load(f)\n print(config)\n credentials = config['gsheet_credentials']\n sheet_id = config['campaigns'][0]['sheet_id']\n client = authenticate_gspread(credentials)\n sf_connection = SalesforceConnection(config['username'], config['password'], config['security_token'])\n res = sf_connection.get_applications(['GA-Cat.*'])\n data = [[] for _ in range(len(res)+1)]\n sheet = client.open_by_key(sheet_id).sheet1\n data[0] = ['#', 'Account ID', 'Application ID', 'Campaign', 'Advertised Title', 'Date', 'Country', 'Outcome']\n i = 1\n for row in res:\n # Processing each row\n # More code likely follows but is not visible"
+                                    },
+                                    {
+                                        "title": "Terminal",
+                                        "layoutDescription": "Terminal output visible",
+                                        "visibleText": "client = authenticate_gspread(credentials)\nSELECT Id, AccountId, CampaignId, CreatedDate, Lead_Source_Campaign__c, Advertised_Title_C, Candidate_Country_C, CCAT_Score_C, Last_Active_Stage_C, StageName\nFROM Opportunity WHERE\n CampaignId IN (SELECT Id from Campaign WHERE Name like 'GA-Cat.%') ORDER BY CreatedDate\nFound 2000 records\nFound 2519 records\nc:\\Users\\xouser\\Projects\\tools\\camp DeprecationWarning: [Deprecated] In version 6.0.0: Method signature's arguments 'range_name' and 'values' will change their order. We recommend using named arguments for minimal impact. In addition, the arguments 'values' will be mandatory of type: 'List[List]'. (ex) worksheet.update(values = [[]], range_name=)\nsheet.update('A1', data)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T12:54:53Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Windows Start, and various pinned applications. Displays the time as 13:54:55 and date as 14/06/2024. Language set to ENG.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "lambda_function.py - campaign-tracking - Visual Studio Code",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Top bar with File, Edit, Selection, View, Go, Run, Terminal, Help. Side bar with icons for Explorer, Search, Source Control, Run and Debug, Extensions. Bottom bar with Problems, Output, Debug Console, Terminal tabs."
+                                },
+                                "content": [
+                                    {
+                                        "title": "File Explorer",
+                                        "layoutDescription": "Vertical list on left",
+                                        "visibleText": "OPEN EDITORS\n- Welcome\n- test.py campaign-tracking U\n- lambda_function.py campaign-tracking 1, U\n- gsheets.py campaign-tracking U\n- config.json campaign-tracking U\n- salesforce.py campaign-tracking U\nTOOLS\n- campaign-tracking\n - __pycache__\n - config.json\n - credentials.json\n - gsheets.py\n - lambda_function.py\n - salesforce.py\n - test.py\n - .gitattributes\n - README.md"
+                                    },
+                                    {
+                                        "title": "Python Code",
+                                        "layoutDescription": "Main editor center",
+                                        "visibleText": "import salesforce;\ndef lambda_handler(event, context):\n # Salesforce login credentials\n username = event['username']\n password = event['password']\n security_token = event['security_token']\n # Campaign config\n campaigns = event['campaigns']\n for campaign in campaigns:\n # Code continues beyond visible area"
+                                    },
+                                    {
+                                        "title": "Terminal Output",
+                                        "layoutDescription": "Bottom panel",
+                                        "visibleText": "client = authenticate_gspread(credentials)\nSELECT Id, AccountId, CampaignId, CreatedDate, Lead_Source_Campaign__c, Advertised_Title__c, Candidate_Country__c, CCAT_Score__c, Last_Active_Stage__c, StageName\nFROM Opportunity WHERE\n CampaignId IN (SELECT Id from Campaign WHERE Name like 'GA-Cat.%') ORDER BY CreatedDate\nFound 2000 records\nFound 2519 records\nc:\\Users\\xouser\\Projects\\tools\\camp DeprecationWarning: [Deprecated] In version 6.0.0: Method signature's arguments 'range_name' and 'values' will change their order. We recommend using named arguments for minimal impact. In addition, the arguments 'values' will be mandatory of type: 'List[List]'. (ex) Worksheet.update(values = [[]], range_name=)\nsheet.update('A1', data)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T12:56:43Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Windows Timeline, Edge, File Explorer, and system tray with notifications, sound, network, and battery status icons",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "gsheets.py - campaign-tracking - Visual Studio Code",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "UI bar at top, sidebar on the left, editor in the center, bottom bar with problems, output, debug console, terminal, and ports tabs"
+                                },
+                                "content": [
+                                    {
+                                        "title": "gsheets.py",
+                                        "layoutDescription": "editor with multiple tabs",
+                                        "visibleText": "import gspread\n\n# Set up the credentials\ndef authenticate_gspread(json_credentials):\n    scope = ['https://www.googleapis.com/auth/spreadsheets']\n    client = gspread.service_account_from_dict(json_credentials, scopes=scope)\n    return client\n\nclient = authenticate_gspread(credentials)\nSELECT Id, AccountId, CampaignId, CreatedDate, Lead_Source_Campaign__c, Advertised_Title__c, Candidate_Country__c, CCAT_Score__c, Last_Active_Stage__c, StageName\nFROM Opportunity WHERE\n    CampaignId IN (SELECT Id from Campaign WHERE Name like 'GA-Cat.%') ORDER BY CreatedDate\nFound 2000 records\nFound 2524 records\nc:\\Users\\xouser\\Projects\\tools\\campaign-tracking\nDeprecationWarning: [Deprecated] In version 6.0.0]: Method signature's arguments 'range_name' and 'values' will change their order. We recommend using named arguments for minimal impact. In addition, the arguments 'values' will be mandatory of type: 'List[List]'. (ex) Worksheet.update(values = [[]], range_name=)\nsheet.update('A1', data)\nPS C:\\Users\\xouser\\Projects\\tools\\campaign-tracking"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in writing Python code within Visual Studio Code. They are working on a project named 'campaign-tracking' and have multiple files open, including 'test.py', 'lambda_function.py', 'gsheets.py', 'config.json', and 'salesforce.py'. The code in 'test.py' involves fetching application data from Salesforce and processing it. The terminal output shows SQL queries being executed to retrieve records from a Salesforce database, indicating backend development work.",
+        "In 'lambda_function.py', the user is defining a lambda handler function to handle Salesforce login credentials and campaign configurations. The code includes importing the 'salesforce' module and setting up credentials and campaign configurations. This suggests the user is working on integrating Salesforce with AWS Lambda functions, which is a backend task.",
+        "The user is also working on 'gsheets.py', where they are setting up Google Sheets API credentials and defining a function to authenticate and interact with Google Sheets. The code includes importing the 'gspread' library and defining the 'authenticate_gspread' function. This indicates the user is integrating Google Sheets with their application, which involves backend development.",
+        "The user has a Google Sheets document open in their web browser, specifically a spreadsheet with the URL 'docs.google.com/spreadsheets/d/15WDuq_ZvUa2BRfXSPOvmFny7LWtfK1bDU_WN96haEtg/edit#gid=0'. This suggests they are referencing or updating data in the spreadsheet, which is part of their development workflow.",
+        "The user is also interacting with ChatGPT on 'chatgpt.com', as indicated by the URL 'chatgpt.com/c/0dda060a-caa8-47b5-acfb-08cca56a5dd5'. This interaction likely involves seeking assistance or generating code snippets, which is a common use case for AI tools in development."
+    ],
+    "aiUseSummary": "The user is utilizing ChatGPT for assistance in their development workflow. They are likely using it to generate code snippets, seek guidance on specific coding tasks, or troubleshoot issues. The interaction with ChatGPT is evident from the URL 'chatgpt.com/c/0dda060a-caa8-47b5-acfb-08cca56a5dd5'. This use of AI tools helps enhance productivity by providing quick solutions and suggestions, allowing the user to focus on more complex aspects of their work.",
+    "activities": [
+        "WRITING_CODE",
+        "RESEARCH"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "DB"
+    ],
+    "programmingLanguages": [
+        "PYTHON",
+        "SQL"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "OPENAI_CHATGPT"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 8,
+            "mouse": 26,
+            "date": "2024-06-14T12:50:25Z",
+            "windowTitle": "Copy of Google Ads - Direct - New - Google Sheets - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/spreadsheets/d/15WDuq_ZvUa2BRfXSPOvmFny7LWtfK1bDU_WN96haEtg/edit#gid=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 14,
+            "date": "2024-06-14T12:51:25Z",
+            "windowTitle": "test.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 8,
+            "date": "2024-06-14T12:52:25Z",
+            "windowTitle": "Salesforce SOQL Query Python - Google Chrome",
+            "processName": "chatgpt.com",
+            "visitingUrl": "chatgpt.com/c/0dda060a-caa8-47b5-acfb-08cca56a5dd5",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 5,
+            "date": "2024-06-14T12:53:25Z",
+            "windowTitle": "gsheets.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 7,
+            "date": "2024-06-14T12:54:25Z",
+            "windowTitle": "test.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 9,
+            "mouse": 15,
+            "date": "2024-06-14T12:55:24Z",
+            "windowTitle": "lambda_function.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 5,
+            "mouse": 8,
+            "date": "2024-06-14T12:56:24Z",
+            "windowTitle": "gsheets.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 32,
+            "mouse": 18,
+            "date": "2024-06-14T12:57:24Z",
+            "windowTitle": "? lambda_function.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 13,
+            "mouse": 9,
+            "date": "2024-06-14T12:58:24Z",
+            "windowTitle": "test.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 23,
+            "mouse": 14,
+            "date": "2024-06-14T12:59:24Z",
+            "windowTitle": "? test.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T12:50:00Z"
+}

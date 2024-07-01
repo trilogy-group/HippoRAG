@@ -1,0 +1,470 @@
+{
+    "candidateId": 2368956,
+    "apps": [
+        "Notes",
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-06T14:41:58Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Microsoft Edge, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Microsoft Teams, Microsoft Outlook, File Explorer, Microsoft OneNote, Microsoft To Do, Snipping Tool, Microsoft Store, Windows Security, Calculator, Settings, Help, and a search bar",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Microsoft Edge",
+                        "windows": [
+                            {
+                                "title": "Re: Aurea version 2024 - Risk of failing PCI certification: next steps",
+                                "url": "https://mail.google.com/mail/u/0/#inbox",
+                                "position": "left",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Browser tabs, address bar, bookmarks bar, navigation buttons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email Content",
+                                        "layoutDescription": "Email body visible",
+                                        "visibleText": "Chris White,\n\nThe new version is released - Aurea version 2024 has just been released.\n\nPlease find below the main points:\n\n- Aurea Version 2024\n- Main features:\n - Enhanced documentation\n - Improved quality of code and maintainability\n\nI also have attached the development plan and risk analysis of not complying with PCI DSS for the existing issues.\n\n- Attachment of a report with a detailed analysis of the legal implications of PCI DSS and other related compliance issues.\n- The analysis will also include some risks, including those related to the quality of code and maintainability.\n\nFor additional information and to arrange a meeting to discuss this further, please reply to this email or contact me at the details provided below.\n\nKind Regards,\nChris White\nchris.white@example.com\nPhone: 555-1234-567"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Notes",
+                                "url": "https://docs.google.com",
+                                "position": "center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Browser tabs, address bar, bookmarks bar, navigation buttons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notes Content",
+                                        "layoutDescription": "Notes visible",
+                                        "visibleText": "- Review the attached documents\n- Prepare a report on the implications of not complying with PCI DSS\n- Arrange a meeting with the team to discuss further steps"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Teams",
+                        "windows": [
+                            {
+                                "title": "Microsoft Teams Meeting",
+                                "position": "bottom center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Conference UI, participant icons, mute button, camera button, share screen button, more options button"
+                                },
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "R",
+                                            "expression": "Neutral"
+                                        },
+                                        {
+                                            "name": "Mitchell Conforte",
+                                            "expression": "Neutral"
+                                        },
+                                        {
+                                            "name": "Ranjit Padathara",
+                                            "expression": "Neutral"
+                                        },
+                                        {
+                                            "name": "Pete",
+                                            "expression": "Neutral"
+                                        }
+                                    ]
+                                },
+                                "content": [
+                                    {
+                                        "title": "Participants",
+                                        "layoutDescription": "Video call screen",
+                                        "visibleText": "Initials R, Mitchell Conforte, Ranjith Padathara, Pete"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-06T14:46:21Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Chrome, Finder, Microsoft Edge, Slack, and other unidentified applications. Also includes system status icons like Wi-Fi, battery, and clock displaying '2:46 PM'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Gmail - Mitchell Horowitz - Gmail",
+                                "position": "top left",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Email interface with sidebar, search bar, and main content area"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email Content",
+                                        "layoutDescription": "List of emails",
+                                        "visibleText": "Mitchell Horowitz\n\nI understand your concern regarding the Q2 results and the challenges we're facing with the new regulations. I've scheduled a meeting for us to discuss this in detail next week.\n\nI understand that we are limited in the type of automated solutions that may help us with compliance, but I'm confident that our team can come up with a viable strategy.\n\nMitchell Horowitz\n\nI understand the challenges, and I appreciate your insights.\n\nMitchell Horowitz\n\nI understand, do you have any department updates?\n\nMitchell Horowitz\n\nThanks for the time you're dedicating to this issue."
+                                    },
+                                    {
+                                        "title": "Email Content",
+                                        "layoutDescription": "Email thread",
+                                        "visibleText": "Mitchell Horowitz\n\nI understand, do you have any department updates?\n\nMitchell Horowitz\n\nThanks for the time you're dedicating to this issue."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Gmail - Mitchell Horowitz - Gmail",
+                                "position": "top right",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Email interface with sidebar, search bar, and main content area"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email Content",
+                                        "layoutDescription": "List of emails",
+                                        "visibleText": "Mitchell Horowitz\n\nI understand your concern regarding the Q2 results and the challenges we're facing with the new regulations. I've scheduled a meeting for us to discuss this in detail next week.\n\nI understand that we are limited in the type of automated solutions that may help us with compliance, but I'm confident that our team can come up with a viable strategy.\n\nMitchell Horowitz\n\nI understand the challenges, and I appreciate your insights.\n\nMitchell Horowitz\n\nI understand, do you have any department updates?\n\nMitchell Horowitz\n\nThanks for the time you're dedicating to this issue."
+                                    },
+                                    {
+                                        "title": "Email Content",
+                                        "layoutDescription": "Email thread",
+                                        "visibleText": "Mitchell Horowitz\n\nI understand, do you have any department updates?\n\nMitchell Horowitz\n\nThanks for the time you're dedicating to this issue."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Edge",
+                        "windows": [
+                            {
+                                "title": "Notes",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Text editor interface"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notes Content",
+                                        "layoutDescription": "Text document",
+                                        "visibleText": "Notes\n\n- Review the new regulations.\n- Discuss the impact with stakeholders.\n- Set up a meeting to discuss further.\n- Ensure all team members are informed.\n- Check how other companies are handling this.\n- Review internal policies.\n- Ensure compliance with the new regulations.\n- Set up a follow-up meeting.\n- Ensure all stakeholders are on the same page.\n- Review the situation next week.\n\nMitchell Horowitz\n\n- Review the new regulations.\n- Discuss the impact with stakeholders.\n- Set up a meeting to discuss further.\n- Ensure all team members are informed.\n- Check how other companies are handling this.\n- Review internal policies.\n- Ensure compliance with the new regulations.\n- Set up a follow-up meeting.\n- Ensure all stakeholders are on the same page.\n- Review the situation next week."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Slack",
+                        "windows": [
+                            {
+                                "title": "Slack Main Window",
+                                "position": "left",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Chat interface with sidebar and main chat area"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Slack Messages",
+                                        "layoutDescription": "Chat messages",
+                                        "visibleText": "Karthik (Kris) Presenting\n\nVirtual messages\n\nLet's review and discuss\n\nTeam Meeting\n\nWe should focus on\n\nMitchell Horowitz\n\n- Review the new regulations.\n- Discuss the impact with stakeholders.\n- Set up a meeting to discuss further.\n- Ensure all team members are informed.\n- Check how other companies are handling this.\n- Review internal policies.\n- Ensure compliance with the new regulations.\n- Set up a follow-up meeting.\n- Ensure all stakeholders are on the same page.\n- Review the situation next week."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Finder",
+                        "windows": []
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-06T14:47:43Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a system clock showing '2:47 PM' and a Spotlight search icon.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Gmail",
+                        "windows": [
+                            {
+                                "title": "Email from Mitchell Horowitz",
+                                "position": "top left",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Mail toolbar with buttons for composing, replying, forwarding, and more"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email from Mitchell Horowitz",
+                                        "layoutDescription": "Email view layout",
+                                        "visibleText": "Mitchell Horowitz\n\nI understand that you are frustrated but I'm trying to understand what problems you may have with the current implementation of our software. Could you please provide more details?\n\nI understand that you are frustrated but I'm trying to understand what problems you may have with the current implementation of our software. Could you please provide more details?\n\nMitchell Horowitz\n\nThanks for the response. Could you let me know exactly how I can help?\n\nThe issue is with our current licensing terms and how we need to work with them.\n\nMitchell Horowitz\n\nI understand. Could you please elaborate on the specific issues?\n\nYeah, I was trying to understand why they may have been set up that way.\n\nMitchell Horowitz\n\nIndeed, do you have any department updates?\n\nMitchell Horowitz\n\nI'm excited for the team to start working on this issue."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Aurea Web Page",
+                                "url": "https://www.aurea.com",
+                                "position": "top right",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Browser toolbar with address bar, refresh, home, and bookmark buttons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Aurea Web Page",
+                                        "layoutDescription": "Web page layout",
+                                        "visibleText": "Aurea\nUnlimited Possibility\n\nAurea helps businesses grow with a unique business model that delivers more value, faster and with less risk. We call this the Unlimited Possibility model.\n\n[Learn more] [Get pricing]"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Chat with Mitchell Horowitz",
+                                "url": "https://chat.aurea.com",
+                                "position": "bottom right",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Chat window with search bar and settings icon"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat with Mitchell Horowitz",
+                                        "layoutDescription": "Chat window layout",
+                                        "visibleText": "Mitchell Horowitz\n\nYeah, I was trying to understand why they may have been set up that way.\n\nMitchell Horowitz\n\nIndeed, do you have any department updates?"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Notes",
+                        "windows": [
+                            {
+                                "title": "Meeting Notes",
+                                "position": "bottom left",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Notes toolbar with buttons for creating a new note, sharing, and more"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Meeting Notes",
+                                        "layoutDescription": "Notes layout",
+                                        "visibleText": "Meeting Notes\n\nAttendees: Mitchell Horowitz, John Doe\n\n1. Review the current project status.\n\n2. Discuss the licensing issues.\n\n3. Set up a follow-up meeting.\n\n4. Discuss any potential risks.\n\n5. Review the next steps for the project.\n\n6. Any other business?\n\nMeeting concluded at 14:30."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Gmail",
+                        "windows": [
+                            {
+                                "title": "Email from Mitchell Horowitz",
+                                "position": "top left",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Mail toolbar with buttons for composing, replying, forwarding, and more"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email from Mitchell Horowitz",
+                                        "layoutDescription": "Email view layout",
+                                        "visibleText": "Mitchell Horowitz\n\nI understand that you are frustrated but I'm trying to understand what problems you may have with the current implementation of our software. Could you please provide more details?\n\nI understand that you are frustrated but I'm trying to understand what problems you may have with the current implementation of our software. Could you please provide more details?\n\nMitchell Horowitz\n\nThanks for the response. Could you let me know exactly how I can help?\n\nThe issue is with our current licensing terms and how we need to work with them.\n\nMitchell Horowitz\n\nI understand. Could you please elaborate on the specific issues?\n\nYeah, I was trying to understand why they may have been set up that way.\n\nMitchell Horowitz\n\nIndeed, do you have any department updates?\n\nMitchell Horowitz\n\nI'm excited for the team to start working on this issue."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in email communication, as evidenced by the Gmail interface being open in multiple screenshots. They are discussing the new Aurea version 2024 release and its compliance with PCI DSS. The user is also coordinating with team members, as seen in the email threads with Mitchell Horowitz, discussing the challenges and next steps for compliance and project updates.",
+        "The user is participating in a video conference call, as shown in the bottom section of the screenshots. The call involves multiple participants, including individuals named R, Mitchell Conforte, Ranjit Padathara, and Pete. The meeting appears to be focused on support for a Messenger upgrade, with one participant presenting their screen.",
+        "The user is taking notes, as indicated by the Notes application being open in the center of the screenshots. The notes include tasks such as reviewing new regulations, discussing impacts with stakeholders, and setting up meetings. This suggests the user is preparing for or documenting discussions related to compliance and project management.",
+        "The user is engaged in a chat conversation within Gmail, specifically with Mitchell Horowitz. The conversation revolves around understanding and addressing issues with the current implementation of their software, indicating a focus on troubleshooting and improving software functionality."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in email communication, note-taking, and participating in a video conference call. No AI chat interfaces or AI-generated content are visible in the screenshots.",
+    "activities": [
+        "EMAIL",
+        "CHATTING_WITH_TEAM",
+        "MEETING"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DOCUMENT_VIEWER_OR_EDITOR"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "EMAIL",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 58,
+            "mouse": 4,
+            "date": "2024-06-06T14:40:09Z",
+            "windowTitle": " Notes\n",
+            "processName": "Notes",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 184,
+            "mouse": 1,
+            "date": "2024-06-06T14:41:09Z",
+            "windowTitle": " Notes\n",
+            "processName": "Notes",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 210,
+            "mouse": 0,
+            "date": "2024-06-06T14:42:09Z",
+            "windowTitle": " Notes\n",
+            "processName": "Notes",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 91,
+            "mouse": 2,
+            "date": "2024-06-06T14:43:09Z",
+            "windowTitle": " DevFactory Mail - Google Chrome\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#chat/dm/8J4uNMAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 78,
+            "mouse": 3,
+            "date": "2024-06-06T14:44:09Z",
+            "windowTitle": " Notes\n",
+            "processName": "Notes",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 107,
+            "mouse": 1,
+            "date": "2024-06-06T14:45:09Z",
+            "windowTitle": " Notes\n",
+            "processName": "Notes",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 21,
+            "mouse": 1,
+            "date": "2024-06-06T14:46:09Z",
+            "windowTitle": " Notes\n",
+            "processName": "Notes",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 44,
+            "mouse": 0,
+            "date": "2024-06-06T14:47:09Z",
+            "windowTitle": " Notes\n",
+            "processName": "Notes",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T14:48:09Z",
+            "windowTitle": " Notes\n",
+            "processName": "Notes",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 19,
+            "mouse": 5,
+            "date": "2024-06-06T14:49:09Z",
+            "windowTitle": " Notes\n",
+            "processName": "Notes",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-06T14:40:00Z"
+}

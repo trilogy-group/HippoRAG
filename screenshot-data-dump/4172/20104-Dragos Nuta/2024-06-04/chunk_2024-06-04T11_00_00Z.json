@@ -1,0 +1,370 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "meet.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-04T11:00:38Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, widgets, and several pinned applications including Google Chrome, Microsoft Edge, and others. System tray includes network, sound, and battery status icons, as well as the date and time display '2:00 PM 6/4/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Factory status May 2024 (TPM/Eng) - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Google Docs toolbar with options for File, Edit, View, Insert, Format, Tools, Extensions, Help, and a search bar. Document tools include undo, redo, print, spelling and grammar check, zoom settings, and text formatting options"
+                },
+                "content": [
+                  {
+                    "title": "Factory status May 2024 (TPM/Eng)",
+                    "layoutDescription": "Text document layout",
+                    "visibleText": "Factory status April 2024 (TPM/Eng) - Summary - Kanban Slots - Jigsaw (1 slot) - IgniteTech #1: Security - IgniteTech #2: Copilot - IgniteTech Maintenance - GFI (1 slot) - Influitive (2 slots) - Stratifyd (1 slot) - Crossover (1 slot) - Applied AI (1 slot) - Telco (3 slots + 1 Ops slot) - TPM only slots (1 slot) - Maintenance Delivery scorecard - Burndown charts - road to zero... - All BUs - IgniteTech - CopperTree - Jigsaw - Influitive - Maintenance - Early Customer Adoption - Improvements: we are fixing this by defining the service - TPM Slot - Early Adoption Service - Add key takeaways (TPM focus on early adoption, everything else is BU responsibility)"
+                  }
+                ]
+              },
+              {
+                "title": "Meet - aqm-tpng-aqq - Google Chrome",
+                "url": "https://meet.google.com/aqm-tpng-a",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Meet interface with options for camera, microphone, captions, present now, more options, and hang up"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Gomi",
+                      "expression": "focused"
+                    },
+                    {
+                      "name": "George Dita",
+                      "expression": "thinking"
+                    },
+                    {
+                      "name": "Dragos Nuta",
+                      "expression": "neutral"
+                    }
+                  ]
+                },
+                "content": [
+                  {
+                    "title": "Meet - aqm-tpng-aqq",
+                    "layoutDescription": "Video conference layout",
+                    "visibleText": "Firat's AI Notetaker - read.ai meeting notes"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T11:05:28Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, File Explorer, and system utilities like volume and network status, as well as the date and time display '6/4/2024 2:05 PM'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Factory status May 2024 (TPM/Eng) - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "left half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Docs interface with menu bar, toolbar, and document content area"
+                },
+                "content": [
+                  {
+                    "title": "Factory status May 2024 (TPM/Eng)",
+                    "layoutDescription": "Text document layout",
+                    "visibleText": "Factory status April 2024 (TPM/Eng)\n\n— Summary\n\nKanban Slots\nJigsaw (1 slot)\nIgniteTech #1: Security\nIgniteTech #2: Copilot\nIgniteTech Maintenance\nGFI (1 slot)\nInfluitive (2 slots)\nStratifyd (1 slot)\nCrossover (1 slot)\nApplied AI (1 slot)\nTelco (3 slots + 1 Ops slot)\nTPM only slots (1 slot)\n\nMaintenance Delivery scorecard\nBurndown charts - road to zero...\nAll BUs\nIgniteTech\nCopperTree\nJigsaw\nInfluitive\n numbers:\nIn commit goals: 5 completed, 7 on track, 2 off track (which one is at highest risk?)\n15 stretch goals: 2 deprioritized, 3 on track, 2 off track, 4 off track (of which 8 new)\n\nWhat went well:\nWhy are we adding new goals when not all commit/stretch goals are met?\nResponded well to changing BU priorities - took over and made progress on...\nDid much better in meeting commitments - we will deliver all but one of the...\nTurned around the Messenger slot - delivered more than planned\n\nWhat did not go well:\nCustomer adoption is low and remains low (details below)\n\nMaintenance\nMaintenance had a great month. We have already delivered 88% of our Q2 orders (80% are on track to overdeliver for Q2 BU).\nWe are over 62% of our backlog in all areas and are on track to eliminate our backlog this year.\nOur backlog will go down when we remove our backlog.\n\nEarly Customer Adoption\nPMs hired in April were assigned to 3 BUs (Ignite, Jigsaw, Influitive). We made progress on what we would have wanted usage/activity remains low:\nMessenger: of 20 customers, 4 customers showed interest, none has concrete...\nWant to wait until the new version is proven stable or are mid-upgrade with their...\nJive Security: of 12 customers, 3 are interested in upgrading.\n\nImprovements: we are fixing this by defining the service\nTPM Slot - Early Adoption Service\nAdd key takeaways (TPM focus on early adoption, everything else is BU responsibility)"
+                  }
+                ]
+              },
+              {
+                "title": "Meet - aqm-tpng-aqq - Google Chrome",
+                "url": "https://meet.google.com/aqm-tpng-a",
+                "position": "right half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Meet interface with video call controls and participant thumbnails"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Firat Gomi",
+                      "expression": "smiling"
+                    },
+                    {
+                      "name": "George Dita",
+                      "expression": "talking"
+                    },
+                    {
+                      "name": "Dragos Nuta",
+                      "expression": "neutral"
+                    }
+                  ]
+                },
+                "content": [
+                  {
+                    "title": "Meet - aqm-tpng-aqq",
+                    "layoutDescription": "Video call layout",
+                    "visibleText": "Firat's AI Notetaker\nread.ai meeting notes"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T11:07:41Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Edge, File Explorer, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '2:07 PM 6/4/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Factory status May 2024 (TPM/Eng) - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "editing toolbar visible with options for File, Edit, View, Insert, Format, Tools, Extensions, Help. Zoom level at 100%, font Calibri, font size 10, bold, italic, underline, text color, and highlight color options visible."
+                },
+                "content": [
+                  {
+                    "title": "Factory status May 2024 (TPM/Eng)",
+                    "layoutDescription": "Document layout with headings and bullet points",
+                    "visibleText": "Factory status April 2024 (TPM/Eng)\n\n— Summary\n\nKanban Slots\nJigsaw (1 slot)\nIgniteTech #1: Security\nIgniteTech #2: Copilot\nIgniteTech Maintenance\nGFI (1 slot)\nInfluitive (2 slots)\nStratifyd (1 slot)\nCrossover (1 slot)\nApplied AI (1 slot)\nTelco (3 slots + 1 Ops slot)\nTPM only slots (1 slot)\n\nMaintenance Delivery scorecard\nBurndown charts - road to zero...\nAll BUs\nIgniteTech\nCopperTree\nJigsaw\nInfluitive\n numbers:\nIn commit goals: 5 completed, 7 on track, 2 off track (which one is at highest risk?)\n15 stretch goals: 2 deprioritized, 3 on track, 2 off track, 4 off track (of which 8 new)\n\nWhat went well:\nWhy are we adding new goals when not all commit/stretch goals are met?\nResponded well to changing BU priorities - took over and made progress on the Messenger slot - did much better in meeting commitments - we will deliver all but one of the goals\nTurned around the Messenger slot - delivered more than planned\n\nWhat did not go well:\nCustomer adoption is low and remains low (details below)\n\nMaintenance\nMaintenance track record over the last two years: delivered 88% of our Q2 orders (80% on time and on 62% to our backlog). We are already overbooked for Q2. All BUs are on track to eliminate our backlog.\nOur backlog will go down when we remove our backlog.\n\nEarly Customer Adoption\nPMs hired in April were assigned to 3 BUs (Ignite, Jigsaw, Influitive). We made progress on what we would have wanted usage/activity remains low:\nMessenger: of 20 customers, 4 customers showed interest, none has concrete plans to switch to our until the new version is proven stable or are mid-upgrade with their current vendor.\nJive Security: of 12 customers, 3 are interested in upgrading.\n\nInfluitive AI Copilot: 2 customers actively using it, 7 have it enabled, most have not yet fully activated it.\n\nWhat went well:\nFocus on customer problems - conducted calls to understand their problems (strategies), help them use the product for AI features, or get them to upgrade (focus on business value: analyzing usage (e.g., Jive Copilot Usage Report)\n\nWhat did not go well:\nWe started without a clear framework and spent time aligning expectations.\nWe worked with a dedicated delivery team to be in a our customer response rates. We should have consulted all customers which believed to be more interested and got low response rates. Focused on a subset of customers which were to increase the size of the early adoption pool.\nLong upgrade cycles for hottest projects (Messenger, IVP) make it impossible to demonstrate customer value during the quarter.\n\nImprovements: we are fixing this by defining the service TPM Slot - Early Adoption Service\nAdd key takeaways (TPM focus on early adoption, everything else is BU responsibility)"
+                  }
+                ]
+              },
+              {
+                "appName": "Google Meet",
+                "windows": [
+                  {
+                    "title": "Meet - aqm-tpng-aqq - Google Chrome",
+                    "url": "https://meet.google.com/aqm-tpng-a",
+                    "position": "right half of the screen",
+                    "isActive": false,
+                    "uiElements": {
+                      "details": "conference controls visible with options for microphone, camera, captions, present now, and more options."
+                    },
+                    "videoConference": {
+                      "participants": [
+                        {
+                          "name": "Firat Gomi",
+                          "expression": "appears tired or bored"
+                        },
+                        {
+                          "name": "George Dita",
+                          "expression": "speaking"
+                        },
+                        {
+                          "name": "Dragos Nuta",
+                          "expression": "neutral"
+                        }
+                      ]
+                    },
+                    "content": [
+                      {
+                        "title": "Meet - aqm-tpng-aqq",
+                        "layoutDescription": "Video conference layout",
+                        "visibleText": "Firat's AI Notetaker\nread.ai meeting notes"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Google Meet video conference, as evidenced by the screenshots showing the Google Meet interface with multiple participants. The meeting appears to be focused on discussing the 'Factory status May 2024 (TPM/Eng)' document, which is open in Google Docs on the left half of the screen. The document includes detailed notes on various topics such as Kanban slots, maintenance, early customer adoption, and improvements. The user is likely discussing these topics with the meeting participants.",
+    "The user is also actively viewing and possibly editing the 'Factory status May 2024 (TPM/Eng)' document in Google Docs. The document contains a summary of the factory status, including sections on Kanban slots, maintenance delivery scorecard, burndown charts, and early customer adoption. The user is likely reviewing the progress and performance metrics, as well as discussing the key takeaways and improvements needed for the next period.",
+    "Throughout the captured period, the user is switching between the Google Meet video conference and the Google Docs document. This indicates that the user is multitasking, participating in the meeting while simultaneously reviewing and possibly updating the document. The presence of the 'Firat's AI Notetaker' and 'read.ai meeting notes' in the Google Meet interface suggests that AI tools are being used to assist with note-taking and meeting documentation."
+  ],
+  "aiUseSummary": "The user is utilizing AI tools during the Google Meet video conference. Specifically, 'Firat's AI Notetaker' and 'read.ai meeting notes' are visible in the meeting interface, indicating that AI is being used to assist with capturing and summarizing meeting notes. This likely helps the user to focus on the discussion without worrying about manually taking notes, thereby enhancing productivity and ensuring that important points are accurately recorded.",
+  "activities": [
+    "MEETING",
+    "READING_SPEC"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [
+    "DEVFACTORY_TPM_AI"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 100,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T11:00:09Z",
+      "windowTitle": "Meet - aqm-tpng-aqq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/aqm-tpng-aqq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T11:01:09Z",
+      "windowTitle": "Meet - aqm-tpng-aqq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/aqm-tpng-aqq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T11:02:09Z",
+      "windowTitle": "Meet - aqm-tpng-aqq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/aqm-tpng-aqq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T11:03:09Z",
+      "windowTitle": "Meet - aqm-tpng-aqq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/aqm-tpng-aqq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T11:04:09Z",
+      "windowTitle": "Meet - aqm-tpng-aqq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/aqm-tpng-aqq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T11:05:09Z",
+      "windowTitle": "Meet - aqm-tpng-aqq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/aqm-tpng-aqq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T11:06:09Z",
+      "windowTitle": "Meet - aqm-tpng-aqq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/aqm-tpng-aqq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T11:07:09Z",
+      "windowTitle": "Meet - aqm-tpng-aqq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/aqm-tpng-aqq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T11:08:09Z",
+      "windowTitle": "Meet - aqm-tpng-aqq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/aqm-tpng-aqq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T11:09:09Z",
+      "windowTitle": "Meet - aqm-tpng-aqq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/aqm-tpng-aqq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-04T11:00:00Z"
+}

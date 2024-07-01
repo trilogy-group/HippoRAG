@@ -1,0 +1,325 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "meet.google.com",
+        "docs.google.com",
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-04T18:10:05Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, widgets, and several pinned applications. System tray visible with notifications, sound, network, and clock displaying '9:10 PM | 6/4/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - qtv-ugaf-ywq - Google Chrome",
+                                "url": "meet.google.com/qtv-ugaf-ywq",
+                                "position": "left side of the screen, maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Browser tabs, address bar, navigation buttons, Google account avatar, Meet controls including microphone, camera, captions, present now, and more options"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference",
+                                        "layoutDescription": "Grid layout of participant videos",
+                                        "visibleText": "Participants visible: Kathy Slowinski, Jozef Czapovicis, Joe Conley, Noumaan Shah (Presenting), Rafal Hyrniow, George Dita, Dragos Nuta, and one participant represented by a blue circle with a lowercase 'r'."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Weekly Progress Report - TPM-Eng",
+                                "url": "https://docs.google.com/document/",
+                                "position": "right side of the screen, maximized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Google Docs interface with menu bar, formatting toolbar, and document sharing settings"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Document Content",
+                                        "layoutDescription": "Text document with bullet points",
+                                        "visibleText": "Business Goal Progress Scorecard - Week 22-2024\nIgniteTech\nSlot #1\nSlot #2\nMaintenance\nJigsaw\nSlot #1\nInfluitive\nStratifly\nSlot #1 - Import\nWeek 22-2024\nIgniteTech\nSlot #1\nSlot #2\nMaintenance\nJigsaw\nSlot #1\nInfluitive & Stratifly Kanban status & demo - weekly\nDelivery progress (Influitive - Add AI to Discourse Communities)\n1-Sentence update\nDiscourage upgrade path in progress. We are up from 2.3 to 3.0.\nProgress week 22\nWorking through the staging environment.\nMIP week 22\nWe are still finding and fixing issues on staging during testing\nPlan week 23\nPush changes to the production.\nNeed to understand which customers have customizations in Discourse\nPlan on migrating customers to upgraded version\nUtilize PS team\nCustomer engagement/rollout - Customer Outreach - AdvocateHub\nAdoption Funnel\nN/A\nProgress week 22\nCustomer outreach to 8 customers that engaged with AI Challenge Assistant & Groovy Feedback Form. Planned to reach out to all ~700 users but am still lacking access to HubSpot (requested 5 days ago)\nRollout plan\nInvite all customers to collaborate with us on ALL the AI features we are developing on AdvocateHub\nSegment the ones who reply and perform feature specific interviews\nSet customer interviews\nRollout MIPs\nNo access to Hubspot to send mass emails\nInterview CMS to find out what is the secret sauce for engaging challenges\nReach out to all customers, build the early adoption user pool and start scheduling interviews\nDelivery progress (Influitive - Fix Security Issues)\n1-Sentence update\nStarted work on Discourse assets and files uploaded by the users.\nProgress week 22\nNone\nMIP week 22\nNone\nPlan week 23\nRelease to production."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T18:13:44Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Settings, and hidden icons. Also displays the system clock showing '9:13 PM' and system date '6/24/24'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - qtv-ugaf-ywq - Google Chrome",
+                                "url": "https://meet.google.com/qtv-ugaf-ywq",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, profile icon, and extensions"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Weekly Progress Report - TPM-Eng",
+                                        "layoutDescription": "Split view with document and video call",
+                                        "visibleText": "Business Goal Progress Scoreboard\nWeek 22-2024\nIgniteTech\nSlot #1\nMaintenance\nJigsaw\nSlot #1\nIntuitive\nStratifly\nSlot #1 - Import\nWeek 21-2024\nIgniteTech\nSlot #1\nMaintenance\nJigsaw\nSlot #1\nIntuitive\nStratifly\nSlot #1 - Import\nGFI\nSlot #1\nXO\nCommunities\nDiscourse 3.x\nBurndown Chart\nContains the current week\nDashboard link for the chart above\nMaintenance:\nWe have an issue with Mobile Apps - the Apple Developer account is disabled, which is impacting iOS apps.\nThere is a legal entity is set to PotebyTech Inc. in Toronto, ON, which is incorrect.\nWe do not have access credentials to AdvocateHub Facebook app\nDelivery progress [Intuitive - Add AI to Discourse 3.x]\n1-5 sentence update\nDiscourse upgrade path in progress. We are up from 2.3 to 3.0.\nProgress week 22\nWorking through the staging environment."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T18:18:43Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, widgets, and several pinned applications including Edge, Chrome, and others. System tray visible with notifications, sound, network, and clock displaying '9:18 PM 6/4/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Factory status May 2024 (TPM/Eng) - Google Docs",
+                                "url": "https://docs.google.com/document/d/1",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Toolbar with File, Edit, View, Insert, Format, Tools, Extensions, Help. Toolbar with undo, redo, print, spelling and grammar check, page setup, zoom, and other editing tools. Scroll bar on the right side."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Factory status May 2024 (TPM/Eng)",
+                                        "layoutDescription": "Document layout with text and tables",
+                                        "visibleText": "Summary\nKanban Slots\nJigsaw (1 slot)\nIgniteTech #1: Security\nIgniteTech #2: Copilot\nIgniteTech Maintenance\nGFI (1 slot)\nInfluitive (2 slots)\nStratifyd (1 slot)\nCrossover (1 slot)\nTelco (3 slots + 1 Ops slot)\nTPM only slots (1 slot)\nApplied AI (1 slot)\nMaintenance Delivery scorecard\nBurndown charts - road to zero...\nAll BUs\nIgniteTech\nCopperTree\nJigsaw\nInfluitive\n & Stratifyd Kanban status & demo - weekly\nNext Steps:"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Meet - qtv-ugaf-ywq - Google Chrome",
+                                "url": "https://meet.google.com/qtv-ugaf-y",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Conference controls including microphone, camera, captions, hand raise, and more. Participants list visible."
+                                },
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "Jan Slowinski",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Georg Dita",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Noumaan Shah",
+                                            "expression": "presenting"
+                                        },
+                                        {
+                                            "name": "Rafal Hryniow",
+                                            "expression": "not visible"
+                                        }
+                                    ]
+                                },
+                                "content": [
+                                    {
+                                        "title": "Weekly Progress Report - TPM-Eng",
+                                        "layoutDescription": "Spreadsheet layout with rows and columns",
+                                        "visibleText": "Business Goal Progress Score...\nWeek 22-2024\nBusiness Goals\nSlot #1\nSlot #2\nMaintenance\nJigsaw\nSlot #1\nInfluitive\nStratifyd\nSlot #1 - Import\nIgniteTech\nSlot #1\nSlot #2\nMaintenance\nJigsaw\nSlot #1\nAll Agents\nStratifyd\nSlot #1 - Import\nGFI\nSlot #1\nGFI Maintenance\nXO\nDelivery processes (Influitive - AI bot for CSM)\n1-Sentence update\nGroovy added to AdvocateHub.\nInsights from Customers\nN/A"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Google Meet video conference, as evidenced by the screenshots showing the Google Meet interface with multiple participants. The user is presenting a document titled 'Weekly Progress Report - TPM-Eng' from Google Docs. The document contains detailed progress updates, including sections on business goals, delivery progress, and customer engagement. The user is actively discussing these updates with the team, as indicated by the visible participant videos and the shared screen.",
+        "The user is also viewing and editing a Google Docs document titled 'Factory status May 2024 (TPM/Eng)'. This document includes a summary of Kanban slots, maintenance delivery scorecards, and burndown charts. The user is likely preparing or reviewing this document in the context of the ongoing meeting, as it is visible alongside the Google Meet interface. The document's content suggests a focus on project management and progress tracking.",
+        "Throughout the captured period, the user is primarily focused on the Google Meet and Google Docs applications. The user is actively participating in the meeting, presenting documents, and discussing project updates with the team. The detailed content of the documents and the structured format of the meeting indicate a well-organized approach to project management and team collaboration."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a Google Meet video conference and viewing/editing Google Docs documents. No AI chat interfaces or AI-driven suggestions are visible in the screenshots.",
+    "activities": [
+        "MEETING",
+        "READING_SPEC",
+        "WRITING_SPEC"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "UI"
+    ],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 12,
+            "mouse": 0,
+            "date": "2024-06-04T18:10:11Z",
+            "windowTitle": "Meet - qtv-ugaf-ywq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/qtv-ugaf-ywq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 13,
+            "mouse": 4,
+            "date": "2024-06-04T18:11:11Z",
+            "windowTitle": "Meet - qtv-ugaf-ywq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/qtv-ugaf-ywq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 4,
+            "mouse": 0,
+            "date": "2024-06-04T18:12:11Z",
+            "windowTitle": "Meet - qtv-ugaf-ywq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/qtv-ugaf-ywq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 19,
+            "mouse": 0,
+            "date": "2024-06-04T18:13:11Z",
+            "windowTitle": "Meet - qtv-ugaf-ywq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/qtv-ugaf-ywq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 9,
+            "mouse": 0,
+            "date": "2024-06-04T18:14:11Z",
+            "windowTitle": "Meet - qtv-ugaf-ywq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/qtv-ugaf-ywq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T18:15:11Z",
+            "windowTitle": "Meet - qtv-ugaf-ywq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/qtv-ugaf-ywq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 42,
+            "mouse": 9,
+            "date": "2024-06-04T18:16:11Z",
+            "windowTitle": "Meet - qtv-ugaf-ywq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/qtv-ugaf-ywq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 20,
+            "mouse": 0,
+            "date": "2024-06-04T18:17:11Z",
+            "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 199,
+            "mouse": 2,
+            "date": "2024-06-04T18:18:11Z",
+            "windowTitle": "Jozsef Czapovics messaged you - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/3f70MMAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 40,
+            "mouse": 14,
+            "date": "2024-06-04T18:19:11Z",
+            "windowTitle": "Meet - qtv-ugaf-ywq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/qtv-ugaf-ywq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-04T18:10:00Z"
+}

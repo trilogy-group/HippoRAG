@@ -1,0 +1,279 @@
+{
+    "candidateId": 1444536,
+    "apps": [
+        "Code",
+        "chatgpt.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T11:21:25Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Windows Start, Task View, Microsoft Edge, File Explorer, and system tray with notifications, sound, network, and battery status, and clock showing '12:21:26' on '14/06/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "gsheets.py - tools - Visual Studio Code",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Top bar with File, Edit, Selection, View, Go, Run, Terminal, Help. Side bar with Explorer, Search, Source Control, Run and Debug, Extensions. Bottom bar with Problems, Output, Debug Console, Terminal."
+                                },
+                                "content": [
+                                    {
+                                        "title": "gsheets.py",
+                                        "layoutDescription": "Code editor open",
+                                        "visibleText": "import gspread\nfrom oauth2client.service_account import ServiceAccountCredentials\n\n# Set up the credentials\ndef authenticate_gspread(json_keyfile_path):\n scope = [\n 'https://www.googleapis.com/auth/spreadsheets',\n 'https://www.googleapis.com/auth/drive'\n ]\n credentials = ServiceAccountCredentials.from_json()\n client = gspread.authorize(credentials)\n return client"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T11:24:59Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. Displays the system clock showing '12:25:01 PM' and the date '14/06/2024'. Language set to 'ENG'. Battery status icon visible. Wi-Fi signal icon visible. Sound volume icon visible.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "gsheets.py - tools - Visual Studio Code",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Top bar with File, Edit, Selection, View, Go, Run, Terminal, Help. Sidebar with icons for Explorer, Search, Source Control, Run and Debug, Extensions. Bottom bar with Problems, Output, Debug Console, Terminal tabs."
+                                },
+                                "content": [
+                                    {
+                                        "title": "gsheets.py",
+                                        "layoutDescription": "editor open with Python code",
+                                        "visibleText": "import gspread\nfrom oauth2client.service_account import ServiceAccountCredentials\n\n# Set up the credentials\ndef authenticate_gspread(json_credentials):\n scope = [\n 'https://www.googleapis.com/auth/spreadsheets',\n 'https://www.googleapis.com/auth/drive'\n ]\n sa_credentials = ServiceAccountCredentials.from_json_keyfile_dict( scope)\n client = gspread.authorize(sa_credentials)\n return client"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T11:27:28Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes notifications, ENG language indicator, network status, sound volume, date and time display '12:27:30 14/06/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "test.py - tools - Visual Studio Code",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Top bar with File, Edit, Selection, View, Go, Run, Terminal, Help. Tabs for test.py, gsheets.py, config.json, salesforce.py. Side bar with Explorer, Search, Source Control, Run and Debug, Extensions, and more. Bottom bar with Problems, Output, Debug Console, Terminal, Ports tabs"
+                                },
+                                "content": [
+                                    {
+                                        "title": "test.py",
+                                        "layoutDescription": "Code editor open",
+                                        "visibleText": "from salesforce import SalesforceConnection\nfrom gsheets import authenticate_gspread\nimport json\n\n# print(campaign_query['GA-Cat.%',...])\n\ndef test1():\n sf_connection = SalesforceConnection()\n res = sf_connection.get_application()\n print(res[:10])\n print(res[-10:])\n\ndef test2():\n with open('credentials.json') as f:\n credentials = json.load(f)\n client = authenticate_gspread(credentials)\n print(client.open('test').sheet1.get_all_records()"
+                                    },
+                                    {
+                                        "title": "Terminal Output",
+                                        "layoutDescription": "Terminal output visible",
+                                        "visibleText": "Active_Stage_c', 'BFO'), ('StageName', 'Rejected')])\nPS C:\\Users\\xouser\\Projects\\tools\\ & 'C:\\Program Files\\Python311\\python.exe' c:\\users\\xouser\\Projects\\tools\\campaign-trac Id, AccountId, CampaignId, CreatedDate, Lead_Source_Campaign_c, Advertised_Title_c,\nCandidate_Country_c, CCAT_Score_c, Last_Active_Stage_c, StageName\nFROM Opportunity WHERE\nCampaignId IN (SELECT Id from Campaign WHERE Name like 'GA-Cat.%') ORDER BY CreatedDate\nFound 2000 records\nFound 2475 records\nOrderedDict([('type', 'Opportunity'), ('url', '/services/data/v59.0/sobjects/Opportunity/006tj0 ('attributes', {'type': 'Opportunity'}), ('AccountId', '001tj000003EM8qIAG'), ('CampaignId', '701tj000000kuyIAA'), ('CreatedDate', '2024-05-26T19:26:02.000+0000'), ('Lead_Source_Campaign_c', 'GA-Cat.AI.SME.maxAFRICA'), ('Advertised_Title_c', 'VP of Design'), ('Candidate_Country_c', 'ke'), ('CCAT_Score_c', 0.0), ('Last_Active_Stage_c', 'BFO'), ('StageName', 'Rejected')])"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in writing code using Visual Studio Code. They are working on a project named 'campaign-tracking' with multiple Python files open, including 'gsheets.py', 'test.py', 'config.json', and 'salesforce.py'. The user is seen importing libraries such as 'gspread' and 'oauth2client.service_account' and setting up credentials for Google Sheets API. They are defining functions to authenticate and authorize access to Google Sheets and Salesforce data. The terminal output shows the execution of a Python script that queries Salesforce data, indicating the user is testing their code.",
+        "The user is modifying the 'gsheets.py' file to update the method of setting up credentials for Google Sheets API. They change the function 'authenticate_gspread' to use 'ServiceAccountCredentials.from_json_keyfile_dict' instead of 'ServiceAccountCredentials.from_json'. This change is likely aimed at improving the way credentials are handled. The user is also seen running a script in the terminal that queries Salesforce data, which returns a large number of records, indicating they are testing the integration between Google Sheets and Salesforce.",
+        "The user is working on the 'test.py' file, which includes functions to connect to Salesforce and Google Sheets. They are defining two functions, 'test1' and 'test2'. 'test1' connects to Salesforce and retrieves application data, while 'test2' loads credentials from a JSON file and authenticates Google Sheets access. The terminal output shows the execution of these functions, with the user verifying the data retrieved from Salesforce and Google Sheets. This indicates the user is testing the functionality of their code to ensure it works as expected."
+    ],
+    "aiUseSummary": "The user is utilizing an AI_IDE_EXTENSION within Visual Studio Code. The AI tool is used to assist with code suggestions and improvements. For example, the AI suggests using 'ServiceAccountCredentials.from_json_keyfile_dict' for better handling of credentials in the 'gsheets.py' file. This indicates the user relies on AI to enhance their coding efficiency and ensure best practices. The AI tool helps the user by providing code snippets and suggestions, which improves productivity and reduces the time spent on debugging and researching solutions.",
+    "activities": [
+        "WRITING_CODE",
+        "NAVIGATING_CODE"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "DB"
+    ],
+    "programmingLanguages": [
+        "PYTHON",
+        "SALESFORCE"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "AI_IDE_EXTENSION",
+        "OPENAI_CHATGPT"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 30,
+            "mouse": 8,
+            "date": "2024-06-14T11:20:24Z",
+            "windowTitle": "? test.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 45,
+            "mouse": 4,
+            "date": "2024-06-14T11:21:24Z",
+            "windowTitle": "gsheets.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 28,
+            "mouse": 7,
+            "date": "2024-06-14T11:22:24Z",
+            "windowTitle": "? gsheets.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 47,
+            "mouse": 8,
+            "date": "2024-06-14T11:23:24Z",
+            "windowTitle": "? gsheets.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T11:24:24Z",
+            "windowTitle": "? gsheets.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T11:25:24Z",
+            "windowTitle": "? gsheets.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 7,
+            "mouse": 6,
+            "date": "2024-06-14T11:26:24Z",
+            "windowTitle": "? test.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 4,
+            "mouse": 6,
+            "date": "2024-06-14T11:27:24Z",
+            "windowTitle": "? test.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 3,
+            "date": "2024-06-14T11:28:24Z",
+            "windowTitle": "? test.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 15,
+            "mouse": 7,
+            "date": "2024-06-14T11:29:24Z",
+            "windowTitle": "Write data to Sheets - Google Chrome",
+            "processName": "chatgpt.com",
+            "visitingUrl": "chatgpt.com/c/d08c5431-4f67-4076-8ec2-c0a89cf16eda",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T11:20:00Z"
+}

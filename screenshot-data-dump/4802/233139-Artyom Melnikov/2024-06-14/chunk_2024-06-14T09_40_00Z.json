@@ -1,0 +1,273 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "webstorm64"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T09:42:38Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Visual Studio Code, File Explorer, and other unidentified applications. Also includes system clock showing '11:42 AM' and system tray with network, sound, and battery status icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "lambda-cdk-infra \\ feature/LAMBDA-701-dependency-version-sync ? changelog.md",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar at top with options like File, Edit, View, Go, Run, Terminal, Help. Sidebar on the left with file explorer showing directories and files. Bottom bar showing terminal output."
+                },
+                "content": [
+                  {
+                    "title": "changelog.md",
+                    "layoutDescription": "Text editor open",
+                    "visibleText": "# New Dependencies\n\n- @aws-sdk/client-cloudformation: Added version '3.59.0'.\n- @aws-sdk/client-s3: Added version '3.59.0'.\n- @aws-sdk/credential-providers: Added version '3.59.0'.\n- @aws-sdk/client-s3: Added version '3.59.0'.\n- @aws-sdk/client-rum: Added version '3.59.0'.\n- @aws-sdk/client-cognito-identity-provider: Added version '3.59.0'.\n\n# Removed Dependencies\n\n- aws-sdk: Removed version '12.104.0'.\n- aws-sdk-appsync-alpha: Removed version '2.15.0-alpha.0'.\n- aws-sdk-glue-alpha: Removed version '2.15.0-alpha.0'.\n\n# Breaking Changes\n\n- Updated default Lambda runtime to Node.js 20.x in `InfraLambdaFunction`.\n- `AwsConfig.LoadAwsCredentials()` that used to enforce specific profile now changes the behavior. Now it will load and cache credentials, that will be required to pass to the AWS Clients. For example:\n\n```typescript\n// Somewhere during the init\nAwsConfig.LoadAwsCredentials('profileName') Later in the code\nconst s3 = new S3Client({ credentials: AwsConfig.defaultCredentials() });\n```\n\n`AwsConfig.defaultCredentials()` will either return cached credentials from the `AwsConfig.LoadAwsCredentials` invocation, or undefined, to allow AWS Client to fallback to default logic."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T09:45:50Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Edge, Visual Studio Code, File Explorer, Microsoft Outlook, and other unidentified applications. Also includes system icons for network, sound, and clock.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "aws/aws-cdk: The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code - Google Chrome",
+                "url": "https://github.com/aws/aws-cdk",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "top bar with back, forward, refresh buttons, address bar, bookmarks bar with folders and links, GitHub profile icon, notification bell icon, plus icon, and minimized windows icon."
+                },
+                "content": [
+                  {
+                    "title": "Repository Content",
+                    "layoutDescription": "List format",
+                    "visibleText": ".github\nCODE_OF_CONDUCT.md\nchore: fix broken link to cloud assembly schema (#29773)\nchore: update Design Guidelines README to Amazon Linux 2 (#29774)\nchore: apply white background on default logos (#9634)\nchore: fix/update funcs() and docs and warning DistributedMap Claim hour...\nchore: upgrade lambda and use new (#24269)\nchore: update name of sdk-v2-to-v3-adapter and improve documentation (#29775)\nchore: npm-check-updates & yarn upgrade (#30532)\nchore: Changed Docker base image to AmazonLinux2...\nchore: (region-info) add appmesh or accounts for ii-central-...\nchore: mark irrelevant snapshot files as linguist-generated (#29776)\nchore: upgrade to new major version (#29738)\nchore: experimental cdk migrate command (#25859)\nchore: update nodejs to 20 in devcontainer and gitpod (#30533)\nchore: add new team member kant@logo (#30535)\nchore: migrate repository from npm to 'yarn workspaces' (#29777)\nchore:v2 minimum supported node version is now v14 (#29778)\nchore: replace master with main wherever possible (#20590)\nchore:release2.14.60\nchore: update changelog\nchore: add code of conduct reference (#9345)\nchore: fix/consolidate 'default' v2-licenses supports switch from npm to yarn (#29779)\nchore: update Contributors File (#30411)\nchore:fix/undeprecated APIs whose migration will cause in...\nchore: docs in upper & lowercase (#29717)\nchore: update Copyright year range for 2024 (#28842)\nchore: link to single source of truth for public pkg keys (#21579)\nchore: refactor2: API cleanup, more control over User experience (#29780)\nchore: command/update to readme to point to correct location (#29781)\nchore: team update roadmap update (#30535)\nchore: (roadmap) team update Windows version enum (#29737)\nchore: update name of sdk-v2-to-v3-adapter and improve documentation (#29775)\nchore: Remove nu..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T09:49:24Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time as '18:49' and date as '2024-06-14'. Language set to 'ENG'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "feature/LAMBDA-7801-dependency-version-sync > readme.md",
+                "url": null,
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs for readme.md, package.json, changelog.md, s3-utils.ts, aws-configs.ts. Also shows terminal at the bottom with 'tsc' command executed, showing 'Process finished with exit code 0'."
+                },
+                "content": [
+                  {
+                    "title": "readme.md",
+                    "layoutDescription": "editor with code and markdown",
+                    "visibleText": "# Usage\n\n**NOTE: Library is updated to use CDK v2\nCheck docs for more info:\nhttps://docs.aws.amazon.com/cdk/v2/guide/m Initial configuration\nAssuming that you already have deployment project you can proceed with the steps.\nOtherwise, you should create a new typescript project with [cdk init(...)] first, or use a template\n\n## Add dependencies\n\n```json\n\"devDependencies\": {\n \"@trilogy-group/lambda-cdk-infra\": \"Latest npm package version\"\n}\n```\nDon't forget to configure private registry access (check Installation block)\n\nYou also want to make sure that your project has these dependencies:\n\n```json\n\n```\n\n3. Create an entry point file\nCreate a new typescript file (for example `src/main.ts`), which will serve as an entry point for the library\n\nimport { Infra from '@trilogy-group/lambda-cdk-infra';\nimport * as path from 'path';\n\nasync () => {\n await Infra.scan({\n path: path.resolve(__dirname, 'deployments'),\n projectName: 'cdk-tpl-monorepo',\n ownerName: '__filename__',\n entryPoints: ['template.json'],\n tags: ['enterprise-compliance'],\n contactEmail: '...'\n });\n};\n\nThe `path.resolve(__dirname, 'deployments')` path assumes the following project structure:\n\ndeploy:\n package.json\n src/\n main.ts\n deployments/\n any files on folders with your configuration ...\n\nYou can replace the path to point somewhere else.\n\nNote: The library scans path you provide to find all classes with specific decorators. During the scan all folders under the provided path are visited to import all *.ts files. The side effect of this action is that the imported files are evaluated\n\n4. Add cli script entry"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in writing and navigating code within the WebStorm IDE. They are working on a project named 'lambda-cdk-infra' and have multiple files open, including 'changelog.md', 's3-utils.ts', and 'aws-config.ts'. The changelog file indicates updates to AWS SDK dependencies and breaking changes related to AWS credentials handling. The user is also seen running a build command in the terminal, which completes successfully with an exit code of 0.",
+    "The user is reviewing code on GitHub, specifically the AWS CDK repository. They are looking at various files and commits, including changes to the 'CODE_OF_CONDUCT.md' and other documentation updates. This activity suggests that the user is ensuring their project aligns with the latest updates and best practices from the AWS CDK repository.",
+    "The user is reading a README file within the WebStorm IDE. The README provides instructions on using a library updated to CDK v2, including steps for adding dependencies, configuring private registry access, and creating an entry point file. This indicates that the user is focused on understanding and implementing the necessary configurations for their project."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in coding, reviewing, and reading specifications without any visible interaction with AI tools for code suggestions, research, or debugging.",
+  "activities": [
+    "WRITING_CODE",
+    "NAVIGATING_CODE",
+    "REVIEWING_CODE",
+    "READING_SPEC"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "IAC"
+  ],
+  "programmingLanguages": [
+    "TYPESCRIPT"
+  ],
+  "toolTypes": [
+    "IDE",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 57,
+      "mouse": 29,
+      "date": "2024-06-14T09:40:17Z",
+      "windowTitle": "lambda-cdk-infra ? changelog.md",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 23,
+      "mouse": 7,
+      "date": "2024-06-14T09:41:17Z",
+      "windowTitle": "lambda-cdk-infra ? changelog.md",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 190,
+      "mouse": 7,
+      "date": "2024-06-14T09:42:17Z",
+      "windowTitle": "lambda-cdk-infra ? changelog.md",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 126,
+      "mouse": 15,
+      "date": "2024-06-14T09:43:17Z",
+      "windowTitle": "lambda-cdk-infra ? changelog.md",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 136,
+      "mouse": 4,
+      "date": "2024-06-14T09:44:17Z",
+      "windowTitle": "lambda-cdk-infra ? changelog.md",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 5,
+      "date": "2024-06-14T09:45:17Z",
+      "windowTitle": "lambda-cdk-infra ? readme.md",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 32,
+      "mouse": 22,
+      "date": "2024-06-14T09:46:17Z",
+      "windowTitle": "lambda-cdk-infra ? readme.md",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 36,
+      "mouse": 13,
+      "date": "2024-06-14T09:47:17Z",
+      "windowTitle": "lambda-cdk-infra ? readme.md",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 60,
+      "mouse": 6,
+      "date": "2024-06-14T09:48:17Z",
+      "windowTitle": "lambda-cdk-infra ? readme.md",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 44,
+      "mouse": 34,
+      "date": "2024-06-14T09:49:16Z",
+      "windowTitle": "lambda-cdk-infra ? readme.md",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-14T09:40:00Z"
+}

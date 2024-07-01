@@ -1,0 +1,124 @@
+{
+  "candidateId": 2368956,
+  "apps": [
+    "chatgpt.com",
+    "app.hubspot.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T18:52:54Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Adobe Reader, File Explorer, Microsoft Outlook, and other unidentified applications. Also includes the Start menu icon, search bar, and system tray with time display.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Settings",
+                "url": "http://",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "menu on the left, main content area on the right"
+                },
+                "content": [
+                  {
+                    "title": "Account Defaults",
+                    "layoutDescription": "Two-column layout",
+                    "visibleText": "Settings\nYour Preferences\nAccount Settings\nAccount Setup\nUsers & Teams\nIntegrations & APIs\nHosting\nPrivacy & Consent\nTerms\nProperty Management\nProjects\nTools\nHosting\nCoding\nPay & LK\nReports\nAdmin\nOutfitter\nConfigured\nAccount Defaults\nAccount name\nTime zone\nFirst name & Surname\nCompany Information\nCompany name\nCompany details\nCompany address\n123 Anytown White Blvd.\nCompany address line 2\nCity Line 2040\nState\nTX\nZip\n75214\nCountry\nUSA"
+                  }
+                ]
+              },
+              {
+                "title": "Medium posts",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "menu on the left, main content area on the right"
+                },
+                "content": [
+                  {
+                    "title": "Medium posts",
+                    "layoutDescription": "List layout",
+                    "visibleText": "Explore\nChat\nSearch this site\nCarrie Taylor\nMedium posts\n- Identifies three gaps for meaningful results required ongoing attention.\n- Approved Processes\n- Visibility and Promotion\n- Monitoring and Reporting\n- Using Reporting Tools\n- Advanced Reporting\n- Management\n- In summary, the biggest factor driving results was the multifaceted task of consistently creating, targeting, and managing multiple challenges in the workplace and markets, ensuring employee satisfaction, engaging with the community, and setting reporting tools to track progress and measure success."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in configuring account settings on HubSpot. The screenshot shows the user navigating through the 'Account Defaults' section, where they are updating various fields such as account name, time zone, company name, and company address. This indicates a focus on ensuring that the account settings are accurate and up-to-date, which is crucial for maintaining proper account management and ensuring that all team members have the correct information.",
+    "The user is also seen interacting with ChatGPT. The screenshot shows a conversation where the user is likely seeking assistance or information related to their tasks. This interaction suggests that the user is leveraging AI tools to enhance their productivity, possibly by obtaining quick answers to questions or by getting help with specific tasks. The use of ChatGPT indicates a reliance on AI for research and guidance, which can significantly streamline the user's workflow.",
+    "Additionally, the user is browsing Medium posts. The screenshot shows a list of articles related to various topics, including approval processes, visibility and promotion, and monitoring and reporting. This activity suggests that the user is conducting research or seeking insights on best practices and strategies that can be applied to their work. The focus on these topics indicates an interest in improving processes and ensuring effective management and reporting within their organization."
+  ],
+  "aiUseSummary": "The user utilizes ChatGPT for obtaining assistance and information related to their tasks. The screenshot shows a conversation where the user is likely asking questions or seeking guidance on specific topics. This interaction with ChatGPT indicates that the user relies on AI to enhance their productivity by providing quick answers and support, which helps in streamlining their workflow and improving task efficiency.",
+  "activities": [
+    "READING_SPEC",
+    "RESEARCH",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [
+    "OPENAI_CHATGPT"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "READING_SPEC",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 61,
+      "mouse": 1,
+      "date": "2024-06-05T18:50:39Z",
+      "windowTitle": " ChatGPT - Google Chrome\n",
+      "processName": "chatgpt.com",
+      "visitingUrl": "https://chatgpt.com/c/7169f32d-0b56-49cd-b476-6c7be955bc5e",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 4,
+      "mouse": 4,
+      "date": "2024-06-05T18:51:39Z",
+      "windowTitle": " ChatGPT - Google Chrome\n",
+      "processName": "chatgpt.com",
+      "visitingUrl": "https://chatgpt.com/c/7169f32d-0b56-49cd-b476-6c7be955bc5e",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 10,
+      "mouse": 13,
+      "date": "2024-06-05T18:52:39Z",
+      "windowTitle": " Settings - Google Chrome\n",
+      "processName": "app.hubspot.com",
+      "visitingUrl": "https://app.hubspot.com/settings/40828524/account-defaults/general",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T18:50:00Z"
+}

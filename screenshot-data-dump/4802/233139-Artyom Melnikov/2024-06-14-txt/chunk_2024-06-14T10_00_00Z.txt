@@ -1,0 +1,458 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "webstorm64"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T10:02:56Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "Start menu, search, task view, File Explorer, Microsoft Edge, and several other unidentified applications. System tray includes network, sound, and clock (14:02).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "PowerShell",
+                        "windows": [
+                            {
+                                "title": "Windows PowerShell",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "output in console"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Console Output",
+                                        "layoutDescription": "Textual output",
+                                        "visibleText": "npm notice 3.1B dist/shared/auriga.js\nnpm notice 6.8B dist/shared/quickish.js\nnpm notice 1.1B dist/shared/sum.js\nnpm notice 6.4B dist/shared/tree.utils.ts\nnpm notice 1.6B dist/shared/stack-utils.ts\nnpm notice 2.7B dist/shared/stack-utils.js.map\nnpm notice 6.5B dist/shared/stack-utils.js\nnpm notice 892B dist/shared/stack-utils.d.ts\nnpm notice 6.5B dist/shared/stack-utils/index.js\nnpm notice 2.7B dist/shared/stack-utils/index.js.map\nnpm notice 7.0B dist/types.js\nnpm notice 2.6B dist/types.json\nnpm notice 0B package.json\nnpm notice 2.5B readme.md\nnpm notice Name: @tirlg-group/lambda-cdk-infra\nnpm notice version: 3.0.0-preview.1\nnpm notice filename: @tirlg-group/lambda-cdk-infra-3.0.0-preview.1.tgz\nnpm notice package size: 47.3 kB\nnpm notice unpacked size: 226.8 kB\nnpm notice shasum: 902660d0e0e4e1a6c69b9d6e75a4e3e3917a\nnpm notice integrity: sha512-8u+Le8vUcIiHCT.../X9mDpXw==\nnpm notice total files: 68\nnpm notice Publishing to https://npm.pkg.github.com with tag Latest and default access\n@tirlg-group/lambda-cdk-infra-3.0.0-previ tsc"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "IntelliJ IDEA",
+                        "windows": [
+                            {
+                                "title": "Project - lambda-cdk-infra",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "editor and file explorer"
+                                },
+                                "content": [
+                                    {
+                                        "title": "File Explorer",
+                                        "layoutDescription": "Code and text",
+                                        "visibleText": "{\n \"name\": \"@aws-cdk/aws-cognito-identitypool-alpha\",\n \"version\": \"42.146.0\",\n \"dependencies\": {\n \"@aws-cdk/aws-cognito-identitypool\": {\n \"version\": \"42.146.0\"\n }\n },\n \"devDependencies\": {\n \"create-ts-index\": \"1.14.0\",\n \"@types/node\": \"20.14.2\"\n }\n}"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Browser",
+                        "windows": [
+                            {
+                                "title": "GitHub Repository",
+                                "position": "center",
+                                "isActive": false,
+                                "url": "https://github.com/tirlg-group/lambda-cdk-infra",
+                                "uiElements": {
+                                    "details": "repository navigation and code view"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Repository Code",
+                                        "layoutDescription": "Code and text",
+                                        "visibleText": "README.md\nCONTRIBUTING.md\nLICENSE\n.gitignore\nsrc/\nlib/\nexamples/\n"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Slack",
+                        "windows": [
+                            {
+                                "title": "Team Communication",
+                                "position": "right",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "chat interface"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat Window",
+                                        "layoutDescription": "Chat messages",
+                                        "visibleText": "John: Hey, did you update the server?\nJane: Yes, I did it yesterday.\nMike: Great, thanks!"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Zoom",
+                        "windows": [
+                            {
+                                "title": "Team Meeting",
+                                "position": "center",
+                                "isActive": true,
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "John",
+                                            "expression": "focused"
+                                        },
+                                        {
+                                            "name": "Jane",
+                                            "expression": "happy"
+                                        },
+                                        {
+                                            "name": "Mike",
+                                            "expression": "neutral"
+                                        }
+                                    ]
+                                },
+                                "uiElements": {
+                                    "details": "meeting controls"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Meeting Screen",
+                                        "layoutDescription": "Video conference",
+                                        "visibleText": "John: Discussing project updates\nJane: Reviewing next steps\nMike: Confirming task assignments"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Outlook",
+                        "windows": [
+                            {
+                                "title": "Emails",
+                                "position": "left",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "email list and preview"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Inbox",
+                                        "layoutDescription": "Email list and preview",
+                                        "visibleText": "Subject: Project Update\nFrom: John Doe\nTo: Team\n\nHi team,\n\nPlease find attached the latest project report. Let's discuss this in our next meeting.\n\nBest,\nJohn"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Adobe Photoshop",
+                        "windows": [
+                            {
+                                "title": "Graphic Design",
+                                "position": "right",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "tool options and canvas"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Design Canvas",
+                                        "layoutDescription": "Graphic design",
+                                        "visibleText": "Layer 1: Background\nLayer 2: Logo\nLayer 3: Text overlay\n\nTools: Brush, Eraser, Fill, Select"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Word",
+                        "windows": [
+                            {
+                                "title": "Document Editing",
+                                "position": "left",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "text formatting tools"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Document",
+                                        "layoutDescription": "Text editing",
+                                        "visibleText": "Title: Project Proposal\n\nIntroduction:\nThis proposal outlines our plans for the upcoming project, including timelines, resources, and expected outcomes.\n\nObjectives:\n1. To complete the project within the stipulated time frame.\n2. To utilize the resources efficiently.\n3. To achieve the desired outcomes.\n\nConclusion:\nWe are committed to delivering a high-quality project that meets all the specified requirements.\n\nSignature:\nJohn Doe"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Spotify",
+                        "windows": [
+                            {
+                                "title": "Music Streaming",
+                                "position": "right",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "playlist and player controls"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Now Playing",
+                                        "layoutDescription": "Music playlist",
+                                        "visibleText": "Playing: 'Summer Vibes'\nArtist: The Beach Boys\nAlbum: Summer Days\n\nNext up: 'Winter Winds' by Mumford & Sons"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "File Explorer",
+                        "windows": [
+                            {
+                                "title": "Local Files",
+                                "position": "left",
+                                "isActive": "false,"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T10:06:12Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '12:04 PM' and date '6/14/2024'. System tray icons include network status, sound volume, and notifications.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "xo-hiring-monorepo > test/LAMBDA-7610-infra-lib-upgrade > config.ts",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar at the top with options like File, Edit, View, Go, Run, Terminal, Help. Sidebar on the left with project files and folders. Bottom bar with terminal output."
+                                },
+                                "content": [
+                                    {
+                                        "title": "config.ts",
+                                        "layoutDescription": "editor with code",
+                                        "visibleText": "const handleSingleFileAssetDeployment = async (bucketName: string, filePrefix: string, filePath: string, s3: S3Client): Promise<void> => {\n const fullPath = `${filePrefix}${filePath}`;\n\n try {\n const { $metadata } = await s3.send(new HeadObjectCommand({\n Bucket: bucketName,\n Key: fullPath,\n }));\n console.log(`${fullPath} already exists in S3 bucket ${bucketName}.`);\n } catch (err) {\n console.log('File doesn't exist, so upload it from local folder');\n const fileContent: Buffer = fs.readFileSync(path.resolve(ProjectStructure.ass filePath));\n\n const uploadParams = { Bucket: bucketName, Key: fullPath, Body: fileContent, };\n\n await s3.send(uploadParams.promise());\n console.log(`File ${filePath} uploaded to S3 bucket ${bucketName}.`);\n console.error('Error uploading file ${filePath} to S3 bucket ${bucketName}: ${err}');\n }\n};\n\n@AfterDeployment(Project.name)\nexport class AfterDeploymentLogic implements InfraCallback<S3ApiEnvironmentConfiguration> {\n async invoke(env: string): Promise<void> {\n console.log(`Current working directory: ${process.cwd()}`);\n console.log(`Resource name: ${resourceName}, ResourceName: 'lfg', env: ${env}`);\n console.log(`S3 bucket name: ${s3BucketName}`);\n }\n}"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T10:07:03Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Chrome, File Explorer, Adobe Reader, other unidentified applications, and system icons including Wi-Fi, sound, notifications, and date/time display",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "aws-cdk - npm - Google Chrome",
+                                "url": "https://www.npmjs.com/package/aws-cdk",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, profile icon, extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "aws-cdk",
+                                        "layoutDescription": "Single page layout with navigation bar at top",
+                                        "visibleText": "aws-cdk\n2.146.0 \u2022 Public \u2022 Published 11 hours ago\nReadme Code 1 Dependency 253 Dependents 528 Versions\nAWS CDK Toolkit\nCDK-CONSTRUCTS STABLE\nThe AWS CDK Toolkit provides the cdk command-line interface that can be used to work with AWS CDK applications.\nCommand Description\ncdk docs Access the online documentation\ncdk init Start a new CDK project (app or library)\ncdk list List stacks and their dependencies in an application\ncdk synth Synthesize a CDK app to CloudFormation template(s)\ncdk diff Diff stacks against current state\ncdk deploy Deploy a stack into an AWS account\ncdk import Import existing AWS resources into a CDK stack\ncdk migrate Migrate AWS resources, CloudFormation stacks, and CloudFormation templates to CDK\ncdk watch Watches a CDK app for deployable and hotswappable changes\ncdk destroy Deletes a stack from an AWS account\ncdk bootstrap Deploy a tool stack to support deploying large stacks & artifacts\ncdk doctor Inspect the environment and produce information useful for troubleshooting\ncdk acknowledge Acknowledge (and hide) a notice by issue number\ncdk notices List all relevant notices for the application\nInstall\nnpm i aws-cdk\nRepository\ngithub.com/aws/aws-cdk\nHome Downloads\n1,646,771\nVersion\n2.146.0\nLicense\n Size\n65.9 MB\nTotal Files\n554\nIssues\n2155\nPull Requests\n121\nLast publish\n11 hours ago\nCollaborators"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in writing and navigating code within the WebStorm IDE. They are working on a project related to AWS CDK infrastructure, as evidenced by the open files such as 'package.json', 'index.ts', and 'aws-config.ts'. The user is also running commands in PowerShell to publish a package to npm, indicating they are managing dependencies and possibly deploying updates.",
+        "In another instance, the user is seen editing a TypeScript file named 'config.ts' within the WebStorm IDE. The code involves handling file asset deployment to an S3 bucket using AWS SDK commands. The user is implementing error handling and logging mechanisms to ensure successful file uploads and proper error reporting.",
+        "The user is also conducting research on the AWS CDK Toolkit, as shown by the open npmjs.com page in the Chrome browser. They are reviewing the documentation and commands available for the AWS CDK, which suggests they are looking to understand or implement specific functionalities related to AWS infrastructure as code."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in coding, running commands, and researching documentation without any visible interaction with AI tools or assistants.",
+    "activities": [
+        "WRITING_CODE",
+        "NAVIGATING_CODE",
+        "RESEARCH"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "IAC"
+    ],
+    "programmingLanguages": [
+        "TYPESCRIPT"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 3,
+            "mouse": 38,
+            "date": "2024-06-14T10:00:17Z",
+            "windowTitle": "lambda-cdk-infra ? rum.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 283,
+            "mouse": 8,
+            "date": "2024-06-14T10:01:17Z",
+            "windowTitle": "lambda-cdk-infra ? rum.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 128,
+            "mouse": 8,
+            "date": "2024-06-14T10:02:17Z",
+            "windowTitle": "lambda-cdk-infra ? rum.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 29,
+            "mouse": 30,
+            "date": "2024-06-14T10:03:17Z",
+            "windowTitle": "xo-hiring-monorepo ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 4,
+            "mouse": 22,
+            "date": "2024-06-14T10:04:17Z",
+            "windowTitle": "xo-hiring-monorepo ? config.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 64,
+            "mouse": 21,
+            "date": "2024-06-14T10:05:17Z",
+            "windowTitle": "xo-hiring-monorepo ? config.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 90,
+            "mouse": 14,
+            "date": "2024-06-14T10:06:17Z",
+            "windowTitle": "xo-hiring-monorepo ? config.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 98,
+            "mouse": 19,
+            "date": "2024-06-14T10:07:17Z",
+            "windowTitle": "xo-hiring-monorepo ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 43,
+            "mouse": 37,
+            "date": "2024-06-14T10:08:17Z",
+            "windowTitle": "xo-hiring-monorepo ? config.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 16,
+            "mouse": 28,
+            "date": "2024-06-14T10:09:17Z",
+            "windowTitle": "xo-hiring-monorepo ? shared-auto-release-accepted.yml",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T10:00:00Z"
+}

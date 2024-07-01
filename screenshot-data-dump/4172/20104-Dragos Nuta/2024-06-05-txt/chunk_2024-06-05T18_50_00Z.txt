@@ -1,0 +1,334 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "docs.chainlit.io",
+        "meet.google.com",
+        "app.crossover.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T18:50:29Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, and hidden icons. System tray includes network, sound, and battery status icons, date/time display, and language selector (ENG).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - wyj-rdjj-kan - Google Chrome",
+                                "url": "meet.google.com/wyj-rdjj-kan",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, profile icon, extensions icons, and minimize, maximize, close buttons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Robert Egglestone (Presenting)",
+                                        "layoutDescription": "Video conference layout",
+                                        "visibleText": "Robert Egglestone (Presenting) Stop presenting Chat Robert Egglestone (You, presenting) David A. Notestaker David Schwartz Samy Aboel-Nil Isaac Squires Dragos Nuta"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T18:54:20Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Chrome, File Explorer, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '9:54 PM'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "docs.chainlit.io/api",
+                                "position": "left half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "sidebar visible with sections like Documentation, Examples, API Reference, and more"
+                                },
+                                "content": [
+                                    {
+                                        "title": "ChainLit",
+                                        "layoutDescription": "sidebar and code editor visible",
+                                        "visibleText": "Documentation\nExamples\nAPI Reference\nAudio\nVideo\nAvatar\nPlotly\nPyplot\nUser\nAskUserMessage\nAskFileMessage\nAskUserAction\nCallback Handler\nLlamalndex Callback Handler\nHaystack\nGeneration\nChatGeneration\nGeneration\nCreate the TaskList\ntask_List = cl.TaskList()\ntask_List.status = \"Running\"\n\n# Create a task and put it in the TaskList\ntask1 = cl.Task(title=\"Process data\")\nawait task_list.add_task(task1)\n# Create another task that depends on the first\ntask2 = cl.Task(title=\"Perform data analysis\")\nawait task_list.add_task(task2)\n\n# Optional: Link a message to a task\nmessage_id = cl.Message(task1.forId = message_id)\n\n# Update the task list in real-time\ntask_list.send()\n\n# Perform some action on your server\nawait cl.sleep(1)\n\n# Update the task statuses\ntask1.status = cl.TaskStatus(\"Completed\")\ntask2.status = cl.TaskStatus(\"Failed\")\ntask_list.status = \"Failed\"\nawait task_list.send()"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Meet - wyj-rdjj-kan",
+                                "url": "https://meet.google.com/wyj-rdjj-kan",
+                                "position": "right half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "conference controls visible"
+                                },
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "Samy Aboel-Nil",
+                                            "expression": "Neutral"
+                                        },
+                                        {
+                                            "name": "David Schwartz",
+                                            "expression": "Not visible"
+                                        },
+                                        {
+                                            "name": "Robert Egglestone",
+                                            "expression": "Neutral"
+                                        },
+                                        {
+                                            "name": "Isaac Squires",
+                                            "expression": "Neutral"
+                                        },
+                                        {
+                                            "name": "Dragos Nut\u0103",
+                                            "expression": "Neutral"
+                                        }
+                                    ]
+                                },
+                                "content": [
+                                    {
+                                        "title": "Kanban Weekly Demo",
+                                        "layoutDescription": "Video tiles layout",
+                                        "visibleText": "Samy Aboel-Nil\nDavid Schwartz\nRobert Egglestone\nIsaac Squires\nDragos Nut\u0103\nread.ai meeting notes\nDavid's AI Notetaker (from Otter.ai)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T18:57:43Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, File Explorer, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '9:57 PM'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - wyj-rdjj-kan",
+                                "url": "https://meet.google.com/wyj-rdjj-kan",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "highlightedElement": "Samy Aboel-Nil, David Schwartz, Robert Egglestone, Isaac Squires, Dragos Nut\u0103, XO Kanban Weekly Demo",
+                                "uiElements": {
+                                    "details": "conference controls include microphone toggle, camera toggle, captions, present now, more options, hang up call, chat, and participants list"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference",
+                                        "layoutDescription": "Grid layout",
+                                        "visibleText": "Samy Aboel-Nil, David Schwartz, Robert Egglestone, Isaac Squires, Dragos Nut\u0103, XO Kanban Weekly Demo"
+                                    },
+                                    {
+                                        "title": "Participant Names",
+                                        "layoutDescription": "Listed under each video feed",
+                                        "visibleText": "Samy Aboel-Nil, David Schwartz, Robert Egglestone, Isaac Squires, Dragos Nut\u0103, read.ai meeting notes, David's AI Notetaker (from Otter.ai)"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "docs.chainlit.io/api-reference",
+                                "url": "https://docs.chainlit.io/api-reference",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "navigation sidebar, code editor with syntax highlighting"
+                                },
+                                "content": [
+                                    {
+                                        "title": "API Documentation",
+                                        "layoutDescription": "Split view",
+                                        "visibleText": "Documentation, Examples, API Reference, Audio, Video, Avatar, Plotly, TaskList, Ask User, AskUserMessage, AskFileMessage, AskUserAction, Integrations, Langchain Callback Handler, Llamalndex Callback Handler, Haystack, Generation, ChatGeneration, GenerationMessage, CompletionGeneration, task_list = cl.TaskList(), task_list.status = 'Running', task1 = cl.Task(title='Process data'), await task_list.add_task(task1), task2 = cl.Task(title='Perform analysis'), await task_list.add_task(task2), task1.forId = message_id, await task_list.send(), cl.sleep(1), task1.status = cl.TaskStatus.Failed, task2.status = cl.TaskStatus.Failed, await task_list.send()"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively participating in a Google Meet video conference titled 'XO Kanban Weekly Demo'. The meeting involves multiple participants, including Samy Aboel-Nil, David Schwartz, Robert Egglestone, Isaac Squires, and Dragos Nut\u0103. The user is presenting their screen, which shows a variety of applications and documents, indicating a collaborative discussion or demonstration.",
+        "The user is also engaged in reading API documentation on the Chainlit website. The specific page being viewed is the 'API Reference' section, which includes details about creating and managing task lists using the Chainlit library. This suggests the user is researching or referencing documentation to support their work, possibly related to the tasks being discussed in the meeting.",
+        "Throughout the session, the user is switching between the video conference and the API documentation. This indicates a multitasking approach, where the user is likely contributing to the meeting while simultaneously gathering or verifying information from the documentation. The presence of the Chainlit documentation suggests a focus on backend or API-related tasks."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a video conference and reading API documentation. No interactions with AI chat interfaces or AI-driven tools are visible.",
+    "activities": [
+        "READING_SPEC",
+        "MEETING"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [
+        "TYPESCRIPT"
+    ],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DOCUMENT_VIEWER_OR_EDITOR"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 23,
+            "mouse": 4,
+            "date": "2024-06-05T18:50:01Z",
+            "windowTitle": "TaskList - Chainlit - Google Chrome",
+            "processName": "docs.chainlit.io",
+            "visitingUrl": "docs.chainlit.io/api-reference/elements/tasklist",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 5,
+            "mouse": 4,
+            "date": "2024-06-05T18:51:01Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T18:52:01Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T18:53:01Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-05T18:54:01Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T18:55:01Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T18:56:01Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T18:57:01Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T18:58:01Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 11,
+            "mouse": 3,
+            "date": "2024-06-05T18:59:01Z",
+            "windowTitle": "WorkSmart - Google Chrome",
+            "processName": "app.crossover.com",
+            "visitingUrl": "app.crossover.com/x/dashboard/team/4757/5296",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-05T18:50:00Z"
+}

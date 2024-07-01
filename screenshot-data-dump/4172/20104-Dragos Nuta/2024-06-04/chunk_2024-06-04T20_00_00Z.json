@@ -1,0 +1,312 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "chrome",
+    "meet.google.com",
+    "docs.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-04T20:01:04Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes network, sound, and clock (11:01 PM) icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "LinkedIn Renewal 2024 - Google Sheets",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help, Accessibility. Toolbar with undo, redo, print, formatting options, zoom controls, and share button."
+                },
+                "content": [
+                  {
+                    "title": "LinkedIn Renewal 2024",
+                    "layoutDescription": "Spreadsheet with multiple tabs",
+                    "visibleText": "A2\nMeerut, India\n\naction_name SUM of JobT SUM of MQls SUM of mqIs/wk MAX of population\nMeerut, India 141.84 148 1.043429216 1,305,429\nMaharashtra, India 5209.05 574 0.148856298 51,277,591\nDelhi, India 341.54 320 0.9369327165 29,617,000\nBengaluru, India 3108.53 200 0.7903377141 13,707,000\nDelhi, India 2715.51 1945 0.7162558783 142,004\nMeerut, India 63.68 135 0.0516084504 68,868\nMumbai, India 2858.39 1400 0.4897826083 23,355,000\nGurgaon, India 1759.69 749 0.431249223 197,340\nMeerut, India 1083.28 453 0.4181744332 3,073,350\nHyderabad, India 2491.31 1033 0.4417844921 9,746,000\nMeerut, India 2165.41 715 0.3301915111 7,764,604\nPune, India 2829.39 92 0.3270571995 242,920\nJhansi, India 266.36 86 0.3228273032 677,920\nChennai, India 2768.54 98 0.2908801092 19,540,598\nTamil Nadu, India 218.22 62 0.2841169642 1,261,517\nChennai Metropolitan, India 726.96 206 0.269904639 11,324,400\nChennai, India 1946.37 515 0.2649551181 2,384,452\nMeerut, India 1410.02 286 0.245678969 1,729,320\nMeerut, India 509.32 35 0.2354655102 1,014,227\nHyderabad, India 1097.94 233 0.2212965038 7,410,000\nMeerut, India 205.72 44 0.1920116004 693,236\nChandigarh, India 527.52 105 0.1990044586 1,649,000\nJodhpur, India 930.26 175 0.1878459818 1,026,459\nKolkata, India 851.29 157 0.1847829088 2,201,927\nMeerut, India 764.01 286 0.1742685391 17,560,000\nHyderabad, India 1611.07 78 0.1704717637 3,382,000"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T20:05:55Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time as 11:05 PM and date as 6/4/2024. System tray includes network, sound, and battery status icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - keh-vdmq-vie - Google Chrome",
+                "url": "https://meet.google.com/keh-vdmq-vie",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, and Google account avatar visible"
+                },
+                "content": [
+                  {
+                    "title": "Video Conference",
+                    "layoutDescription": "Two video feeds displayed",
+                    "visibleText": "Noumaan Shah, Dragos Nuta"
+                  },
+                  {
+                    "title": "Meeting Controls",
+                    "layoutDescription": "Controls at bottom",
+                    "visibleText": "Microphone toggle, camera toggle, captions, present now, more options, hang up"
+                  }
+                ]
+              },
+              {
+                "title": "Crossover Hire - Google Chrome",
+                "url": "https://ws-lambda.atlassian.net/jira",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, and Google account avatar visible"
+                },
+                "content": [
+                  {
+                    "title": "Crossover Hire Backlog",
+                    "layoutDescription": "List of project issues",
+                    "visibleText": "Backlog (93 of 231 issues visible) LAMBDA-75843 Iteration 2 of Lead Source Tracking Enhancements LAMBDA-75685 The campaignCookie is not set on generic pages (reiteration) LAMBDA-75449 Include job recommendations in reject emails LAMBDA-74606 Many users are complaining that they are stuck at the login to the Crossover portal LAMBDA-75627 Interview Bot incorrectly manages ASR state by returning it to 'Not Started' LAMBDA-73792 XO Report token usage LAMBDA-74247 Matching Interview ASR remains in the Started state when another assessment is graded and dropped LAMBDA-74427 Change manual BFG verification work unit trigger LAMBDA-74643 Update ENCODED_STYLES for Atlas widget component LAMBDA-75147 Profile Application 360 shows only one interview for the applications with multiple interviews LAMBDA-75444 Assessment renewal feature LAMBDA-75050 Cancel the backlog of ASRs for applications canceled due to pipelines closed LAMBDA-74644 Interview Bot assessments are returning to 'Not Started' state while candidates claim it was completed LAMBDA-71091 DO NOT PICK TICKETS BELOW THIS LINE LAMBDA-64660 [Update Email Template] Approve, High_CCAT, Candidate, send from notifications@crossover.com LAMBDA-65191 Proper Waiting For Grading screen on English stage LAMBDA-83759 Incorrect label displayed for Candidate Submission LAMBDA-65764 Percent Score Missing LAMBDA-71979 Update the Admin Tool Sourcing tab LAMBDA-64810 Protect against Click-Jacking vulnerability LAMBDA-65085 Gracefully Handle Get Assessment URL issues"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T20:07:18Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. System tray includes network, sound, and clock (11:07 PM, 6/4/2024).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Meet - keh-vdmq-vie - Google Chrome",
+                "url": "https://meet.google.com/keh-vdmq-vie",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, navigation buttons"
+                },
+                "content": [
+                  {
+                    "title": "Video Conference",
+                    "layoutDescription": "Two video feeds displayed",
+                    "visibleText": "Noumaan Shah, Dragos Nuta"
+                  }
+                ]
+              },
+              {
+                "title": "Crossover Hire - Google Chrome",
+                "url": "https://ws-lambda.atlassian.net/jira",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, navigation buttons"
+                },
+                "content": [
+                  {
+                    "title": "Crossover Hire",
+                    "layoutDescription": "List of project issues",
+                    "visibleText": "Crossover Hire Software project Backlog PLANNING Board Timeline Backlog Active sprints Calendar NEW Reports List Goals Issues AI Components DEVELOPMENT Code Releases Project pages Scheduled issues ScripRunner Enhanced Search Add shortcut Project settings You're in a company-managed project Learn more Backlog (93 of 231 issues visible) LAMBDA-75783 Iteration 2 of Lead Source Tracking Enhancements LAMBDA-75685 The campaignCookie is not set on generic pages (reiteration) LAMBDA-75449 Include job recommendations in reject emails LAMBDA-74606 Many users are complaining that they are stuck at the login to the Crossover portal LAMBDA-75627 Interview Bot incorrectly manages ASR state by returning it to 'Not Started' LAMBDA-73792 XO Report token usage LAMBDA-74247 Matching Interview ASR remains in the Started state when another assessment is graded and dropped LAMBDA-74427 Change manual BFG verification work unit trigger LAMBDA-74643 Update ENCODED_STYLES for Atlas widget component LAMBDA-75147 Profile Application 360 shows only one interview for the applications with multiple interviews LAMBDA-75444 Assessment renewal feature LAMBDA-75050 Cancel the backlog of ASRs for applications canceled due to pipelines closed LAMBDA-74644 Interview Bot assessments are returning to 'Not Started' state while candidates claim it was completed LAMBDA-71091 DO NOT PICK TICKETS BELOW THIS LINE LAMBDA-64660 [Update Email Template] Approve, High_CCAT, Candidate, send from notifications@crossover.com LAMBDA-68191 Proper Waiting For Grading screen on English stage LAMBDA-65755 Incorrect label displayed for Candidate Submission LAMBDA-65764 Percent Score Missing LAMBDA-71979 Update the Admin Tool Sourcing tab LAMBDA-64810 Protect against Click-Jacking vulnerability LAMBDA-65085 Gracefully Handle Get Assessment URL issues More results"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in a Google Sheets document titled 'LinkedIn Renewal 2024'. The spreadsheet contains multiple tabs and displays data related to various regions in India, including metrics such as the sum of jobs, sum of MQLs, and population statistics. The user is likely analyzing or updating this data, as indicated by the detailed view of the spreadsheet and the presence of a bar chart visualizing 'mqls/wk'.",
+    "The user is participating in a Google Meet video conference with two other participants, Noumaan Shah and Dragos Nuta. The meeting interface shows standard controls such as microphone toggle, camera toggle, captions, present now, more options, and hang up. This indicates that the user is engaged in a collaborative discussion, possibly related to the data or project they are working on.",
+    "The user has a Jira board open in Google Chrome, specifically the 'Crossover Hire' project. The board displays a backlog of issues, with various tasks listed under different categories. Some of the visible tasks include 'Iteration 2 of Lead Source Tracking Enhancements', 'Include job recommendations in reject emails', and 'Update ENCODED_STYLES for Atlas widget component'. This suggests that the user is reviewing or managing project tasks, likely in preparation for or during the meeting."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in data analysis in Google Sheets, participating in a Google Meet video conference, and reviewing project tasks in Jira. No AI chat interfaces or AI-driven suggestions are visible in the screenshots.",
+  "activities": [
+    "READING_SPEC",
+    "MEETING",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [
+    "UI",
+    "BACKEND"
+  ],
+  "programmingLanguages": [
+    "OTHER"
+  ],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 4,
+      "mouse": 24,
+      "date": "2024-06-04T20:00:11Z",
+      "windowTitle": "meet.google.com is sharing a window.",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 4,
+      "mouse": 30,
+      "date": "2024-06-04T20:01:11Z",
+      "windowTitle": "meet.google.com is sharing a window.",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 8,
+      "mouse": 19,
+      "date": "2024-06-04T20:02:11Z",
+      "windowTitle": "meet.google.com is sharing a window.",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 13,
+      "mouse": 14,
+      "date": "2024-06-04T20:03:11Z",
+      "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 31,
+      "mouse": 4,
+      "date": "2024-06-04T20:04:12Z",
+      "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T20:05:12Z",
+      "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-04T20:06:11Z",
+      "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T20:07:11Z",
+      "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T20:08:11Z",
+      "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 1,
+      "mouse": 16,
+      "date": "2024-06-04T20:09:11Z",
+      "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit?userstoinvite=mohit.khosla@ignitetech.com&role=writer#heading=h.azz4iu9a7k3o",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-04T20:00:00Z"
+}

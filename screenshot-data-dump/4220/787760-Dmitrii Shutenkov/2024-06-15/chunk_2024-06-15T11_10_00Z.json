@@ -1,0 +1,275 @@
+{
+  "candidateId": 1444536,
+  "apps": [
+    "ws-lambda.atlassian.net",
+    "mail.google.com",
+    "crossover.lightning.force.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-15T11:12:22Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Search, Edge, File Explorer, Windows Terminal, and several other unidentified applications. Also includes system tray with notifications, sound, network, and battery status icons, as well as the date and time display showing '12:12:22 15/06/2024' and language setting 'ENG'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Fix a Bug - WS Lambda - Jira Service Management - Google Chrome",
+                "url": "https://ws-lambda.atlassian.net",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "UI includes back, forward, refresh, home buttons, address bar, bookmarks bar with icons for 'SF Prod', 'SF Sandbox', 'ADFS', 'My Tasks', 'Crossover Sprints', 'Create Task', 'Technical Debt - Crossover', 'Guides - Crossover', 'WS.Eng TPO: Leadership', 'Task Catalog'. Tabs open with titles 'Fix a Bug - WS Lambda - Jira Service Management' and other tabs including 'Task Catalog'."
+                },
+                "content": [
+                  {
+                    "title": "Jira Service Management Issue Creation",
+                    "layoutDescription": "Web form layout",
+                    "visibleText": "Description * Normal text B I ..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-15T11:16:24Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, Word, Excel, PowerPoint, OneNote, Outlook, File Explorer, Visual Studio Code, and a clock showing 12:16:24 on 15/06/2024",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "LAMBDA-76075 Complex Problem-Solving in Code from expert to beginner - WorkSmart Lambda - Google Chrome",
+                "url": "ws-lambda.atlassian.net/browse/LAMBDA-76075",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, Atlassian cookie notice, and various browser extension icons"
+                },
+                "content": [
+                  {
+                    "title": "LAMBDA-76075",
+                    "layoutDescription": "page layout with left sidebar and main content area",
+                    "visibleText": "WS Lambda\nService project\nQueues\nRaise a request\nScheduled Issues\nScriptRunner Enhanced Search\nKnowledge base\nReports\nChannels\nYou're in a company-managed project\nIsabelle A. June 13, 2024 at 2:40 PM\nHi @Dmitrii Shutenkov,\nDo we know why the score this candidate changed?\nOn the new coding score, I understand the max score should be 600 which would mean that the original score of 68.3333% is correct. What am I missing?\nThank you,\nEdit · Delete\n@Isabelle A. there is a bug in our grading of the new Codes"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-15T11:17:49Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Widgets, File Explorer, Microsoft Edge, Google Chrome, and several unidentified applications. System tray includes network status, sound volume, battery indicator, ENG language selector, and clock showing '12:17:50' with date '15/06/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Complex Problem-Solving in Code | Application Step Result | Salesforce",
+                "url": "https://crossover.lightning.force.com",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs for 'SF Prod', 'SF Sandbox', 'ADFS', 'My Tasks', 'Crossover Sprints', 'Technical Debt - Crossover', 'Guides - Crossover...', 'WS.Eng TPO: Leader...', 'Task Catalog'. Address bar, navigation buttons, bookmarks bar, and multiple extension icons visible."
+                },
+                "content": [
+                  {
+                    "title": "Application Step Result",
+                    "layoutDescription": "Structured layout with sections",
+                    "visibleText": "Complex Problem-Solving in Code\nInformation\nApplication Step Result Complex Problem-Solving in Code\nAdvertised Title AI Super Engineer - Finance\nApplication Yeshwanth Arcot - AI Super Engineer - Finance\nCandidate 0012j00000ZMG3sAAH\nApplication Step Complex Problem-Solving in Code\nApplication Stage SMQ\nPipelined 012j000000mN0AAA2\nGrader Alexandru Marginean\nOwner Alexandru Marginean\nGrader is PHM\nGrader is PM\nOwner=LoggedInUser\nState Result: Failed\nRaw Score 525.0\nPercent Score 53%\nBadge Simulated No\nBadge Earned Beginner - Backend Application Development\nBadge Hidden\nPass Threshold 75%\nReject Threshold 75%\nRetry Threshold\nLast Modified By Crossover No-Reply, 11/06/2024 12:18\nCreated By Crossover No-Reply, 11/06/2024 10:22\nTest Information\nAssessment URL https://app.codesignal.com/pre-screen/evaluation/ URL https://app.codesignal.com/evaluation-result/cHQZ Time 11/06/2024 12:18\nSubmission Duration 5,423\nGrading Result URL https://app.codesignal.com/evaluation-result/cHQZ URL https://app.codesignal.com/evaluation-result/cHQZ Time 11/06/2024 12:18\nPast SLA\nProduct Background Score 3"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in creating and managing issues on Jira Service Management. At 11:12:22Z, the user is seen filling out a form to report a bug related to the 'companyTestSessionFinished' event handling an old algorithm. The form includes a detailed description with links to GitHub and Salesforce for reference. The user sets the priority to 'High' and selects 'Assessments' as the product category before submitting the form.",
+    "At 11:16:24Z, the user is reviewing a Jira issue titled 'LAMBDA-76075 Complex Problem-Solving in Code from expert to beginner'. The user is responding to a query from Isabelle A. regarding a candidate's score change. Isabelle A. mentions that the new coding score should be 600, and the original score of 68.3333% is correct. The user is typing a response to Isabelle A., indicating there is a bug in the grading of the new Codes.",
+    "At 11:17:49Z, the user is examining an application step result on Salesforce for a candidate named Yeshwanth Arcot. The application step is 'Complex Problem-Solving in Code', and the result is marked as 'Failed' with a raw score of 525.0 and a percent score of 53%. The user is reviewing detailed information about the application, including the grader's comments, assessment URLs, and submission details. The user is likely investigating the reasons behind the failed result and the discrepancies in the grading process."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in manual tasks such as filling out forms, responding to queries, and reviewing application results on Jira Service Management and Salesforce. No AI chat interfaces or AI-generated suggestions are visible in the screenshots.",
+  "activities": [
+    "READING_SPEC",
+    "WRITING_SPEC",
+    "EMAIL"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "UI"
+  ],
+  "programmingLanguages": [
+    "SALESFORCE",
+    "OTHER"
+  ],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_SPEC",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 48,
+      "mouse": 9,
+      "date": "2024-06-15T11:10:41Z",
+      "windowTitle": "Fix a Bug - WS Lambda - Jira Service Management - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/servicedesk/customer/portal/5/group/80/create/634",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 24,
+      "mouse": 10,
+      "date": "2024-06-15T11:11:41Z",
+      "windowTitle": "Fix a Bug - WS Lambda - Jira Service Management - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/servicedesk/customer/portal/5/group/80/create/634",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-15T11:12:41Z",
+      "windowTitle": "Codesignal grading incorrectly handles case of 'companyTestSessionFinished' event - WS Lambda - Jira Service Management - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/servicedesk/customer/portal/5/LAMBDA-76125?created=true",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 17,
+      "mouse": 11,
+      "date": "2024-06-15T11:13:41Z",
+      "windowTitle": "Inbox (36) - dmitrii.shutenkov@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 11,
+      "mouse": 4,
+      "date": "2024-06-15T11:14:41Z",
+      "windowTitle": "[LAMBDA-76075] Complex Problem-Solving in Code from expert to beginner - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-76075",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 7,
+      "date": "2024-06-15T11:15:41Z",
+      "windowTitle": "[LAMBDA-76075] Complex Problem-Solving in Code from expert to beginner - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-76075",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 66,
+      "mouse": 5,
+      "date": "2024-06-15T11:16:41Z",
+      "windowTitle": "Crossover Sprints - Backlog - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/jira/software/c/projects/HIRE/boards/25/backlog",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 54,
+      "mouse": 20,
+      "date": "2024-06-15T11:17:41Z",
+      "windowTitle": "Complex Problem-Solving in Code | Application Step Result | Salesforce - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/r/Application_Step_Result__c/a0BIj0000013lKeMAI/view",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 38,
+      "mouse": 7,
+      "date": "2024-06-15T11:18:41Z",
+      "windowTitle": "Complex Problem-Solving in Code | Application Step Result | Salesforce - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/r/Application_Step_Result__c/a0BIj0000013lKeMAI/view",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 1,
+      "mouse": 7,
+      "date": "2024-06-15T11:19:41Z",
+      "windowTitle": "[LAMBDA-76075] Complex Problem-Solving in Code from expert to beginner - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-76075",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-15T11:10:00Z"
+}

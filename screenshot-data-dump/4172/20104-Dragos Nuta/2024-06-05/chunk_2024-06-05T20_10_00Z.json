@@ -1,0 +1,322 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "meet.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T20:10:49Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, widgets, chat, Microsoft Edge, File Explorer, Microsoft Store, settings, and system tray with notifications, sound, network, and battery status icons",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - zii-cirx-oyg - Google Chrome",
+                "url": "https://meet.google.com/zii-cirx-oyg",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, profile icon, extensions, and minimize, maximize, close buttons"
+                },
+                "content": [
+                  {
+                    "title": "Google Meet Video Call",
+                    "layoutDescription": "Video call interface with participant videos and controls",
+                    "visibleText": "Isaac Squires, Dragos Nuta, read.ai meeting notes"
+                  },
+                  {
+                    "title": "Chat Sidebar",
+                    "layoutDescription": "Sidebar with chat threads",
+                    "visibleText": "Threads > Thread #0a0a7660-9204-412a-8c7e-2b6b0a1b5b6e - My-GPT40, Tree view, Chat view, Message Run LLM, Other, tristan.muniz@learnwith.ai, Please write an email to ..., AI Assist, To better understand your request, could y..., tristan.muniz@learnwith.ai, Original email: \"Dear St..., AI Assist, Hi Tristan, Here's a follow-up email draft fo..., tristan.muniz@learnwith.ai, I'm writing an email to th..., AI Assist, Hi Tristan, Here's a clearer version o..., tristan.muniz@learnwith.ai, For TeachTales, we can'..., AI Assist, Hi Tristan, Here's a draft for the email to Te..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T20:15:25Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, widgets, and several pinned applications. Displays the system tray with network, sound, and battery status icons, as well as the date and time (11:15 PM, 6/5/2024).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Meet - zii-cirx-oyg - Google Chrome",
+                "url": "meet.google.com/zii-cirx-oyg",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and various browser controls including navigation buttons, extensions, and user profile icon."
+                },
+                "content": [
+                  {
+                    "title": "Video Conference",
+                    "layoutDescription": "Two main video feeds, one large and one small, participant list, and meeting controls.",
+                    "visibleText": "Isaac Squires, Dragos Nuta"
+                  },
+                  {
+                    "title": "Chat",
+                    "layoutDescription": "Right side panel",
+                    "visibleText": "read.ai meeting notes"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "GetItErial AI",
+            "windows": [
+              {
+                "title": "Threads - Thread #0a00760-9204... - GetItErial AI",
+                "url": "cloud.getiterial.ai/projects/ai-coach",
+                "position": "maximized",
+                "isActive": false,
+                "uiElements": {
+                  "details": "navigation sidebar, top menu with project and thread options, and main content area."
+                },
+                "content": [
+                  {
+                    "title": "Thread Interaction",
+                    "layoutDescription": "Detailed interaction tree with timestamps and actions.",
+                    "visibleText": "Message Run LLM Other tristan.muniz@learnwithai.com Please write an email ... AI Assist Agent 0.5717s Begin 1.006s input-mapper 0.075s Determine What Info to Retrieve 0.744s input-mapper 0.039s Clarify with User 4.526s input-mapper 0.035s To better understand your request, could... Original email: 'Dear ...'"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T20:19:38Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time as 11:19 PM and date as 6/5/24. System tray includes network, sound, and battery status icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Meet - zii-cirx-oyg - Google Chrome",
+                "url": "meet.google.com/zii-cirx-oyg?authu",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, and extensions"
+                },
+                "content": [
+                  {
+                    "title": "Video Conference",
+                    "layoutDescription": "Two main video feeds with smaller thumbnails",
+                    "visibleText": "Isaac Squires, Dragos Nutu, read.ai meeting notes"
+                  },
+                  {
+                    "title": "Browser Tabs",
+                    "layoutDescription": "Multiple tabs open",
+                    "visibleText": "Crossover Sprints - Backlog - WorkSmart, Meet - zii-cirx-oyg"
+                  }
+                ]
+              },
+              {
+                "title": "WorkSmart Lambda - Atlassian Jira",
+                "url": "ws-lambda.atlassian.net/jira/software",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "navigation sidebar, search bar, issue list, and buttons"
+                },
+                "content": [
+                  {
+                    "title": "Backlog",
+                    "layoutDescription": "List of issues with titles and details",
+                    "visibleText": "LAMBDA.75774 Plan and Design Stories - Week 23 - Michael M, LAMBDA.75697 Process meeting transcripts, LAMBDA.75870 Test vision models on extracting data from timecards, LAMBDA.75696 Propose a solution for adding audio transcripts, LAMBDA.75795 Iterate extraction of tasks & questions from screenshots, LAMBDA.75842 Improve prompt structure"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Google Meet video conference, as evidenced by the active window titled 'Meet - zii-cirx-oyg - Google Chrome'. The meeting participants include Isaac Squires and Dragos Nuta, with a third participant labeled 'read.ai meeting notes'. The user is actively participating in the meeting, as indicated by the visible video feeds and meeting controls. The meeting appears to be focused on discussing project-related tasks, as suggested by the presence of a Jira backlog in another browser tab.",
+    "In addition to the video conference, the user is interacting with the GetItErial AI application. The screenshots show a detailed interaction tree within a thread titled 'My-GPT40'. The user, identified by the email 'tristan.muniz@learnwith.ai', is using an AI assistant to draft emails. The AI assistant is providing suggestions and clarifications for the email content, indicating a collaborative effort between the user and the AI tool to generate accurate and effective communication.",
+    "The user is also reviewing a Jira backlog in the 'WorkSmart Lambda' project on Atlassian Jira. The backlog includes several issues, such as 'Plan and Design Stories - Week 23', 'Process meeting transcripts', and 'Test vision models on extracting data from timecards'. This indicates that the user is involved in project management and task prioritization, likely discussing these items during the Google Meet conference."
+  ],
+  "aiUseSummary": "The user utilizes AI tools extensively in their workflow. Specifically, they are using the GetItErial AI assistant to draft and refine emails. The AI assistant provides suggestions, clarifies user inputs, and generates email drafts based on the user's instructions. This interaction highlights the user's reliance on AI for enhancing communication efficiency and accuracy. The AI assistant's involvement in the email drafting process demonstrates its impact on the user's productivity, allowing them to focus on other critical tasks while ensuring high-quality communication.",
+  "activities": [
+    "MEETING",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [
+    "BACKEND"
+  ],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [
+    "DEVFACTORY_TPM_AI"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T20:10:02Z",
+      "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 6,
+      "date": "2024-06-05T20:11:02Z",
+      "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 4,
+      "date": "2024-06-05T20:12:02Z",
+      "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T20:13:02Z",
+      "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T20:14:02Z",
+      "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T20:15:02Z",
+      "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T20:16:02Z",
+      "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T20:17:02Z",
+      "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T20:18:02Z",
+      "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T20:19:02Z",
+      "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-05T20:10:00Z"
+}

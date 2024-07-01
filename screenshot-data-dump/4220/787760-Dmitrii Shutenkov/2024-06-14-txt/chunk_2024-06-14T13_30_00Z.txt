@@ -1,0 +1,295 @@
+{
+    "candidateId": 1444536,
+    "apps": [
+        "LockApp",
+        "TOTALCMD64",
+        "chatgpt.com",
+        "cmd"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T13:30:06Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for network status, sound volume, and battery level",
+                        "position": "bottom right"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Windows Default Lock Screen",
+                        "windows": [
+                            {
+                                "title": "Windows Default Lock Screen",
+                                "position": "full screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "image of a landscape with a windmill, clouds, and fields"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Time and Date",
+                                        "layoutDescription": "Center top",
+                                        "visibleText": "14:30\nFriday 14 June"
+                                    },
+                                    {
+                                        "title": "Weather Widget",
+                                        "layoutDescription": "Bottom left",
+                                        "visibleText": "S\u00e3o Martinho\n22\u00b0C\nMostly cloudy\n22\u00b0 / 14\u00b0\nSee full forecast"
+                                    },
+                                    {
+                                        "title": "Market Indices",
+                                        "layoutDescription": "Bottom center",
+                                        "visibleText": "Markets\nFTSE 100 -0.12% 8,153.64\nFTSE 250 -0.30% 20,135.86\nFTSE 350 -0.15% 4,486.28\nSee more in markets"
+                                    },
+                                    {
+                                        "title": "Traffic Information",
+                                        "layoutDescription": "Bottom right",
+                                        "visibleText": "Traffic near you\nS\u00e3o Martinho\nLight traffic\nSee more traffic updates"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T13:35:55Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Microsoft Edge, File Explorer, Google Chrome, and system tray including network, sound, notifications, and clock",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Salesforce SOQL Query Python - Google Chrome",
+                                "url": "chatgpt.com/c/0dda060a-caa8-47b5-a",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "address bar, tabs, bookmarks bar, vertical scrollbar, navigation buttons, profile icon, extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Step 4: Create and Deploy the Lambda Function",
+                                        "layoutDescription": "Text and code block visible",
+                                        "visibleText": "Step 4: Create and Deploy the Lambda Function\n\n1. Create a Lambda Function:\n\nbash\naws lambda create-function \\\n--function-name SalesforceQuery \\\n--runtime python3.8 \\ # replace with your Python version\n--role arn:aws:iam::your-account-id:role/your-lambda-role \\\n--handler lambda_function.lambda_handler \\\n--zip-file fileb://function.zip \\\n--timeout 15 \\\n--memory-size 128\n\nRole: Replace `your-account-id` and `your-lambda-role` with the appropriate IAM role ARN that has permissions to execute Lambda functions."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T13:36:53Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, File Explorer, Microsoft Teams, and other unidentified applications. Also includes system clock showing '14:36:54' and date '14/06/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Salesforce SOQL Query Python - Google Chrome",
+                                "url": "chatgpt.com/c/0dda060a-caab-47b5-a",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs for 'SF Prod', 'SF Sandbox', 'ADFS', 'My Tasks', 'Crossover Sprints', 'Technical Debt - Crossover', 'Guides - Crossover...', 'WS.Eng TPO: Leadership...', 'Task Catalog' visible. Address bar, bookmarks bar, and multiple extension icons visible."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Create a Deployment Package",
+                                        "layoutDescription": "Text and code block",
+                                        "visibleText": "2. Create a Deployment Package:\n\nbash\ncd venv/lib/python3.x/site-packages/ # replace 'python3.x' with your Python version\nzip -r9 $(OLDPWD)/function.zip .\ncd $OLDPWD\nzip -g function.zip lambda_function.py"
+                                    },
+                                    {
+                                        "title": "Create and Deploy the Lambda Function",
+                                        "layoutDescription": "Text and code block",
+                                        "visibleText": "Step 4: Create and Deploy the Lambda Function\n\n1. Create a Lambda Function:\n\nbash\naws lambda create-function \\\n--function-name SalesforceQuery \\\n--runtime python3.8 # replace with your Python version"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user started their session at 14:30 on June 14, 2024, with the Windows Default Lock Screen active. The lock screen displayed the current time, date, weather information for S\u00e3o Martinho, market indices, and traffic updates. This indicates that the user was not actively engaged in any specific task at this moment.",
+        "At 14:35:55, the user was actively using Google Chrome, specifically on a page titled 'Salesforce SOQL Query Python' on chatgpt.com. The user was viewing a step-by-step guide on creating and deploying a Lambda function using AWS. The visible code snippets and instructions suggest that the user was focused on setting up a Lambda function with Python 3.8 runtime, configuring the IAM role, and specifying the handler and zip file for the function.",
+        "By 14:36:53, the user continued to be engaged with the same Google Chrome window, still on the 'Salesforce SOQL Query Python' page. The user was now viewing instructions on creating a deployment package for the Lambda function. The steps included navigating to the site-packages directory, zipping the contents, and adding the lambda_function.py file to the zip archive. This indicates the user was following detailed technical instructions to package and deploy their code."
+    ],
+    "aiUseSummary": "The user utilized ChatGPT on chatgpt.com for guidance on creating and deploying a Lambda function with Python. The interaction involved following detailed steps provided by ChatGPT, including setting up the Lambda function, configuring the IAM role, and creating a deployment package. This use of AI tools helped the user efficiently gather the necessary information and instructions for their task, enhancing their productivity and ensuring they followed best practices.",
+    "activities": [
+        "READING_SPEC",
+        "RESEARCH"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "IAC"
+    ],
+    "programmingLanguages": [
+        "PYTHON"
+    ],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "OPENAI_CHATGPT"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "RESEARCH",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T13:30:25Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T13:31:25Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T13:32:25Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T13:33:25Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 7,
+            "mouse": 9,
+            "date": "2024-06-14T13:34:25Z",
+            "windowTitle": "Total Commander (x64) 10.52 - NOT REGISTERED",
+            "processName": "TOTALCMD64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 7,
+            "mouse": 22,
+            "date": "2024-06-14T13:35:25Z",
+            "windowTitle": "Salesforce SOQL Query Python - Google Chrome",
+            "processName": "chatgpt.com",
+            "visitingUrl": "chatgpt.com/c/0dda060a-caa8-47b5-acfb-08cca56a5dd5",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 33,
+            "mouse": 7,
+            "date": "2024-06-14T13:36:25Z",
+            "windowTitle": "Salesforce SOQL Query Python - Google Chrome",
+            "processName": "chatgpt.com",
+            "visitingUrl": "chatgpt.com/c/0dda060a-caa8-47b5-acfb-08cca56a5dd5",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 35,
+            "mouse": 4,
+            "date": "2024-06-14T13:37:25Z",
+            "windowTitle": "Administrator: Command Prompt",
+            "processName": "cmd",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 36,
+            "mouse": 4,
+            "date": "2024-06-14T13:38:25Z",
+            "windowTitle": "Salesforce SOQL Query Python - Google Chrome",
+            "processName": "chatgpt.com",
+            "visitingUrl": "chatgpt.com/c/0dda060a-caa8-47b5-acfb-08cca56a5dd5",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 24,
+            "mouse": 0,
+            "date": "2024-06-14T13:39:25Z",
+            "windowTitle": "Administrator: Command Prompt",
+            "processName": "cmd",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T13:30:00Z"
+}

@@ -1,0 +1,272 @@
+{
+    "candidateId": 1444536,
+    "apps": [
+        "sandbox-profile.crossover.com",
+        "ws-lambda.atlassian.net"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-15T13:22:38Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, File Explorer, Microsoft Edge, and system tray with notifications, language input (ENG), and clock showing '14:22 15/06/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Reject - WorkSmart Lambda - Google Chrome",
+                                "url": "ws-lambda.atlassian.net/browse/LAM",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, Atlassian cookie notice, user profile icon, notification bell icon, settings icon"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Reject",
+                                        "layoutDescription": "input area with formatting toolbar",
+                                        "visibleText": "Respond to customer\nYour comment will be visible to customers. Embed attachments to make them visible to customers.\nStyle\nWhen a candidate has\npreview \u00b7 syntax help"
+                                    },
+                                    {
+                                        "title": "WorkSmart Lambda",
+                                        "layoutDescription": "Sidebar navigation",
+                                        "visibleText": "WS Lambda\nService project\nQueues\nRaise a request\nScheduled Issues\nScriptRunner Enhanced...\nKnowledge base\nReports\nChannels\nYou're in a company-managed project"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-15T13:23:20Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, widgets, and system tray with time, language, and network status",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Reject - WorkSmart Lambda - Google Chrome",
+                                "url": "ws-lambda.atlassian.net/browse/LAM",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, navigation buttons, Atlassian cookie notice"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Reject",
+                                        "layoutDescription": "content area with text fields and buttons",
+                                        "visibleText": "Comment\nRespond to customer\nInternal comment\nYour comment will be visible to customers. Embed attachments to make them visible to customers.\nStyle B I U A\nWhen a candidate has a real job application and application to a category the\npreview \u00b7 syntax help\nReject Cancel"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-15T13:28:06Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, File Explorer, Microsoft Edge, Google Chrome, Notepad, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Outlook, OneNote, Teams, Visual Studio Code, and system tray including network, sound, ENG language, and date/time display",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Reject - WorkSmart Lambda - Google Chrome",
+                                "url": "ws-lambda.atlassian.net/browse/LAM",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, Atlassian site header, and cookie consent banner"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Reject",
+                                        "layoutDescription": "content area with text fields and buttons",
+                                        "visibleText": "Reject\nComment\nRespond to customer Internal comment\nYour comment will be visible to customers. Embed attachments to make them visible to customers.\nStyle\nB I U A v \u03c1 \u2211 \u2261 \u0398 v +\nWhen a candidate has a real job application and application to a category the system doesn't work properly.\n1. If the candidate applied for a real job but didn't set the application as preferred they see an assessment from the category application in the next step.\n2. ASR that is linked to a category application cannot be started in the real job application and there is no way to take it\n3. When ASR in the real application\npreview \u00b7 syntax help\nReject Cancel"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in responding to a customer query on the WS Lambda service project. They are using the Google Chrome browser to access the Atlassian Jira platform, specifically the issue tracker at ws-lambda.atlassian.net. The user is drafting a detailed response to a customer, explaining the issues encountered when a candidate applies for a real job and a category simultaneously. The response includes multiple points outlining the problems and potential steps to address them.",
+        "The user is focused on writing a detailed comment in the 'Reject' section of the Jira issue tracker. They are explaining the technical issues that arise when a candidate's application is linked to both a real job and a category. The user is providing a step-by-step explanation of the problem, including specific scenarios where the system fails to work as expected. This activity involves careful consideration of the technical details and clear communication to ensure the customer understands the issue."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is manually drafting a response to a customer query on the Atlassian Jira platform without any visible assistance from AI tools. The focus is on providing a detailed and clear explanation of the technical issues encountered in the application process.",
+    "activities": [
+        "WRITING_SPEC"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_SPEC",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 8,
+            "date": "2024-06-15T13:20:41Z",
+            "windowTitle": "My Next Step - Crossover - Google Chrome",
+            "processName": "sandbox-profile.crossover.com",
+            "visitingUrl": "sandbox-profile.crossover.com/next-step",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 25,
+            "mouse": 8,
+            "date": "2024-06-15T13:21:41Z",
+            "windowTitle": "[LAMBDA-75845] Sign-up without applying for a specific job - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-75845",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 63,
+            "mouse": 8,
+            "date": "2024-06-15T13:22:41Z",
+            "windowTitle": "Reject - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-75845",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 51,
+            "mouse": 5,
+            "date": "2024-06-15T13:23:41Z",
+            "windowTitle": "Reject - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-75845",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 82,
+            "mouse": 2,
+            "date": "2024-06-15T13:24:41Z",
+            "windowTitle": "Reject - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-75845",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 123,
+            "mouse": 2,
+            "date": "2024-06-15T13:25:41Z",
+            "windowTitle": "Reject - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-75845",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 106,
+            "mouse": 0,
+            "date": "2024-06-15T13:26:41Z",
+            "windowTitle": "Reject - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-75845",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 110,
+            "mouse": 5,
+            "date": "2024-06-15T13:27:41Z",
+            "windowTitle": "Reject - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-75845",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 120,
+            "mouse": 0,
+            "date": "2024-06-15T13:28:41Z",
+            "windowTitle": "Reject - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-75845",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 123,
+            "mouse": 0,
+            "date": "2024-06-15T13:29:41Z",
+            "windowTitle": "Reject - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-75845",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-15T13:20:00Z"
+}

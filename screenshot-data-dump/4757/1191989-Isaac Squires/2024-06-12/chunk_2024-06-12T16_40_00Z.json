@@ -1,0 +1,240 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "Zoom",
+    "mail.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T16:41:37Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, Zoom, File Explorer, Microsoft Word, and other unidentified applications. System clock shows '10:41'. Date displayed is '12 Jun 2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Gmail",
+                "url": "https://mail.google.com",
+                "position": "left side of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "interface with navigation pane on the left, main content area displaying emails"
+                },
+                "content": [
+                  {
+                    "title": "Email List",
+                    "layoutDescription": "List format",
+                    "visibleText": "Unread\nIvan at Notion\nTikTok For Business\nGoogle Ads\nOluremi Foilashade 2\nTristan, Phil 2\nElizabeth Ola 2\nPaschal Walker 2\nGideon Brown 2\nChristina 2\nGiovanny Ramirez (G.\nTristan Muniz\nElizabeth Olageshin\nNathani... Nathani. 4\nElizabe... Elizabe. 4\nSamy... Simon 5\nDan Meyer from Math.\nPhil, me 2\nmahariman76@gmail.com\nNiraj, Bogdan 2\nTory, Giorgio 3\nRavijira Rao (Googl."
+                  }
+                ]
+              },
+              {
+                "title": "Tasks",
+                "url": "https://tasks.google.com",
+                "position": "right side of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "interface with task list on the right"
+                },
+                "content": [
+                  {
+                    "title": "Tasks",
+                    "layoutDescription": "List format",
+                    "visibleText": "Active\nAdd a task\nAuthentication error on UGFS after long session\nhttps://chat.google.com/room/AAAmZml2B6A progress / Q3 plan Budget meeting\nhttps://docs.google.com/docume...\nReven models for each product\nhttps://docs.google.com/spreadsheets/d/1 for Phil's son\nSamy 1:1 topics\n - App testing as a service\n - Doreen run research study...\nUser submitted video\nhttps://drive.google.com/file/d/1alTcH01yc test\nhttps://drive.google.com/file/d/1alTcH01ycS grade (support US grades only)\nPost on TikTok\nTikTok following the unit schedule on the calendar\nSpicy channel per AP course\nhttps://assetstore.unity.com/packages/too"
+                  }
+                ]
+              },
+              {
+                "title": "Meeting",
+                "position": "center of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "meeting controls including mute, stop video, share screen, summary, apps, more, and leave button"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Tristan Muniz",
+                      "expression": "focused"
+                    },
+                    {
+                      "name": "Isaac Squires",
+                      "expression": "neutral"
+                    }
+                  ]
+                },
+                "content": [
+                  {
+                    "title": "Meeting",
+                    "layoutDescription": "Video conference layout",
+                    "visibleText": "Tristan Muniz\nIsaac Squires"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in a Zoom meeting, as evidenced by the Zoom application being open and the video conference layout visible on the screen. The meeting participants include Tristan Muniz and Isaac Squires, with Tristan appearing focused and Isaac maintaining a neutral expression. The meeting controls, such as mute, stop video, share screen, summary, apps, more, and leave button, are visible, indicating that the user is actively participating in the meeting.",
+    "In addition to the Zoom meeting, the user has the Gmail application open in a Chrome browser window. The Gmail interface displays a list of unread emails, including messages from Ivan at Notion, TikTok For Business, Google Ads, and several other contacts. The user is likely reviewing their emails, as the Gmail window is positioned on the left side of the screen, although it is not the active window at the moment.",
+    "The user also has the Google Tasks application open in another Chrome browser window. The tasks list includes various items such as 'Authentication error on UGFS after long session,' 'Q2 progress / Q3 plan,' 'Revenue models for each product,' and several other tasks. The tasks window is positioned on the right side of the screen, and it appears that the user is managing their tasks alongside participating in the Zoom meeting and reviewing emails."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a Zoom meeting, reviewing emails in Gmail, and managing tasks in Google Tasks. No AI chat interfaces or AI-driven applications are visible in the screenshots.",
+  "activities": [
+    "EMAIL",
+    "MEETING"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 6,
+      "date": "2024-06-12T16:40:46Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-12T16:41:45Z",
+      "windowTitle": "CoachBot Alerts - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 7,
+      "date": "2024-06-12T16:42:45Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 5,
+      "date": "2024-06-12T16:43:45Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T16:44:45Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T16:45:45Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T16:46:45Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T16:47:45Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T16:48:45Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T16:49:45Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-12T16:40:00Z"
+}

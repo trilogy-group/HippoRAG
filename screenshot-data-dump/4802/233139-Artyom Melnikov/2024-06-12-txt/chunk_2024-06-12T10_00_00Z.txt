@@ -1,0 +1,276 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "webstorm64",
+        "us-east-1.quicksight.aws.amazon.com",
+        "idea64",
+        "explorer",
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T10:02:30Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for IntelliJ IDEA, Google Chrome, Microsoft Edge, File Explorer, and other unidentified applications. Displays the date and time as '06/12/2024 10:02 AM'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "IntelliJ IDEA",
+                        "windows": [
+                            {
+                                "title": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Top menu bar with options like File, Edit, View, Navigate, Code, Analyze, Refactor, Build, Run, Tools, VCS, Window, Help. Left sidebar with project structure, bottom bar with tabs like Commit, Shelf, and Terminal. Right sidebar with tabs like Find, LinkedInSlots_ComputeCellMetricsBatch, Source, Metadata."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Code Editor",
+                                        "layoutDescription": "Text editor with multiple tabs",
+                                        "visibleText": "public class LinkedInSlots_ComputeCellMetricsBatch implements Database.Batchable<sObject>, Schedulable {\n // Some campaigns have more opportunities than the others, so this is the recommended\n // size to ensure we have a named batch size, even though for 99% of the batches we can support\n // the above number.\n\n public static Integer BATCH_SIZE = 5;\n List<SourcingPlatformDetails> sourcingPlatforms;\n private LinkedInSlots_BatchCoordinator coordinator;\n private DateTime minLastModifiedD..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T10:04:47Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Visual Studio Code, Salesforce DX, a web browser, and system utilities like settings and notifications. The taskbar also displays the date and time as '06/12/2024 10:04' and the language setting as 'ENG'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs for 'Open Connection', 'LinkedInSlots_ComputeCellMetricsBatch', 'generate-manifest.js', 'LinkedInSlots_ComputeCellMetricsTests', 'LAMBDA-76029.xml'. The left sidebar includes a file explorer with folders and files, and the bottom bar includes options for 'Commit', 'Commit and Push...'."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Code Editor",
+                                        "layoutDescription": "Text editor with multiple tabs",
+                                        "visibleText": "public class LinkedInSlots_ComputeCellMetricsBatch implements Database.Batchable<sObject>, Schedulable {\n public void execute(SchedulableContext SC) {\n Database.executeBatch(new LinkedInSlots_ComputeCellMetricsBatch(), LinkedInSlots_ComputeCellMetricsBatch.BATCH_SIZE) }\n\n public Database.QueryLocator start(Database.BatchableContext bc) {\n System.debug('ComputeCellMetricsBatch started.');\n // we have to take campaign which is 'in the middle' of job ads and opportunities.\n // given the amount of data we have. Basically, we'll do a big select on the campaigns\n // and do the further filter during the execution.\n List<String> recordTypes = a List<String>();\n for (SourcingPlatformDetails platform : SourcingPlatformUtils.getPlatforms()) {\n recordTypes.add(platform.recordType);\n }\n return Database.getQueryLocator(\n SELECT Id, Job_Board_Cell__c, Job_Board_Cell_Id__c, RecordType.DeveloperName\n FROM Campaign\n WHERE RecordType.DeveloperName != null\n AND Job_Board_Cell__c IS NULL\n AND IN (SELECT CampaignId FROM Opportunity\n WHERE LastModifiedDate >= :initialLastModifiedDate\n AND CreatedDate >= :minCreation..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T10:09:07Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, File Explorer, Microsoft Edge, and other unidentified applications. Displays the time as 12:09 AM and the date as 2024-06-12. Language set to English (ENG). Network, sound, and battery status icons are visible.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Inbox - artyom.melnikov@trilogy.com - DevFactory Mail",
+                                "url": "mail.google.com/mail/u/0/#inbox",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Navigation buttons, address bar, and profile icon are visible."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email List",
+                                        "layoutDescription": "List of emails displayed in a grid layout",
+                                        "visibleText": "1. [JIRA] [AMBDA-76029] Add new fields to the JobBoardCallAnalytics and enhance calculation - WS Lambda Automation made 1 update. WS Lambda/AMBDA-76029 Add new fields to the JobBoardCallAnalytics and enhance calculation\n2. Automation for Jira. [JIRA] WS Lambda Automation mentioned you on LAMBDA-75972 - Automation for Jira mentioned you on an issue WS Lambda/AMBDA-75972 Update Beginner Mind badge based on feedback\n3. WS Lambda Automation. [JIRA] WS Lambda Automation mentioned you on LAMBDA-75827 - WS Lambda Automation mentioned you on an issue WS Lambda/AMBDA-75827 [Indeed 2024] Week 10 Investigation\n4. Automation, W3 [JIRA] WS Lambda Automation made 1 update. WS Lambda/AMBDA-75827 [Indeed 2024] Week 10 Investigation\n5. Dragos Nuta (Jira) [JIRA] [AMBDA-75635] The campaignCookie is not set on generic pages (reiteration) - Dragos Nuta made 1 update. WS Lambda/AMBDA-75635 The campaignCookie is not set on generic pages (reiteration)\n6. Own Notifications Weekly Backup Report - Here's your weekly Backup Report. June 30 to June 09, 2024 if you can't see this email properly, please download the attached PDF file. Salesforce Metadata XO Hire X0 Hire Production Metadata 7\n7. Kontent.ai 'Test 3 Denys - Trilogy' has moved to 'Draft' step - HR Artem, a content team you are assigned to in the Crossover Hire Production project in Production environment has moved to the Draft workflow step: 'Test 3 Denys - Trilogy Monics Almasan assigned the\n8. Dragos Nuta (Google+ - P. Hagger. Indeed - @artyom.melnikov@trilogy.com, create... - Dragos Nuta (dragos.nuta@trilogy.com) mentioned you in a comment in the following document 'P. Hagger. Indeed - 0:22:4 Improvements 1 comment ITDs Dragos Nuta - 3:47 PM, Jun 1 (CEST) New @artyom.\n9. Automation for Jira. [JIRA] [AMBDA-76006] [Indeed 2024] Week 11 Investigation - Automation for Jira made 4 updates. WS Lambda/AMBDA-76006 [Indeed 2024] Week 11 Investigation\n10. Pipelines missing from Kontent - Looks good, thanks! On Tue, Jun 11, 2024 at 12:29 PM Denys Yefimenko-denys.yefimenko@trilogy.com wrote: The fix is displayed. Please let me know if you see any issues or if I missed any affected\n11. image.png\n12. Canceled events: WS-Eng Team Meeting on Mon Jul 1, 2024 15:30 - 16:30 (CAT) - (Artem Melnikov) - WS-Eng: Team Meeting This event has been canceled and removed from your calendar. Join with Google Meet meeting link meet.google.com/tmt-bxmj; join by phone (RO) +40 31 227 86..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in writing and navigating code within IntelliJ IDEA. The code editor displays a Java class named `LinkedInSlots_ComputeCellMetricsBatch` which implements `Database.Batchable<sObject>` and `Schedulable`. The user is working on methods such as `execute` and `start`, which involve database operations and batch processing. The visible code includes SQL queries and logic for handling job ads and opportunities, indicating backend development tasks.",
+        "The user is also seen checking their email in Google Chrome. The email inbox contains several JIRA notifications related to various tasks and updates, such as adding new fields to the JobBoardCallAnalytics and enhancing calculations. The user is likely keeping track of project updates and communications with team members through these emails.",
+        "The user is utilizing AWS QuickSight, as indicated by the active link to `us-east-1.quicksight.aws.amazon.com`. This suggests that the user is involved in data analysis or visualization tasks, possibly related to the backend development work seen in the code editor. The user might be generating reports or analyzing data sets to inform their development tasks."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in writing and navigating code within IntelliJ IDEA and checking emails in Google Chrome. No AI chat interfaces or AI-driven suggestions are visible in the screenshots.",
+    "activities": [
+        "WRITING_CODE",
+        "NAVIGATING_CODE",
+        "EMAIL"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "DB"
+    ],
+    "programmingLanguages": [
+        "JAVA",
+        "SQL"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T10:00:01Z",
+            "windowTitle": "xo-hiring-monorepo ? indeed-report-generator\\src\\index.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 25,
+            "mouse": 11,
+            "date": "2024-06-12T10:01:01Z",
+            "windowTitle": "QuickSight - Datasets ? Mozilla Firefox",
+            "processName": "us-east-1.quicksight.aws.amazon.com",
+            "visitingUrl": "https://us-east-1.quicksight.aws.amazon.com/sn/start/data-sets",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 5,
+            "mouse": 40,
+            "date": "2024-06-12T10:02:01Z",
+            "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+            "processName": "idea64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 1,
+            "mouse": 20,
+            "date": "2024-06-12T10:03:01Z",
+            "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+            "processName": "idea64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 7,
+            "date": "2024-06-12T10:04:01Z",
+            "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+            "processName": "idea64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-12T10:05:01Z",
+            "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+            "processName": "idea64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T10:06:01Z",
+            "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+            "processName": "idea64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T10:07:01Z",
+            "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+            "processName": "idea64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 1,
+            "mouse": 1,
+            "date": "2024-06-12T10:08:01Z",
+            "windowTitle": "Task Switching",
+            "processName": "explorer",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 18,
+            "mouse": 18,
+            "date": "2024-06-12T10:09:01Z",
+            "windowTitle": "Inbox - artyom.melnikov@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-12T10:00:00Z"
+}

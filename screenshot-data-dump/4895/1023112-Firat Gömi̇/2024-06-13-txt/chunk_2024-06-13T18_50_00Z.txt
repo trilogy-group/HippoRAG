@@ -1,0 +1,284 @@
+{
+    "candidateId": 2027577,
+    "apps": [
+        "mail.google.com",
+        "app.guidde.com",
+        "app.apollo.io"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-13T18:51:40Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Gmail, Jive, Jive - Specs, Google Docs, Python: Automation, My Guides, iGuide",
+                        "position": "top of the screen"
+                    },
+                    {
+                        "elementType": "system tray",
+                        "details": "Contains icons for notifications, settings, and system clock showing the time '18:51'",
+                        "position": "top right corner"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "DevFactory Mail - Pinned - High memory usage - 1.8 GB - Google Chrome - Firat (trilogy.com)",
+                                "url": "mail.google.com/mail/u/0/#c",
+                                "position": "center of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, Google account profile picture, navigation buttons, extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Gmail Chat Window",
+                                        "layoutDescription": "Chat interface on the right, navigation menu on the left",
+                                        "visibleText": "George Dita\n1 min\nand iterate, or change interviews\nGeorge Dita\n1 min\nand I know what they all say now\nyeah\nhow is Jive going?\nas slow as messenger?\nit would be good\nkind of, I was looking forward to a meeting today\n\"I wanted to let you know today on the call that we are putting Jive CoPilot on hold. With me going on maternity leave next week and the planned leave for Jodie and Gisele (date TBD), the rest of the team can only focus on keeping the lights on for Buzz, but not test anything new. There's simply no time or resources available to do anything else.\"\nthey sent this email to before the"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-13T18:56:25Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, Apple Safari, Microsoft Outlook, a folder, a globe icon, a settings gear icon, a chat bubble icon, and a clock showing the time '18:56'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "DevFactory Mail - Pinned - High memory usage - 1.8 GB - Google Chrome - Firat (trilogy.com)",
+                                "url": "https://mail.google.com/mail",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Tabs for Gmail, Jive, Jive - Specs, Google Docs, Python: Automation, My Guides, iGuide, and several other unidentified tabs. Address bar visible with URL. Google account icon visible in the top right corner indicating the user is logged in. Notification icons for Google services on the right side of the screen."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Gmail Chat Window",
+                                        "layoutDescription": "Chat window open with a list of contacts on the left and a chat conversation on the right",
+                                        "visibleText": "Thibault, Jesse - 3 members\nJesse Manning 7:24 PM\nHere's some of their context:\nThey have a preview instance where they wanted to try it first, and our main contact is going to be on maternity leave for six months, and two of our other main contacts are apparently getting let go ... just waiting on their exit dates. So they won't have anyone to really focus on testing it.\nThe reason they want to test it -- rather than HR or IT or even community management, these are internal communications people. They want to A) carefully manage messaging around any new features being released, and B) want to minimize the amount of questions / confusion they'd get from their 10k+ users.\nI think they're being overly cautious, but their exec leadership has said that even the name CoPilot -- when they're also testing Microsoft CoPilot internally -- would be confusing to some users. \"Why do we have two searches now?\" \"Why can't this write for me? I thought CoPilot could do that.\" Etc. Seems like dumb objections to me, particularly when their renewal is coming up and they should be wanting to test out new features. But, that's where they're at.\nI have a video guide list created: https://app.guide.com/share/playlists/lnQASMUx7Ro"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-13T18:59:28Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, and other unidentified applications. System clock shows '18:59'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Rebecca Hoffman - Apollo - Google Chrome",
+                                "url": "app.apollo.io/#/contacts/66b3cee6c",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, navigation buttons, Apollo platform interface"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Rebecca Hoffman",
+                                        "layoutDescription": "Two-column layout",
+                                        "visibleText": "Rebecca Hoffman N/A Principal Communication Manager at Axway Phoenix, Arizona Contact overview Sequences Deals Conversations Custom fields"
+                                    },
+                                    {
+                                        "title": "Contact Information",
+                                        "layoutDescription": "List format",
+                                        "visibleText": "rhoffman@axway.com Business - Primary (701)-371-7520 Primary (480)-627-1800"
+                                    },
+                                    {
+                                        "title": "Axway",
+                                        "layoutDescription": "Company profile section",
+                                        "visibleText": "Axway N/A Information Technology & Services 1,800 employees Scottsdale, Arizona About New prospects Existing contacts Custom fields AMPLIFY Streams (FKA Streamdata.io Distribute\u2122) enables you to augment your existing API infrastructure with an event-driven layer for publishing data from your APIs by making them available as real-time streams of events that can be consumed by web, mobile or any other applications. Go beyond the traditional request/response paradigm and limitations of this approach. .griffin-box-narrow .griffin(display:none); Axway gives heritage IT infrastructure new life, helping ... Show More Keywords email security mobile enablement Show all 17 Founding year 2001 Trading PA: AXW Account stage Cold Engagement Last 12 months 0 Inbound - 0 Outbound Lists Not present in any list."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in chatting with team members on Gmail. In the first screenshot, the user is having a direct message conversation with George Dita. The discussion revolves around the progress of a project named Jive, with George asking about its status and the user providing updates. The user mentions that Jive CoPilot is on hold due to team members going on maternity leave and the lack of resources to test new features.",
+        "In the second screenshot, the user is involved in a group chat with Thibault, Jesse, and another team member. Jesse provides context about a preview instance and the challenges faced due to team members going on maternity leave and others being let go. The user acknowledges the information and shares a video guide link from Guidde, indicating collaboration and resource sharing within the team.",
+        "The third screenshot shows the user on the Apollo platform, viewing the contact information of Rebecca Hoffman, a Principal Communication Manager at Axway. The user is likely engaged in prospecting or outreach activities, as indicated by the detailed contact information and company profile visible on the screen. The user is utilizing Apollo to gather information about potential clients or partners."
+    ],
+    "aiUseSummary": "There is no visible evidence of AI tools being used in the provided screenshots. The user is primarily engaged in team communication via Gmail and prospecting activities on Apollo. No AI chat interfaces or AI-generated content are visible in the screenshots, indicating that the user is not utilizing AI tools during this period.",
+    "activities": [
+        "CHATTING_WITH_TEAM",
+        "CHATTING_WITH_TEAM",
+        "RESEARCH"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "CHATTING_WITH_TEAM",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 208,
+            "mouse": 0,
+            "date": "2024-06-13T18:50:31Z",
+            "windowTitle": " DevFactory Mail - Pinned - High memory usage - 1.7 GB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#chat/dm/xoYotMAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 68,
+            "mouse": 13,
+            "date": "2024-06-13T18:51:31Z",
+            "windowTitle": " DevFactory Mail - Pinned - High memory usage - 1.8 GB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#chat/dm/xoYotMAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 251,
+            "mouse": 8,
+            "date": "2024-06-13T18:52:31Z",
+            "windowTitle": " DevFactory Mail - Pinned - High memory usage - 1.8 GB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#chat/dm/xoYotMAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 48,
+            "mouse": 27,
+            "date": "2024-06-13T18:53:31Z",
+            "windowTitle": " DevFactory Mail - Pinned - Audio playing - High memory usage - 1.7 GB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#chat/space/AAAAc393IXk",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 45,
+            "mouse": 7,
+            "date": "2024-06-13T18:54:31Z",
+            "windowTitle": " Guidde - Google Chrome (Incognito)\n",
+            "processName": "app.guidde.com",
+            "visitingUrl": "https://app.guidde.com/share/playlists/1nQA5MUx7RotFezzWo7VGk",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 27,
+            "mouse": 3,
+            "date": "2024-06-13T18:55:31Z",
+            "windowTitle": " Guidde - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "app.guidde.com",
+            "visitingUrl": "https://app.guidde.com/playbooks/playlist/1nQA5MUx7RotFezzWo7VGk?active=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 70,
+            "mouse": 9,
+            "date": "2024-06-13T18:56:31Z",
+            "windowTitle": " George Dita messaged you - Chat - Pinned - High memory usage - 1.8 GB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#chat/space/AAAAc393IXk",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 228,
+            "mouse": 4,
+            "date": "2024-06-13T18:57:31Z",
+            "windowTitle": " DevFactory Mail - Pinned - High memory usage - 1.8 GB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#chat/dm/xoYotMAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 304,
+            "mouse": 3,
+            "date": "2024-06-13T18:58:31Z",
+            "windowTitle": " DevFactory Mail - Pinned - High memory usage - 1.8 GB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#chat/dm/xoYotMAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 78,
+            "mouse": 5,
+            "date": "2024-06-13T18:59:31Z",
+            "windowTitle": " Rebecca Hoffman - Apollo - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "app.apollo.io",
+            "visitingUrl": "https://app.apollo.io/#/contacts/666b3eec6e6aae038b1f6c37",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-13T18:50:00Z"
+}

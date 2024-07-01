@@ -1,0 +1,295 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "meet.google.com",
+        "senja.io",
+        "mail.google.com",
+        "trilogy.hypercontext.com",
+        "workflowy.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T13:01:08Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Google Chrome, File Explorer, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '4:01 PM'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - khm-qevt-udu - Google Chrome",
+                                "url": "https://meet.google.com/khm-qevt-udu",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "conference controls include microphone toggle, camera toggle, captions, present now, more options, and hang up button"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference Participants",
+                                        "layoutDescription": "Grid layout",
+                                        "visibleText": "Artem Melnikov, Denys Yefimenko, Dmitrii Shutenkov, Dragos Nuta"
+                                    },
+                                    {
+                                        "title": "Highlighted Element",
+                                        "layoutDescription": "Participant with focus",
+                                        "visibleText": "Dragos Nuta"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Gmail - VideoAsk - dragos.nuta@crossover.com - Google Chrome",
+                                "url": "https://mail.google.com/mail/u/0/#inbox",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "interface with compose button, search bar, and navigation pane"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email Content",
+                                        "layoutDescription": "List of emails",
+                                        "visibleText": "Dragos Nuta to Kevin, Dmitri, Heather - 'Will let Dmitri answer all questions, but will add a clarification: we do not have AI grading just yet because I think it\u2019s not reliable enough yet.' Heather Lother to me, Kevin, Dmitri - 'Are you saying we have to implement VideoAsk first in order to get to AI grading of video submissions?'"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T13:03:56Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, and system tray with network, sound, and battery status icons, date and time display",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Bogdan Tenea - Chat - Google Chrome",
+                                "url": "mail.google.com/chat/u/0/#chat/dm/",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, profile icon, extensions icons, and settings menu"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat",
+                                        "layoutDescription": "standard chat layout",
+                                        "visibleText": "New chat\nShortcuts\nHome 6\nMentions 3\nStarred\nDirect messages 5\nPre-acquisition ideas /... Now\nGeorge Dita\nBogdan Tenea\nJozsef Czapovics\nHoward Abrams\nDavid Schwartz\nMarcelo Skaba\nJoe Conley\nSpaces 1\nFeature Line automations\nXO Team Chat\nCNU Q Business ProductM...\ntpm reboot\nCrossover - Upwork Sourcin...\nCNU AI Assist - Extract Doc...\nXO Candidate Support Escal...\nAWS News\nCentral PMs team\nGFI BU/CE/TPM Managem...\nAI Coach - internal\n\nBogdan Tenea\nMeh, so and so - au incercat sa fie helpful, dar imi dau seama ca calitatea e proasta si are o groaza de limitari; faci un quick write-up acum: https://www.notiwn.so/trilogy-enterprises/Q-Busin\nTenea\nbtw, pe task-ul al de la Samy cu raspunde la 3 emails pe AI Assist - am pus in hypercontext: https://trilogy.hypercontext.com/channels/185637/\na meeting until 4:15 PM\nHistory is on"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T13:08:31Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. Also includes system clock showing '4:08 PM' and date '6/5/2024', system tray with network, sound, and notifications icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Jozsef Update Wed, Jun 5, 2024 - WorkFlowy - Google Chrome",
+                                "url": "https://www.workflowy.com/s/jozsef",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "UI includes address bar, navigation buttons, tabs, profile icon, and extensions icons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Jozsef Update Wed, Jun 5",
+                                        "layoutDescription": "Text content in a structured list format",
+                                        "visibleText": "@Jozsef Czapovics Engineering's biggest problem is a consistent lack of delivery/slow delivery, lack of accountability by your team and low quality. These aren't directly addressed and it doesn't seem you have any spikyPOV about your biggest problems.\n\nIf you don't think those are the biggest issues, please schedule a call with DR and AndyM and I because that is the feedback they have been giving me.\n\nJozsef Czapovics - Wed, May 29th, 10:20 AM\n@joe liemandt I agree that slow delivery is our biggest problem, will iterate on my 2nd brain with this feedback, thank you.\n\njoe liemandt - Wed, May 29th, 3:02 PM\n@Jozsef Czapovics scoping down my points to slow delivery is the wrong answer. please schedule a call with DR, Andym and me.\n\nJozsef Czapovics - Wed, May 29th, 3:06 PM\n@joe liemandt I agree with all those points (accountability, delivery pace and quality), and I can see my reply was misleading, sorry about that. I will schedule the call.\n\nMy view: We transitioned TPM/ENG to a continuous, weekly delivery model focused on business goals, not internal metrics. Our business goal and maintenance delivery improved from Q1 to Q2 but still need to increase our delivery by a lot to run our businesses successfully and grow. Quality improvement remains a challenge, and I could not improve SaaS at all. Our AI transformation is slow, and I need to reset my second brain work to focus on the problems that I actually want to fix (fixing up legacy codebases, version upgrades, bug fixes, etc)."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Google Meet video conference with multiple participants, including Artem Melnikov, Denys Yefimenko, Dmitrii Shutenkov, and Dragos Nuta. The meeting appears to be focused on discussing the implementation of VideoAsk for AI grading of video submissions. The user is also actively participating in the meeting, as indicated by the visible video feed and the presence of conference controls such as microphone toggle, camera toggle, and hang-up button.",
+        "The user is simultaneously managing their email in Gmail. They are composing an email response to Heather Lother, Kevin Norchi, and Dmitri Shutenkov regarding the implementation of VideoAsk for AI grading. The email thread includes discussions about the reliability of AI grading and the necessity of implementing VideoAsk first. The user is actively typing and editing the email, indicating a focus on communication and coordination with the team.",
+        "The user is engaged in a chat conversation with Bogdan Tenea on Google Chat. The discussion includes feedback on a recent task and a link to a Notion document for a quick write-up. The user is also informed about a task related to AI Assist and is directed to check Hypercontext for more details. This indicates the user is involved in team collaboration and task management through chat and document sharing.",
+        "The user is reviewing a document on WorkFlowy titled 'Jozsef Update Wed, Jun 5'. The document contains detailed feedback and discussions about engineering challenges, including slow delivery, lack of accountability, and quality issues. The user is reading through the comments and responses from Jozsef Czapovics and Joe Liemandt, indicating a focus on understanding and addressing team performance and delivery issues."
+    ],
+    "aiUseSummary": "There is no visible evidence of AI tools being used in the provided screenshots. The user is primarily engaged in video conferencing, email communication, chat conversations, and document review without any interaction with AI tools. Therefore, there is no specific summary of AI usage in the user's workflow during this period.",
+    "activities": [
+        "MEETING",
+        "EMAIL",
+        "CHATTING_WITH_TEAM",
+        "READING_SPEC"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DOCUMENT_VIEWER_OR_EDITOR"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 86,
+            "mouse": 0,
+            "date": "2024-06-05T13:00:54Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 43,
+            "mouse": 3,
+            "date": "2024-06-05T13:01:54Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 40,
+            "mouse": 18,
+            "date": "2024-06-05T13:02:54Z",
+            "windowTitle": "Videoask alternative - Senja - Google Chrome",
+            "processName": "senja.io",
+            "visitingUrl": "senja.io/videoask-alternative",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 19,
+            "mouse": 26,
+            "date": "2024-06-05T13:03:54Z",
+            "windowTitle": "XO Team Chat - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/space/AAAA8ETEWyA",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 28,
+            "date": "2024-06-05T13:04:54Z",
+            "windowTitle": "Generative AI - weekly progress review - Agenda - Hypercontext - Google Chrome",
+            "processName": "trilogy.hypercontext.com",
+            "visitingUrl": "trilogy.hypercontext.com/channels/185637/inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 156,
+            "mouse": 20,
+            "date": "2024-06-05T13:05:54Z",
+            "windowTitle": "Bogdan Tenea - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/ulE4Q0AAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 190,
+            "mouse": 20,
+            "date": "2024-06-05T13:06:54Z",
+            "windowTitle": "Jozsef Update Wed, Jun 5, 2024 - WorkFlowy - Google Chrome",
+            "processName": "workflowy.com",
+            "visitingUrl": "workflowy.com/s/jozsef-update-wed-ju/D52Ma909QZLPAeAs#/17a6363e01fe",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-05T13:07:54Z",
+            "windowTitle": "Jozsef Update Wed, Jun 5, 2024 - WorkFlowy - Google Chrome",
+            "processName": "workflowy.com",
+            "visitingUrl": "workflowy.com/s/jozsef-update-wed-ju/D52Ma909QZLPAeAs#/17a6363e01fe",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 3,
+            "date": "2024-06-05T13:08:54Z",
+            "windowTitle": "Jozsef Update Wed, Jun 5, 2024 - WorkFlowy - Google Chrome",
+            "processName": "workflowy.com",
+            "visitingUrl": "workflowy.com/s/jozsef-update-wed-ju/D52Ma909QZLPAeAs#/17a6363e01fe",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-05T13:09:54Z",
+            "windowTitle": "Jozsef Update Wed, Jun 5, 2024 - WorkFlowy - Google Chrome",
+            "processName": "workflowy.com",
+            "visitingUrl": "workflowy.com/s/jozsef-update-wed-ju/D52Ma909QZLPAeAs#/17a6363e01fe",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-05T13:00:00Z"
+}

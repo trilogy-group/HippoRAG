@@ -1,0 +1,500 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "calendar.google.com",
+    "Zoom",
+    "google.com",
+    "explorer",
+    "jim able",
+    "Notepad"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T16:01:52Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Zoom, and system utilities like volume and network status, as well as the system clock showing '7:01 PM' and the date '6/5/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Calendar - Google Calendar",
+                "url": "https://calendar.google.com",
+                "position": "left half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and various Google Calendar UI elements like 'Create' button, navigation arrows, and settings gear icon"
+                },
+                "content": [
+                  {
+                    "title": "Google Calendar",
+                    "layoutDescription": "Full calendar view",
+                    "visibleText": "Calendar\nToday\nJune 2024 Week 23\n\nMeet with...\nSearch for people\nTime Insights\nJUN 3 – 9, 2024\nMore insights\n\nMy calendars\nDragos Nuta Trilogy\nBirthdays\nDragos Nuta - Aurea\nDragos Nuta - XO\nTasks\nOther calendars\n\nMonday, June 3, 2024\nHome\n5:00 - Rakshit Bhe\n\nTuesday, June 4, 2024\nHome\n\nWednesday, June 5, 2024\nHome\n\nThursday, June 6, 2024\nHome\n\nFriday, June 7, 2024\nHome\n\nVarious appointments and meetings listed with times and descriptions."
+                  }
+                ]
+              },
+              {
+                "title": "Zoom Meeting",
+                "position": "right half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Zoom meeting controls like microphone, camera, participants, and chat icons"
+                },
+                "content": [
+                  {
+                    "title": "Zoom Meeting",
+                    "layoutDescription": "Video conference layout",
+                    "visibleText": "Zoom Meeting\n\nParticipants:\nKathy Slowinski\nJamie Slidely\nDragos Nuta\nLeonhard Hörl\nBrandon Pizzacalla\nColin Guifoyle\nEric Vaughan (highlighted, connecting to audio)\n\nTime in meetings\nMost meetings\nMonday and Sunday\nDaily average\nLess than 1 hour"
+                  }
+                ],
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Kathy Slowinski",
+                      "expression": "smiling"
+                    },
+                    {
+                      "name": "Jamie Slidely",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Dragos Nuta",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Leonhard Hörl",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Brandon Pizzacalla",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Colin Guifoyle",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Eric Vaughan",
+                      "expression": "neutral"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T16:04:34Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, Search, Task View, File Explorer, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '7:04 PM 6/5/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Samy Aboel-Nil - Chat - Google Chrome",
+                "position": "top left",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Chat interface with multiple conversations listed on the left"
+                },
+                "content": [
+                  {
+                    "title": "Chat",
+                    "layoutDescription": "List on left, chat on right",
+                    "visibleText": "Samy Aboel-Nil - Chat"
+                  },
+                  {
+                    "title": "Chat",
+                    "layoutDescription": "List on left, chat on right",
+                    "visibleText": "Code with AI - Chat"
+                  }
+                ]
+              },
+              {
+                "title": "brandon pizzacalla - Google Search",
+                "position": "top center",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Search interface with search results"
+                },
+                "content": [
+                  {
+                    "title": "Search Results",
+                    "layoutDescription": "List of links and descriptions",
+                    "visibleText": "Top results shown"
+                  }
+                ]
+              },
+              {
+                "title": "XO Platform - Chat - Google Chrome",
+                "position": "top right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Chat interface with multiple conversations listed on the left"
+                },
+                "content": [
+                  {
+                    "title": "Chat",
+                    "layoutDescription": "List on left, chat on right",
+                    "visibleText": "Xo Platform - Chat"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Zoom",
+            "windows": [
+              {
+                "title": "Zoom Meeting",
+                "position": "center",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Video conference with multiple participants"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Participant 1",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "Participant 2",
+                      "expression": "Smiling"
+                    }
+                  ]
+                },
+                "content": [
+                  {
+                    "title": "Zoom Meeting",
+                    "layoutDescription": "Video tiles in grid",
+                    "visibleText": "Meeting in progress with multiple participants"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "WorkSmart",
+            "windows": [
+              {
+                "title": "WorkSmart",
+                "position": "center",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Time tracking interface"
+                },
+                "content": [
+                  {
+                    "title": "WorkSmart",
+                    "layoutDescription": "Main window",
+                    "visibleText": "Dragos Nuta 6h 50m"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Notepad",
+            "windows": [
+              {
+                "title": "Budget - Notepad",
+                "position": "bottom left",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Text editing window"
+                },
+                "content": [
+                  {
+                    "title": "Notepad",
+                    "layoutDescription": "Text document",
+                    "visibleText": "$250/month 5% of media spend"
+                  }
+                ]
+              },
+              {
+                "title": "Summary - Notepad",
+                "position": "bottom right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Text editing window"
+                },
+                "content": [
+                  {
+                    "title": "Notepad",
+                    "layoutDescription": "Text document",
+                    "visibleText": "Summary of key points"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T16:08:04Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, File Explorer, and other unidentified applications. System tray includes network, sound, and battery status icons, as well as the date and time display '7:08 PM 5/6/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "jim abler trilogy - Google Search",
+                "url": "https://www.google.com/search?q=jim+abler+trilogy",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Search bar, navigation buttons, tabs, profile icon, and more"
+                },
+                "content": [
+                  {
+                    "title": "Google Search Results",
+                    "layoutDescription": "List of search results and suggestions",
+                    "visibleText": "Did you mean: jim abeler trilogy\n\nIt looks like there aren't many great matches for your search\nTry using words that might appear on the page you're looking for. For example, 'cake recipes' instead of 'how to make a cake.'\nNeed help? Take a look at other tips for searching on Google.\n\nLinkedIn Luxembourg\nhttps://www.linkedin.com › company › mnhomecare\nMinnesota Home Care Association\nMinnesota HomeCare Association (MHCA) is a non-profit trade association, shaping the home care landscape to improve and sustain quality home care services.\n\nProject Gutenberg\nhttps://www.gutenberg.org › files\nThe Entire March Family Trilogy, by William Dean Howells\n... Trilogy, Complete Author: William Dean Howells ... abler man, and of qualifying the freedom he used ... jimmy; there's lots of dog about it. He's managed ...\n\nAmazon.com\nhttps://www.amazon.com › Elements-Trilogy-3-books-...\nElements Trilogy\nBased on seven years of research and photography by Theodore Gray and Nick Mann, The Elements presents the most complete and visually arresting representation ..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Zoom",
+            "windows": [
+              {
+                "title": "Video Conference",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Conference controls including mute, stop video, share screen, participants, chat, and leave button"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Jamie Slidy",
+                      "expression": "focused"
+                    },
+                    {
+                      "name": "Kathy Slowinski"
+                    },
+                    {
+                      "name": "Dragos Nutu"
+                    },
+                    {
+                      "name": "Jozef Capovics"
+                    },
+                    {
+                      "name": "Leonhard Hödl"
+                    },
+                    {
+                      "name": "Brandon Pizzacalle"
+                    },
+                    {
+                      "name": "Colin Gulyfe"
+                    },
+                    {
+                      "name": "Eric Vaughan"
+                    },
+                    {
+                      "name": "Moyer"
+                    },
+                    {
+                      "name": "Andy Price"
+                    },
+                    {
+                      "name": "Arthur Michel"
+                    }
+                  ]
+                },
+                "content": [
+                  {
+                    "title": "Video Conference",
+                    "layoutDescription": "Grid of participant video feeds",
+                    "visibleText": "Meeting\n00:06:50\nView\n\n Jamie Slidy to Everyone\nhttps://docs.google.com/document/d/1EZ7"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively participating in a Zoom meeting, as evidenced by the screenshots showing a video conference with multiple participants. The meeting includes individuals such as Kathy Slowinski, Jamie Slidely, Dragos Nuta, Leonhard Hörl, Brandon Pizzacalla, Colin Guifoyle, and Eric Vaughan. The user is also managing their schedule using Google Calendar, which is open and displaying various appointments and meetings for the week of June 3-9, 2024. The calendar includes events like 'Product Daily Check-in,' 'Applied AI Demo,' and 'Pre-acquisition Ideas.'",
+    "In addition to the Zoom meeting and calendar management, the user is conducting research on Google. One of the searches is for 'brandon pizzacalla,' and another is for 'jim abler trilogy.' The search results for 'jim abler trilogy' indicate that there are not many great matches, suggesting the user is looking for specific information that is not readily available. This activity shows the user is engaged in research, possibly for work-related purposes.",
+    "The user is also using Notepad for note-taking and documentation purposes. Screenshots show multiple Notepad windows open with titles like 'Budget' and 'Summary.' The 'Budget' document includes a note about '$250/month 5% of media spend,' while the 'Summary' document appears to contain key points or highlights. This indicates the user is organizing and documenting important information, likely related to their work tasks.",
+    "The user is utilizing Google Chat for team communication. The screenshot shows multiple chat conversations, including one with 'Samy Aboel-Nil' and another labeled 'Code with AI.' This suggests the user is collaborating with team members and possibly discussing technical topics or project-related matters. The presence of these chat windows indicates active engagement in team communication and collaboration."
+  ],
+  "aiUseSummary": "There is no direct evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a Zoom meeting, managing their calendar, conducting research on Google, and using Notepad for documentation. There are no visible interactions with AI tools such as AI_IDE_EXTENSION, ChatGPT, or other AI assistants. Therefore, it can be concluded that AI tools were not utilized during this specific time frame.",
+  "activities": [
+    "MEETING",
+    "RESEARCH",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-05T16:00:55Z",
+      "windowTitle": "DevFactory - Calendar - Week of June 3, 2024 - Google Chrome",
+      "processName": "calendar.google.com",
+      "visitingUrl": "calendar.google.com/calendar/u/0/r",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 24,
+      "mouse": 13,
+      "date": "2024-06-05T16:01:55Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T16:02:55Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 159,
+      "mouse": 8,
+      "date": "2024-06-05T16:03:55Z",
+      "windowTitle": "brandon pizzacalla - Google Search - Google Chrome",
+      "processName": "google.com",
+      "visitingUrl": "google.com/search?q=brandon+pizzacalla&oq=brandon+pizzacall&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIKCAIQABiABBiiBDIKCAMQABiABBiiBKgCALACAA&sourceid=chrome&ie=UTF-8",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 114,
+      "mouse": 15,
+      "date": "2024-06-05T16:04:55Z",
+      "windowTitle": "DevFactory - Calendar - Week of June 3, 2024 - Google Chrome",
+      "processName": "calendar.google.com",
+      "visitingUrl": "calendar.google.com/calendar/u/0/r",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 35,
+      "mouse": 12,
+      "date": "2024-06-05T16:05:55Z",
+      "windowTitle": "Task Switching",
+      "processName": "explorer",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 38,
+      "mouse": 14,
+      "date": "2024-06-05T16:06:55Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 13,
+      "mouse": 18,
+      "date": "2024-06-05T16:07:55Z",
+      "windowTitle": "New Tab - Google Chrome",
+      "processName": "jim able",
+      "visitingUrl": "jim able",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 33,
+      "mouse": 13,
+      "date": "2024-06-05T16:08:55Z",
+      "windowTitle": "Untitled - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 124,
+      "mouse": 1,
+      "date": "2024-06-05T16:09:55Z",
+      "windowTitle": "*do GMs think we delivered all - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T16:00:00Z"
+}

@@ -1,0 +1,270 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "Zoom",
+        "calendar.google.com",
+        "mail.google.com",
+        "docs.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-11T18:37:46Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Core, Zoom, Microsoft Excel, Microsoft Word, a web browser, and system utilities like settings and notifications. The taskbar also displays the time as '12:37' and the date as '11 Jun 2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Zoom",
+                        "windows": [
+                            {
+                                "title": "Zoom Meeting",
+                                "position": "left side of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Toolbar for Mute, Stop Video, Participants, Chat, Share Screen, Record, Reactions, Apps, Notes, More, and Leave"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference",
+                                        "layoutDescription": "Three participants displayed",
+                                        "visibleText": "Niraj Patel, Isaac Squires, Samy Aboel-Nil"
+                                    }
+                                ],
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "Niraj Patel",
+                                            "expression": "focused"
+                                        },
+                                        {
+                                            "name": "Isaac Squires",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Samy Aboel-Nil",
+                                            "expression": "thinking"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Microsoft Excel",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Toolbar with options for file, home, insert, draw, page layout, formulas, data, review, view, help, share, and comments"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Financial Spreadsheet",
+                                        "layoutDescription": "Spreadsheet with multiple columns and rows",
+                                        "visibleText": "Sep 2024, Oct 2024, Nov 2024, $50,000, $25,000, $89,675, $63,110, $740,499, $838,949, $267,375, $267,375, $989,485, $1,007,874, $1,106,324, $1,159,344, $159,344, Sum: $318,300"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "System Utilities",
+                        "windows": [
+                            {
+                                "title": "System Clock",
+                                "position": "bottom right corner of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Current time and date"
+                                },
+                                "content": [
+                                    {
+                                        "title": "System Time and Date",
+                                        "layoutDescription": "Digital clock display",
+                                        "visibleText": "12:37, 11 Jun 2024"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Web Browser",
+                        "windows": [
+                            {
+                                "title": "Web Browser",
+                                "position": "minimized in the taskbar",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Browser icon visible in the taskbar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Web Browser",
+                                        "layoutDescription": "Icon only",
+                                        "visibleText": "Icon visible, no additional information"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively participating in a Zoom meeting with three other participants. The Zoom interface shows the user engaged in a video conference, with the toolbar options for Mute, Stop Video, Participants, Chat, Share Screen, Record, Reactions, Apps, Notes, More, and Leave visible. The participants in the meeting are named Niraj Patel, Isaac Squires, and Samy Aboel-Nil, with their expressions ranging from focused to neutral and thinking.",
+        "In addition to the Zoom meeting, the user has a financial spreadsheet open in Google Sheets. The spreadsheet contains multiple columns and rows with financial data for the months of September, October, and November 2024. The visible text includes various financial figures such as $50,000, $25,000, $89,675, $63,110, $740,499, $838,949, $267,375, $989,485, $1,007,874, $1,106,324, $1,159,344, and a sum of $318,300. The toolbar options for file, home, insert, draw, page layout, formulas, data, review, view, help, share, and comments are also visible.",
+        "The taskbar at the bottom of the screen shows icons for Core, Zoom, Microsoft Excel, Microsoft Word, a web browser, and system utilities like settings and notifications. The taskbar also displays the current time as '12:37' and the date as '11 Jun 2024'. The system clock in the bottom right corner of the screen confirms the time and date."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a Zoom meeting and reviewing a financial spreadsheet in Google Sheets. No AI chat interfaces or AI-driven tools are visible in the screenshots, indicating that the user is not utilizing AI for code suggestions, research, guidance, or debugging during this timeframe.",
+    "activities": [
+        "MEETING",
+        "READING_SPEC"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 3,
+            "mouse": 15,
+            "date": "2024-06-11T18:30:48Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-11T18:31:48Z",
+            "windowTitle": "DevFactory - Calendar - Week of June 9, 2024 - Google Chrome",
+            "processName": "calendar.google.com",
+            "visitingUrl": "calendar.google.com/calendar/u/0/r/week",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 7,
+            "date": "2024-06-11T18:32:48Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 113,
+            "mouse": 21,
+            "date": "2024-06-11T18:33:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T18:34:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T18:35:48Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 25,
+            "mouse": 8,
+            "date": "2024-06-11T18:36:48Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/nO1DrUAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 14,
+            "date": "2024-06-11T18:37:48Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 12,
+            "mouse": 11,
+            "date": "2024-06-11T18:38:48Z",
+            "windowTitle": "WS.Eng: Team Roster - Google Sheets - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/spreadsheets/d/1XS7MK01ycnAO6JG5ha3N-F1jv-cZfGmeyZhO_fov3bc/edit#gid=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 18,
+            "date": "2024-06-11T18:39:48Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-11T18:30:00Z"
+}

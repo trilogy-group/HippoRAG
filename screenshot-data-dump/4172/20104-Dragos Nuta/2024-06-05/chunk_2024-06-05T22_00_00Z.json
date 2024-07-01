@@ -1,0 +1,275 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "mail.google.com",
+    "ws-lambda.atlassian.net",
+    "calendar.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T22:00:06Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Chrome, File Explorer, and other unidentified applications. System tray includes notifications, language settings (ENG), and clock (10:00 AM, 6/6/2024).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Inbox (10,171) - dragos.nuta@crossover.com - DevFactory Mail",
+                "url": "mail.google.com/mail/u/0/#inbox",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Top bar includes back and forward navigation buttons, refresh button, URL bar, bookmarks bar, and profile icon. Right side of the top bar has minimize, maximize, and close buttons."
+                },
+                "content": [
+                  {
+                    "title": "Email List",
+                    "layoutDescription": "List of emails displayed in a column",
+                    "visibleText": "- Zoom App Marketplace - Google Drive for Zoom by Splain for Zoom is ready to use - Google Drive for Zoom by Splain is ready to use! Your account admin has added this app for you. Google Drive for Zoom b... Apr 12\n- Dragos, you have new application updates this week - Check out the status of your applications on LinkedIn\n- Dragos, you have new application updates this week - Check out the status of your applications on LinkedIn\n- Re: ESW - Q for ProductMind Technical Review - Hi Bogdan, Our Data Strategy team is unavailable to meet until next Tuesday at 10:30 AM PST. Let me know if that works. Thanks, Eri... 7:02 PM\n- Matt + Dragos - Google Support 2024 - Hi Dragos, Hope your day is going well! I understand you are familiar with my team (New Business Sales) here at Google and hav... Snoozed 3 days ago\n- Data Analyst for Crossover - LinkedIn Dragos Nuta Hi Dragos, We had an interview planned yesterday, that was cancelled at the last moment. I would be very interested to join Cro... Jun 4\n- Re: Crossover and Google - Hi Dragos & Team, Reaching out again to roll you into support. Again, this can be pretty hands off until you need support -- if you have payments issue... Jun 4\n- ESW | Amazon Q Session with Dragos Nuta - Here are some specific questions we've prepared for our meeting in ~1 hour after using Q Business quite a bit in the last coup... Jun 4\n- EEOC Matter - Surovick - Hi Dragos, This is about the notice of charge of discrimination a candidate filed against us back in 2023. Kavita was our attorney-in-charge at that time. Th... Jun 3\n- [CO] AWORK Product - 2024-Q2 AWS budget overspend of $142,700 - Dear Product Responsible, Product AWORK Product is overspending in AWS by $142695 in this quarter, ... Jun 3\n- Your Purchase Order request has been approved - Your Purchase Order request has been approved. Attached please find a PDF of the Purchase Order for your records, which can b... Jun 3\n- CASE-10026 Crossover - AWORK - Crossover German Candidate - GDPR Data Request - #10085 - Automation for Jira changed the status to Automation Review, New request ... May 31\n- Remove TrueNorth from non-customer facing roles - I was talking specifically about this ticket. Do let me know about the impact an issue has on your work and will account for that i... May 30\n- VideoAsk - Are you saying we have to implement VideoAsk first in order to get AI grading of video submissions? Heather Lother | VP Operations | Crossover heather.lother@crossover.com... May 30\n- Invitatie eveniment Google Romania, 10 iunie - LinkedIn Dragos Nuta Buna Dragos, Am plăcerea de a te invita la un eveniment organizat de Google România alături de comunitățil... May 22\n- [ACTION REQUIRED] Zoom to Google Meet Transition - Dear Zoom User, As part of our ongoing efforts to streamline our technology stack, the decision has been made to consolidat... May 20\n- Invitation to Webinar Event: The Role of AWS Vector Databases in Generative AI Applications - Hello All, I hope this email finds you well. I wanted to extend an invitation to an ... May 20\n- Test Platforms | Re: Fwd: Following up from Twitter - Hey Dragos and Serban, Hope all's well and sorry for the delay! We've strengthened the rigor of the test both in terms of the na... May 20"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T22:04:52Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, and system tray with network, sound, and battery status icons, date/time display, and language indicator (ENG US)",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "LAMBDA-75449 - Include job recommendations in reject emails - WorkSmart Lambda - Google Chrome",
+                "url": "ws-lambda.atlassian.net/browse/LAMBDA-75449",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, extensions icons"
+                },
+                "content": [
+                  {
+                    "title": "WorkSmart Lambda",
+                    "layoutDescription": "Complex layout with multiple panels",
+                    "visibleText": "WS Lambda\nService project\nQueues\nRaise a request\nScheduled Issues\nScriptRunner Enhanced Search\nKnowledge base\nReports\nChannels\nInvite agents\nCustomers\nLeaderboards\nMy Open Tasks Filter\nGet New Task\nAdd shortcut\nProject settings\nCustomer notification logs\nGive feedback\nLAMBDA-75449\nLinked issues\nis part of project\nLAMBDA-5421\nSourcing\nSimilar requests\nActivity\nComments\nHistory\nTimepiece\ncmpHistory\nApprovals\nNewest first\nAdd internal note\nReply to customer\n@Andrew Allen _please do iterate on the prompts and we can discuss merging your work back into the code when you think you've got something better. Refer to completion - that's a templated paragraph, not a GenAI thing. If you want to create a better intro paragraph, assume you have the candidate profile and the 3 recommended jobs & the pitch._\nSave\nCancel\nAndrew Allen\nJune 6, 2024 at 12:10 AM - Internal note\nThanks all!\n@Dennys Yefimenko Let us know if you encounter any issues implementing the new html. We can revise-resupply html if any design tweaks are needed (e.g. if you can't port the company logos and/or 'metadata chip' values via the SFP API, we could remove those fields from v1 and troubleshoot for v2... but it might look bad if they were removed without adjusting the job card layout).\nLastly:\n1. When it's ready to start deploying, please send test mails to me and vinodh@zamstars.com, ideally with real data, so we double check the variable fields and clickthru URLs etc.\n2. I assume the adjustments to trigger criteria have been made. Please let me know if anything had to deviate away from what I outlined in my earliest comments on this ticket.\n3. Thank you for updating the GenAI prompts after my last feedback. This meets my MVP Q8 now, so doesn't have to be a blocker for v1, but there's still room for improvement."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T22:09:47Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, File Explorer, and other unidentified applications. Also includes system clock showing '1:09 AM' and date '6/6/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Glean use cases and MNDA - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+                "url": "https://mail.google.com/mail/u/0/#",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, profile icon, extensions icons"
+                },
+                "content": [
+                  {
+                    "title": "Email from Dragos Nuta to Bogdan, Steven",
+                    "layoutDescription": "Email content displayed",
+                    "visibleText": "Dragos Nuta <dragos.nuta@trilogy.com> to Bogdan, Steven\nHi Steven,\n\nWe should. Adding Bogdan as we both look at this with a lot of interest.\nCan you use this link to schedule a call?\n\nDragos"
+                  },
+                  {
+                    "title": "Email from Steven Conway to Bogdan Tenea",
+                    "layoutDescription": "Email content displayed",
+                    "visibleText": "Steven Conway (glean.com), Bogdan Tenea (bogdan.tenea@trilogy.com)\nHi Steven,\n\nI think that the next session should be primarily a technical one.\nWe know well what we want and we've been evaluating similar solutions. How can we make this hyper-focused and efficient?\nWe can even prepare test data and use..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user starts by checking their email on Gmail. The inbox shows various emails, including updates from LinkedIn, technical reviews, and meeting invitations. The user seems to be prioritizing their tasks by reviewing emails from different sources, including Google, LinkedIn, and internal communications. This indicates the user is organizing their tasks and preparing for upcoming meetings and projects.",
+    "Next, the user navigates to a Jira task on the WorkSmart Lambda project. The task involves including job recommendations in rejection emails. The user is seen adding internal notes and replying to a customer. The comments suggest the user is iterating on prompts and discussing the integration of new HTML designs. This activity shows the user is actively involved in project management and task coordination.",
+    "Finally, the user returns to Gmail to follow up on an email thread regarding Glean use cases and MNDA. The email content indicates a discussion about scheduling a call and preparing for a technical session. The user is coordinating with colleagues to ensure the next session is focused and efficient. This activity highlights the user's role in communication and planning for technical discussions."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in email communication and project management tasks on Jira. No AI chat interfaces or AI-generated suggestions are visible in the screenshots, indicating that the user did not utilize AI tools during this period.",
+  "activities": [
+    "EMAIL",
+    "REVIEWING_CODE"
+  ],
+  "workTypes": [
+    "UI"
+  ],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "EMAIL",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T22:00:02Z",
+      "windowTitle": "Inbox (10,171) - dragos.nuta@crossover.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 11,
+      "mouse": 4,
+      "date": "2024-06-05T22:01:02Z",
+      "windowTitle": "Code with AI - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwnVJtKMRvkVtMfTTpcSthgzq",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 13,
+      "mouse": 3,
+      "date": "2024-06-05T22:02:02Z",
+      "windowTitle": "[LAMBDA-75449] Include job recommendations in reject emails - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-75449",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 3,
+      "mouse": 1,
+      "date": "2024-06-05T22:03:02Z",
+      "windowTitle": "[LAMBDA-75449] Include job recommendations in reject emails - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-75449",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 155,
+      "mouse": 1,
+      "date": "2024-06-05T22:04:02Z",
+      "windowTitle": "[LAMBDA-75449] Include job recommendations in reject emails - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-75449",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 309,
+      "mouse": 1,
+      "date": "2024-06-05T22:05:02Z",
+      "windowTitle": "[LAMBDA-75449] Include job recommendations in reject emails - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-75449",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 118,
+      "mouse": 7,
+      "date": "2024-06-05T22:06:02Z",
+      "windowTitle": "DevFactory - Calendar - Week of June 3, 2024 - Google Chrome",
+      "processName": "calendar.google.com",
+      "visitingUrl": "calendar.google.com/calendar/u/0/r",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 34,
+      "mouse": 9,
+      "date": "2024-06-05T22:07:02Z",
+      "windowTitle": "Inbox - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 258,
+      "mouse": 5,
+      "date": "2024-06-05T22:08:02Z",
+      "windowTitle": "Glean use cases and MNDA - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#search/glean/FMfcgzGxTNvvZnzzNszHfVlRNnRMHNWW",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 246,
+      "mouse": 5,
+      "date": "2024-06-05T22:09:02Z",
+      "windowTitle": "Glean use cases and MNDA - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#search/glean/FMfcgzGxTNvvZnzzNszHfVlRNnRMHNWW",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T22:00:00Z"
+}

@@ -1,0 +1,218 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "store.steampowered.com",
+    "mail.google.com",
+    "docs.google.com",
+    "GitHubDesktop"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-11T19:31:11Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, Outlook, File Explorer, Visual Studio Code, and a user profile picture. System clock shows '13:31' with date '11 Jun 2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "DevFactory Mail - Google Chrome",
+                "url": "mail.google.com/mail/u/0/#chat/spa",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, and extensions icons"
+                },
+                "content": [
+                  {
+                    "title": "Gmail",
+                    "layoutDescription": "client interface",
+                    "visibleText": "Phil, Bogdan, Simon, Shawn\n5 members\nGT School - Budget P&L - Q3'24\n@Isaac Squires - please check the marketing related costs, @Simon Said pay special attention to AI vendor costs\nSimon Said\nNow\nThanks, @Phil Hewinson @Isaac Squires do you have a rough idea how much marketing spend you have in mind for the quarter?\n@Isaac Squires not sure if you covered this with Samy for TeachTales? If not I'll reach out to him\nSure, will do\nUpdated\nNoted!\nHistory is on"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Tasks",
+            "windows": [
+              {
+                "title": "Tasks",
+                "position": "left side of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "list interface"
+                },
+                "content": [
+                  {
+                    "title": "Tasks",
+                    "layoutDescription": "list of tasks with checkboxes",
+                    "visibleText": "Active\nAdd a task\nMac build working on Steam?\nTablet for Phil's son\nSplit out content gen / prompt engineering\nDo we grow marketing team?\nQ2 progress / Q3 plan Budget meeting\nSamy 1:1 topics - App testing as a service - Doreen run research study...\nWeekly update\nEnter grade (support US grades only)\nPost TeachTap content on TikTok following the unit schedule on the calendar Split by channel per AP course\nhttps://assetstore.unity.com/packages/too up with Doreen about beta program and research study\nPublish game for Xbox / Playstation / Apple vision"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in a group chat on Gmail with members Phil, Bogdan, Simon, and Shawn. The conversation revolves around the GT School's budget for Q3'24, with specific attention to marketing-related costs and AI vendor expenses. Simon is asking Isaac for a rough idea of the marketing spend for the quarter and whether it has been discussed with Samy for TeachTales. The user is also managing tasks on the right side of the screen, which include various work-related items such as Mac build working on Steam, splitting out content generation, and prompt engineering.",
+    "The user has a task list open on the right side of the screen, which includes tasks like 'Mac build working on Steam?', 'Tablet for Phil's son', 'Split out content gen / prompt engineering', 'Do we grow marketing team?', 'Q2 progress / Q3 plan Budget meeting', 'Samy 1:1 topics - App testing as a service - Doreen run research study', 'Weekly update', 'Enter grade (support US grades only)', 'Post TeachTap content on TikTok following the unit schedule on the calendar Split by channel per AP course', and 'Follow up with Doreen about beta program and research study'. The user is likely organizing and prioritizing these tasks."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in email communication and task management without any visible interaction with AI tools for code suggestions, research, or debugging purposes.",
+  "activities": [
+    "EMAIL",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "EMAIL",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 25,
+      "date": "2024-06-11T19:30:48Z",
+      "windowTitle": "Magic Academy on Steam - Google Chrome",
+      "processName": "store.steampowered.com",
+      "visitingUrl": "store.steampowered.com/app/2998980/Magic_Academy/",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 53,
+      "mouse": 9,
+      "date": "2024-06-11T19:31:48Z",
+      "windowTitle": "TeachTap - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 239,
+      "mouse": 5,
+      "date": "2024-06-11T19:32:48Z",
+      "windowTitle": "TeachTap - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 337,
+      "mouse": 0,
+      "date": "2024-06-11T19:33:47Z",
+      "windowTitle": "TeachTap - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 224,
+      "mouse": 3,
+      "date": "2024-06-11T19:34:47Z",
+      "windowTitle": "Upwork Spend Q2 GT Report - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1cNA2aPISSI-wjWFZJ2uYBqoVizSSz8oqNLrvINwjEiI/edit#gid=355690038",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 24,
+      "mouse": 6,
+      "date": "2024-06-11T19:35:48Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/iXTDrUAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 142,
+      "mouse": 7,
+      "date": "2024-06-11T19:36:48Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/iXTDrUAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 145,
+      "mouse": 0,
+      "date": "2024-06-11T19:37:48Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/iXTDrUAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 19,
+      "date": "2024-06-11T19:38:48Z",
+      "windowTitle": "Spreadsheet shared with you: \"Upwork Spend Q2 GT Report\" - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCzXZwBHhRBtvPTvthrwbKk",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 6,
+      "mouse": 20,
+      "date": "2024-06-11T19:39:48Z",
+      "windowTitle": "GitHub Desktop",
+      "processName": "GitHubDesktop",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-11T19:30:00Z"
+}

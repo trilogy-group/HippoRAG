@@ -1,0 +1,357 @@
+{
+  "candidateId": 2027577,
+  "apps": [
+    "mail.google.com",
+    "generativeai.pub",
+    "perplexity.ai",
+    "WorkSmart",
+    "medium.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-13T08:02:56Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Siri, Safari, Mail, Calendar, Contacts, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a docked application bar with visible icons for Google Chrome, Microsoft Word, Slack, Zoom, and other unidentified applications.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Upcoming tech conferences - Google Chrome - Firat (trilogy.com)",
+                "url": "https://www.perplexity.ai",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Address bar, tabs, navigation buttons, bookmarks bar, profile icon, extensions icons"
+                },
+                "content": [
+                  {
+                    "title": "Upcoming tech conferences",
+                    "layoutDescription": "Web page layout",
+                    "visibleText": "- RSA Conference (San Francisco, California, May 6-9): Leading cybersecurity conference.\n\nJune 2024\n- ITEC (Rosemont, Illinois, Jun 9-12): IEEE's premier conference on transportation electrification.\n- React Summit 2024 (Amsterdam, Netherlands, Jun 14-18): Focuses on the React framework.\n\nOctober 2024\n- GITEX (Dubai, UAE, Oct 14-18): Long-running conference on digital transformation IT. These events cover a wide range of tech sectors, offering opportunities for networking, learning, and exploring the latest innovations."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Slack",
+            "windows": [
+              {
+                "title": "Team Chat - Slack",
+                "position": "bottom right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Chat window with channels and direct messages, message input area, message display area"
+                },
+                "content": [
+                  {
+                    "title": "Team Chat",
+                    "layoutDescription": "Chat application layout",
+                    "visibleText": "Messages\n- Starred\n- #Front Room (Prod)\n- Recents\n- #Jive - TPM/training daily standup\n- #Jive - TPM/US\n\nFrom: [FIR]\nMessage: Jive - TPM/training daily standup\n\n- Donna, Brian, and Fiona added read monitoring rules to the main board\n- Raised priorities & generated metrics\n- Volume over 5M daily\n- 'Jive' system now stable, or 'out' to next delete meeting"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-13T08:04:52Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Siri, Google Chrome, Microsoft Outlook, Visual Studio Code, Terminal, Slack, and other unidentified applications. Also includes a system tray with Wi-Fi, battery, clock (Thu 8 Jun 13:10), and Spotlight search.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Perplexity - Google Chrome - Firat (trilogy.com)",
+                "url": "https://perplexity.ai/disco",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, and extensions"
+                },
+                "content": [
+                  {
+                    "title": "Discover",
+                    "layoutDescription": "layout of news articles",
+                    "visibleText": "Musk Drops Lawsuit Against OpenAI\nElon Musk, co-founder of OpenAI, has withdrawn his lawsuit against the company and its executives, Sam Altman and Greg Brockman, just one day... 7m ago 0 Shares\n\nApple Stocks Soar on AI News\nApple's stock surged over 7% to a record high following the company's announcements at its annual Worldwide Developers Conference (WWDC) on... 1h ago 0 Shares\n\nLight Phone 3 Unveiled\nLight, the company known for its minimalist phones designed to reduce digital distractions, has introduced its latest model, the Light Phone 3, which builds... 5h ago 0 Shares\n\nWorld's First Wooden Satellite\nIn a groundbreaking development, researchers from Kyoto University and Sumitomo Forestry have unveiled LightSat, the world's first wooden satellite... 6h ago 0 Shares\n\nRaspberry Pi Goes Public\nRaspberry Pi, the company renowned for its affordable single-board computers, has made a significant transition by going public with an initial... 1 day ago 0 Shares\n\nBeReal Acquired for €600M\nIn a significant acquisition deal, French mobile apps and games publisher Voodoo has acquired the rapidly growing social media platform BeReal. The... 1 day ago 0 Shares\n\nMistral AI Valuation Hits $8B\nMistral AI, a Paris-based startup focused on open-source large language models, has hit a valuation of $8 billion... 2 days ago 0 Shares"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Slack",
+            "windows": [
+              {
+                "title": "Team Chat - Firat",
+                "position": "bottom right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "workspace navigation, message input area, message list"
+                },
+                "content": [
+                  {
+                    "title": "Team Chat",
+                    "layoutDescription": "Chat interface",
+                    "visibleText": "Team Chat\n\nMissions\nContact Calls\nContact Requests\nDrafts and Sent\n\nMessages\n\nStarred\n\nFirat: Recent\n\nJive - TPM/TQ daily\n\nJive - TPM/TQ daily demo\n\nJive - TPM/TQ standards\n\nFirat | FEMA\n\nJive - customer focus\n\nMessage Jive - TPM/TQ daily\n\nFirat: 'Type 'read' to start a discussion.'\n\nFirat: 'Read notes, Firat needs water. Need next steps.'\n\nFirat: 'Read notes and generated meeting summary to make haywire processes a bit less wild. Venture over to Power Project if you're interested, or 'opt-out' to decline meeting.'\n\nFirat: 'Call me to discuss, or 'opt-out' to decline meeting.'"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-13T08:07:36Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a docked application bar with visible icons for Microsoft Teams, Google Chrome, Visual Studio Code, Slack, and other unidentified applications.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Unlimited access to everything on Medium - Google Chrome - Firat (trilogy.com)",
+                "url": "https://medium.com/membership",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Page with navigation bar, two main content cards, and footer"
+                },
+                "content": [
+                  {
+                    "title": "Medium Membership Page",
+                    "layoutDescription": "Two-column layout with centered text",
+                    "visibleText": "Be part of a better internet. Get 20% off membership for a limited time. Pay monthly Pay annually Save up to $60 Member $50 USD/year Access member-only stories and enjoy an enhanced reading and writing experience. Collect anytime. Select Friend $90 USD/year Contribute more to Medium and strengthen your support for the Medium community. Collect anytime. Select Read member-only articles Support writers you read most Earn money for you writing Listen to audio narrations Read offline with the Medium app Access our Mastodon community Connect to our custom domain"
+                  }
+                ]
+              },
+              {
+                "title": "System Notifications",
+                "layoutDescription": "Notification area",
+                "visibleText": "1 new notification"
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Teams",
+            "windows": [
+              {
+                "title": "Team Chat - Microsoft Teams",
+                "position": "partially visible on the left side",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Chat interface with sidebar and message area"
+                },
+                "content": [
+                  {
+                    "title": "Team Chat",
+                    "layoutDescription": "Sidebar with chat categories and message area",
+                    "visibleText": "Team Chat Melissa Calls Contact Requests Drafts and Sent More Messages Starred Front Room (Prod) Recents Jive - TPM/training cloud-focused clari... Jive - TPM/training daily sync demo Jive - customer focus"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Slack",
+            "windows": [
+              {
+                "title": "TPM/training daily - Slack",
+                "position": "partially visible on the right side",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Chat interface with message input area and message history"
+                },
+                "content": [
+                  {
+                    "title": "Slack Chat",
+                    "layoutDescription": "Chat window with message history",
+                    "visibleText": "Jive - TPM/training daily Type 'road map' to Slack... [Jive] [Walker] May 25, 2023, 3:00 PM Messages will start filling the table, waiting for all meeting participants I'm bad, meeting notes ASAP - May 25, 2023 Dan, Brian, and Fred added read meeting notes to the Road Analysis & Geodesic grid meeting. Uncover our Privacy Policy here! [Jive] 'road map' to Slack, or 'opt-out' to delete meeting"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in research activities. They are using the Perplexity AI platform to look up information on upcoming tech conferences. The visible text on the webpage includes details about various conferences such as the RSA Conference, ITEC, React Summit, and GITEX. This indicates that the user is gathering information possibly for planning attendance or participation in these events.",
+    "The user is also seen exploring the 'Discover' section on Perplexity AI, which features news articles on various tech topics. Articles include updates on lawsuits, stock market movements, new product launches, and significant acquisitions. This suggests that the user is staying updated with the latest tech news, which could be relevant for their work or personal interest.",
+    "In addition to research, the user is engaged in team communication via Slack. The Slack window shows a chat titled 'Jive - TPM/training daily standup' where team members are discussing read monitoring rules, priorities, and metrics. This indicates that the user is involved in project management or team coordination activities.",
+    "The user is also seen on Medium's membership page, possibly considering a subscription. The page details the benefits of different membership plans, such as access to member-only stories and enhanced reading experiences. This suggests that the user might be looking to access premium content for further research or personal development.",
+    "Throughout the session, the user is using Google Chrome as their primary web browser. The browser is used to access various websites including Perplexity AI and Medium. The presence of multiple tabs and extensions indicates a multitasking approach, where the user is likely switching between different tasks and resources."
+  ],
+  "aiUseSummary": "The user is utilizing Perplexity AI for research purposes. They are exploring various sections of the platform, including upcoming tech conferences and the 'Discover' section for tech news. The AI tool helps the user quickly gather relevant information and stay updated with the latest developments in the tech industry. This enhances the user's productivity by providing curated and comprehensive information efficiently.",
+  "activities": [
+    "RESEARCH",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": true,
+  "mostRelevantActivity": "RESEARCH",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 8,
+      "date": "2024-06-13T08:00:44Z",
+      "windowTitle": " New Chunking Method for RAG-Systems | Andreas Stï¿½ckl in DataDrivenInvestor - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.5 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQVwxGQgpvTMJWZnVGsNJcqSBrL?compose=lqrsljcJBdGzLMXvPnxgvJVvTWqNrQnjxwgdpjjjzlMSQCRdggnTffhSJHdgkzgvFzwsWnCkWJctrXNXz",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 5,
+      "date": "2024-06-13T08:01:44Z",
+      "windowTitle": " Perplexity Introduces âPagesââ The Most Powerful AI Article Generator | by Jim Clyde Monge | Jun, 2024 | Generative AI - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "generativeai.pub",
+      "visitingUrl": "https://generativeai.pub/perplexity-introduces-pages-the-most-powerful-ai-article-generator-0e8c522e091b",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 5,
+      "date": "2024-06-13T08:02:44Z",
+      "windowTitle": " Perplexity - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "perplexity.ai",
+      "visitingUrl": "https://www.perplexity.ai/onboarding?redirect=https%3A%2F%2Fwww.perplexity.ai%2F%3Flogin-source%3DoneTapHome",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 36,
+      "mouse": 2,
+      "date": "2024-06-13T08:03:44Z",
+      "windowTitle": " WorkSmart\n",
+      "processName": "WorkSmart",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 4,
+      "date": "2024-06-13T08:04:44Z",
+      "windowTitle": " Perplexity - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "perplexity.ai",
+      "visitingUrl": "https://www.perplexity.ai/discover",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 7,
+      "date": "2024-06-13T08:05:44Z",
+      "windowTitle": " Perplexity - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "perplexity.ai",
+      "visitingUrl": "https://www.perplexity.ai/",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 48,
+      "mouse": 6,
+      "date": "2024-06-13T08:06:44Z",
+      "windowTitle": " New Chunking Method for RAG-Systems | Andreas Stï¿½ckl in DataDrivenInvestor - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.4 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQVwxGQgpvTMJWZnVGsNJcqSBrL?compose=lqrsljcJBdGzLMXvPnxgvJVvTWqNrQnjxwgdpjjjzlMSQCRdggnTffhSJHdgkzgvFzwsWnCkWJctrXNXz",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 2,
+      "mouse": 8,
+      "date": "2024-06-13T08:07:44Z",
+      "windowTitle": " Unlimited access to everything on Medium - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "medium.com",
+      "visitingUrl": "https://medium.com/plans",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 5,
+      "date": "2024-06-13T08:08:44Z",
+      "windowTitle": " Unlimited access to everything on Medium - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "medium.com",
+      "visitingUrl": "https://medium.com/plans/confirmation/yearly",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-13T08:09:44Z",
+      "windowTitle": " Unlimited access to everything on Medium - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "medium.com",
+      "visitingUrl": "https://medium.com/plans/confirmation/yearly",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-13T08:00:00Z"
+}

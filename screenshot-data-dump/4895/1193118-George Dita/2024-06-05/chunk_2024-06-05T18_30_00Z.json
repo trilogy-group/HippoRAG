@@ -1,0 +1,372 @@
+{
+  "candidateId": 2368956,
+  "apps": [
+    "app.hubspot.com",
+    "mail.google.com",
+    "calendar.google.com",
+    "docs.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T18:31:03Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Safari, Mail, Calendar, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Trash",
+            "position": "bottom"
+          },
+          {
+            "elementType": "dock",
+            "details": "application icons visible",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Settings - Google Chrome",
+                "url": "chrome://settings/",
+                "position": "right half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Settings menu open with various sections visible"
+                },
+                "content": [
+                  {
+                    "title": "Settings",
+                    "layoutDescription": "Detailed layout",
+                    "visibleText": "Settings\nYour Preferences\nText Size: 100%\nFont: Arial\nAccount Setup\nAccount Name: Carrie Taylor\nEmail: carrie.taylor@example.com\nPassword: ••••••••••\nNotifications\nIncoming Notifications: On\nPrivacy & Consent\nTerms\nDevice Management\nSupport\nTools\nChat\nMailing\nHosting (U.S.)\nForums\nAPI Access\nOutpost\nConfigurator\nCompany Information\nCompany name: Example Inc.\nCompany domain: example.com\nCompany address: 12345 Example White Blvd.\nCity: Example Address 1\nCity Zip: 12345\nState: TX\nCountry: United States\nIndustry: IT"
+                  }
+                ]
+              },
+              {
+                "title": "Medium posts",
+                "url": "https://medium.com/",
+                "position": "bottom half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "website open, displaying posts"
+                },
+                "content": [
+                  {
+                    "title": "Medium posts",
+                    "layoutDescription": "Single-column layout",
+                    "visibleText": "Medium posts\nSee All Medium posts\nFeatures:\nTo check the default time zone set on your HubSpot account, you can follow these steps:\n1. Log in to your HubSpot Account. Open your web browser, go to the HubSpot login page, and navigate to Settings.\n2. Navigate to Settings. Once logged in, click on your profile 'avatar' in the upper right-hand corner of the dashboard.\n3. Accounts Details. In the Settings menu, look for a section titled 'Account Details' or a similar concept. This is typically where the 'Time Zone' setting is located.\n4. Time Zone Settings. Within the Account Details or General Settings menu, find the Time Zone setting where the default time zone for your account is displayed and can be edited.\nThe default time zone setting will affect various operations within your HubSpot account, including the timing of automated emails and other scheduled types of interactions. It's good practice to ensure that this setting is in line with your primary business location (especially if your primary business location changes or you engage with your customers internationally).\n\nHow can I check the account default?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T18:36:00Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a Spotlight search icon and Notification Center icon.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "To Do - Task Tracker (George Dita) - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "left",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Editing toolbar with options for font style, size, bold, italic, underline, text color, background color, add link, comments, and more."
+                },
+                "content": [
+                  {
+                    "title": "To Do - Trilogy",
+                    "layoutDescription": "List format with checkboxes",
+                    "visibleText": "03 - June 2024\n\n- [ ] Send invoices & financial reports for May (Accounting)\n- [ ] Review and update project documentation (Project Management)\n- [ ] Organize team meeting for project updates (Management)\n- [ ] Prepare presentation for next client meeting (Sales)\n- [ ] Update CRM with latest client interactions (Sales)\n- [ ] Check compliance with new GDPR regulations (Legal)\n- [ ] Review and approve new marketing materials (Marketing)\n- [ ] Conduct performance reviews (HR)\n- [ ] Organize team building event (HR)\n- [ ] Update company website with latest news (IT)\n- [ ] Check inventory levels in warehouse (Logistics)\n- [ ] Arrange transportation for next week (Logistics)\n- [ ] Conduct training session for new hires (Training)\n- [ ] Review security protocols (Security)\n- [ ] Plan next quarter's budget (Finance)\n- [ ] Discuss new software tools purchase (IT)\n- [ ] Arrange conference room for Friday's meeting (Admin)\n- [ ] Send out invitations for fundraiser; Follow up next week (PR)\n\nFollow-up:\n- [ ] Discuss new project with Peterson (Sales)\n- [ ] Review budget proposals from Finance"
+                  }
+                ]
+              },
+              {
+                "title": "Account Defaults - Settings",
+                "url": "https://companysettings.example.",
+                "position": "right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Navigation sidebar with options for Your Preferences, Account Setup, Time Zone, Notifications, Privacy Consent, Property Management, Tools, and more."
+                },
+                "content": [
+                  {
+                    "title": "Account Defaults",
+                    "layoutDescription": "Form fields layout",
+                    "visibleText": "Settings\n\nYour Preferences\n\nAccount Setup\n\nTime Zone\n\nNotifications\n\nPrivacy Consent\n\nProperty Management\n\nTools\n\nCompany Information\n\nCompany name: Trilogy\nCompany details\nCompany address: 12345 Elm Street, City\nCompany reference ID: 123-456-789\n\nAuth\n\nStatus: Active\nTax ID: 12345"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Google Calendar",
+            "windows": [
+              {
+                "title": "Calendar - June 2024",
+                "url": "https://calendar.google.com",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "View with options for day, week, month, and custom views."
+                },
+                "content": [
+                  {
+                    "title": "June 2024",
+                    "layoutDescription": "Calendar grid layout",
+                    "visibleText": "June 2024\n\n1 Tue\n2 Wed\n3 Thu\n4 Fri\n5 Sat\n6 Sun\n7 Mon\n8 Tue\n9 Wed\n\nEvents:\n\n- 09:00 AM - 10:00 AM: Sales Meeting\n- 11:00 AM - 12:00 PM: Project Update\n- 02:00 PM - 03:00 PM: Client Call\n- 04:00 PM - 05:00 PM: Team Review\n\nTasks, by specific day:\n\n- June 3: Prepare for client meeting\n- June 4: Update project documentation\n- June 5: Review sales strategy\n- June 6: Conduct performance reviews\n- June 7: Organize team building\n- June 8: Check inventory levels\n- June 9: Arrange transportation"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T18:37:42Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Trash, and several unidentified apps. Also includes a system clock showing '18:37' and a system date 'Tue Jun 5'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "To Do - Task Tracker (George Dita) - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "left",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Editing toolbar with options for font style, size, bold, italic, underline, text color, background color, alignment, lists, indent, links, comments, and more."
+                },
+                "content": [
+                  {
+                    "title": "To Do - Task Tracker",
+                    "layoutDescription": "Two-column layout",
+                    "visibleText": "1. Project Management\n- [ ] Define project scope\n- [ ] Identify stakeholders\n- [ ] Set project timeline\n- [ ] Allocate resources\n- [ ] Risk assessment\n- [ ] Cost estimation\n- [ ] Stakeholder communication plan\n- [ ] Project kickoff meeting\n- [ ] Regular project updates\n- [ ] Project closure\n2. Software Development\n- [ ] Requirement gathering\n- [ ] System design\n- [ ] Coding\n- [ ] Testing\n- [ ] Deployment\n- [ ] Maintenance\n3. Marketing\n- [ ] Market research\n- [ ] Campaign planning\n- [ ] Content creation\n- [ ] Social media management\n- [ ] SEO optimization\n- [ ] Email marketing\n- [ ] Analytics review\n- [ ] Client feedback collection\n- [ ] Marketing strategy revision\n4. HR Management\n- [ ] Recruitment\n- [ ] Employee onboarding\n- [ ] Training\n- [ ] Performance reviews\n- [ ] Employee engagement\n- [ ] Compliance checks\n- [ ] Policy updates\n- [ ] Exit interviews\n5. Finance\n- [ ] Budget planning\n- [ ] Financial forecasting\n- [ ] Expense tracking\n- [ ] Financial reports\n- [ ] Tax preparation\n- [ ] Audit compliance\n- [ ] Investment review\n- [ ] Profit analysis\nDate: 25 - 31 May 2024"
+                  }
+                ]
+              },
+              {
+                "title": "Account Defaults - Settings",
+                "url": "https://companysettings.com/acco",
+                "position": "right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Navigation menu with options for Your Preferences, Account Settings, User Details, Company, and Tools."
+                },
+                "content": [
+                  {
+                    "title": "Account Defaults",
+                    "layoutDescription": "Form layout",
+                    "visibleText": "Settings\nYour Preferences\nAccount Settings\nUser Details\nCompany\nTools\nGeneral\nSecurity\nUser Defaults\nCurrency\nThese details will be updated in the software on save.\nAccount name: *\nTime zone: *\nFirst name: *\nLast name: *\nCompany Information\nCompany name: *\nCompany details\nCompany address: 1234 Elm Street, City\nCompany reference ID: 5678\nCompany website: www.example.com\nAuth\nStatus: Active\nTax ID: 1234"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Google Calendar",
+            "windows": [
+              {
+                "title": "Calendar - June 2024",
+                "url": "https://calendar.google.com",
+                "position": "navigation",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Navigation with options for day, week, month, and custom views."
+                },
+                "content": [
+                  {
+                    "title": "June 2024",
+                    "layoutDescription": "Monthly calendar view",
+                    "visibleText": "June 2024\nSun Mon Tue Wed Thu Fri Sat\n1 2 3 4 5 6 7 8\n9 10 11 12 13 14 15\n16 17 18 19 20 21 22\n23 24 25 26 27 28 29\n30\nEvents:\n- 9:00 AM, Team Sync\n- 1:00 PM, Client Meeting\n- 3:00 PM, Project Review\n- 10:00 AM, Marketing Strategy\n- 2:00 PM, Budget Review"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in updating and managing account settings on HubSpot. They are navigating through various sections such as 'Account Setup', 'Company Information', and 'User Defaults'. The user is filling out detailed information including company name, address, and other relevant details. This activity is crucial for ensuring that the account settings are accurate and up-to-date, which is essential for the smooth operation of the company's CRM system.",
+    "The user is also working on a Google Docs document titled 'Customer Interview'. This document appears to be a structured interview guide with sections for introduction, calibration questions, and interview questions. The user is likely preparing for or documenting customer interviews, which are important for gathering feedback and insights to improve products or services. The document is well-organized with clear headings and bullet points, indicating a methodical approach to the interview process.",
+    "In another Google Docs document titled 'To Do - Trilogy', the user is managing a task list. The document includes a detailed list of tasks categorized by different departments such as Accounting, Project Management, Sales, Legal, Marketing, HR, IT, Logistics, Training, Security, Finance, and Admin. Each task is accompanied by a checkbox, suggesting that the user is tracking the progress of these tasks. This activity is essential for project management and ensuring that all tasks are completed on time.",
+    "The user is also using Google Calendar to manage their schedule. The calendar view shows various events and tasks scheduled for June 2024. Events include meetings, project updates, client calls, and team reviews. The user is likely using the calendar to keep track of important dates and deadlines, ensuring that they stay organized and on top of their commitments. The calendar is well-populated, indicating a busy schedule with multiple responsibilities.",
+    "Additionally, the user is seen interacting with ChatGPT for assistance with checking account defaults on HubSpot. The conversation with ChatGPT includes steps to navigate to the account settings and locate the time zone settings. This interaction suggests that the user is leveraging AI tools to quickly find solutions and streamline their workflow. The use of ChatGPT indicates a proactive approach to problem-solving and efficiency in managing tasks."
+  ],
+  "aiUseSummary": "The user utilizes ChatGPT to seek guidance on checking account defaults in HubSpot. The conversation involves detailed steps to navigate the HubSpot settings and locate the time zone settings. This interaction highlights the user's reliance on AI for quick and accurate information retrieval, enhancing productivity and ensuring that tasks are completed efficiently. The AI tool provides clear and concise instructions, demonstrating its effectiveness in supporting the user's workflow.",
+  "activities": [
+    "READING_SPEC",
+    "WRITING_SPEC",
+    "RESEARCH",
+    "EMAIL",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [
+    "OPENAI_CHATGPT"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "WRITING_SPEC",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 4,
+      "date": "2024-06-05T18:30:39Z",
+      "windowTitle": " Settings - Google Chrome\n",
+      "processName": "app.hubspot.com",
+      "visitingUrl": "https://app.hubspot.com/settings/40828524/account-defaults/general",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T18:31:39Z",
+      "windowTitle": " Settings - Google Chrome\n",
+      "processName": "app.hubspot.com",
+      "visitingUrl": "https://app.hubspot.com/settings/40828524/account-defaults/general",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 13,
+      "date": "2024-06-05T18:32:39Z",
+      "windowTitle": " Meeting data from 'George <> Meaghan - Influitive Call' on Jun 5, 2024 - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQVwwvDWCnPtBpTSCnRxxBKLzTp",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 9,
+      "mouse": 10,
+      "date": "2024-06-05T18:33:39Z",
+      "windowTitle": " DevFactory - Calendar - Week of June 3, 2024 - Google Chrome\n",
+      "processName": "calendar.google.com",
+      "visitingUrl": "https://calendar.google.com/calendar/u/0/r",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T18:34:39Z",
+      "windowTitle": " DevFactory - Calendar - Week of June 3, 2024 - Google Chrome\n",
+      "processName": "calendar.google.com",
+      "visitingUrl": "https://calendar.google.com/calendar/u/0/r",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 55,
+      "mouse": 3,
+      "date": "2024-06-05T18:35:39Z",
+      "windowTitle": " To Do - Task Tracker (George Dita) - Google Docs - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1lNicY0ZW0UG9ctrq_y6GbDPdR8rYBFOC1SSCfN61tns/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 30,
+      "mouse": 9,
+      "date": "2024-06-05T18:36:39Z",
+      "windowTitle": " To Do - Task Tracker (George Dita) - Google Docs - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1lNicY0ZW0UG9ctrq_y6GbDPdR8rYBFOC1SSCfN61tns/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T18:37:39Z",
+      "windowTitle": " To Do - Task Tracker (George Dita) - Google Docs - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1lNicY0ZW0UG9ctrq_y6GbDPdR8rYBFOC1SSCfN61tns/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T18:38:39Z",
+      "windowTitle": " To Do - Task Tracker (George Dita) - Google Docs - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1lNicY0ZW0UG9ctrq_y6GbDPdR8rYBFOC1SSCfN61tns/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 1,
+      "mouse": 8,
+      "date": "2024-06-05T18:39:39Z",
+      "windowTitle": " Settings - Google Chrome\n",
+      "processName": "app.hubspot.com",
+      "visitingUrl": "https://app.hubspot.com/settings/40828524/account-defaults/general",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T18:30:00Z"
+}

@@ -1,0 +1,107 @@
+{
+    "candidateId": 2368956,
+    "apps": [
+        "Google Chat",
+        "meet.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-06T15:00:58Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, Mail, Calendar, Photos, Settings, Calculator, Snipping Tool, Microsoft Teams, Your Phone, Help, Widgets, Search, Task View, Desktops, and system status icons including network, sound, and battery. The Start menu icon is also visible.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "System Status",
+                        "windows": [
+                            {
+                                "title": "Network",
+                                "position": "bottom right",
+                                "isActive": false
+                            },
+                            {
+                                "title": "Sound",
+                                "position": "bottom right",
+                                "isActive": false
+                            },
+                            {
+                                "title": "Battery",
+                                "position": "bottom right",
+                                "isActive": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in a Google Chat conversation with a colleague named Cami Taylor. The discussion revolves around a project update, specifically about uploading screenshots and updating a spreadsheet. The user is also seen responding to a message from Michael Horowitz, indicating a collaborative effort in the project. This activity falls under CHATTING_WITH_TEAM as the user is communicating with team members to coordinate tasks and share updates.",
+        "The user is participating in a Google Meet video conference call. The meeting involves multiple participants, including individuals named Michael Horowitz, Pooja, and others. The meeting appears to be a support call, as indicated by the title 'Messenger Upgrades Support Call.' This activity is categorized as MEETING, as the user is engaged in a video conferencing session to discuss project-related matters.",
+        "The user is viewing an email in the Gmail application. The email contains a detailed agenda for a meeting, including topics such as 'Review of last sprint,' 'Current Sprint Updates,' and 'Future Planning.' This activity is categorized as EMAIL, as the user is reading through the contents of an email to stay informed about the meeting agenda and other relevant updates."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in team communication via Google Chat, participating in a Google Meet video conference, and reading emails in Gmail. No AI chat interfaces or AI-driven tools are visible in the screenshots, indicating that the user is not utilizing AI tools for their workflow during this time frame.",
+    "activities": [
+        "CHATTING_WITH_TEAM",
+        "MEETING",
+        "EMAIL"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DOCUMENT_VIEWER_OR_EDITOR"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T15:00:09Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T15:01:09Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-06T15:02:09Z",
+            "windowTitle": " Meet - pko-wkjq-jaj - Audio playing - Google Chrome\n",
+            "processName": "meet.google.com",
+            "visitingUrl": "https://meet.google.com/pko-wkjq-jaj?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-06T15:00:00Z"
+}

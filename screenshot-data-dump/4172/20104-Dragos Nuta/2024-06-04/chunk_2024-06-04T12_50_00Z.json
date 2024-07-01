@@ -1,0 +1,272 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "meet.google.com",
+    "mail.google.com",
+    "docs.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-04T12:51:47Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, DevFactory, Calendar, Week of X, Ads Manager, Messages, Recruitment Marketing Tech Solutions, Programmatic Recruitment Software, and system icons including Wi-Fi, battery, sound, and clock showing '3:51 PM 6/4/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Inbox (10,156) - dragos.nuta@crossover.com - DevFactory Mail",
+                "url": "https://mail.google.com/mail/u/0/#inbox",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and Gmail interface with navigation pane, search bar, and main content area"
+                },
+                "content": [
+                  {
+                    "title": "Email List",
+                    "layoutDescription": "List of emails displayed in a vertical column",
+                    "visibleText": "- Zoom App Marketplace Google Drive for Zoom by Splain for Zoom is ready to use - Google Drive for Zoom by Splain is ready to use! Your account admin has added this app for you. Google Drive for Zoom b... Apr 12\n- LinkedIn Dragos, you have new application updates this week - Check out the status of your applications on LinkedIn Sep 13/23\n- LinkedIn Dragos, you have new application updates this week - Check out the status of your applications on LinkedIn\n- ESW | Amazon Q Session with Dragos Nuta - Hi Bogdan- Please let us know if support was able to unblock this for you or we need more follow up on our side. I also had some que... Jun 3\n- EEOC Matter - Surovick - Hi Dragos, This is about the notice of charge of discrimination a candidate filed against us back in 2023. Kavita was our attorney-in-charge at that time. Th... Jun 3\n- [CO] AWORK Product - 2024-Q2 AWS budget overspend of $142,700 - Dear Product Responsible, Product AWOR..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T12:55:10Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '3:55 PM' and date '6/4/2024'. System tray includes network status, sound volume, and notifications icon. Language set to 'ENG'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Gmail",
+                "url": "https://mail.google.com",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Browser window with multiple tabs, address bar, bookmarks bar, and various extension icons"
+                },
+                "content": [
+                  {
+                    "title": "A/P Processing Updates",
+                    "layoutDescription": "Email content displayed",
+                    "visibleText": "Ludel Mier\nTo Tushar, Alexander, Suryaprakash, Mohit, Irem, Kashi, Quebec, Vinh, Muhammad, Heather, Rahul, Eric, Bogdan, Rachel, Ivy, Dmitry, David, Nicolas, Anju, Sergey, Anne, Arthur, mirce\n\nDear all,\n\nI am writing to summarize some key changes in A/P processing in the past 6 weeks which some of you have already tested and worked on with.\n\nCreating New Vendors\n\nWe have improved the process for adding new vendors in NetSuite. Instead of completing a DS file and submitting a JIRA ticket, please direct new vendors to fill out this Google Form. Please ask them to ensure that they enter their data accurately and completely and add yourself in the field \"Email address of your ESW Contact\". The form is directly linked to NetSuite, facilitating a more efficient vendor enrollment process.\n\nOnce a vendor is added in NetSuite, a confirmation email will be sent to both you and the vendor. Please review the confirmation email carefully.\n\nVendor Bill Processing\n\nWe have an automation in place to read and post vendor bills. For the automation to pick up the invoice, please ensure that the invoice is sent to ap.scanandcapture@trilogy.com, with a file explicitly containing the PO within the document.\n\nVendor Queries\n\nWe have disabled manually creating a Jira ticket in the finance queue for this work unit. As was the case previously, please send all queries to the accounts payable mailbox and this will be handled by Central Support.\n\nAny issues, questions and blockers, please let me know.\n\nRegards,\n\n--\nMilo Mier\nFinance Manager\nESW / Trilogy\nEmail: ludel.mier@trilogy.com\nPhone: +63 917 519 1409\nTime zone: GMT +8"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T12:57:30Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. Also includes system tray with clock showing '3:57 PM', date '6/24/2024', language indicator 'ENG', and other system icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+                "url": "https://docs.google.com/document/d",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help. Toolbar with undo, redo, print, spelling and grammar check, styles, zoom controls, and other editing tools. Right side panel with document outline and summary details."
+                },
+                "content": [
+                  {
+                    "title": "Factory status April 2024 (TPM/Eng)",
+                    "layoutDescription": "Two-column layout",
+                    "visibleText": "Factory status April 2024 (TPM/Eng)\n\nSummary\n\nSlot Delivery\nIn numbers:\n15 commit goals: 6 completed, 7 on track, 2 off track (of which, one is at high risk)\n7 stretch goals: 2 deprioritized, 3 on track, 2 off track\n8 new goals (added during Q2): 1 completed, 3 on track, 4 off track (of which, two are at high risk)\n8 why are we adding new goals when not all commit/stretch goals are on green?\n\nWhat went well:\nResponded well to changing BU priorities - took over and made progress on many new goals\nDid much better in meeting commitments - we will deliver all but one of the Commit goals in Q2\nTurned around the Messenger slot - delivered more than planned\nWhat did not go well:\nCustomer adoption is low and remains low (details below)\n\nMaintenance\nMaintenance had a great month. We have already delivered 88% of our Q2 orders (goal: 20 tickets per SE7), and we are on track to overdeliver for all BUs.\nWe removed 62% of our backlog in Q2 so far and are on track to eliminate our backlog in Q2.\nOur backlog goal will go down when we remove our backlog.\nYou can find the delivery scorecard and the burndown charts at the bottom of the document.\n\nEarly Customer Adoption\nPMs hired in April were assigned to 3 BUs (Ignite, Jigsaw, Influitive). We made progress, but results are below what we would have wanted and usage/activity remains low:\nMessenger: of 20 customers, 4 customers showed interest, none has concrete upgrade plans (many went to wait until the new version is proven stable or are mid-upgrade with older versions)\nJive unit of Influitive: 20 customers are interested in upgrading.\nJive Cloud AI Copilot: 2 customers actively using it, 7 have it enabled, most have it disabled\nInfluitive AI feature: outreach started recently\n\nWhat went well:\nFocus on customer problems - conducted calls to understand their problems (for projects in early stages), help them use the product (for AI features), or get them to upgrade (for defense projects)\nFocus on business value: analyzing usage (e.g. Jive Copilot Usage Report ) and acting upon it\nWhat did not go well:\nWe started without a clear framework and spent a time aligning expectations, navigating our org, or doing work that we did actually believe to be in our scope\nWe focused on a subset of customers which we believed to be more interested and got low response rates. We should have contacted all customers to increase the size of the early adoption pool."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in managing their email inbox on Gmail. They are seen navigating through various emails, including those related to Amazon Q sessions, EEOC matters, and AWS budget overspend. The user is also handling emails regarding NetSuite access and GDPR data requests. This indicates a focus on administrative and coordination tasks, likely involving communication with different stakeholders and managing various ongoing projects.",
+    "The user is reading an email titled 'A/P Processing Updates' from Ludel Mier. The email summarizes key changes in A/P processing over the past six weeks, including improvements in adding new vendors, vendor bill processing automation, and handling vendor queries. The user is likely involved in financial operations or project management, ensuring that these updates are communicated and implemented effectively within their team.",
+    "The user is viewing a Google Docs document titled 'Factory status May 2024 (TPM/Eng)'. The document includes a detailed summary of slot delivery, maintenance, and early customer adoption. The user is reviewing the progress of various goals, identifying what went well and what did not, and analyzing customer adoption metrics. This activity suggests the user is involved in project management or team leadership, focusing on tracking and reporting project status and outcomes."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in reading and managing emails, as well as reviewing a project status document in Google Docs. No interactions with AI tools or AI-driven features are visible in the captured activities.",
+  "activities": [
+    "EMAIL",
+    "READING_SPEC"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "UI"
+  ],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "EMAIL",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 6,
+      "date": "2024-06-04T12:50:09Z",
+      "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 5,
+      "date": "2024-06-04T12:51:09Z",
+      "windowTitle": "Inbox (10,156) - dragos.nuta@crossover.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T12:52:09Z",
+      "windowTitle": "Inbox (10,156) - dragos.nuta@crossover.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T12:53:09Z",
+      "windowTitle": "Inbox (10,156) - dragos.nuta@crossover.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T12:54:09Z",
+      "windowTitle": "Inbox (10,156) - dragos.nuta@crossover.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 5,
+      "mouse": 3,
+      "date": "2024-06-04T12:55:09Z",
+      "windowTitle": "WS Product - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwngWWmxpBRLPDXSkjGJHGBCN",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 5,
+      "mouse": 26,
+      "date": "2024-06-04T12:56:09Z",
+      "windowTitle": "Payment Received - Thank You! - dragos.nuta@aurea.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwnfPRFBFXTwfVhKgBbmDZBrS",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 47,
+      "mouse": 10,
+      "date": "2024-06-04T12:57:09Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/1kR4S0AAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 170,
+      "mouse": 7,
+      "date": "2024-06-04T12:58:09Z",
+      "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 24,
+      "mouse": 1,
+      "date": "2024-06-04T12:59:09Z",
+      "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-04T12:50:00Z"
+}

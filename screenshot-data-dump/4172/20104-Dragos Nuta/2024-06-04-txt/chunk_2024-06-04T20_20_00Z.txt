@@ -1,0 +1,314 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "meet.google.com",
+        "app.guidde.com",
+        "docs.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-04T20:22:16Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, and system utilities like volume and network status. The system clock shows '11:22 PM'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - keh-vdmq-vie - Google Chrome",
+                                "position": "right half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "conference controls including microphone, camera toggle, and chat. Participant list visible."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Meet",
+                                        "layoutDescription": "Video conference layout",
+                                        "visibleText": "read.ai meeting notes"
+                                    },
+                                    {
+                                        "title": "Participant - Noumaan Shah",
+                                        "layoutDescription": "Participant's video feed",
+                                        "visibleText": "Noumaan Shah"
+                                    },
+                                    {
+                                        "title": "Participant - Dragos Nuta",
+                                        "layoutDescription": "Participant's video feed",
+                                        "visibleText": "Dragos Nuta"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Gmail - Inbox - chris.hornby@devfactory.com - Google Chrome",
+                                "position": "left half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Email list, navigation pane, and search bar."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Gmail Inbox",
+                                        "layoutDescription": "Email list view",
+                                        "visibleText": "Chris Hornby - chris.hornby@devfactory.com\n\nHow are you? - Hi Chris, How are you? I hope you are doing well.\n\nCanceled: ESW AIML and GenAI - Office Hours\n\nRe: ESW AIML and GenAI - Office Hours\n\nInvitation to Webinar Event: The Future of AI in Software Development\n\nFwd: Introducing \u201cThink-With-Me\u201d Sessions\n\nESW - Amazon Bedrock | Cloudera Data Platform\n\nRe: AWS/ESW Office Hours - Hi everyone, We will have our regular office hours tomorrow. Let us know if you have any questions"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T20:26:02Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, File Explorer, and other unidentified applications. Displays the time as '11:26 PM' and date as '6/24/2024'. Network status, sound volume, and language (ENG) indicators are visible.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - keh-vdmq-vie - Google Chrome",
+                                "url": "https://meet.google.com/keh-vdmq-vie",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "conference controls include microphone toggle, camera toggle, captions, present now, more options, and hang up. Participant list and chat are also visible."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference",
+                                        "layoutDescription": "Two participants visible",
+                                        "visibleText": "Noumaan Shah, Dragos Nuta"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Gmail - Inbox - chris.hornby@devfactory.com - Google Chrome",
+                                "url": "https://mail.google.com/mail/u/0/#inbox",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "email list, navigation pane with folders and labels"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email Inbox",
+                                        "layoutDescription": "List of emails displayed",
+                                        "visibleText": "Chris Hornby - chris.hornby@devfactory.com\nHow are you? - Hi Chris, How are you? I hope you are doing well.\nCanceled: ESW AIML and GenAI - Office Hours\nInvitation to Webinar Event: The Future of AI\nFwd: Introducing \u201cThink-With-Machine\u201d Summer 2024\nESW - Amazon Bedrock | Cloudera Data Platform\nRe: ESW AIML and GenAI - Office Hours\nAWS/ESW Office Hours - Hi everyone, We will have our regular office hours tomorrow. Let us know if you have any questions"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T20:29:11Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, and system tray with time display, language indicator, and other system icons",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "SaaS - CF Monthly Report - May 2024 - Google Docs",
+                                "url": "https://docs.google.com/document/d/1",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help; Toolbar with undo, redo, print, spelling and grammar check, zoom controls, styles and formatting options"
+                                },
+                                "content": [
+                                    {
+                                        "title": "SaaS - CF Monthly Report - May 2024",
+                                        "layoutDescription": "Document layout with table and text",
+                                        "visibleText": "Playbooks Product\nSmall\n100%\n0%\n0%\nResponseTek Product\nSmall\n100%\n0%\n0%\nSL Product\nSmall\n100%\n0%\n0%\nSococo Product\nSubscale\n100%\n0%\n0%\nStreetSmart Product\nSmall\n100%\n0%\n0%\nTAKE Product\nSmall\n100%\n0%\n0%\nAdvocateHub\nSmall\nlooker.internal.influitive.com SSL certif...\n- 29 minutes of downtime of looker-related components due to expired SSL certificate\n- RIG: certificate renewal job didn't work after it's creation account was removed for GDPR\nAHUB-610: SSL Certificate for AHUB Customers\n- 45 minutes of downtime after a deployment removed SSL certificates from production\nAHUB-652: High number of 504 errors - us-east-1\n- 65 minutes of downtime after the database tier crashed due to being out of memory\n- Triggered by a DB load spike, cause of this is unclear\n- Downtime would have been much lower if application servers would automatically reconnect after a database restart\nPostbeyond\nSubscale\n96.31%\n3.69%\n0%\nUploaded videos stuck at 'processing...'\n- Video processing stopped at the end of April, but the issue was not moved to server until the complaint to CS. There is no monitoring or watching this functionality when deploying a new version\nTolgoj / CCAB\nNot ordered\n99.64%\n0%\n0.36%\nThere were 4 outages because of problems with the VPN / ICAV servers resulting in a downtime of 143 minutes\n- RWF: The downtime would be lower if the VPN servers would automatically reconnect after a VPN disconnect\nAdditionally, Zain reported an outage of 15 minutes on the 19th of May. This was attributed to engineering testing and debugging new features in production, but caused an outage past this in Zoub. It's not clear what in-depth analysis purged this delay.\nGFI AppManager\nNot ordered\n97.43%\n2.15%\n0.42%\nAPPANAGER-999: General slowdown was reported by Zain. Slowness of the application for a week\n- Was resolved by code-level improvements and performance gains of older clients\nAPPMAN-683: shipping-out-service-ZERO2XX...\n- 187 minutes of downtime due to issues with an Identity Provider and a database overload"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Google Meet video conference, as evidenced by the screenshots showing the Google Meet interface with participants Noumaan Shah and Dragos Nuta. The meeting appears to be active, with the user participating in discussions. The Google Meet interface shows typical conference controls such as microphone, camera toggle, and chat options.",
+        "The user is also checking their Gmail inbox. The screenshots show the Gmail interface with a list of emails, including subjects related to ESW AIML and GenAI office hours, webinar invitations, and other work-related communications. The user is likely managing their emails and staying updated on various topics.",
+        "Additionally, the user is viewing a Google Docs document titled 'SaaS - CF Monthly Report - May 2024'. The document contains detailed information about various products, their performance metrics, and issues encountered. The user is likely reviewing the report to understand the performance and issues of different products, possibly for a meeting or further analysis."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a video conference, checking emails, and reviewing a document. No AI chat interfaces or AI-generated content are visible in the screenshots.",
+    "activities": [
+        "MEETING",
+        "EMAIL",
+        "READING_SPEC"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "UI",
+        "DB"
+    ],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DOCUMENT_VIEWER_OR_EDITOR"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T20:20:12Z",
+            "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T20:21:12Z",
+            "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T20:22:12Z",
+            "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T20:23:12Z",
+            "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T20:24:12Z",
+            "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T20:25:12Z",
+            "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T20:26:12Z",
+            "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 32,
+            "mouse": 2,
+            "date": "2024-06-04T20:27:12Z",
+            "windowTitle": "Account Settings | Guidde - Google Chrome",
+            "processName": "app.guidde.com",
+            "visitingUrl": "app.guidde.com/account-settings",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 9,
+            "mouse": 12,
+            "date": "2024-06-04T20:28:12Z",
+            "windowTitle": "SaaS - CF Monthly Report - May 2024 - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1PY2uifIm6LpXqlK3HiOsQklrlVJaR26tlumXW4OuQrU/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 35,
+            "date": "2024-06-04T20:29:12Z",
+            "windowTitle": "SaaS - CF Monthly Report - May 2024 - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1PY2uifIm6LpXqlK3HiOsQklrlVJaR26tlumXW4OuQrU/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-04T20:20:00Z"
+}

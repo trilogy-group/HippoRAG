@@ -1,0 +1,177 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "drive.google.com",
+        "chrome",
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-11T23:54:08Z",
+            "desktop": {
+                "uiElements": [],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "IMG_5767.MOV - Google Drive - Google Chrome",
+                                "position": "Full Screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "window with video playback controls"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Content on Mobile Device",
+                                        "layoutDescription": "Video within a browser",
+                                        "visibleText": "The screenshot shows a mobile device displaying a game interface with a dialog box. The dialog box contains the text 'Achievements Unlocked' and below it are four grayed-out icons, likely representing different achievements or tasks. The background of the game shows a simplistic landscape with a clear sky and a single character standing on the ground."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user was primarily engaged in viewing a video on Google Drive using the Chrome browser. The video content displayed a mobile device running a game. The game interface showed a dialog box with the text 'Achievements Unlocked' and four grayed-out icons, likely representing different achievements or tasks. The background of the game depicted a simplistic landscape with a clear sky and a single character standing on the ground. This indicates that the user was reviewing or analyzing the video content related to the game.",
+        "Additionally, the user accessed their email on mail.google.com. The specific activities within the email application are not detailed in the screenshots, but the presence of the email application suggests that the user was likely checking or managing their emails during this period. The user also visited a Google Drive link, which aligns with the activity of viewing the video content on Google Drive."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user was primarily engaged in viewing video content on Google Drive and accessing their email. No interactions with AI tools or AI-driven features were observed during this period.",
+    "activities": [
+        "READING_SPEC",
+        "EMAIL"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "READING_SPEC",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 7,
+            "mouse": 8,
+            "date": "2024-06-11T23:51:45Z",
+            "windowTitle": "IMG_5767.MOV - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1alTcH01HycSbfp7KSDMZ1fyzjVqFwz74/view?ts=6668a8d0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 7,
+            "date": "2024-06-11T23:52:45Z",
+            "windowTitle": "IMG_5767.MOV - Google Drive - Google Chrome",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T23:53:45Z",
+            "windowTitle": "IMG_5767.MOV - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1alTcH01HycSbfp7KSDMZ1fyzjVqFwz74/view?ts=6668a8d0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T23:54:45Z",
+            "windowTitle": "IMG_5767.MOV - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1alTcH01HycSbfp7KSDMZ1fyzjVqFwz74/view?ts=6668a8d0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 1,
+            "mouse": 10,
+            "date": "2024-06-11T23:55:45Z",
+            "windowTitle": "IMG_5767.MOV - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1alTcH01HycSbfp7KSDMZ1fyzjVqFwz74/view?ts=6668a8d0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 1,
+            "mouse": 1,
+            "date": "2024-06-11T23:56:45Z",
+            "windowTitle": "IMG_5767.MOV - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1alTcH01HycSbfp7KSDMZ1fyzjVqFwz74/view?ts=6668a8d0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T23:57:45Z",
+            "windowTitle": "IMG_5767.MOV - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1alTcH01HycSbfp7KSDMZ1fyzjVqFwz74/view?ts=6668a8d0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 6,
+            "mouse": 6,
+            "date": "2024-06-11T23:58:45Z",
+            "windowTitle": "Inbox (3) - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 66,
+            "mouse": 17,
+            "date": "2024-06-11T23:59:45Z",
+            "windowTitle": "Item shared with you: \"IMG_5767.MOV\" - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCzXhjHqTvTjgXgzxSZwvKn",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-11T23:50:00Z"
+}

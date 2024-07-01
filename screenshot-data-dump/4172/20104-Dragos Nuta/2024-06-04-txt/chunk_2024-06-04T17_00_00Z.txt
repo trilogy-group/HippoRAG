@@ -1,0 +1,321 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "mail.google.com",
+        "ShellExperienceHost",
+        "meet.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-04T17:00:30Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Microsoft Edge, Internet Explorer, Google Chrome, File Explorer, and system utilities like network and volume. Also displays the date and time '6/4/2024 8:00 PM' and language setting 'ENG'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "George Dita - Chat - Google Chrome",
+                                "url": "mail.google.com/chat/u/0/#chat/dm/",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "sidebar on the left, main chat window in the center, Google Meet window on the right"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat Sidebar",
+                                        "layoutDescription": "Vertical list",
+                                        "visibleText": "New chat\nShortcuts\nHome 7\nMentions 3\nStarred\nDirect messages 5\nGeorge Dita\nJamie Sidey\nFirat Gomi\nBen New\nAndrei Kharytonenka\nJoe Conley\nBogdan Tenea\nNaouman Shah\nSpaces 2\nCentral PMs team\ntpm reboot\nGFI BU/CE/TPM Management\nCNU Q Business Product Management\nXO Team Chat\nCNU AI Assist - Extract Documents\nXO Candidate Support Escalation\nFeature Line automations\nCrossover - Upwork Sourcing\nAI Coach - internal\nSpec Request Notifications\nAWS News"
+                                    },
+                                    {
+                                        "title": "Chat Window",
+                                        "layoutDescription": "Main chat area",
+                                        "visibleText": "George Dita 6 min\nhttps://docs.google.com/document/d/1W0Jl-2wk progress (Influitive - Admin)\nThere?\nReady when you are\nDone\nHistory is on"
+                                    },
+                                    {
+                                        "title": "Google Meet",
+                                        "layoutDescription": "Video call interface",
+                                        "visibleText": "Google Meet\nGeorge Dita\nDragos Nuta"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T17:06:29Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. System tray includes network, sound, and clock (8:06 PM, 6/4/2024).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - fmi-krfz-vbf - Google Chrome",
+                                "url": "meet.google.com/fmi-krfz-vbf",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, profile icon, extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference",
+                                        "layoutDescription": "Grid layout with participant videos",
+                                        "visibleText": "Corry Kapner, Jason Messinger, Katherine Rose, Cory's Sybill Notetaker, read.ai meeting notes, Dragos Nuta"
+                                    },
+                                    {
+                                        "title": "Participant Names",
+                                        "layoutDescription": "Listed below videos",
+                                        "visibleText": "Corry Kapner, Jason Messinger, Katherine Rose, Cory's Sybill Notetaker, read.ai meeting notes, Dragos Nuta"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Calendar - Google Chrome",
+                                "url": "calendar.google.com/calendar/u/0/r",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "interface with navigation buttons, search bar, and settings icon"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Calendar Events",
+                                        "layoutDescription": "Monthly calendar view",
+                                        "visibleText": "June 2024, Week 23, Today, Create, Search for people, Time Insights, More insights, My calendars, Dragos Nuta Trilogy, Birthdays, Dragos Nuta - Aurea, Dragos Nuta - XO, Tasks, Other calendars, New Zealand Time 05:06, Meet with..., Time Insights JUN 3 \u2013 9, 2024, 5:00 - Rakshit Bha, 9:00 - Dragos / Dragos - with AI Coach Daily Sync, 10:00 - Dragos / Dragos Weekly Product Daily Check, 15:00 - May reg XO Check-in, 15:00, 16:00 - Acquisition, 16:30 - Generative, 17:30 - Sammy's CPM, 18:00 - Vanjashi Singh and Dr, 19:00 - George / Dragos, 19:00 - Joe / Dragos, 20:00 - Stratifyd Daily start, 20:30 - Crossover \u00a9 Joeve Disc, 22:30 - Nouman / Dragos, 23:00 - Isaac / Dragos, 23:00 - Jungsoo Park and team"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T17:08:24Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "Taskbar for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. System tray includes Wi-Fi, sound, battery, and clock (8:08 PM, 6/4/2024).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - fmi-krfz-vbf - Google Chrome",
+                                "url": "meet.google.com/fmi-krfz-vbf",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Tabs, address bar, navigation buttons, profile icon, extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference",
+                                        "layoutDescription": "Four video feeds displayed",
+                                        "visibleText": "Gorry Kapner, Jason Messinger, Katherine Rose, Dragos Nuta"
+                                    },
+                                    {
+                                        "title": "Google Meet Controls",
+                                        "layoutDescription": "Controls at bottom",
+                                        "visibleText": "Microphone, camera, captions, present now, more options, hang up, chat, show everyone"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Calendar - Google Chrome",
+                                "url": "calendar.google.com/calendar/u/0/r",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Tabs, address bar, navigation buttons, profile icon, extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Calendar",
+                                        "layoutDescription": "Full month view with events",
+                                        "visibleText": "June 2024, Week 23, Events listed include 'Rakshit Bha', 'Dragos - What', 'AI Coach Daily Sync', 'Product Daily Check', 'May reg XO Check-in', 'Pre-acquisition ideas', 'Generative AI', 'Crossover', 'Stratifyd Daily start', 'Joe / Dragos, 20:30, Google Meet' and others"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Google Meet video conference with multiple participants, including George Dita and Dragos Nuta. The chat window shows a link to a Google Document titled 'Delivery progress (Influitive - Admin)' shared by George Dita. The user is actively participating in the meeting, as indicated by the visible video feeds and the chat messages exchanged.",
+        "The user is also managing their schedule using Google Calendar. The calendar view shows a detailed schedule for June 4, 2024, with multiple events and meetings listed throughout the day. The user has a busy schedule with various meetings, including 'AI Coach Daily Sync,' 'Product Daily Check,' and 'Generative AI.' The calendar interface is visible alongside the Google Meet window, indicating the user is multitasking between the meeting and their calendar.",
+        "The user is engaged in a Google Meet video conference with multiple participants, including Cory Kapner, Jason Messinger, Katherine Rose, and Dragos Nuta. The meeting interface shows the participants' video feeds and names, indicating active participation. The user is also viewing their Google Calendar, which displays a detailed schedule for June 4, 2024, with various events and meetings listed throughout the day. The user is multitasking between the meeting and their calendar."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in video conferencing and managing their schedule using Google Calendar. No AI chat interfaces or AI-driven tools are visible in the screenshots.",
+    "activities": [
+        "MEETING",
+        "CHATTING_WITH_TEAM",
+        "EMAIL"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 22,
+            "mouse": 11,
+            "date": "2024-06-04T17:00:11Z",
+            "windowTitle": "George Dita - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/sKno1MAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T17:01:11Z",
+            "windowTitle": "George Dita - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/sKno1MAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 1,
+            "mouse": 12,
+            "date": "2024-06-04T17:02:11Z",
+            "windowTitle": "New notification",
+            "processName": "ShellExperienceHost",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 3,
+            "mouse": 9,
+            "date": "2024-06-04T17:03:11Z",
+            "windowTitle": "Meet - fmi-krfz-vbf - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/fmi-krfz-vbf?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T17:04:11Z",
+            "windowTitle": "Meet - fmi-krfz-vbf - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/fmi-krfz-vbf?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T17:05:11Z",
+            "windowTitle": "Meet - fmi-krfz-vbf - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/fmi-krfz-vbf?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T17:06:11Z",
+            "windowTitle": "Meet - fmi-krfz-vbf - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/fmi-krfz-vbf?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T17:07:11Z",
+            "windowTitle": "Meet - fmi-krfz-vbf - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/fmi-krfz-vbf?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T17:08:11Z",
+            "windowTitle": "Meet - fmi-krfz-vbf - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/fmi-krfz-vbf?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T17:09:11Z",
+            "windowTitle": "Meet - fmi-krfz-vbf - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/fmi-krfz-vbf?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-04T17:00:00Z"
+}

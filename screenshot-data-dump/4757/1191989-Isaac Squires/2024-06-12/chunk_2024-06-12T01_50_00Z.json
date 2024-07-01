@@ -1,0 +1,202 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "docs.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T01:53:18Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Minimize, Core, Pending, Magic Academy, Budget, GT, Q2, Q3, Q4, Le, W, gt, Te, Te, Le, I, W",
+            "position": "top"
+          },
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Word, and other unidentified applications",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "GT School Q3'24 Budget Details - Google Sheets",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "menu bar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help"
+                },
+                "content": [
+                  {
+                    "title": "GT School Q3'24 Budget Details",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "Teamroom / Vendor, Owner, Category, Next Q Budget, Previous Initiative, Split is 100%, Split by Initiative, Adobe Systems, Samy, Marketing, $179, GT - Customer Acquisition Costs (CAC), 100.00%, 50%, 50%, Amazon Webser..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in reviewing and analyzing budget details for GT School Q3'24. They are using Google Sheets to view and edit a spreadsheet titled 'GT School Q3'24 Budget Details'. The spreadsheet contains various columns such as Teamroom/Vendor, Owner, Category, Next Q Budget, Previous Initiative, and Split by Initiative. The user is examining budget allocations for different vendors and initiatives, with specific focus on categories like Marketing, Product, and Engineering. The user is likely making adjustments or taking notes based on the data presented in the spreadsheet.",
+    "The user is also navigating through multiple tabs in Google Chrome, as indicated by the presence of various icons on the taskbar. These tabs include documents and spreadsheets related to GT School's budget and other initiatives. The user is likely cross-referencing information between these documents to ensure accuracy and consistency in the budget details. The presence of multiple tabs suggests that the user is managing a complex set of data and requires access to various sources of information simultaneously.",
+    "The user is utilizing Google Docs to view and possibly edit documents related to GT School's budget and initiatives. The specific URLs visited include documents and spreadsheets that are likely part of the user's workflow for managing and analyzing budget data. The user is focused on ensuring that all budget details are accurate and up-to-date, which involves reviewing and possibly updating multiple documents and spreadsheets."
+  ],
+  "aiUseSummary": "",
+  "activities": [
+    "READING_SPEC",
+    "WRITING_SPEC"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "READING_SPEC",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 12,
+      "mouse": 18,
+      "date": "2024-06-12T01:50:19Z",
+      "windowTitle": "Rough Priorities Assignment - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1xg25F13M7hSo1NjyQWFsRXGH6Jc_26tyRXI28OdMmpY/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 1,
+      "mouse": 18,
+      "date": "2024-06-12T01:51:19Z",
+      "windowTitle": "GT School Q3'24 Budget Details - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/19t2L4FosU9WLYwDFYdDf6EbfMwMUkto9JOJdjZXw57U/edit#gid=1935652953",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 6,
+      "date": "2024-06-12T01:52:19Z",
+      "windowTitle": "GT School Q3'24 Budget Details - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/19t2L4FosU9WLYwDFYdDf6EbfMwMUkto9JOJdjZXw57U/edit#gid=1935652953",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 10,
+      "date": "2024-06-12T01:53:19Z",
+      "windowTitle": "GT School Q3'24 Budget Details - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/19t2L4FosU9WLYwDFYdDf6EbfMwMUkto9JOJdjZXw57U/edit#gid=1935652953",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 8,
+      "mouse": 28,
+      "date": "2024-06-12T01:54:19Z",
+      "windowTitle": "LearnWith.AI - 12 Month Forecast - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1mcPMOP35r4KzFw1pdox4YmlkSK8b9e2iFTk37B3j9L4/edit#gid=1092897194",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 1,
+      "mouse": 13,
+      "date": "2024-06-12T01:55:19Z",
+      "windowTitle": "GT School Q3'24 Budget Details - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/19t2L4FosU9WLYwDFYdDf6EbfMwMUkto9JOJdjZXw57U/edit#gid=1935652953",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 18,
+      "mouse": 21,
+      "date": "2024-06-12T01:56:19Z",
+      "windowTitle": "GT School Q3'24 Budget Details - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/19t2L4FosU9WLYwDFYdDf6EbfMwMUkto9JOJdjZXw57U/edit#gid=1935652953",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 7,
+      "mouse": 15,
+      "date": "2024-06-12T01:57:19Z",
+      "windowTitle": "GT School Q3'24 Budget Details - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/19t2L4FosU9WLYwDFYdDf6EbfMwMUkto9JOJdjZXw57U/edit#gid=1935652953",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 12,
+      "mouse": 24,
+      "date": "2024-06-12T01:58:19Z",
+      "windowTitle": "GT School Q3'24 Budget Details - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/19t2L4FosU9WLYwDFYdDf6EbfMwMUkto9JOJdjZXw57U/edit#gid=1935652953",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 8,
+      "mouse": 14,
+      "date": "2024-06-12T01:59:19Z",
+      "windowTitle": "LearnWith.ai Q3 2024 Budget Update - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1wRJiCDXbFF0pR2cSKCtEeEa5BQWZFem1vLqOqLAI2ic/edit#heading=h.9swn60laznpm",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-12T01:50:00Z"
+}

@@ -1,0 +1,206 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "docs.google.com",
+        "mail.google.com",
+        "drive.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T16:22:35Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Minimize, Core, Pending (5), Magic Academy, Budget, and a clock showing 10:22",
+                        "position": "bottom"
+                    },
+                    {
+                        "elementType": "system tray",
+                        "details": "Includes icons for network, battery, sound, and calendar notifications",
+                        "position": "bottom right"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Rough Priorities Assignment - Google Docs - Google Chrome",
+                                "url": "https://docs.google.com/document/d",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help; Toolbar with undo, redo, print, spelling and grammar check, zoom settings, text formatting options, and a share button"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Rough Priorities Assignment",
+                                        "layoutDescription": "Text document layout",
+                                        "visibleText": "Rough Priorities Assignment\n\nMagic Academy\nMohamed (Gameplay)\nGiovanny (Combat)\nAbhineet (Multiplayer)\nVedran (Monetization)\n1. Add a field to the profile screen to redeem voucher codes\n2. In-app purchase for premium membership\n a. Collect parent email and address\n b. Allow parent to customize which rewards are enabled\n3. Prompt to rate the app\n4. Local notification reminders to play (daily streak, offline rewards)\n5. Push notification when your friends are playing\n6. In-app purchase for equipment LAMBDA-73735\n7. In-app purchase for season pass\n a. Free rewards in one column\n b. Premium rewards in another column (diamonds and unique equipment / customizations)\n c. Complete blocks to earn progress and unlock subsequent rewards\n d. Change the graphic on the blocks to be 3 pass points instead of diamonds directly\n e. Progress resets and prizes rotate every 3 months, and the pass must be re-purchased\n8. Advent calendar with prizes for logging in\n a. Each day you log in, get the next prize in the list (coins, pet food, pass points, etc)\n b. Prizes #14 and #28 are bigger prizes (such as unique customization unlock)\n c. Prizes refresh on the 1st of each month (so if you didn't log in enough times, you miss out on bigger prizes)\nAntoine (Academic UI)\n1. Use new API 'getTeachTowerStack' to retrieve blocks and recommendations LAMBDA-75799\n a. UI part of https://ws-lambda.atlassian.net/browse/LAMBDA-750 Fix GraphQL issue on mobile\n a. When spending diamonds in the shop, the balance at the top of the UI doesn't update right away\n b. Make sure you can't accidentally double-click to purchase an item twice\n3. Prototype rendering stimulus-based MDL content type (basically, adding support for an image in the rotation selection)\n4. Add a celebration screen on block completion that shows what rewards were earned (we should give coins to free users, and coins + diamonds to premium users).\n5. Apple Authentication LAMBDA-73846"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in reading and possibly editing a Google Docs document titled 'Rough Priorities Assignment'. The document outlines various tasks and priorities for different team members, including sections for 'Magic Academy', 'Mohamed (Gameplay)', 'Giovanny (Combat)', 'Abhineet (Multiplayer)', 'Vedran (Monetization)', 'Antoine (Academic UI)', 'Eugene (Academic APIs)', 'Giorgio', and 'David'. Specific tasks include adding fields to profile screens, implementing in-app purchases, and fixing GraphQL issues on mobile. The user is likely reviewing these tasks to understand the current priorities and possibly make updates or comments.",
+        "The user is also seen interacting with Google Chat within Gmail, as indicated by the links visited. This suggests that the user is communicating with team members, possibly discussing the tasks outlined in the Google Docs document. The chat interactions could involve clarifying task details, providing updates, or coordinating efforts with other team members. The presence of multiple chat links indicates active and ongoing communication.",
+        "Additionally, the user has accessed a file on Google Drive, as indicated by the link 'drive.google.com/file/d/1alTcH01HycSbfp7KSDMZ1fyzjVqFwz74/view?ts=6668b64f'. This file could be related to the tasks mentioned in the Google Docs document, such as a resource or reference material needed for completing the tasks. The user is likely reviewing this file to gather necessary information or to verify details related to their current work."
+    ],
+    "aiUseSummary": "",
+    "activities": [
+        "READING_SPEC",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [
+        "UI"
+    ],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "READING_SPEC",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T16:20:45Z",
+            "windowTitle": "Rough Priorities Assignment - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1xg25F13M7hSo1NjyQWFsRXGH6Jc_26tyRXI28OdMmpY/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T16:21:46Z",
+            "windowTitle": "Rough Priorities Assignment - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1xg25F13M7hSo1NjyQWFsRXGH6Jc_26tyRXI28OdMmpY/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 17,
+            "mouse": 3,
+            "date": "2024-06-12T16:22:46Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/iXTDrUAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 130,
+            "mouse": 3,
+            "date": "2024-06-12T16:23:46Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T16:24:45Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 119,
+            "mouse": 13,
+            "date": "2024-06-12T16:25:45Z",
+            "windowTitle": "Fw: Item shared with you: \"IMG_5767.MOV\" - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCzXmHnNxqFHGgXKMBmwPTh",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 179,
+            "mouse": 19,
+            "date": "2024-06-12T16:26:45Z",
+            "windowTitle": "IMG_5767.MOV - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1alTcH01HycSbfp7KSDMZ1fyzjVqFwz74/view?ts=6668b64f",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 9,
+            "mouse": 15,
+            "date": "2024-06-12T16:27:45Z",
+            "windowTitle": "CoachBot Alerts - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/5vi3_UAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T16:28:45Z",
+            "windowTitle": "CoachBot Alerts - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/5vi3_UAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 20,
+            "date": "2024-06-12T16:29:45Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAKxd91Bs",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-12T16:20:00Z"
+}

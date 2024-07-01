@@ -1,0 +1,280 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "ws-lambda.atlassian.net",
+        "chatgpt.com",
+        "colab.research.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T08:12:45Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, File Explorer, and other unidentified applications. Displays the time as '10:12' and date as '06/12/2024'. Network status, sound volume, and battery status icons are also visible.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Beginner Mind Coding Assessment.ipynb - Colab - Google Chrome",
+                                "url": "https://colab.research.google.com/",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with options for File, Edit, View, Insert, Runtime, Tools, Help. Tabs for 'Code', 'Text', 'Comment', 'Share', 'Connect' are visible. A notification bell and profile icon are present in the upper right corner."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Beginner Mind Coding Assessment.ipynb",
+                                        "layoutDescription": "Text-heavy layout",
+                                        "visibleText": "Develop a proof of concept application that intelligently processes email order requests and customer inquiries for a fashion store. The system should categorize emails into product inquiries or order requests and generate appropriate responses based on product catalog information and stock status.\n\nTask Description\nInputs\nGoogle Spreadsheet Document containing:\n- Products: List of products with fields including product ID, name, category, stock amount, detailed description, and season.\n- Emails: Sequential list of emails with fields such as email ID, subject, and body.\n\nInstructions\nAll requirements have to be implemented with the use of LLMs to handle complex tasks, process extensive data, and generate accurate outputs effectively.\nBecause solving this assessment requires using advanced LLM capabilities, we provide you with a temporary OpenAI API key granting access to GPT-4.0. You can use this key or your own, but please note that the provided key has a token quota.\nAddresses the requirements in the order listed.\nDeliverables should include the code developed within this notebook, and a spreadsheet containing results across separate sheets.\nComments detailing your thought process are appreciated.\n\nRequirements\n1. Classify emails\nClassify each email as either a 'product inquiry' or an 'order request'. Ensure that the classification accurately reflects the intent of the email.\nOutput: Populate the email-classification sheet with columns: email ID, response.\n\n2. Process order requests\n1. Process order requests in the order they are received. For each request, verify product availability in stock. If the order can be fully fulfilled, create a new order line with the status created. If the order cannot be fully fulfilled, create a line with the status out of stock. After placing the order add new lines in the data sheet created."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T08:16:06Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, widgets, and several pinned applications. Displays system tray with network status, sound volume, battery indicator, language selector (ENG), and clock showing '10:16'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Copy of Beginner Mind Coding Assessment.ipynb - Colab - Google Chrome",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "highlightedElement": "Toolbar with options for File, Edit, View, Insert, Runtime, Tools, Help. Toolbar with buttons for share, comment, connect, locate cell, code, text, and other editing tools. Status bar indicating 'Connecting' and 'Allocating runtime'",
+                                "content": [
+                                    {
+                                        "title": "Code example of OpenAI communication",
+                                        "layoutDescription": "Code cell with input and output sections",
+                                        "visibleText": "# Code example of reading input data\n\nimport spread\nimport pandas as pd\nfrom oauth2client.service_account import ServiceAccountCredentials\n\n# URL of the Google Sheet (make sure it's public)\nsheet_url = '1f4f5h8zfgj3n1p3laa1r0s1t7y1f4k7o?format=csv'\n# Export Google Sheet table into a DataFrame\ncsv_export_url = sheet_url.replace('/edit#gid=', '/export?format=csv&gid=')\ndf = pd.read_csv(csv_export_url)\n\n# Display the DataFrame\nprint(df)"
+                                    },
+                                    {
+                                        "title": "Task List",
+                                        "layoutDescription": "Text section",
+                                        "visibleText": "Task 1. Classify emails\n\nTask 2. Process order requests\n\nTask 3. Handle product inquiry"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T08:19:34Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, WorkSmart, Google Chrome, and system tray including network, sound, and clock",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Support Job Recommendations in Reject emails release and iterate - WorkSmart Lambda - Google Chrome",
+                                "url": "ws-lambda.atlassian.net/browse/LAM",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, navigation buttons, and vertical sidebar on the left"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Support Job Recommendations in Reject emails release and iterate",
+                                        "layoutDescription": "Text and tables layout",
+                                        "visibleText": "Output\nOpenserach Candidate profile misses\nFor which candidates we failed to generate job recommendations due to data absence in opensearch?\nHere's the list:\n\nI have tried fetching unique profiles from this list from opensearch now, results are:\nSuccess: 157\nFailure: 20\n\nObviously the main issue is with the synchronization timing, we do synchronization of profiles to opensearch only if candidate has at least one badge and once per day.\n\nI randomly selected few candidates from the last 20 who currently do not have record in opensearch:\n\n0010000001AJAC\nJune 10, 2024. 20:26:25 (UTC+0300) - uploaded resume in S3\n6/10/2024 4:58 PM - applied\nHad CCAT score 39, got rejected\nWas taking CEAT at 6/11/2024 9:12 AM\nTime between resume upload and rejection -12h\n\n0012000004ACAM\nJune 10, 2024, 23:54:23 (UTC+0300) - uploaded resume in S3\nGot rejected at 6/11/2024 5:46 AM\nTime between resume upload and rejection -6h\n\n0011000003SJLAP\nNo resume in S3\n\n0012000005MHWAP\nResume updated June 9, 2024. 11:18:19 (UTC+0300)\nResume updated at 6/9/2024 6:04 AM"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is working on a Google Colab notebook titled 'Beginner Mind Coding Assessment.ipynb'. The notebook contains a task description for developing a proof of concept application that processes email order requests and customer inquiries for a fashion store. The user is required to classify emails, process order requests, and handle product inquiries using LLMs. The user is actively viewing and possibly editing the notebook, as indicated by the visible text and code cells.",
+        "The user is also working on a task related to OpenAI communication and reading input data from a Google Sheet. The code cells in the notebook show examples of how to use the OpenAI API and how to read data from a Google Sheet into a pandas DataFrame. The user is likely implementing or testing these code examples as part of the assessment tasks.",
+        "The user is reviewing a task on the Atlassian Jira platform, specifically the task 'Support Job Recommendations in Reject emails release and iterate'. The task involves addressing issues with generating job recommendations due to data absence in OpenSearch. The user is examining the output and synchronization timing issues, as well as reviewing candidate profiles and their statuses. This indicates the user is involved in debugging or improving the job recommendation system."
+    ],
+    "aiUseSummary": "The user is utilizing OpenAI's API within a Google Colab notebook to handle tasks related to email classification, order processing, and product inquiries. The user is implementing code to communicate with the OpenAI API and read data from Google Sheets. This indicates the user is leveraging AI for natural language processing and data handling tasks, enhancing their workflow efficiency and accuracy.",
+    "activities": [
+        "WRITING_CODE",
+        "READING_SPEC",
+        "RESEARCH",
+        "REVIEWING_CODE"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [
+        "PYTHON"
+    ],
+    "toolTypes": [
+        "IDE",
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "OPENAI_CHATGPT"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 110,
+            "mouse": 18,
+            "date": "2024-06-12T08:10:00Z",
+            "windowTitle": "Complete Work - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-76029",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 35,
+            "mouse": 20,
+            "date": "2024-06-12T08:11:00Z",
+            "windowTitle": "[LAMBDA-76029] Add new fields to the JobBoardCellAnalytics and enhance calculation - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-76029",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 12,
+            "mouse": 23,
+            "date": "2024-06-12T08:12:00Z",
+            "windowTitle": "[LAMBDA-75972] Update Beginner Mind badge based on feedback - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-75972",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 47,
+            "mouse": 11,
+            "date": "2024-06-12T08:13:00Z",
+            "windowTitle": "ChatGPT ? Mozilla Firefox",
+            "processName": "chatgpt.com",
+            "visitingUrl": "https://chatgpt.com",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 105,
+            "mouse": 2,
+            "date": "2024-06-12T08:14:00Z",
+            "windowTitle": "[LAMBDA-75972] Update Beginner Mind badge based on feedback - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-75972",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 232,
+            "mouse": 4,
+            "date": "2024-06-12T08:15:00Z",
+            "windowTitle": "[LAMBDA-75972] Update Beginner Mind badge based on feedback - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-75972",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 36,
+            "mouse": 20,
+            "date": "2024-06-12T08:16:00Z",
+            "windowTitle": "Copy of Beginner Mind Coding Assessment.ipynb - Colab - Google Chrome",
+            "processName": "colab.research.google.com",
+            "visitingUrl": "colab.research.google.com/drive/1zeFWExUHqewwldrEd0o3GOI2f6AUYto6#scrollTo=shE97VzGwZ4v",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 9,
+            "mouse": 27,
+            "date": "2024-06-12T08:17:00Z",
+            "windowTitle": "Copy of Beginner Mind Coding Assessment.ipynb - Colab - Google Chrome",
+            "processName": "colab.research.google.com",
+            "visitingUrl": "colab.research.google.com/drive/1zeFWExUHqewwldrEd0o3GOI2f6AUYto6#scrollTo=shE97VzGwZ4v",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 28,
+            "mouse": 22,
+            "date": "2024-06-12T08:18:00Z",
+            "windowTitle": "Copy of Beginner Mind Coding Assessment.ipynb - Colab - Google Chrome",
+            "processName": "colab.research.google.com",
+            "visitingUrl": "colab.research.google.com/drive/1zeFWExUHqewwldrEd0o3GOI2f6AUYto6#scrollTo=shE97VzGwZ4v",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 58,
+            "mouse": 21,
+            "date": "2024-06-12T08:19:00Z",
+            "windowTitle": "[LAMBDA-75972] Update Beginner Mind badge based on feedback - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-75972",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-12T08:10:00Z"
+}

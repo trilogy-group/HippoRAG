@@ -1,0 +1,272 @@
+{
+  "candidateId": 1444536,
+  "apps": [
+    "Notepad",
+    "WindowsTerminal",
+    "google.com",
+    "Code",
+    "cmd",
+    "PickerHost"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T14:23:06Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and system tray with network, sound, and battery status indicators",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Notepad",
+            "windows": [
+              {
+                "title": "aws lambda invoke - Notepad",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View options"
+                },
+                "content": [
+                  {
+                    "title": "aws lambda invoke - Notepad",
+                    "layoutDescription": "Text editor window",
+                    "visibleText": "aws lambda invoke \\\n--function-name SalesforceQuery \\\n--payload '{ \\\n\"username\": \"dmitrii.shutenkov@trilogy.com.recruiting\", \\\n\"password\": \"Vs3vSpjE\", \\\n\"security_token\": \"F3p2vU74kSTsMJnuZzR1vnFZ8\", \\\n\"campaigns\": [ \\\n{ \\\n\"id_patterns\": [ \\\n\"GA-Cat.%\" \\\n] \\\n\"sheet_id\": \"18fm1zh67mKrw0r5BfVZHLg-YezChtG5o5rkqlw9TBEY\" \\\n} \\\n] \\\n} \\\n\\\"gheet_credentials\": { \\\n\"type\": \"service_account\", \\\n\"project_id\": \"campaign-analysis-422016\", \\\n\"private_key_id\": \"cbefc97dba08afaa74f46fede73d235b40caf2284\", \\\n\"private_key\": \"-----BEGIN PRIVATE KEY-----\\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwgg"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T14:26:14Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Chrome, Notepad, File Explorer, Visual Studio Code, Microsoft Edge, Recycle Bin, and unidentified applications. Also shows system tray with network, sound, and date/time indicators.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Notepad",
+            "windows": [
+              {
+                "title": "aws lambda invoke --function-name S - Notepad",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View options. Status bar showing line and column number, character count, zoom level, line ending format, and encoding."
+                },
+                "content": [
+                  {
+                    "title": "aws lambda invoke --function-name S - Notepad",
+                    "layoutDescription": "Text editor window",
+                    "visibleText": "forceQuery --payload '{\"username\": \"dmitri.shutenkov@trilogy.com.recruiting\", \"password\": \"Tsv03vSp@\", \"security_token\": \"F3pUzv74kSTSmJNuzZR1vnFZ8\", \"campaigns\": [{ \"id\": \"KEY----1NMiTEvAlBADANBgkqhkiG9w0BAQEFAASCBKwgSj 'output.txt'"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T14:27:36Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, File Explorer, Microsoft Edge, Google Chrome, Adobe Reader, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Visual Studio Code, Recycle Bin, and system tray including network, sound, and clock",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Notepad",
+            "windows": [
+              {
+                "title": "Command Line Content",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "menu bar with File, Edit, View options"
+                },
+                "content": [
+                  {
+                    "title": "Command Line Content",
+                    "layoutDescription": "Single line command",
+                    "visibleText": "aws lambda invoke --function-name SalesforceQuery --payload '{\"username\": \"dmitrii.shutenkov@trilogy.com.recruiting\", \"password\": \"Tsv03Svp@\", \"security_token\": \"F3pZuv74kSTSmJnuBgQC13sfzeeVcoX4kdFmaHk2XxZ6eyc \"https://www.googleapis.com/oauth2/v1/certs\", \"client_x509_cert_url\": \"https://www.googleapis.com/robot/v1/metadata/x509/securetoken@system.gserviceaccount.com\"}"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively working in Notepad, focusing on AWS Lambda functions. They are writing and editing a command to invoke an AWS Lambda function named 'SalesforceQuery'. The command includes sensitive information such as username, password, and security token, along with campaign details and Google Sheets credentials. The user is likely preparing to execute this command to interact with Salesforce data and Google Sheets.",
+    "The user continues to refine the AWS Lambda command in Notepad. They are ensuring that all necessary parameters and credentials are correctly formatted. The command includes a payload with user credentials and campaign details, indicating that the user is preparing to run a specific query or operation within the AWS Lambda function. This activity suggests a focus on backend development and integration with external services.",
+    "The user is still engaged in editing the AWS Lambda command in Notepad. They are making sure that the command is correctly structured and includes all required information. The visible text shows the inclusion of a private key and other credentials necessary for the function to execute properly. This indicates a detailed and careful approach to setting up the AWS Lambda function for successful execution."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily working in Notepad, focusing on writing and editing an AWS Lambda command. There are no visible interactions with AI chat interfaces or other AI tools in the captured screenshots.",
+  "activities": [
+    "WRITING_CODE"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "IAC"
+  ],
+  "programmingLanguages": [
+    "SALESFORCE"
+  ],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 64,
+      "mouse": 18,
+      "date": "2024-06-14T14:20:25Z",
+      "windowTitle": "*aws lambda invoke  - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 74,
+      "mouse": 3,
+      "date": "2024-06-14T14:21:25Z",
+      "windowTitle": "*aws lambda invoke  - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 14,
+      "mouse": 11,
+      "date": "2024-06-14T14:22:25Z",
+      "windowTitle": "Windows PowerShell",
+      "processName": "WindowsTerminal",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 23,
+      "mouse": 10,
+      "date": "2024-06-14T14:23:25Z",
+      "windowTitle": "remove line breaks - Google Search - Google Chrome",
+      "processName": "google.com",
+      "visitingUrl": "google.com/search?q=remove+line+breaks&oq=remove+line+&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABKgCALACAA&sourceid=chrome&ie=UTF-8",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 27,
+      "mouse": 10,
+      "date": "2024-06-14T14:24:25Z",
+      "windowTitle": "*aws lambda invoke --function-name S - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 33,
+      "mouse": 9,
+      "date": "2024-06-14T14:25:25Z",
+      "windowTitle": "config.json - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 43,
+      "mouse": 9,
+      "date": "2024-06-14T14:26:25Z",
+      "windowTitle": "config.json - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 36,
+      "mouse": 9,
+      "date": "2024-06-14T14:27:25Z",
+      "windowTitle": "*aws lambda invoke --function-name S - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 15,
+      "mouse": 9,
+      "date": "2024-06-14T14:28:25Z",
+      "windowTitle": "Administrator: Command Prompt",
+      "processName": "cmd",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 10,
+      "mouse": 4,
+      "date": "2024-06-14T14:29:25Z",
+      "windowTitle": "Windows Security",
+      "processName": "PickerHost",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-14T14:20:00Z"
+}

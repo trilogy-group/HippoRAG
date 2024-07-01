@@ -1,0 +1,322 @@
+{
+  "candidateId": 2027577,
+  "apps": [
+    "chatgpt.com",
+    "oneae.advisorsexcel.com",
+    "mail.google.com",
+    "aws.prod.jivehosted.com",
+    "WorkSmart",
+    "reingold-1.jiveon.com",
+    "starslegend.humana.com",
+    "ccp.jiveon.com",
+    "thrive.ignitetech.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T19:00:52Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Edge, and other unidentified applications. Also includes system clock showing '19:00' and system tray with network, sound, and battery status icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "DevFactory Mail - Pinned - High memory usage - 2.9 GB - Google Chrome - Firat (trilogy.com)",
+                "url": "https://mail.google.com/mail",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, Gmail sidebar, chat window"
+                },
+                "content": [
+                  {
+                    "title": "Gmail Chat Window",
+                    "layoutDescription": "Chat interface with sidebar",
+                    "visibleText": "George Dita\n\nGeorge Dita\nDid you ask this for a certain transcript? or for multiple ones?\n\nYou\nfor one transcript\n\nGeorge Dita\nI did it for all the 24 transcripts separately and then merged them all\n\nGeorge Dita\nNot necessarily with reaching customers but we: performed feature demos/user testing/ ran customer interviews to extract insights about needs and desirability/ phoned customers / did early signup campaigns / did 5 email feature announcement / extracted customer details from the active users of the platform\n\nright, so in general all the stuff we did\n\nYou\nI did it for all the 24 transcripts separately and then merged them all\n\nbetter results?\n\nGeorge Dita\nyeap, otherwise it ignores most of the talked stuff"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T19:04:51Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Finder, and other unidentified applications. Also includes system clock showing '19:04' and system status icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "JCA for Aurea (PROD) - AWS Installations - Part of group Jive - Google Chrome - Firat (trilogy.com)",
+                "url": "https://aws.prod.jivehosted.com",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs for Jive, Jive - Specs, Google, Python, My Guides, Guide, G, CoPilot Guide, and others. Address bar, bookmarks bar, and multiple extension icons visible."
+                },
+                "content": [
+                  {
+                    "title": "AWS Installations",
+                    "layoutDescription": "Table layout",
+                    "visibleText": "Search: [ ] Role: [ ] Release Availability: All Release: Loading... AWS Installations Name Environment Release Creation Date Customer jnet aws-us-east-1-infra-prod GA: 3008.3.1 (3008.3.1_75_31163e3 (GA), master) 04/29/21 9:07:56 AM henrique.cunha@trilogy.com mlg aws-us-east-1-infra-prod GA: 3008.3.1 (3008.3.1_75_31163e3 (GA), master) 04/08/21 10:39:46 AM henrique.cunha@trilogy.com alcidion aws-us-east-1-infra-prod GA: 3008.3.1 (3008.3.1_132_90e86e2 (GA), master) 02/08/21 9:16:12 AM virgilio.juarez@trilogy.com viratihub aws-us-east-1-infra-prod GA: 3008.3.1 (3008.3.1_75_31163e3 (GA), master) 04/05/21 4:47:41 AM nikita.kozlov@trilogy.com onboarding-experience-eu aws-us-west-1-infra-prod GA: 3007.6.0 (3007.6.0_1_37543dc (GA), release-3007.6.0) 03/16/21 12:46:02 PM niels.bischof@trilogy.com winstonproducts aws-us-east-1-infra-prod GA: 3008.3.1 (3008.3.1_75_31163e3 (GA), master) 02/02/21 9:06:12 AM virgilio.juarez@trilogy.com pi-connect aws-us-east-1-infra-prod GA: 3008.3.1 (3008.3.1_75_31163e3 (GA), master) 01/28/21 8:12:32 AM virgilio.juarez@trilogy.com onyx aws-us-east-1-infra-prod GA: 3008.2 (3008.2_120_0e0a4fc (GA), master) 01/13/21 8:37:03 AM virgilio.juarez@trilogy.com simplify aws-us-east-1-infra-prod GA: 3008.3.1 (3008.3.1_75_31163e3 (GA), master) 01/07/21 9:27:39 AM virgilio.juarez@trilogy.com juneshinehomebase aws-us-east-1-infra-prod GA: 3008.3.1 (3008.3.1_132_90e86e2 (GA), master) 11/12/20 5:21:18 PM virgilio.juarez@trilogy.com plus..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Finder",
+            "windows": [
+              {
+                "title": "Finder",
+                "position": "minimized",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Finder icon visible on the taskbar."
+                },
+                "content": [
+                  {
+                    "title": "Finder",
+                    "layoutDescription": "Icons only",
+                    "visibleText": "Finder icon visible on the taskbar."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Other Applications",
+            "windows": [
+              {
+                "title": "Other Applications",
+                "position": "icons on taskbar",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Icons for other applications visible on the taskbar."
+                },
+                "content": [
+                  {
+                    "title": "Other Applications",
+                    "layoutDescription": "Icons only",
+                    "visibleText": "Icons for other applications visible on the taskbar."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T19:09:18Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Edge, File Explorer, and other unidentified applications. Also includes the system clock showing the time '19:09' and date '14/06/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Release Notes for Jive Hosted and On-Premise (HOP) 9.8 | Thrive - Google Chrome",
+                "url": "https://thrive.ignitetech.com",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "back, forward, refresh, home buttons, address bar, bookmarks bar, tabs, and user profile icon"
+                },
+                "content": [
+                  {
+                    "title": "Release Notes for Jive Hosted and On-Premise (HOP) 9.8",
+                    "layoutDescription": "Web page layout with text and tables",
+                    "visibleText": "Document created by Ekaterina Rudskaya on Jun 15, 2021 - Last modified by Glen Elvis on May 16, 2022\n\nHere you can find information about Jive Hosted and On-Premise (HOP) release 9.8 and Jive Daily Hosted 9.9. For additional information, see Jive Hosted and On-Premise Release Schedule.\n\nJive Hosted and On-Premise (HOP) 9.8\n\nRelease date: July 3, 2021\nBuild version: 9.8.0_4191_db65826\nRelease scope:\n\nComponent Issue key Type Summary\nHosted / On Prem Core JVHOPST-22061 Enhancement Upgrading Jive HOP JDK to the latest version of Amazon Corretto 8\nHosted / On Prem Core JVHOPST-35574 Fix In the Admin Console, pagination is not working in the space search results\nHosted / On Prem Core JVHOPST-40608 Fix If user visibility is set to false by using an API v3 Person request, hovering over the user's username (in a blog post, for example) returns errors\nHosted / On Prem Core JVHOPST-47852 Fix Filtering place content by text does not return shared content in results\nA project cannot be saved if the start and end dates are set to the same day"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in a chat conversation on Gmail with George Dita. The discussion revolves around the process of handling transcripts. George Dita mentions performing feature demos, user testing, customer interviews, and other activities to extract insights about customer needs and desirability. The user confirms that they merged 24 transcripts separately to ensure better results, indicating a focus on thorough data analysis and customer feedback integration.",
+    "The user is managing AWS installations through the Jive Hosted platform. The screenshot shows a detailed table layout listing various AWS installations, their environments, release versions, creation dates, and associated customers. This activity suggests the user is involved in backend management and deployment tasks, ensuring that different AWS environments are properly maintained and updated.",
+    "The user is reviewing release notes for Jive Hosted and On-Premise (HOP) 9.8 on the Thrive platform. The document provides detailed information about the release date, build version, and various enhancements and fixes included in the release. This activity indicates the user is involved in understanding and possibly implementing updates and improvements to the Jive platform, ensuring that the latest features and fixes are integrated into their workflow."
+  ],
+  "aiUseSummary": "The user is utilizing ChatGPT for research and guidance. The interaction with ChatGPT involves extracting customer details and insights from transcripts. The user leverages ChatGPT to streamline the process of merging multiple transcripts, ensuring comprehensive data analysis. This use of AI tools enhances the user's productivity by providing efficient solutions for handling large datasets and extracting valuable insights.",
+  "activities": [
+    "CHATTING_WITH_TEAM",
+    "READING_SPEC",
+    "EMAIL"
+  ],
+  "workTypes": [
+    "BACKEND"
+  ],
+  "programmingLanguages": [
+    "OTHER"
+  ],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [
+    "OPENAI_CHATGPT"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "CHATTING_WITH_TEAM",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 39,
+      "mouse": 15,
+      "date": "2024-06-14T19:00:56Z",
+      "windowTitle": " ChatGPT - Q2 Extractor - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "chatgpt.com",
+      "visitingUrl": "https://chatgpt.com/g/g-wPxpbGewo-q2-extractor/c/de92f3b9-3f15-44b9-896a-d16ece75ca9f",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 16,
+      "mouse": 34,
+      "date": "2024-06-14T19:01:56Z",
+      "windowTitle": " Corporate Communications | OneAE Homepage - Part of group Jive - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "oneae.advisorsexcel.com",
+      "visitingUrl": "https://oneae.advisorsexcel.com/community/corporate-communications",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 227,
+      "mouse": 6,
+      "date": "2024-06-14T19:02:56Z",
+      "windowTitle": " DevFactory Mail - Pinned - High memory usage - 2.9 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#chat/dm/5m_QNMAAAAE?compose=GTvVlcSMTggJvzxSHsSKfsCvWnqFhrRcLZQXHVvZDXhwnzRsrwVQPkGdZwGkwLwkJwRfQGSwQfbKq",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 226,
+      "mouse": 14,
+      "date": "2024-06-14T19:03:56Z",
+      "windowTitle": " JCA for Aurea (PROD) - AWS Installations - Part of group Jive - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "aws.prod.jivehosted.com",
+      "visitingUrl": "https://aws.prod.jivehosted.com/admin/jcx-installation-list.jspa",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 4,
+      "mouse": 31,
+      "date": "2024-06-14T19:04:56Z",
+      "windowTitle": " JCA for Aurea (PROD) - AWS Installations - Part of group Jive - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "aws.prod.jivehosted.com",
+      "visitingUrl": "https://aws.prod.jivehosted.com/admin/jcx-installation-list.jspa",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 8,
+      "mouse": 22,
+      "date": "2024-06-14T19:05:56Z",
+      "windowTitle": " WorkSmart\n",
+      "processName": "WorkSmart",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 4,
+      "mouse": 15,
+      "date": "2024-06-14T19:06:56Z",
+      "windowTitle": " Untitled - Part of group Jive - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "reingold-1.jiveon.com",
+      "visitingUrl": "https://reingold-1.jiveon.com//logout.jspa",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 5,
+      "mouse": 16,
+      "date": "2024-06-14T19:07:56Z",
+      "windowTitle": " News | Stars Legend - Part of group Jive - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "starslegend.humana.com",
+      "visitingUrl": "https://starslegend.humana.com/",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 14,
+      "mouse": 21,
+      "date": "2024-06-14T19:08:56Z",
+      "windowTitle": " News | Community Care Partners - Part of group Jive - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "ccp.jiveon.com",
+      "visitingUrl": "https://ccp.jiveon.com/",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 17,
+      "mouse": 17,
+      "date": "2024-06-14T19:09:56Z",
+      "windowTitle": " News | Thrive - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "thrive.ignitetech.com",
+      "visitingUrl": "https://thrive.ignitetech.com/",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-14T19:00:00Z"
+}

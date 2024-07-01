@@ -1,0 +1,192 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-04T21:11:38Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, widgets, and several pinned applications. Displays the time '12:11 AM' and date '6/5/2024'. Network, sound, and battery status icons are visible.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Inbox - dragos.nuta@trilogy.com - DevFactory Mail",
+                                "url": "https://mail.google.com/mail/u/0/#inbox",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Top menu with buttons for refresh, more, and settings. Left sidebar with compose button and mail folders. Right sidebar with Google apps and notifications icons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email List",
+                                        "layoutDescription": "List of emails displayed in a central panel",
+                                        "visibleText": "All | VIP\nEdu spec on core DSes - update - I acknowledge. I was short sighted and slow. On Sat, Jun 1, 2024, 09:38 Joe Liemandt joe.liemandt@trilogy.com wrote...\nFW: 7 Golden Rules for Generative AI Apps: A Playbook from Early Winners - https://menlovc.com/perspective/7-golden-rules-for-generative-ai-apps\nYour Child Has Been Accepted to Magic Academy Beta - Welcome to the Magic Academy! Your child is accepted, and we're thrilled...\nFwd: Chat in tpm reboot \"if you want you can use a utility i built to ex...\" - Forwarded chat in room tpm reboot Nouman Shah Ben New Yeah on my bra...\nInnovation through prompting - Democratizing educational technology... and more\nnotes from Samy - 2 TPMs are missing the program management skills (customer management, communication, roadmap, risk management, o...\nConfirm your subscription to AI News - Click here to confirm your subscription to AI News! AI News is: We summarize top AI Discords + AI Reddits + AI X/Twitt..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T21:14:49Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Dev, Si, Nou, Devi, Jive, ARR, ARR, EDU, EDU, ARR, ARR, Jive, Jive, Not, Not, Not, Not, Ill, Ill, Cro, +, and system clock showing 12:14 AM, date 6/5/2024",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "AI Assist - Extract Document Content - Google Docs - Google Chrome",
+                                "url": "https://docs.google.com/document/d",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help; Toolbar with undo, redo, print, spelling and grammar check, zoom settings, text formatting options, and more"
+                                },
+                                "content": [
+                                    {
+                                        "title": "AI Assist - Extract Document Content",
+                                        "layoutDescription": "Two-column layout",
+                                        "visibleText": "Problem Statement\nExplore ways to extract content from documents from screen content collected over a period of time, such that we create logical documents that have most of the content (not exact copy, but best effort, logical content).\nBy logical document, I mean:\n- A document I was reading\n- A page I was browsing\n- A chat conversation (person or group)\n- An email\n\nBasically, emulate the human brain - we look at the screen, at different apps, browse through them, and load up the content in our memory as logical pieces of information not screenshots (eg. content on document X from GDoc, content on topic X from pageA, chat with Y etc)\n\nScope Exclusions\n- Data collection - I can provide the data\n- Complicated policies - use the best version of each LLM in a top down way\n- Processing of large period of time\n- Assume one image is one moment, we don't want to deal with the problem that WorkSmart stitches all scenes in one long document\n\nKey Unknowns\n1. Can we detect boundaries of logical content (eg. document X, chat with Y, summary about Z from page A)\n2. Can we stitch content together? How well can we do it (it does not have to be perfect)?\n3. Can we avoid having the UX mix up content (eg. know that a comment in JIRA is made by X, or that message on chat from Z is from a certain date)\n\nActivities\n- Test with different types of inputs\n * Every 3 minute screenshots\n * Every 1 minute screenshots\n * Every 30 seconds screenshots\n * Videos of every 5 second segments\n- Test different LLMs and screening techniques\n- Evaluate if the content can be extracted into logical documents and whether the quality of the content in each logical document is generally right (we want to be able to understand it to some extent, not to have a perfect copy, nor to catch every little detail)\n\nSuccess Criteria\n[What does an acceptable vs. great outcome look like? Will love evaluative quality. Be specific on the metrics you will be looking for, aspects that the answer you touch]"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is primarily engaged in managing their emails using Gmail. The first screenshot shows the user viewing their inbox, which contains various emails related to work, including updates on educational specifications, a playbook for generative AI apps, and a subscription confirmation for AI News. The user is likely prioritizing and organizing their emails, as indicated by the presence of starred and important labels.",
+        "In the second screenshot, the user is working on a Google Docs document titled 'AI Assist - Extract Document Content.' The document outlines a problem statement and explores ways to extract content from documents based on screen content collected over time. The user is likely involved in writing or editing the document, as the visible text includes detailed sections on scope exclusions, key unknowns, activities, and success criteria. This indicates a focus on creating a logical document that emulates human memory by consolidating information from various sources."
+    ],
+    "aiUseSummary": "There is no visible evidence of AI tools being used in the provided screenshots. The user is primarily engaged in managing emails and working on a Google Docs document. There are no interactions with AI chat interfaces or AI-driven tools visible in the screenshots.",
+    "activities": [
+        "EMAIL",
+        "WRITING_SPEC"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DOCUMENT_VIEWER_OR_EDITOR"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "EMAIL",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T21:10:12Z",
+            "windowTitle": "Inbox - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T21:11:13Z",
+            "windowTitle": "Inbox - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T21:12:13Z",
+            "windowTitle": "Inbox - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 1,
+            "mouse": 4,
+            "date": "2024-06-04T21:13:13Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/mpTKfMAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 135,
+            "mouse": 11,
+            "date": "2024-06-04T21:14:12Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAU06618Q",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 54,
+            "mouse": 11,
+            "date": "2024-06-04T21:15:12Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAU06618Q",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 99,
+            "mouse": 6,
+            "date": "2024-06-04T21:16:13Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAU06618Q",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-04T21:10:00Z"
+}

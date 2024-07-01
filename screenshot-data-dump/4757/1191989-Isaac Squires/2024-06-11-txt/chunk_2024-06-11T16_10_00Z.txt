@@ -1,0 +1,202 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "docs.google.com",
+        "meet.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-11T16:15:18Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes Wi-Fi, sound, battery, and clock (10:15 AM, 11 Jun 2024).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "LearnWith.ai Q3 2024 Budget Update - Google Docs - Google Chrome",
+                                "url": "https://docs.google.com/document/d",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with options for File, Edit, View, Insert, Format, Tools, Extensions, Help. Toolbar with undo, redo, print, spelling and grammar check, zoom settings, text formatting options, and more."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Q2 Progress",
+                                        "layoutDescription": "Text section",
+                                        "visibleText": "Q2 Progress\nDuring Q2 we built out the core functionality of the Magic Academy game, leveraging the work that was done on TeachTower, and preserving the tower as a central feature to represent academic progression.\n1. Built an MVP\n a. Customizable characters (380+ options, leveraging the Unity asset store)\n b. Equipment system (100+ items to earn through play)\n c. Combat\n d. Pets\n e. Academic questions as fuel\n f. Tower represents your academic progress\n g. Real-world rewards\n2. Conducted Play Testing\n a. Kids played a lot and were especially motivated by the real-world rewards\n b. Math content was a positive for the student testers (kids see it as an opportunity to show off what they have learned)\n3. Ran a Beta Program\n a. Positive feedback: character customization, fun to explore the world, excited about rewards\n b. Negative feedback: math questions too easy, need more explanation on how to start, want more game content]\n4. Launched!\n a. Website\n b. Metrics dashboard\nIn the first week after launch, we have averaged 2.4 sessions per user with over 16 minutes played per session. Kids have answered more than 60 math questions each."
+                                    },
+                                    {
+                                        "title": "Q3 Plans",
+                                        "layoutDescription": "Text section",
+                                        "visibleText": "Q3 Plans\nIn Q3 we plan to shift our energy toward user acquisition and monetization. Key to this strategy is selling parents on the value as part of the user acquisition funnel with targeted landing pages and supporting research. We will build out proof points of program effectiveness both to validate the core strategy and to compel parents to make subsequent purchases.\n1. Acquire users through social and mobile ads"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in reading and editing a Google Docs document titled 'LearnWith.ai Q3 2024 Budget Update'. The document outlines the progress made in Q2, including the development of an MVP for the Magic Academy game, play testing, beta program feedback, and the launch of the game. The user is reviewing detailed sections on Q2 progress and Q3 plans, which include strategies for user acquisition and monetization.",
+        "The user is also participating in a Google Meet session, as indicated by the shared tab in the browser. This suggests that the user is likely discussing the contents of the Google Docs document with team members or stakeholders. The meeting could be focused on reviewing the Q2 progress and planning for Q3, as these are the main topics in the document being viewed."
+    ],
+    "aiUseSummary": "",
+    "activities": [
+        "READING_SPEC",
+        "MEETING"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "READING_SPEC",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 32,
+            "mouse": 10,
+            "date": "2024-06-11T16:10:47Z",
+            "windowTitle": "LearnWith.ai Q3 2024 Budget Update - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1wRJiCDXbFF0pR2cSKCtEeEa5BQWZFem1vLqOqLAI2ic/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 27,
+            "date": "2024-06-11T16:11:47Z",
+            "windowTitle": "LearnWith.ai Q3 2024 Budget Update - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1wRJiCDXbFF0pR2cSKCtEeEa5BQWZFem1vLqOqLAI2ic/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 6,
+            "mouse": 11,
+            "date": "2024-06-11T16:12:47Z",
+            "windowTitle": "LearnWith.ai Q3 2024 Budget Update - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1wRJiCDXbFF0pR2cSKCtEeEa5BQWZFem1vLqOqLAI2ic/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 16,
+            "date": "2024-06-11T16:13:47Z",
+            "windowTitle": "LearnWith.ai Q3 2024 Budget Update - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1wRJiCDXbFF0pR2cSKCtEeEa5BQWZFem1vLqOqLAI2ic/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 10,
+            "date": "2024-06-11T16:14:47Z",
+            "windowTitle": "LearnWith.ai Q3 2024 Budget Update - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1wRJiCDXbFF0pR2cSKCtEeEa5BQWZFem1vLqOqLAI2ic/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 15,
+            "date": "2024-06-11T16:15:47Z",
+            "windowTitle": "LearnWith.ai Q3 2024 Budget Update - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1wRJiCDXbFF0pR2cSKCtEeEa5BQWZFem1vLqOqLAI2ic/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 23,
+            "date": "2024-06-11T16:16:47Z",
+            "windowTitle": "LearnWith.ai Q3 2024 Budget Update - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1wRJiCDXbFF0pR2cSKCtEeEa5BQWZFem1vLqOqLAI2ic/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 16,
+            "mouse": 12,
+            "date": "2024-06-11T16:17:47Z",
+            "windowTitle": "LearnWith.ai Q3 2024 Budget Update - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1wRJiCDXbFF0pR2cSKCtEeEa5BQWZFem1vLqOqLAI2ic/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 15,
+            "date": "2024-06-11T16:18:47Z",
+            "windowTitle": "Meet - wzy-xnzq-gro - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wzy-xnzq-gro?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-11T16:19:47Z",
+            "windowTitle": "Meet - wzy-xnzq-gro - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wzy-xnzq-gro?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-11T16:10:00Z"
+}

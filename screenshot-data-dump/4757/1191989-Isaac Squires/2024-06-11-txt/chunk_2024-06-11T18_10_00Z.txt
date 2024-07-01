@@ -1,0 +1,206 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "drive.google.com",
+        "mail.google.com",
+        "1edtech-alpha.stoplight.io",
+        "blinq.io",
+        "meticulous.ai"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-11T18:14:21Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, File Explorer, Microsoft Edge, and other unidentified applications. System clock shows '12:14 11 Jun 2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Fwd: Incept math question demo - isaac.squires@trilogy.com - DevFactory Mail",
+                                "url": "mail.google.com/mail/u/0/#inbox/FMfc",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "buttons, tabs, address bar, Google account access, settings, and other Chrome tools visible."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email Content",
+                                        "layoutDescription": "Structured layout with sender, recipient, and date details at the top, followed by the email body.",
+                                        "visibleText": "Screen Recording 2024-05-28 at 1.35.30 AM.mov\nZain Lakhani\nCo-founder\nLinkedIn\nOne attachment \u00b7 Scanned by Gmail\nIsaac Squires\nIs this a project that Joe is investing in and wants us to contribute to the generators, or is he wanting to consume this API to generate content in our apps?\nSamy Aboel-Nil\nDefinitely a project Joe is investing in, what I want us to do is look at what they've got so we can propose the specific ways we can contribute."
+                                    },
+                                    {
+                                        "title": "Tasks Widget",
+                                        "layoutDescription": "List of tasks with checkboxes and links.",
+                                        "visibleText": "Active\nAdd a task\nSplit out content gen / prompt engineering\nDo we grow marketing team?\nQ2 progress / Q3 plan Budget meeting https://docs.google.com/document/d/1V2...\nSamy 1:1 topics - App testing as a service - Doreun run research study...\nWeekly update\nEnter grade (support US grades only)\nPost TeachTap content on TikTok following the unit schedule on the calendar Split by channel per AP course https://assetstore.unity.com/packages/tools/utili up with Doreen about beta program and research study\nPublish game for Xbox / Playstation / Apple vision pro?\n$299 per grade level - 2 Map tests - $50 in rewards..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in reading and responding to emails. The screenshot shows an email from Zain Lakhani, Co-founder of Lightci, with an attachment titled 'Screen Recording 2024-05-28 at 1.35.30 AM.mov'. The email thread includes a discussion between Isaac Squires and Samy Aboel-Nil about a project Joe is investing in and how they can contribute to it. The user is likely reviewing the content of the email and considering the next steps for the project.",
+        "The user is also managing tasks using a task widget visible on the right side of the screen. The tasks listed include 'Split out content gen / prompt engineering', 'Do we grow marketing team?', 'Q2 progress / Q3 plan Budget meeting', 'Samy 1:1 topics - App testing as a service - Doreun run research study', 'Weekly update', 'Enter grade (support US grades only)', 'Post TeachTap content on TikTok following the unit schedule on the calendar', 'Publish game for Xbox / Playstation / Apple vision pro?', and '$299 per grade level - 2 Map tests - $50 in rewards'. The user is likely prioritizing and organizing their tasks for the day or week.",
+        "The user is utilizing Google Chrome as their primary web browser. The active tab is on Gmail, indicating that the user is focused on email communication. Other tabs open in the browser include links to Google Drive, Stoplight, Blinq, and Meticulous, suggesting that the user is also involved in activities related to document management, API documentation, product research, and meticulous testing. This indicates a diverse set of tasks and responsibilities that the user is handling simultaneously."
+    ],
+    "aiUseSummary": "There is no visible interaction with AI tools in the provided screenshot. The user is primarily focused on email communication and task management. There are no indications of AI tools being used for code suggestions, research, guidance, or debugging in the current context. The user's activities are centered around reviewing emails and managing tasks without the assistance of AI tools.",
+    "activities": [
+        "EMAIL",
+        "READING_SPEC"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DOCUMENT_VIEWER_OR_EDITOR"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "EMAIL",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T18:10:47Z",
+            "windowTitle": "Screen Recording 2024-05-28 at 1.35.30?AM.mov - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1B5z0u7kBYmcnCLgzO1-EUSEP2TCHlwlA/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 2,
+            "mouse": 3,
+            "date": "2024-06-11T18:11:47Z",
+            "windowTitle": "Screen Recording 2024-05-28 at 1.35.30?AM.mov - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1B5z0u7kBYmcnCLgzO1-EUSEP2TCHlwlA/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 4,
+            "mouse": 3,
+            "date": "2024-06-11T18:12:47Z",
+            "windowTitle": "Screen Recording 2024-05-28 at 1.35.30?AM.mov - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1B5z0u7kBYmcnCLgzO1-EUSEP2TCHlwlA/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-11T18:13:47Z",
+            "windowTitle": "Screen Recording 2024-05-28 at 1.35.30?AM.mov - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1B5z0u7kBYmcnCLgzO1-EUSEP2TCHlwlA/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 13,
+            "date": "2024-06-11T18:14:47Z",
+            "windowTitle": "TeachTap - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwnWTnRRxjflVGxmlbPHWWCpl",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 40,
+            "date": "2024-06-11T18:15:47Z",
+            "windowTitle": "TeachTap - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwwwMhxXmHTmddhlVgmSnmCJH",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-11T18:16:47Z",
+            "windowTitle": "PowerPath | 1Edtech - Google Chrome",
+            "processName": "1edtech-alpha.stoplight.io",
+            "visitingUrl": "1edtech-alpha.stoplight.io/docs/1edtech/awfxqyww6zbmu-power-path",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 3,
+            "mouse": 8,
+            "date": "2024-06-11T18:17:47Z",
+            "windowTitle": "Screen Recording 2024-05-28 at 1.35.30?AM.mov - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1B5z0u7kBYmcnCLgzO1-EUSEP2TCHlwlA/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 8,
+            "mouse": 21,
+            "date": "2024-06-11T18:18:47Z",
+            "windowTitle": "Product - BlinqIO - Google Chrome",
+            "processName": "blinq.io",
+            "visitingUrl": "blinq.io/product/",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 14,
+            "mouse": 6,
+            "date": "2024-06-11T18:19:47Z",
+            "windowTitle": "Meticulous - Google Chrome",
+            "processName": "meticulous.ai",
+            "visitingUrl": "meticulous.ai",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-11T18:10:00Z"
+}

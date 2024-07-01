@@ -1,0 +1,197 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "mail.google.com",
+    "docs.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-11T21:30:48Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, File Explorer, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Spotify, and a user profile picture. System clock shows '15:30'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Niraj Patel messaged you - Chat - Google Chrome",
+                "url": "mail.google.com/mail/u/0/#chat/dm/",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, Google account profile picture, minimize, maximize, close buttons"
+                },
+                "content": [
+                  {
+                    "title": "Gmail Chat Window",
+                    "layoutDescription": "Chat interface with message threads",
+                    "visibleText": "Samy Aboel-Nil\nSamy Aboel-Nil 3 min\nhi Isaac - I'm running long today, can we reschedule for tomorrow? 🏃\nIsaac / Samy Now\nalthough we have our meeting wj\nNow\nsure"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in a chat conversation on Gmail. The chat window shows a conversation with Samy Aboel-Nil, where Samy is requesting to reschedule a meeting for the next day. The user is in the process of typing a response, indicating active participation in team communication. The chat interface includes a link to a Google Meet video meeting, suggesting that the user is coordinating a virtual meeting.",
+    "The user has multiple tabs open in Google Chrome, including Gmail and Google Docs. This indicates that the user is likely multitasking between email communication and document editing or viewing. The presence of multiple tabs suggests a workflow that involves switching between different tasks and resources.",
+    "The taskbar at the bottom of the screen shows icons for various applications, including Google Chrome, File Explorer, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, and Spotify. This indicates that the user has access to a range of tools for different types of work, although only Google Chrome is actively being used in this session."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in email communication and document-related tasks without any visible interaction with AI tools for code suggestions, research, or debugging.",
+  "activities": [
+    "CHATTING_WITH_TEAM",
+    "EMAIL"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "CHATTING_WITH_TEAM",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 34,
+      "mouse": 6,
+      "date": "2024-06-11T21:30:48Z",
+      "windowTitle": "Niraj Patel messaged you - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/51KzrUAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 168,
+      "mouse": 18,
+      "date": "2024-06-11T21:31:48Z",
+      "windowTitle": "LearnWith.ai Q3 2024 Budget Update - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1wRJiCDXbFF0pR2cSKCtEeEa5BQWZFem1vLqOqLAI2ic/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 18,
+      "date": "2024-06-11T21:32:48Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/3OaBbUAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 79,
+      "mouse": 14,
+      "date": "2024-06-11T21:33:48Z",
+      "windowTitle": "TeachTap - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/3OaBbUAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 195,
+      "mouse": 14,
+      "date": "2024-06-11T21:34:48Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 43,
+      "mouse": 4,
+      "date": "2024-06-11T21:35:49Z",
+      "windowTitle": "GT School - Budget P&L - Q3'24 - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1VYZ2Hbs9Y6Dj691ej3HCOS_MWRcRC0X-7C81DixO6Qo/edit#gid=1458914349",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 59,
+      "mouse": 14,
+      "date": "2024-06-11T21:36:48Z",
+      "windowTitle": "GT School - Budget P&L - Q3'24 - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1VYZ2Hbs9Y6Dj691ej3HCOS_MWRcRC0X-7C81DixO6Qo/edit#gid=1458914349",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 53,
+      "mouse": 13,
+      "date": "2024-06-11T21:37:49Z",
+      "windowTitle": "GT School Q3'24 Budget Details - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/19t2L4FosU9WLYwDFYdDf6EbfMwMUkto9JOJdjZXw57U/edit#gid=105046558",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 4,
+      "mouse": 22,
+      "date": "2024-06-11T21:38:49Z",
+      "windowTitle": "GT School Q3'24 Budget Details - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/19t2L4FosU9WLYwDFYdDf6EbfMwMUkto9JOJdjZXw57U/edit#gid=658915472",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 63,
+      "mouse": 18,
+      "date": "2024-06-11T21:39:49Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/3OaBbUAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-11T21:30:00Z"
+}

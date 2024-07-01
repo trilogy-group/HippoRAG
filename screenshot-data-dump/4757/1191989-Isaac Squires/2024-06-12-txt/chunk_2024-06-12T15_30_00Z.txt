@@ -1,0 +1,196 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "calendar.google.com",
+        "meet.google.com",
+        "notion.so"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T15:38:20Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, widgets, and several pinned applications. Also includes system tray with clock, volume, network, and other system status icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - mns-wkxc-dga - Google Chrome",
+                                "url": "meet.google.com/mns-wkxc-dga",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Browser window with tabs, address bar, bookmarks bar, and Google Meet controls"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Meet Video Conference",
+                                        "layoutDescription": "Grid layout with participant videos",
+                                        "visibleText": "Bogdan Tenea\nPhil Hewinson\nDavid's Assistant\nSimon Said\nIsaac Squires"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Google Meet video conference. The meeting involves multiple participants, including Bogdan Tenea, Phil Hewinson, David's Assistant, Simon Said, and Isaac Squires. The meeting is titled 'Q3 Budget - PBM1 - GT School' and is scheduled for 9:38 AM. The user is actively participating in the meeting, as indicated by the maximized Google Chrome window displaying the Google Meet interface.",
+        "The user has several browser tabs open, including 'calendar.google.com', 'meet.google.com', and 'notion.so'. This suggests that the user is managing their schedule, participating in meetings, and possibly reviewing or updating documentation on Notion. The presence of these tabs indicates a multitasking workflow, where the user is balancing between meetings, calendar management, and documentation tasks."
+    ],
+    "aiUseSummary": "",
+    "activities": [
+        "MEETING"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 3,
+            "mouse": 13,
+            "date": "2024-06-12T15:30:45Z",
+            "windowTitle": "DevFactory - Calendar - Week of June 9, 2024 - Google Chrome",
+            "processName": "calendar.google.com",
+            "visitingUrl": "calendar.google.com/calendar/u/0/r/week",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 13,
+            "date": "2024-06-12T15:31:45Z",
+            "windowTitle": "Meet - mns-wkxc-dga - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/mns-wkxc-dga?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 5,
+            "mouse": 13,
+            "date": "2024-06-12T15:32:45Z",
+            "windowTitle": "Meet - mns-wkxc-dga - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/mns-wkxc-dga?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 13,
+            "mouse": 16,
+            "date": "2024-06-12T15:33:45Z",
+            "windowTitle": "(9+) Weekly Update - Google Chrome",
+            "processName": "notion.so",
+            "visitingUrl": "notion.so/isaacsquires-trilogy/Weekly-Update-1889ea73558648feabbe9cf2e4bca96f",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 22,
+            "mouse": 19,
+            "date": "2024-06-12T15:34:45Z",
+            "windowTitle": "Meet - mns-wkxc-dga - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/mns-wkxc-dga?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T15:35:45Z",
+            "windowTitle": "Meet - mns-wkxc-dga - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/mns-wkxc-dga?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T15:36:45Z",
+            "windowTitle": "Meet - mns-wkxc-dga - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/mns-wkxc-dga?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 9,
+            "mouse": 6,
+            "date": "2024-06-12T15:37:45Z",
+            "windowTitle": "Meet - mns-wkxc-dga - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/mns-wkxc-dga?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T15:38:45Z",
+            "windowTitle": "Meet - mns-wkxc-dga - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/mns-wkxc-dga?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T15:39:45Z",
+            "windowTitle": "Meet - mns-wkxc-dga - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/mns-wkxc-dga?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-12T15:30:00Z"
+}

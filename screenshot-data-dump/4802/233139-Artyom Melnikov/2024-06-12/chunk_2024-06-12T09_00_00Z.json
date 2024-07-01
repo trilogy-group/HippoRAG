@@ -1,0 +1,290 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "chrome"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T09:00:28Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, File Explorer, Microsoft Edge, Google Chrome, Visual Studio Code, and other unidentified applications. System tray includes network, sound, and clock (11:00 AM, 06/12/2024)",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Google Chat - Denys Yefimenko - Chat",
+                "url": "https://mail.google.com/chat/u/0/#ch",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "user interface elements including search bar, settings, and chat options"
+                },
+                "content": [
+                  {
+                    "title": "Chat with Denys Yefimenko",
+                    "layoutDescription": "Chat layout with messages and sidebar",
+                    "visibleText": "Denys Yefimenko 29 min\nОбсюдим, стало кращеся ) спасибо\n\n[Вот тут твоя старая ветка https://github.com/trilogy-group/hiringcoll/2313/]\n\nDenys Yefimenko 25 min\nМне кажется эта лучше но не то же самое\n\nнасколько я понимаю она будет брать записи начиная с 00:01 вечернего дня, то есть 24 часа плюс окончено время начала за сегодня. то есть от 24 до 48 часов.\n\nНе то чтобы это было критично, но я предвожу изменения чео 24 час\n\nDenys Yefimenko 22 min\nВ целом верно. Если приступим немедленно чео 24 часа то твой вариант лучше\n\nНе прикрепляйся, сейчас понял\n\nDenys Yefimenko 1 min\nОдин вопрос по новому ПР - как нам нужно проводить Cancelled stage в формуле?\n\nЕсли это Cancelled автоматический (примерно диапазон) то это будет даже до BFO, поэтому там будет Equal. Если это Cancelled после BFO, то там LastActiveStage будет после и все равно оно по первой ветке обработается\n\nЕсли это Cancelled во время BFO (примерно по запросу пользователя), то ценой тот этот кейс не обработан, но он и так должен быть full, потому что пользователь не прошел BFO, то есть все ок"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T09:04:18Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, File Explorer, Microsoft Edge, Google Chrome, Visual Studio Code, and system tray with network, sound, and date/time indicators",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Google Chat - Denys Yefimenko - Chat",
+                "url": "https://mail.google.com/chat/u/0/#ch",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "interface with sidebar, search bar, chat window, and settings menu"
+                },
+                "content": [
+                  {
+                    "title": "Chat",
+                    "layoutDescription": "interface",
+                    "visibleText": "Denys Yefimenko\nОбсідіан, стало краще) спасибо\n\nЯ тот вчера сказал https://github.com/trilogy-group/hiringpull/2313/ хочется эта функция не то же самое\n\nнасколько я понимаю он будет брать записи начиная с 00:01 очередного дня, то есть 24 часа плюс сколько времени прошло за сегодня. то есть от 24 до 48 час.\n\nНе то чтобы это было критично, но я предрекаюз изменено 24 час.\n\nВ целом лучше. Если предыдущий месяц 24 часа то твой вариант лучше\n\nНе приглашай, сейчас понял\n\nDenys Yefimenko\n1 unread\n\nОдна вопрос по поводу PR: на нем нужно провести Cancelled stage в фоне?\n\nЕсли смог Cancelled автоматический (примерно длинный) то это будет даже лучше, потому что будет Null. Если этот Cancelled после BFO, то там LastActiveStage будет после BFO, по равно он по первой ветке обработается\n\nЕсли это Cancelled во время BFO (примерно по запросу пользователя), то ценой тот который не обработано, он но так должен быть full, потому что пользователь не прошел BFO\n\nТо есть есть вопрос\n\nАга, понял"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T09:06:58Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. System tray includes network, sound, and clock icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Google Chat - Denys Yefimenko - Chat",
+                "url": "https://chat.google.com/",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Chat interface with sidebar, search bar, and main chat window"
+                },
+                "content": [
+                  {
+                    "title": "Chat",
+                    "layoutDescription": "Chat layout",
+                    "visibleText": "Denys Yefimenko\nОбсідіан, стало краще) спасибо\n\nDenys Yefimenko\nМне хотелось эта функция не то же самое\n\nDenys Yefimenko\nнасколько я понимаю он будет брать записи начиная с 00:01 очереди а не до, то есть 24 часа плюс отскок времени прошлой очереди до теста. то есть от 24 до 48 часов.\n\nDenys Yefimenko\nНе то чтобы это было критично, но я предрекаюз изменено 24 час\n\nDenys Yefimenko\nВ целом лучше. Если предыдущий изменено 24 часа то твой вариант лучше\n\nDenys Yefimenko\nНе приглашали, сейчас понял\n\nDenys Yefimenko\nОдна вопрос по поводу PR: на нем нужно проверять Cancelled stage в формуле?\n\nDenys Yefimenko\nЕсли смог Cancelled автоматические (запланирован) то это будет даже лучше, потому что будет Null. Если этот Cancelled после BFO, то там LastActiveStage будет после BFO, по равно оно по первой ветке обработается\n\nDenys Yefimenko\nЕсли это Cancelled во время BFO (по запросу пользователя), то чемон мг этот колес не обработано, он но так должен быть full null, потому что пользователь не прошел BFO\n\nDenys Yefimenko\nда, понял"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "feat:LAMBDA-76023: Add BQ Calculation to the Job_Board Cell Analytics API",
+                "position": "left half",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Code editor with file explorer and open file"
+                },
+                "content": [
+                  {
+                    "title": "Code",
+                    "layoutDescription": "Code editor with file explorer",
+                    "visibleText": "// src\n// app-main/init/default\n// classes\n// LinkedLists, ComputeCell...\n// layouts\n// Job_Board Cell_Analytics_API\n// objects\n// Job_Board Cell_Analytics_API/fields...\n// manifest\n// LAMBDA-76023.xml"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in a chat conversation on Google Chat with a colleague named Denys Yefimenko. The discussion revolves around a pull request (PR) and the specifics of implementing a function related to BFO (Business Function Object). The user is clarifying the logic and conditions under which certain stages should be processed, particularly focusing on the 'Cancelled' stage and its implications before and after BFO. The conversation includes sharing a GitHub link to the PR for further review.",
+    "In addition to chatting, the user is also reviewing code on GitHub. The repository and file structure visible in the screenshots indicate that the user is working on a project related to 'Job_Board Cell_Analytics_API'. The user is examining the code changes and possibly preparing to make or review modifications. The presence of the GitHub interface suggests that the user is involved in code review activities, ensuring that the changes meet the required standards and functionality.",
+    "The user is utilizing Google Chrome as the primary web browser for both chatting and code review activities. The browser window is split between the chat interface and the GitHub repository, allowing the user to multitask efficiently. The user is likely switching between these tasks to ensure that the conversation with the colleague is informed by the latest code changes and vice versa."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in chatting with a colleague and reviewing code on GitHub. No AI chat interfaces or AI-driven suggestions are visible in the screenshots, indicating that the user is not leveraging AI tools for their current tasks.",
+  "activities": [
+    "CHATTING_WITH_TEAM",
+    "REVIEWING_CODE"
+  ],
+  "workTypes": [
+    "BACKEND"
+  ],
+  "programmingLanguages": [
+    "SALESFORCE"
+  ],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "CHATTING_WITH_TEAM",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 299,
+      "mouse": 0,
+      "date": "2024-06-12T09:00:00Z",
+      "windowTitle": "Google Chat - Denys Yefimenko - Chat",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 30,
+      "mouse": 2,
+      "date": "2024-06-12T09:01:00Z",
+      "windowTitle": "Google Chat - Denys Yefimenko - Chat",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T09:02:00Z",
+      "windowTitle": "Google Chat - Denys Yefimenko - Chat",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T09:03:00Z",
+      "windowTitle": "Google Chat - Denys Yefimenko - Chat",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T09:04:00Z",
+      "windowTitle": "Google Chat - Denys Yefimenko - Chat",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T09:05:00Z",
+      "windowTitle": "Google Chat - Denys Yefimenko - Chat",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T09:06:00Z",
+      "windowTitle": "Google Chat - Denys Yefimenko - Chat",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T09:07:00Z",
+      "windowTitle": "Google Chat - Denys Yefimenko - Chat",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T09:08:00Z",
+      "windowTitle": "Google Chat - Denys Yefimenko - Chat",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T09:09:00Z",
+      "windowTitle": "Google Chat - Denys Yefimenko - Chat",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-12T09:00:00Z"
+}

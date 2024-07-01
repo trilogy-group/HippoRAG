@@ -1,0 +1,357 @@
+{
+    "candidateId": 2368956,
+    "apps": [
+        "docs.google.com",
+        "chatgpt.com",
+        "Google Chat"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-06T13:00:56Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Google Chrome, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Outlook, Adobe Acrobat, a folder, and a trash bin. Also includes a system clock showing '1:00 PM' and system status icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "ChatGPT - TranscriptAnalyzer",
+                                "url": "https://www.example.com",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "multiple tabs, address bar, bookmarks bar, and vertical scroll bar."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Customer Summary",
+                                        "layoutDescription": "Text document layout",
+                                        "visibleText": "Customer Summary\n\nSuccessful Customers:\n\n- Nonexistent Pricing Challenges: Customers who did not challenge pricing regularly struggled the least. Prompting these actions to happen before the situation is taken too far was vital, especially for some of our more volatile and less predictable customers.\n\n- Lack of Resource Concerns: Customers who presented concerns that were not related to lack of resources, thereby eliminating some of the most frequent and easy-to-resolve challenges. Often times additional costs, if any, might not be large.\n\n- Sufficient Budget: Some did not voice their struggles, leading to a lack of engaging opportunities. Even if they were not active challenges we pursue, awareness levels are likely to remain high.\n\n- Lead Engagement: Customers who had a higher engagement collectively did not see significant problems that couldn't be resolved more than others of their status, and were not as needy, hence were able to actively engage and maintain their positions.\n\nUnsuccessful Customers:\n\n- Lack of Authority: Those who complained regarding a lack of financial challenges, relying on others to resolve their pricing issues. This led to a lack of authority and decision-making capabilities, which often resulted in a lack of engagement.\n\n- Pricing Challenges: Customers who were particularly sensitive to pricing and were often the first to voice their concerns. This led to a lack of engagement and a decrease in overall satisfaction.\n\n- Resource Limitations: Customers who had significant resource limitations, leading to their frequent and often unresolved challenges. This led to a lack of engagement and a decrease in overall satisfaction.\n\n- Frequent Complaints: Customers who frequently complained about various issues, leading to a lack of engagement and a decrease in overall satisfaction.\n\nLack of Authority and Pricing: This led to a lack of authority and decision-making capabilities, which often resulted in a lack of engagement and a decrease in overall satisfaction.\n\nThe above points are a brief overview of the types of customers who have been either successful or unsuccessful based on the challenges they faced and how they were managed."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "ADP Ambassador",
+                                "url": "https://www.example.com",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "a list of contacts, search bar, and vertical scroll bar."
+                                },
+                                "content": [
+                                    {
+                                        "title": "ADP Ambassador",
+                                        "layoutDescription": "List layout",
+                                        "visibleText": "ADP Ambassador\n\n- Sally Anderson - HR Generalist - Mid States Insurance - 367\n- Mary Lambert - VP, Benefits - Oracle Corporation - 340\n- Jeff Goodell - Director, Employee Benefits - Managed Care Concepts - 320\n- Kim Stanley - Manager, Sales and Payroll - T-Mobile Corporation - 312\n- Linda Kennedy - Manager, Benefits and Payroll - Taco Corporation - 309\n- Christine Conrado - Payroll & HR Manager - UniPlan - 305\n- Gabriel Garcia - Senior Benefits Manager - A & P Benefits Department - 303\n- Ronald Schumacher - Benefits Manager - Royal Dutch Shell - 300\n- Kim Stanley - Manager, Sales and Payroll - T-Mobile Corporation - 298\n- Larry Johnson - HR Manager - Google Corporation - 295\n- Timmy Thomas - Payroll Accountant - Microsoft - 290\n- Nancy Brown - Senior Payroll Manager - Brown & Sons Enterprises - 287\n- Theresa May - HR Manager - HEICO - 285\n- Lucy Gorman - Payroll Specialist - MEDCO - 280\n- Timmy Thomas - Payroll Accountant - Microsoft - 278\n- Larry Johnson - HR Manager - Google Corporation - 275\n- Nancy Brown - Senior Payroll Manager - Brown & Sons Enterprises - 272\n- Theresa May - HR Manager - HEICO - 270\n- Lucy Gorman - Payroll Specialist - MEDCO - 268\n- Sally Anderson - HR Generalist - Mid States Insurance - 265\n\nThis list is a brief overview of the contacts within the ADP Ambassador program, highlighting their roles and associated scores."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-06T13:05:36Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a system clock showing the time '1:05 PM' and date 'Wednesday, June 6'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Meghan Doe - Docs",
+                                "position": "left side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "tools, sharing settings, document content"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Meghan Doe - Docs",
+                                        "layoutDescription": "Text document",
+                                        "visibleText": "Successful Customers: - Customers who engaged and were highly responsive to our outreach showed much better... Unsuccessful Customers: - Customers who did not engage or were less responsive to our outreach efforts showed... Lack of Ownership: This segment represented a lack of ownership, resulting in challenges such as..."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Google Chat",
+                                "position": "center of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "interface, search bar, chat list, message input area"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat with Nouman Shah",
+                                        "layoutDescription": "Chat window",
+                                        "visibleText": "Nouman Shah: I still have doubts regarding the project strategy we discussed earlier. Can you clarify... Stephanie: The approach we discussed involves... Nouman Shah: That's a bit concerning..."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Finder",
+                        "windows": [
+                            {
+                                "title": "Finder",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "navigation pane, file list, file preview"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Finder",
+                                        "layoutDescription": "File explorer",
+                                        "visibleText": "ADP Ambassador 3/3/2021.pdf, Current Projects, Meghan Doe - Docs, Project Budget.xlsx, Team Meeting Notes.docx, Weekly Overview.pptx"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-06T13:07:55Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Time Machine, and Trash. Also includes a system clock showing the time '1:07 PM' and a date 'Wed Jun 6'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Meghan - Doc Accessible",
+                                "position": "left side, maximized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "text, bullet points, and hyperlinks"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Meghan - Doc Accessible",
+                                        "layoutDescription": "Text document layout",
+                                        "visibleText": "Successful Customers: - Customers who engaged and were willing to embrace a broader solution looked most likely to succeed. - These customers were often larger, had more complex needs, and were more willing to invest in comprehensive solutions. Unsuccessful Customers: - Customers who did not engage or were unwilling to embrace a broader solution were less likely to succeed. - These customers were often smaller, had simpler needs, and were less willing to invest in comprehensive solutions. Lack of Ownership: - This led to disengagement, resulting in a lack of ownership, resulting in customers not fully utilizing the solutions provided. - This often led to a lack of success in these engagements. Meghan's Recommendations: - Engage customers early and often to ensure they are fully utilizing the solutions provided. - Ensure that customers are willing to embrace a broader solution to increase their chances of success."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "TranscriptionLayer",
+                                "position": "right side, maximized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "text, bullet points, and hyperlinks"
+                                },
+                                "content": [
+                                    {
+                                        "title": "TranscriptionLayer",
+                                        "layoutDescription": "Text document layout",
+                                        "visibleText": "Low Engagement: Customers who failed to engage their community effectively did not see great results. Meghan noted that these customers were often disengaged, passive, and not capitalizing on the solutions provided by the company. What did we mention about planning? Meghan mentioned the following about planning: - Advance Planning allows clients and the team to engage the challenges, the unexpected occurrences, and the day-to-day operations more effectively and with better planning. - The Challenges: She suggested planning in case of 'Unforeseen Events, Natural Disasters, Colleague Illnesses, and other unexpected occurrences.' Utilizing Opportunities: Meghan noted that sometimes additional opportunities, such as special promotions or challenges in a project, could arise unexpectedly. - Effective Communication: Meghan emphasized the importance of clear, effective communication in order to keep all parties informed during the project. - Create an action plan early, to avoid miscommunication and ensure that each step in the process is well thought out."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Google Chat",
+                        "windows": [
+                            {
+                                "title": "Chat",
+                                "position": "center, maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "chat messages, search bar, and user icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat",
+                                        "layoutDescription": "Chat window layout",
+                                        "visibleText": "Nauman Shah - I still have doubts regarding the project's scope and deliverables. Can you clarify? Stephanie - The project scope includes the development and implementation of a new software system. The deliverables include a fully functional software system, user manuals, and training sessions. Nauman Shah - That's a lot to take in at once. Stephanie - Yes, it can seem like a lot, but we've planned everything carefully to ensure a smooth rollout. Nauman Shah - I might need help with the 'Engagement plan on Rollout' and have some challenges to discuss. Stephanie - No problem, we can discuss this further during our next meeting."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in reading and editing a Google Docs document titled 'Meghan Doe - Interview Summary.' The document contains detailed notes on successful and unsuccessful customer engagement strategies. The user is also interacting with a colleague, Nouman Shah, via Google Chat, discussing project strategies and clarifying doubts about the project scope and deliverables. The conversation includes sharing links to relevant documents and discussing specific points about customer engagement and planning.",
+        "The user is also seen using ChatGPT for analyzing transcripts. The ChatGPT interface shows a conversation where the user is asking detailed questions about customer engagement strategies, specifically focusing on unsuccessful customers and planning. The AI provides comprehensive responses, summarizing key points from the transcript, which the user seems to be using to refine their document in Google Docs.",
+        "Additionally, the user has a window open for ADP Ambassador, which appears to be a list of contacts with their roles and associated scores. This suggests that the user might be cross-referencing information from the ADP Ambassador list with the details in the Google Docs document. The user is likely synthesizing information from multiple sources to create a comprehensive summary of customer engagement strategies."
+    ],
+    "aiUseSummary": "The user utilizes ChatGPT for analyzing transcripts and obtaining detailed summaries of customer engagement strategies. The AI provides insights into successful and unsuccessful customer behaviors, which the user incorporates into their Google Docs document. The user asks specific questions about customer engagement and planning, and the AI responds with detailed summaries, helping the user refine their document. This use of AI enhances the user's productivity by providing quick, comprehensive insights that inform their documentation process.",
+    "activities": [
+        "READING_SPEC",
+        "WRITING_SPEC",
+        "RESEARCH",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "OPENAI_CHATGPT"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "WRITING_SPEC",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 193,
+            "mouse": 13,
+            "date": "2024-06-06T13:00:09Z",
+            "windowTitle": " Meaghan [AdvocateHub] - Interview Summary - Google Docs - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/document/d/1G_vfq5h1k8_aiEvpjVNxEXQouopSIYXYvp691jUrxUY/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 31,
+            "date": "2024-06-06T13:01:09Z",
+            "windowTitle": " ChatGPT - TranscriptAnalyzer - Google Chrome\n",
+            "processName": "chatgpt.com",
+            "visitingUrl": "https://chatgpt.com/g/g-CaixQNheW-transcriptanalyzer/c/b7d07929-b221-4e1c-80be-75e7b8976270",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 6,
+            "date": "2024-06-06T13:02:09Z",
+            "windowTitle": " Meaghan [AdvocateHub] - Interview Summary - Google Docs - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/document/d/1G_vfq5h1k8_aiEvpjVNxEXQouopSIYXYvp691jUrxUY/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T13:03:09Z",
+            "windowTitle": " Meaghan [AdvocateHub] - Interview Summary - Google Docs - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/document/d/1G_vfq5h1k8_aiEvpjVNxEXQouopSIYXYvp691jUrxUY/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 119,
+            "mouse": 9,
+            "date": "2024-06-06T13:04:09Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 193,
+            "mouse": 0,
+            "date": "2024-06-06T13:05:09Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T13:06:09Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T13:07:09Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T13:08:09Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 23,
+            "date": "2024-06-06T13:09:09Z",
+            "windowTitle": " ChallengeEngagement - CSM Interview - Google Docs - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/document/d/1e-90D7XG7aorU5v46AhfctytDUbZP9KlFRRL0oGLK7E/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-06T13:00:00Z"
+}

@@ -1,0 +1,200 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "meet.google.com",
+    "mail.google.com",
+    "mixpanel.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-11T15:01:57Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, Outlook, Word, Excel, PowerPoint, OneNote, Teams, Visual Studio Code, File Explorer, and other unidentified applications. System tray includes network, sound, and clock icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Re: @gt.school / @learnwith.ai email domains - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+                "url": "mail.google.com/mail/u/0/#inbox/FMfcgzGqRjZrjNmQJZtHjZkRjZsCnXJb",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Gmail interface with navigation sidebar, search bar, settings, and user account icon"
+                },
+                "content": [
+                  {
+                    "title": "Email Thread",
+                    "layoutDescription": "Email thread layout",
+                    "visibleText": "Re: @gt.school / @learnwith.ai email domains\n\nBogdan Tenea\nKind reminder on this, as I want to move LearnWith.AI org, and I need to understand if I should move the GT School org too. CC @Phil Hewinson @Isaac Squires\n\nNiraj Patel\n@Bogdan Tenea - thanks for helping with this. Can i confirm LearnWith.ai domain is now under Trilogy? Kind regards, Niraj Patel | VP - Artificial Intelligence,\n\nBogdan Tenea\nTo Niraj, Phil, me\nIt's not moved - note that SaaSOps said they don't have bandwidth - I have it on my office hours agenda for today with Samy to discuss.\n\nRegards,\nBogdan Tenea\nSVP of Technical Product Management\nTrilogy / GT School"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Tasks",
+            "windows": [
+              {
+                "title": "Tasks - Active",
+                "position": "right side of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Task application with list of tasks and '+' button for adding new tasks"
+                },
+                "content": [
+                  {
+                    "title": "Task List",
+                    "layoutDescription": "List of tasks",
+                    "visibleText": "Add a task\nSplit out content gen / prompt engineering\nDo we grow marketing team?\nQ2 progress / Q3 plan Budget meeting https://docs.google.com/document/d/1x2c3d4f5g6h7i"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Outlook",
+            "windows": [
+              {
+                "title": "Inbox - isaac.squires@trilogy.com - Outlook",
+                "position": "left side of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Outlook interface with navigation sidebar, email list, and reading pane"
+                },
+                "content": [
+                  {
+                    "title": "Inbox",
+                    "layoutDescription": "Email list layout",
+                    "visibleText": "(Email list too blurry to read)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is primarily engaged in email communication using Gmail. They are involved in a thread discussing the movement of the LearnWith.AI domain under Trilogy. The conversation includes multiple participants, such as Bogdan Tenea and Niraj Patel. The user is also managing tasks using the Google Tasks sidebar, which includes various tasks related to content generation, marketing, and project updates. The tasks are listed with some having links to external documents for further details.",
+    "The user is also seen using Mixpanel, a web-based analytics tool. The specific project and board being viewed are related to user activity tracking and data analysis. This indicates that the user is involved in monitoring and analyzing user interactions and metrics, likely for performance optimization or reporting purposes. The Mixpanel interface shows various data points and metrics that the user is reviewing.",
+    "The user is participating in a Google Meet session, as indicated by the active link to a Google Meet URL. This suggests that the user is engaged in a meeting, possibly discussing the topics mentioned in the email thread or tasks. The meeting could involve team members or stakeholders to discuss project updates, domain migration, or other relevant topics."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in email communication, task management, and data analysis using Gmail, Google Tasks, and Mixpanel. No AI chat interfaces or AI-driven tools are visible in the screenshots, indicating that the user is not leveraging AI for their current tasks.",
+  "activities": [
+    "EMAIL",
+    "CHATTING_WITH_TEAM",
+    "MEETING"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "EMAIL",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-11T15:00:56Z",
+      "windowTitle": "Meet - jmu-ybin-ufc - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/jmu-ybin-ufc?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 32,
+      "date": "2024-06-11T15:01:56Z",
+      "windowTitle": "Re: @gt.school / @learnwith.ai email domains - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwngXKKHSGGcDxxpSTZNBpxGV",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 37,
+      "mouse": 14,
+      "date": "2024-06-11T15:02:56Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAnM2TMLc",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 47,
+      "mouse": 19,
+      "date": "2024-06-11T15:03:56Z",
+      "windowTitle": "SAT Prep MCQ Generators - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/2uwcQ0AAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 5,
+      "mouse": 14,
+      "date": "2024-06-11T15:04:56Z",
+      "windowTitle": "Magic Academy - Magic Academy / Mixpanel - Google Chrome",
+      "processName": "mixpanel.com",
+      "visitingUrl": "mixpanel.com/project/3313988/view/3818788/app/boards/#id=7342745",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T15:05:56Z",
+      "windowTitle": "Magic Academy - Magic Academy / Mixpanel - Google Chrome",
+      "processName": "mixpanel.com",
+      "visitingUrl": "mixpanel.com/project/3313988/view/3818788/app/boards/#id=7342745",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T15:06:56Z",
+      "windowTitle": "Magic Academy - Magic Academy / Mixpanel - Google Chrome",
+      "processName": "mixpanel.com",
+      "visitingUrl": "mixpanel.com/project/3313988/view/3818788/app/boards/#id=7342745",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-11T15:00:00Z"
+}

@@ -1,0 +1,295 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "webstorm64",
+        "chrome"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T12:41:12Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for GitHub, Visual Studio Code, and other unidentified applications. Also includes system clock showing '12:41 PM' and system language 'ENG'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "xo-hiring-monorepo > feat/LAMBDA-76101: Final version",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs for various files like 'deploy-env-on-push.yml', 'package.json', 'index.ts', 'production-deploy-on-master-push.yml', 'shared-auto-release-accepted.yml', and others. Also includes a sidebar with repository structure and a bottom bar showing terminal output."
+                                },
+                                "content": [
+                                    {
+                                        "title": "deploy-env-on-push",
+                                        "layoutDescription": "editor with YAML content",
+                                        "visibleText": "name: Deploy environment\non:\n  workflow_dispatch:\n    inputs:\n      env:\n        description: 'Target environment'\n        required: false\n        default: 'sandbox'\njobs:\n  build:\n    runs-on: ubuntu-latest\n    env:\n      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}\n    steps:\n      - uses: actions/checkout@v3\n      - uses: unfor19/install-aws-cli-action@v1\n      - name: Configure AWS\n        run: |\n          aws configure set aws_access_key_id ${{ secrets.AWS_ACCESS_KEY_ID }}\n          aws configure set aws_secret_access_key ${{ secrets.AWS_SECRET_ACCESS_KEY }}\n          aws configure set default.region us-east-1\n      - name: Install CDK project\n        id: cdk-npm-install\n        run: |\n          npm config set //npm.pkg.github.com/:_authToken ${{ secrets.TRILOGY_PACKAGES_TOKEN }}\n          npm config set @trilogy-group:registry https://npm.pkg.github.com\n          npm ci\n          cd deploy\n          npm ci"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T12:45:11Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for GitHub, Visual Studio Code, and other unidentified applications. Also includes system clock showing '12:44 PM' and system status icons for network and sound.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "xo-hiring-monorepo > feat/LAMBDA-76101-cfka-infra-lib-upgrade > deploy-env-on-push.yml",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs for multiple files, a sidebar with file explorer, and a bottom status bar with git branch information and process status."
+                                },
+                                "content": [
+                                    {
+                                        "title": "deploy-env-on-push editor with YAML content",
+                                        "layoutDescription": "editor with YAML content",
+                                        "visibleText": "name: Deploy\n\non:\n push:\n branches:\n - '**'\n\njobs:\n build:\n name: Prepare CDK parameters\n runs-on: ubuntu-latest\n steps:\n - name: Checkout code\n uses: actions/checkout@v2\n - name: Setup Node\n uses: actions/setup-node@v2\n with:\n node-version: '14'\n - name: Install dependencies\n run: npm install\n - name: Build\n run: npm run build\n - name: Prepare CDK parameters\n run: |\n let projects = '';\n let env = '';\n if (context.eventName == 'workflow_dispatch') {\n projects = '${{github.event.inputs.projects}}';\n env = '${{github.event.inputs.env}}';\n } else {\n # We use output from the previous step to find out modified projects\n const changes = ${{fromJson(steps.changes.outputs)}};\n projects = Object.entries(changes)\n .filter(([key, value]) => (key.endsWithWith('_count') || key.endsWithWith('_files') || key == 'changes'))\n .map(([key, value]) => key)\n .join(' ');\n env = '${{github.ref}}'.replace('/refs/heads/', '');\n }\n return {\n projects: projects,\n action: 'deploy',\n env: env,\n }\n\n - name: Deploy to env\n run: |\n TRILLOGY_PACKAGES_TOKEN: ${{ secrets.TRILLOGY_PACKAGES_TOKEN }}\n build: steps.item 67 - with: script: let projects = ''..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T12:48:17Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Sublime Text (active), Google Chrome, File Explorer, and system tray including network, sound, and date/time indicators",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Sublime Text",
+                        "windows": [
+                            {
+                                "title": "auth_bfq-verification grading-bot indeed-xml-generator interview-bot stats-tracker",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Selection, Find, View, Goto, Tools, Project, Preferences, Help"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Sublime Text - Document Content",
+                                        "layoutDescription": "Text editor with multiple lines of code",
+                                        "visibleText": "1 auth_bfq-verification grading-bot indeed-xml-generator interview-bot stats-tracker"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Google Chat - Vinodh Talapaneni - Chat",
+                                "url": "https://mail.google.com/chat/u/0/#ch",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with options for new chat, settings, and help"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Chat - Chat Content",
+                                        "layoutDescription": "Chat interface with messages and sidebar",
+                                        "visibleText": "Chat\nNew chat\nShortcuts\nHome\nMentions\nStarred\nDirect messages\nVinodh Talapaneni\nDragos Nartea\nDanish Ahmad\nDenys Yefimenko\nDmitrii Shulutkov\nMichael Madume\nSerban Petrescu\nIsabelle Aelbrecht\nEvgeniy Belostytskiy\nBogdan Tenea\nMore\nSpaces\nWS Eng QC Requests\nXO Team Chat\nCrossover - Upwork Sourcing...\nWS Eng AI Adoption\nWS Eng Onboarding\nWS Eng Team\nWS Eng Random\nGeneral\nCode with AI\nWS Eng: Code Review through...\nMore\nVinodh Talapaneni\nI see. Use the following query:\nSELECT Id, Name, Family_ProductCode, Hourly_Rate, C_hours_per_Week, C_Monthly_Rate, C_Yearly_Rate, C_Job_Type, C_Status, C_(SELECT Id, Name, Location_Id, Location_Name, Location_Country, Location_Name_in_Recruiter, Location_Full_Posting_Name, C_FROM Work, Locations, Geographic_Restriction, C_Work, Geographic_Restriction, C_FROM Product2\nWHERE ProductCode='PipelineCode'\nLIMIT 1\nVinodh Talapaneni 17 min\nNoted I will try with this. Thanks you\nVinodh Talapaneni now\nI have updated query but still same issue getting (\"message\":\"Internal error\",\"errorCode\":\"API_INTERNAL\")\nTypeError Cannot read properties of undefined (reading '0')\nat getWorkPlace (var/taskrunner/handlers/pipeline-metadata.js:26: getSQLForAdvancedInputs (var/taskrunner/handlers/pipeline-metadata.js:104 processTasksAndRejections (node/internal/process/task_queues:55)\nat async handlePipelineMetadata (var/taskrunner/handlers/pipeline-metadata.js:44: async RuntimeHandler (var/taskrunner/index.js:32:4)\nYou can wrap the code into try-catch and return the text version of the error back"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in writing and navigating code within the WebStorm IDE. They are working on a project titled 'xo-hiring-monorepo' with a specific focus on the 'feat/LAMBDA-76101: Final version' branch. The user is editing multiple files, including 'deploy-env-on-push.yml', 'package.json', 'index.ts', and others. The visible code in 'deploy-env-on-push.yml' involves setting up a GitHub Actions workflow for deploying environments, configuring AWS, and installing CDK projects. The user is also seen committing changes with a message 'Final version'.",
+        "In another screenshot, the user continues to work on the 'deploy-env-on-push.yml' file, focusing on preparing CDK parameters and deploying to different environments. The code includes steps for checking out code, setting up Node.js, installing dependencies, and building the project. The user is seen using GitHub Actions to automate these tasks, indicating a focus on infrastructure as code (IAC) and continuous integration/continuous deployment (CI/CD) practices.",
+        "The user is also seen using Google Chrome to chat with a team member named Vinodh Talapaneni on Google Chat. The conversation involves debugging a SQL query issue. Vinodh is trying to resolve an 'API_INTERNAL' error and a 'TypeError' related to undefined properties. The user suggests wrapping the code in a try-catch block to handle the error. This indicates the user is collaborating with team members to troubleshoot and resolve issues in real-time.",
+        "The user has Sublime Text open with a project titled 'auth_bfq-verification grading-bot indeed-xml-generator interview-bot stats-tracker'. This suggests the user is working on multiple projects simultaneously, possibly involving backend development, automation, and data processing tasks. The presence of multiple tools and active projects indicates a high level of multitasking and productivity."
+    ],
+    "aiUseSummary": "There is no visible evidence of AI tools being used in the provided screenshots. The user is primarily engaged in writing and navigating code, as well as collaborating with team members via Google Chat. There are no indications of AI chat interfaces or AI-driven code suggestions in the WebStorm IDE or any other tools being used.",
+    "activities": [
+        "WRITING_CODE",
+        "NAVIGATING_CODE",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "IAC",
+        "DB"
+    ],
+    "programmingLanguages": [
+        "TYPESCRIPT",
+        "SQL"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 3,
+            "date": "2024-06-14T12:40:17Z",
+            "windowTitle": "xo-hiring-monorepo ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-14T12:41:17Z",
+            "windowTitle": "xo-hiring-monorepo ? deploy-env-on-push.yml",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T12:42:17Z",
+            "windowTitle": "xo-hiring-monorepo ? deploy-env-on-push.yml",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T12:43:17Z",
+            "windowTitle": "xo-hiring-monorepo ? deploy-env-on-push.yml",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T12:44:17Z",
+            "windowTitle": "xo-hiring-monorepo ? deploy-env-on-push.yml",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T12:45:17Z",
+            "windowTitle": "xo-hiring-monorepo ? deploy-env-on-push.yml",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T12:46:17Z",
+            "windowTitle": "xo-hiring-monorepo ? deploy-env-on-push.yml",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T12:47:17Z",
+            "windowTitle": "xo-hiring-monorepo ? deploy-env-on-push.yml",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 119,
+            "mouse": 13,
+            "date": "2024-06-14T12:48:17Z",
+            "windowTitle": "Google Chat - Vinodh Talapaneni - Chat",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 78,
+            "mouse": 2,
+            "date": "2024-06-14T12:49:17Z",
+            "windowTitle": "Google Chat - Vinodh Talapaneni - Chat",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T12:40:00Z"
+}

@@ -1,0 +1,292 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "docs.google.com",
+    "mail.google.com",
+    "calendar.google.com",
+    "stack-ai.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-04T13:32:20Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "Taskbar for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. System tray includes network, sound, and battery status icons, as well as the date and time display '6/4/2024 4:32 PM'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - ssv-vhkw-gzq - Google Chrome",
+                "url": "meet.google.com/ssv-vhkw-gzq?authu",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Video conference window with multiple participant video feeds, chat, and meeting controls."
+                },
+                "content": [
+                  {
+                    "title": "Video Conference Participants",
+                    "layoutDescription": "Grid layout",
+                    "visibleText": "Anna Spyrou, Rishap Ahuja, David Harpur, Jozsef Czapovics, Neeraj Gupta, Dragos Nuta, 2 others"
+                  },
+                  {
+                    "title": "Meeting Controls",
+                    "layoutDescription": "Bottom of the window",
+                    "visibleText": "Microphone toggle, camera toggle, captions, present now, more options, hang up call, show everyone"
+                  }
+                ]
+              },
+              {
+                "title": "Calendar - Google Chrome",
+                "url": "calendar.google.com/calendar/u/0/r",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Calendar view with multiple events scheduled."
+                },
+                "content": [
+                  {
+                    "title": "Calendar Events",
+                    "layoutDescription": "Week view",
+                    "visibleText": "June 2024, Week 23, New Zealand Time 01:32, Meet with..., Time Insights, More insights, My calendars, Dragos Nuta Trilogy, Birthdays, Dragos Nuta - Aurea, Dragos Nuta - XO, Tasks, Other calendars, Events listed include: 5:00 - Rakshit Bha, 9:00 - Dragos - Rakshit, 10:00 - CNU 1-week Project, 10:00 - Phil / Dragos - What, 10:00 - AI Coach Daily Sync, 9:00 - Jozsef / Dragos Weekly, 10:00 - Product Daily Check, 15:00 - May reg XO Check-in, 15:00 - Pre-acquisition deal, 16:30 - Acquisition & Import Review, 17:30 - Sammy's Crossover, 18:00 - Ignite Tech CPM - Central, 19:00 - Vanishig and Disappearing, 20:00 - Stratify! / DECO, 22:30 - Crossover - Jovejo Discover, 23:00 - Jigsaw rank and ungroup"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T13:35:32Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Jive, AR, ED, AR, Jive, Jive, Notepad++, Adobe Illustrator, ES File Explorer, Settings, Notepad, LibreOffice, Chrome, and more. System tray includes network, sound, and clock (4:35 PM, 6/4/2024).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "DevFactory Mail - Google Chrome",
+                "url": "https://mail.google.com/mail/u/0/#",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs for Gmail, Jive, AR, ED, AR, Jive, Jive, Notepad++, Adobe Illustrator, ES File Explorer, Settings, Notepad, LibreOffice, Chrome. Address bar visible with URL. Navigation buttons, extensions icons, and profile icon visible. Minimize, maximize, close buttons at top right."
+                },
+                "content": [
+                  {
+                    "title": "Gmail",
+                    "layoutDescription": "view with sidebar and main chat area",
+                    "visibleText": "Gmail\nNew chat\nShortcuts\nHome 5\nMentions 3\nStarred\nDirect messages 3\nGFI Review\nAndrei Kharytonenka\nBogdan Tenea\nNoumaan Shah\nJoe Conley\nMarcelo Skaba\nJozsef Czapovics\nFirat Gomi\nSpaces\nCNU Q Business Process\nXO Team Chat\nCentral PMs team\nFeature Line automation\nSamy's VPs Gen ...\nCrossover - Upwork ...\nAI Coach - internal\nXo Candidate Support\nSpec Request Notification\nTPM reboot\nAWS News\nGFI Review\nNoumaan Shah\nNoumaan Shah (via Meet) Yesterday 8:40 PM\nCall ended\nNoumaan Shah Yesterday 9:49 PM\nTook a look at the summary... Re: Maintenance\nThe charts look awesome - but realistically, how many issues were self-inflicted?\nIf we are customer focused, what does the true backlog (Zendesk ticket queue) look like?\nWhat is the average age of defects?\nAre we effectively prioritizing tickets?\nWhat were the number of outages per product across the company? Why were they non-Zero?\nWhat have we done to prevent them from occurring again?\nMessage deleted by its author 20 min\nMessage deleted by its author 20 min\nHistory is on"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T13:38:54Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '4:38 PM' and date '6/4/2024'. Language setting 'ENG' visible. Notification area shows network, sound, and battery status.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Inbox - dragos.nuta@trilogy.com - DevFactory Mail",
+                "url": "https://mail.google.com/mail/u/0/#in",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, and more"
+                },
+                "content": [
+                  {
+                    "title": "Email List",
+                    "layoutDescription": "List of emails displayed in a column",
+                    "visibleText": "- Samy Aboel-Nil FW: 7 Golden Rules for Generative AI Apps: A Playbook from Early Winners - https://menlovc.com/perspective/7-golden-rules-fo 12:22 AM\n- Magic, me 2 Congratulations! Your Child Has Been Accepted to Magic Academy Beta 🎉 - Welcome to the Magic Academy! Your child is accepted, and we're thrilled... - May 29\n- me Fwd: Chat in tpm reboot \"if you want you can use a utility i built to ex...\" - Forwarded chat in room tpm rebootNoumaan ShahBen NewYeah on my bran... - May 7\n- Ethan Mollick from . Innovation through prompting - Democratizing educational technology... and more - Unsubscribe - Apr 5\n- me notes from Samy - 2 TPMs are missing the program management skills (customer management, communication, roadmap, risk management, ownership/a... - Apr 5\n- AI News Confirm your subscription to AI News - Click here to confirm your subscription to AI News! AI News is: We summarize top AI Discords + AI Reddits + AI X/Twitt... - Apr 3\n- Matheus Vinicius de. 2 Re: Invitation: Matheus de Freitas and Dragos Nuta @ Mon May 27, 2024 19:00 - 20:00 (GMT+3) (defreitas.mv@outlook.com) - Hello, Dragos. As we... - 4:11 PM\n- David .. Marcelo 6 Factory status May 2024 (TPM/Eng) - New activity in the following document Factory status May 2024 (TPM/Eng) 2 comments ON TRACK Dragos Nuta ... - 2:35 PM\n- Marcelo Skaba (Goog. Weekly Delivery T... - @marcelo.skaba@devfactory.com, why a... - Marcelo Skaba replied to a comment in the following document Weekly Delivery Tra... - 2:32 PM\n- George Dita Accepted: George / Dragos @ Tue Jun 4, 2024 19:30 - 20:00 (GMT+3) (Dragos Nuta) - George / Dragos George Dita has accepted this invitation. Join ... - 2:32 PM\n- George Dita PM Playbook Draft - feedback and direction - Hi, Please see the latest Playbook Draft. Where I am with this: Wanted to separate the \"What to do\" from \"... - 1:24 PM\n- Firat Gomi (Google . 2 Jive Upgrade - I like this one more - Firat Gomi replied to a comment in the following document Jive Upgrade 1 comment 3 Dragos Nuta - 11:50 PM, Jun 3 (... - 1:20 PM\n- Firat Gomi (Google . Jive Upgrade - Shouldn't reached = customer in segme... - Firat Gomi replied to a comment in the following document Jive Upgrade 1 comment Custom... - 1:09 PM"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a meeting using Google Meet, as evidenced by the screenshot showing a video conference with multiple participants. The meeting appears to be an 'Acquisition & Import Review' based on the visible text. The user is actively participating in the meeting, as indicated by the presence of their video feed and the meeting controls being visible.",
+    "The user is also managing their schedule using Google Calendar. The calendar view shows multiple events scheduled for the day, including meetings and project check-ins. The user is likely organizing their tasks and ensuring they are aware of upcoming commitments. The calendar includes events such as 'Product Daily Check', 'AI Coach Daily Sync', and 'Acquisition & Import Review'.",
+    "The user is engaged in team communication via Gmail's chat feature. A conversation with a team member named Noumaan Shah is visible, discussing maintenance issues and ticket prioritization. The user is actively participating in the chat, asking questions and seeking clarification on various points related to the maintenance summary and defect backlog.",
+    "The user is checking their email inbox, which includes various emails related to work and project updates. Emails from colleagues and notifications about project statuses are visible. The user is likely reviewing these emails to stay updated on project progress and respond to any urgent matters. The emails include topics such as '7 Golden Rules for Generative AI Apps', 'Factory status May 2024', and 'Weekly Delivery'."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in meetings, calendar management, team communication, and email review. No AI chat interfaces or AI-generated content are visible in the screenshots.",
+  "activities": [
+    "MEETING",
+    "EMAIL",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 6,
+      "date": "2024-06-04T13:30:09Z",
+      "windowTitle": "Tivian - AI Vision & Generative AI Features - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1kIZ3JtOndRoxkiFiHa6PTEmjXZHhJylkYriLq59Ox84/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 5,
+      "date": "2024-06-04T13:31:09Z",
+      "windowTitle": "Tivian - AI Vision & Generative AI Features - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1kIZ3JtOndRoxkiFiHa6PTEmjXZHhJylkYriLq59Ox84/edit#heading=h.17o6pwbnir3f",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 81,
+      "mouse": 9,
+      "date": "2024-06-04T13:32:09Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/mpTKfMAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 4,
+      "mouse": 4,
+      "date": "2024-06-04T13:33:09Z",
+      "windowTitle": "DevFactory - Calendar - Week of June 3, 2024 - Google Chrome",
+      "processName": "calendar.google.com",
+      "visitingUrl": "calendar.google.com/calendar/u/0/r/week",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-04T13:34:10Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/pzZb60AAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T13:35:10Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/pzZb60AAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T13:36:09Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/pzZb60AAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 6,
+      "mouse": 0,
+      "date": "2024-06-04T13:37:09Z",
+      "windowTitle": "New Tab - Google Chrome",
+      "processName": "stack-ai.com",
+      "visitingUrl": "stack-ai.com/dashboard",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 14,
+      "mouse": 23,
+      "date": "2024-06-04T13:38:09Z",
+      "windowTitle": "Inbox - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 2,
+      "mouse": 1,
+      "date": "2024-06-04T13:39:09Z",
+      "windowTitle": "Inbox - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-04T13:30:00Z"
+}

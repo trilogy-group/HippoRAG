@@ -1,0 +1,221 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "meet.google.com",
+        "Zoom",
+        "docs.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-11T16:33:41Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Core, Pending, View, and other unidentified applications. Time displayed is 10:33. Date is 11 June 2024.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Zoom Meeting",
+                        "windows": [
+                            {
+                                "title": "Zoom Meeting",
+                                "position": "left side of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Buttons for Unmute, Stop Video, Participants, Chat, Share Screen, Reactions, Apps, Notes, More, Leave. Recording indicator active."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference Participants",
+                                        "layoutDescription": "Grid layout",
+                                        "visibleText": "Tristan Muniz, Isaac Squires, Mark Nygren, Phil Hewinson, Samy Aboel-Nil"
+                                    },
+                                    {
+                                        "title": "Meeting Notes",
+                                        "layoutDescription": "Single large text box",
+                                        "visibleText": "read.ai meeting..."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Calendar",
+                        "windows": [
+                            {
+                                "title": "Calendar",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Buttons for Week view, settings, and add new event. Navigation arrows for changing dates."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Calendar Events",
+                                        "layoutDescription": "Weekly calendar view",
+                                        "visibleText": "Week of June 11, 2024. Events include: Flag Day, Shawn/Phil/Isaac, 08:30"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively participating in a Zoom meeting, as indicated by the screenshot showing a video conference with multiple participants. The meeting is titled 'read.ai meeting,' and the user is engaged in discussions with colleagues, including Tristan Muniz, Isaac Squires, Mark Nygren, Phil Hewinson, and Samy Aboel-Nil. The Zoom interface shows that the meeting is being recorded, and the user has access to various controls such as Unmute, Stop Video, Participants, Chat, Share Screen, Reactions, Apps, Notes, and More.",
+        "In addition to the Zoom meeting, the user has a calendar application open on the right side of the screen. The calendar is in week view, displaying events for the week of June 11, 2024. Notable events include 'Flag Day' and a meeting with 'Shawn/Phil/Isaac' scheduled for 08:30. The calendar interface includes buttons for navigating between dates, adding new events, and accessing settings.",
+        "The user's taskbar at the bottom of the screen shows icons for various applications, including Core, Pending, and View. The time displayed is 10:33, and the date is June 11, 2024. This indicates that the user is managing multiple tasks and applications simultaneously, likely to stay organized and efficient during their workday."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a Zoom meeting and managing their calendar. No interactions with AI tools such as AI_IDE_EXTENSION, ChatGPT, or Shortwave are visible in the screenshots.",
+    "activities": [
+        "MEETING"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T16:30:47Z",
+            "windowTitle": "Meet - wzy-xnzq-gro - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wzy-xnzq-gro?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 8,
+            "date": "2024-06-11T16:31:47Z",
+            "windowTitle": "Connecting?",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 6,
+            "date": "2024-06-11T16:32:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 10,
+            "date": "2024-06-11T16:33:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 5,
+            "mouse": 13,
+            "date": "2024-06-11T16:34:47Z",
+            "windowTitle": "TeachTap Ad Metrics - Google Sheets - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/spreadsheets/d/19uZM6yGbuyzzAhlNcGY6x2ehgPsoVaoEutB70RyGdWA/edit?gid=0#gid=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 28,
+            "date": "2024-06-11T16:35:47Z",
+            "windowTitle": "TeachTap Ad Metrics - Google Sheets - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/spreadsheets/d/19uZM6yGbuyzzAhlNcGY6x2ehgPsoVaoEutB70RyGdWA/edit?gid=0#gid=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 9,
+            "date": "2024-06-11T16:36:47Z",
+            "windowTitle": "TeachTap Ad Metrics - Google Sheets - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/spreadsheets/d/19uZM6yGbuyzzAhlNcGY6x2ehgPsoVaoEutB70RyGdWA/edit?gid=0#gid=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 4,
+            "mouse": 24,
+            "date": "2024-06-11T16:37:47Z",
+            "windowTitle": "TeachTap Ad Metrics - Google Sheets - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/spreadsheets/d/19uZM6yGbuyzzAhlNcGY6x2ehgPsoVaoEutB70RyGdWA/edit?gid=0#gid=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 18,
+            "date": "2024-06-11T16:38:47Z",
+            "windowTitle": "TeachTap Ad Metrics - Google Sheets - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/spreadsheets/d/19uZM6yGbuyzzAhlNcGY6x2ehgPsoVaoEutB70RyGdWA/edit?gid=0#gid=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-11T16:39:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-11T16:30:00Z"
+}

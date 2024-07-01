@@ -1,0 +1,248 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "chrome",
+    "github.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T10:51:10Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for GitHub, Inbox, WebEx, Firefox, Cross, IDE, Terminal, Docker, AWS, AWS EC2, AWS S3, AWS WAF, Analysis, and a clock showing 12:51",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "feat(HIRE-270): Create a Back-end API Endpoint to Update Pipeline Metadata by vinodhzamstars ? Pull Request #457 ? trilogy-group/xo-hiring-monorepo - Google Chrome",
+                "url": "https://github.com/trilogy-group/xo-hiring-monorepo/pull/457",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, GitHub repository navigation, file navigation sidebar, file diff viewer"
+                },
+                "content": [
+                  {
+                    "title": "GitHub Pull Request #457",
+                    "layoutDescription": "Browser tab with multiple sections",
+                    "visibleText": "feat(HIRE-270): Create a Back-end API Endpoint to Update Pipeline Metadata by vinodhzamstars ? Pull Request #457 ? trilogy-group/xo-hiring-monorepo\n\nFiles changed 6\nComments from all commits\nFile filter\nReview changes\n\napi-proxy\napi-proxy/src/resources.ts\n{ getRedirectorConfig } from './http';\nimport { downloadResource, resend, uploadResource } from './resources/s3-operations';\nimport { standardHandlers } from './standardHandlers';\nimport { transformRequest } from './resources/rfa';\nimport { handlePipelineMetadata } from './internal-handlers/pipeline-metadata';\n\nexport const resources = {\n apply: {\n handler: (e) => standardHandlers.servePost(e, process.env.S3_BUCKET arg as string),\n },\n put: {\n handler: (e) => standardHandlers.servePut(e, process.env.S3_BUCKET arg as string),\n },\n post: {\n handler: (e) => standardHandlers.servePost(e, process.env.S3_BUCKET arg as string),\n },\n get: {\n handler: (e) => standardHandlers.serveGet(e, process.env.S3_BUCKET arg as string),\n },\n '/googleJobs/getJobPostingSchema': {\n get: (e) => standardHandlers.serveGet(e, 'googleJobs/getJobPostingSchema'),\n }\n}\n\napi-proxy/src/ssm-config.ts\n\nexport class SSMConfig {\n caseId: string;\n kontentProjectId: string;\n kontentApiKey: string;\n kontentManagementApiKey: string;\n kontentPreviewApiKey: string;\n kontentDeliveryApiKey: string;\n candidateResolverSecretKey: string;\n\n caseId: string;\n kontentProjectId: string;\n kontentApiKey: string;\n kontentManagementApiKey: string;\n kontentPreviewApiKey: string;\n kontentDeliveryApiKey: string;\n candidateResolverSecretKey: string;\n}\n\napi-proxy/deployments/saf/api-config\nconst safApiConfig = {\n caseId: string;\n kontentProjectId: string;\n kontentApiKey: string;\n kontentManagementApiKey: string;\n kontentPreviewApiKey: string;\n kontentDeliveryApiKey: string;\n candidateResolverSecretKey: string;\n}"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T10:55:52Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for GitHub, Work, BAM, Notifications, Category Jobs, WS Edit, My IP, New Tab, alpha, AWS, Pack Info, feat1 to feat1095",
+            "position": "bottom"
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T10:58:26Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for GitHub, Outlook, Work, BAM, Notion, Indeed, Category Jobs, AWS, AWS EC2, My IP, Jira, alpha, AWS S3, AWS EC2, Packt, feat, AWS EC2, AWS EC2, AWS EC2",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+                "url": "https://github.com/trilogy-group/x",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "logs input box, Refresh button, 20min timer, 'Deploy to env' dropdown"
+                },
+                "content": [
+                  {
+                    "title": "build",
+                    "layoutDescription": "in columns",
+                    "visibleText": "Summary\nbuild\nStarted 20m 41s ago\n\nDeploy to env\n\n22:30 xo-hiring-pg95-interview-bot-backend | 6/8 | 10:58:33 AM | CREATE_IN_PROGRESS | AWS::AppSync::DataSource\n22:30 xo-hiring-pg95-interview-bot-backend | 6/8 | 10:58:32 AM | CREATE_COMPLETE | AWS::AppSync::DataSource\n... (repeated lines with timestamps, status updates, and AWS resource actions)\n\nPost Run Actions:/checkout@v3"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in reviewing code on GitHub. The first screenshot shows the user on a pull request page for the repository 'xo-hiring-monorepo', specifically looking at the changes made in the 'api-proxy/src/resources.ts' and 'api-proxy/src/ssm-config.ts' files. The user is examining the code diffs, which include modifications to handler functions and configuration classes. This indicates a thorough review process to ensure the changes meet the required standards and functionality.",
+    "In the second screenshot, the user is monitoring a build process on GitHub Actions. The page displays logs of the build process for the 'xo-hiring-monorepo' repository. The logs show various stages of the build, including 'CREATE_IN_PROGRESS' and 'CREATE_COMPLETE' statuses for AWS resources. The user is likely ensuring that the deployment process is proceeding without errors and that all resources are being created and configured correctly.",
+    "The third screenshot is similar to the second, showing the continuation of the build process logs. The user is still focused on the build and deployment process, ensuring that all steps are completed successfully. This involves checking the status of each resource creation and deployment step, which is crucial for maintaining the integrity and functionality of the application being deployed."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily focused on reviewing code changes and monitoring the build process on GitHub. There are no visible AI chat interfaces or AI-generated suggestions in the screenshots. The user's activities are centered around manual code review and build monitoring tasks.",
+  "activities": [
+    "REVIEWING_CODE"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "IAC"
+  ],
+  "programmingLanguages": [
+    "TYPESCRIPT"
+  ],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "REVIEWING_CODE",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 16,
+      "mouse": 4,
+      "date": "2024-06-14T10:50:17Z",
+      "windowTitle": "Google Chat - Vinodh Talapaneni - Chat",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 73,
+      "mouse": 14,
+      "date": "2024-06-14T10:51:17Z",
+      "windowTitle": "feat(HIRE-270): Create a Back-end API Endpoint to Update Pipeline Metadata by vinodhzamstars ? Pull Request #457 ? trilogy-group/xo-hiring-monorepo - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/pull/457/files",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 25,
+      "date": "2024-06-14T10:52:17Z",
+      "windowTitle": "xo-hiring-monorepo/deploy/src/deployments/sf-api/api-proxy-stack.ts at master ? trilogy-group/xo-hiring-monorepo - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/blob/master/deploy/src/deployments/sf-api/api-proxy-stack.ts",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 122,
+      "mouse": 8,
+      "date": "2024-06-14T10:53:17Z",
+      "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514770164/job/26227606906",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T10:54:17Z",
+      "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514770164/job/26227606906",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T10:55:17Z",
+      "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514770164/job/26227606906",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T10:56:17Z",
+      "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514770164/job/26227606906",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-14T10:57:17Z",
+      "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514770164/job/26227606906",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-14T10:58:17Z",
+      "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514770164/job/26227606906",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T10:59:17Z",
+      "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514770164/job/26227606906",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-14T10:50:00Z"
+}

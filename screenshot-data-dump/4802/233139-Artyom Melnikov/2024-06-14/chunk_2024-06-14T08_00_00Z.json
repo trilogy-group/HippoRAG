@@ -1,0 +1,287 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "webstorm64",
+    "ws-lambda.atlassian.net",
+    "npmjs.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T08:02:04Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Visual Studio Code, File Explorer, and other unidentified applications. Also includes system tray with network, sound, and clock (08:02 AM, 06/14/2024)",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "infra.ts - lambda-cdk-infra - Visual Studio Code",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "UI bar at top, sidebar on left, editor in center, status bar at bottom"
+                },
+                "content": [
+                  {
+                    "title": "File Explorer Sidebar",
+                    "layoutDescription": "Vertical list",
+                    "visibleText": "lambda-cdk-infra\n.github\nnode_modules"
+                  },
+                  {
+                    "title": "Editor",
+                    "layoutDescription": "Text editor with code",
+                    "visibleText": "export class Infra {\n constructor(private readonly config: InfraInitConfig, deployments: ForEachDeployment<InfraInitConfig> = {}) {\n });\n\n // Add tags\n stacks.forEach((it: Stack) => {\n Tags.of(it).add('deploymentName', config.projectName);\n Tags.of(it).add('key: 'deploymentName', `${config.projectName}-${currentEnv}`);\n Tags.of(it).add('Owner', config.owner);\n Tags.of(it).add('key: 'Owner', `${config.owner}-${currentEnv}`);\n });\n\n config.customTags?.forEach((name: string, value: string) => {\n for (const [name: string, value: string] of Object.entries(config.customTags)) {\n Tags.of(it).add(name, value);\n }\n });\n\n });\n\n public static findDeploymentConfiguration(deployment: DeploymentConfig, currentEnv: string): any {\n let configForCurrentEnv: Function | null;\n if (deployment.configs.length === 0) {\n // No configuration, we must not need to inject anything\n Log.debug(`${deployment.name} No configuration defined for the current environment`);\n configForCurrentEnv = null;\n } else {\n // Find all matching configurations\n let matchingConfigs: {name: string | RegExp | undefined} = deployment.configs.filter((it: {name: string | RegExp | undefined}) => {\n if (it.name === undefined) { // If no specificator is set then this configuration applied universally\n return true;\n }\n if (it.name instanceof RegExp) {\n return it.name.test(currentEnv);\n } else {\n return it.name === currentEnv; // Or match strings\n }\n });\n\n // We should not have zero\n if (matchingConfigs.length === 0) {\n throw an Error(`${deployment.name} No matching configuration found for the current environment: '${currentEnv}'`);\n }\n // If we have more than one, remove the default one if present\n }\n }\n"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T08:04:21Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Mailbox, WSJ Blog Leader, Crossover Rank, BAMBDA-780, Work Breakdown, Notes, Indeed, Category Jobs, WSJ Blog Announcer, fastHR-270, My parameters, Release Latest, aws-cdk, and system tray including time display",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "aws-cdk - npm - Google Chrome",
+                "url": "https://www.npmjs.com/package/aws-cdk",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, profile icon, and extension icons"
+                },
+                "content": [
+                  {
+                    "title": "aws-cdk",
+                    "layoutDescription": "page layout with navigation and content sections",
+                    "visibleText": "aws-cdk\n2.16.0 - Public · Published 9 hours ago\nReadme\nCode\n1 Dependency\n253 Dependents\n528 Versions\nAWS CDK Toolkit\nCDK-CONSTRUCTS STABLE\nThe AWS CDK Toolkit provides the cdk command-line interface that can be used to work with AWS CDK applications.\nCommand Description\ncdk docs Access the online documentation\ncdk init Start a new CDK project (app or library)\ncdk list List stacks and their dependencies in an application\ncdk synth Synthesize a CDK app to cloudFormation template(s)\ncdk diff Diff stacks against current state\ncdk deploy Deploy a stack into an AWS account\ncdk import Import existing AWS resources into a CDK stack\ncdk migrate Migrate AWS resources, CloudFormation stacks, and CloudFormation templates to CDK\ncdk watch Watches a CDK app for deployable and hotswappable changes\ncdk destroy Deletes a stack from an AWS account\ncdk bootstrap Deploy a toolkit stack to support deploying large stacks & artifacts\ncdk doctor Inspect the environment and produce information useful for troubleshooting\ncdk acknowledge Acknowledge (and hide) a notice by issue number\ncdk notices List all relevant notices for the application\nInstall\nnpm i aws-cdk\nRepository\ngithub.com/aws/aws-cdk\nHome Downloads\n1,646,771\nVersion\n2.16.0\nLicense\nApache-2.0\nSize\n65.9 MB\nTotal Files\n554\nIssues\n2154\nPull Requests\n121\nLast publish\n9 hours ago\nCollaborators\n-Try on RunKit\n-Report malware"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T08:07:05Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '10:47 AM' and date '6/14/2024'. Network status icon, sound volume icon, and notifications icon are visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "package.json - lambda-cdk-infra - Visual Studio Code",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar at the top with File, Edit, View, Go, Run, Terminal, Help. Sidebar on the left with Explorer, Search, Source Control, Run and Debug, Extensions icons. Bottom bar with blue status line, terminal output visible."
+                },
+                "content": [
+                  {
+                    "title": "File Explorer",
+                    "layoutDescription": "Vertical panel",
+                    "visibleText": "lambda-cdk-infra\n├── .github\n│ ├── node_modules\n│ ├── library root\n│ ├── src\n│ │ ├── shared\n│ │ │ ├── data-seeding\n│ │ │ ├── graphql-utils\n│ │ │ ├── stack-utility\n│ │ │ ├── api-gateway.ts\n│ │ │ ├── hatenats\n│ │ │ ├── frontend-deployment.ts\n│ │ │ ├── graphql.ts\n│ │ │ ├── lambdas.ts\n│ │ │ ├── quicksights.ts\n│ │ │ ├── sums.ts\n│ │ │ ├── aws-configs.ts\n│ │ │ ├── console.ts\n│ │ │ ├── decorators.ts\n│ │ │ ├── infra.ts\n│ │ │ ├── lambda-builders.ts\n│ │ │ ├── observability.ts\n│ │ │ ├── root-stacks.ts\n│ │ │ ├── types.ts\n│ ├── .gitignore\n│ ├── package.json\n│ ├── package-lock.json"
+                  },
+                  {
+                    "title": "package.json Content",
+                    "layout...": [
+                      {
+                        "title": "package.json Content",
+                        "layoutDescription": "Text editor area",
+                        "visibleText": "{\n \"name\": \"@aws-samples/aws-cdk-examples\",\n \"version\": \"0.1.0\",\n \"private\": true,\n \"dependencies\": {\n \"@aws-cdk/core\": \"1.114.0\",\n \"@aws-cdk/aws-s3\": \"1.114.0\",\n \"@aws-cdk/aws-ec2\": \"1.114.0\",\n \"@aws-cdk/aws-sqs\": \"1.114.0\",\n \"@aws-cdk/aws-sns\": \"1.114.0\",\n \"@aws-cdk/aws-lambda\": \"1.114.0\",\n \"@aws-cdk/aws-iam\": \"1.114.0\",\n \"@aws-cdk/aws-rds\": \"1.114.0\",\n \"@aws-cdk/aws-dynamodb\": \"1.114.0\"\n },\n \"devDependencies\": {\n \"@types/node\": \"14.17.32\",\n \"@types/jest\": \"27.0.1\",\n \"typescript\": \"4.4.4\",\n \"aws-cdk-lib\": \"2.146.0\",\n \"constructs\": \"10.0.0\",\n \"@aws-cdk/aws-cognito-identitypool\": \"2.15.0-alpha.0\",\n \"@aws-cdk/aws-glue-alpha\": \"2.15.0-alpha.0\",\n \"amplify-frontend-javascript\": \"4.3.4\"\n }\n}"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively writing code in Visual Studio Code, focusing on a TypeScript file named 'infra.ts' within a project called 'lambda-cdk-infra'. The code involves defining a class 'Infra' with methods for adding tags to stacks and finding deployment configurations based on the current environment. The user is working on infrastructure as code (IaC) using AWS CDK constructs.",
+    "The user is researching the AWS CDK Toolkit on the npmjs.com website. They are viewing the package details, including commands like 'cdk init', 'cdk synth', and 'cdk deploy', which are essential for managing AWS CDK applications. This indicates the user is looking for information or updates related to AWS CDK for their project.",
+    "The user is editing the 'package.json' file in Visual Studio Code, which is part of the 'lambda-cdk-infra' project. The file includes dependencies and devDependencies for various AWS CDK modules and other libraries like 'typescript' and 'amplify-frontend-javascript'. The user is likely managing project dependencies and ensuring the correct versions are specified for their project."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in writing and researching code without any visible interaction with AI chat interfaces or AI-driven code suggestions.",
+  "activities": [
+    "WRITING_CODE",
+    "RESEARCH"
+  ],
+  "workTypes": [
+    "IAC",
+    "BACKEND"
+  ],
+  "programmingLanguages": [
+    "TYPESCRIPT"
+  ],
+  "toolTypes": [
+    "IDE",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-14T08:00:16Z",
+      "windowTitle": "lambda-cdk-infra ? infra.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T08:01:16Z",
+      "windowTitle": "lambda-cdk-infra ? infra.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-14T08:02:16Z",
+      "windowTitle": "lambda-cdk-infra ? infra.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 13,
+      "mouse": 24,
+      "date": "2024-06-14T08:03:16Z",
+      "windowTitle": "[LAMBDA-76101] Upgrade cdk infra lib - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-76101",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 9,
+      "mouse": 25,
+      "date": "2024-06-14T08:04:17Z",
+      "windowTitle": "aws-cdk - npm - Google Chrome",
+      "processName": "npmjs.com",
+      "visitingUrl": "npmjs.com/package/aws-cdk",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 30,
+      "mouse": 26,
+      "date": "2024-06-14T08:05:17Z",
+      "windowTitle": "constructs - npm - Google Chrome",
+      "processName": "npmjs.com",
+      "visitingUrl": "npmjs.com/package/constructs",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 12,
+      "mouse": 14,
+      "date": "2024-06-14T08:06:17Z",
+      "windowTitle": "lambda-cdk-infra ? package.json",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 26,
+      "mouse": 20,
+      "date": "2024-06-14T08:07:17Z",
+      "windowTitle": "lambda-cdk-infra ? package.json",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 23,
+      "mouse": 17,
+      "date": "2024-06-14T08:08:17Z",
+      "windowTitle": "amplify-frontend-javascript - npm - Google Chrome",
+      "processName": "npmjs.com",
+      "visitingUrl": "npmjs.com/package/amplify-frontend-javascript",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 27,
+      "mouse": 17,
+      "date": "2024-06-14T08:09:16Z",
+      "windowTitle": "ts-deepmerge - npm - Google Chrome",
+      "processName": "npmjs.com",
+      "visitingUrl": "npmjs.com/package/ts-deepmerge/v/7.0.0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-14T08:00:00Z"
+}

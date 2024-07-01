@@ -1,0 +1,272 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "github.com",
+    "mail.google.com",
+    "chrome",
+    "idea64"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T13:02:39Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, widgets, chat, Microsoft Edge, File Explorer, Microsoft Store, and system tray with network, sound, and battery status icons, time display showing 15:02, date display showing 06/14/2024, and language indicator displaying ENG",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "GitHub Actions - hiring-monorepo/actions/runs/561921610/job/623205",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, GitHub repository navigation tabs, and vertical scrollbar"
+                },
+                "content": [
+                  {
+                    "title": "GitHub Actions Log",
+                    "layoutDescription": "Text-heavy layout",
+                    "visibleText": "216 packages are looking for funding\nrun `npm fund` for details.\n\n0 vulnerabilities (1 low, 2 moderate)\n\nTo address all issues, run:\nnpm audit fix\n\nRun `npm audit` for details.\n\n[12:37] [DEBUG] [Done] (took 8.700452s)\n[12:37] [DEBUG] [Done] (took 7.900390s)\n[12:37] [DEBUG] Building the project\n\n> grading-bot-lambda@0.0.0 build\n> ts-node build.ts\n\nBuild successful\n[12:37] [INFO] [Done] (took 9.541292s)\n\n[12:37] [DEBUG] Building the project\n\n> grading-bot-lambda@0.0.0 test\n> jest --silent\n\n(node:2017) [MDEP001] Note: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.\nPlease migrate your code to use AWS SDK for JavaScript (v3).\nFor more information, check the migration guide at https://aws.amazon.com/blogs/developer/aws-sdk-fo tests/handlers/userHandling/userHandler.test.ts\n tests/tasks/parseSubmissions/parseSubmissions.tes tests/tasks/parseSubmissions/parseSubmissions.tes [MDEP001] Note: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.\nPlease migrate your code to use AWS SDK for JavaScript (v3).\nFor more information, check the migration guide at https://aws.amazon.com/blogs/developer/aws-sdk-fo tests/handlers/userHandling/userHandler.test.ts\n tests/tasks/parseSubmissions/parseSubmissions.tes tests/tasks/parseSubmissions/parseSubmissions.tes"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T13:03:37Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, widgets, and several pinned applications. System tray includes network, sound, battery, and clock indicators.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@852f61b - Google Chrome",
+                "url": "https://github.com/trilogy-group/xo-hiring-monorepo",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, GitHub repository navigation tabs, and a vertical scrollbar."
+                },
+                "content": [
+                  {
+                    "title": "GitHub Actions Log",
+                    "layoutDescription": "Text-heavy layout with code and command outputs.",
+                    "visibleText": "216 packages are looking for funding\n run `npm fund` for details.\n\n0 vulnerabilities (1 low, 2 moderate)\n\nTo address all issues, run:\n npm audit fix\n\nRun `npm audit` for details.\n\n12:37 [DEBUG] Done! (took 8.7004527s)\n12:37 [DEBUG] Generating the product output\n12:37 [DEBUG] Done! (took 7.300s)\n12:37 [DEBUG] Building the project\n\n> grading-bot-lambda@0.0.0 build\n> ts-node build.ts\n\nBuild successful\n12:37 [DEBUG] Done! (took 9.5412102s)\n\n> grading-bot-lambda@0.0.0 test\n> jest --silent\n\n(node:2017) Note: We are formalizing our plans to enter ASK for JavaScript (Q1). Please migrate your code to use ASK for JavaScript (Q1). For more information, check the migration guide at www.askjs.com/migration\nPASS test/handlers/askQuestionHandler.test.ts\nPASS test/tasks/parseSubmission.test.ts\nPASS test/tasks/resolveResponses.test.ts"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T13:08:09Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, File Explorer, and other unidentified applications. Displays the time as 9:05 AM and date as June 14, 2024. Language set to ENG. Network, sound, and battery status icons are visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Inbox - artyom.melnikov@trilogy.com - DevFactory Mail",
+                "url": "mail.google.com/mail/u/0/#inbox",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Search bar, settings, Google apps, notifications, profile icon, and other navigation buttons are visible at the top. Left sidebar contains labels such as Inbox, Starred, Snoozed, Sent, Drafts, and more. The main content area shows a list of emails with checkboxes, star icons, sender names, email subjects, and snippets. Pagination controls are at the bottom."
+                },
+                "content": [
+                  {
+                    "title": "Email List",
+                    "layoutDescription": "List of emails displayed in a tabular format",
+                    "visibleText": "- WLS Lambda Automation... [LIRJA] [LAMBDA-7610] Upgrade info lib refs - WLS Lambda Automation made 1 update. WLS LambdaLAMBDA-7610 Upgrade cck infra lib\n- Dragos Nuta (Google... Week 11 Detailed /... - Dragos Nuta added a comment to the following document Week 11 Detailed / LAMBDA-7606.1 comment BF@Tsetalkers 10 Dragos Nuta - 10:05 PM, Jun 13 (CEST) Now I would increase this a bit... Open\n- WS, Denys, Dmitrii &... [LIRJA] [LAMBDA-7584] Sign-up without applying for a specific job - WLS Lambda Automation made 1 update. WLS LambdaLAMBDA-7584 Sign-up without applying for a specific job\n- Kontent.ai Failing delivery to webhook 'Update Pipeline Metadata' for 1 hour - Hi Artem, There have been problems delivering a notification to the webhook Update Pipeline Metadata configured in the Production environment of your project Crossover Hire DEV. The delivery of the\n- Salesforce Demo Day on June 13, 2024 | Read Meeting Report - Artem Melnikov led a meeting discussing the implementation of special pipelines for job roles and candidates, as well as the challenges of displaying pipeline titles on role pages and prioritizing real\n- Jira, Dragos, Dmitrii 2 Notes - XO Check-in - @artyom.melnikov@trilogy.com, is thi... - Dragos Nuta (dragos.nuta@trilogy.com) mentioned you in a comment in the following document Notes - XO Check-in 1 comment Category Jobs Dragos Nuta - 12:23 PM, Jun 13 (CEST) @artyom.melnikov@trilogy.com\n- Crossover - Verify Here's your verification code - Your digi-verification code is 02307T\n- Dragos, Dmitrii 2 [LIRJA] [LAMBDA-7635] The campaignCookie is not set on genre pages (reiteration) - Dmitrii Shutkenov made 2 updates. WLS LambdaLAMBDA-7635 The campaignCookie is not set on genre pages (reiteration)\n- Artem, ScriptRunner for a... [LIRJA] [LAMBDA-7591] Plan and Design Stories - Week 24 - Artem - ScriptRunner for Jira mentioned you on an issue WLS LambdaLAMBDA-7591 Plan and Design Stories - Week 24 - Artem\n- Dragos Nuta Updated invitation: XO Check-in @ Wed Jun 19, 2024 10:30 - TIGO (MT-2) (Artem Melnikov) - XO Check-in with John Google Meet - Wed&#39;ll use this time to go through any blockers or questions you might have for tasks in the current sprint This event has been updated Changed: time ...\n- Dragos Nuta Updated invitation: XO Check-in @ Tue Jun 18, 2024 10:30 - TIGO (MT-2) (Artem Melnikov) - XO Check-in with John Google Meet - Wed&#39;ll use this time to go through any blockers or questions you might have for tasks in the current sprint This event has been updated Changed: time ...\n- Dragos Nuta Updated invitation: XO Check-in @ Mon Jun 17, 2024 10:30 - TIGO (MT-2) (Artem Melnikov) - XO Check-in with John Google Meet - Wed&#39;ll use this time to go through any blockers or questions you might have for tasks in the current sprint This event has been updated Changed: time ...\n- XO-HIRING-ADMIN Production environment is live! - Dear team, The change has been deployed to 'production' by lambd..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in reviewing code on GitHub. They are examining the logs of a GitHub Actions run for the repository 'xo-hiring-monorepo'. The logs show various stages of the build process, including dependency installation, project building, and running tests. The user is likely ensuring that the build and tests have completed successfully without any issues.",
+    "The user is also checking their email on Gmail. The inbox contains several emails related to work, including updates on JIRA tasks, comments on documents, and meeting invitations. The user is likely keeping track of project updates and communications with team members through these emails."
+  ],
+  "aiUseSummary": "",
+  "activities": [
+    "REVIEWING_CODE",
+    "EMAIL"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "TESTS"
+  ],
+  "programmingLanguages": [
+    "TYPESCRIPT"
+  ],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "REVIEWING_CODE",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T13:00:17Z",
+      "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@852f61b - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9516221108/job/26232052618",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-14T13:01:17Z",
+      "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@852f61b - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9516221108/job/26232052618",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-14T13:02:17Z",
+      "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@852f61b - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9516221108/job/26232052618",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 4,
+      "date": "2024-06-14T13:03:17Z",
+      "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@852f61b - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9516221108/job/26232052618",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-14T13:04:17Z",
+      "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@852f61b - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9516221108/job/26232052618",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-14T13:05:17Z",
+      "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@852f61b - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9516221108/job/26232052618",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-14T13:06:17Z",
+      "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@852f61b - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9516221108/job/26232052618",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 4,
+      "date": "2024-06-14T13:07:17Z",
+      "windowTitle": "Inbox - artyom.melnikov@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T13:08:17Z",
+      "windowTitle": "Inbox - artyom.melnikov@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-14T13:09:17Z",
+      "windowTitle": "sfdx ? MiningRank__c.field",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-14T13:00:00Z"
+}

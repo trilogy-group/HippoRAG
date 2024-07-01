@@ -1,0 +1,248 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "LockApp"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T11:30:53Z",
+      "desktop": {
+        "uiElements": [],
+        "applications": [
+          {
+            "appName": "Default Lock Screen",
+            "windows": [
+              {
+                "title": "Lock Screen",
+                "position": "Full Screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "visible UI elements"
+                },
+                "content": [
+                  {
+                    "title": "Lock Screen",
+                    "layoutDescription": "Full screen",
+                    "visibleText": "The screen is completely black, indicating either a turned off monitor or a system issue where no content is being displayed."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T11:35:29Z",
+      "desktop": {
+        "uiElements": [],
+        "applications": [
+          {
+            "appName": "Default Lock Screen",
+            "windows": [
+              {
+                "title": "Lock Screen",
+                "position": "Full Screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "No visible UI elements"
+                },
+                "content": [
+                  {
+                    "title": "Lock Screen",
+                    "layoutDescription": "Full screen",
+                    "visibleText": "The screen is completely black with no visible text or elements."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T11:38:19Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "taskbar visible at the bottom of the screen",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Google Chrome",
+                "position": "bottom right",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Popup window with user profile picture, application name, and website URL"
+                },
+                "content": [
+                  {
+                    "title": "Google Chrome",
+                    "layoutDescription": "Popup window",
+                    "visibleText": "Google Chrome\nPrivate\nmail.google.com"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "During the period from 2024-06-05T11:30:00Z to 2024-06-05T11:40:00Z, the user was primarily inactive. The first screenshot captured at 2024-06-05T11:30:53Z shows a completely black screen, indicating either a turned-off monitor or a system issue where no content is being displayed. This suggests that the user was not actively engaged in any tasks at this time.",
+    "The second screenshot captured at 2024-06-05T11:35:29Z also shows a completely black screen with no visible text or elements. This further supports the conclusion that the user was not actively working on any tasks during this period. The lack of visible UI elements or applications indicates that the system was either locked or in a state of inactivity.",
+    "The third screenshot captured at 2024-06-05T11:38:19Z shows a taskbar visible at the bottom of the screen, with a popup window from Google Chrome in the bottom right corner. The popup window displays the user's profile picture, the application name 'Google Chrome,' and the website URL 'mail.google.com.' This indicates that the user received a notification from their email, but there is no evidence of active engagement with the email or any other tasks."
+  ],
+  "aiUseSummary": "There is no evidence of AI tool usage in the provided screenshots. The user was primarily inactive, with the system either locked or displaying a black screen. The only visible activity was a notification from Google Chrome, which does not indicate any interaction with AI tools.",
+  "activities": [],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "",
+  "doubts": [],
+  "confidenceScore": 0,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T11:30:53Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T11:31:53Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T11:32:53Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T11:33:53Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T11:34:53Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T11:35:53Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T11:36:53Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T11:37:53Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T11:38:53Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T11:39:53Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-05T11:30:00Z"
+}

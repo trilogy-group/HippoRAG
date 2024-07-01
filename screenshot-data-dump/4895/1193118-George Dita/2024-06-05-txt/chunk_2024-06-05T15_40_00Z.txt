@@ -1,0 +1,403 @@
+{
+    "candidateId": 2368956,
+    "apps": [
+        "meet.google.com",
+        "Google Chat"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T15:40:26Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Google Chrome, Microsoft Excel, Microsoft Word, and other unidentified applications. Also includes system clock showing '7:40 PM' and system status icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - stp-shmc-fbc - Camera and microphone recording",
+                                "url": "https://meet.google.com/stp-shmc-fbc",
+                                "position": "center",
+                                "isActive": true,
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "Rafael",
+                                            "expression": "smiling"
+                                        },
+                                        {
+                                            "name": "Carlos",
+                                            "expression": "pointing and speaking"
+                                        },
+                                        {
+                                            "name": "Unidentified person",
+                                            "expression": "neutral"
+                                        }
+                                    ]
+                                },
+                                "uiElements": {
+                                    "details": "Video conference controls including microphone, camera, and chat icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Call",
+                                        "layoutDescription": "Three video feeds displayed",
+                                        "visibleText": "Rafael smiling, Carlos pointing and speaking, Unidentified person neutral"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Messenger - Chat",
+                                "url": "https://www.messenger.com",
+                                "position": "left",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Chat interface with contact list and message area"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat",
+                                        "layoutDescription": "Chat window with messages",
+                                        "visibleText": "Catherine: I think we need to realign our expectations with what is actually achievable with the current resources. I would propose that the development team start laying the foundation, but I want to hear your thoughts on this. I'm concerned that we might be setting ourselves up for failure if we rush into development without a proper plan. What do you think?"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Weekly Progress Report - T9M4G",
+                                "url": "https://docs.google.com/spreadsheets",
+                                "position": "right",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Spreadsheet interface with multiple tabs and cells"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Weekly Progress Report",
+                                        "layoutDescription": "Spreadsheet with multiple columns and rows",
+                                        "visibleText": "Weekly Progress Report - T9M4G\n\n- Project Overview\n- Team Members\n- Completed Tasks\n- Pending Tasks\n- Issues\n- Next Steps\n\nDetails of tasks and team members are listed in the spreadsheet."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T15:45:38Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Settings, and hidden icons tray. Also shows the time '3:45 PM' and date '6/5/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - stp-shmc-fbc - Camera and microphone recording",
+                                "url": "https://meet.google.com/stp-shmc-fbc",
+                                "position": "right",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Video conference controls including microphone, camera, captions, present now, more options, and hang up."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference Participants",
+                                        "layoutDescription": "Three visible participants",
+                                        "visibleText": "Participant names: Robert, Daniel, and an unknown participant represented by a blue circle with the letter 'R'. Robert and Daniel are smiling and appear to be in home office settings. Robert is raising his hands in a celebratory gesture."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Inbox - intuitiveTPM@engineering",
+                                "url": "https://mail.google.com/mail/u/0/#inbox",
+                                "position": "left",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Email list and reading pane"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email Thread",
+                                        "layoutDescription": "Email thread with multiple messages",
+                                        "visibleText": "Subject: Weekly Progress Report - TPMv4\nFrom: George Wilson to intuitiveTPM@engineering\nDate: June 5, 2024\n\nGeorge Wilson wrote:\n\nHi team,\n\nAs we discussed in our last meeting, the deployment will commence next week. Please ensure all your tasks are completed on time.\n\nBest,\nGeorge Wilson\n\nReplies include various team members discussing task statuses and next steps."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Asana - Tasks for Customer Onboarding",
+                                "url": "https://app.asana.com/0/119988",
+                                "position": "left",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Task list and details pane"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Asana Task List",
+                                        "layoutDescription": "Task list with details pane",
+                                        "visibleText": "Project: Customer Onboarding\nTasks include:\n- Schedule initial meeting\n- Prepare onboarding materials\n- Assign team roles\n- Review client requirements\n- Set project timeline\n- Conduct initial client meeting\n- Follow up on meeting\n- Update project tracker\n- Finalize project details"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T15:48:54Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Siri, Google Chrome, Microsoft Excel, Microsoft Word, Microsoft PowerPoint, Microsoft Outlook, Adobe Acrobat, Slack, Zoom, Terminal, System Preferences, Trash",
+                        "position": "bottom"
+                    },
+                    {
+                        "elementType": "dock",
+                        "details": "video call window titled 'Meet - stp-shmc-fbc - Camera and microphone recording - Google Chrome'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - stp-shmc-fbc - Camera and microphone recording - Google Chrome",
+                                "position": "bottom center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "conference window with participant thumbnails and main video area"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference Participants",
+                                        "layoutDescription": "Grid layout",
+                                        "visibleText": "Participant names: 1. [Name not visible] 2. [Name not visible] 3. [Name not visible]"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Asana - Design Tasks for Q3 Launch - Google Chrome",
+                                "position": "top left",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Project management interface with task lists and navigation pane"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Project Management",
+                                        "layoutDescription": "List and panel layout",
+                                        "visibleText": "Project: Design Tasks for Q3 Launch Tasks include: - UI/UX updates - Marketing material preparation - Backend system enhancements"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Slack - intuitiveTP/Engineering - Google Chrome",
+                                "position": "left center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Chat interface with chat threads and sidebar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat",
+                                        "layoutDescription": "List layout",
+                                        "visibleText": "Channel: intuitiveTP/Engineering Messages: - George: Need to finalize the API specs. - Emily: I've aligned with marketing, they're on board. - John: Can we push the deployment to next week?"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Weekly Progress Report - T9-4 - Google Chrome",
+                                "position": "right",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Document editing interface with text and formatting tools"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Document",
+                                        "layoutDescription": "List layout",
+                                        "visibleText": "Weekly Progress Report - T9-4 Content includes: - Section on current project statuses - Updates on client interactions - Financial overview for the past week"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Google Meet video conference, as evidenced by the screenshots showing the Google Meet interface with multiple participants. The meeting appears to be active throughout the captured timeframe, with participants discussing various topics. The user is also seen interacting with Google Chat, where they are engaged in a conversation with a team member named Nouman. The chat involves discussions about feature changes and their impacts, indicating a collaborative effort to align on project details.",
+        "In addition to the video conference and chat, the user is also working on a Google Sheets document titled 'Weekly Progress Report - T9M4G'. The document contains detailed information about project progress, including sections on project overview, team members, completed tasks, pending tasks, issues, and next steps. This suggests that the user is involved in project management activities, ensuring that all aspects of the project are tracked and documented.",
+        "The user is also seen working on another Google Sheets document titled 'Details for Customer Onboarding'. This document likely contains information related to onboarding new customers, including tasks, timelines, and responsibilities. The presence of multiple tabs and detailed content indicates that the user is meticulously managing customer onboarding processes, ensuring that all necessary steps are followed and documented.",
+        "Throughout the captured timeframe, the user is actively engaged in both synchronous (video conference) and asynchronous (chat and document editing) communication and collaboration. This indicates a well-rounded approach to project management, where the user is balancing real-time discussions with team members and detailed documentation of project progress and customer onboarding tasks."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in video conferencing, chatting with team members, and working on Google Sheets documents. No AI chat interfaces or AI-driven tools are visible in the screenshots, indicating that the user is not utilizing AI for their tasks during this timeframe.",
+    "activities": [
+        "MEETING",
+        "CHATTING_WITH_TEAM",
+        "READING_SPEC",
+        "WRITING_SPEC"
+    ],
+    "workTypes": [
+        "UI",
+        "DB"
+    ],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-05T15:40:34Z",
+            "windowTitle": " Meet - stp-shmc-fbc - Camera and microphone recording - Google Chrome\n",
+            "processName": "meet.google.com",
+            "visitingUrl": "https://meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-05T15:41:34Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-05T15:42:34Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 3,
+            "date": "2024-06-05T15:43:34Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T15:44:34Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 11,
+            "date": "2024-06-05T15:45:34Z",
+            "windowTitle": " Meet - stp-shmc-fbc - Camera and microphone recording - Google Chrome\n",
+            "processName": "meet.google.com",
+            "visitingUrl": "https://meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T15:46:34Z",
+            "windowTitle": " Meet - stp-shmc-fbc - Camera and microphone recording - Google Chrome\n",
+            "processName": "meet.google.com",
+            "visitingUrl": "https://meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T15:47:34Z",
+            "windowTitle": " Meet - stp-shmc-fbc - Camera and microphone recording - Google Chrome\n",
+            "processName": "meet.google.com",
+            "visitingUrl": "https://meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 3,
+            "mouse": 36,
+            "date": "2024-06-05T15:48:34Z",
+            "windowTitle": " Meet - stp-shmc-fbc - Camera and microphone recording - Google Chrome\n",
+            "processName": "meet.google.com",
+            "visitingUrl": "https://meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T15:49:34Z",
+            "windowTitle": " Meet - stp-shmc-fbc - Camera and microphone recording - Google Chrome\n",
+            "processName": "meet.google.com",
+            "visitingUrl": "https://meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-05T15:40:00Z"
+}

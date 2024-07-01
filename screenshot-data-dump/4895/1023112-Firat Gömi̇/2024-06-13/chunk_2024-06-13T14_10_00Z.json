@@ -1,0 +1,336 @@
+{
+  "candidateId": 2027577,
+  "apps": [
+    "mail.google.com",
+    "meet.google.com",
+    "docs.google.com",
+    "chrome:"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-13T14:12:43Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Siri, Safari, Mail, Maps, Photos, Messages, FaceTime, Calendar, Contacts, Reminders, Notes, TV, Music, Podcasts, News, System Preferences, Adobe Creative Cloud, Microsoft Word, Excel, PowerPoint, Outlook, OneNote, OneDrive, Teams, Visual Studio Code, Terminal, Settings, Trash. Also includes a dock with minimized windows and system status indicators for Wi-Fi, battery, clock, and Spotlight search.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Meet - inc-wddq-kqq - Camera and microphone recording",
+                "url": "https://meet.google.com/inc-wddq-kqq",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Video conference window with participant thumbnails, controls for camera, microphone, and settings"
+                },
+                "content": [
+                  {
+                    "title": "Video Conference Participants",
+                    "layoutDescription": "Three participant thumbnails",
+                    "visibleText": "Ben New\nFirat's AI Notetaker\nread.ai meeting notes"
+                  },
+                  {
+                    "title": "Chat Window",
+                    "layoutDescription": "Visible on the right side",
+                    "visibleText": "5:12 PM - Jive | TPM customer-focused catch-up\n\n* Firat: Good\n* Ben: Read meeting notes. Need very..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "WorkSmart",
+            "windows": [
+              {
+                "title": "Team Chat",
+                "position": "right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Interface with contact list and message threads"
+                },
+                "content": [
+                  {
+                    "title": "Team Chat",
+                    "layoutDescription": "List of contacts and messages",
+                    "visibleText": "Melissa\nMentioned Calls\nContact Requests\nDrafts and Sent\nMore\n\nMessages\n* Starred\n* Firat: Good\n* Recent\n* Ben: Jive | TPM customer-focused catch-up\n* Jive | TPM strategy daily sit demo\n* Jive | TPM standards\n* Firat | FIMA\n* Jive - customer focus"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-13T14:13:37Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Safari, Mail, Calendar, Photos, Messages, FaceTime, Maps, News, iTunes, App Store, System Preferences, and others. Docked at the bottom of the screen with a slight transparency.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "HEMA SHARMA messaged you - Chat - Pinned - High memory usage - 1.5 GB - Google Chrome - Firat (trilogy.com)",
+                "url": "https://mail.google.com/mail",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and various extension icons including Google Account, Google Apps, and notifications bell."
+                },
+                "content": [
+                  {
+                    "title": "Gmail",
+                    "layoutDescription": "client interface with left sidebar, main content area, and right sidebar.",
+                    "visibleText": "Gmail\nMail\nCompose\nPrimary labels\nCreate new label\nMeet\nNew meeting\nJoin a meeting\nHangouts\nConversations\nPhone calls\nMore\nSpaces\nHome\nMentions\nStarred\nSet - TPM customer-focused catch-up - Now\nHEMA SHARMA\nTheophil, Jesse\nLubnaabid\nBenhart Birdie\nBen\nRegina Nauta\nDroogies\nAfrikaans\nSpaces\nTeam reboot\nTS/OSCA SF Help\nCentral Palo team\nJive - with-support\nJive - BU 7.4\nJive - Early Adoption\nAll\nBrowse spaces\nBen New\nJive - TPM customer-focused catch-up - Now\nJoin meeting\nHey Ben, Just a question, is this how to find the admin tab? I can't see the system role, I just searched for admin, but I'm not sure if it will work all the time :D\nBtw, this is the way to find the admin, right?\nI'm writing these to you but you can answer them whenever you can, hope you feel better soon :)\nYesterday\nThere is the usage report for 25-05 - 07/06\ndo we have Carol looking at other domains for information as a task in the next quarter? it has been requested by a few clients so far\nI'm in a meeting until 15PM X\nHistory is on"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "WorkSmart",
+            "windows": [
+              {
+                "title": "WorkSmart Team Chat",
+                "url": "https://worksmart.com/team_chat",
+                "position": "top right corner, partially visible",
+                "isActive": false,
+                "uiElements": {
+                  "details": "search bar, navigation tabs, and message input area."
+                },
+                "content": [
+                  {
+                    "title": "WorkSmart Team Chat",
+                    "layoutDescription": "Chat interface with left sidebar and main chat area.",
+                    "visibleText": "Team Chat\nMentions\nMissed Calls\nContact Requests\nDrafts and Sent\nMore\nMessages\nStarred\nFront Room (Prod)\nRecents\nJive - TPM customer-focused catch-up\nJive - TPM taking daily 4pm demo\nJive - TPM thursday\nFirat / HEMA\nJune - VP\nType message\nSend\nMessage Jive - TPM taking daily 4pm demo"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-13T14:19:52Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Siri, Safari, Mail, Maps, Photos, Messages, FaceTime, Calendar, Contacts, Reminders, Notes, TV, Music, Podcasts, News, Stocks, Voice Memos, Books, App Store, System Preferences, Terminal, and Trash. Also includes a Spotlight search icon and Notification Center icon.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "New Tab",
+                "url": "chrome://newtab/",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Address bar, bookmarks bar, Google search bar, shortcuts to websites, and Google apps menu"
+                },
+                "content": [
+                  {
+                    "title": "Google",
+                    "layoutDescription": "Standard layout",
+                    "visibleText": "Google\nSearch Google or type a URL\nJive Thrive ChartIQ MarketingAI Ticket\nSpeedtest.net Operations Calendly QuickSight\nAdd shortcut\nFrom Your Google Drive\nJive Upgrade\nJive created today\nJive Copilot Usage Q4 06.2024\nPivotal Feature Strategy - IgniteJiveCS Copilot - Repline Copilot\nYou viewed today"
+                  }
+                ]
+              },
+              {
+                "title": "WorkSmart",
+                "position": "bottom right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Chat application interface"
+                },
+                "content": [
+                  {
+                    "title": "Team Chat",
+                    "layoutDescription": "List and chat view",
+                    "visibleText": "Team Chat\nMentions\nMissed Calls\nContact Requests\nDrafts and Sent\nMore\nMessages\nStarred\nFront Room (Prod)\nRecents\nJive - TTM customer-focused clari...\nJive - TTM high daily alert demo\nJive - TTM US\nJive - customer focus\nJive - TTM\nFrom: FRM\nRead meeting notes - March 30, 2024\nFrom: Dana, and Frida added read meeting notes to the\nRead synopsis & generated meeting summary\nPivotal Feature Strategy - IgniteJiveCS Copilot - Repline Copilot\nToday's task: to discuss, finalize, or 'put to rest' decide meeting\nCF"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Google Meet video conference, as evidenced by the active window showing a meeting with three participants. The meeting appears to be focused on a 'TPM customer-focused catch-up,' with visible text indicating discussions about meeting notes and summaries. The user is also interacting with a chat window within the Google Meet interface, suggesting active participation in the meeting.",
+    "The user is also using Gmail, as shown by the active window displaying a chat conversation. The conversation is related to the same 'TPM customer-focused catch-up' meeting, with discussions about finding an admin tab and usage reports. This indicates that the user is multitasking, handling both the meeting and related email communications simultaneously.",
+    "The user has a Google Docs document open, which is likely related to the meeting or other work tasks. The document's URL suggests it is being edited or reviewed, indicating that the user is engaged in document-related activities, possibly updating or reading specifications or meeting notes.",
+    "The user is also seen using the Chrome browser with multiple tabs open, including a new tab page and various AWS QuickSight dashboards. This suggests that the user is conducting research or monitoring data, possibly related to the topics discussed in the meeting or email conversations.",
+    "Throughout the session, the user is actively using the WorkSmart application for team chat. The chat interface shows multiple message threads, including discussions about 'TPM strategy daily sit demo' and 'TPM standards.' This indicates that the user is engaged in team communications, coordinating tasks, and discussing project details with colleagues."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in video conferencing, email communications, document editing, and team chat without any visible interaction with AI tools or assistants.",
+  "activities": [
+    "MEETING",
+    "EMAIL",
+    "READING_SPEC",
+    "CHATTING_WITH_TEAM",
+    "RESEARCH"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 12,
+      "mouse": 5,
+      "date": "2024-06-13T14:10:55Z",
+      "windowTitle": " DevFactory Mail - Pinned - High memory usage - 1.4 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#chat/dm/5m_QNMAAAAE?compose=GTvVlcSBpgVhkJnqvqtZsLjTDtFjPtcLnXMhHMhXMDfHKjZcNTsJbDVJxcgkvxvBmKxMwxkXwwpTq",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 1,
+      "mouse": 4,
+      "date": "2024-06-13T14:11:55Z",
+      "windowTitle": " Meet - inc-wddq-kqq - Camera and microphone recording - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/inc-wddq-kqq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-13T14:12:55Z",
+      "windowTitle": " Meet - inc-wddq-kqq - Camera and microphone recording - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/inc-wddq-kqq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 5,
+      "date": "2024-06-13T14:13:55Z",
+      "windowTitle": " DevFactory Mail - Pinned - High memory usage - 1.5 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#chat/dm/5m_QNMAAAAE?compose=GTvVlcSBpgVhkJnqvqtZsLjTDtFjPtcLnXMhHMhXMDfHKjZcNTsJbDVJxcgkvxvBmKxMwxkXwwpTq",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 20,
+      "date": "2024-06-13T14:14:55Z",
+      "windowTitle": " Prod2 Feature Strategy - IgniteTech:Jive Copilot - Refine Copilot - Google Docs - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1wgvczb6lZFXDeTqO8DHPVR2PXjZj7DJFYbUqsqPfCeg/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 10,
+      "date": "2024-06-13T14:15:55Z",
+      "windowTitle": " Prod2 Feature Strategy - IgniteTech:Jive Copilot - Refine Copilot - Google Docs - High memory usage - 808 MB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1wgvczb6lZFXDeTqO8DHPVR2PXjZj7DJFYbUqsqPfCeg/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-13T14:16:55Z",
+      "windowTitle": " Meet - inc-wddq-kqq - Camera and microphone recording - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/inc-wddq-kqq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-13T14:17:55Z",
+      "windowTitle": " Meet - inc-wddq-kqq - Camera and microphone recording - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/inc-wddq-kqq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-13T14:18:55Z",
+      "windowTitle": " Meet - inc-wddq-kqq - Camera and microphone recording - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/inc-wddq-kqq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 14,
+      "mouse": 1,
+      "date": "2024-06-13T14:19:55Z",
+      "windowTitle": " New Tab - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "chrome:",
+      "visitingUrl": "chrome://newtab/",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-13T14:10:00Z"
+}

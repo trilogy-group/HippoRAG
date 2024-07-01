@@ -1,0 +1,252 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "mail.google.com",
+        "LockApp"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T11:22:28Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '2:22 PM' and date '6/5/2024'. Language setting 'ENG' visible. Network, sound, and notifications icons present.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Inbox - dragos.nuta@trilogy.com - DevFactory Mail",
+                                "url": "https://mail.google.com/mail/u/0/#inbox",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, extensions icons, and settings menu"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email List",
+                                        "layoutDescription": "List of emails displayed in a column",
+                                        "visibleText": "Inbox\nStarred\nSnoozed\nS Coach Emails\nBilling\nCS Tempo\nKayako\nImportant\nLangSmith [ACTION REQUIRED] Set up LangSmith billing by July 1 to avoid disruption - Hi Dragos Nuta, Thank you for evaluating LangSmith while it was in private...\nOmar Ortiz (Google) Factory status Ma... - The import will take the entire quart...\nGeorge Dita (Google) Delivery progress (Infuitive - Add AI to Discourse Commu...\nJamie Sidey (via Go. Document shared with you: \"Notes From Legal call w Lance & Samy\" - Jamie Sidey shared a document Jamie Sidey (jamie.sidey@trilogy.com) has invite...\nBen Moosher 2 Re: Crossover and Google - Hey Dragos! It's been a while my man! Hope everything is moving smoothly with GT School. Funny our paths crossed again in...\nJoe Conley Re: Invitation: Stratifyd - Cost Optimization Plan @ Tue Jun 4, 2024 17:30 - 18:00 (GMT+3) (Dragos Nuta) - Stratifyd - Cost Optimization Plan Join with...\nMatheus Vinicius de. 2 Re: Invitation: Matheus de Freitas and Dragos Nuta @ Mon May 27, 2024 19:00 - 20:00 (GMT+3) (defreitas.mv@outlook.com) - Hello, Dragos. As we..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T11:25:26Z",
+            "desktop": {
+                "uiElements": [],
+                "applications": [
+                    {
+                        "appName": "Default Lock Screen",
+                        "windows": [
+                            {
+                                "title": "Lock Screen",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "visible UI elements"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Lock Screen",
+                                        "layoutDescription": "Full screen",
+                                        "visibleText": "The screen is completely black, no visible text or elements."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T11:27:03Z",
+            "desktop": {
+                "uiElements": [],
+                "applications": [
+                    {
+                        "appName": "Default Lock Screen",
+                        "windows": [
+                            {
+                                "title": "Lock Screen",
+                                "position": "Full Screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "visible UI elements"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Lock Screen",
+                                        "layoutDescription": "Full screen",
+                                        "visibleText": "The screen is completely black with no visible content or text."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is primarily engaged in viewing and managing their emails using Gmail. The screenshot shows the user\u2019s inbox with various emails from different senders, including notifications, updates, and invitations. The user is likely organizing, reading, and possibly responding to these emails. The email subjects suggest a mix of professional and personal content, including project updates, invitations to meetings, and newsletters.",
+        "During the recorded period, the user\u2019s screen also shows the Lock Screen at two different timestamps. This indicates that the user was either away from their computer or had locked their screen for security reasons. The Lock Screen is completely black with no visible text or elements, suggesting the computer was in a locked state.",
+        "The user\u2019s activity is focused on email management, as indicated by the active application being Gmail. The user is likely prioritizing their tasks based on the emails received, which include action items, project updates, and meeting invitations. The presence of labels such as 'AI Coach Emails' and 'Billing' suggests the user is categorizing their emails for better organization and quick access."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in managing their emails through Gmail, and there are no visible interactions with AI chat interfaces or AI-driven email applications like Shortwave. The focus is on email organization and reading, with no AI assistance observed.",
+    "activities": [
+        "EMAIL"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "EMAIL",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T11:20:53Z",
+            "windowTitle": "Inbox - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T11:21:53Z",
+            "windowTitle": "Inbox - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T11:22:54Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T11:23:54Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T11:24:54Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T11:25:53Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T11:26:53Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T11:27:53Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T11:28:53Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T11:29:53Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-05T11:20:00Z"
+}

@@ -1,0 +1,687 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "meet.google.com",
+        "mail.google.com",
+        "docs.google.com",
+        "ws-lambda.atlassian.net",
+        "cloud.getliteral.ai"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T14:21:33Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Settings, and hidden icons tray. System tray includes network, sound, and battery status icons, date and time display, and language selection (ENG).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "DevFactory Mail - Google Chrome",
+                                "url": "https://mail.google.com/mail/u/0/#",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs for Gmail, Calendar, Amazon Web Services, Events Manager, Messages, videoask alternative, Plans & Pricing, Collect Client Testimonials, We Tried 5 Best Video Conferencing Software, and more. Address bar, navigation buttons, profile icon, and more visible."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Gmail",
+                                        "layoutDescription": "email and chat interface",
+                                        "visibleText": "Gmail interface showing email and chat sections. Left sidebar includes Mail, Chat, Meet, and other sections like New chat, Shortcuts, Home, Mentions, Starred, Direct messages with names like Heather Lother, Andrew Allen, Kevin Norchi, and others. Main chat window with Heather Lother shows conversation history with messages discussing business strategies, links to business tools, and plans for future projects. Messages include timestamps and are part of a detailed conversation about business development and tools."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T14:25:50Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, widgets, chat, Microsoft Edge, File Explorer, Microsoft Store, and system tray with notifications, sound, network, and battery status icons",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "XO Platform - Chat - Google Chrome",
+                                "url": "https://mail.google.com/mail/u/0/#chat/dm/",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, extensions, and settings menu"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Gmail",
+                                        "layoutDescription": "List layout",
+                                        "visibleText": "Gmail\nNew chat\nShortcuts\nHome 1\nMentions 2\nStarred\nDirect messages\nHeather Lother\nAndrew Allen\nKevin Norchi\nKevin, Heather\nDavid Cavey\nDino Salkunic\nMurat Kurunc\nJamie Sidey\nRahul Subramaniam\nSergey Buravov\nMore\nSpaces\nXO Platform\nXO Team Chat\nCrossover - Upwork\nXO Candidate Support\nXO GenAI Taskforce\nCrossover GA Denis\nKayakoBot team chat\nDubai - Nov '23\nDevBot\nXo Prime Support\nMore"
+                                    },
+                                    {
+                                        "title": "Chat with Heather Lother",
+                                        "layoutDescription": "Chat interface",
+                                        "visibleText": "Heather Lother\nWednesday, May 22\nyou should see email templates here\nhttps://crossover.lighting.force.com/lightning\nDiscuss what to change but don't alter. we'll need to see if these should be changed in code or SF\nToday\nhi, reaching out directly too\nare you going to help with a pool of people to test the LLM app building badge on?\nI think you are making it more complicated than it should\nall I want is to have it run on a pipeline for a few days and we will learn a ton\nHeather Lother\nNow\nYes, I will help with that.\nI understand that our ethos is just to throw stuff out and see what happens, but we can and should do better. We have the ability to calibrate internally -- and that would give us more info on the validity, reliability, test design, & candidate feedback without penalizing job applicants, tanking the throughput on a pipeline by adding a \"no fail\" assessment, or upsetting hiring managers by adding an unproven badge to their pipelines.\nI've sent some emails already and am following up with folks later today.\nI understand, and accept that"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T14:28:30Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Notepad, and other unidentified applications. System clock shows '5:28 PM'. Date '6/5/2024' and language 'ENG' are also visible.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "3686 - SVP TPM - Trilogy - R3/R2/R1 - 2024 - Google Sheets",
+                                "url": "https://docs.google.com/spreadsheets",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help, Accessibility. Search bar, zoom controls, and sheet tabs labeled 'R3 Template', 'R2 Template', 'R1 Selling: Job Description', 'R1 Selling: FAQs', 'R1: Search Profile'."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Sheets Content",
+                                        "layoutDescription": "Spreadsheet layout",
+                                        "visibleText": "A1:B1 - To complete this task faster, please use the R2 ChatBot\nCategory - Question\n1 - To complete this task faster, please use the R2 ChatBot\n2 - Category\n3 - Question\n4 - Work Product\n5 - What is the important Business Outcome created?\n6 - Work Units\n7 - What are the important Units of Work created or performed?\n8 - Quality Work\n9 - What are the most important attributes of High-Quality Work?"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Notepad",
+                        "windows": [
+                            {
+                                "title": "personal view that is hardly sha - Notepad",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Format, View, Help. Minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notepad Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "My personal view that is hardly sha"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "auto-orders for cost - Notepad",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Format, View, Help. Minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notepad Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "auto-orders for cost"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "screening interview on deliverys - Notepad",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Format, View, Help. Minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notepad Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "screening interview on deliverys"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "what is the data record - Notepad",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Format, View, Help. Minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notepad Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "what is the data record"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "tpm product adoption - Notepad",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Format, View, Help. Minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notepad Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "tpm product adoption"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "is there something you, as a an - Notepad",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Format, View, Help. Minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notepad Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "is there something you, as a an"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "tai down approach - Notepad",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Format, View, Help. Minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notepad Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "tai down approach"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "summary - Notepad",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Format, View, Help. Minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notepad Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "summary"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "1. facebook ads - what do we do - Notepad",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Format, View, Help. Minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notepad Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "1. facebook ads - what do we do"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "1. TPM ownership matrix, discuss in - Notepad",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Format, View, Help. Minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notepad Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "1. TPM ownership matrix, discuss in"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "productivity - Notepad",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Format, View, Help. Minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notepad Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "productivity"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "trigger runner - Notepad",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Format, View, Help. Minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notepad Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "trigger runner"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Demo Day Transcript - Notepad",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Format, View, Help. Minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notepad Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "Demo Day Transcript"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "review usage - Notepad",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Format, View, Help. Minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notepad Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "review usage"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "retention period for live record - Notepad",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Format, View, Help. Minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notepad Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "retention period for live record"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "CQ what people what data - Notepad",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Format, View, Help. Minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notepad Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "CQ what people what data"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "pipelines to source for engineer - Notepad",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Format, View, Help. Minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notepad Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "pipelines to source for engineer"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "exciting AI feature for you to meet - Notepad",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Format, View, Help. Minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notepad Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "exciting AI feature for you to meet"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "How many S?% burfi, release separ - Notepad",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Format, View, Help. Minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notepad Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "How many S?% burfi, release separ"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "video-Ss - Notepad",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Format, View, Help. Minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notepad Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "video-Ss"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "generate class level planned chan - Notepad",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Format, View, Help. Minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notepad Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "generate class level planned chan"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "SPOV - Notepad",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Format, View, Help. Minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notepad Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "SPOV"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "S2 requirements - Notepad",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Format, View, Help. Minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notepad Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "S2 requirements"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "as a user I want will ask you acti - Notepad",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Format, View, Help. Minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notepad Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "as a user I want will ask you acti"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "project - Notepad",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Format, View, Help. Minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notepad Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "project"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Talybook on - Notepad",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Format, View, Help. Minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notepad Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "Talybook on"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "report all thing that you had to fi - Notepad",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Format, View, Help. Minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notepad Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "report all thing that you had to fi"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a chat conversation on Gmail with Heather Lother. The discussion revolves around business strategies, product updates, and testing a new LLM app building badge. The user is seeking assistance from Heather to help with a pool of people to test the badge. Heather responds affirmatively, explaining the importance of internal calibration and the steps she has already taken, including sending emails and following up with colleagues.",
+        "The user is working on a Google Sheets document titled '3686 - SVP TPM - Trilogy - R3/R2/R1 - 2024'. The spreadsheet contains various categories and questions related to business outcomes, work units, and quality work. The user is likely involved in filling out or reviewing this document, as indicated by the visible text and layout of the spreadsheet. The document includes prompts for using the R2 ChatBot to complete tasks faster.",
+        "The user has multiple Notepad windows open, each containing different notes and topics. These notes include 'personal view that is hardly sha', 'auto-orders for cost', 'screening interview on deliverys', 'what is the data record', 'tpm product adoption', and several others. The user appears to be organizing or reviewing various pieces of information related to their work, possibly preparing for meetings or documenting important points."
+    ],
+    "aiUseSummary": "There is no visible evidence of AI tools being used in the provided screenshots. The user is primarily engaged in chat conversations, working on Google Sheets, and reviewing notes in Notepad. No AI chat interfaces or AI-generated content are visible in the screenshots.",
+    "activities": [
+        "EMAIL",
+        "CHATTING_WITH_TEAM",
+        "READING_SPEC"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DOCUMENT_VIEWER_OR_EDITOR"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "CHATTING_WITH_TEAM",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 3,
+            "mouse": 0,
+            "date": "2024-06-05T14:20:55Z",
+            "windowTitle": "Meet - uus-dzji-wsj - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/uus-dzji-wsj?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 300,
+            "mouse": 1,
+            "date": "2024-06-05T14:21:55Z",
+            "windowTitle": "XO Platform - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/tZCr5EAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 6,
+            "mouse": 5,
+            "date": "2024-06-05T14:22:55Z",
+            "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 20,
+            "mouse": 11,
+            "date": "2024-06-05T14:23:55Z",
+            "windowTitle": "Functional Spec - TelcoDR:Totogi- Capabilities Exchange - 2nd Try - Week 20 2024 - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1LpcnVT6B8Yhox8WfiZJK9hAePPDVazoo_4B6jQvWKdE/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 37,
+            "mouse": 11,
+            "date": "2024-06-05T14:24:55Z",
+            "windowTitle": "Crossover Sprints - Backlog - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/jira/software/c/projects/HIRE/boards/25/backlog?customFilter=195%2C259&issueLimit=100&selectedIssue=LAMBDA-75635",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 97,
+            "mouse": 18,
+            "date": "2024-06-05T14:25:55Z",
+            "windowTitle": "XO Platform - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/tZCr5EAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 108,
+            "mouse": 0,
+            "date": "2024-06-05T14:26:55Z",
+            "windowTitle": "XO Platform - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/tZCr5EAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 188,
+            "mouse": 4,
+            "date": "2024-06-05T14:27:55Z",
+            "windowTitle": "Meet - uus-dzji-wsj - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/uus-dzji-wsj?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 1,
+            "mouse": 24,
+            "date": "2024-06-05T14:28:55Z",
+            "windowTitle": "Threads - Google Chrome",
+            "processName": "cloud.getliteral.ai",
+            "visitingUrl": "cloud.getliteral.ai/projects/ai-coach-AA9M01hzCsyH/threads/a00a7f60-9204-41a2-bdc8-1a774f1c560d?currentStepId=c1b1efb8-cccb-4b9c-b07f-5188cb88f334",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 147,
+            "mouse": 11,
+            "date": "2024-06-05T14:29:55Z",
+            "windowTitle": "Meet - uus-dzji-wsj - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/uus-dzji-wsj?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-05T14:20:00Z"
+}

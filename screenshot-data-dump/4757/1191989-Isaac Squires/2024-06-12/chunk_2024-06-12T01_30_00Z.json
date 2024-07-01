@@ -1,0 +1,199 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "drive.google.com",
+    "docs.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T01:37:24Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Inbox by Gmail, LearnV, DevFav, Magic Academy, Budget, Rough, and Magic. Also includes system icons for Wi-Fi, battery, clock (19:37), and user profile picture.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Magic Academy Paper Cuts - Google Docs - Google Chrome",
+                "url": "https://docs.google.com/document/d",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help. Toolbar with undo, redo, print, spelling and grammar check, page setup, zoom, styles, fonts, text size, bold, italic, underline, text color, highlight color, align, line spacing, numbered list, bulleted list, indent, outdent, clear formatting, comment, link, image, table, chart, drawing, header, footer, text box, special characters, equation, bookmark, word count, explore, dictionary, accessibility settings, voice typing, script editor."
+                },
+                "content": [
+                  {
+                    "title": "Magic Academy Paper Cuts",
+                    "layoutDescription": "Document layout",
+                    "visibleText": "Paper cuts are minor issues or improvements. If you are blocked on your current task and not sure what to work on next, pick up a paper cut. Please add to this list if you think something should be improved.\n\nPaper Cuts\n\n1. [Gio] On feedback dialog:\n a. Disable “Submit” button if the fields are not filled\n b. Add notification message on success\n2. Modify treasure chest mcq dialog to show how many questions you still need to answer to open it, very simply we could add it to the title: 'Treasure chest - 0/1' changes to 'Treasure chest - 1/1' while you see the explanation and get credited\n3. [Gio] Treasure chests that are re-questioned disappear before you can report an incorrect question. Don't close the MCQ dialog unless the player clicks exit when they get the question wrong.\n4. Start the pet food screen scrolled to the top (right now it briefly starts at the bottom of the screen)\n5. Show visual feedback when buying something from a store\n6. Scroll wheel should scroll the dialogs faster (you have to scroll a lot for a tiny change)\n7. You can select lower blocks while in the initial Avatar customization https://www.loom.com/share/7f3bc717ebc41449257b49 Isaac Squires When multiple pets are following, they slide sideways\n It looks like they are trying to fan out as they approach the player.\n Link, Link 2, Link 3, Link 4\n9. Isaac Squires Make pet run speed, walk speed, animation speed, and follow distance proportional to its scale\n10. Pets can't cross bridges Link\n11. Pets try to endlessly run into the tower while the player is inside. They should wait outside in a more natural way: Link\n12. Dismiss the block info dialog when opening any of the other screens (such as prize shop or avatar customization)\n13. Tower blocks are selectable from far away, should not be\n14. Explanation tooltip is displayed above report an issue dialog\n15. The positioning of the character is not centered in the visible portion of the game environment, when answering MCQs"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in reading and editing a Google Docs document titled 'Magic Academy Paper Cuts'. The document lists various minor issues or improvements for a project. The user is reviewing the list, which includes tasks such as modifying treasure chest dialogs, starting the pet food screen at the top, and showing visual feedback when buying something from a store. The user is also interacting with comments made by Isaac Squires, discussing issues related to NavMeshAgent and obstacle avoidance.",
+    "The user is focused on understanding and possibly updating the document to reflect the current status of the tasks. The document contains links to Loom videos and other resources, indicating that the user might be cross-referencing these materials to ensure the accuracy and completeness of the document. The user is also likely prioritizing tasks based on the comments and feedback provided by team members."
+  ],
+  "aiUseSummary": "",
+  "activities": [
+    "READING_SPEC",
+    "WRITING_SPEC"
+  ],
+  "workTypes": [
+    "UI"
+  ],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_SPEC",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T01:30:19Z",
+      "windowTitle": "LearnWith.AI Beta Test - Ana (2024-06-06 18:05 GMT+3) - Google Drive - Google Chrome",
+      "processName": "drive.google.com",
+      "visitingUrl": "drive.google.com/file/d/1CmwimKV96gAkuaeeAGpSJ_fRJQIZnbZ-/view",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T01:31:19Z",
+      "windowTitle": "LearnWith.AI Beta Test - Ana (2024-06-06 18:05 GMT+3) - Google Drive - Google Chrome",
+      "processName": "drive.google.com",
+      "visitingUrl": "drive.google.com/file/d/1CmwimKV96gAkuaeeAGpSJ_fRJQIZnbZ-/view",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T01:32:19Z",
+      "windowTitle": "LearnWith.AI Beta Test - Ana (2024-06-06 18:05 GMT+3) - Google Drive - Google Chrome",
+      "processName": "drive.google.com",
+      "visitingUrl": "drive.google.com/file/d/1CmwimKV96gAkuaeeAGpSJ_fRJQIZnbZ-/view",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T01:33:19Z",
+      "windowTitle": "LearnWith.AI Beta Test - Ana (2024-06-06 18:05 GMT+3) - Google Drive - Google Chrome",
+      "processName": "drive.google.com",
+      "visitingUrl": "drive.google.com/file/d/1CmwimKV96gAkuaeeAGpSJ_fRJQIZnbZ-/view",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T01:34:19Z",
+      "windowTitle": "LearnWith.AI Beta Test - Ana (2024-06-06 18:05 GMT+3) - Google Drive - Google Chrome",
+      "processName": "drive.google.com",
+      "visitingUrl": "drive.google.com/file/d/1CmwimKV96gAkuaeeAGpSJ_fRJQIZnbZ-/view",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 6,
+      "mouse": 6,
+      "date": "2024-06-12T01:35:19Z",
+      "windowTitle": "Rough Priorities Assignment - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1xg25F13M7hSo1NjyQWFsRXGH6Jc_26tyRXI28OdMmpY/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 8,
+      "mouse": 5,
+      "date": "2024-06-12T01:36:19Z",
+      "windowTitle": "Magic Academy Paper Cuts - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/19Q1SdwkbjwutnWhp0RPEuznQBmkwNDtOBpCsop62CkE/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T01:37:19Z",
+      "windowTitle": "Magic Academy Paper Cuts - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/19Q1SdwkbjwutnWhp0RPEuznQBmkwNDtOBpCsop62CkE/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T01:38:19Z",
+      "windowTitle": "Magic Academy Paper Cuts - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/19Q1SdwkbjwutnWhp0RPEuznQBmkwNDtOBpCsop62CkE/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 19,
+      "mouse": 8,
+      "date": "2024-06-12T01:39:19Z",
+      "windowTitle": "Rough Priorities Assignment - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1xg25F13M7hSo1NjyQWFsRXGH6Jc_26tyRXI28OdMmpY/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-12T01:30:00Z"
+}

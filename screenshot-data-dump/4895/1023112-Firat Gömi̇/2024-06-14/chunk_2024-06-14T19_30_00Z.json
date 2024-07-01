@@ -1,0 +1,191 @@
+{
+  "candidateId": 2027577,
+  "apps": [
+    "linkedin.com",
+    "chatgpt.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T19:32:54Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Spotify, Google Chrome, and other unidentified applications. Displays the time as 19:32.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Jonathan McKay | LinkedIn - Google Chrome",
+                "url": "https://www.linkedin.com/in/jonathan-mckay",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Navigation bar with back, forward, refresh, and home buttons. Address bar with URL. Tabs for 'Anatolian Sessions | Spotify', 'Jonathan McKay | LinkedIn', and others. Bookmark bar with folders like 'Food Items for Berlin TJF 24', 'Useful Tools', 'AI Tools', 'All Bookmarks'."
+                },
+                "content": [
+                  {
+                    "title": "LinkedIn Profile",
+                    "layoutDescription": "Profile layout",
+                    "visibleText": "Jonathan McKay\nHead of Product, Growth at OpenAI\nSan Francisco, California, United States\n500+ connections\n+ Follow\nMessage\nMore"
+                  },
+                  {
+                    "title": "People similar to Jonathan McKay",
+                    "layoutDescription": "List layout",
+                    "visibleText": "Leher Pathak\nProduct Marketing at OpenAI\nBased on your profile\n+ Connect\nBecky Waite\nHead of Global Response @ OpenAI\nBased on your profile\n+ Connect\nLouisa X\nInvestor\nBased on your profile\n+ Connect"
+                  },
+                  {
+                    "title": "Add a note to your invitation",
+                    "layoutDescription": "Popup window",
+                    "visibleText": "Add a note to your invitation\n5 personalized invitations remaining for this month.\nHi Jonathan, I faced a UX problem while creating a GPT &wanted to report it: https://prnt.sc/Qw7YymDmQEZD error text is sent in the network, but FE just gives an error, not informative to end user\nWith Premium, you can add longer personalized notes to all your invites.\nTry Premium for €0\nCancel\nSend"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T19:34:55Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Edge, and other unidentified applications. Also includes system clock showing '19:34' and system tray icons like network, sound, and notifications.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "ChatGPT - Q2 Extractor - Google Chrome - Firat (trilogy.com)",
+                "url": "chatgpt.com/g/9-wpXpbwGewQ",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, and extensions visible"
+                },
+                "content": [
+                  {
+                    "title": "Q2 Extractor",
+                    "layoutDescription": "Two-column layout",
+                    "visibleText": "Decisions:\n- Analyze competitors' use of AI.\n\nLearnings:\n- Understanding competitors' strategies reinforces product value.\n\nEfforts:\n- Conducting competitor analysis.\n\nResults:\n- Insights into competitors' strategies and potential improvements.\n\nConclusion\nThis detailed report captures the comprehensive journey of decision-making, efforts, and outcomes from the series of meetings and activities. The post-mortem analysis highlights successes, challenges, and areas for improvement. The second brain provides a structured and detailed account of decisions, learnings, and actions, serving as a valuable resource for future reference and continuous improvement."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in sending a personalized invitation on LinkedIn. They are composing a message to Jonathan McKay, Head of Product, Growth at OpenAI, reporting a UX problem encountered while creating a GPT. The message includes a link to a screenshot of the error and mentions that the front-end error message is not informative to the end user. This activity indicates the user's involvement in addressing and reporting issues related to user experience in AI tools.",
+    "The user is also engaged in research and analysis on ChatGPT. They are viewing a detailed report titled 'Q2 Extractor' which includes sections on decisions, learnings, efforts, and results related to analyzing competitors' use of AI. The report provides insights into competitors' strategies and potential improvements. The user is seen typing a command to create a 'second brain' from all the analysis and transcripts available, indicating their intent to consolidate and utilize the gathered information effectively."
+  ],
+  "aiUseSummary": "The user utilizes AI tools for research and analysis purposes. They are interacting with ChatGPT to view a detailed report on competitor analysis, which includes insights into competitors' strategies and potential improvements. The user is also seen typing a command to create a 'second brain' from the analysis and transcripts, indicating their use of AI to consolidate and manage information efficiently. This demonstrates the user's reliance on AI for comprehensive analysis and information management.",
+  "activities": [
+    "EMAIL",
+    "RESEARCH"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [
+    "OPENAI_CHATGPT"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "RESEARCH",
+  "doubts": [],
+  "confidenceScore": 100,
+  "events": [
+    {
+      "keyboard": 143,
+      "mouse": 13,
+      "date": "2024-06-14T19:30:55Z",
+      "windowTitle": " (1) Jonathan McKay | LinkedIn - High memory usage - 848 MB - Google Chrome - F?rat\n",
+      "processName": "linkedin.com",
+      "visitingUrl": "https://www.linkedin.com/in/jonathanbmckay/",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 61,
+      "mouse": 32,
+      "date": "2024-06-14T19:31:55Z",
+      "windowTitle": " (1) Subscribe to LinkedIn Premium | LinkedIn - Google Chrome - F?rat\n",
+      "processName": "linkedin.com",
+      "visitingUrl": "https://www.linkedin.com/premium/survey/?destRedirectURL=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjonathanbmckay%2F&referenceId=2JcGVeYGQT%2B%2BAQWY0rx6ug%3D%3D&upsellOrderOrigin=invitations_custom_invite_compose_inline_upsell",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 27,
+      "mouse": 29,
+      "date": "2024-06-14T19:32:55Z",
+      "windowTitle": " (1) Jonathan McKay | LinkedIn - Google Chrome - F?rat\n",
+      "processName": "linkedin.com",
+      "visitingUrl": "https://www.linkedin.com/in/jonathanbmckay/",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 23,
+      "mouse": 40,
+      "date": "2024-06-14T19:33:55Z",
+      "windowTitle": " ChatGPT - Q2 Extractor - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "chatgpt.com",
+      "visitingUrl": "https://chatgpt.com/g/g-wPxpbGewo-q2-extractor/c/de92f3b9-3f15-44b9-896a-d16ece75ca9f",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 188,
+      "mouse": 17,
+      "date": "2024-06-14T19:34:55Z",
+      "windowTitle": " ChatGPT - Q2 Extractor - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "chatgpt.com",
+      "visitingUrl": "https://chatgpt.com/g/g-wPxpbGewo-q2-extractor/c/de92f3b9-3f15-44b9-896a-d16ece75ca9f",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 110,
+      "mouse": 16,
+      "date": "2024-06-14T19:35:55Z",
+      "windowTitle": " ChatGPT - Q2 Extractor - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "chatgpt.com",
+      "visitingUrl": "https://chatgpt.com/g/g-wPxpbGewo-q2-extractor/c/de92f3b9-3f15-44b9-896a-d16ece75ca9f",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-14T19:30:00Z"
+}

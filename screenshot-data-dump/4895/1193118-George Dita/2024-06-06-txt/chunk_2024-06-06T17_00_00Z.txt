@@ -1,0 +1,398 @@
+{
+    "candidateId": 2368956,
+    "apps": [
+        "Google Chat",
+        "meet.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-06T17:00:06Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Reminders, Notes, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Active application indicator under Google Chrome and Finder.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Messenger - Nooruman Shah - Google Chrome",
+                                "url": "https://mail.google.com/chat/u/0/#chat/welcome",
+                                "position": "left",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Chat sidebar, search bar, chat window, settings icon, attachment icon, emoji icon, send button"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat with Nooruman Shah",
+                                        "layoutDescription": "Chat layout",
+                                        "visibleText": "Nooruman Shah\n\nHey, have you seen the new project documentation? Here's the link if you haven't:\n\nhttps://docs.google.com/document/d/1A\n\nThanks for the update, Nooruman.\n\nHey, can you look at this and let me know if it's okay?\n\nhttps://docs.google.com/spreadsheets/d/1\n\nI'll take a look at it soon."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Successful Customers - Google Docs",
+                                "url": "https://docs.google.com/document/d/1",
+                                "position": "left",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Document editing tools, share button, comments button, document title"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Successful Customers",
+                                        "layoutDescription": "Document layout",
+                                        "visibleText": "Successful Customers:\n\nCustomer Engagement: Fostering good customer relations. Shifts the advantage of your staff to their capabilities. The key to success is the ability to adapt to changing customer needs and market conditions, not just the ability to deliver a product or service.\n\nCustomer Retention: Keeping customers engaged through regular updates and improvements. The importance of customer feedback cannot be overstated. It is essential for the continuous improvement of products and services.\n\nCustomer Satisfaction: Ensuring that customers are satisfied with their purchases. This involves ensuring that products and services meet or exceed customer expectations.\n\nCustomer Loyalty: Building a loyal customer base. This involves creating a positive customer experience that encourages customers to return.\n\nCustomer Advocacy: Turning customers into advocates for your brand. This involves providing exceptional customer service and building strong relationships with customers."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Google Sheets - Sales Data",
+                                "url": "https://docs.google.com/spreadsheets",
+                                "position": "right",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Spreadsheet tools, share button, formula bar, sheet tabs"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Sales Data",
+                                        "layoutDescription": "Spreadsheet layout",
+                                        "visibleText": "Sales Data\n\nThis spreadsheet contains sales data for the current fiscal year. The data includes sales figures, customer demographics, and product information. The spreadsheet is used to track sales performance and to generate reports for management."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Teams",
+                        "windows": [
+                            {
+                                "title": "Video Call - Microsoft Teams",
+                                "position": "bottom right",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Video call controls, participant list, chat window, share screen button"
+                                },
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "Jessica",
+                                            "expression": "speaking"
+                                        }
+                                    ]
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Call",
+                                        "layoutDescription": "Video call layout",
+                                        "visibleText": "Jessica is speaking"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-06T17:03:44Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Google Chrome, Microsoft Outlook, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Slack, Adobe Photoshop, Adobe Illustrator, Terminal, System Preferences, and Trash. Also includes a Spotlight search icon and a Notification Center icon.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Messenger - Nooruman Shah - Google Chrome",
+                                "url": "https://mail.google.com/chat/u/0/#",
+                                "position": "left",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Contains tabs, address bar, bookmarks bar, and extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat",
+                                        "layoutDescription": "Chat window",
+                                        "visibleText": "Nooruman Shah\n\nKeith: I have been using this email productivity tool for a bit now and I must say it's quite impressive. It helps me organize my emails better and saves me a lot of time.\n\nNooruman Shah: That's awesome, Keith.\n\nKeith: https://www.example.com/tools/email_productivity\n\nNooruman Shah: Thanks for the recommendation.\n\nKeith: No problem at all. Let me know if you need any help.\n\nNooruman Shah: Will do. Are you still on track with our project timeline?\n\nKeith: Yes, we are on track as of now.\n\nNooruman Shah: Great to hear that.\n\nKeith: Are you booked after this call, or do you have 15 minutes for a quick catch-up?"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Successful Customers",
+                                "url": "https://www.example.com/success",
+                                "position": "left",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Contains text content and images"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Successful Customers",
+                                        "layoutDescription": "Text document",
+                                        "visibleText": "Customer Engagement: Fostering great customer relations. Sally's 360 strategy of customer care has transformed the way we handle our engagements. Through her leadership, we have seen a significant increase in customer satisfaction and retention rates.\n\nCustomer Loyalty: Sally's approach to customer loyalty has been instrumental in our success. Her strategies have helped us build a strong and loyal customer base, which has been crucial for our growth.\n\nCustomer Satisfaction: Sally's focus on customer satisfaction has driven our efforts. Her strategies have improved our customer service and have made a significant impact on our overall success.\n\nCustomer Retention: Sally's strategies for customer retention have been effective. Her approach has helped us maintain a strong customer base and has contributed to our overall success."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Word",
+                        "windows": [
+                            {
+                                "title": "User Manual - Part 2",
+                                "position": "bottom center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Contains text content, images, and formatting tools"
+                                },
+                                "content": [
+                                    {
+                                        "title": "User Manual - Part 2",
+                                        "layoutDescription": "Word document",
+                                        "visibleText": "User Generated Content\n\nIt is important to create and manage user-generated content as it provides unique insights into how users interact with your products and services. This content is valuable for both marketing and product development purposes.\n\nGeneral Content\n\nContent should be informative and engaging. It should provide value to the user and should not be overly promotional. Content should be easy to read and understand, and it should be relevant to the user's interests.\n\nMember Feedback\n\nRegularly gather feedback from members about their experiences with your site and services. This can help you identify areas for improvement and can also help you understand what your members value most.\n\nAdmin Feedback\n\nCollect feedback from your site administrators about how they manage the community and their interactions. This feedback is valuable as it provides insights into the administrative side of managing a community."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-06T17:07:36Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a Spotlight search icon and Notification Center icon.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - sos-akxy-bio - Camera and microphone recording",
+                                "url": "https://meet.google.com/sos-akxy-bio",
+                                "position": "right",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Video conference window with participant thumbnails, mute button, camera button, captions button, present now button, more options button, hang up button"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference Participants",
+                                        "layoutDescription": "Grid layout",
+                                        "visibleText": "Lauren Smith, smiling; Jonathan Berg, neutral expression; George Otis, neutral expression"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "BI Reports",
+                                "url": "https://company.intranet/reports/",
+                                "position": "left",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Web page with navigation tabs, search bar, user profile icon"
+                                },
+                                "content": [
+                                    {
+                                        "title": "BI Reports",
+                                        "layoutDescription": "Two-column layout",
+                                        "visibleText": "Dashboard\n\nGenerating Sales Performance\n\nGenerating Sales Demographics"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Messenger - [Nooruman Shah]",
+                                "url": "https://messenger.com",
+                                "position": "left",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Chat window with search bar, settings icon, help icon, compose new message button"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat with Nooruman Shah",
+                                        "layoutDescription": "Chat layout",
+                                        "visibleText": "Nooruman Shah: Keith, have you seen the email regarding installation? Might be of interest to you.\nKeith: Which email?\nNooruman Shah: The one regarding new software installations.\nKeith: Oh, that one. Yes, I saw it. Thanks for the heads up.\nNooruman Shah: No problem. Also, here's the link to the document: https://docs.google.com/document/d/1A2B3C4D5E6F7G"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in a Google Chat conversation with a colleague named Nooruman Shah. The conversation includes sharing links to project documentation and discussing project timelines. This indicates that the user is collaborating with team members and possibly reviewing project-related documents.",
+        "The user is participating in a Google Meet video conference with multiple participants, including Lauren Smith, Jonathan Berg, and George Otis. The video conference window shows active video feeds and controls for muting, camera, captions, and presenting. This suggests that the user is involved in a team meeting or discussion.",
+        "The user has a Google Docs document titled 'Successful Customers' open, which contains detailed information about customer engagement, retention, satisfaction, loyalty, and advocacy. The document appears to be a part of a larger project or report, indicating that the user is involved in documenting or reviewing customer-related strategies.",
+        "The user is also working on a Google Sheets document, which includes various sections such as 'User Generated Content,' 'Content Relevance,' 'Member Feedback,' and 'Admin Feedback.' This spreadsheet seems to be part of a structured analysis or presentation, suggesting that the user is organizing and analyzing data for a project or report."
+    ],
+    "aiUseSummary": "",
+    "activities": [
+        "READING_SPEC",
+        "CHATTING_WITH_TEAM",
+        "MEETING"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T17:00:18Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T17:01:18Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T17:02:18Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T17:03:18Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T17:04:18Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T17:05:18Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T17:06:18Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-06T17:07:18Z",
+            "windowTitle": " Meet - sos-akxy-bio - Camera and microphone recording - Google Chrome\n",
+            "processName": "meet.google.com",
+            "visitingUrl": "https://meet.google.com/sos-akxy-bio?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 3,
+            "date": "2024-06-06T17:08:18Z",
+            "windowTitle": " Meet - sos-akxy-bio - Camera and microphone recording - Google Chrome\n",
+            "processName": "meet.google.com",
+            "visitingUrl": "https://meet.google.com/sos-akxy-bio?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T17:09:18Z",
+            "windowTitle": " Meet - sos-akxy-bio - Camera and microphone recording - Google Chrome\n",
+            "processName": "meet.google.com",
+            "visitingUrl": "https://meet.google.com/sos-akxy-bio?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-06T17:00:00Z"
+}

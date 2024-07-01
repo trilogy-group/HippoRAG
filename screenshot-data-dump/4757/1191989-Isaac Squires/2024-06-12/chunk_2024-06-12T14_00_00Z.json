@@ -1,0 +1,204 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "mail.google.com",
+    "docs.google.com",
+    "meet.google.com",
+    "calendar.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T14:05:34Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned and running applications. System tray includes notifications, sound, network, and clock displaying '08:05 12 Jun 2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "DevFactory - Calendar - Week of June 9, 2024 - Google Chrome",
+                "url": "https://calendar.google.com/calendar/u/0/r",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, profile icon, extensions icons, and browser menu."
+                },
+                "content": [
+                  {
+                    "title": "Calendar",
+                    "layoutDescription": "week view layout",
+                    "visibleText": "Calendar\nToday\nJune 2024\n\nSUN 9\nMON 10\nTUE 11\nWED 12\nTHU 13\nFRI 14\nSAT 15\n\nHolidays in United States\nAntoine Cherfane\nBogdan Tenea\nDavid Harpur\nDavid Kube\nDoreen Mayrell\nDragos Nuta\nGiorgio Micotti\nisaac.squires@gmail.com\nisaac@humanprog Demir\nJozsef Szapovics\nMark Nygren\nMohamed Mortada\nNiraj Patel\nPhil Hewinson\nSamy Aboel-Nil\nSerban Petrescu\nShawn Sullivan\nSimon Said\nTristan Muniz\nWS.Eng: Availability\n\nOffice\nVedran OOO\nAbhineet OOO\n\nGT weekly meeting\n07:30 – 08:30\nMagic Academy: Weekly Project Meeting\n09:00 – 10:00\nBusy, 10:30\n11:00 – 12:00\nBusy\n12:00 – 13:00\nIsaac / Samy\n15:30 – 16:30\n\nBudget discussion\n06:30 – 07:30\nSamy - Office Hours - OPT\nPick off for extended office\nMagic Academy Marketing\n09:30 – 10:15\nMagic Academy - Business\nLearnWith Marketing - Trist\nTechTap Marketing Sync\nIsaac / Mark Biweekly Sync\nNiraj next role discussion\nXO Kanban Weekly Demo\nIsaac / Dragos, 13:30\n\nPopulate Demo Day update\nPopulate feedback for Eng\nFlag Day\nPrepare for the Factory Review\nSamy's TPM Factory Review\nShawn/Phil/Isaac, 08:30\n\nBusy\n07:30 – 08:30\nBusy\n08:30 – 09:30\nBusy\n09:30 – 11:30\nTechTrep-Marketing-Sync\nBusy\n11:30 – 14:30\nBusy\n14:30 – 15:30\nBusy\n15:30\nBusy\n16:00 – 18:00"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively managing their schedule using Google Calendar. The calendar is in week view, displaying events and meetings scheduled from June 9 to June 15, 2024. The user has several meetings and tasks scheduled, including a GT weekly meeting, Magic Academy project meetings, and various 'Busy' time slots. The calendar also shows holidays in the United States and the availability of other team members.",
+    "The user is viewing their email on mail.google.com. The email interface shows various labels and folders, including 'Inbox', 'Newsletters', 'Feedback', and 'Promotions'. The user is likely checking and managing their emails, as indicated by the active email application.",
+    "The user is accessing Google Docs, as indicated by the link to a document being edited. This suggests that the user is either reading or writing specifications or other documentation related to their work. The document editing activity is part of their workflow, possibly involving collaboration with team members.",
+    "The user is participating in a meeting on Google Meet. The link to the meeting indicates that the user is engaged in a video conference, likely discussing project updates, tasks, or other work-related topics with colleagues. This is a common activity for team collaboration and communication.",
+    "The user is also using Google Sheets, as indicated by the link to a spreadsheet being edited. This suggests that the user is working with data, possibly for project management, budgeting, or other analytical tasks. The spreadsheet activity is part of their documentation and data management workflow."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots or data. The user is primarily engaged in managing their schedule, checking emails, participating in meetings, and working on documents and spreadsheets. No interactions with AI tools for code suggestions, research, or debugging are visible in the current data.",
+  "activities": [
+    "EMAIL",
+    "MEETING",
+    "READING_SPEC",
+    "WRITING_SPEC"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "EMAIL",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 249,
+      "mouse": 14,
+      "date": "2024-06-12T14:00:45Z",
+      "windowTitle": "CoachBot Alerts - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxFHnkpjNWHxlrddsXBDklbd",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 263,
+      "mouse": 2,
+      "date": "2024-06-12T14:01:45Z",
+      "windowTitle": "CoachBot Alerts - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxFHnkpjNWHxlrddsXBDklbd",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 28,
+      "date": "2024-06-12T14:02:45Z",
+      "windowTitle": "TeachTap Marketing Plan - Q3 2024 - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1Adjd_cLzvI71nWKY2gSADx9UuUibdXnSlLQJXP_ZSF0/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 94,
+      "mouse": 18,
+      "date": "2024-06-12T14:03:45Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 11,
+      "mouse": 22,
+      "date": "2024-06-12T14:04:45Z",
+      "windowTitle": "Meet - gsv-napk-ouw - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/gsv-napk-ouw",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 9,
+      "date": "2024-06-12T14:05:45Z",
+      "windowTitle": "DevFactory - Calendar - Week of June 9, 2024 - Google Chrome",
+      "processName": "calendar.google.com",
+      "visitingUrl": "calendar.google.com/calendar/u/0/r/week",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T14:06:45Z",
+      "windowTitle": "DevFactory - Calendar - Week of June 9, 2024 - Google Chrome",
+      "processName": "calendar.google.com",
+      "visitingUrl": "calendar.google.com/calendar/u/0/r/week",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 6,
+      "mouse": 1,
+      "date": "2024-06-12T14:07:45Z",
+      "windowTitle": "Meet - gsv-napk-ouw - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/gsv-napk-ouw",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 1,
+      "mouse": 14,
+      "date": "2024-06-12T14:08:45Z",
+      "windowTitle": "GT School Q3'24 Budget Details - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/19t2L4FosU9WLYwDFYdDf6EbfMwMUkto9JOJdjZXw57U/edit#gid=658915472",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 1,
+      "mouse": 10,
+      "date": "2024-06-12T14:09:45Z",
+      "windowTitle": "GT School Q3'24 Budget Details - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/19t2L4FosU9WLYwDFYdDf6EbfMwMUkto9JOJdjZXw57U/edit#gid=1935652953",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-12T14:00:00Z"
+}

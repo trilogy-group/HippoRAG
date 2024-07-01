@@ -1,0 +1,275 @@
+{
+    "candidateId": 1444536,
+    "apps": [
+        "Code"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T10:01:58Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, File Explorer, Microsoft Edge, and system tray with notifications, sound, network, and clock displaying '11:01:59 AM 14/06/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "salesforce.py - tools - Visual Studio Code",
+                                "url": null,
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "menu bar with File, Edit, Selection, View, Go, Run, Terminal, Help; sidebar with Explorer, Search, Source Control, Run and Debug, Extensions, and more; status bar with Python environment, line and column indicator, encoding, line ending, and language mode"
+                                },
+                                "content": [
+                                    {
+                                        "title": "salesforce.py",
+                                        "layoutDescription": "editor open with code",
+                                        "visibleText": "import os\nimport pandas as pd\nimport numpy as np\nfrom simple_salesforce import Salesforce\n\nclass SalesforceConnection:\n def __init__(self, username, password, security_token):\n self.sf = Salesforce(username=username, password=password, security_token=security_token)\n\n def salesforce_connection(username, password, security_token):\n sf = Salesforce(username=username, password=password, security_token=security_token)\n return sf\n\n# Salesforce login credentials\nusername = 'your_username'\npassword = 'your_password'\nsecurity_token = 'your_security_token'\n\n# Create a Salesforce connection\nsf = Salesforce(username=username, password=password, security..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T10:04:50Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, File Explorer, Microsoft Edge, and system tray with notifications, sound, network, and clock displaying '11:04:52 14/06/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "salesforce.py - tools - Visual Studio Code",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "menu bar with File, Edit, Selection, View, Go, Run, Terminal, Help; sidebar with Explorer, Search, Source Control, Run and Debug, Extensions, and more; status bar with Python environment, line and column indicator, encoding, line ending, language mode"
+                                },
+                                "content": [
+                                    {
+                                        "title": "salesforce.py",
+                                        "layoutDescription": "editor open",
+                                        "visibleText": "def create_query(campaign_id_patterns, last_date) -> str:\n raise Exception(\"No Campaign ID pattern provided\")\n condition = f\"Name like {'campaign_id_patterns[0]'}\"\n if len(last_date) > 1:\n for i in range(1, len(campaign_id_patterns)):\n condition += f\" OR Name like {'campaign_id_patterns[i]'}\"\n subquery = f\"SELECT Id from Campaign WHERE {condition}\"\n return f\"\"\"SELECT Id, AccountId, CampaignId, CreatedDate, Lead_Source_Campaign__C, Advertised_Title_C, Candidate_Country__C, CCAT_Score__C, Last_Active_Stage__C, StageName\n FROM Opportunity WHERE\n CampaignId IN ({subquery}) AND\n CreatedDate > {last_date} ORDER BY CreatedDate\"\"\"\nclass SalesforceConnection:\n def __init__(self, username, password, security_token):\n self.sf = Salesforce(username=username, password=password, security_token=security_token)\n def get_applications(self, query):\n return self.sf.query(query)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T10:07:18Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, File Explorer, Microsoft Edge, and system tray with notifications, sound, network, and battery status icons",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "salesforce.py - campaign-tracking - Visual Studio Code",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Edit, Selection, View, Go, Run, Terminal, Help menus; Explorer, Search, Source Control, Run, Extensions sidebars; status bar with Python 3.11.4 64-bit, UTF-8, CRLF, Ln 22, Col 11"
+                                },
+                                "content": [
+                                    {
+                                        "title": "EXPLORER",
+                                        "layoutDescription": "list",
+                                        "visibleText": "OPEN EDITORS\n4 unsaved\nWelcome\nREADME.md\n.gitattributes\nsalesforce.py - campaign-tracking\nlambda_function.py - campaign-tracking\nconfig.json - campaign-tracking\nUntitled-1\nTOOLS\ncampaign-tr editor"
+                                    },
+                                    {
+                                        "title": "salesforce.py",
+                                        "layoutDescription": "editor",
+                                        "visibleText": "def campaign_query(campaign_id_patterns, last_date) -> str:\n if len(last_date) > 1:\n for i in range(1, len(campaign_id_patterns)):\n condition += \" OR CampaignId like '\" + campaign_id_patterns[i] + \"'\"\n subquery = \"SELECT Id from Campaign WHERE {condition}\"\n return f\"SELECT Id, AccountId, CampaignId, CreatedDate, Lead_Source_Campaign_C, Advertised_Title_C, Candidate_Country_C, CCAT_Score_C, Last_Active_Stage_C, StageName\nFROM Opportunity WHERE\n CampaignId IN ({subquery}) AND\n CreatedDate > {last_date} ORDER BY CreatedDate\"\nclass SalesforceConnection:\n def __init__(self, username, password, security_token):\n self.sf = Salesforce(username=username, password=password, security_token=security_token)\n def get_applications(self, campaign_id_patterns, last_date = '2000-01-01T00:00:00.000+0000'):\n sf = self.sf\n return self.campaign_query(campaign_id_patterns, last_date)\n def salesforce(self):\n sf = self.sf\n return 2"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in writing code within Visual Studio Code. They are working on a Python script named 'salesforce.py' which involves creating a Salesforce connection and querying data from Salesforce. The code includes functions for initializing the Salesforce connection and querying campaign data based on specific patterns and dates. The user is also seen running the script and checking the output in the terminal, indicating active development and testing of the code.",
+        "The user is navigating through different files within the Visual Studio Code environment. They have multiple files open, including 'README.md', '.gitattributes', 'salesforce.py', 'lambda_function.py', 'config.json', and an untitled file. This suggests that the user is managing and editing multiple components of a project simultaneously, which is common in software development workflows.",
+        "The user is seen modifying the 'salesforce.py' file, specifically working on the 'create_query' and 'get_applications' functions. The 'create_query' function constructs a SQL query to fetch campaign data from Salesforce, while the 'get_applications' function uses this query to retrieve data. The user is refining the logic and structure of these functions, indicating a focus on ensuring the accuracy and efficiency of the data retrieval process."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is solely interacting with the Visual Studio Code environment and manually writing and testing their code. There are no visible AI chat interfaces or AI-generated code suggestions present in the screenshots.",
+    "activities": [
+        "WRITING_CODE",
+        "NAVIGATING_CODE"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "DB"
+    ],
+    "programmingLanguages": [
+        "PYTHON",
+        "SQL"
+    ],
+    "toolTypes": [
+        "IDE"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 3,
+            "mouse": 2,
+            "date": "2024-06-14T10:00:24Z",
+            "windowTitle": "salesforce.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 11,
+            "mouse": 4,
+            "date": "2024-06-14T10:01:24Z",
+            "windowTitle": "? salesforce.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 7,
+            "mouse": 4,
+            "date": "2024-06-14T10:02:24Z",
+            "windowTitle": "? salesforce.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 5,
+            "mouse": 1,
+            "date": "2024-06-14T10:03:24Z",
+            "windowTitle": "? salesforce.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 25,
+            "mouse": 6,
+            "date": "2024-06-14T10:04:24Z",
+            "windowTitle": "? salesforce.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 30,
+            "mouse": 13,
+            "date": "2024-06-14T10:05:24Z",
+            "windowTitle": "? salesforce.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 21,
+            "mouse": 9,
+            "date": "2024-06-14T10:06:24Z",
+            "windowTitle": "? salesforce.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 38,
+            "mouse": 13,
+            "date": "2024-06-14T10:07:24Z",
+            "windowTitle": "? salesforce.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 27,
+            "mouse": 3,
+            "date": "2024-06-14T10:08:24Z",
+            "windowTitle": "? salesforce.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 17,
+            "mouse": 4,
+            "date": "2024-06-14T10:09:24Z",
+            "windowTitle": "? salesforce.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T10:00:00Z"
+}

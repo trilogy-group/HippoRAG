@@ -1,0 +1,309 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "meet.google.com",
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-04T20:50:05Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications including Google Chrome, Microsoft Edge, and others. System tray includes network status, sound volume, date and time display (11:50 PM, 6/4/2024), and notifications icon.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "ARR Performance Post - DD RCA on Product Issues - Google Docs",
+                                "url": "https://docs.google.com/document/d/D",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "editing toolbar visible with options for file actions, editing, view, insert, format, tools, and help. Zoom level at 100%, text format set to Calibri, font size 11, normal text style."
+                                },
+                                "content": [
+                                    {
+                                        "title": "ARR Performance Post - DD RCA on Product Issues",
+                                        "layoutDescription": "Text document layout",
+                                        "visibleText": "ARR Performance Post - DD RCA on Product Issues\n\nThe total ARR loss associated with product issues adds up to $1M.\n\n1. Delays in handling legacy backlog ($578K ARR impact)\nThe focus during the first quarter was to complete the import and reduce the maintenance backlog. The decision was to not import the maintenance backlog and instead work on the backlog that had been backfired as some of the ongoing issues were high severity ones and led to customer dissatisfaction.\n\nExamples:\nAWS Case: AWS, the largest single customer loss ($700K), cited a bug that was identified before the acquisition. The issue was raised in Nov 2021 and was resolved after completing the import & cost reduction.\nThere was another sev1 issue that was incompletely fixed by the engineering team. There was set of already paid for but not delivered work (features) that were Engineering\nLinkedIn app was not working for more than a year due to outdated API. The import was completed by Jan 17 for PostBeyond and Jan 19 for LinkedIn.\n\nImmediate Next Steps:\nContinue working through the maintenance backlog; estimating\n\nProcess Improvements:\nAll outstanding issues MUST be reviewed by BU/TPM/Eng and added to the internal bug ticketing system, along with any promised dates that are missed. All bug fixes implemented by the legacy team post acquisition MUST be reviewed as we cannot blindly rely on legacy team's deliveries.\nStart the maintenance review work in the first quarter and factor this into the annual planning. We should combine maintenance and start teams until we reduce the backlog to sensible levels.\nThis will allow everyone to focus on what is really important vs spending time on bugs - this will help with set schedules.\nIf there are plenty of bugs - this will help reducing the backlog to sensible levels.\nWe need to define some backup plans for SE7 - what the next goal will be until we decide project is 'stable' - e.g. 20 bugs opened per SE7.\n\n3. Outages or defects (346K ARR impact)\n\nMigration to Elevate (> $90K ARR impact)\n\n4. Product components not imported"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Meet - keh-vdmq-vie - Google Chrome",
+                                "url": "https://meet.google.com/keh-vdmq-v",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "conference controls visible including microphone, camera, and hang up buttons. Participant list and chat sidebar visible."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference - Meet",
+                                        "layoutDescription": "Video conference layout",
+                                        "visibleText": "Video Conference Participants:\n\n1. Noumaan Shah - visible on screen, appears focused, wearing headphones.\n2. Dragos Nut\u0103 - visible on screen, appears relaxed, wearing a t-shirt.\n\nChat:\nDragos Nut\u0103: 12:51 PM Today\n\nChat message: this decision?"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T20:55:45Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Settings, and hidden icons. Also displays the system clock showing '11:55 PM' and system date '6/24/24'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - keh-vdmq-vie - Google Chrome",
+                                "url": "meet.google.com/keh-vdmq-vie",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "UI includes back, forward, refresh, home buttons, address bar, bookmarks bar, tabs, and profile icon. Meet controls include microphone toggle, camera toggle, captions, present now, more options, hang up, chat, and participants list."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Meet Video Conference",
+                                        "layoutDescription": "Video conference layout with participant videos and chat sidebar.",
+                                        "visibleText": "Noumaan Shah (Presenting) Using AI Assist Agent What were the most important decisions I made today on Trivian? read.ai meeting notes Dragos/Nuta"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T20:58:32Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "visible: Chrome, Mail, File Explorer, Microsoft Store, Settings, and other unidentified icons. System tray includes Wi-Fi, sound, battery, and clock (11:58 PM, 6/24/24).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - keh-vdmq-vie - Google Chrome",
+                                "url": "meet.google.com/keh-vdmq-vie?authu",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Tabs visible: Gmail, Meet. Address bar, navigation buttons, and profile icon visible. Extensions visible include Google Keep, Google Tasks, and others."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference",
+                                        "layoutDescription": "Two main video feeds displayed",
+                                        "visibleText": "Noumaan Shah, Dragos Nu\u021ba"
+                                    },
+                                    {
+                                        "title": "Chat Sidebar",
+                                        "layoutDescription": "Chat interface on the right",
+                                        "visibleText": "read.ai meeting notes"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Gmail - noumaanshah@read.ai - Google Chrome",
+                                "url": "mail.google.com/chat/u/0/#chat/dm/",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Interface with sidebar and chat window."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Gmail Chat",
+                                        "layoutDescription": "Chat window open",
+                                        "visibleText": "Noumaan Shah, Rakshit Bhatt, Isabelle Adviento, EDGAR H MULONGO, George Dita, David Schwartz, Jozsef Czapovics, Firat Gomi, AWS News, CNU Q Business ProductM..., tpm reboot, Feature Line automations, Central PMs team, GFI BU/CE/TPM Managem..., XO Team Chat, CNU AI Assist - Extract Doc..., XO Candidate Support Esc..., Crossover - Upwork Sourc..., AI Coach - internal, Space Request Notifications"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Google Meet video conference, as evidenced by the screenshots showing the Google Meet interface with participants Noumaan Shah and Dragos Nut\u0103. The user is actively participating in the meeting, as indicated by the visible video feeds and the chat sidebar. The meeting appears to be focused on discussing important decisions made on a project named 'Trivian,' as seen in the chat interface.",
+        "The user is also working on a Google Docs document titled 'ARR Performance Post - DD RCA on Product Issues.' The document details the total ARR loss associated with product issues, including delays in handling legacy backlog, outages or defects, and migration to Elevate. The user is editing the document, as indicated by the visible editing toolbar and the text being formatted in Calibri, size 11.",
+        "In addition to the meeting and document editing, the user is engaged in a chat conversation on Gmail with a contact named Noumaan Shah. The chat window shows a discussion about 'Tivian - Pricing Insights,' with a document attached for review. This indicates that the user is collaborating with team members and reviewing important project documents.",
+        "Throughout the session, the user is utilizing multiple tabs in Google Chrome, including Google Meet, Google Docs, and Gmail. This multitasking behavior suggests that the user is managing various aspects of their work, from attending meetings and editing documents to communicating with team members and reviewing project-related information."
+    ],
+    "aiUseSummary": "The user is utilizing an AI Assist Agent during the Google Meet video conference. The AI tool is being used to assist with summarizing important decisions made during the meeting. This indicates that the user is leveraging AI to enhance productivity and ensure that key points from the meeting are accurately captured and documented. The AI tool's presence is confirmed by the visible 'Using AI Assist Agent' label in the Google Meet interface.",
+    "activities": [
+        "MEETING",
+        "READING_SPEC",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "DEVFACTORY_TPM_AI"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T20:50:12Z",
+            "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 21,
+            "mouse": 5,
+            "date": "2024-06-04T20:51:12Z",
+            "windowTitle": "Noumaan Shah - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/pzZb60AAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 4,
+            "mouse": 3,
+            "date": "2024-06-04T20:52:12Z",
+            "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T20:53:12Z",
+            "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T20:54:12Z",
+            "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T20:55:12Z",
+            "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T20:56:12Z",
+            "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T20:57:12Z",
+            "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-04T20:58:12Z",
+            "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T20:59:12Z",
+            "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-04T20:50:00Z"
+}

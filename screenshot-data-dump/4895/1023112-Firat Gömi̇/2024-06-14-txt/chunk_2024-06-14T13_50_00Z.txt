@@ -1,0 +1,378 @@
+{
+    "candidateId": 2027577,
+    "apps": [
+        "docs.google.com",
+        "app.read.ai",
+        "chatgpt.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T13:52:26Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Google Chrome, Microsoft Outlook, Microsoft Teams, Slack, Zoom, and other unidentified applications. Also includes system status icons like Wi-Fi, battery, clock showing '1:52 PM', and Spotlight search.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Read - Meeting Report - Recap - Google Chrome - Firat (trilogy.com)",
+                                "url": "https://firat.trilogy.com/m",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "buttons for Dismiss, Learn More, Add to Chrome; search bar; settings; copy; tags; participants; download; share"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Product Daily Check-in",
+                                        "layoutDescription": "Text and interactive elements",
+                                        "visibleText": "Product Daily Check-in\nFri, Jun 04, 2023 1:30pm \u2013 2:46pm\nRecap\nNotes Transcript\nproduct daily check-in\nSummary\nThe meeting discussed various topics related to customer engagement, product development, and team alignment. The importance of understanding customer needs and tailoring messaging to diverse customer personas was emphasized. The team explored the possibilities of using AI to generate captions and summaries that cater to various customer needs, highlighting the significance of customizing AI features to align with the specific communication style and personas of different customers. The conversation also revolved around the importance of feedback, qualitative evaluation, and understanding customer needs in driving the development and success of features.\nChapters & Topics\nDiscussion on Customer Engagement and Product Development\nAI Features and Customer Feedback\nView more\nAction Items\nGeorge Data will write up the feedback for Dragos and share it with the team.\nDragos Nita will discuss the next week's developments with the team.\nGeorge Data will push for the release of all features in one or two weeks.\nView more\nKey Questions"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Zoom",
+                        "windows": [
+                            {
+                                "title": "Zoom Meeting",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "conference window with participant video, mute, video off, share screen, participants, chat, record, reactions, end call buttons"
+                                },
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "George Data",
+                                            "expression": "Focused"
+                                        }
+                                    ]
+                                },
+                                "content": [
+                                    {
+                                        "title": "Zoom Meeting",
+                                        "layoutDescription": "Video and control buttons",
+                                        "visibleText": "Trailer\nFocused\nRecording"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Teams",
+                        "windows": [
+                            {
+                                "title": "Team Chat - Microsoft Teams",
+                                "position": "bottom right of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "window with tabs for Calls, Contacts, Contact Requests, Drafts and Sent, More; search bar; chat list"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Team Chat",
+                                        "layoutDescription": "Chat interface",
+                                        "visibleText": "Team Chat\nMelissa\nContact Calls\nContact Requests\nDrafts and Sent\nMore\nMessages\nStarred\nFirat Group Chat (Prod)\nRecent\nJive - TPM"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Finder",
+                        "windows": []
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T13:56:12Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Outlook, Microsoft Teams, and other unidentified applications. Also includes system clock showing '1:56 PM' and date 'Thu, Jun 13'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "DevFactory Mail - Pinned - High memory usage - 2.8 GB - Google Chrome - Firat (trilogy.com)",
+                                "url": "https://mail.google.com/mail",
+                                "position": "full screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "interface with tabs for Mail, Chat, Spaces, and Meet. Includes a sidebar with options such as New chat, Mail, Chat, Spaces, Meet, and more. Top bar includes search bar, profile icon, and Google apps icon."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email from George Dita",
+                                        "layoutDescription": "Email content displayed prominently in the center",
+                                        "visibleText": "Instead of trying to think how to phrase it, just put it in the 'random thoughts' category and I'll follow has the transcripts. I would try to take every meeting that we have and filter out random things said. Create a pool for product managers that are complex. You are so bent on something, that has a period in understanding, extracting information and summarizing meeting transcripts. Your task is to answer questions about the information present in the transcript. If the answer to the question is not in the transcript, say 'This information is not in the transcript', or 'No more info available'. When possible, add your own notes from the knowledge that are not relevant to the questions when answering it. Only reply to questions where you are sure. And find just ask 'What ideas or suggestions did 6h ago have with respect to the following topics: User suggestions, Messaging, Ads, Authorization, Notifications, Widget, UX, Job, Office, Whispers of Jobs, Milestones done. Have a respectful, thoughtful, and objective chat with respect to the objectives and the job of the product manager, managing the tasks."
+                                    },
+                                    {
+                                        "title": "Upcoming meeting in 4 min",
+                                        "layoutDescription": "Notification at the bottom of the email",
+                                        "visibleText": "Upcoming meeting in 4 min."
+                                    }
+                                ]
+                            },
+                            {
+                                "appName": "Outreach",
+                                "windows": [
+                                    {
+                                        "title": "Call List - Outreach",
+                                        "url": "https://app.outreach.io/calls/list",
+                                        "position": "right half of the screen",
+                                        "isActive": false,
+                                        "uiElements": {
+                                            "details": "interface with tabs for Calls, Mailbox, and more. Includes a sidebar with options such as Search, User, and Add filter."
+                                        },
+                                        "content": [
+                                            {
+                                                "title": "Call List",
+                                                "layoutDescription": "List of calls displayed in a table format",
+                                                "visibleText": "Total 8 calls, 1 Answered, 2 No Answer, 2 Left Voicemail, 3 Bad Number. My calls v User v 0 v Add filter. Sort by Time & Date v. Fiaz Gani 1-701-371-7520 10:00 PM Completed (0.34) Demo C... Answered - OBS Rebecca C... Fiaz Gani 1-701-371-7520 9:19 PM Cancelled Fiaz Gani 1-701-371-7520 9:17 PM Completed (0.39) Demo C... Left Voicemail Robert Hen... Fiaz Gani +1 919-555-0128 2:41 PM Completed (0.26) Demo C... Bad Number Fiaz Gani +44 200 1230 1:47 PM Completed (0.48) Demo C... Bad Number wanted to ... Fiaz Gani +44 7509 950538 1:38 PM No Answer Fiaz Gani +1 732-425-8310 1:29 PM Completed (0.41) Demo C... Didn't Ans..."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T13:59:37Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Python, Automate, MySQL, Guides, and a clock showing 08:21 AM",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "ChatGPT - Google Chrome - Firat (trilogy.com)",
+                                "url": "https://chat.openai.com/chat",
+                                "position": "left side of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "address bar, tabs, bookmarks bar, vertical scroll bar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Create",
+                                        "layoutDescription": "left side of the screen",
+                                        "visibleText": "What should be emphasized or avoided in the responses?\n\nwhen a meeting transcript is attached, you should always analyze it and make Q&A style answers, and always answer the questions below from the transcript's copy.\n\n1. What are all the ideas discussed in this call?\n2. What are the different approaches discussed in this call?\n3. What are all the decisions taken?\n4. What advice did somebody in the team give somebody else?\n5. What ideas or suggestions did heroes have with respect to the following topics or subjects: Messenger, Monitor, AdvocateHub, Postpony, Influitive, Jive, CQpit\n6. What ideas or suggestions does Dragnos have with respect to the following topics or subjects:\n- Messenger: Dragnos discussed the difficulty of comparing Messenger with Influitive due to different user bases and engagement levels.\n- Monitor: No specific mention of Monitor.\n- AdvocateHub: Dragnos suggested creating engaging challenges and using customer feedback to iterate"
+                                    },
+                                    {
+                                        "title": "Preview",
+                                        "layoutDescription": "right side of the screen",
+                                        "visibleText": "To prioritize iterative improvements based on customer feedback over new feature development.\nTo deploy CNU for rapid POC development and validation with customers.\nTo adopt a structured approach for the next quarter, emphasizing customer engagement and feedback.\nTo assist customers with product upgrades to maintain ABR.\n\nWhat advice did somebody in the team give somebody else?\nDragnos emphasized the importance of iterating on customer feedback and refining product features rather than rushing into build new ones.\nThe suggestion to engage with customers early in the quarter to validate ideas before committing to development.\nAdvice on using educational videos or videos to improve customer engagement and understanding of new features."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Outreach",
+                        "windows": [
+                            {
+                                "title": "Call List - Outreach",
+                                "url": "https://web.outreach.io/calls/list",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "address bar, tabs, bookmarks bar, vertical scroll bar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Call List",
+                                        "layoutDescription": "Full screen",
+                                        "visibleText": "Total 8\nAnswered 1\nNo Answer 2\nLeft Voicemail 1\nBad Number 1\n\nMy calls\n\nTime & Date Prospect Phone Duration Purpose Disposition Notes\n1. Firat Genc +1 701-371-7520 10:00 PM Completed (0:34) Demo (C...) Answered - OBS... Rebecca C...\n2. Firat Genc +1 701-371-7520 9:39 PM Canceled Demo (C...) \n3. Robert Hennessy +1 701-371-8662 9:37 PM Canceled Demo (C...) Left Voicemail Robert Hen...\n4. Firat Genc +1 319-610-9588 4:41 PM Completed (0:39) Demo (C...) Answered - OBS... \n5. Firat Genc +44 2000 1310 1:47 PM Completed (0:48) Demo (C...) Answered - OBS... wanted to see...\n6. Firat Genc +44 7900 505030 1:38 PM No Answer Demo (C...) Didn't Ans...\n7. Firat Genc +1 732-425-8130 1:29 PM Completed (0:41) Demo (C...) Answered - OBS... \n8. Firat Genc +1 732-425-8130 1:29 PM Completed (0:41) Demo (C...) Answered - OBS... "
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in reviewing a meeting report on the Read platform. The report titled 'Product Daily Check-in' includes a summary of the meeting, chapters and topics discussed, action items, and key questions. The user is likely analyzing the content to understand customer engagement, product development, and team alignment. The action items indicate tasks assigned to George Data and Dragos Nita, suggesting a follow-up on feedback and feature releases.",
+        "The user is also seen interacting with Gmail, specifically reading an email from George Dita. The email discusses strategies for summarizing meeting transcripts and extracting relevant information. The user is likely preparing for an upcoming meeting, as indicated by the notification at the bottom of the email. This activity involves understanding the requirements and preparing responses for the meeting.",
+        "The user is utilizing ChatGPT for generating Q&A style answers from a meeting transcript. The user is asking ChatGPT to analyze the transcript and provide detailed responses to specific questions about the meeting. This indicates the user's reliance on AI tools for summarizing and extracting key information from meeting discussions, which helps in preparing detailed reports and responses.",
+        "The user is managing a call list on the Outreach platform. The call list includes details of various calls made, their status, duration, and purpose. The user is likely organizing and reviewing the outcomes of these calls, which are primarily demo calls. This activity involves tracking communication with prospects and ensuring follow-ups are conducted as needed."
+    ],
+    "aiUseSummary": "The user utilizes AI tools extensively in their workflow. They interact with ChatGPT to generate Q&A style answers from meeting transcripts, focusing on extracting key information and summarizing discussions. The user asks ChatGPT specific questions about the meeting, such as ideas discussed, decisions taken, and suggestions made. This use of AI helps the user efficiently prepare detailed reports and responses, enhancing productivity and ensuring comprehensive coverage of meeting content.",
+    "activities": [
+        "READING_SPEC",
+        "EMAIL",
+        "RESEARCH",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "OPENAI_CHATGPT"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "READING_SPEC",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T13:50:43Z",
+            "windowTitle": " MacStadium Instances List - Google Sheets - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/spreadsheets/d/1r5cUttb_69wy4Th8qR-PtBBvMS45EtJzeH8yj_YRA1o/edit#gid=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T13:51:43Z",
+            "windowTitle": " MacStadium Instances List - Google Sheets - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/spreadsheets/d/1r5cUttb_69wy4Th8qR-PtBBvMS45EtJzeH8yj_YRA1o/edit#gid=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 16,
+            "mouse": 14,
+            "date": "2024-06-14T13:52:43Z",
+            "windowTitle": " Read - Meeting Report - Recap - Audio playing - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "app.read.ai",
+            "visitingUrl": "https://app.read.ai/analytics/meetings/01J0B4M97QKSCNYAHJCQRJ1ET5?search=product+daily+check-in&section=notes",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 6,
+            "date": "2024-06-14T13:53:43Z",
+            "windowTitle": " Read - Meeting Report - Recap - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "app.read.ai",
+            "visitingUrl": "https://app.read.ai/analytics/meetings/01J0B4M97QKSCNYAHJCQRJ1ET5?search=product+daily+check-in&section=transcript",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 10,
+            "mouse": 2,
+            "date": "2024-06-14T13:54:43Z",
+            "windowTitle": " ChatGPT - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "chatgpt.com",
+            "visitingUrl": "https://chatgpt.com/gpts/editor/g-wPxpbGewo",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 197,
+            "mouse": 4,
+            "date": "2024-06-14T13:55:43Z",
+            "windowTitle": " Read - Meeting Report - Recap - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "app.read.ai",
+            "visitingUrl": "https://app.read.ai/analytics/meetings/01J0B4M97QKSCNYAHJCQRJ1ET5?search=product+daily+check-in&section=transcript",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 31,
+            "mouse": 7,
+            "date": "2024-06-14T13:56:43Z",
+            "windowTitle": " ChatGPT - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "chatgpt.com",
+            "visitingUrl": "https://chatgpt.com/gpts/editor/g-wPxpbGewo",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 66,
+            "mouse": 4,
+            "date": "2024-06-14T13:57:43Z",
+            "windowTitle": " ChatGPT - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "chatgpt.com",
+            "visitingUrl": "https://chatgpt.com/gpts/editor/g-wPxpbGewo",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 54,
+            "mouse": 1,
+            "date": "2024-06-14T13:58:43Z",
+            "windowTitle": " ChatGPT - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "chatgpt.com",
+            "visitingUrl": "https://chatgpt.com/gpts/editor/g-wPxpbGewo",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 6,
+            "date": "2024-06-14T13:59:43Z",
+            "windowTitle": " ChatGPT - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "chatgpt.com",
+            "visitingUrl": "https://chatgpt.com/gpts/editor/g-wPxpbGewo",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T13:50:00Z"
+}

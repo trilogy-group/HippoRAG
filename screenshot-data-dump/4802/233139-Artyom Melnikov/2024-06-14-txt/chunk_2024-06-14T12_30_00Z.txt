@@ -1,0 +1,291 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "chrome",
+        "github.com",
+        "webstorm64"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T12:31:34Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications including Edge, Chrome, File Explorer, and others. System tray visible with notifications, sound, network, and clock displaying '14:31 06/14/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Google Chat - Vinodh Talapaneni - Chat",
+                                "url": "https://mail.google.com/chat/u/0/#ch",
+                                "position": "left side of the screen, occupying approximately two-thirds of the screen width",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Chat window with a list of contacts on the left and chat messages on the right"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat with Vinodh Talapaneni",
+                                        "layoutDescription": "Split view with contacts list and chat messages",
+                                        "visibleText": "Vinodh Talapaneni\nNoted I will try with this. Thanks you \ud83d\ude0a\nWelcome\nAny luck?\nHistory is on"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "GitHub - Create a Back-End Endpoint to Pull Pipeline Metadata #457",
+                                "url": "https://github.com/trilogy-group/hp-",
+                                "position": "right side of the screen, occupying approximately one-third of the screen width",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "GitHub pull request page with file changes displayed"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Pull Request #457",
+                                        "layoutDescription": "Code review interface with file navigation on the left",
+                                        "visibleText": "FEATURE:270: Create a Back-End Endpoint to Pull Pipeline Metadata #457\nChanges from all commits\nFile Filter\nViewed\nReview changes\napi-proxy\npackage-lock.json\npackage.js token\nCheck warnings\nsrc/pipeline-metadata.ts\n... (file content continues with code and comments)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T12:36:10Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, File Explorer, Microsoft Edge, Sublime Text, Visual Studio Code, and system tray including network, sound, and clock",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "auth_bfq-verification grading-bot indeed-xml-generator interview-bot stats-tracker",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Selection, Find, View, Goto, Tools, Project, Preferences, Help"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Text Content",
+                                        "layoutDescription": "Single line of text",
+                                        "visibleText": "auth_bfq-verification grading-bot indeed-xml-generator interview-bot stats-tracker"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T12:37:28Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Microsoft Edge, Windows Terminal, File Explorer, Visual Studio Code, Notepad++, Adobe Reader, a folder icon, Google Chrome, and several unidentified applications. Also includes system status icons for network, sound, and clock displaying '14:37'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@852f61b - Google Chrome",
+                                "url": "https://github.com/trilogy-group/xo-hiring-monorepo",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "navigation bar with back, forward, refresh, and home buttons, address bar, bookmarks bar with several bookmarks, tabs bar with multiple open tabs, and window control buttons (minimize, maximize, close)"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Deploy environment on push #739",
+                                        "layoutDescription": "Structured layout with navigation and content sections",
+                                        "visibleText": "trilogy-group / xo-hiring-monorepo\nCode Pull requests Actions Security Insights Settings\nDeploy environment on push\nDeploy environment on push #739\nSummary Manually triggered 1 minute ago\n@artem-melnikov \u00b7 852f61b \u00b7 Status: In progress\nJobs\nbuild\nRun details\nUsage\nWorkflow file\ndeploy-env-on-push.yml\non:workflow_dispatch 5s"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a code review activity on GitHub, specifically reviewing a pull request titled 'Create a Back-End Endpoint to Pull Pipeline Metadata #457'. The user is examining changes in various files such as 'api-proxy', 'package-lock.json', and 'pipeline-metadata.ts'. This indicates a focus on backend development, likely involving API endpoints and metadata handling.",
+        "The user is also seen chatting with a team member named Vinodh Talapaneni on Google Chat. The conversation involves discussing a query related to product data, with Vinodh acknowledging the provided query and expressing intent to try it out. This interaction suggests collaboration and troubleshooting within the team.",
+        "Another screenshot shows the user working in Visual Studio Code with a project involving multiple components such as 'auth_bfq-verification', 'grading-bot', 'indeed-xml-generator', 'interview-bot', and 'stats-tracker'. This indicates the user is managing or developing multiple backend services or microservices.",
+        "The user is also monitoring a GitHub Actions workflow for deploying an environment on push. The workflow is in progress, and the user is likely ensuring that the deployment process is running smoothly. This activity is crucial for continuous integration and deployment (CI/CD) practices."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in code review, chatting with team members, and monitoring deployment processes without any visible interaction with AI tools.",
+    "activities": [
+        "REVIEWING_CODE",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "IAC"
+    ],
+    "programmingLanguages": [
+        "TYPESCRIPT",
+        "SQL"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "REVIEWING_CODE",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T12:30:17Z",
+            "windowTitle": "Google Chat - Vinodh Talapaneni - Chat",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T12:31:17Z",
+            "windowTitle": "Google Chat - Vinodh Talapaneni - Chat",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T12:32:17Z",
+            "windowTitle": "Google Chat - Vinodh Talapaneni - Chat",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T12:33:17Z",
+            "windowTitle": "Google Chat - Vinodh Talapaneni - Chat",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-14T12:34:17Z",
+            "windowTitle": "feat(HIRE-270): Create a Back-end API Endpoint to Update Pipeline Metadata by vinodhzamstars ? Pull Request #457 ? trilogy-group/xo-hiring-monorepo - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/pull/457/files",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T12:35:17Z",
+            "windowTitle": "feat(HIRE-270): Create a Back-end API Endpoint to Update Pipeline Metadata by vinodhzamstars ? Pull Request #457 ? trilogy-group/xo-hiring-monorepo - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/pull/457/files",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 27,
+            "mouse": 41,
+            "date": "2024-06-14T12:36:17Z",
+            "windowTitle": "Deploy environment on push ? Workflow runs ? trilogy-group/xo-hiring-monorepo - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/workflows/deploy-env-on-push.yml",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 9,
+            "date": "2024-06-14T12:37:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@852f61b - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9516221108",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 3,
+            "date": "2024-06-14T12:38:17Z",
+            "windowTitle": "xo-hiring-monorepo ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T12:39:17Z",
+            "windowTitle": "xo-hiring-monorepo ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-14T12:30:00Z"
+}

@@ -1,0 +1,675 @@
+{
+  "candidateId": 1444536,
+  "apps": [
+    "pythonw",
+    "chatgpt.com",
+    "GitHubDesktop",
+    "Code"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T10:32:42Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Windows Terminal, and system tray with network, sound, and battery status indicators, time display, and a PRE label indicating a preview version of Windows.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Salesforce SOQL Query Python - Google Chrome",
+                "url": "chatgpt.com/c/0dda060a-caa8-47b5-a",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Address bar, tabs, bookmarks bar, vertical sidebar on the left, and main content area"
+                },
+                "content": [
+                  {
+                    "title": "Salesforce SOQL Query Python",
+                    "layoutDescription": "Text and code snippet visible",
+                    "visibleText": "# Salesforce connection\nsf = Salesforce(username=username, password=password, security_token=security_token)\n\n# SOQL query\nquery = 'SELECT Id, Name FROM Account LIMIT 10'\n\n# Execute the query\nresults = sf.query(query)\n\n# Print results\nfor record in results['records']:\n print(record['Id'], record['Name'])\n\nKey Points:\n• Username, Password, and Security Token: You need to replace 'your_username', 'your_password', and 'your_security_token' with your actual Salesforce credentials. The security token is typically required when accessing Salesforce from an untrusted network.\n• Query: The `query` variable holds your SOQL query string. You can modify it to fit your specific data retrieval needs.\n\nHow to fetch next portion of results if query returned 2000 records and"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T10:34:08Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Search, Edge, File Explorer, Windows Terminal, Visual Studio Code, Word, Excel, PowerPoint, OneNote, Outlook, Teams, and a notification area with system clock showing '11:34:10' and date '14/06/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Browser",
+            "windows": [
+              {
+                "title": "SF Prod",
+                "position": "foreground",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Browser interface"
+                },
+                "content": [
+                  {
+                    "title": "Web Page",
+                    "layoutDescription": "Browser interface",
+                    "visibleText": "URL visible in address bar"
+                  }
+                ]
+              },
+              {
+                "title": "Salesforce",
+                "position": "background",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Browser interface"
+                },
+                "content": [
+                  {
+                    "title": "Salesforce SOQL Query Python",
+                    "layoutDescription": "Browser interface",
+                    "visibleText": "script visible"
+                  }
+                ]
+              },
+              {
+                "title": "My Pip",
+                "position": "background",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Browser interface"
+                },
+                "content": [
+                  {
+                    "title": "Python Script",
+                    "layoutDescription": "Text editor",
+                    "visibleText": "Python code visible, includes comments and SQL queries"
+                  }
+                ]
+              },
+              {
+                "title": "Lambda",
+                "position": "background",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Browser interface"
+                },
+                "content": [
+                  {
+                    "title": "Python IDE",
+                    "layoutDescription": "Code editor",
+                    "visibleText": "Python script visible, includes function definitions and data processing code"
+                  }
+                ]
+              },
+              {
+                "title": "Python",
+                "position": "background",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Browser interface"
+                },
+                "content": [
+                  {
+                    "title": "cs.py - Test - Visual Studio",
+                    "layoutDescription": "Code editor",
+                    "visibleText": "Python script visible, includes import statements and function definitions"
+                  }
+                ]
+              },
+              {
+                "title": "7. Input",
+                "position": "background",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Browser interface"
+                },
+                "content": [
+                  {
+                    "title": "GitHub Desktop",
+                    "layoutDescription": "Version control interface",
+                    "visibleText": "Repository details visible, includes commit history"
+                  }
+                ]
+              },
+              {
+                "title": "Workb",
+                "position": "background",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Browser interface"
+                },
+                "content": [
+                  {
+                    "title": "Notepad",
+                    "layoutDescription": "Text editor",
+                    "visibleText": "Error message visible, text includes 'Could not fetch resource at httpsco'"
+                  }
+                ]
+              },
+              {
+                "title": "Home",
+                "position": "background",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Browser interface"
+                },
+                "content": [
+                  {
+                    "title": "Notepad",
+                    "layoutDescription": "Text editor",
+                    "visibleText": "Text visible, includes details about a request and scoring"
+                  }
+                ]
+              },
+              {
+                "title": "New Tab",
+                "position": "background",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Browser interface"
+                },
+                "content": [
+                  {
+                    "title": "Notepad",
+                    "layoutDescription": "Text editor",
+                    "visibleText": "URL visible"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Spyder",
+            "windows": [
+              {
+                "title": "Spyder",
+                "position": "background",
+                "isActive": false,
+                "uiElements": {
+                  "details": "IDE interface"
+                },
+                "content": [
+                  {
+                    "title": "Python IDE",
+                    "layoutDescription": "Code editor",
+                    "visibleText": "Python script visible, includes function definitions and data processing code"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Visual Studio",
+            "windows": [
+              {
+                "title": "cs.py - Test - Visual Studio",
+                "position": "background",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Studio interface"
+                },
+                "content": [
+                  {
+                    "title": "Visual Studio",
+                    "layoutDescription": "Code editor",
+                    "visibleText": "Python script visible, includes import statements and function definitions"
+                  }
+                ]
+              },
+              {
+                "title": ".env - master-assistant - Visual Studio",
+                "position": "background",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Studio interface"
+                },
+                "content": [
+                  {
+                    "title": "Visual Studio",
+                    "layoutDescription": "Code editor",
+                    "visibleText": "Environment variables visible, includes API keys and configurations"
+                  }
+                ]
+              },
+              {
+                "title": "cognito-users-st... - Visual Studio",
+                "position": "background",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Studio interface"
+                },
+                "content": [
+                  {
+                    "title": "Visual Studio",
+                    "layoutDescription": "Code editor",
+                    "visibleText": "Code visible, includes AWS Cognito user management functions"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "GitHub Desktop",
+            "windows": [
+              {
+                "title": "GitHub Desktop",
+                "position": "background",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Desktop interface"
+                },
+                "content": [
+                  {
+                    "title": "GitHub Desktop",
+                    "layoutDescription": "Version control interface",
+                    "visibleText": "Repository details visible, includes commit history"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Notepad",
+            "windows": [
+              {
+                "title": "Could not fetch resource at httpsco - Notepad",
+                "position": "background",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Text editor interface"
+                },
+                "content": [
+                  {
+                    "title": "Notepad",
+                    "layoutDescription": "Text editor",
+                    "visibleText": "Error message visible, text includes 'Could not fetch resource at httpsco'"
+                  }
+                ]
+              },
+              {
+                "title": "In my request I asked if the score - Notepad",
+                "position": "background",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Text editor interface"
+                },
+                "content": [
+                  {
+                    "title": "Notepad",
+                    "layoutDescription": "Text editor",
+                    "visibleText": "Text visible, includes details about a request and scoring"
+                  }
+                ]
+              },
+              {
+                "title": "httpswww.crossover.comrol.. - Notepad",
+                "position": "background",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Text editor interface"
+                },
+                "content": [
+                  {
+                    "title": "Notepad",
+                    "layoutDescription": "Text editor",
+                    "visibleText": "URL visible"
+                  }
+                ]
+              },
+              {
+                "title": "null - Notepad",
+                "position": "background",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Text editor interface"
+                },
+                "content": [
+                  {
+                    "title": "Notepad",
+                    "layoutDescription": "Text editor",
+                    "visibleText": "Text visible, includes the word 'null'"
+                  }
+                ]
+              },
+              {
+                "title": "Application Hanging - Notepad",
+                "position": "background",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Text editor interface"
+                },
+                "content": [
+                  {
+                    "title": "Notepad",
+                    "layoutDescription": "Text editor",
+                    "visibleText": "Error message visible, text includes 'Application hanging'"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Total Commander",
+            "windows": [
+              {
+                "title": "Total Commander",
+                "position": "foreground",
+                "isActive": true,
+                "uiElements": {
+                  "details": "File manager interface"
+                },
+                "content": [
+                  {
+                    "title": "File Manager",
+                    "layoutDescription": "Dual-pane file manager",
+                    "visibleText": "File lists visible, includes various file and folder names"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Google Cloud",
+            "windows": [
+              {
+                "title": "Developer Console - Google Cloud",
+                "position": "background",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Cloud interface"
+                },
+                "content": [
+                  {
+                    "title": "Google Cloud Console",
+                    "layoutDescription": "Cloud management interface",
+                    "visibleText": "Google Cloud project details visible, includes resource usage and configurations"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Command Prompt",
+            "windows": [
+              {
+                "title": "Administrator: Command Prompt",
+                "position": "background",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Command Prompt interface"
+                },
+                "content": [
+                  {
+                    "title": "Command Prompt",
+                    "layoutDescription": "Command line interface",
+                    "visibleText": "Command line inputs visible, includes system commands and outputs"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Outlook",
+            "windows": [
+              {
+                "title": "Dmitrii Shutenkov is inviting... - Outlook",
+                "position": "background",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Client interface"
+                },
+                "content": [
+                  {
+                    "title": "Outlook",
+                    "layoutDescription": "Email client",
+                    "visibleText": "Email visible, includes invitation details and sender information"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "WorkSmart",
+            "windows": [
+              {
+                "title": "WorkSmart",
+                "position": "background",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Monitoring tool interface"
+                },
+                "content": [
+                  {
+                    "title": "WorkSmart",
+                    "layoutDescription": "Monitoring tool",
+                    "visibleText": "User name 'Dmitrii Shutenkov' and time '2h 30m' visible"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T10:39:26Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, File Explorer, Microsoft Edge, and other unidentified applications. Also includes system tray with network, sound, and battery status icons, and a clock displaying '11:39:27 14/06/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "List",
+            "windows": [
+              {
+                "title": "List (2473 elements)",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "contains a menu bar with file, edit, view, search, run, debug, conda, tools, and help menus. Also includes a toolbar with icons for save, cut, copy, paste, undo, redo, run, and other functions."
+                },
+                "content": [
+                  {
+                    "title": "Data View",
+                    "layoutDescription": "Table view with multiple columns",
+                    "visibleText": "0 OrderedDict 11 OrderedDict object of collections module\n1 OrderedDict 11 OrderedDict object of collections module\n2 OrderedDict 11 OrderedDict object of collections module\n3 OrderedDict 11 OrderedDict object of collections module\n4 OrderedDict 11 OrderedDict object of collections module\n5 OrderedDict 11 OrderedDict object of collections module\n6 OrderedDict 11 OrderedDict object of collections module\n7 OrderedDict 11 OrderedDict object of collections module\n8 OrderedDict 11 OrderedDict object of collections module\n9 OrderedDict 11 OrderedDict object of collections module\n10 OrderedDict 11 OrderedDict object of collections module\n11 OrderedDict 11 OrderedDict object of collections module\n12 OrderedDict 11 OrderedDict object of collections module\n13 OrderedDict 11 OrderedDict object of collections module\n14 OrderedDict 11 OrderedDict object of collections module\n15 OrderedDict 11 OrderedDict object of collections module\n16 OrderedDict 11 OrderedDict object of collections module\n17 OrderedDict 11 OrderedDict object of collections module\n18 OrderedDict 11 OrderedDict object of collections module\n19 OrderedDict 11 OrderedDict object of collections module"
+                  },
+                  {
+                    "title": "Detailed Data View",
+                    "layoutDescription": "Detailed view of selected item",
+                    "visibleText": "0 - Dictionary (11 elements)\nKey Type Size Value\nAccountId str 18 0011j000003EM8qIAG\nAdvertised_Title_c str 12 VP of Design\nattributes OrderedDict 2 OrderedDict object of collections module\nCampaignId str 18 7011j000000kuyIAA\nCandidate_Country_c str 2 ke\nCCAT_Score_c float 1 0.0\nCreatedDate str 28 2024-05-26T19:26:02.000+0000\nId str 18 0061j000002uHyMIAU\nIs_Active_Stage_c str 3 BfQ"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in research activities, as evidenced by the open browser tab on chatgpt.com, where they are viewing a page titled 'Salesforce SOQL Query Python'. The content includes a Python script for connecting to Salesforce and executing SOQL queries. This indicates that the user is likely looking for information on how to interact with Salesforce using Python.",
+    "The user is also navigating through various applications and tools. The taskbar shows icons for multiple applications, including Visual Studio Code, GitHub Desktop, and Spyder. This suggests that the user is switching between different development environments and tools, possibly to manage different aspects of their project.",
+    "In one of the screenshots, the user is seen using Total Commander, a file manager application. The dual-pane interface shows various files and folders, indicating that the user is organizing or accessing project files. This activity is crucial for managing code and resources efficiently.",
+    "Another screenshot shows the user working with a data view application, displaying a table with multiple columns and rows. The detailed view of a selected item reveals various data attributes, such as AccountId, Advertised_Title_c, and CCAT_Score_c. This suggests that the user is analyzing or processing data, likely as part of their backend development tasks.",
+    "The user is also seen using GitHub Desktop, which indicates that they are involved in version control activities. The repository details and commit history visible in the screenshot suggest that the user is reviewing code changes or managing their codebase."
+  ],
+  "aiUseSummary": "The user is utilizing ChatGPT for research purposes. They are viewing a page on chatgpt.com that provides a Python script for connecting to Salesforce and executing SOQL queries. The content includes detailed instructions and key points about the script, indicating that the user is seeking guidance on how to perform specific tasks with Salesforce using Python. This use of AI helps the user quickly find relevant information and enhances their productivity by providing immediate answers to their queries.",
+  "activities": [
+    "RESEARCH",
+    "NAVIGATING_CODE",
+    "REVIEWING_CODE"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "DB"
+  ],
+  "programmingLanguages": [
+    "PYTHON",
+    "SALESFORCE"
+  ],
+  "toolTypes": [
+    "IDE",
+    "DEVELOPMENT_UTILITIES",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [
+    "OPENAI_CHATGPT"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "RESEARCH",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 5,
+      "mouse": 10,
+      "date": "2024-06-14T10:30:24Z",
+      "windowTitle": "Spyder",
+      "processName": "pythonw",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 7,
+      "mouse": 8,
+      "date": "2024-06-14T10:31:24Z",
+      "windowTitle": "Spyder",
+      "processName": "pythonw",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 39,
+      "mouse": 9,
+      "date": "2024-06-14T10:32:24Z",
+      "windowTitle": "Salesforce SOQL Query Python - Google Chrome",
+      "processName": "chatgpt.com",
+      "visitingUrl": "chatgpt.com/c/0dda060a-caa8-47b5-acfb-08cca56a5dd5",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 63,
+      "mouse": 1,
+      "date": "2024-06-14T10:33:24Z",
+      "windowTitle": "Salesforce SOQL Query Python - Google Chrome",
+      "processName": "chatgpt.com",
+      "visitingUrl": "chatgpt.com/c/0dda060a-caa8-47b5-acfb-08cca56a5dd5",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 6,
+      "mouse": 5,
+      "date": "2024-06-14T10:34:24Z",
+      "windowTitle": "GitHub Desktop",
+      "processName": "GitHubDesktop",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 3,
+      "mouse": 20,
+      "date": "2024-06-14T10:35:24Z",
+      "windowTitle": "? salesforce.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 57,
+      "mouse": 10,
+      "date": "2024-06-14T10:36:24Z",
+      "windowTitle": "? salesforce.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 29,
+      "mouse": 18,
+      "date": "2024-06-14T10:37:24Z",
+      "windowTitle": "? salesforce.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 26,
+      "mouse": 11,
+      "date": "2024-06-14T10:38:24Z",
+      "windowTitle": "Spyder",
+      "processName": "pythonw",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 14,
+      "date": "2024-06-14T10:39:24Z",
+      "windowTitle": "Spyder",
+      "processName": "pythonw",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-14T10:30:00Z"
+}

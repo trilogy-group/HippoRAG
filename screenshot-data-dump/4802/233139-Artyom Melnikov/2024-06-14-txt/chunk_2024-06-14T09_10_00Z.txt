@@ -1,0 +1,278 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "webstorm64"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T09:10:17Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time as 11:40 AM and date as 2024-06-14. Network, sound, and battery status icons are visible.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "amplify-helper.ts - lambda-cdk-infra - Visual Studio Code",
+                                "url": null,
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "menu bar with options like File, Edit, View, Go, Run, Terminal, Help. Sidebar with explorer showing project files. Bottom bar showing terminal output."
+                                },
+                                "content": [
+                                    {
+                                        "title": "File Explorer",
+                                        "layoutDescription": "Vertical list",
+                                        "visibleText": "lambda-cdk-infra\n.github\nnode_modules\npackage.json\nREADME.md"
+                                    },
+                                    {
+                                        "title": "Terminal Output",
+                                        "layoutDescription": "Bottom bar",
+                                        "visibleText": "npm fund for details\n51 vulnerabilities (7 moderate, 43 high, 1 critical)\nTo address issues that do not require attention, run:\nnpm audit fix\nTo address all issues (including breaking changes), run:\nnpm audit fix --force\nRun npm audit for details\nProcess finished with exit 0"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T09:14:27Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Visual Studio Code, File Explorer, and other unidentified applications. Also includes system clock showing '11:24 AM' and date '6/14/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "lambda-cdk-infra | workspace/Lambda/lambda-cdk-infra",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs for 'stack-utils.ts', 'models.ts', 'aws-configs.ts'. Active tab is 'stack-utils.ts'. Includes sidebar with file explorer showing directories and files. Bottom bar shows terminal output 'Process finished with exit code 0'."
+                                },
+                                "content": [
+                                    {
+                                        "title": "stack-utils.ts",
+                                        "layoutDescription": "editor with code",
+                                        "visibleText": "export class StackUtils {\n static async describeStack(stackName: string, prioritizeExportName: boolean = true): Promise<StackDescription> {\n const client = a CloudFormationClient();\n const command = a DescribeStacksCommand({ input: { StackName: stackName } });\n\n const response: SO = await client.send(command);\n\n if (!response.Stacks?.length) {\n throw an Error('Stack not found');\n }\n\n the description = response.Stacks[0];\n the result: StackDescription = {\n stackId: description.StackId,\n tags: description.Tags?.map((callback: Tag => it.Key ?? '')).toString(),\n outputs: (description.outputs.map((item: Output => item.OutputValue)).toString()\n };\n\n return result;\n }\n}"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T09:18:35Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Chrome, Visual Studio Code, a folder, and other unidentified applications. Also includes system clock showing '11:18' and system tray with network, sound, and notifications icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "AWS SDK for JavaScript v3 - Google Chrome",
+                                "url": "https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Navigation bar with back, forward, refresh, and home buttons, address bar, bookmarks bar, and multiple tabs open. One tab is active with the title 'AWS SDK for JavaScript v3'."
+                                },
+                                "content": [
+                                    {
+                                        "title": "AWS SDK for JavaScript v3",
+                                        "layoutDescription": "Web page layout with navigation and content sections",
+                                        "visibleText": "Getting Started\nIntroduction\nInstallation\nContributing Guides\nMigrating From V2\nReferences\nLibraries\nPackages\nServices\n* cloudformation\n* dynamodb\n* ec2\n* iam\n* lambda\n* s3\n* accessoryanalyzer\n* account\n* acm\n* acm-pca\n* amp\n* amplify\n* amplifybackend\n* amplifybuilder\n* api-gateway\n* api-gateway-managementapi\n* api-gatewayv2\n* app-mesh\n* appconfig\n* appconfigdata\n* appfabric\n* appflow\n* appintegrations\n* application-auto-scaling\n* application-discovery-service\n* application-insights\n* application-signals\nNavigation Guide\nYou are on a Cognito Identity Provider (operation) page with structural examples. Use the navigation breadcrumb if you would like to return to the Client landing page.\nHome > aws-sdk/client-cognito-identity-provider > Client > AdminGetUserCommand\nAdminGetUserCommand\nGets the specified user by user name in a user pool as an administrator. Works on any user.\nAmazon Cognito evaluates Identity and Access Management (IAM) policies in requests for this API operation. For this operation, you must use IAM credentials to authorize requests, and you must grant yourself the corresponding IAM permission in a policy.\nLearn more\n* Signing Amazon Web Services API Requests\n* Using the Amazon Cognito user pools API and user pool endpoints\nExample Syntax\nUse a bare-bones client and the command you need to make an API call.\nimport { CognitoIdentityProviderClient, AdminGetUserCommand } from 'aws-sdk/client-cognito-identity-provider';\n// ES Modules export\nimport * as CognitoIdentityProvider from 'aws-sdk/client-cognito-identity-provider';\n// CommonJS export\nconst client = new CognitoIdentityProviderClient(config);\nconst input = { Username: 'STRING_VALUE', required\nconst command = new AdminGetUserCommand(input);\nconst response = await client.send(command);\n// If additional attributes are required\n// Username: 'STRING_VALUE', required\n// UserAttributes: [{\n// Name: 'STRING_VALUE', required\n// Value: 'STRING_VALUE', required\n// }],\n// DesiredDeliveryMediums: ['SMS', 'EMAIL'],\n// ForceAliasCreation: false,\n// MessageAction: 'RESEND', 'SUPPRESS',\n// UserStatus: 'UNCONFIRMED', 'CONFIRMED', 'ARCHIVED', 'UNKNOWN', 'RESET_REQUIRED', 'FORCE_CHANGE_PASSWORD', 'EXTERNAL_PROVIDER',\n// UserCreateDate: new Date('TIMESTAMP'),\n// UserLastModifiedDate: new Date('TIMESTAMP'),\n// Enabled: true,\n// MFAEnabled: false,\nAdminGetUserCommand Input\nSee AdminGetUserCommand input for more details\nParameter\nType\nDescription\n* UserId\nRequired\nundefined\n* Username\nRequired\nundefined\nHow to Call the Command\nSee How to Call the Command for more details"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in writing code within the WebStorm IDE. They are working on a project named 'lambda-cdk-infra' and have multiple files open, including 'amplify-helper.ts' and 'stack-utils.ts'. The code involves AWS CloudFormation and Amplify stacks, indicating backend development tasks. The user is also addressing TypeScript errors and migrating code to AWS SDK v3, as suggested by the AI tool embedded in the IDE.",
+        "The user is also performing research activities. They have a Chrome browser open with the AWS SDK for JavaScript v3 documentation. The specific page they are viewing is about the 'AdminGetUserCommand' in the Cognito Identity Provider client. This suggests that the user is looking for information on how to implement or troubleshoot this specific command in their project.",
+        "The user is utilizing an AI tool embedded within the WebStorm IDE. The AI tool is providing code suggestions and migration instructions for updating the code from AWS SDK v2 to AWS SDK v3. The AI tool suggests specific import statements and code modifications, which the user appears to be following. This indicates that the user is leveraging AI to enhance their coding efficiency and ensure best practices."
+    ],
+    "aiUseSummary": "The user is utilizing an AI_IDE_EXTENSION within the WebStorm IDE to assist with code migration and error resolution. The AI tool provides specific instructions for migrating code from AWS SDK v2 to AWS SDK v3, including necessary import statements and code modifications. The user is also using the AI tool to address TypeScript errors in their code. This use of AI helps the user to quickly adapt to new SDK versions and resolve coding issues efficiently, thereby enhancing productivity.",
+    "activities": [
+        "WRITING_CODE",
+        "RESEARCH"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "IAC"
+    ],
+    "programmingLanguages": [
+        "TYPESCRIPT"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "AI_IDE_EXTENSION"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 25,
+            "mouse": 35,
+            "date": "2024-06-14T09:10:17Z",
+            "windowTitle": "lambda-cdk-infra ? amplify-helper.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 72,
+            "mouse": 18,
+            "date": "2024-06-14T09:11:17Z",
+            "windowTitle": "lambda-cdk-infra ? amplify-helper.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 21,
+            "mouse": 24,
+            "date": "2024-06-14T09:12:17Z",
+            "windowTitle": "lambda-cdk-infra ? aws-config.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 86,
+            "mouse": 26,
+            "date": "2024-06-14T09:13:17Z",
+            "windowTitle": "lambda-cdk-infra ? stack-utils.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 29,
+            "mouse": 24,
+            "date": "2024-06-14T09:14:17Z",
+            "windowTitle": "lambda-cdk-infra ? stack-utils.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 3,
+            "mouse": 30,
+            "date": "2024-06-14T09:15:17Z",
+            "windowTitle": "lambda-cdk-infra ? graphql-ast-helper.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 35,
+            "mouse": 20,
+            "date": "2024-06-14T09:16:17Z",
+            "windowTitle": "lambda-cdk-infra ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T09:17:17Z",
+            "windowTitle": "lambda-cdk-infra ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 7,
+            "mouse": 3,
+            "date": "2024-06-14T09:18:17Z",
+            "windowTitle": "lambda-cdk-infra ? cognito-seeding.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 73,
+            "mouse": 22,
+            "date": "2024-06-14T09:19:17Z",
+            "windowTitle": "lambda-cdk-infra ? cognito-seeding.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T09:10:00Z"
+}

@@ -1,0 +1,197 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "docs.google.com",
+    "meet.google.com",
+    "mail.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T14:29:34Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Minimize, Core, AI, Pending, Magic Academy, Budget, and other unidentified icons. Also includes a system clock showing '08:29' and a date '12 Jun 2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "DevFactory Mail - Google Chrome",
+                "url": "https://mail.google.com/mail/u/0/#chat/spa",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, profile icon, and other browser controls visible."
+                },
+                "content": [
+                  {
+                    "title": "[CO] GT School - 2024-Q2 AWS budget overspend of $ 24,100",
+                    "layoutDescription": "Email content displayed",
+                    "visibleText": "Central SaaS CO central-crc2@devfactory.com via amazonses.com\nto simon.said, me, leonhard.holz, andreia.aradochiaiae\n\nDear Product Responsible,\n\nProduct GT School is overspending in AWS by $ 24,137 in this quarter. Reduce your daily spending by $ 862 across all AWS accounts below, to align with your total target budget of $ 46,396.\n\nThe table below contains net amortized AWS costs, without any BU markup or additional discounts, based on the latest AWS costs between 2024-05-27 to 2024-06-02:\n\nAWS Account ID\nAccount Name\nAccount Owner\nOverspend / Quarter\nEst. Costs / Quarter\nTarget Budget / Quarter\n5154517515086\nRAPIDAPI\nSimon Said\n$ 23,947\n$ 68,158 (AWS)\n$ 4,211\n9261905996949\nProd-DevFactory-educational Holz\n$ 155\n$ 2,161 (AWS)\n$ 2,006\n856202865578\nProd-GTSchool-EduQuiz\nLeonh Holz\n$ 34\n$ 121 (AWS)\n$ 87\n700210162572\nDev-GTSchool-EduReadApp\nBogdan Tenea\n$ 1\n$ 56 (AWS)\n$ 55\n29482854159\nProd-GTSchool-EduReadApp\nBogdan Tenea\n$ 0\n$ 37 (AWS)\n$ 37\n\nThe quarterly cost is calculated as the sum of:\n\n- actual AWS costs of this quarter up to 2024-06-02 (excluding AWS Tax)\n- projecting the remaining quarterly costs based on the actual costs from last week (2024-05-27 to 2024-06-02), across all AWS accounts above.\n\nPlease review the above details and consider taking appropriate actions to bring these AWS accounts within their allocated budgets. For detailed insights and potential cost-saving recommendations, please refer to the AWS Cost Explorer.\n\nIf you need assistance or have any questions, please do not hesitate to contact our support team.\n\nBest regards,\nCentral SaaS"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is primarily engaged in reading and responding to emails. The email displayed in the screenshot is from Central SaaS CO, addressing an overspend in AWS budget for the product GT School. The email details the overspend amounts for various AWS accounts and provides a breakdown of the estimated costs versus the target budget for each account. The user is likely reviewing this information to understand the budget discrepancies and plan corrective actions.",
+    "The user is also involved in team communication via Google Chat. The email screenshot shows a chat space titled 'AAAAjjFXmgE' where the user is likely discussing the AWS budget overspend issue with team members. This indicates that the user is collaborating with their team to address the budget concerns and possibly strategizing on how to reduce the AWS costs."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily focused on email communication and team collaboration regarding AWS budget management.",
+  "activities": [
+    "EMAIL",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "EMAIL",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 16,
+      "date": "2024-06-12T14:20:45Z",
+      "windowTitle": "TeachTap Marketing Plan - Q3 2024 - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1Adjd_cLzvI71nWKY2gSADx9UuUibdXnSlLQJXP_ZSF0/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 15,
+      "date": "2024-06-12T14:21:45Z",
+      "windowTitle": "Meet - gsv-napk-ouw - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/gsv-napk-ouw",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 12,
+      "date": "2024-06-12T14:22:45Z",
+      "windowTitle": "TeachTap Revenue Modelling - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1qs9U9Jfp1mP9VOY8FpUobhDvjOhN9NmWuKq8PskLjrQ/edit#gid=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 11,
+      "date": "2024-06-12T14:23:45Z",
+      "windowTitle": "TeachTap Revenue Modelling - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1qs9U9Jfp1mP9VOY8FpUobhDvjOhN9NmWuKq8PskLjrQ/edit#gid=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 2,
+      "mouse": 35,
+      "date": "2024-06-12T14:24:45Z",
+      "windowTitle": "TeachTap Marketing Plan - Q3 2024 - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1Adjd_cLzvI71nWKY2gSADx9UuUibdXnSlLQJXP_ZSF0/edit#heading=h.vmtn2cc0ba6f",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 1,
+      "mouse": 9,
+      "date": "2024-06-12T14:25:45Z",
+      "windowTitle": "TeachTap Revenue Modelling - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1qs9U9Jfp1mP9VOY8FpUobhDvjOhN9NmWuKq8PskLjrQ/edit#gid=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 9,
+      "date": "2024-06-12T14:26:45Z",
+      "windowTitle": "Meet - gsv-napk-ouw - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/gsv-napk-ouw",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T14:27:45Z",
+      "windowTitle": "Meet - gsv-napk-ouw - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/gsv-napk-ouw",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-12T14:28:45Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 7,
+      "date": "2024-06-12T14:29:45Z",
+      "windowTitle": "AI Assist on WorkSmart - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-12T14:20:00Z"
+}

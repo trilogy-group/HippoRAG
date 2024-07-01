@@ -1,0 +1,272 @@
+{
+  "candidateId": 2368956,
+  "apps": [
+    "drive.google.com",
+    "docs.google.com",
+    "Google Chat"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-06T13:40:24Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Google Chrome, Microsoft Outlook, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Adobe Acrobat Reader, System Preferences, Terminal, and other unidentified applications. Also includes a system clock showing the time '1:40 PM' and a date 'Wednesday, June 6'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Terminal",
+            "windows": []
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-06T13:45:11Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Contacts, Calendar, Notes, Reminders, Photo Booth, Maps, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Time Machine, and Trash. Also includes a system clock showing the time '1:45 PM' and a Spotlight search icon.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Safari",
+            "windows": []
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-06T13:48:43Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Excel, Microsoft Word, File Explorer, Adobe Acrobat Reader, and other unidentified applications. System tray includes network, sound, and battery status icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Customer Outreach - Dashboard",
+                "url": "https://company.intranet/dashboard",
+                "position": "left",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Contains multiple tabs, address bar, bookmarks bar, and navigation buttons"
+                },
+                "content": [
+                  {
+                    "title": "Customer Outreach - Dashboard",
+                    "layoutDescription": "Web page layout",
+                    "visibleText": "Customer Outreach - Dashboard\n\n- Customer ID\n- First Name\n- Last Name\n- Email\n- Phone\n- Address\n- Status\n- Last Contact\n- Notes\n\n[List of customers with details in a table format]"
+                  }
+                ]
+              },
+              {
+                "title": "Google Chat",
+                "url": "https://chat.google.com",
+                "position": "right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Contains chat list sidebar, search bar, and main chat window"
+                },
+                "content": [
+                  {
+                    "title": "Google Chat",
+                    "layoutDescription": "Chat application layout",
+                    "visibleText": "Google Chat\n\nChat\n\n- Frank Gomi\n\n[Chat history with Frank Gomi]\n\nFrank Gomi\n\n- If the numbers are close, why worry?\n- I know what you mean. We've seen it hover around 5000k in August. Fingers crossed.\n\nFrank Gomi\n\n- How about the budget then?\n- Without any adjustment for seasonality.\n\n[Reply box with emoji and attachment options]"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Excel",
+            "windows": [
+              {
+                "title": "Sales Data Analysis",
+                "position": "center",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Contains ribbon with tabs for File, Home, Insert, Page Layout, Formulas, Data, Review, View, Help, and a formula bar"
+                },
+                "content": [
+                  {
+                    "title": "Sales Data Analysis",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "Sales Data Analysis\n\n[Spreadsheet with multiple columns and rows displaying sales data]\n\nColumns: Date, Product ID, Sales Volume, Revenue, Cost, Profit, Region\n\n[Data entries for various products and regions]"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in reading and editing specifications and data within Google Drive and Google Sheets. The first screenshot shows the user accessing a folder named 'Specs' in Google Drive, which contains various documents related to product management. The user is also viewing a Google Sheet titled 'Customer Outreach - PostBeyond,' which lists customer email addresses and other details. This indicates that the user is likely involved in managing customer outreach or analyzing customer data.",
+    "In the second screenshot, the user continues to work within Google Sheets, focusing on a different sheet titled 'Advocate Challenge Creation Helper.' This sheet appears to contain instructions and formulas for processing email addresses. The user is likely preparing or cleaning data for further analysis or outreach activities. The presence of detailed instructions suggests that the user is following a specific process or workflow to ensure data accuracy.",
+    "The third screenshot shows the user engaged in a chat conversation on Google Chat with a colleague named Frank Gomi. The conversation revolves around budget discussions and seasonality adjustments, indicating that the user is collaborating with team members to finalize budget-related decisions. The user is also seen accessing another Google Sheet titled 'Inflation Losses Deep Dive,' which contains detailed financial data. This suggests that the user is analyzing financial losses and discussing findings with team members to make informed decisions."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in reading and editing documents, managing data in Google Sheets, and collaborating with team members via Google Chat. No AI chat interfaces or AI-driven suggestions are visible in the screenshots, indicating that the user is not utilizing AI tools for their current tasks.",
+  "activities": [
+    "READING_SPEC",
+    "WRITING_SPEC",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_SPEC",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 2,
+      "mouse": 24,
+      "date": "2024-06-06T13:40:09Z",
+      "windowTitle": " My Drive - Google Drive - Google Chrome\n",
+      "processName": "drive.google.com",
+      "visitingUrl": "https://drive.google.com/drive/u/0/folders/1ylySqfN5AjRH-53R4LWqzMJRwhCBy9yS",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 55,
+      "mouse": 27,
+      "date": "2024-06-06T13:41:09Z",
+      "windowTitle": " Customer Outreach - PostBeyond - Google Sheets - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/spreadsheets/d/1UI55HtXadjsHGHBBz4sUSna1r2Yh16H4oqcozR4eeIE/edit#gid=403761945",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 38,
+      "mouse": 32,
+      "date": "2024-06-06T13:42:09Z",
+      "windowTitle": " Influtive Losses Deep Dive - Google Sheets - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/spreadsheets/d/13Nxi61xKUhh2ehwPg5w2LwPGX1jED_WjDM803n6Zyk4/edit#gid=821166931",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 12,
+      "mouse": 33,
+      "date": "2024-06-06T13:43:09Z",
+      "windowTitle": " Customer Outreach - PostBeyond - Google Sheets - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/spreadsheets/d/1UI55HtXadjsHGHBBz4sUSna1r2Yh16H4oqcozR4eeIE/edit#gid=746561795",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 38,
+      "mouse": 38,
+      "date": "2024-06-06T13:44:09Z",
+      "windowTitle": " Customer Outreach - PostBeyond - Google Sheets - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/spreadsheets/d/1UI55HtXadjsHGHBBz4sUSna1r2Yh16H4oqcozR4eeIE/edit#gid=746561795",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 20,
+      "mouse": 19,
+      "date": "2024-06-06T13:45:09Z",
+      "windowTitle": " Admins list - Google Sheets - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/spreadsheets/d/1A8ROQ74-QO77a-ZOQkuDcREMDU_tLuiFpIEfLwarrqw/edit#gid=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 36,
+      "mouse": 31,
+      "date": "2024-06-06T13:46:09Z",
+      "windowTitle": " Customer Outreach - PostBeyond - Google Sheets - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/spreadsheets/d/1UI55HtXadjsHGHBBz4sUSna1r2Yh16H4oqcozR4eeIE/edit#gid=403761945",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 30,
+      "mouse": 19,
+      "date": "2024-06-06T13:47:09Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T13:48:09Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T13:49:09Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-06T13:40:00Z"
+}

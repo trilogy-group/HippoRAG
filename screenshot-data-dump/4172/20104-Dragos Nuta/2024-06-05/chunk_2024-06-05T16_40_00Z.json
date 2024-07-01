@@ -1,0 +1,489 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "Notepad"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T16:42:56Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Notepad, and Zoom. Also shows the date and time as '6/5/2024 7:42 PM'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Factory status May 2024 (TPM/Eng)",
+                "url": "https://docs.google.com/document",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Toolbar with buttons for File, Edit, View, Insert, Format, Tools, Extensions, Help, and user profile. Zoom controls, document sharing, and settings icons are visible."
+                },
+                "content": [
+                  {
+                    "title": "Factory status May 2024 (TPM/Eng)",
+                    "layoutDescription": "Document layout",
+                    "visibleText": "Summary\nSlot Delivery - weekly updates | tracker\nIn numbers:\n15 commit goals: 6 completed, 7 on track, 2 off track (of which, one is at high risk)\n7 stretch goals: 2 deprioritized, 3 on track, 2 off track\n9 new goals (added during Q2): 1 completed, 4 on track, 4 off track (of which, two are at high risk)\nWhy are we adding new goals when not all commit/stretch goals are green?\nHigher priority defense goals that were not planned for (the case of Influitive)\nProject completing early than planned, leaving available capacity (e.g., Jigsaw)\nNew acquisitions (the case of Stratifyd)\nWhat went well:\nDid much better in meeting commitments - we will deliver all but one of the Commit goals in Q2\nTurned around the Messenger slot - delivered more than planned\nResponsive to changing BU priorities - took over and made progress on many new goals\nWhat did not go well:\nCustomer adoption is low and remains low - specifically considering on-prem products and AI features (details below)\nMaintenance\nMaintenance had a great month. We have already delivered 88% of our Q2 orders (goal: 20 tickets per SE7), and we are on track to overdeliver for all BUs.\nWe removed 62% of our backlog in Q2 so far and are on track to eliminate our backlog in Q2.\nOur backlog age will go down when we remove our backlog.\nYou can find the delivery scorecard and the burndown charts at the bottom of the document.\nEarly Customer Adoption\nThe PM service was added in May to 3 slots. We made progress, but results are below what we would have wanted and usage/activity remains low:\nMessenger: of 20 customers, 4 customers showed interest, none has concrete upgrade plans (many want to wait until the new version is proven stable or are mid-upgrade with older versions)\nJive Security: of 12 customers, 3 are interested in upgrading\nJive Cloud AI Copilot: 2 customers actively using it, 7 have it enabled, others have it disabled\nInfluitive AI features: one AI feature released one month ago being used, releasing another soon; overall started recently\nWhat went well:\nFocus on customer problems - conducted calls to understand their problems (for projects in early outreach)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Notepad",
+            "windows": [
+              {
+                "title": "how is the slot going what grade wo",
+                "position": "bottom right of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Toolbar with File, Edit, View options"
+                },
+                "content": [
+                  {
+                    "title": "how is the slot going what grade wo",
+                    "layoutDescription": "Text editor layout",
+                    "visibleText": "GF - good, B\nInfluitive - B\nStratifyd - B\nCrossover - B\nTelco - moved out new products to external companies PlanAI, BSS Magic, 5G multi-tenant service\nAI\nSentry enable the basic work so that it goes away\nbuilt top down AI features"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Zoom",
+            "windows": [
+              {
+                "title": "Meeting",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Controls with mute, video, participants, chat, share screen, record, and more buttons"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "John Slowinski"
+                    },
+                    {
+                      "name": "Drago Nulta"
+                    },
+                    {
+                      "name": "Jamie Sidley"
+                    },
+                    {
+                      "name": "Josef Capovics"
+                    },
+                    {
+                      "name": "Leonhard Hölz"
+                    },
+                    {
+                      "name": "Colin Guiltyfoyle"
+                    },
+                    {
+                      "name": "Eric Vaughan"
+                    },
+                    {
+                      "name": "Jeff Myer"
+                    },
+                    {
+                      "name": "Andy Price"
+                    },
+                    {
+                      "name": "Sammy Abeel-Nil"
+                    },
+                    {
+                      "name": "Arthur Micheli"
+                    },
+                    {
+                      "name": "Brandon Pizzacalla"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T16:44:18Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Notepad, and other unidentified applications. System clock shows '7:44 PM'. Date displayed is '6/5/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Factory status May 2024 (TPM/Eng)",
+                "url": "https://docs.google.com/document",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Toolbar with undo, redo, print, zoom controls, and other editing tools"
+                },
+                "content": [
+                  {
+                    "title": "Factory status May 2024 (TPM/Eng)",
+                    "layoutDescription": "Document layout with headings and bullet points",
+                    "visibleText": "Summary\nSlot Delivery - weekly updates | tracker\nIn numbers:\n15 commit goals: 6 completed, 7 on track, 2 off track (of which, one is at high risk)\n7 stretch goals: 2 deprioritized, 3 on track, 2 off track\n9 new goals (added during Q2): 1 completed, 4 on track, 4 off track (of which, two are at high risk)\nWhy are we adding new goals when not all commit/stretch goals are green?\nHigher priority defense goals that were not planned for (the case of Influitive)\nProject completing early than planned, leaving available capacity (e.g., Jigsaw)\nNew acquisitions (the case of Stratifyd)\nWhat went well:\nDid much better in meeting commitments - we will deliver all but one of the Commit goals in Q2\nTurned around the Messenger slot - delivered more than planned\nResponsive to changing BU priorities - took over and made progress on many new goals\nWhat did not go well:\nCustomer adoption is low and remains low - specifically considering on-prem products and AI features (details below)\nMaintenance\nMaintenance had a great month. We have already delivered 88% of our Q2 orders (goal: 20 tickets per SE7), and we are on track to overdeliver for all BUs.\nWe removed 62% of our backlog in Q2 so far and are on track to eliminate our backlog in Q2.\nOur backlog age will go down when we remove our backlog.\nYou can find the delivery scorecard and the burndown charts at the bottom of the document.\nEarly Customer Adoption\nThe PM service was added in May to 3 slots. We made progress, but results are below what we would have wanted and usage/activity remains low:\nMessenger: of 20 customers, 4 customers showed interest, none has concrete upgrade plans (many want to wait until the new version is proven stable or are mid-upgrade with older versions)\nJive Security: of 12 customers, 3 are interested in upgrading\nJive Cloud AI Copilot: 2 customers actively using it, 7 have it enabled, others have it disabled\nInfluitive AI features: one AI feature released one month ago being used, releasing another soon; overall started recently\nWhat went well:\nFocus on customer problems - conducted calls to understand their problems (for projects in early outreach)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Notepad",
+            "windows": [
+              {
+                "title": "how is the slot going what grade wo",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Editing area with menu options for File, Edit, View"
+                },
+                "content": [
+                  {
+                    "title": "how is the slot going what grade wo",
+                    "layoutDescription": "Text editor with visible text",
+                    "visibleText": "how is the slot going what g\nFile\nEdit\nView\nStratiflyte - B\nInfluitive - B\nCrossover - B\nTelco - moved out new products to external companies PlanAI, BSS Magic, 5G multi-layer\nSamy\nAI enable the basic work so that it goes away\nbut tap down AI features\nfocus on one problem at a time until you crush it\nfigure out a pattern, build confidence, do more"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Zoom",
+            "windows": [
+              {
+                "title": "Meeting",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Conference window with participant grid and controls"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "John Slowinski"
+                    },
+                    {
+                      "name": "Dragoș Nuța"
+                    },
+                    {
+                      "name": "Jamie Sidley"
+                    },
+                    {
+                      "name": "Josef Capovics"
+                    },
+                    {
+                      "name": "Leonhard Hölk"
+                    },
+                    {
+                      "name": "Colin Guilfoyle"
+                    },
+                    {
+                      "name": "Eric Vaughan"
+                    },
+                    {
+                      "name": "Jeff Moyer"
+                    },
+                    {
+                      "name": "Andy Price"
+                    },
+                    {
+                      "name": "Sammy Abeil - Nil"
+                    },
+                    {
+                      "name": "Arthur Micheli"
+                    },
+                    {
+                      "name": "Brandon Pizzacalla"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T16:48:58Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Notepad, Zoom, and other unidentified applications. System clock shows '7:48 PM'. Date displayed is '6/5/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Factory status May 2024 (TPM/Eng) - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "with undo, redo, print, zoom controls, and other editing tools"
+                },
+                "content": [
+                  {
+                    "title": "Factory status May 2024 (TPM/Eng)",
+                    "layoutDescription": "Document open in editing mode",
+                    "visibleText": "Summary\nSlot Delivery - weekly updates | tracker\nIn numbers:\n15 commit goals: 6 completed, 7 on track, 2 off track (of which, one is at high risk)\n7 stretch goals: 2 deprioritized, 3 on track, 2 off track\n9 new goals (added during Q2): 1 completed, 4 on track, 4 off track (of which, two are at high risk)\nWhy are we adding new goals when not all commit/stretch goals are green?\nHigher priority defense goals that were not planned for (the case of Influitive)\nProject completing early than planned, leaving available capacity (e.g., Jigsaw)\nNew acquisitions (the case of Stratifyd)\nWhat went well:\nDid much better in meeting commitments - we will deliver all but one of the Commit goals in Q2\nTurned around the Messenger slot - delivered more than planned\nResponsive to changing BU priorities - took over and made progress on many new goals\nWhat did not go well:\nCustomer adoption is low and remains low - specifically considering on-prem products and AI features (details below)\nMaintenance\nMaintenance had a great month. We have already delivered 88% of our Q2 orders (goal: 20 tickets per $E7), and we are on track to overdeliver for all BUs.\nWe removed 62% of our backlog in Q2 so far and are on track to eliminate our backlog in Q2.\nOur backlog age will go down when we remove our backlog.\nYou can find the delivery scorecard and the burndown charts at the bottom of the document.\nEarly Customer Adoption\nThe PM service was added in May to 3 slots. We made progress, but results are below what we would have wanted and usage/activity remains low:\nMessenger: of 20 customers, 4 customers showed interest, none has concrete upgrade plans (many want to wait until the new version is proven stable or are mid-upgrade with older versions)\nJive Security: of 12 customers, 3 are interested in upgrading\nJive Cloud AI Copilot: 2 customers actively using it, 7 have it enabled, others have it disabled\nInfluitive AI features: one AI feature released one month ago being used, releasing another soon; overall started recently\nWhat went well:\nFocus on customer problems - conducted calls to understand their problems (for projects in early outreach)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Notepad",
+            "windows": [
+              {
+                "title": "how is the slot going what grade wo - Notepad",
+                "position": "bottom right of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "editing area"
+                },
+                "content": [
+                  {
+                    "title": "how is the slot going what grade wo - Notepad",
+                    "layoutDescription": "Text editor with visible text",
+                    "visibleText": "how is the slot going what grade wo"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Zoom",
+            "windows": [
+              {
+                "title": "Zoom Meeting",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "conference window with participant thumbnails"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "John Slowinski"
+                    },
+                    {
+                      "name": "Dragos Nuta"
+                    },
+                    {
+                      "name": "Jamie Sibley"
+                    },
+                    {
+                      "name": "Jozef Czapovics"
+                    },
+                    {
+                      "name": "Leonhard Horl"
+                    },
+                    {
+                      "name": "Colin Guilfoyle"
+                    },
+                    {
+                      "name": "Eric Vaughan"
+                    },
+                    {
+                      "name": "Jeff Moyer"
+                    },
+                    {
+                      "name": "Andy Price"
+                    },
+                    {
+                      "name": "Sammy Aboei-Ntiri",
+                      "expression": "speaking"
+                    },
+                    {
+                      "name": "Brad Pizzacalla"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively participating in a Zoom meeting, as evidenced by the Zoom application being open and displaying a grid of participants. The meeting appears to be ongoing, with various participants visible and engaged. The user is also viewing a Google Docs document titled 'Factory status May 2024 (TPM/Eng)', which contains detailed information about slot delivery, maintenance, and early customer adoption. The document includes summaries of goals, achievements, and areas that need improvement.",
+    "In addition to the Zoom meeting and Google Docs document, the user has Notepad open with a document titled 'how is the slot going what grade wo'. This document contains notes and grades for various projects and companies, such as Influitive, Stratifyd, and Crossover. The notes also include specific tasks and strategies related to AI features and customer adoption. The user is likely using Notepad to jot down important points and action items discussed during the meeting.",
+    "The user is reviewing the 'Factory status May 2024 (TPM/Eng)' document in Google Docs, which includes detailed metrics and progress reports. The document outlines the number of goals completed, on track, and off track, along with reasons for adding new goals. It also highlights what went well and what did not go well in terms of customer adoption and maintenance. The user is likely preparing for or actively discussing these points in the Zoom meeting.",
+    "Throughout the captured period, the user is engaged in a Zoom meeting with multiple participants. The meeting window shows various controls such as mute, video, participants, chat, share screen, and record, indicating that the user is actively participating in the meeting. The user is also taking notes in Notepad, which suggests that they are documenting key points and action items from the meeting."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a Zoom meeting, reviewing a Google Docs document, and taking notes in Notepad. There are no visible AI chat interfaces or interactions with AI tools in the captured screenshots.",
+  "activities": [
+    "READING_SPEC",
+    "MEETING"
+  ],
+  "workTypes": [
+    "BACKEND"
+  ],
+  "programmingLanguages": [
+    "OTHER"
+  ],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T16:40:55Z",
+      "windowTitle": "*how is the slot going what grade wo - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 91,
+      "mouse": 3,
+      "date": "2024-06-05T16:41:55Z",
+      "windowTitle": "*how is the slot going what grade wo - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T16:42:55Z",
+      "windowTitle": "*how is the slot going what grade wo - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 53,
+      "mouse": 1,
+      "date": "2024-06-05T16:43:55Z",
+      "windowTitle": "*how is the slot going what grade wo - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 63,
+      "mouse": 2,
+      "date": "2024-06-05T16:44:55Z",
+      "windowTitle": "*how is the slot going what grade wo - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T16:45:55Z",
+      "windowTitle": "*how is the slot going what grade wo - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 113,
+      "mouse": 7,
+      "date": "2024-06-05T16:46:55Z",
+      "windowTitle": "*how is the slot going what grade wo - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 88,
+      "mouse": 1,
+      "date": "2024-06-05T16:47:55Z",
+      "windowTitle": "*how is the slot going what grade wo - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T16:48:55Z",
+      "windowTitle": "*how is the slot going what grade wo - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 156,
+      "mouse": 6,
+      "date": "2024-06-05T16:49:55Z",
+      "windowTitle": "*how is the slot going what grade wo - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T16:40:00Z"
+}

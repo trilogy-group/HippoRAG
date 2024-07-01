@@ -1,0 +1,199 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "meet.google.com",
+        "mail.google.com",
+        "calendar.google.com",
+        "docs.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-11T14:02:28Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Minimize, Core, SAT Prep, Magic, Pending, GT Sch, Copy, Team 2, LearnW, GT Sch, and a clock showing '08:02' with the date '11 Jun 2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "LearnWith.AI - 2024 Financial Forecast - Google Sheets",
+                                "url": "https://docs.google.com/spreadsheets",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help. Toolbar with undo, redo, print, format options, zoom controls, cell format settings, formula bar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "GT School - 12-Month Financial Forecast (Mid-Feb version)",
+                                        "layoutDescription": "Spreadsheet layout",
+                                        "visibleText": "GT School - 12-Month Financial Forecast (Mid-Feb version)\nBusiness Growth Assumptions\nTeachTower new downloads\nTeachTap new downloads\nRevenue\nTeachTower\nTeachTap\nTotal Revenue\nNHC Costs\nMarketing: TeachTower Ad spend\nMarketing: TeachTap Ad spend\nAudience Building: AI influencers\nMarketing, Gen AI, Academies: Tools & App spend\nThird-party gen AI API customer usage costs\nUpwork\nTotal NHC Costs\nCF Costs\nProduct Engineering\nPlatform Engineering\nContent Gen Engineering\nUX Design\nProduct TPO\nPlatform TPO\nContent Gen TPO\nOther CF Costs\nTotal CF Costs\nHC Costs\nProduct EVP TPMs"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in reviewing and editing a financial forecast document in Google Sheets. The document titled 'LearnWith.AI - 2024 Financial Forecast' includes various sections such as Business Growth Assumptions, Revenue, NHC Costs, CF Costs, and HC Costs. The user is likely analyzing and updating financial data for different projects like TeachTower and TeachTap, as indicated by the visible text and layout of the spreadsheet.",
+        "The user is utilizing Google Sheets to manage and forecast financial data for the year 2024. The spreadsheet includes detailed financial metrics and assumptions, such as marketing costs, product engineering costs, and platform engineering costs. The user is likely making adjustments to the financial figures and assumptions to ensure accurate forecasting for the projects listed in the document."
+    ],
+    "aiUseSummary": "",
+    "activities": [
+        "READING_SPEC",
+        "WRITING_SPEC"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_SPEC",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 8,
+            "date": "2024-06-11T14:00:56Z",
+            "windowTitle": "Meet - sjt-mpfd-bwj - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/sjt-mpfd-bwj?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 24,
+            "mouse": 23,
+            "date": "2024-06-11T14:01:56Z",
+            "windowTitle": "SAT Prep MCQ Generators - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/6hvc7UAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 16,
+            "mouse": 12,
+            "date": "2024-06-11T14:02:56Z",
+            "windowTitle": "Meet - sjt-mpfd-bwj - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/sjt-mpfd-bwj?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 14,
+            "date": "2024-06-11T14:03:56Z",
+            "windowTitle": "DevFactory - Calendar - Week of June 9, 2024 - Google Chrome",
+            "processName": "calendar.google.com",
+            "visitingUrl": "calendar.google.com/calendar/u/0/r/week",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 22,
+            "date": "2024-06-11T14:04:56Z",
+            "windowTitle": "Meet - sjt-mpfd-bwj - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/sjt-mpfd-bwj?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 23,
+            "date": "2024-06-11T14:05:56Z",
+            "windowTitle": "SAT Prep MCQ Generators - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/6hvc7UAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 64,
+            "mouse": 22,
+            "date": "2024-06-11T14:06:56Z",
+            "windowTitle": "Meet - jmu-ybin-ufc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/jmu-ybin-ufc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 15,
+            "date": "2024-06-11T14:07:56Z",
+            "windowTitle": "LearnWith.AI - 2024 Financial Forecast - Google Sheets - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/spreadsheets/d/1fvBwe58Kbb7AZsgbYCmizxF4xB2qcRG904Jj48shFF8/edit#gid=1092897194",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 8,
+            "mouse": 18,
+            "date": "2024-06-11T14:08:56Z",
+            "windowTitle": "LearnWith.AI - 2024 Financial Forecast - Google Sheets - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/spreadsheets/d/1fvBwe58Kbb7AZsgbYCmizxF4xB2qcRG904Jj48shFF8/edit#gid=1092897194",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 25,
+            "date": "2024-06-11T14:09:56Z",
+            "windowTitle": "LearnWith.AI - 2024 Financial Forecast - Google Sheets - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/spreadsheets/d/1fvBwe58Kbb7AZsgbYCmizxF4xB2qcRG904Jj48shFF8/edit#gid=1092897194",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-11T14:00:00Z"
+}

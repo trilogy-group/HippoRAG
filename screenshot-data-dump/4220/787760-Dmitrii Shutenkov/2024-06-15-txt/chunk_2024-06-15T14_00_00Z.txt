@@ -1,0 +1,257 @@
+{
+    "candidateId": 1444536,
+    "apps": [
+        "explorer",
+        "mail.google.com",
+        "workera.ai",
+        "20797751.fs1.hubspotusercontent-na1.net",
+        "docs.aws.amazon.com",
+        "us-east-1.console.aws.amazon.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-15T14:00:03Z",
+            "desktop": {
+                "uiElements": [],
+                "applications": []
+            }
+        },
+        {
+            "capturedAt": "2024-06-15T14:04:44Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Edge, File Explorer, Mail, Calendar, Photos, Microsoft Store, Settings, and a group of unidentified applications. Also includes system status icons for network, sound, notifications, and clock displaying '15:04:45 15/06/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Request a demo with Workera - Google Chrome",
+                                "url": "https://workera.ai/demo-request",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "UI includes back, forward, refresh, home buttons, address bar, bookmarks bar with tabs for 'SF Prod', 'SF Sandbox', 'ADFS', 'My Tasks', 'Crossover Sprints', 'Create Task', 'Technical Debt - Crossover', 'Guides - Crossover', 'WS.Eng TPO: Leadership', 'Task Catalog'. Incognito mode active, profile icon, and vertical ellipsis for menu."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Request a demo with Workera",
+                                        "layoutDescription": "Web page layout with form on right",
+                                        "visibleText": "Workera\nPlatform\nSolution Individuals\nAbout Us\nLog In\nGet a Demo\nConfigure the platform to best reach your upskilling objectives\nAccurately measure your workforce across more than 10,000 skills\nDeliver unique learning plans at scale\nUnlock deep insights to efficiently drive innovation\nBenchmark your organization\nNumber of employees*\n500 - 5000\nPhone number*\n+351914264794\nHow did you hear about Workera?\nBy signing up, you agree to our privacy policy. You agree that we can contact you about Workera and use data from third parties to personalize your experience.\nI'd like to receive occasional insights and information from Workera.\nSubmit"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-15T14:07:34Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, File Explorer, Microsoft Edge, Google Chrome, Microsoft Store, Mail, Calendar, Photos, and a notification area showing network status, sound volume, date and time, and language settings",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Python IDE",
+                        "windows": [
+                            {
+                                "title": "Python IDE",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Search, Source, Run, Debug, Consoles, Projects, Tools, View, Help. Toolbar with various icons for file and edit operations, debugging, and running scripts. Status bar showing 'Update available', Python version, and memory usage"
+                                },
+                                "content": [
+                                    {
+                                        "title": "untitled1.py",
+                                        "layoutDescription": "editor on left",
+                                        "visibleText": "def lambda_handler(event, context):\n print('Lambda invoked')"
+                                    },
+                                    {
+                                        "title": "Variable Explorer",
+                                        "layoutDescription": "Panel on right",
+                                        "visibleText": "Name\nType\nSize\nValue\nr0 object of collections module\nres\nlist\n2473\n[OrderedDict, OrderedDict, ...]\nsf_connection\nSalesforceConnection\n1\nSalesforce object of salesforce module"
+                                    },
+                                    {
+                                        "title": "IPython Console",
+                                        "layoutDescription": "Bottom panel",
+                                        "visibleText": "Cell In[8], line 1\nr0[0]\n\nKeyError: 0\n\nIn [9]: r0['CreatedDate']\nOut[9]: '2024-05-26T19:26:02.000+0000'\n\nIn [10]: r0['CreatedDate'][0:10]\nOut[10]: '2024-05-26'\n\nIn [11]: "
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user started by visiting the Workera website to request a demo. They filled out a form with details such as the number of employees and a phone number. This activity indicates that the user is exploring or evaluating Workera's platform for potential use in their organization. The form submission suggests an interest in the platform's capabilities for upskilling and workforce measurement.",
+        "The user then switched to a Python IDE, specifically Spyder, where they were working on a Python script. The script includes a lambda handler function, which is typically used in AWS Lambda for serverless computing. The user was also exploring variables in the Variable Explorer, indicating they were debugging or analyzing data structures. The console output shows the user was dealing with a KeyError and inspecting date values from a dictionary.",
+        "Throughout the session, the user had multiple tabs open in their web browser, including AWS documentation and the AWS Lambda console. This suggests that the user was researching or setting up AWS Lambda functions, possibly related to the Python script they were working on. The presence of AWS documentation indicates that the user was looking for specific information about Lambda runtimes."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user was primarily engaged in filling out a form on the Workera website and working on a Python script in the Spyder IDE. No AI chat interfaces or AI-driven tools were visible in the screenshots.",
+    "activities": [
+        "RESEARCH",
+        "WRITING_CODE"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [
+        "PYTHON"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-15T14:00:41Z",
+            "windowTitle": "LockingWindow",
+            "processName": "explorer",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-15T14:01:41Z",
+            "windowTitle": "LockingWindow",
+            "processName": "explorer",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 13,
+            "date": "2024-06-15T14:02:41Z",
+            "windowTitle": "Re: Unlock AI Potential: Elevate Your Workforce Today - dmitrii.shutenkov@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#sent/FMfcgzQVwxFJkbFgLjhgrPXzKGcrNtdM",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 26,
+            "mouse": 10,
+            "date": "2024-06-15T14:03:41Z",
+            "windowTitle": "Re: Unlock AI Potential: Elevate Your Workforce Today - dmitrii.shutenkov@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#sent/FMfcgzQVwxFJkbFgLjhgrPXzKGcrNtdM",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 28,
+            "mouse": 15,
+            "date": "2024-06-15T14:04:41Z",
+            "windowTitle": "Request a demo with Workera - Google Chrome",
+            "processName": "workera.ai",
+            "visitingUrl": "workera.ai/demo-request",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 21,
+            "mouse": 7,
+            "date": "2024-06-15T14:05:41Z",
+            "windowTitle": "Workera_Overview_One-Page_02.2024.pdf - Google Chrome",
+            "processName": "20797751.fs1.hubspotusercontent-na1.net",
+            "visitingUrl": "20797751.fs1.hubspotusercontent-na1.net/hubfs/20797751/Workera%20Overview%20One%20Page/Workera_Overview_One-Page_02.2024.pdf",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 11,
+            "mouse": 13,
+            "date": "2024-06-15T14:06:41Z",
+            "windowTitle": "Thank you and welcome!? - dmitrii.shutenkov@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxJkNKTQqzmzPXjGCNZSfTTq",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 12,
+            "mouse": 12,
+            "date": "2024-06-15T14:07:41Z",
+            "windowTitle": "Task Switching",
+            "processName": "explorer",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 18,
+            "mouse": 8,
+            "date": "2024-06-15T14:08:41Z",
+            "windowTitle": "Lambda runtimes - AWS Lambda - Google Chrome",
+            "processName": "docs.aws.amazon.com",
+            "visitingUrl": "docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 13,
+            "mouse": 14,
+            "date": "2024-06-15T14:09:41Z",
+            "windowTitle": "Create function | Functions | Lambda - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/create/function",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-15T14:00:00Z"
+}

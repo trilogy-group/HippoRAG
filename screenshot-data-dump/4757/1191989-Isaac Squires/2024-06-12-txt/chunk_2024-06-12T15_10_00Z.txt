@@ -1,0 +1,199 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T15:15:11Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Chrome, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes clock showing '09:15', date '12 Jun 2024', and other system icons like network, sound, and notifications.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Phil, Bogdan, Simon, Shawn - Chat - Google Chrome",
+                                "url": "mail.google.com/mail/u/0/#inbox/FMfcgzGqRjZJrHtJbWxHjZkPjZJrHtJbWxHjZkPj",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, navigation buttons, Google account icon, and other browser controls"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email Content",
+                                        "layoutDescription": "Email thread layout",
+                                        "visibleText": "Samy Aboel-Nil\nIsaac & Phil That is excellent news! Here's what I suggest:- happily do the redemption!- unless we already have it, we need to collect the parent name & co...\n\nSamy Aboel-Nil\nAnother thought: - On the Academic Outcomes front for TeachTales, I would consider increasing lexile support to at least cover something like a high achievin...\n\nSimon Said\nto Samy, Phil, me\n@SamyAboel-Nil good point. We had most of the prompt engineering work to support up to ~1200L nearing completion before we trimmed the team, I'll have someone pick up the work later in the week.\n@Phil Hewinson thanks for the insights. I agree with your points about the sign up flow and the progress report. Work on the new sign up flow should start this week.\nChanges I'm less sure of:\n\u2022 One click to answer a question: I'm concerned that could lead to some frustration when a user misclicks, since the user will miss out on coins for the whole story (not just that question).\n\u2022 I'm interested to see if you get similar user feedback in TeachTap as you switch to the new mastery algorithm that decreases mastery on incorrect questions.\n\u2022 Collecting both the parent and student emails on sign up: the data's definitely valuable, but I'm wary of adding yet another field for users to fill in.\nThanks again for the feedback, please let me know if anything else comes to mind.\nP.S. We also had a second Robux redemption in the meantime :)"
+                                    },
+                                    {
+                                        "title": "Tasks Widget",
+                                        "layoutDescription": "Sidebar widget layout",
+                                        "visibleText": "Tasks\nActive\nAdd a task\nTablet for Phil's son\nQ2 progress / Q3 plan\nBudget meeting\nhttps://docs.google.com/docume...\nSamy 1:1 topics\n- App testing as a service\n- Doreen run research study...\nUser submitted video\nhttps://drive.google.com/file/d/1aITcH01Hy test\nhttps://drive.google.com/file/d/1aITcH01HyS grade (support US grades only)\nPost TeachTap content on TikTok following the unit schedule on the calendar\nSplit by channel per AP course\nhttps://assetstore.unity.co\nm/packages/t up with Doreen about beta program and research study\nPublish game for Xbox / PlayStation / Apple vision pro\n$299 per grade level"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in email communication using Gmail. The email thread involves multiple participants, including Samy Aboel-Nil, Phil Hewinson, and Simon. The discussion revolves around prompt engineering work, user feedback on the sign-up flow, and the progress report for TeachTales. Specific points of concern include the potential frustration from a one-click answer feature and the collection of both parent and student emails during sign-up. The user is also managing tasks through a sidebar widget, which includes various tasks such as Q2 progress, app testing, and content posting on TikTok.",
+        "The user is also seen managing tasks through a sidebar widget in Gmail. The tasks listed include 'Tablet for Phil's son,' 'Q2 progress / Q3 plan,' 'User submitted video,' and 'Post TeachTap content on TikTok.' Each task has associated links to Google Docs and Google Drive, indicating that the user is organizing and prioritizing their work efficiently. The tasks are varied, covering both personal and professional responsibilities, and are likely part of a larger project management system."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in email communication and task management without any visible interaction with AI tools or assistants.",
+    "activities": [
+        "EMAIL"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "EMAIL",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T15:10:45Z",
+            "windowTitle": "Phil, Bogdan, Simon, Shawn - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCwqNZBphRbSrxQdNmBRCJG",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T15:11:45Z",
+            "windowTitle": "Phil, Bogdan, Simon, Shawn - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCwqNZBphRbSrxQdNmBRCJG",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T15:12:45Z",
+            "windowTitle": "AI Assist on WorkSmart - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCwqNZBphRbSrxQdNmBRCJG",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T15:13:45Z",
+            "windowTitle": "WS.Eng AI Adoption - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCwqNZBphRbSrxQdNmBRCJG",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T15:14:45Z",
+            "windowTitle": "David Kube messaged you - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCwqNZBphRbSrxQdNmBRCJG",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T15:15:45Z",
+            "windowTitle": "Re: TeachTales Purchase Request - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCwqNZBphRbSrxQdNmBRCJG",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T15:16:46Z",
+            "windowTitle": "CoachBot Alerts - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCwqNZBphRbSrxQdNmBRCJG",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T15:17:46Z",
+            "windowTitle": "Re: TeachTales Purchase Request - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCwqNZBphRbSrxQdNmBRCJG",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T15:18:46Z",
+            "windowTitle": "WS.Eng AI Adoption - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCwqNZBphRbSrxQdNmBRCJG",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 33,
+            "mouse": 5,
+            "date": "2024-06-12T15:19:46Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAnM2TMLc",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-12T15:10:00Z"
+}

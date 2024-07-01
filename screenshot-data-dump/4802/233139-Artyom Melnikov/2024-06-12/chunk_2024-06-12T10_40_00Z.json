@@ -1,0 +1,282 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "idea64",
+    "mail.google.com",
+    "signin.aws.amazon.com",
+    "chrome",
+    "us-east-1.console.aws.amazon.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T10:40:47Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '10:24' and date '06/12/2024'. Language setting 'ENG' visible. System tray icons include network, sound, and battery status.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "sfdx ? feature/LAMBDA-76029-sfdx-fields",
+                "position": "full screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar at top with File, Edit, View, Go, Run, Terminal, Help. Side bar on left with icons for Explorer, Search, Source Control, Run and Debug, Extensions. Bottom status bar showing branch name 'feature/LAMBDA-76029-sfdx-fields', problems count '0', and notifications icon."
+                },
+                "content": [
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Split into three vertical panels",
+                    "visibleText": "public class LinkedInSlots_ComputeCellMetricsBatch implements Database.Batchable<SObject>, Schedulable {\n public void execute(Database.BatchableContext bc, List<Campaign> campaigns) {\n // Code for method 'execute' continues with various conditions and loops handling data processing.\n // Includes debug statements and conditional checks.\n // AggregateResult query is used to fetch data based on conditions.\n // Comments explain the logic and purpose of code blocks.\n }\n // Other methods and comments continue below.\n}\n\n// Additional comments and code related to the class and its methods are visible in the lower part of the editor."
+                  },
+                  {
+                    "title": "Search Panel",
+                    "layoutDescription": "Located at the bottom left",
+                    "visibleText": "Find: LinkedInSlots_ComputeCellMetricsBatch\nList: SourcingPlatformRepoDetails, DateTime\nUsages in All Places: 2 results\nUnclassified: 2 results\nsfdx: 2 results\ndefault.classes: 2 results\nLinkedInSlots_ComputeCellMetricsBatch.cl 1 result\nLinkedInSlots_ComputeCellMetricsTests.cls 1 result"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T10:45:55Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "Start menu, Google Chrome, Microsoft Edge, File Explorer, Microsoft Teams, Visual Studio Code, and other unidentified applications. System tray includes network status, sound volume, date and time display (2024-06-12 10:45:55), and user profile picture.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Query editor | Athena | us-east-1 - Google Chrome",
+                "url": "https://us-east-1.console.aws.amazon.com/athena/home?region=us-east-1#query",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "AWS Management Console navigation bar for Services, CloudFront, Lambda, Route 53, CloudWatch, Amazon OpenSearch Service, API Gateway, Systems Manager, DynamoDB, AWS AppSync, Simple Queue Service"
+                },
+                "content": [
+                  {
+                    "title": "Amazon Athena Query Editor",
+                    "layoutDescription": "Text editor and result panel",
+                    "visibleText": "-- xx-ohr-sourcing-campaigns: xx-ohr-sourcing-applications: xx-ohr-historical-data: Query 66: Query 67: Query 68: Query 69: Query 70: Query 71: where date(from_iso8601_date(c.startdate)) > params.campaignStartDate order by c.startdate desc join c.cell_main_publish_selection_c as 'cellEligibility', -- Cell Analytics fields based on month range ... (and more SQL code not fully visible) Run again Explain Cancel Clear Create Query results Query stats Completed Time in queue: 42 ms Run time: 17,292 sec Data scanned: -"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T10:48:04Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. System tray includes network, sound, and clock (10:48 AM, 06/12/2024)",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Query editor | Athena | us-east-1 - Google Chrome",
+                "url": "https://us-east-1.console.aws.amazon.com/athena/home",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Multiple tabs, address bar, bookmarks bar, AWS management console navigation bar"
+                },
+                "content": [
+                  {
+                    "title": "Amazon Athena Query Editor",
+                    "layoutDescription": "Split into three main sections",
+                    "visibleText": "Data source: AwsDataCatalog\nDatabase: xho-ing-production-stats-tracker-backup\nTables and views: accepted_event_relation, accepted_event_relations_schema, cv, account_brand, account_brands_schema, cv_gz, account_contact_relations_schema, cs, account_contact_role, account_control_roles_schema, cv_gz, account_history, accounts_schema, cv_gz, action_link_group_template, action_link_group_templates_schema, cv_gz, action_link_template, action_link_templates_schema, cv_gz, active_features_license_metric, Views (0)\n\nSQL Query:\nwhere date(from_iso8601_date(c.startdate)) > params.campaignStartDate\norder by c.startdate desc\n\n-- cell Analytics fields based on month rang\nwhen d.cellHiringRank is null and d.cellHiringRank > -2 then false -- The last 3 statures are considered 'unknown'\nwhen d.cellSoRecentTest is null on (cellEdit(day, d.cellSoRecentTest, current_date)) > 7 params.weeks_for_slot_performance_analysis) then true\nwhen d.cellWeeklyApplicants is not null and d.cellWeeklyApplicants > params.min_clicks_per_week then false\nwhen d.cellSoWeekTest is not null and d.cellSoWeekTest > params.max_exploration_weeks then false\nelse true\n\n-- Applications Aggregation\ncoalesce(appstats.totalApplications, 0) as 'totalApplications',\ncoalesce(appstats.totalLogins, 0) as 'totalLogins',\ncoalesce(appstats.totalFakers, 0) as 'totalFakers',\ncoalesce(appstats.totalPassers, 0) as 'totalPassers',\ncoalesce(appstats.totalReachedHere, 0) as 'totalReachedHere',\ncoalesce(appstats.totalCancelledDuplication, 0) as 'totalCancelledDuplication',\n\nif (appstats.totalApplications > d.cp.platformCost / appstats.totalApplications, 0) as 'cpa',\n\nleft join 'xho-Hiring-production-stats-tracker-backup'.'job -- cellan on cellan.job_board_cell_id = d.cellId and cellan.sourcing_platform = d.sourcingPlatform\nleft join 'xho-Hiring-production-stats-tracker-backup'.'app on appstats.campaign_id = d.cid and appstats.applyWeeknum = d.weeknum\n\nRun time: 17,292 sec\nData scanned: -"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in writing code within an IDE, specifically IntelliJ IDEA, as evidenced by the open project 'feature/LAMBDA-76029-sfdx-fields'. The user is working on a class named 'LinkedInSlots_ComputeCellMetricsBatch' which implements 'Database.Batchable<SObject>' and 'Schedulable'. The code includes methods for executing batch processes, with various conditions and loops handling data processing. The user is also utilizing the search functionality within the IDE to locate usages of 'LinkedInSlots_ComputeCellMetricsBatch' across different files.",
+    "The user is performing database queries using Amazon Athena, as seen in the Google Chrome window titled 'Query editor | Athena | us-east-1'. The user is working with SQL queries to analyze data from various tables such as 'accepted_event_relation', 'account_brand', and 'account_contact_relation'. The SQL code includes conditions for filtering data based on date ranges and aggregating application statistics. The user is also reviewing query results and execution statistics, indicating an active engagement in data analysis tasks.",
+    "The user is navigating through multiple tabs in Google Chrome, which include various AWS services such as CloudFormation, Lambda, Route 53, CloudWatch, and Amazon OpenSearch Service. This suggests that the user is involved in tasks related to cloud infrastructure management and monitoring. The presence of tabs related to job postings and category jobs indicates that the user might also be involved in recruitment or job market analysis activities."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in writing and navigating code within IntelliJ IDEA and performing SQL queries in Amazon Athena. No AI chat interfaces or AI-driven code suggestions are visible in the screenshots.",
+  "activities": [
+    "WRITING_CODE",
+    "NAVIGATING_CODE",
+    "RESEARCH"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "DB"
+  ],
+  "programmingLanguages": [
+    "SALESFORCE",
+    "SQL"
+  ],
+  "toolTypes": [
+    "IDE",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-12T10:40:01Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T10:41:01Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 2,
+      "mouse": 4,
+      "date": "2024-06-12T10:42:01Z",
+      "windowTitle": "Inbox - artyom.melnikov@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 63,
+      "mouse": 12,
+      "date": "2024-06-12T10:43:01Z",
+      "windowTitle": "Amazon Web Services Sign-In - Google Chrome",
+      "processName": "signin.aws.amazon.com",
+      "visitingUrl": "signin.aws.amazon.com/oauth?client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Faws751&code_challenge=kcEgZSSrZU_Ya9g-8CibBBF7o8tQ4wG3lqx_DhQqA0s&code_challenge_method=SHA-256&response_type=code&redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fath",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 80,
+      "mouse": 6,
+      "date": "2024-06-12T10:44:01Z",
+      "windowTitle": "Google Chat - Denys Yefimenko - Chat",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T10:45:01Z",
+      "windowTitle": "Google Chat - Denys Yefimenko - Chat",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-12T10:46:01Z",
+      "windowTitle": "Query editor | Athena | us-east-1 - Google Chrome",
+      "processName": "us-east-1.console.aws.amazon.com",
+      "visitingUrl": "us-east-1.console.aws.amazon.com/athena/home?region=us-east-1#/query-editor/history/fd581800-5bdd-4682-8745-69205de2a534",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T10:47:01Z",
+      "windowTitle": "Query editor | Athena | us-east-1 - Google Chrome",
+      "processName": "us-east-1.console.aws.amazon.com",
+      "visitingUrl": "us-east-1.console.aws.amazon.com/athena/home?region=us-east-1#/query-editor/history/fd581800-5bdd-4682-8745-69205de2a534",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T10:48:01Z",
+      "windowTitle": "Query editor | Athena | us-east-1 - Google Chrome",
+      "processName": "us-east-1.console.aws.amazon.com",
+      "visitingUrl": "us-east-1.console.aws.amazon.com/athena/home?region=us-east-1#/query-editor/history/fd581800-5bdd-4682-8745-69205de2a534",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T10:49:01Z",
+      "windowTitle": "Query editor | Athena | us-east-1 - Google Chrome",
+      "processName": "us-east-1.console.aws.amazon.com",
+      "visitingUrl": "us-east-1.console.aws.amazon.com/athena/home?region=us-east-1#/query-editor/history/fd581800-5bdd-4682-8745-69205de2a534",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-12T10:40:00Z"
+}

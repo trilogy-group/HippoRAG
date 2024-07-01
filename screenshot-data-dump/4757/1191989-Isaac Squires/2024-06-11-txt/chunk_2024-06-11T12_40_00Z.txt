@@ -1,0 +1,201 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "Zoom",
+        "mail.google.com",
+        "mixpanel.com",
+        "CalculatorApp"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-11T12:42:33Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Core, DevFactory, Magic Academy, GT School, LearnWithAi, Team, and notifications area with clock showing '06:42' and date '11 Jun 2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Team 2 - Individual Notes - Google Docs",
+                                "url": "https://docs.google.com/document/d/1",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help; Toolbar with undo, redo, print, spelling and grammar check, styles, fonts, zoom controls, text formatting options, and more"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Team 2 - Individual Notes",
+                                        "layoutDescription": "Text document layout",
+                                        "visibleText": "The AI Content Generation team has been working on several projects to automate and speed up the process of content generation. Our core work revolves around video creation, and we've kept up to date with the latest tools and advancements, incorporating them into our workflow to improve both quality and speed. Our primary AI tools are GPT, Claude, Eleven Labs, MidJourney, Runway, Pika Labs, D-ID, HeyGen, and Adobe PS generate fill. However we also incorporate Udio, Suno, Topaz AI, Dall-E, Playground AI, Stable Diffusion, and Stable Video on a semi-regular basis.\n\nWe've found that incorporating AI for workflow enhancement has made significant gains for each individual step of the content creation process. However, tools that try to manage this process from start to finish are significantly behind in terms of quality or reliability. Promising apps such as Plainly or Dora are interesting, but most outputs are similar to this, and simply can't be used for anything beyond an initial sketch. We keep tabs on all major updates and experiment with trial versions on any that show promise. Most of the progress in the content generation field has related to improvements in speed or quality at a granular level, rather than eliminate entire steps from our workflow.\n\nMark Nygren - AI Video Creation, Script Development, Audio Engineering, Project Management, Prompt Engineering\n\nTeam leader who manages asset creation with a complete understanding of expected quality, knowledge of the product, and first-hand experience working with the target audience\n \u2022 Began the initial test work on TeachTap with Neil, setting quality bars and basic prompts to evaluate it's usefulness for Autogen agents.\n \u2022 Pushed the video automation pipeline through Plainly and explored other alternatives. After a review of possible options, we decided a more custom process would be needed with the Plainly interface requiring too many workarounds to properly incorporate captions and timed scene changes.\n \u2022 Stayed on top of new tools and updates including MidJourney's cref parameters, Udio's advancements over Suno, Runway's lip sync updates, and D-ID agents.\n \u2022 Has connected the team with second brains from TeachTap and Magic Academy to assist with script-writing and website design.\n \u2022 Use of AI to create innovative content types - Boss Battles\n\nMatt Caponi - AI Video Creation, Web Development, Automation, Project Management, etc."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in reading and possibly editing a document titled 'Team 2 - Individual Notes' on Google Docs. The document discusses the AI Content Generation team's projects, tools, and workflow enhancements. It includes detailed descriptions of various AI tools like GPT, Claude, Eleven Labs, MidJourney, and others, and their applications in video creation and content generation. The user is likely reviewing the document for updates or further actions.",
+        "The user is also involved in email activities, as indicated by the active application 'mail.google.com'. This suggests that the user is managing communications, possibly related to the projects mentioned in the Google Docs document. The email activity could involve coordinating with team members, responding to queries, or managing project-related communications.",
+        "Additionally, the user is using Mixpanel, a web-based analytics tool, as indicated by the active link 'mixpanel.com/project/3313988/view/3818788/app/boards/#id=7342745'. This suggests that the user is analyzing data or metrics related to their projects, possibly to track progress, user engagement, or other relevant analytics."
+    ],
+    "aiUseSummary": "There is no direct evidence of AI tools being used in the provided screenshots. The user is primarily engaged in reading and possibly editing a document on Google Docs, managing emails, and analyzing data on Mixpanel. There are no visible interactions with AI tools or AI-driven features in the provided data.",
+    "activities": [
+        "READING_SPEC",
+        "EMAIL",
+        "RESEARCH"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "READING_SPEC",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T12:40:56Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 19,
+            "mouse": 16,
+            "date": "2024-06-11T12:41:56Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/0lAS20AAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 199,
+            "mouse": 10,
+            "date": "2024-06-11T12:42:56Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-11T12:43:56Z",
+            "windowTitle": "Magic Academy - Magic Academy / Mixpanel - Google Chrome",
+            "processName": "mixpanel.com",
+            "visitingUrl": "mixpanel.com/project/3313988/view/3818788/app/boards/#id=7342745",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 53,
+            "mouse": 22,
+            "date": "2024-06-11T12:44:56Z",
+            "windowTitle": "Calculator",
+            "processName": "CalculatorApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 63,
+            "mouse": 11,
+            "date": "2024-06-11T12:45:56Z",
+            "windowTitle": "Calculator",
+            "processName": "CalculatorApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 20,
+            "date": "2024-06-11T12:46:56Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 3,
+            "date": "2024-06-11T12:47:56Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-11T12:48:56Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T12:49:56Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-11T12:40:00Z"
+}

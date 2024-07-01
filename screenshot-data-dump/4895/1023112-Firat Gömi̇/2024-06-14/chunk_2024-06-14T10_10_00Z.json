@@ -1,0 +1,425 @@
+{
+  "candidateId": 2027577,
+  "apps": [
+    "mail.google.com",
+    "WorkSmart",
+    "docs.google.com",
+    "open.spotify.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T10:11:49Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Siri, Safari, Mail, Calendar, Contacts, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a docked application bar with visible icons for Microsoft Teams, Google Chrome, Visual Studio Code, and others.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Jive - Usage of CoPilot on First Launch - Google Sheets - Part of group Jive CoPilot",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs for different Google Sheets documents, address bar, navigation buttons, Google account profile picture, and other Chrome UI elements"
+                },
+                "content": [
+                  {
+                    "title": "Google Sheets Content",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "Company Name, Buyout Cost of CoPilot, # of Green, # of Yellow, # of Red, Total, Score, Notes, Action\n1. SC Johnson Waxdale Site, $4,123.77, 2, 0, 0, 2, 0, , \n2. RE/MAX Northwest Realtors, $4,321.09, 2, 0, 0, 2, 0, , \n3. Fidelity Bank, $5,123.45, 2, 0, 0, 2, 0, , \n4. Post Co..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Teams",
+            "windows": [
+              {
+                "title": "Jive - TPR",
+                "position": "bottom right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "chat interface, message input area, navigation tabs for Teams, Chat, Calls, and more"
+                },
+                "content": [
+                  {
+                    "title": "Microsoft Teams Chat Content",
+                    "layoutDescription": "Chat interface",
+                    "visibleText": "Messages\n* Starred\n* Front Room (Prod)\n* Recents\n- Jive: TPR\n- Jive: Training daily alert demo\n- Jive: TPR\n- Jive: customer-focused culture\nFrom: FRM\nMessage: Training daily alert demo"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Finder",
+            "windows": [
+              {
+                "title": "Finder Window",
+                "position": "not visible",
+                "isActive": false,
+                "uiElements": {
+                  "details": "window is not visible but assumed present as it is a default macOS application"
+                },
+                "content": [
+                  {
+                    "title": "Finder Window",
+                    "layoutDescription": "Not visible",
+                    "visibleText": "TEXT TOO BLURRY"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "Code Editing - Project Jive",
+                "position": "right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "code editor interface, file explorer, debug panel, extensions sidebar"
+                },
+                "content": [
+                  {
+                    "title": "Visual Studio Code Content",
+                    "layoutDescription": "Code editor layout",
+                    "visibleText": "// Import necessary libraries\nimport React from 'react';\nimport { render } from 'react-dom';\n// Define the App component\nfunction App() {\n  return (\n    <div>\n      <h1>Hello, world!</h1>\n    </div>\n  );\n}\n// Render the App component\nrender(<App />, document.getElementById('app'));\n"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T10:13:28Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash",
+            "position": "bottom"
+          },
+          {
+            "elementType": "dock",
+            "details": "various application icons",
+            "position": "bottom"
+          },
+          {
+            "elementType": "system tray",
+            "details": "notifications, time, and system controls",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Inbox - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 2.4 GB - Google Chrome - Firat (trilogy.com)",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and various extension icons"
+                },
+                "content": [
+                  {
+                    "title": "Email Inbox",
+                    "layoutDescription": "List of emails on left, selected email on right",
+                    "visibleText": "Inbox\nStarred\nSnoozed\nIm Email\nTry out your new features of B2! - Library Pro, Search for, upload, and monetize... \nDean New\nCanceled event: June - TPM customer-focused catch-up on Fri, 3 Jun at 12:00 PM\nBen New\nCanceled event: June - TPM customer-focused catch-up on Fri, 3 Jun at 12:00 PM\nTony Stubblebine\nA letter from Tony Stubblebine, Medium.com CEO - Hi there, This is Tony Stubblebine, CEO of Medium, I'm writing to thank y...\n\nMore emails listed with various subjects and senders"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Teams",
+            "windows": [
+              {
+                "title": "Team Chat",
+                "position": "bottom right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "interface with message list and input area"
+                },
+                "content": [
+                  {
+                    "title": "Team Chat",
+                    "layoutDescription": "Chat interface with message list and input area",
+                    "visibleText": "Team Chat\n\nMentions\nMissed Calls\nContact Requests\nDrafts and Sent\nMore\n\nMessages\nStarred\nRecent\n\nFirat Gomi (You)\n\nJune - TPM\nMessage: TPMing daily sit down demo\n\nMore messages listed with various contents"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Finder",
+            "windows": [
+              {
+                "title": "Finder",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "management interface with sidebar and file view area"
+                },
+                "content": [
+                  {
+                    "title": "Finder",
+                    "layoutDescription": "management interface with sidebar and file view area",
+                    "visibleText": "Applications\nDesktop\nDocuments\nDownloads\nMore folders listed with various names and types"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Calendar",
+            "windows": [
+              {
+                "title": "Calendar",
+                "position": "top right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "interface with date and event list"
+                },
+                "content": [
+                  {
+                    "title": "Calendar",
+                    "layoutDescription": "interface with date and event list",
+                    "visibleText": "June 13\nToday\n\nFirat Gomi\n\nJune 14\n\nJune 15\n\nJune 16\n\nJune 17\n\nJune 18\n\nJune 19\n\nMore dates listed with various events"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T10:18:04Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Python, Automation, Git, Ubuntu, Guides",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "[Draft] PM. Playbook - Google Docs - High memory usage - 922 MB - Google Chrome - Firat (trilogy.com)",
+                "url": "https://docs.google.com/document",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar at top, editing toolbar below, document body, right sidebar with chat"
+                },
+                "content": [
+                  {
+                    "title": "[Draft] PM. Playbook",
+                    "layoutDescription": "Text document layout",
+                    "visibleText": "3. Pick the Playbook\n\nGoal: Ensure timely exploration and actionable feedback for the site.\n\nStrategy: With all new products on the same, present product customers tend to ignore emails from our new solutions until the media campaign ends. Explore solutions.\n\nProblems:\n\nControl is shared across departments and we can rarely sway the lead build. mission. Users told us they prefer to receive more frequent and more informative updates about our product line during the year. However, the \"set-it-and-forget-it\" strategy is longer than their attention span.\n\nPM is responsible for setting the approach that best balances the cost of delivering value vs. it should try to engage customers until the site is up.\n\n- Should focus more on \"outreach\" than \"exploration.\" Delivery-first engagement cycle or another cycle to be managed?\n\n- Can customers remain engaged with good insights or \"bites\" for team boosting and morale?\n\n- How can we ensure responsible on-site customer engagement for immediate, even when launching features of the site?\n\nInception Playbook\n\n- The feature has not started developments, we are in the future strategy or feature planning stage.\n\n- Goal: Ensure user and deeper affiliation with customer interactions, and by meeting their precise engagement focus on customer research.\n\n- Must involve customer engagement with Customer Feedback Reports.\n\nDevelopment Playbook\n\n- Fastest in its development, we can work with wireframes, full designs, rough prototypes.\n\n- Goal: Better wire framing during development by testing and interacting with customers.\n\n- Must involve Customer Feedback Reports.\n\nEarly Engagement Playbook\n\n- The feature was developed and released\n\n- Goal: Ensure timely exploration and actionable feedback for the site.\n\n"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Outreach",
+            "windows": [
+              {
+                "title": "Call List - Outreach",
+                "url": "https://app.outreach.io/calls/list",
+                "position": "maximized",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Menu bar at top, call list table, left sidebar with search and filter options"
+                },
+                "content": [
+                  {
+                    "title": "Call List",
+                    "layoutDescription": "Table layout",
+                    "visibleText": "Total 8\nAnswered 1\nNo Answer 2\nLeft Voicemail 1\nBad Number 3\nNo Disposition 1\n\nMy calls\n\nSearch\n\nUser ID 0\nAdd filter\n\nTime & Date\nProspect\nPhone\nTime\nDuration\nPurpose\nD Goni\n+1 701-371-7520\n10:00 PM\nCompleted (0.34s)\nDemo C...\nAnswered - OBS...\nRebecca C...\n\nFirat Goni\n+1 701-371-7520\n9:29 PM\nCanceled\nDemo C...\n\nFirat Goni\n+1 701-371-7520\n9:17 PM\nCompleted (0.29s)\nDemo C...\nLeft Voicemail\nRobert Hen...\n\nFirat Goni\n+1 701-371-7520\n4:44 PM\nCompleted (0.36s)\nDemo C...\nAnswered - OBS...\nWanted to..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in multiple tasks. They are working on a Google Sheets document titled 'Jive - Usage of CoPilot on First Launch,' which involves analyzing data related to company names, buyout costs, and various metrics. The user is also involved in team communication via Microsoft Teams, where they are participating in a chat titled 'Jive - TPR' and discussing topics like 'Training daily alert demo.' Additionally, the user is managing their email inbox on Gmail, reviewing emails related to TPM customer-focused catch-ups and other work-related communications.",
+    "The user is also working on a Google Docs document titled '[Draft] PM. Playbook,' where they are editing and adding comments. The document focuses on strategies for product management, including goals, problems, and various playbooks for different stages of development. The user is seen assigning tasks and adding comments to involve team members in the discussion. This indicates that the user is involved in both creating and reviewing specifications.",
+    "The user is managing a call list on the Outreach platform, which includes details about calls made, their duration, and outcomes. This suggests that the user is involved in outreach activities, possibly related to sales or customer support. The call list includes various statuses like 'Completed,' 'Canceled,' and 'Left Voicemail,' indicating the user's active role in managing and following up on calls.",
+    "Throughout the captured period, the user is also seen using Google Chrome to navigate between different tabs and applications. This includes accessing Google Sheets, Google Docs, Gmail, and the Outreach platform. The user is multitasking and switching between different tools to manage their workflow efficiently. The presence of multiple tabs and applications open simultaneously indicates a high level of activity and engagement in various tasks."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in manual tasks such as editing documents, managing emails, participating in team chats, and handling outreach calls. There are no visible AI chat interfaces or AI-generated content in the screenshots, indicating that the user is not utilizing AI tools for their workflow during this period.",
+  "activities": [
+    "READING_SPEC",
+    "WRITING_SPEC",
+    "EMAIL",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [
+    "UI"
+  ],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_SPEC",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-14T10:10:14Z",
+      "windowTitle": " Inbox - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 2.2 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-14T10:11:14Z",
+      "windowTitle": " WorkSmart\n",
+      "processName": "WorkSmart",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-14T10:12:14Z",
+      "windowTitle": "https://docs.google.com/spreadsheets/d/12oa2YO3TzeRsKva2OFvbvo2kWqriAvQq6JBjWOgQ76A/edit#gid=491352311\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/spreadsheets/d/12oa2YO3TzeRsKva2OFvbvo2kWqriAvQq6JBjWOgQ76A/edit#gid=491352311",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 2,
+      "mouse": 4,
+      "date": "2024-06-14T10:13:14Z",
+      "windowTitle": " Starred - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 2.4 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#starred",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 7,
+      "mouse": 8,
+      "date": "2024-06-14T10:14:14Z",
+      "windowTitle": " Customer Interviews - Google Sheets - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/spreadsheets/d/1fXZAi1Enrfd3zn_eg7WFg-CqdvJRIDKEEAZUxYlEI7E/edit#gid=336053345",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 6,
+      "date": "2024-06-14T10:15:14Z",
+      "windowTitle": " Alles Gute â¢ Faber - Audio playing - Google Chrome - F?rat\n",
+      "processName": "open.spotify.com",
+      "visitingUrl": "https://open.spotify.com/?trackId=6170lJSBtiM5trzOtHtdD2",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 80,
+      "mouse": 22,
+      "date": "2024-06-14T10:16:14Z",
+      "windowTitle": " Jive Cloud CoPilot - Outreach - Google Sheets - Part of group Jive CoPilot - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/spreadsheets/d/1-RRgVkDpEa_z6PnSiqqKllWiAWX2os3OAmuDttJ_oNA/edit?pli=1#gid=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 4,
+      "mouse": 16,
+      "date": "2024-06-14T10:17:14Z",
+      "windowTitle": " [Draft] PM. Playbook - Google Docs - High memory usage - 922 MB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1NnuOrDIVWNOFp8bniKJH9FfXwm_mRDxbl_ubCXMVAA4/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 117,
+      "mouse": 5,
+      "date": "2024-06-14T10:18:14Z",
+      "windowTitle": " [Draft] PM. Playbook - Google Docs - High memory usage - 922 MB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1NnuOrDIVWNOFp8bniKJH9FfXwm_mRDxbl_ubCXMVAA4/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 42,
+      "mouse": 7,
+      "date": "2024-06-14T10:19:14Z",
+      "windowTitle": " DevFactory Mail - Pinned - High memory usage - 2.4 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#chat/space/AAAAaeKfuEw",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-14T10:10:00Z"
+}

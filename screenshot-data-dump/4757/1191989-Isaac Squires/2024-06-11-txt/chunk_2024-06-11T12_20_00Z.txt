@@ -1,0 +1,110 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-11T12:27:48Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Chrome, File Explorer, and other unidentified applications. Also includes system clock showing '06:27' and date '11 Jun 2024'.",
+                        "position": "bottom"
+                    },
+                    {
+                        "elementType": "notification",
+                        "details": "notification for 'Budget discussion' meeting in 3 minutes with Meeting ID: 996 3520 9972. Options to 'Join' or 'Snooze'.",
+                        "position": "bottom right"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Magic Academy - Marketing - Chat - Google Chrome",
+                                "url": "mail.google.com/mail/u/0/#chat/dm/",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, Gmail sidebar, chat window, task list"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat with Simon Said",
+                                        "layoutDescription": "Chat window open with conversation history",
+                                        "visibleText": "latex commands\nit doesn't support the full Latex range of commands, hence the MathJax compatible part. I'll make this clearer\nSimon Said 3:01AM \u00b7 Edited\nYou\nIt seems like in the document you are comparing Markdown vs Latex, but I don't think that's the decision to compare. I think it would be:\n1. Should we use Latex or MathML?\n2. Should we support Markdown formatting?\n3. Should we use MathJax specific commands (Latex extensions)?\nWe have an ongoing experiment in AI eng to compare Latex with MathML, this should drive us in the right direction.\nITD 2 doesn't compare MD vs Latex, it compares all options we have to generate a combination of formatted text + Math formulae, these being Latex, MathML, MD with Latex extensions, QTI. There's actually a fifth which we'll add - MD with MathML.\n\u2022 the nuance of comparing these directly vs first picking MathML vs Latex is that while MathML is more verbose, MD resolves this concern for text formatting, which may impact the decision.\ndo you see this part differently?"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a chat conversation on Gmail with a colleague named Simon. The discussion revolves around comparing Markdown and Latex for formatting text and MathML for mathematical formulas. The user is clarifying the differences and suggesting the use of MathML over Latex due to its verbosity and better text formatting capabilities. The user also mentions an ongoing experiment in AI engineering to compare Latex with MathML, indicating a focus on making an informed decision based on the experiment's outcomes.",
+        "The user has a task list open on the right side of the Gmail interface. The tasks include Q2 progress/Q3 plan, Samy 1:1 topics, weekly update, entering grades, posting content on TikTok, following up with Doreen about a research study, and publishing a game for Xbox/PlayStation/Apple Vision Pro. This indicates that the user is managing multiple tasks and projects simultaneously, likely involving coordination with different team members and stakeholders.",
+        "A notification for a 'Budget discussion' meeting appears on the screen, scheduled to start in 3 minutes. The meeting has a Zoom link with a Meeting ID: 996 3520 9972. This suggests that the user is preparing to join a meeting shortly, which is likely related to one of the tasks listed in their task manager."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a chat conversation and managing tasks within Gmail. No AI chat interfaces or AI-driven suggestions are visible in the screenshots.",
+    "activities": [
+        "CHATTING_WITH_TEAM",
+        "EMAIL"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "CHATTING_WITH_TEAM",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 5,
+            "date": "2024-06-11T12:27:56Z",
+            "windowTitle": "Magic Academy - Marketing - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/iXTDrUAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 92,
+            "mouse": 4,
+            "date": "2024-06-11T12:28:56Z",
+            "windowTitle": "Samy's VPs Gen AI Adoption - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/iXTDrUAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-11T12:29:56Z",
+            "windowTitle": "Magic Academy - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAADn3omDE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-11T12:20:00Z"
+}

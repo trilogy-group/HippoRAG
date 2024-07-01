@@ -1,0 +1,307 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "meet.google.com",
+        "mail.google.com",
+        "us-east-1.quicksight.aws.amazon.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T19:20:47Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Search, and system tray with time display and language indicator",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - wyj-rdjj-kan - Google Chrome",
+                                "url": "meet.google.com/wyj-rdjj-kan",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "conference window with participant videos, chat sidebar, and meeting controls"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference Participants",
+                                        "layoutDescription": "Grid layout",
+                                        "visibleText": "Samy Aboel-Nil, Robert Egglestone, Isaac Squires, David's AI Notetaker (from Otter.ai), David Schwartz, Dragos Nut"
+                                    },
+                                    {
+                                        "title": "Chat Sidebar",
+                                        "layoutDescription": "Vertical list",
+                                        "visibleText": "David Schwartz: ok - done ill do more changes i need to log off take a look\nDavid Schwartz: I'll be online in 10 mins"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Gmail - David Schwartz - Google Chrome",
+                                "url": "mail.google.com/mail/u/0/#chat/dm",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "email and chat interface with navigation sidebar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email and Chat Navigation",
+                                        "layoutDescription": "Vertical list",
+                                        "visibleText": "Mail, Chat, Meet, New chat, Shortcuts, Home, Mentions, Starred, Direct messages, Noumaan Shah, EDGAR H MULONGO, Firat Gomi, Jamie Sidey, Ben New, Andrei Kharytonenka, George, Noumaan, Phil Hewinson, Spaces, Samy's VPs Gen, AWS News, XO Team Chat, AppManager Technical, GFI BU/CE/TPM Management, CNU AI Assist - Extraction, Feature Line automation, CNU Q Business Productivity, tpm reboot, Crossover - Upwork Support, XO Candidate Support, Feature Line - US"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T19:26:07Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Task View, Edge, File Explorer, Mail, Calendar, Store, Photos, Settings, and several other unidentified applications. Also includes system tray with clock showing '10:26 PM', date '6/5/2024', and other system icons like network, sound, and notifications.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Kayako Ai - Performance Views - Google Chrome",
+                                "url": "us-east-1.quicksight.aws.amazon.com",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, and QuickSight dashboard controls"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Kayako Ai - Performance Views",
+                                        "layoutDescription": "Dashboard layout with multiple sections",
+                                        "visibleText": "QuickSight\nKayako Ai - Performance Views\nOverview Performance Funnels Brands Breakdown Costs Analysis\nControls\nStart Date: 2024/04/01 00:00:00 End Date: 2024/06/05 00:00:00\nTotal Customers Cumulative Snapshot\n94\nStatus SignedUp Active\nTotal Active Brands One customer can have multiple brands Weekly\n4\nPerformed Analysis Trend Weekly\n11\nList of Signed Up or Active Customers\nCustomer Code status\n3danmark SignedUp\n3esynaptiq Active\n888voip SignedUp\nacoustica SignedUp\nactbuildingsystems SignedUp\nadebco SignedUp\naddonproducts Active\nadeco SignedUp"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T19:27:51Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, widgets, and several pinned applications. Notification area includes system clock showing '10:27 PM', system date '6/5/2024', language indicator 'ENG', sound volume control, network status, and other system icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - wyj-rdjj-kan - Google Chrome",
+                                "url": "meet.google.com/wyj-rdjj-kan",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, Google account avatar, extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Meet Video Conference",
+                                        "layoutDescription": "Grid layout with participant videos",
+                                        "visibleText": "Samy Aboel-Nil, Robert Egglestone, Isaac Squires, David's AI Notetaker (from Otter.ai), David Schwartz, Dragos Nuta, XO Kanban Weekly Demo, read.ai meeting notes"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Gmail - Omar, Benji - Google Chrome",
+                                "url": "mail.google.com/mail/u/0/#chat/spa",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "interface with navigation pane, chat window, and email list"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Gmail Chat",
+                                        "layoutDescription": "Chat interface with messages",
+                                        "visibleText": "Benji Bizzell: I took a look over the ticket you sent me. We need to get permission from the customer. Omar Ortiz: @Dragos Nuta that would be great, thanks!"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Google Meet video conference, as evidenced by the active window titled 'Meet - wyj-rdjj-kan - Google Chrome'. The conference window displays participant videos in a grid layout, with visible participants including Samy Aboel-Nil, Robert Egglestone, Isaac Squires, David's AI Notetaker (from Otter.ai), David Schwartz, and Dragos Nuta. The chat sidebar shows messages from David Schwartz indicating ongoing communication during the meeting.",
+        "The user is also interacting with Gmail, as seen in the window titled 'Gmail - David Schwartz - Google Chrome'. The interface includes email and chat navigation with various sections such as Mail, Chat, Meet, New chat, Shortcuts, Home, Mentions, Starred, and Direct messages. The user is engaged in direct messages with individuals like Noumaan Shah, EDGAR H MULONGO, Firat Gomi, and Jamie Sidey, among others.",
+        "Additionally, the user is working with Amazon QuickSight, as shown in the window titled 'Kayako Ai - Performance Views - Google Chrome'. The dashboard layout includes multiple sections such as Overview, Performance Funnels, Brands Breakdown, and Costs Analysis. The user is viewing data related to Total Customers, Total Active Brands, and Performed Analysis Trend, with specific customer codes and their statuses listed.",
+        "In another instance, the user is seen in a Gmail chat with Omar and Benji, discussing a ticket that requires customer permission. The chat interface shows messages from Benji Bizzell and Omar Ortiz, indicating a collaborative effort to resolve the issue. This activity is concurrent with the ongoing Google Meet video conference, suggesting multitasking."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being utilized in the user's workflow based on the provided screenshots. The user is primarily engaged in video conferencing, email communication, and data analysis using Amazon QuickSight. No interactions with AI chat interfaces or AI-driven tools are visible in the captured screenshots.",
+    "activities": [
+        "MEETING",
+        "EMAIL",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T19:20:01Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T19:21:01Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 18,
+            "mouse": 7,
+            "date": "2024-06-05T19:22:01Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T19:23:01Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T19:24:01Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 13,
+            "mouse": 0,
+            "date": "2024-06-05T19:25:01Z",
+            "windowTitle": "Omar, Benji - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 41,
+            "mouse": 17,
+            "date": "2024-06-05T19:26:01Z",
+            "windowTitle": "Kayako Ai - Performance Views - Google Chrome",
+            "processName": "us-east-1.quicksight.aws.amazon.com",
+            "visitingUrl": "us-east-1.quicksight.aws.amazon.com/sn/accounts/646253092271/dashboards/15cd8213-08fc-4bdf-8b3f-5ad9541b2ce0/sheets/15cd8213-08fc-4bdf-8b3f-5ad9541b2ce0_75b920fb-e799-4a88-a99f-211b14d8aa12",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 36,
+            "mouse": 27,
+            "date": "2024-06-05T19:27:01Z",
+            "windowTitle": "Samy's Original VP TPMs - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAhwn64Tw",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 41,
+            "mouse": 0,
+            "date": "2024-06-05T19:28:01Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T19:29:01Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-05T19:20:00Z"
+}

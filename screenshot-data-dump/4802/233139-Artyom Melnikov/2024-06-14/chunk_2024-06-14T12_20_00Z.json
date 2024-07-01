@@ -1,0 +1,288 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "webstorm64",
+    "Postman",
+    "us-east-1.console.aws.amazon.com",
+    "idea64",
+    "chrome"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T12:20:00Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Visual Studio Code, File Explorer, Google Chrome, and other unidentified applications. Also includes system clock showing '14:24' and system tray with network, sound, and battery status icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "ML1.context.md - lambda-cdk-infra - Visual Studio Code",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "menu bar at top, sidebar on the left with file explorer, bottom bar with terminal output"
+                },
+                "content": [
+                  {
+                    "title": "ML1.context.md",
+                    "layoutDescription": "text editor with sidebar",
+                    "visibleText": "# How do we Win\n\nGiven the status quo and our vision, how do we win against the current alternatives? \n\n(e.g.\n\nPersonalized and unlimited: Use gen AI to create unlimited age-relevant reading content for students.\n\nCreate engaging reading experiences:\nIntegrate various forms of media within the reading content including images, audio clips, and videos to make reading an interactive experience. Rather than the student answering questions on pre-generated content, they will be actively involved in creating their own learning paths.\n\nSocial: Enable students to collaboratively create stories together with their friends - sharing the creative process.\n\nAcademic rigor: We do the above to get students to want to put more time and energy into reading than they currently do.\n\n# Important Business Decisions\n\nWhat are the most important business decisions that will ensure the success of the product? \n\n# Product Context\n\n# Core Features\n\nHow do we deliver that outcome? (main features that deliver main use cases, limit to 3) \n\n(e.g.\n\nA vast bank of AI-generated content, aligned with student interests: We'll have a comprehensive library of content that is continuously updated to reflect current trends and student interests.\n\nStory builder: Enable students to create personalized stories through a choose-your-own-adventure style interactive experience.\n\nCreative workshops: Workshops that provide students with the tools and guidance needed to create their own stories, enhancing their creative skills and encouraging them to think critically about the content they consume."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T12:25:33Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for multiple applications including Google Chrome, Microsoft Edge, and others. System tray on the right includes network, sound, and time display.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Amazon Web Services Sign-In",
+                "url": "https://us-east-1.signin.aws.amazon.com/console",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "UI includes back, forward, refresh buttons, and address bar."
+                },
+                "content": [
+                  {
+                    "title": "Amazon Web Services Sign-In",
+                    "layoutDescription": "Fullscreen browser window",
+                    "visibleText": "TEXT TOO BLURRY"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T12:28:26Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for IntelliJ IDEA, Microsoft Edge, File Explorer, and other unidentified applications. Also includes system status icons like network, sound, and time display.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "IntelliJ IDEA",
+            "windows": [
+              {
+                "title": "feature/LAMBDA-76029",
+                "isActive": true,
+                "position": "maximized",
+                "uiElements": {
+                  "details": "tabs for Project, Git, and Database tools. Also includes a bottom status bar with Git branch information and a search bar."
+                },
+                "content": [
+                  {
+                    "title": "Project Explorer",
+                    "layoutDescription": "Left sidebar",
+                    "visibleText": "- src\n - main\n - java\n - resources\n - test\n - java\n - resources\n- .idea\n- .sfdx\n- .vscode\n- config\n- force-app\n - main\n - default\n - classes\n - triggers\n - layouts\n - objects\n - MiningRank__c\n - fields\n - Job_Board_Cell_Analytics__c.field\n - SourcingPlatformDetails.field\n - SourcingPlatform.field\n - generate-manifest.js"
+                  },
+                  {
+                    "title": "Git",
+                    "layoutDescription": "Right panel",
+                    "visibleText": "Agenda\nfeat(LAMBDA-76029): Remove problematic layout\nCommit\nCommit and Push..."
+                  },
+                  {
+                    "title": "Database",
+                    "layoutDescription": "Bottom panel",
+                    "visibleText": "SOQL Query\nSOQL Query 1\nSOQL Query 2\nSOQL Query 3\nSOQL Query 4\nSOQL Query 5\nSOQL Query 6\nSOQL Query 7\nSOQL Query 8\nSOQL Query 9\nSOQL Query 10\nSOQL Query 11\nSOQL Query 12\nSOQL Query 13\nSOQL Query 14\nSOQL Query 15\nSOQL Query 16"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in writing and editing code using Visual Studio Code. They are working on a file named 'ML1.context.md' within a project called 'lambda-cdk-infra'. The content of the file includes detailed sections on 'How do we Win', 'Important Business Decisions', 'Product Context', and 'Core Features'. The user is focusing on creating engaging reading experiences using AI-generated content, integrating various forms of media, and enabling collaborative story creation among students.",
+    "The user is also using Google Chrome to access the Amazon Web Services (AWS) console. They are attempting to sign in to the AWS console, as indicated by the URL 'https://us-east-1.signin.aws.amazon.com/console'. The browser window is in fullscreen mode, but the text is too blurry to read specific details. This activity suggests the user is managing or monitoring cloud resources on AWS.",
+    "In another instance, the user is working with IntelliJ IDEA, focusing on a feature branch named 'feature/LAMBDA-76029'. The project explorer shows a structured directory with various files and folders, including 'src', 'main', 'java', 'resources', and '.sfdx'. The user is also interacting with Git and Database tools within IntelliJ IDEA, indicating they are managing source control and executing SOQL queries. The visible SOQL query involves selecting data from a 'Product2' table with specific conditions."
+  ],
+  "aiUseSummary": "There is no visible evidence of AI tools being used in the provided screenshots. The user is primarily engaged in coding, accessing cloud resources, and managing source control without any interaction with AI tools for code suggestions, research, or debugging.",
+  "activities": [
+    "WRITING_CODE",
+    "READING_SPEC",
+    "RESEARCH"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "IAC",
+    "DB"
+  ],
+  "programmingLanguages": [
+    "TYPESCRIPT",
+    "SALESFORCE",
+    "SQL"
+  ],
+  "toolTypes": [
+    "IDE",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 40,
+      "mouse": 23,
+      "date": "2024-06-14T12:20:17Z",
+      "windowTitle": "lambda-cdk-infra ? L1.context.md",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 18,
+      "date": "2024-06-14T12:21:17Z",
+      "windowTitle": "lambda-cdk-infra ? L1.context.md",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 9,
+      "mouse": 3,
+      "date": "2024-06-14T12:22:17Z",
+      "windowTitle": "https://sandbox-admin-api.crossover.com/api/assessments?pipelineIds=01tF3000006EIKEIA4 - My Workspace",
+      "processName": "Postman",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T12:23:17Z",
+      "windowTitle": "https://sandbox-admin-api.crossover.com/api/assessments?pipelineIds=01tF3000006EIKEIA4 - My Workspace",
+      "processName": "Postman",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T12:24:17Z",
+      "windowTitle": "https://sandbox-admin-api.crossover.com/api/assessments?pipelineIds=01tF3000006EIKEIA4 - My Workspace",
+      "processName": "Postman",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 14,
+      "mouse": 22,
+      "date": "2024-06-14T12:25:17Z",
+      "windowTitle": "https://wxzjt8e58c.execute-api.us-east-1.amazonaws.com/pr457/cmsupdate/pipelineMetadata - My Workspace",
+      "processName": "Postman",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 17,
+      "mouse": 13,
+      "date": "2024-06-14T12:26:17Z",
+      "windowTitle": "CloudWatch | us-east-1 - Google Chrome",
+      "processName": "us-east-1.console.aws.amazon.com",
+      "visitingUrl": "us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1#logsV2:log-groups$3FlogGroupNameFilter$3D457",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-14T12:27:17Z",
+      "windowTitle": "CloudWatch | us-east-1 - Google Chrome",
+      "processName": "us-east-1.console.aws.amazon.com",
+      "visitingUrl": "us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1#logsV2:log-groups/log-group/$252Faws$252Flambda$252Fxo-hiring-pr457-sf-api-proxy",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 16,
+      "mouse": 17,
+      "date": "2024-06-14T12:28:17Z",
+      "windowTitle": "sfdx ? MiningRank__c.field",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 80,
+      "mouse": 20,
+      "date": "2024-06-14T12:29:17Z",
+      "windowTitle": "Google Chat - Vinodh Talapaneni - Chat",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-14T12:20:00Z"
+}

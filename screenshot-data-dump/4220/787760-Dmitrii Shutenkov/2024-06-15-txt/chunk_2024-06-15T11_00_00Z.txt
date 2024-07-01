@@ -1,0 +1,278 @@
+{
+    "candidateId": 1444536,
+    "apps": [
+        "crossover.lightning.force.com",
+        "github.com",
+        "ws-lambda.atlassian.net"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-15T11:01:51Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, Microsoft Edge, File Explorer, Microsoft Store, Mail, Calendar, Photos, Settings, and pinned applications. Also displays system tray with network, sound, and battery status icons, date and time display.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "xo-hiring/sfdx/force at df92c19cc59ab0449e62e40dc3a57cbc55c8c28f \u00b7 trilogy-group/xo-hiring - Google Chrome",
+                                "url": "https://github.com/trilogy-group/xo-hiring",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, GitHub repository navigation, file navigation sidebar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Code",
+                                        "layoutDescription": "editor with code",
+                                        "visibleText": "300\n309\n310\n311\n312\n313 'companyTestSessionFinished' {\nasr.Submission_Duration_c = (Integer)payload.get('duration') / 1000;\nasr.Submission_Time_c = submissionDateTime;\nif (!isManuallyGraded) {\nasr.Raw_Score_c = (Decimal) payload.get('score');\nDouble maxScore = (Decimal)payload.get('maxScore');\nasr.Score_c = asr.Raw_Score_c / maxScore * 100;\nasr.Grading_Result_URL_c = (String)payload.get('url');\n}\n\nString plagiarismLabel = (String)payload.get('plagiarismLabel');\nswitch on plagiarismLabel {\nwhen 'low' {\nasr.Credibility_Rating_c = 'High';\n}\nwhen 'medium' {\nasr.Credibility_Rating_c = 'Medium';\n}\nwhen 'high' {\nasr.Credibility_Rating_c = 'Low';\n}\n}\n"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-15T11:05:18Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Task View, Microsoft Edge, File Explorer, Microsoft Store, Mail, Calendar, Photos, Settings, and pinned applications. Also includes system tray with network, sound, and date/time indicators.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Lightning Experience - Google Chrome",
+                                "url": "https://crossover.lightning.force.com",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, extensions icons, and settings menu."
+                                },
+                                "content": [
+                                    {
+                                        "title": "XO Recruiting",
+                                        "layoutDescription": "Top navigation bar",
+                                        "visibleText": "XO Recruiting Home Candidates Applications Application Step Results Application Steps Pipelines Campaigns Identity Proofs Tasks Approval Requests Leads Calendar More"
+                                    },
+                                    {
+                                        "title": "Browser Tabs",
+                                        "layoutDescription": "Row of tabs",
+                                        "visibleText": "SF Prod SF Sandbox ADFS My Tasks Crossover Sprints Create Task Technical Debt - Crossover Guides - Crossover WS.Eng TPO: Leadership... Task Catalog"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-15T11:09:02Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned and running applications. Displays the system tray with network, sound, and date/time indicators.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Fix a Bug - WS Lambda - Jira Service Management - Google Chrome",
+                                "url": "ws-lambda.atlassian.net/service",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "UI includes back, forward, refresh, home buttons, address bar, bookmarks bar, tabs, and profile icon."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Web Page Content",
+                                        "layoutDescription": "Web page with multiple sections",
+                                        "visibleText": "SF Prod SF Sandbox ADFS My Tasks Crossover Sprints Create Task Technical Debt - Crossover Guides - Crossover... WS.Eng TPO: Leader... Task Catalog New Codesignal grading incorrectly handles case of 'companyTestSessionFinished' event Suggested articles LAMBDA-28530 - M2 AUTOMATIC GRADING OF CALL TASKS BASED ON AUTOMATED METRICS - MILESTONE REVIEW [Backend - Salesforce Object Configuration, 4hrs] QC - update schema for threshold auto-grading Automating QC of ISR Calls! LAMBDA-38703 - REWORK 1 OF: RESOLVE MERGE CONFLICTS FOR FRONTEND ARE CREATED INCORRECTLY A 'Frontend - Resolve A Merge Conflict' ticket had an incorrect Pipelines set. LAMBDA-36300:WSPRO DATA IN BACK-END QC GRADING SHEET IS MISSING DATA AFTER WEEK 30 Team billed hours are extracted on a scheduled event on the Back-end QC Grading Sheet link! Description * Normal text B I ... A v : : = @ \u00a9 \u00ae \u2122 \u02c6 \u02dc + When 'companyTestSessionFinished' event arr Product * <p>Product - Project</p>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in reviewing code on GitHub. They are examining the 'AssessmentHelperCodeSignal.cls' file within the 'xo-hiring' repository. The visible code includes logic for handling the 'companyTestSessionFinished' event, calculating submission duration, score, and grading results. The user is likely ensuring the correctness of the code and its adherence to the required functionality.",
+        "The user is navigating through the Salesforce Lightning Experience on the 'crossover.lightning.force.com' domain. They are viewing the 'Application Step Result' page, which is part of the XO Recruiting application. This activity suggests that the user is involved in managing or reviewing application steps and results, possibly for recruitment or candidate evaluation purposes.",
+        "The user is creating a bug report on the Jira Service Management platform, accessible via 'ws-lambda.atlassian.net'. They are detailing an issue related to the incorrect handling of the 'companyTestSessionFinished' event in the new CodeSignal grading system. The user is providing a description of the problem and referencing related articles, indicating a thorough approach to documenting and resolving the issue."
+    ],
+    "aiUseSummary": "",
+    "activities": [
+        "REVIEWING_CODE",
+        "READING_SPEC",
+        "WRITING_SPEC"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [
+        "SALESFORCE"
+    ],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "REVIEWING_CODE",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-15T11:00:41Z",
+            "windowTitle": "Complex Problem-Solving in Code | Application Step Result | Salesforce - Google Chrome",
+            "processName": "crossover.lightning.force.com",
+            "visitingUrl": "crossover.lightning.force.com/lightning/r/Application_Step_Result__c/a0BIj0000013lKeMAI/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 9,
+            "date": "2024-06-15T11:01:41Z",
+            "windowTitle": "xo-hiring/sfdx/force-app/main/default/classes/AssessmentHelperCodeSignal.cls at df92c19cc59ab0449e62e40dc3a57cbc55c8c28f ? trilogy-group/xo-hiring - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring/blob/df92c19cc59ab0449e62e40dc3a57cbc55c8c28f/sfdx/force-app/main/default/classes/AssessmentHelperCodeSignal.cls",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 8,
+            "date": "2024-06-15T11:02:41Z",
+            "windowTitle": "xo-hiring/sfdx/force-app/main/default/classes/AssessmentHelperCodeSignal.cls at df92c19cc59ab0449e62e40dc3a57cbc55c8c28f ? trilogy-group/xo-hiring - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring/blob/df92c19cc59ab0449e62e40dc3a57cbc55c8c28f/sfdx/force-app/main/default/classes/AssessmentHelperCodeSignal.cls",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 6,
+            "date": "2024-06-15T11:03:41Z",
+            "windowTitle": "xo-hiring/sfdx/force-app/main/default/classes/AssessmentHelperCodeSignal.cls at df92c19cc59ab0449e62e40dc3a57cbc55c8c28f ? trilogy-group/xo-hiring - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring/blob/df92c19cc59ab0449e62e40dc3a57cbc55c8c28f/sfdx/force-app/main/default/classes/AssessmentHelperCodeSignal.cls#L180",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 6,
+            "date": "2024-06-15T11:04:41Z",
+            "windowTitle": "xo-hiring/sfdx/force-app/main/default/classes/AssessmentHelperCodeSignal.cls at df92c19cc59ab0449e62e40dc3a57cbc55c8c28f ? trilogy-group/xo-hiring - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring/blob/df92c19cc59ab0449e62e40dc3a57cbc55c8c28f/sfdx/force-app/main/default/classes/AssessmentHelperCodeSignal.cls#L185",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 6,
+            "date": "2024-06-15T11:05:41Z",
+            "windowTitle": "Complex Problem-Solving in Code | Application Step Result | Salesforce - Google Chrome",
+            "processName": "crossover.lightning.force.com",
+            "visitingUrl": "crossover.lightning.force.com/lightning/r/Application_Step_Result__c/a0BIj0000013lKeMAI/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 6,
+            "date": "2024-06-15T11:06:41Z",
+            "windowTitle": "xo-hiring/sfdx/force-app/main/default/classes/AssessmentHelperCodeSignal.cls at df92c19cc59ab0449e62e40dc3a57cbc55c8c28f ? trilogy-group/xo-hiring - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring/blob/df92c19cc59ab0449e62e40dc3a57cbc55c8c28f/sfdx/force-app/main/default/classes/AssessmentHelperCodeSignal.cls#L185",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 7,
+            "date": "2024-06-15T11:07:41Z",
+            "windowTitle": "Fix a Bug - WS Lambda - Jira Service Management - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/servicedesk/customer/portal/5/group/80/create/634",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 79,
+            "mouse": 7,
+            "date": "2024-06-15T11:08:41Z",
+            "windowTitle": "Fix a Bug - WS Lambda - Jira Service Management - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/servicedesk/customer/portal/5/group/80/create/634",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 67,
+            "mouse": 17,
+            "date": "2024-06-15T11:09:41Z",
+            "windowTitle": "xo-hiring/sfdx/force-app/main/default/classes/AssessmentHelperCodeSignal.cls at df92c19cc59ab0449e62e40dc3a57cbc55c8c28f ? trilogy-group/xo-hiring - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring/blob/df92c19cc59ab0449e62e40dc3a57cbc55c8c28f/sfdx/force-app/main/default/classes/AssessmentHelperCodeSignal.cls#L310C19-L318",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-15T11:00:00Z"
+}

@@ -1,0 +1,335 @@
+{
+  "candidateId": 2027577,
+  "apps": [
+    "mail.google.com",
+    "app.guidde.com",
+    "google.com",
+    "aws.prod.jivehosted.com",
+    "chrome:"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-13T08:31:20Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Time Machine, and Trash. Also includes a Spotlight search icon, Siri icon, Notification Center icon, and a group of three dots indicating more applications.",
+            "position": "bottom"
+          },
+          {
+            "elementType": "taskbar",
+            "details": "icons include Finder, Launchpad, Safari, Mail, Calendar, Contacts, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Time Machine, Trash, Spotlight search, Siri, Notification Center, and additional applications indicated by three dots.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "New Incognito Tab",
+                "url": "chrome://newtab/",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "icon, minimize, maximize, close buttons"
+                },
+                "content": [
+                  {
+                    "title": "You've gone Incognito",
+                    "layoutDescription": "Centered text",
+                    "visibleText": "Owners who use this device won't see your activity, as you can browse more privately. This won't change how data is collected by websites you visit and the services they use, including Google. Downloads, bookmarks and reading lists will be saved.\n\nChrome won't save:\n- Your browsing history\n- Cookies and site data\n- Information entered in forms\n\nWebsites you visit will be visible to:\n- Your employer or school\n- Your internet service provider\n\nBlock third-party cookies\nWhen sites can't use cookies that track you across the web, features on some sites may break."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "WorkSmart",
+            "windows": [
+              {
+                "title": "WorkSmart Chat",
+                "position": "bottom left",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Search bar, settings icon, chat tabs"
+                },
+                "content": [
+                  {
+                    "title": "Messages",
+                    "layoutDescription": "List of messages",
+                    "visibleText": "* Starred\n* Front Room (Prod)\n* Recents\n- Jive - TPMing daily stand demo\n- Jive - TPM/Bundles\n- Jive - customer focus\n- Jive - customer focus"
+                  }
+                ]
+              },
+              {
+                "title": "Jive - TPMing daily",
+                "position": "bottom left",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Chat window with message list"
+                },
+                "content": [
+                  {
+                    "title": "Jive - TPMing daily",
+                    "layoutDescription": "Chat messages",
+                    "visibleText": "* May 28, 2024, 9:00 am\n* May 29, 2024, 9:00 am\n\nManagement staff during the meeting will be visible to all meeting participants\n\n* RM: Read meeting notes. Meet May 30, 2024\n* Dom, Brian, and Fira added read meeting notes to the plan\n* Read assigned roles and meeting venue. Our primary roles involve a decentralized grid management to make 'hybrid' more sustainable, etc.\n* Please type 'stop' to disable, or 'quit' to exit delete meeting"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-13T08:35:11Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. System tray visible with clock showing '8:35 AM' and date '6/13/2024'. Network, sound, and battery status icons are also visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Hey David, did you notice CoPilot? - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.5 GB - Google Chrome - Firat (trilogy.com)",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Address bar, bookmarks bar, multiple tabs, vertical scroll bar, horizontal scroll bar"
+                },
+                "content": [
+                  {
+                    "title": "Email from Firat Gomi to Claire Forrest",
+                    "layoutDescription": "Email composition window",
+                    "visibleText": "Hey Claire, Firat here, want to hear your thoughts about CoPilot\n\nHey Claire, Firat here, want to hear your thoughts about CoPilot.\n\nHi Claire,\n\nHope that you are well and all is good.\n\nI wanted to reach you personally again because I've noticed that CoPilot is still not enabled for Claire Forrest's account, and I think I know there is a reason for that.\n\nI'm the Product Manager of Jira, and I have a close interest in our customer's lives. I've seen that you've expressed your interest in AI, especially the humanely automation one. I'm more interested to hear your thoughts about it now. Do you have 15 minutes for a Zoom call? Here's my calendar link: [calendar link]\n\nYou can check this list of videos to learn more about CoPilot and how to enable it with your system admin.\n\nBesides these, let me know if I can help you in any way, it's free to create a connection and help each other.\n\nBest regards,\nFirat\n\nFirat Gomi | Product Manager"
+                  },
+                  {
+                    "title": "Gmail Interface",
+                    "layoutDescription": "Email client interface",
+                    "visibleText": "Compose, Inbox, Starred, Snoozed, Important, Sent Mail, Drafts, More, Labels, Meet, Chat, Spaces, Tasks, Contacts, Settings, Help, Feedback, Google Apps, Notifications, Profile"
+                  },
+                  {
+                    "title": "Email List",
+                    "layoutDescription": "List of emails",
+                    "visibleText": "Today, 'The Trilogy daily alert dawns...','Firat Gomi - Hey David, did you notice CoPilot?','1:47 PM - IgniteTech - We're Ready to Close on...','2:04 PM - DevFactory - High memory usage alert...','Tomorrow, 'The Trilogy daily alert dawns...','Product Check-In, 'The Trilogy daily alert dawns...','Product Check-In"
+                  },
+                  {
+                    "title": "Calendar and Tasks",
+                    "layoutDescription": "Calendar and task list",
+                    "visibleText": "Calendar - June 13, Today, 2:00 PM - Meeting, 4:00 PM - Collaboration, June 14, Tomorrow, 1:00 PM - Trilogy daily alert dawns, 2:00 PM - Standalone report, June 17, Monday, Product Check-In, June 18, Tuesday, Product Check-In"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-13T08:39:39Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. System tray visible with clock showing '8:39 AM', date 'Wed, Jun 13', network status, sound volume, and notifications icon.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Hey Clare, Firat here, want to hear your thoughts about CoPilot - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.5 GB - Google Chrome - Firat (trilogy.com)",
+                "url": "https://mail.google.com/mail",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Email interface with navigation panel on the left, main content in the center, and a right sidebar with calendar and tasks"
+                },
+                "content": [
+                  {
+                    "title": "Email Content",
+                    "layoutDescription": "Email displayed in center",
+                    "visibleText": "Hey Clare, Firat here, want to hear your thoughts about CoPilot\nFirat Gomi <firat.gomi@trilogy.com>\nCC: clare.mitchell@trilogy.com\n11:53 AM (9 minutes ago)\n\nI hope that you are well and in good spirits.\n\nI wanted to reach out personally because I've noticed that CoPilot is still not enabled for Clove Brothers, and I'd like to know if there is a reason for that.\n\nI've heard that you have read about it and have a positive initial reaction to it. Clare has even expressed your interest in AI, especially in the summary feature, so I'm even more interested in your thoughts about it now. Do you have 5 minutes or another day?\n\nYou can check this link if you'd like to learn more about CoPilot and how to enable it with your system admin.\n\nBesides these, let me know if I can help you in any way. I'd love to create a connection and help each other out.\n\nBest regards,\nFirat\n\nFirat Gomi | Product Manager\nIGNITETECH\njive\nignite.tech.com"
+                  },
+                  {
+                    "title": "Sidebar",
+                    "layoutDescription": "Calendar and tasks visible",
+                    "visibleText": "CALENDAR\nToday, Jun 13\n- Title: 'Talking daily about devops'\n- Time: '9:00 AM'\n- Title: 'Product Check-In'\n- Time: '11:00 AM'\n\nTASKS\n- Title: 'Follow-up on financial results'\n- Title: 'Create an event'"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in email communication, as evidenced by the Gmail interface visible in the screenshots. They are composing an email to Claire Forrest, discussing the CoPilot feature and its enablement. The email content suggests a follow-up on a previous conversation about AI and its applications, specifically mentioning a Zoom call for further discussion. The user is also managing their calendar and tasks, as seen in the right sidebar of the Gmail interface, which lists upcoming meetings and tasks.",
+    "The user is also seen using the WorkSmart application, specifically in the 'Jive - TPMing daily' chat. The chat window shows messages related to meeting notes and roles, indicating that the user is involved in project management or team coordination activities. The messages include instructions for disabling or exiting the meeting, suggesting that the user is managing or participating in daily stand-up meetings.",
+    "In another screenshot, the user is browsing the web using Google Chrome in incognito mode. They are visiting various URLs, including Guidde and AWS Jivehosted, indicating that they are researching or accessing specific tools or documentation. The incognito mode suggests a focus on privacy while browsing.",
+    "The user is also seen interacting with HubSpot, specifically viewing email performance metrics. The interface shows a list of recipients and their actions, such as unsubscribing from emails. This indicates that the user is involved in email marketing or customer relationship management activities, analyzing the performance of email campaigns."
+  ],
+  "aiUseSummary": "There is no direct evidence of AI tools being used in the provided screenshots. The user is primarily engaged in email communication, project management, web browsing, and email marketing activities. There are no visible interactions with AI chat interfaces or AI-driven tools in the screenshots.",
+  "activities": [
+    "EMAIL",
+    "CHATTING_WITH_TEAM",
+    "RESEARCH"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "UI"
+  ],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "EMAIL",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 104,
+      "mouse": 3,
+      "date": "2024-06-13T08:30:44Z",
+      "windowTitle": " Hey David, did you notice CoPilot? - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.4 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#sent/FMfcgzQVwxGQgvZxCdhDvjhTlbXjSvjx?compose=LxRWXCTTfMhrpLsTQntxWPxdqTLXDRqbWlWLzsPVxwlqHsTpjklqKRSzZSTFkKxFhXvQxlrvtpGvppnzhzlVgfKzGsbJhqbLTzRjZhggKBpRkdTBKHHQcvNfnfvqKWcRttdzCjLCsnptSZBnNFFJjRVgrNwBkXpFXppdZWT",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 79,
+      "mouse": 3,
+      "date": "2024-06-13T08:31:44Z",
+      "windowTitle": " Guidde - Google Chrome (Incognito)\n",
+      "processName": "app.guidde.com",
+      "visitingUrl": "https://app.guidde.com/share/playlists/1nQA5MUx7RotFezzWo7VGk",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 2,
+      "mouse": 8,
+      "date": "2024-06-13T08:32:44Z",
+      "windowTitle": " CoPilot Guide for System Admins | Guidde - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "app.guidde.com",
+      "visitingUrl": "https://app.guidde.com/playbooks/playlist/jvZuLTRSKXgMfrsX7VtzHF?origin=PNEN65qknoOf12rTVEl4EUomdoB2&active=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 27,
+      "mouse": 6,
+      "date": "2024-06-13T08:33:44Z",
+      "windowTitle": " New Tab - Google Chrome - F?rat\n",
+      "processName": "google.com",
+      "visitingUrl": "https://www.google.com/search?q=medium&oq=medium&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiPAjIHCAIQABiPAjIHCAMQABiPAjIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEHNzYyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 81,
+      "mouse": 10,
+      "date": "2024-06-13T08:34:44Z",
+      "windowTitle": " Hey David, did you notice CoPilot? - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.5 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#sent/FMfcgzQVwxGQgvZxCdhDvjhTlbXjSvjx?compose=LxRWXCTTfMhrpLsTQntxWPxdqTLXDRqbWlWLzsPVxwlqHsTpjklqKRSzZSTFkKxFhXvQxlrvtpGvppnzhzlVgfKzGsbJhqbLTzRjZhggKBpRkdTBKHHQcvNfnfvqKWcRttdzCjLCsnptSZBnNFFJjRVgrNwBkXpFXppdZWT",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 130,
+      "mouse": 5,
+      "date": "2024-06-13T08:35:44Z",
+      "windowTitle": " closebrothers - Part of group Jive - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "aws.prod.jivehosted.com",
+      "visitingUrl": "https://aws.prod.jivehosted.com/admin/jcx-installation-view.jspa?uri=jcx-inst-qzkwgiae3clp8r3xhd9y2r&env=aws-eu-west-1-infra-prod",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 55,
+      "mouse": 8,
+      "date": "2024-06-13T08:36:44Z",
+      "windowTitle": " Welcome to Perplexity! (1 of 7) - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.5 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQVwxGQqKDjSvcKMQbgVDmxqGCL?compose=lqrsljcJBdGzLMXvPnxgvJVvTWqNrQnjxwgdpjjjzlMSQCRdggnTffhSJHdgkzgvFzwsWnCkWJctrXNXz",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 36,
+      "mouse": 13,
+      "date": "2024-06-13T08:37:44Z",
+      "windowTitle": "chrome://newtab/\n",
+      "processName": "chrome:",
+      "visitingUrl": "chrome://newtab/",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 19,
+      "mouse": 12,
+      "date": "2024-06-13T08:38:44Z",
+      "windowTitle": " Settings - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.5 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#settings/general",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 10,
+      "date": "2024-06-13T08:39:44Z",
+      "windowTitle": " Hey Clare, Firat here, want to hear your thoughts about CoPilot - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.5 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#sent/FMfcgzQVwxGQqMRzbzdwRtHZKNWwLfDt?compose=lqrsljcJBdGzLMXvPnxgvJVvTWqNrQnjxwgdpjjjzlMSQCRdggnTffhSJHdgkzgvFzwsWnCkWJctrXNXz",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-13T08:30:00Z"
+}

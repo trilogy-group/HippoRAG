@@ -1,0 +1,284 @@
+{
+    "candidateId": 1444536,
+    "apps": [
+        "Code",
+        "chatgpt.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T09:20:47Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Edge, File Explorer, Mail, and other unidentified applications. Also includes system tray with network, sound, and date/time indicators.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "config.json - campaign-tracking - Visual Studio Code",
+                                "url": null,
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Selection, View, Go, Run, Terminal, Help. Side bar with Explorer, Search, Source Control, Run, Extensions. Status bar at bottom with icons and text."
+                                },
+                                "content": [
+                                    {
+                                        "title": "config.json",
+                                        "layoutDescription": "editor with JSON code",
+                                        "visibleText": "{\n \"username\": \"your_username\",\n \"password\": \"your_password\",\n \"security_token\": \"your_security_token\",\n \"campaigns\": [\n {\n \"idPattern\": [\"GA-Cat.%\"],\n \"directSheet\": \"1f8m1zh67MzKrw0r5BFzvHuLg-YezcGtho5gKkwkgTBEY\",\n \"indirectSheet\": \"1g1LhCh4ReqjgW1pFB1zstPuOtulL1x73xCzCoGQBRKSo\",\n \"processIndirect\": false\n }\n ]\n}"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T09:24:50Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Windows Security, Mail, Calendar, Photos, Settings, and a notification area with system clock, language indicator (ENG), network status, sound volume, and battery status.",
+                        "position": "bottom"
+                    },
+                    {
+                        "elementType": "system clock",
+                        "details": "Time displayed as 10:24:51",
+                        "position": "bottom-right"
+                    },
+                    {
+                        "elementType": "language indicator",
+                        "details": "Language set to English (ENG)",
+                        "position": "bottom-right"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Salesforce SOQL Query Python - Google Chrome",
+                                "url": "https://chatgpt.com/c/0dda060a-caa",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Tabs, address bar, bookmarks bar, navigation buttons, profile icon, extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Step 5: Debug and Monitor",
+                                        "layoutDescription": "Text content with bullet points",
+                                        "visibleText": "Monitor the Execution: Use AWS CloudWatch to monitor the logs and performance of your Lambda function.\n\nDebugging: Check logs in CloudWatch for any errors or issues with your Lambda function.\n\nBy following these steps, you will have successfully deployed your Python script to run Salesforce SOQL queries as an AWS Lambda function."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T09:27:30Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Edge, File Explorer, Mail, and other unidentified applications. Also displays the system clock showing '10:27:31' and date '14/06/2024'. Language set to 'ENG' and a keyboard layout icon visible. A 'PRE' icon possibly indicating a software or system state is also present.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "salesforce.py - tools - Visual Studio Code",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Top bar with File, Edit, Selection, View, Go, Run, Terminal, Help. Side bar with icons for Explorer, Search, Source Control, Run, Extensions. Bottom bar with problems, output, debug console, terminal."
+                                },
+                                "content": [
+                                    {
+                                        "title": "salesforce.py",
+                                        "layoutDescription": "Python code editor open",
+                                        "visibleText": "from simple_salesforce import Salesforce\n\n# Salesforce login credentials\nusername = 'your_username'\npassword = 'your_password'\nsecurity_token = 'your_security_token' # Your security token\n\n# Create a Salesforce connection\nsf = Salesforce(username=username, password=password, security_token=security_token)\n\n# SOQL query\nquery = 'SELECT Id, Name FROM Account LIMIT 10'\n\n# Execute the query\nresults = sf.query(query)\n\n# Print results\nfor record in results['records']:\n print(record['Id'], record['Name'])"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in writing code using Visual Studio Code. They have multiple files open, including 'config.json', 'lambda_function.py', and 'salesforce.py'. The 'config.json' file contains configuration details for a campaign-tracking project, including username, password, security token, and campaign details. The 'salesforce.py' file includes Python code to connect to Salesforce, execute a SOQL query, and print the results.",
+        "The user is also conducting research using ChatGPT. They are viewing a guide on deploying Python scripts to run Salesforce SOQL queries as AWS Lambda functions. The guide includes steps for debugging and monitoring the execution using AWS CloudWatch. The user is likely seeking information to assist with their current coding tasks in Visual Studio Code.",
+        "The user is utilizing ChatGPT for specific queries related to their coding tasks. They have asked ChatGPT to explain the event object passed to the lambda_handler function. This indicates that the user is seeking to understand the specifics of AWS Lambda function execution, which is relevant to their work on the 'lambda_function.py' file."
+    ],
+    "aiUseSummary": "The user is leveraging ChatGPT for research and guidance on implementing AWS Lambda functions with Salesforce SOQL queries. They are using ChatGPT to understand the event object passed to the lambda_handler function, which helps them in writing and debugging their code. This use of AI tools enhances their productivity by providing quick and relevant information, allowing them to focus on coding tasks.",
+    "activities": [
+        "WRITING_CODE",
+        "RESEARCH"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [
+        "PYTHON",
+        "SALESFORCE"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "OPENAI_CHATGPT"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 50,
+            "mouse": 8,
+            "date": "2024-06-14T09:20:23Z",
+            "windowTitle": "? config.json - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 29,
+            "mouse": 11,
+            "date": "2024-06-14T09:21:23Z",
+            "windowTitle": "? config.json - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 4,
+            "date": "2024-06-14T09:22:23Z",
+            "windowTitle": "? lambda_function.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 25,
+            "mouse": 3,
+            "date": "2024-06-14T09:23:23Z",
+            "windowTitle": "salesforce.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 5,
+            "mouse": 6,
+            "date": "2024-06-14T09:24:24Z",
+            "windowTitle": "Salesforce SOQL Query Python - Google Chrome",
+            "processName": "chatgpt.com",
+            "visitingUrl": "chatgpt.com/c/0dda060a-caa8-47b5-acfb-08cca56a5dd5",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 54,
+            "mouse": 2,
+            "date": "2024-06-14T09:25:24Z",
+            "windowTitle": "Salesforce SOQL Query Python - Google Chrome",
+            "processName": "chatgpt.com",
+            "visitingUrl": "chatgpt.com/c/0dda060a-caa8-47b5-acfb-08cca56a5dd5",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 15,
+            "mouse": 7,
+            "date": "2024-06-14T09:26:24Z",
+            "windowTitle": "? lambda_function.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 17,
+            "mouse": 10,
+            "date": "2024-06-14T09:27:24Z",
+            "windowTitle": "salesforce.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 7,
+            "mouse": 2,
+            "date": "2024-06-14T09:28:24Z",
+            "windowTitle": "campaign.ts - master-assistant - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 43,
+            "mouse": 6,
+            "date": "2024-06-14T09:29:24Z",
+            "windowTitle": "? config.json - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T09:20:00Z"
+}

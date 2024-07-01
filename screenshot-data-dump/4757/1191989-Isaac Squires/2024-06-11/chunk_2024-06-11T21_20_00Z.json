@@ -1,0 +1,207 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "GoogleDriveFS",
+    "Zoom"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-11T21:27:30Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Mute, Stop Video, Participants, Chat, Share Screen, Summary, Reactions, Apps, Notes, More, and Leave",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Zoom Meeting",
+            "windows": [
+              {
+                "title": "Zoom Meeting",
+                "position": "fullscreen",
+                "isActive": true,
+                "highlightedElement": "conference window with participant videos, chat, and screen sharing",
+                "uiElements": {
+                  "details": "Top banner, chat window, browser window"
+                },
+                "content": [
+                  {
+                    "title": "You are viewing Tristan Muniz's screen",
+                    "layoutDescription": "Top banner in Zoom",
+                    "visibleText": "You are viewing Tristan Muniz's screen View Options"
+                  },
+                  {
+                    "title": "Tristan Muniz's Personal Meeting Room",
+                    "layoutDescription": "Chat window on right",
+                    "visibleText": "G904Jj48shF8F8 #edit#gid=1092897194\n\nYou to Everyone 14:18\nhttps://docs.google.com/spreadsheets/d/1fw #edit#gid=1092897194\n\nhttps://docs.google.com/s #edit#gid=1998195287\n\nYou to Everyone 14:25\n$201,000\n\nhttps://docs.google.com/spread #edit#gid=658915472\n\nTristan Muniz to Everyone 14:48\nhttps://docs.google.com/spreadsheets/d/1rz #edit#gid=0\n\nYou to Everyone 15:23\nhttps://play.google.com/store/apps/details"
+                  },
+                  {
+                    "title": "Dashboard",
+                    "layoutDescription": "Browser window in Zoom",
+                    "visibleText": "AppsFlyer\nHome\nAnalyze\nOverview\nCohort & Retention\nActivity\nRetention\nCustom Dashboards\nProduct\nEvents\nPeople-Based Attribution\nOptimize\nEngage\nCollaborate\nExport\nper user by\nMedia source\n\nNo results found\nTry different filter combinations\n\niOS 15 postbacks\nShow top\nMedia source by\nReconviewed age\n\nBlogabout_uk\nGoogle\nFacebook Ads\n\nGroup by Media source, Campaign\n\nMedia source vs Campaign\nView-through installs\nNull conversion value rate\nCost ($) Clicks\nImpressions\nClick-to-install rate\nConverted users\nConverted users / Imp\n\nTotals\norganic\nN/A\nN/A\nN/A\nN/A\nN/A"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively participating in a Zoom meeting, as evidenced by the Zoom Meeting application being open and the user sharing their screen. The meeting involves multiple participants, including Isaac Squires and Tristan Muniz. The user is sharing a browser window displaying the AppsFlyer dashboard, which shows various analytics related to media sources and campaigns. The chat window in Zoom indicates that the user is sharing Google Sheets links and discussing financial figures, specifically mentioning $201,000.",
+    "The user is also engaged in chatting with team members via the Zoom chat feature. The chat messages include links to Google Sheets documents and a Google Play Store link. The user is sharing these links with everyone in the meeting, indicating a collaborative effort to review and discuss the contents of these documents. The chat messages are timestamped, showing active participation and communication throughout the meeting.",
+    "The AppsFlyer dashboard displayed in the browser window shows various analytics, including revenue per user by media source, view-through installs, null conversion value rate, cost, clicks, impressions, click-to-install rate, and converted users. The dashboard indicates that no results were found for the selected filters, and the user is likely discussing these analytics with the meeting participants to analyze and optimize their campaigns."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a Zoom meeting, sharing their screen, and discussing analytics and documents with team members. No AI chat interfaces or AI-driven tools are visible in the screenshots.",
+  "activities": [
+    "MEETING",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T21:20:48Z",
+      "windowTitle": "Google Drive Status Window",
+      "processName": "GoogleDriveFS",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T21:21:48Z",
+      "windowTitle": "Google Drive Status Window",
+      "processName": "GoogleDriveFS",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T21:22:48Z",
+      "windowTitle": "Google Drive Status Window",
+      "processName": "GoogleDriveFS",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 8,
+      "mouse": 5,
+      "date": "2024-06-11T21:23:49Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 3,
+      "mouse": 2,
+      "date": "2024-06-11T21:24:49Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-11T21:25:49Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T21:26:49Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T21:27:49Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T21:28:49Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T21:29:49Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-11T21:20:00Z"
+}

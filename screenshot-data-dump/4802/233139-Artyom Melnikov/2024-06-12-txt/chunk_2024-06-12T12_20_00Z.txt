@@ -1,0 +1,278 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "chrome",
+        "github.com",
+        "idea64",
+        "sublime_text"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T12:20:57Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Microsoft Edge, File Explorer, Microsoft Store, Mail, Calendar, Photos, Settings, and several unidentified applications. Also includes system tray with network, sound, and battery status icons, as well as the date and time display.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Comparing main...feature/LAMBDA-71138-docs-do-not-merge ? trilogy-group/ws-eng-ai-bank - Google Chrome",
+                                "url": "https://github.com/trilogy-group/ws-eng-ai-bank",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Multiple tabs, address bar, bookmarks bar, GitHub repository navigation, and pull request controls"
+                                },
+                                "content": [
+                                    {
+                                        "title": "feat:LAMBDA-71138 (DO NOT MERGE) Documentation generated for Inter...",
+                                        "layoutDescription": "Text content in a structured format",
+                                        "visibleText": "feat:LAMBDA-71138: (DO NOT MERGE) Documentation generated for Inter... by artem.melnikov committed on Jan 26, 2024\nShowing 15 changed files with 818 additions and 0 deletions.\n\nproduct-data-builder/output/to-inte Customization.md\n@@ -0,0 +1,62 @@\n# Interview-bot Assessment Customization Documentation\n\n## Overview\nThe interview-bot is designed to revolutionize the way assessments are conducted by offering a dynamic and customizable experience for both candidates and hiring managers. This document outlines the current state of the Assessment Customization feature within the interview-bot, focusing on its core capabilities, including curated and dynamic question generation, grading rubrics, and the inclusion of voice responses.\n\n## Features\n### Dynamic Question Generation\n**Approach:** Utilizes ChatGPT to generate questions based on the skill required for a job, including the perfect answer for grading purposes.\n**Customization:** Offers the programmer dynamically to match the SDP specific data set required for the job, ensuring relevance and depth.\n**Voice Responses:** The system is designed to collect answers in voice format, providing a more natural and interactive experience for candidates.\n\n### Curated Questions\n**Pre-generated Questions:** Questions are pre-generated, reviewed, and validated before being included in test sessions, ensuring quality and relevance.\n**Skill Catalogue:** Offers a categorized base of skills stored in a catalog for easy access and selection during session creation.\n**Grading Rubrics:** Each question is associated with a grading rubric, making the grading process more predictive and consistent.\n\n### Grading and Feedback\n**Delayed Grading:** Grading results can be delayed by up to 6 hours in production environments, allowing for thorough analysis and review.\n**Rubric-Based Grading:** Utilizes grading rubrics for each question to ensure consistent and fair evaluation.\n**Detailed Feedback:** Provides detailed feedback on each question, including scores for correctness and depth of answer.\n\n### Integration and Scalability\n**WAS Integration:** Built by a separate API as IMS, integrating seamlessly with XD Hire through the assessment vendor API.\n**Databases:** Utilizes DynamoDB for efficient data management and scalability.\n**Reporting:** Leverages Athena for dynamic reporting, with data updates intercepted through DynamoDB streams.\n\n### User Experience\n**Live Interviewing:** Offers live chat-like interactions between the user and AI, maintaining context throughout the conversation.\n**Session Management:** Supports features like resuming interrupted conversations, and handling abandoned interviews gracefully.\n**Custom Instructions:** Supports skill-specific instructions written in Markdown, enhancing the assessment experience with rich content.\n\n### Technical Details\n**Architecture:**\n**Data Module:**"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T12:24:21Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications. Displays system tray with clock showing '12:24', language indicator 'ENG', and other system icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "IntelliJ IDEA",
+                        "windows": [
+                            {
+                                "title": "feature/LAMBDA-76029-s ? LinkedInSlots_ComputeCellMetricsBatch",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "menu bar with options like File, Edit, View, Navigate, Code, Analyze, Refactor, Build, Run, Tools, VCS, Window, Help. Sidebar with project files and folders. Bottom bar with tabs like Commit, Shelf, Agenda, Terminal, and others. Right sidebar with icons for Project, Favorites, Find, Run, Debug, and others."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Code Editor",
+                                        "layoutDescription": "Text editor with multiple tabs",
+                                        "visibleText": "public class LinkedInSlots_ComputeCellMetricsBatch implements Database.Batchable<sObject>, Schedulable {\n\n private Map<String, List<SourcingPlatform>> sourcingPlatforms;\n private Coordinator coordinator;\n private DateTime minLastModifiedDateTime;\n\n public LinkedInSlots_ComputeCellMetricsBatch(Coordinator coordinator, Map<String, List<SourcingPlatform>> sourcingPlatforms, DateTime minLastModifiedDateTime) {\n this.coordinator = coordinator;\n this.sourcingPlatforms = sourcingPlatforms;\n this.minLastModifiedDateTime = minLastModifiedDateTime;\n this.minLastModifiedDateTime = minLastModifiedDateTime.minusDays(1);\n }\n\n for (SourcingPlatformDetails platform : sourcingPlatforms) {\n processedCells.put(platform.recordTypeName, new Set<Id>());\n }\n"
+                                    },
+                                    {
+                                        "title": "Output Console",
+                                        "layoutDescription": "Console output at bottom",
+                                        "visibleText": "APEX_CODE,DEBUG;APEX_PROFI (254348197) USER_INFO [EXTERNAL] |859120000000000|artyon.melnikov@trilogy.com|00D2 Central European Summer Time (Europe/Belgrade) GMT+02:00\n18:23:15.234 (254354210) EXECUTION_STARTED\n18:23:15.234 (254354210) CODE_UNIT_STARTED|[EXTERNAL]|execute_anonymous_ap (254359822) SYSTEM_MODE_ENTER|false\n18:23:15.234 (254359822) CUMULATIVE_LIMIT_USAGE\n18:23:15.234 (254359822) LIMIT_USAGE_FOR_NS|(default)|\n\nNumber of SOQL queries: 0 out of 100\nNumber of query rows: 0 out of 500\nNumber of SOSL queries: 0 out of 20\nNumber of DML statements: 0 out of 150\nNumber of DML rows: 0 out of 10000\nMaximum CPU time: 0 out of 10000"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T12:27:49Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and system tray with network, sound, and date/time indicators",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Sublime Text",
+                        "windows": [
+                            {
+                                "title": "This is the Salesforce Formula I have - Sublime Text (UNREGISTERED)",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Selection, Find, View, Goto, Tools, Project, Preferences, Help"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Code Content",
+                                        "layoutDescription": "Text editor with code",
+                                        "visibleText": "10 IF (ISPICKVAL(Sourcing_Platform__c, 'Indeed')\n11 && NOT ISBLANK(MostRecentTest__c) \n12 && (NOW() - MostRecentTest__c) <= $Setup.LinkedIn_Integration__c.WeeksForSlotPerfor && Applications__c > 0\n14 && Cost__c <= $Setup.IndeedJobPublishing__c.Budget_Multiplier__ * \n15 Job_Board_Cell__r.Pipeline_Job_Title__r.Pipeline_ && (Cost__c / Applications__c) > (1 + $Setup.IndeedJobPublishing__c.Cost_Precision__c) * \n17 Job_Board_Cell__r.Pipeline_Job_Title__r.Pipeline_ 0,\n19 NULL),\n\n20 /* Indeed - clearly expensive */\n21 0,\n\n22 IF (IndirectHires__c + IndirectInterviewPassers__c + IndirectSQLs__c + IndirectMQLs__c == 0\n23 && ISBLANK(MostRecentTest__c) || (CEILING(NOW() - MostRecentTest__c) > 7 * $Setup.LinkedIn_Integration__c.WeeksForSlotPerfor /* no indirect conversions & no recent activity */\n25 NULL,\n\n26 IF (IndirectHires__c + IndirectInterviewPassers__c + IndirectSQLs__c + IndirectMQLs__c == 0\n27 && BFQs__c == 0\n28 && BFQTestTakers__c < $Setup.LinkedIn_Integration__c.SignificantMQLTake /* no indirect conversions & too early to decide if known_bad */\n30 NULL,\n\n31 IF (ISPICKVAL(Sourcing_Platform__c, 'Indeed'),\n32 (Hires__c + $Setup.IndeedJobPublishing__c.Location__r.Rank_Bo * 44 + \n33 InterviewPassers__c * 33 + \n34 SQLs__c * 22 + \n35 MQLs__c * 11 + \n36 BFQs__c\n37 IndirectHires__c * 44 + \n38 IndirectInterviewPassers__c * 33 + \n39 IndirectSQLs__c * 22 + \n40 IndirectMQLs__c * 11 + \n41 Job_Board_Cell__r.OrphanInterviewPassers__c * 33 + \n42 Job_Board_Cell__r.OrphanSQLs__c * 22 + \n43 Job_Board_Cell__r.OrphanMQLs__c * 11,\n44 IF (ISPICKVAL(Sourcing_Platform__c, 'LinkedIn'),\n45 Job_Board_Cell__r.OrphanInterviewPassers__c * 33 + \n46 Job_Board_Cell__r.OrphanSQLs__c * 22 + \n47 Job_Board_Cell__r.OrphanMQLs__c * 11,\n48 NULL)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is reviewing code on GitHub, specifically a pull request titled 'feat:LAMBDA-71138 (DO NOT MERGE) Documentation generated for Interview-bot Assessment Customization'. The document outlines the current state of the Assessment Customization feature within the interview-bot, focusing on its core capabilities, including curated and dynamic question generation, grading rubrics, and the inclusion of voice responses. The user is likely ensuring the documentation is accurate and complete before merging.",
+        "The user is writing code in IntelliJ IDEA, working on a class named 'LinkedInSlots_ComputeCellMetricsBatch' which implements the 'Database.Batchable<sObject>' and 'Schedulable' interfaces. The code includes methods for initializing and processing sourcing platforms. The user is also running and debugging the code, as indicated by the console output showing execution logs and system limits.",
+        "The user is writing code in Sublime Text, working on a Salesforce formula. The formula includes multiple 'IF' statements and logical conditions to evaluate various metrics related to sourcing platforms, applications, and costs. The user is likely refining the formula to ensure it accurately calculates the desired metrics."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in reviewing and writing code without any visible interaction with AI tools for code suggestions, research, or debugging.",
+    "activities": [
+        "REVIEWING_CODE",
+        "WRITING_CODE"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [
+        "SALESFORCE",
+        "OTHER"
+    ],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "IDE"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 17,
+            "date": "2024-06-12T12:20:02Z",
+            "windowTitle": "Google Chat - Gustavo Costa - Chat",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 9,
+            "mouse": 12,
+            "date": "2024-06-12T12:21:02Z",
+            "windowTitle": "Comparing main...feature/LAMBDA-71138-docs-do-not-merge ? trilogy-group/ws-eng-ai-bank - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/ws-eng-ai-bank/compare/main...feature/LAMBDA-71138-docs-do-not-merge",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 16,
+            "date": "2024-06-12T12:22:01Z",
+            "windowTitle": "ws-eng-ai-bank/product-data-builder/output/xo-interview-bot/docs/Cheating Detection.md at feature/LAMBDA-71138-docs-do-not-merge ? trilogy-group/ws-eng-ai-bank - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/ws-eng-ai-bank/blob/feature/LAMBDA-71138-docs-do-not-merge/product-data-builder/output/xo-interview-bot/docs/Cheating%20Detection.md",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 153,
+            "mouse": 9,
+            "date": "2024-06-12T12:23:01Z",
+            "windowTitle": "Google Chat - Denys Yefimenko - Chat",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 135,
+            "mouse": 1,
+            "date": "2024-06-12T12:24:01Z",
+            "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+            "processName": "idea64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T12:25:01Z",
+            "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+            "processName": "idea64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T12:26:01Z",
+            "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+            "processName": "idea64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 1,
+            "mouse": 3,
+            "date": "2024-06-12T12:27:01Z",
+            "windowTitle": "This is the Salesforce Formula I have: ? - Sublime Text (UNREGISTERED)",
+            "processName": "sublime_text",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 5,
+            "mouse": 1,
+            "date": "2024-06-12T12:28:01Z",
+            "windowTitle": "This is the Salesforce Formula I have: ? - Sublime Text (UNREGISTERED)",
+            "processName": "sublime_text",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T12:29:01Z",
+            "windowTitle": "This is the Salesforce Formula I have: ? - Sublime Text (UNREGISTERED)",
+            "processName": "sublime_text",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-12T12:20:00Z"
+}

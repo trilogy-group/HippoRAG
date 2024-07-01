@@ -1,0 +1,202 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "github.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T10:42:40Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for M Inbox, WebEx, Cisco, BAM, Work, IAM, Notes, AWS EC2, featQ, My PR",
+                        "position": "bottom"
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T10:43:44Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for M Inbox, GitHub, WebEx, Slack, BAM!, Notion, Teams, Feathr, My Projects, AWS EC2, AWS S3",
+                        "position": "bottom"
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T10:47:23Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for M Inbox, GitHub, Website, Cross, BAM!, Work, Notes, Indeed, AWS, WF, My IP",
+                        "position": "bottom"
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in reviewing code on GitHub. The screenshots show the user navigating through the GitHub Actions page for the repository 'xo-hiring-monorepo'. The user is specifically looking at the logs of a build job, which includes details about the build process, such as installing dependencies, running tests, and deploying to the environment. The user is likely ensuring that the build process is running smoothly and identifying any issues that need to be addressed.",
+        "The user is focused on the build logs, which provide detailed information about each step of the build process. This includes warnings about deprecated libraries, the status of various tasks, and the results of tests. The user is likely verifying that all steps are completed successfully and that there are no critical issues that could affect the deployment. The presence of multiple tabs in the browser suggests that the user might be cross-referencing information or multitasking.",
+        "The taskbar icons indicate that the user has several applications open, including GitHub, WebEx, Slack, and various AWS services. This suggests that the user is likely collaborating with team members, possibly discussing the build process or other related tasks. The presence of AWS icons indicates that the user might be managing cloud resources or monitoring deployments as part of their workflow."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily focused on reviewing build logs on GitHub and does not appear to be interacting with any AI tools for code suggestions, debugging, or research purposes.",
+    "activities": [
+        "REVIEWING_CODE"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "IAC",
+        "TESTS"
+    ],
+    "programmingLanguages": [
+        "OTHER"
+    ],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "REVIEWING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T10:40:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514770164/job/26227606906",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 3,
+            "date": "2024-06-14T10:41:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514770164/job/26227606906",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-14T10:42:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514770164/job/26227606906",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 7,
+            "date": "2024-06-14T10:43:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514770164/job/26227606906",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T10:44:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514770164/job/26227606906",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T10:45:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514770164/job/26227606906",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T10:46:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514770164/job/26227606906",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 3,
+            "date": "2024-06-14T10:47:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514770164/job/26227606906",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T10:48:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514770164/job/26227606906",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T10:49:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514770164/job/26227606906",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-14T10:40:00Z"
+}

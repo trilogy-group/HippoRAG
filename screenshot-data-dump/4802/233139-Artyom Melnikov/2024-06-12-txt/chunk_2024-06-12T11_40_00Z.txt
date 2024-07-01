@@ -1,0 +1,274 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "crossover.lightning.force.com",
+        "docs.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T11:42:57Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, File Explorer, Adobe Acrobat, Microsoft Excel, Microsoft Word, Outlook, and other unidentified applications. System tray includes network status, sound volume, date and time display (12:42 PM, 06/12/2024), and language indicator (ENG).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Notes - XO Check-in - Google Docs",
+                                "url": "https://docs.google.com/document/d/1",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help; Google account icon; document status (Editing); Share button; Zoom controls; Document outline toggle; Comments and Chat sidebar toggle; Page setup, Print, and other document-related icons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Q2 goals",
+                                        "layoutDescription": "List with bullet points",
+                                        "visibleText": "Q2 goals\n- Sourcing:\n - By the end of Q2 we want to generate half of our volume from other sources and at similar cost per unit.\n - Artem Melnikov - On track\n - Index for Q2: 1.9 - Index needed: 0.7\n- Badges:\n - Beginner Mind: Denys Yemchuk - On track\n - Reduce usage of Dim lights: Dmitrii Shutenkov - On track\n - AI Grading of Video Submissions: Dmitrii Shutenkov - On track\n - AI Grading of Voice Usage: Not Started\n - AI Transcript: Dmitrii Shutenkov - Not Started\n - AI Coaching before Badge: Dmitrii Shutenkov - Not Started\n - AI Interview Technique: Dmitrii Shutenkov - Not Started"
+                                    },
+                                    {
+                                        "title": "Jun 12, 2024 | XO Check-in",
+                                        "layoutDescription": "Table with rows and columns",
+                                        "visibleText": "Jun 12, 2024 | XO Check-in\nName | Priorities + Progress\nArtem\n- JIRA ticket: summary + Status + est completion date\n- LAMBDA-7405: Add new fields to JobBoard/CallAnalytics and check calculations\n- Delivered\nDmitrii\n- DONE:\n - LAMBDA-7528: AI recommendation updates\n - LAMBDA-7527: Beginner Mind badge updates\nDenys\n- Created a tech debt ticket.\n - LAMBDA-7522: Need to refresh CI/CD agents where we execute tests during deployment, ensure the sync process executes on them\nDragos\n- Created a drip campaign ticket, need to align on that:\n - LAMBDA-7503"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T11:43:52Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes network, sound, and clock (13:38) icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Notes - XO Check-in - Google Docs",
+                                "url": "https://docs.google.com/document/d/1",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help; Toolbar with undo, redo, print, spelling and grammar check, formatting options; Scroll bars; Zoom controls at 100%"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notes - XO Check-in",
+                                        "layoutDescription": "Two-column layout",
+                                        "visibleText": "Outline\nQ2 goals\n- Jun 12, 2024 XO Check-in\nJun 11, 2024 XO Check-in\nJun 10, 2024 XO Check-in\nJun 9, 2024 XO Check-in\nJun 8, 2024 XO Check-in\nJun 7, 2024 XO Check-in\nJun 6, 2024 XO Check-in\nJun 5, 2024 XO Check-in\nJun 4, 2024 XO Check-in\nJun 3, 2024 XO Check-in\nMay 30, 2024 XO Check-in\nMay 29, 2024 XO Check-in\nMay 28, 2024 XO Check-in\nMay 27, 2024 XO Check-in\nMay 23, 2024 XO Check-in\nMay 22, 2024 XO Check-in\nMay 21, 2024 XO Check-in\nMay 20, 2024 XO Check-in\nMay 16, 2024 XO Check-in\nMay 15, 2024 XO Check-in\nMay 14, 2024 XO Check-in\nMay 13, 2024 XO Check-in\nMay 9, 2024 XO Check-in\nMay 8, 2024 XO Check-in\nMay 7, 2024 XO Check-in\nMay 6, 2024 XO Check-in\nMay 2, 2024 XO Check-in\nMay 1, 2024 XO Check-in\nApr 30, 2024 XO Check-in\nApr 29, 2024 XO Check-in\nApr 25, 2024 XO Check-in\nApr 24, 2024 XO Check-in\nApr 23, 2024 XO Check-in\nApr 22, 2024 XO Check-in\nApr 18, 2024 XO Check-in\nApr 16, 2024 XO Check-in\nQ2 goals\nSourcing:\n- By the end of Q2 we want to generate half of our volume from other sources and at similar cost per unit.\n- Item 2: Maintain Q - get linked\n- Item 3: Space for Q2 - big handker - Q2/3 improvement\n- GA Framework for driving Platform Clouds - Dragos\n- Platform scale / JDT at Krest - Artem\n- Schwerdtfeger/Reddit Advertising - Artem\n- Astro Adeliver item - ?\n- Integrating Denys Yelnykov conversion - Artem Melnicky\n- Badges\n- Beginner Mind: Denys Yelnykov\n- Reduce usage of Dimfish - Dmitri Shutenkov\n- AI Grading of Video Submissions - Dmitri Shutenkov\n- AI Grading of Voice Usage - Not Started\n- AI Prompt: Increase text data for Q2\n- AI Coaching: Reduce usage - Dmitri Shutenkov\n- AI Screenwriter Badge - Not Started\n- AI Interactive Badge - Dmitri Shutenkov\n- AI Screenwriter Badge - Not Started\n- AI Interactive Badge - Not Started\nJun 12, 2024 XO Check-in\nName Projects\nArtem\n- LAMBDA-7400: Add new fields to JobBoardCalcAnalysis and\n- LAMBDA-7401: Recalculate JobBoardCalcAnalysis\n- Delivered:\n- Needed:\n- Recalculated JobBoardCalcAnalysis\n- Updating the Mining Rank formula\n- Will do a public math event\nDmitri\n- Done:\n- LAMBDA-7592: Job Recommendation updates\n- LAMBDA-7593: Beginner Mind badge updates\n- Created a tech deck toilet\n- LAMBDA-7602: Prepare for refresh of CI/CD agents where we execute 5 test runs during deployment, ensure the sync process executes on them\n- Created a drip campaign ticket, need to align on that\nDenys\n- Done:\n- LAMBDA-7589: Add a bug in the admin tool preventing content to be created or updated in JobBoardCalc - fixed, RecAp\n- LAMBDA-74606: Blocked, pending decision on Log4ticket\n- LAMBDA-7592: Job Recommendation updates\n- LAMBDA-7593: Beginner Mind badge updates\n- Created a tech deck toilet\n- Created a drip campaign ticket, need to align on that\nDragos\n- LAMBDA-7592: Job Recommendation updates\n- LAMBDA-7593: Beginner Mind badge updates\n- Created a tech deck toilet\n- Created a drip campaign ticket, need to align on that\nJun 11, 2024 XO Check-in\nName Projects\nArtem\n- LAMBDA-7589: Add a bug in the admin tool preventing content to be created or updated in JobBoardCalc - fixed, RecAp\n- LAMBDA-74606: Blocked, pending decision on Log4ticket\n- LAMBDA-7592: Job Recommendation updates\n- LAMBDA-7593: Beginner Mind badge updates\n- Created a tech deck toilet\n- Created a drip campaign ticket, need to align on that\nDenys\n- Done:\n- LAMBDA-7589: Add a bug in the admin tool preventing content to be created or updated in JobBoardCalc - fixed, RecAp\n- LAMBDA-74606: Blocked, pending decision on Log4ticket\n- LAMBDA-7592: Job Recommendation updates\n- LAMBDA-7593: Beginner Mind badge updates\n- Created a tech deck toilet\n- Created a drip campaign ticket, need to align on that\nDragos\n- LAMBDA-7592: Job Recommendation updates\n- LAMBDA-7593: Beginner Mind badge updates\n- Created a tech deck toilet\n- Created a drip campaign ticket, need to align on that"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T11:47:32Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Chrome, File Explorer, Adobe Reader, Microsoft Excel, and other unidentified applications. System tray includes network, sound, and battery status icons, as well as the date and time display '12:47 PM 06/12/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Notes - XO Check-in - Google Docs",
+                                "url": "https://docs.google.com/document/d/1",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help; Google account icon; document status 'Editing'"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notes - XO Check-in",
+                                        "layoutDescription": "Two-column layout",
+                                        "visibleText": "Q2 goals\n\nSourcing:\n- By the end of Q2 we want to generate half of our volume from other sources and at similar cost per unit.\n - Item 2: Mention it - (on track)\n - Item 4: Space for Q2 - (high index - Q2/24 improvement)\n\nGA Framework for driving Platform Clouds - (ongoing) Nikita Dmitri Shutenkov\n- Platform scale / IoT / AI / K8s / ... ? - (in progress)\n\nSchneider/Reddi Altered Alignment - (on track)\n- Astro Andelien Item - ?\n\nIntegrative Data Pipeline\n- Improving the synchronization conversion Artem Melnikov - (Not started)\n\nBadges\n- Beginner Mind: Denys Temchenko - (on track)\n- Reduce usage of Dimfish: Dmitri Shutenkov - (on track)\n- AI Grading of Video Submissions: Dmitri Shutenkov - (on track)\n- AI Grading of Image Usage: (Not started)\n- AI Prompt: Increase data for Q2 - (on track)\n- AI Architecture Badge: Dmitri Shutenkov - (Not started)\n- AI Screening Interview - make it better: Dmitri Shutenkov - (Not started)\n\nJune 12, 2024 | XO Check-in\n\nArtem\n- JIRA ticket: Summary + Status = est completion date\n - LAMBDA-7400: Add new fields to JobBoardCalcAnalysis and\n - LAMBDA-7401: Recalculate JobBoardCalcAnalysis\n - Delivered:\n - Needed\n - Recalculated JobBoardCalcAnalysis\n - Updating the Mining Rank formula\n - Will do a publishing method\n\nDmitri\n- Done:\n - LAMBDA-7592: AI bot recommendation updates\n - LAMBDA-7597: Beginner Mind badge updates\n - Created a tech deck ticket:\n - LAMBDA-7612: Will need to refresh CI/CD agents where we execute 5 tests during deployment, ensure the sync process executes on them\n\nDenys\n- Done:\n - LAMBDA-7598: AI bot in the admin tool preventing content to be altered or updated is operational - fixed, Re-cap\n - LAMBDA-7600: AI bot in Recommendations in Reject emails release and start - In Progress\n\nDragos\n- Created a drip campaign ticket, need to align on that:\n - LAMBDA-7602"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in reading and updating a Google Docs document titled 'Notes - XO Check-in'. The document contains detailed notes on Q2 goals, including sourcing targets, badge progress, and individual tasks for team members. The user is reviewing progress updates for various tasks assigned to team members such as Artem, Dmitrii, Denys, and Dragos. Specific tasks include adding new fields to JobBoard/CallAnalytics, AI recommendation updates, and creating tech debt tickets.",
+        "The user is also navigating through different sections of the document, as indicated by the visible outline on the left side of the screen. The outline shows various dates for XO Check-ins, suggesting that the user is keeping track of ongoing progress and updates over time. The document includes a mix of bullet points and tables, providing a structured format for tracking goals and tasks.",
+        "The user is focused on ensuring that tasks are on track and identifying any blockers or challenges. For example, tasks like 'Reduce usage of Dim lights' and 'AI Grading of Video Submissions' are marked as 'On track', while others like 'AI Grading of Voice Usage' and 'AI Transcript' are 'Not Started'. This indicates that the user is closely monitoring the status of each task and making necessary updates.",
+        "The user is also using Google Chrome as the primary web browser, with multiple tabs open. These tabs include various work-related resources such as task management tools, email, and other documents. This suggests that the user is multitasking and possibly cross-referencing information from different sources to update the Google Docs document accurately."
+    ],
+    "aiUseSummary": "",
+    "activities": [
+        "READING_SPEC",
+        "WRITING_SPEC"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_SPEC",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T11:40:01Z",
+            "windowTitle": "Home | Salesforce - Google Chrome",
+            "processName": "crossover.lightning.force.com",
+            "visitingUrl": "crossover.lightning.force.com/lightning/setup/AsyncApexJobs/home",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 5,
+            "mouse": 7,
+            "date": "2024-06-12T11:41:01Z",
+            "windowTitle": "Muhammad Asif - AI-First Software Engineer | Application | Salesforce - Google Chrome",
+            "processName": "crossover.lightning.force.com",
+            "visitingUrl": "crossover.lightning.force.com/lightning/r/Opportunity/006Ij000002wAq4IAE/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 6,
+            "date": "2024-06-12T11:42:01Z",
+            "windowTitle": "IJ-5260-PK-Jammu-FullstackDevel | Job Board Cell Analytics | Salesforce - Google Chrome",
+            "processName": "crossover.lightning.force.com",
+            "visitingUrl": "crossover.lightning.force.com/lightning/r/Job_Board_Cell_Analytics__c/a1M2j000005uoXMEAY/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 59,
+            "mouse": 15,
+            "date": "2024-06-12T11:43:01Z",
+            "windowTitle": "Notes - XO Check-in - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1bFE8dS2O4hddYrd6jxeF73JClGjyUvMMQQp9uIYhC14/edit?pli=1",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 114,
+            "mouse": 0,
+            "date": "2024-06-12T11:44:01Z",
+            "windowTitle": "Notes - XO Check-in - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1bFE8dS2O4hddYrd6jxeF73JClGjyUvMMQQp9uIYhC14/edit?pli=1",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T11:45:01Z",
+            "windowTitle": "Notes - XO Check-in - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1bFE8dS2O4hddYrd6jxeF73JClGjyUvMMQQp9uIYhC14/edit?pli=1",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T11:46:01Z",
+            "windowTitle": "Notes - XO Check-in - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1bFE8dS2O4hddYrd6jxeF73JClGjyUvMMQQp9uIYhC14/edit?pli=1",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T11:47:01Z",
+            "windowTitle": "Notes - XO Check-in - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1bFE8dS2O4hddYrd6jxeF73JClGjyUvMMQQp9uIYhC14/edit?pli=1",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T11:48:01Z",
+            "windowTitle": "Notes - XO Check-in - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1bFE8dS2O4hddYrd6jxeF73JClGjyUvMMQQp9uIYhC14/edit?pli=1",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T11:49:01Z",
+            "windowTitle": "Notes - XO Check-in - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1bFE8dS2O4hddYrd6jxeF73JClGjyUvMMQQp9uIYhC14/edit?pli=1",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-12T11:40:00Z"
+}

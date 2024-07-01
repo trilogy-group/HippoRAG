@@ -1,0 +1,280 @@
+{
+    "candidateId": 2027577,
+    "apps": [
+        "aws.prod.jivehosted.com",
+        "knowledgehub.braskem.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-13T19:21:09Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, a folder, and other unidentified applications. Also includes system clock showing '19:21' and system tray icons like network status, sound volume, and battery indicator.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "JCA for Aurea (PROD) - View Installation Page Views for braskem - Part of group Jive - Google Chrome",
+                                "url": "https://aws.prod.jivehosted.com/ad",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "menu open with options: Total views, User vs API vs Bot views, Mobile vs Non-Mobile views, Mobile views: Browser by platform"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Page Views for 'braskem'",
+                                        "layoutDescription": "Web page with navigation bar and content area",
+                                        "visibleText": "Jive Cloud\nHome\nCommon\nCustomers\nDepot\nHosted\nIn Cloud\nInstallations\nReporting\nBusiest Installations\nCapacity Calculator\nDeploy Requests\nInstallation Capacity\nPlugins\nTotal Page Views\nVersion Report\nPage Views for 'braskem'\nChart type: Total views\nView by: Hour\nTime period: Last week\nMobile views: Browser by platform\n\u00a9 Jive Software - All rights reserved | Build: 2020.10.23 (8a272b71057) 2024-05-22 08:16 | firat.gomi@trilogy.com | 127.0.0.1"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-13T19:24:28Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, File Explorer, and other unidentified applications. Also includes system clock showing '19:24' and system tray with network, sound, and battery status icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Jive Admin Console : Group Summary - Part of group Jive - Google Chrome",
+                                "url": "knowledgehub.braskem.com/admin/gro",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, navigation buttons, and Chrome menu"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Web Page Content",
+                                        "layoutDescription": "Table layout",
+                                        "visibleText": "Row numbers from 73 to 92, with group names such as ADM_LIVROTURNO_BA03, ADM_LIVROTURNO_BA04, ADM_LIVROTURNO_BA07, ADM_LIVROTURNO_BA11, ADM_MASTER_LIVROTURNO_AL02, ADM_MASTER_LIVROTURNO_AL03, ADM_MASTER_LIVROTURNO_BA02, ADM_MASTER_LIVROTURNO_BA03, ADM_MASTER_LIVROTURNO_BA04, ADM_MASTER_LIVROTURNO_BA07, ADM_MASTER_LIVROTURNO_BA11, ADM_MASTER_LIVROTURNO_PILOTOS-RS, AdmnMSWs, ADM-Operation Clean Sweep, ADM-Procurement, AdmRPLCXSSR01, AdmRPLCXSSR40, ADM-XHQ-UNIB1, ADP_DEP-IMP, AFIGRP, AFJGRP. Each row includes columns for ID, Group Name, Members, Active, Enabled, Locked, and icons indicating settings and delete options."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-13T19:27:38Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Finder, and other unidentified applications. Also includes system clock showing '19:27' and system status icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Jive Admin Console : Group Members: Community admins - Part of group Jive - Google Chrome - Firat (trilogy.com)",
+                                "url": "https://knowledgehub.braskem.com",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Address bar, tabs, navigation buttons, bookmarks bar, and extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Add Members to Community admins",
+                                        "layoutDescription": "Text input field with search icon",
+                                        "visibleText": "Add Members to Community admins Jane Doe Add selected users"
+                                    },
+                                    {
+                                        "title": "Group Members for Community admins",
+                                        "layoutDescription": "Table with usernames and names",
+                                        "visibleText": "Group Members for Community admins Filter Clear Username Name 1 antenor.teles@braskem.com ANTENOR TELES PINTO FILHO 2 barbara.wilson@braskem.com BARBARA WILSON 3 BEATRIX.GABRIELLI@BRASKEM.COM BEATRIX GUSSONATO GABRIELLI 4 ednei.lima@braskem.com EDNEI COUTO DE LIMA 5 elisandra.padilha@braskem.com ELISANDRA RODRIGUES PADILHA 6 fabio.novi@braskem.com FABIO NOVI 7 fernando.junior@braskem.com FERNANDO JUNIOR 8 gabriel.koppe@braskem.com GABRIEL KOPPE 9 kelly.elizardo@braskem.com KELLY ELIZARDO 10 knowledgemanagement@braskem.com KNOWLEDGE MANAGEMENT 11 LUCAS.LOPES@BRASKEM.COM LUCAS LOPES 12 monica.mazzucato@braskem.com MONICA MAZZUCATO 13 svc_adsfjive@braskem.com SERVICE ACCOUNT 14 usr_test365@braskem.com TEST USER"
+                                    },
+                                    {
+                                        "title": "Group Admins",
+                                        "layoutDescription": "Text input field with search icon",
+                                        "visibleText": "Group Admins You may want to also add admins to this group. Username"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in monitoring and managing installations and user groups on the Jive platform. At 19:21, the user is viewing the 'Page Views for braskem' on the Jive Cloud platform, analyzing different types of views such as 'Total views', 'User vs API vs Bot views', and 'Mobile vs Non-Mobile views'. This indicates a focus on understanding user engagement and activity patterns on the platform.",
+        "At 19:24, the user navigates to the 'Group Summary' page on the Knowledge Hub, which lists various groups with details such as group names, IDs, member counts, and status indicators. The user is likely reviewing or managing these groups, possibly to ensure proper configuration and activity within the platform.",
+        "By 19:27, the user is on the 'Group Members: Community admins' page, where they are managing group memberships. The user is seen interacting with a table listing usernames and names of group members, and there is an option to add new members to the community admins group. This activity suggests the user is involved in administrative tasks, ensuring the right users have the appropriate permissions and roles within the platform."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in administrative tasks on the Jive and Knowledge Hub platforms, focusing on monitoring page views, managing groups, and handling user permissions without the assistance of AI tools.",
+    "activities": [
+        "READING_SPEC"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [
+        "OTHER"
+    ],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "READING_SPEC",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 8,
+            "mouse": 3,
+            "date": "2024-06-13T19:20:31Z",
+            "windowTitle": " braskem - Part of group Jive - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "aws.prod.jivehosted.com",
+            "visitingUrl": "https://aws.prod.jivehosted.com/admin/jcx-installation-view.jspa?uri=jcx-inst-bigo3fvzsipqbm2glq2yw&env=aws-us-east-1-infra-prod",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 20,
+            "date": "2024-06-13T19:21:31Z",
+            "windowTitle": " JCA for Aurea (PROD) - View Installation Page Views for braskem - Part of group Jive - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "aws.prod.jivehosted.com",
+            "visitingUrl": "https://aws.prod.jivehosted.com/admin/jcx-installation-pvs.jspa?uri=jcx-inst-bigo3fvzsipqbm2glq2yw",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 14,
+            "mouse": 11,
+            "date": "2024-06-13T19:22:31Z",
+            "windowTitle": " News | Braskem - Part of group Jive - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "knowledgehub.braskem.com",
+            "visitingUrl": "https://knowledgehub.braskem.com/",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 28,
+            "date": "2024-06-13T19:23:31Z",
+            "windowTitle": " Browse - Content | Braskem - Part of group Jive - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "knowledgehub.braskem.com",
+            "visitingUrl": "https://knowledgehub.braskem.com/content",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 25,
+            "date": "2024-06-13T19:24:31Z",
+            "windowTitle": " Jive Admin Console : Group Summary - Part of group Jive - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "knowledgehub.braskem.com",
+            "visitingUrl": "https://knowledgehub.braskem.com/admin/groups-main.jsp",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 47,
+            "date": "2024-06-13T19:25:31Z",
+            "windowTitle": " Jive Admin Console : Group Summary - Part of group Jive - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "knowledgehub.braskem.com",
+            "visitingUrl": "https://knowledgehub.braskem.com/admin/groups-main.jsp?start=100",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 35,
+            "mouse": 21,
+            "date": "2024-06-13T19:26:31Z",
+            "windowTitle": " Jive Admin Console : User Group Settings: Community admins - Part of group Jive - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "knowledgehub.braskem.com",
+            "visitingUrl": "https://knowledgehub.braskem.com/admin/group-props!input.jspa?groupID=1007",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 32,
+            "mouse": 32,
+            "date": "2024-06-13T19:27:31Z",
+            "windowTitle": " Jive Admin Console : Group Members: Community admins - Part of group Jive - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "knowledgehub.braskem.com",
+            "visitingUrl": "https://knowledgehub.braskem.com/admin/group-members.jsp?group=1007",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 14,
+            "mouse": 40,
+            "date": "2024-06-13T19:28:31Z",
+            "windowTitle": " Jive Admin Console : User Summary: fernando.junior@braskem.com - Part of group Jive - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "knowledgehub.braskem.com",
+            "visitingUrl": "https://knowledgehub.braskem.com/admin/editUserProfile!input.jspa?userId=6684",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 10,
+            "mouse": 53,
+            "date": "2024-06-13T19:29:31Z",
+            "windowTitle": " Jive Admin Console : User Profiles - Part of group Jive - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "knowledgehub.braskem.com",
+            "visitingUrl": "https://knowledgehub.braskem.com/admin/user-search.jspa?start=0&sort=lastLoggedIn&query=&usernameEnabled=true&__checkbox_usernameEnabled=true&nameEnabled=true&__checkbox_nameEnabled=true&emailEnabled=true&__checkbox_emailEnabled=true&includeDisabled=true&",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-13T19:20:00Z"
+}

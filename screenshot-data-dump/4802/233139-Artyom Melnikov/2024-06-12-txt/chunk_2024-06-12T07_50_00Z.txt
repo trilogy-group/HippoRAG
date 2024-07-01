@@ -1,0 +1,290 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "idea64",
+        "github.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T07:51:52Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications. System tray includes network, sound, and clock icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "sfdx ? LAMBDA-76029.xml",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "sidebar, status bar, activity bar, editor groups, terminal panel"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Explorer",
+                                        "layoutDescription": "Vertical panel on the left",
+                                        "visibleText": "Project\n- handlers\n - Bo\n - IlluminateCloud\n - JUnit\n - linkedinapi\n - manifest\n - mdapi\n - node_modules library root\n - salesforce-action-caller\n - .forceignore\n - .gitignore\n - .prettierrc.sh\n - .prettierrc\n - noncreate-manifest.id\n - Shelf\nCommit\nChanges: 1 file\n - LAMBDA-76029.xml"
+                                    },
+                                    {
+                                        "title": "Source Control",
+                                        "layoutDescription": "Vertical panel on the left",
+                                        "visibleText": "Amend\nak/LAMBDA-76029: Adding BFG Calculation for the JobBoardCellAnalytics\nCommit\nCommit and Push..."
+                                    },
+                                    {
+                                        "title": "LAMBDA-76029.xml",
+                                        "layoutDescription": "Main editor area",
+                                        "visibleText": "<Package>\n <types>\n <members>LinkedInSlots.ComputeCellMetricsBatch</members>\n <name>ApexClass</name>\n </types>\n <types>\n <members>LinkedInSlots.ComputeCellMetricsTests</members>\n <name>ApexClass</name>\n </types>\n <types>\n <members>Job_Board_Cell_Analytics__c.Job Board Cell Analytics Layout</members>\n <name>Layouts</name>\n </types>\n <types>\n <members>Job_Board_Cell_Analytics__c.BFGTestTaker</members>\n <members>Job_Board_Cell_Analytics__c.BFGs__c</members>\n <members>Opportunity_LISBF__c</members>\n <name>CustomFields</name>\n </types>\n <version>50.0</version>\n</Package>"
+                                    },
+                                    {
+                                        "title": "Terminal panel",
+                                        "visibleText": "Git\nLog: HEAD\nConsole\nUpdate Info: 06/12/2024 8:25\nHEAD (Current Branch)\nLocal\nRemote\n\nak/LAMBDA-76029: Adding BFG Calculation for the JobBoardCellAnalytics\nArtem Melnikov\n10 minutes ago\nfeat(ak/LAMBDA-76029): Adding BFG Calculation for the JobBoardCellAnalytics\nArtem Melnikov\nYesterday 2:20\nsync-2024-06-12: Production org changes sync. CreateDate,CreatedBy,Name,ResponsibleNamespacePre github-actions[bot]\nToday 2:20\nsync-2024-06-12: Production org changes sync. CreateDate,CreatedBy,Name,ResponsibleNamespacePre github-actions[bot]\n06/09/2024 2:22\nsync-2024-06-12: Production org changes sync. CreateDate,CreatedBy,Name,ResponsibleNamespacePre github-actions[bot]\n06/08/2024 2:24\nsync-2024-06-12: Production org changes sync. CreateDate,CreatedBy,Name,ResponsibleNamespacePre github-actions[bot]\n06/07/2024 12:30\nsync-2024-06-12: Production org changes sync. CreateDate,CreatedBy,Name,ResponsibleNamespacePre github-actions[bot]\n06/06/2024 8:24\nsync-2024-06-12: Production org changes sync. CreateDate,CreatedBy,Name,ResponsibleNamespacePre github-actions[bot]\n06/05/2024 2:24\nsync-2024-06-12: Production org changes sync. CreateDate,CreatedBy,Name,ResponsibleNamespacePre github-actions[bot]\n06/04/2024 2:24\nsync-2024-06-12: Production org changes sync. CreateDate,CreatedBy,Name,ResponsibleNamespacePre github-actions[bot]"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T07:56:02Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Chrome, Visual Studio Code, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes network status, sound volume, date and time display (07/12/2024 09:56 AM), and language setting (ENG).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "feat(LAMBDA-76029): Add BFQ Calculation for the JobBoardCellAnalytics by artyom-melnikov ? Pull Request #2312 ? trilogy-group/xo-hiring - Google Chrome",
+                                "url": "https://github.com/trilogy-group/xo-hiring/pull/2312",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Address bar, bookmarks bar, GitHub repository navigation, pull request tabs, and status checks section"
+                                },
+                                "content": [
+                                    {
+                                        "title": "GitHub Pull Request Page",
+                                        "layoutDescription": "Web page layout",
+                                        "visibleText": "lambda-service-user github commented 12 minutes ago\n\nPR Reviews Feedback Requested\n\nPlease react to the reviews provided below by the PR Agent based on how good/helpful you think each review is:\n\n- means that the feedback was good\n- means that the feedback was irrelevant or noise\n- something harmful is suggested\n\nfeat(LAMBDA-76029) - Remove problematic layout\nVerified 852a3c7\n\nAdd more commits by pushing to the feat/LAMBDA-76029-si4q-fbfq branch on trilogy-group/xo-hiring.\n\nSome checks haven't completed yet\n5 successful and 20 in progress checks\n\n- CI/CD Distributed Sandbox Deployment / Before Deploy (pull request) Successful in 21s\n- Check ticket id / ticket (Check ticket pull request) Successful in 20s\n- PR Agent / PR Agent Run (pull request) Successful in 7s\n- Public methods are documented / Run eslint (pull request) Successful in 7s\n- CI/CD Distributed Sandbox Deployment / Distributed Deploy 0: CI, CD, CONSUMER_KEY (pull request) Successful in 59s\n- CI/CD Distributed Sandbox Deployment / Distributed Deploy 0: CI, CD, CONSUMER_KEY (pull request) Successful in 59s\n\nThis branch has no conflicts with the base branch\nMerging can be performed automatically.\n\nSquash and merge\nYou can also open this in GitHub Desktop or view command line instructions.\n\nAdd a comment\nPR-Agent Tools\nWrite Preview\nAdd your comment here...\n\nMarkdown is supported\nPaste, drop, or click to add files\n\nRemember, contributions to this repository should follow its contributing guidelines and security policy.\n\nProTip! Add .patch or .diff to the end of URLs for Git's plaintext views."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T07:58:31Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Google Chrome, File Explorer, Microsoft Edge, Visual Studio Code, Adobe Photoshop, Slack, Spotify, and system tray with network, sound, and clock (showing 9:38 AM, 2024-06-12)",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "feat(LAMBDA-76029): Add BFQ Calculation for the JobBoardCellAnalytics by artyom-melnikov ? Pull Request #2312 ? trilogy-group/xo-hiring - Google Chrome",
+                                "url": "https://github.com/trilogy-group/xo-hiring/pull/2312",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, GitHub page content"
+                                },
+                                "content": [
+                                    {
+                                        "title": "GitHub Pull Request Page",
+                                        "layoutDescription": "Web page layout",
+                                        "visibleText": "feat(LAMBDA-76029): Add BFQ Calculation for the JobBoardCellAnalytics #2312\nartyom-melnikov wants to merge 3 commits into master from feat/LAMBDA-76029-bfq-calc\n\nlambda-service-user commented now\n\n ci19\n\n 48 tests passed\n\n Details\n\nAdd more commits by pushing to the feat/LAMBDA-76029-bfq-calc branch on trilogy-group/xo-hiring.\n\nSome checks haven't completed yet\n14 successful and 11 in progress checks\n\n CI/CD Distributed Sandbox Deployment / Distributed Deploy 0.15, ci8, COD_CONSUMER_KEY C19 (...) Details\n CI/CD Distributed Sandbox Deployment / Distributed Deploy 0.16, ci7, COD_CONSUMER_KEY C17 (...) Details\n CI/CD Distributed Sandbox Deployment / Distributed Deploy 0.17, ci8, COD_CONSUMER_KEY C18 (...) Details\n CI/CD Distributed Sandbox Deployment / Distributed Deploy 0.18, ci9, COD_CONSUMER..."
+                                    },
+                                    {
+                                        "title": "GitHub Pull Request Page",
+                                        "layoutDescription": "Web page layout",
+                                        "visibleText": "CI/CD Distributed Sandbox Deployment / Distributed Deploy 0.19, ci20, COD_CONSUMER_KEY C20 (...) Details\n\nThis branch has no conflicts with the base branch\nMerging can be performed automatically.\n\nSquash and merge\n\nYou can also open this in GitHub Desktop or view command line instructions.\n\nAdd a comment\n\nPR-Agent Tools\n\nWrite\nPreview\n\nAdd your comment here...\n\nMarkdown is supported\n\nRemember, contributions to this repository should follow its contributing guidelines and security policy.\n\nProTip! Add .patch or .diff to the end of URLs for Git's plaintext views."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in writing code using the IntelliJ IDEA IDE. The primary focus is on a Salesforce project, as indicated by the presence of Salesforce-specific files and XML configurations. The user is working on a file named 'LAMBDA-76029.xml', which involves adding BFQ Calculation for the JobBoardCellAnalytics. The user is also managing source control activities, including committing changes with a detailed commit message.",
+        "The user is reviewing a pull request on GitHub. The pull request is titled 'feat(LAMBDA-76029): Add BFQ Calculation for the JobBoardCellAnalytics' and involves merging changes from a feature branch to the master branch. The user is examining the feedback provided by a PR Agent and checking the status of various CI/CD checks. The user is also considering merging the pull request, as indicated by the 'Squash and merge' option being visible.",
+        "The user continues to review the pull request on GitHub, focusing on the status of CI/CD checks. The checks include various deployment and linting tasks, with some still in progress. The user is also reading comments from the PR Agent, which indicate that 48 tests have passed. The user is likely ensuring that all checks are successful before proceeding with the merge."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in writing and reviewing code without any visible interaction with AI tools. The activities are focused on manual coding and source control management.",
+    "activities": [
+        "WRITING_CODE",
+        "REVIEWING_CODE"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [
+        "SALESFORCE"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 1,
+            "mouse": 5,
+            "date": "2024-06-12T07:50:00Z",
+            "windowTitle": "sfdx ? LAMBDA-76029.xml",
+            "processName": "idea64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 1,
+            "mouse": 0,
+            "date": "2024-06-12T07:51:00Z",
+            "windowTitle": "sfdx ? LAMBDA-76029.xml",
+            "processName": "idea64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 17,
+            "mouse": 20,
+            "date": "2024-06-12T07:52:00Z",
+            "windowTitle": "sfdx ? LAMBDA-76029.xml",
+            "processName": "idea64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 36,
+            "mouse": 20,
+            "date": "2024-06-12T07:53:00Z",
+            "windowTitle": "feat(LAMBDA-76029): Add BFQ Calculation for the JobBoardCellAnalytics by artyom-melnikov ? Pull Request #2312 ? trilogy-group/xo-hiring - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring/pull/2312",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T07:54:00Z",
+            "windowTitle": "feat(LAMBDA-76029): Add BFQ Calculation for the JobBoardCellAnalytics by artyom-melnikov ? Pull Request #2312 ? trilogy-group/xo-hiring - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring/pull/2312",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 3,
+            "date": "2024-06-12T07:55:00Z",
+            "windowTitle": "feat(LAMBDA-76029): Add BFQ Calculation for the JobBoardCellAnalytics by artyom-melnikov ? Pull Request #2312 ? trilogy-group/xo-hiring - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring/pull/2312",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-12T07:56:00Z",
+            "windowTitle": "feat(LAMBDA-76029): Add BFQ Calculation for the JobBoardCellAnalytics by artyom-melnikov ? Pull Request #2312 ? trilogy-group/xo-hiring - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring/pull/2312",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-12T07:57:00Z",
+            "windowTitle": "feat(LAMBDA-76029): Add BFQ Calculation for the JobBoardCellAnalytics by artyom-melnikov ? Pull Request #2312 ? trilogy-group/xo-hiring - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring/pull/2312",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T07:58:00Z",
+            "windowTitle": "feat(LAMBDA-76029): Add BFQ Calculation for the JobBoardCellAnalytics by artyom-melnikov ? Pull Request #2312 ? trilogy-group/xo-hiring - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring/pull/2312",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T07:59:00Z",
+            "windowTitle": "feat(LAMBDA-76029): Add BFQ Calculation for the JobBoardCellAnalytics by artyom-melnikov ? Pull Request #2312 ? trilogy-group/xo-hiring - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring/pull/2312",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-12T07:50:00Z"
+}

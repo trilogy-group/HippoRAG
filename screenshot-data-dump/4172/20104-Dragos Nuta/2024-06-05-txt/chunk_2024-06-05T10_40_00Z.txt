@@ -1,0 +1,303 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "meet.google.com",
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T10:40:19Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Microsoft Edge, File Explorer, Google Chrome, and several other unidentified applications. Also includes system tray with notifications, sound, network, and clock displaying '1:40 PM 6/5/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "XO Team Chat - Chat - Google Chrome",
+                                "url": "https://mail.google.com/chat/u/0/#",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, Google account profile picture, Chrome menu, and extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "XO Team Chat",
+                                        "layoutDescription": "Chat interface with sidebar and main chat area",
+                                        "visibleText": "XO Team Chat\nExternal\n10 members - Private\nChat Shared Tasks\nTuesday (2024-06-04) Daily Status Update\n2 replies Yesterday 2:23 PM\nYesterday 3:00 PM\nlate 5 mins. start without me\nDenys Yefimenko Yesterday 5:45 PM\non bfq pass rate: 1-Pager: BFO completion rate improvement plan\n@Dragos Nuta should job recommendation generation proceed in case candidate's profile cannot be found in the opensearch (happens on sandbox)? I'm not sure if accuracy of recommendations in such case will be at expected level.\nno, you should not make recommendations in this case\n1 unread\nDenys Yefimenko 14 min\n@Denys Yefimenko\nHi, can I have access to LogRocket?\nAnyone can advise on that?\n5 unread @Dragos Nuta 5 replies Now"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T10:46:07Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, File Explorer, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '1:46 PM'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - nfv-rifq-wxb - Google Chrome",
+                                "url": "meet.google.com/nfv-rifq-wxb",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "back, forward, refresh buttons, address bar, tabs, and profile icon. Meet controls include microphone toggle, camera toggle, captions, present now, more options, and hang up button."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Meet Video Call",
+                                        "layoutDescription": "Video call layout with participant videos and chat sidebar",
+                                        "visibleText": "Nilesh Deshpande - Main speaker visible with a background of a bookshelf and indoor plants. Dragos Nuta - Visible in a smaller video frame, appears relaxed, hands behind head, background similar to Nilesh's. Chat sidebar shows conversation with Jozsef Czapovics, message reads: 'do you have the slides for today?'"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Chat - mail.google.com",
+                                "url": "mail.google.com/chat/u/0/",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "search bar, new chat button, and chat list."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Chat",
+                                        "layoutDescription": "Chat interface with list of contacts and conversation",
+                                        "visibleText": "Chat sidebar with contacts listed: Jozsef Czapovics, George Dita, Syed Shamael, Michael Madume, Anuj, Joe, Jozsef, Rakshit Bhatt, Joe Conley, Isabelle Advento. Direct messages count: 6, Home mentions: 9, Starred: 3. Current chat with Jozsef Czapovics, last message from Jozsef: 'do you have the slides for today?'"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T10:46:54Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Google Chrome, and system tray including clock showing '1:46 PM' and date '6/5/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - nfv-rifq-wxb - Google Chrome",
+                                "url": "meet.google.com/nfv-rifq-wxb?authuser=0",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "conference controls including microphone, camera, and hang up button"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference",
+                                        "layoutDescription": "Two participant videos displayed",
+                                        "visibleText": "Nilesh Deshpande and Dragos Nutu"
+                                    },
+                                    {
+                                        "title": "Chat",
+                                        "layoutDescription": "Chat sidebar on the right",
+                                        "visibleText": "Jozsef Czapovics: do you have the slides for today?"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Chat - mail.google.com - Google Chrome",
+                                "url": "mail.google.com/chat/u/0/#chat/dm/1",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "interface with search and settings options"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat",
+                                        "layoutDescription": "List of contacts and chat messages",
+                                        "visibleText": "Jozsef Czapovics: do you have the slides for today?"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in a team chat on Google Chat, specifically in the 'XO Team Chat' space. The conversation includes discussions about daily status updates and job recommendation generation. A user named Denys Yefimenko is asking for access to LogRocket and seeking advice on job recommendation generation when a candidate's profile cannot be found in the opensearch. The user responds to Denys, advising against making recommendations in such cases.",
+        "The user is participating in a Google Meet video conference. The main speaker, Nilesh Deshpande, is visible with a background of a bookshelf and indoor plants. Another participant, Dragos Nuta, is also visible in a smaller video frame, appearing relaxed. The chat sidebar shows a conversation with Jozsef Czapovics, who is asking if the user has the slides for the meeting. The user is likely multitasking, managing both the video call and the chat conversation simultaneously."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in team communication and a video conference without any visible interaction with AI tools for code suggestions, research, or debugging.",
+    "activities": [
+        "CHATTING_WITH_TEAM",
+        "MEETING"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "CHATTING_WITH_TEAM",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 2,
+            "mouse": 6,
+            "date": "2024-06-05T10:40:53Z",
+            "windowTitle": "Meet - nfv-rifq-wxb - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/nfv-rifq-wxb?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 10,
+            "mouse": 9,
+            "date": "2024-06-05T10:41:53Z",
+            "windowTitle": "XO Team Chat - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/space/AAAA8ETEWyA",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 36,
+            "mouse": 10,
+            "date": "2024-06-05T10:42:53Z",
+            "windowTitle": "Meet - nfv-rifq-wxb - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/nfv-rifq-wxb?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T10:43:53Z",
+            "windowTitle": "Meet - nfv-rifq-wxb - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/nfv-rifq-wxb?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T10:44:53Z",
+            "windowTitle": "Meet - nfv-rifq-wxb - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/nfv-rifq-wxb?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T10:45:53Z",
+            "windowTitle": "Meet - nfv-rifq-wxb - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/nfv-rifq-wxb?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T10:46:53Z",
+            "windowTitle": "Meet - nfv-rifq-wxb - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/nfv-rifq-wxb?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 2,
+            "mouse": 7,
+            "date": "2024-06-05T10:47:53Z",
+            "windowTitle": "Meet - nfv-rifq-wxb - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/nfv-rifq-wxb?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T10:48:53Z",
+            "windowTitle": "Meet - nfv-rifq-wxb - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/nfv-rifq-wxb?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 38,
+            "mouse": 9,
+            "date": "2024-06-05T10:49:53Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/ulE4Q0AAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-05T10:40:00Z"
+}

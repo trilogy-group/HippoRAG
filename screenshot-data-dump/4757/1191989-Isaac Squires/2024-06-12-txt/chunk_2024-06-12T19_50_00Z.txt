@@ -1,0 +1,204 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "mail.google.com",
+        "chrome",
+        "meet.google.com",
+        "towardsai.net",
+        "google.com",
+        "perplexity.ai"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T19:54:55Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Minimize, Core, MS:En, Teach!, DevFac, Me, (9+), X, AI, Pending, Magic Academy, Budget, New Tab, and user profile picture. Also includes system clock showing '13:54' and date '12 Jun 2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - wyj-rdjj-kan - Google Chrome",
+                                "url": "meet.google.com/wyj-rdjj-kan",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "back, forward, refresh buttons, address bar, tab row with multiple tabs, and Google account profile picture at top right."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Meet Video Conference",
+                                        "layoutDescription": "Grid layout of video participants",
+                                        "visibleText": "David Schwartz, Dragos Nuta, Vaibhav Patel, Robert Egglestone, read.ai meeting notes, David's AI Notetaker (from Otter.ai), Vaibhav's OtterPilot, Samy Aboel-Nil, Isaac Squires, 1:54 PM, KO Kanban Weekly Demo"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is participating in a Google Meet video conference. The meeting is titled 'XO Kanban Weekly Demo' and includes multiple participants such as David Schwartz, Dragos Nuta, Vaibhav Patel, Robert Egglestone, and others. The meeting appears to be focused on discussing Kanban methodologies or updates, as indicated by the title. The user is actively engaged in the meeting, as evidenced by the open Google Meet tab and the visible video feeds of the participants.",
+        "The user has multiple tabs open in Google Chrome, including 'mail.google.com', 'chrome', 'meet.google.com', 'towardsai.net', 'google.com', and 'perplexity.ai'. This indicates that the user is multitasking, possibly checking emails, conducting research, and participating in the video conference simultaneously. The presence of tabs related to AI and machine learning suggests that the user is involved in activities related to these fields.",
+        "The user visited a webpage on 'towardsai.net' titled 'Groq: A Quickest and Cheapest LLM Inference'. This indicates that the user is researching or reading about Groq, a technology related to large language models (LLMs) and their inference capabilities. This activity is likely related to the user's work or interests in AI and machine learning.",
+        "The user conducted a Google search for 'groq video processing'. This search query suggests that the user is looking for information or resources related to video processing capabilities of Groq technology. This activity aligns with the user's interest in AI and machine learning, as indicated by the other tabs and links visited.",
+        "The user visited 'perplexity.ai' and searched for 'how much do 7DoLM7juS8qbYwYQB1LFXQ'. This indicates that the user is using Perplexity AI, a conversational AI tool, to find specific information. The exact nature of the query is unclear, but it suggests that the user is leveraging AI tools for research or information retrieval purposes."
+    ],
+    "aiUseSummary": "The user is utilizing AI tools for research and information retrieval. Specifically, the user visited 'perplexity.ai' to search for specific information, indicating the use of a conversational AI tool. Additionally, the user is reading about Groq, a technology related to large language models (LLMs) and their inference capabilities, on 'towardsai.net'. This suggests that the user is leveraging AI tools and resources to enhance their understanding and knowledge in the field of AI and machine learning.",
+    "activities": [
+        "MEETING",
+        "RESEARCH",
+        "EMAIL"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": true,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 13,
+            "date": "2024-06-12T19:50:54Z",
+            "windowTitle": "WS.Eng AI Adoption - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjHz_mgo",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 16,
+            "date": "2024-06-12T19:51:54Z",
+            "windowTitle": "Inbox (17) - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 11,
+            "date": "2024-06-12T19:52:54Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T19:53:54Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T19:54:54Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-12T19:55:54Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 66,
+            "mouse": 10,
+            "date": "2024-06-12T19:56:54Z",
+            "windowTitle": "GROQ ? A Quickest and Cheapest LLM Inference ? Towards AI - Google Chrome",
+            "processName": "towardsai.net",
+            "visitingUrl": "towardsai.net/p/machine-learning/groq-a-quickest-and-cheapest-llm-inference",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 54,
+            "mouse": 15,
+            "date": "2024-06-12T19:57:54Z",
+            "windowTitle": "groq video processing - Google Search - Google Chrome",
+            "processName": "google.com",
+            "visitingUrl": "google.com/search?q=groq+video+processing&oq=groq+video+processing&gs_lcrp=EgZjaHJvbWUyCwgAEEUYChg5GKABMgkIARAhGAoYoAEyBwgCECEYnwUyBwgDECEYnwXSAQg1NTU1ajBqNKgCALACAQ&sourceid=chrome&ie=UTF-8",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 133,
+            "mouse": 17,
+            "date": "2024-06-12T19:58:54Z",
+            "windowTitle": "Perplexity - Google Chrome",
+            "processName": "perplexity.ai",
+            "visitingUrl": "perplexity.ai/search/how-much-do-7DoLM7juS8qbYwYQB1LFXQ",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 29,
+            "mouse": 2,
+            "date": "2024-06-12T19:59:54Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-12T19:50:00Z"
+}

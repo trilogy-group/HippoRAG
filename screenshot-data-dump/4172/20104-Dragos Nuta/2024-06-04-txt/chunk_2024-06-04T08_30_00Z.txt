@@ -1,0 +1,306 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "mail.google.com",
+        "chrome",
+        "meet.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-04T08:32:27Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Edge, Windows, Calendar, Mail, Google Chrome, and other unidentified applications. System tray includes network, sound, ENG language, and clock displaying '11:32 AM 6/4/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - kxx-fcoj-dew - Google Chrome",
+                                "url": "meet.google.com/kxx-fcoj-dew",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "back, forward, refresh buttons, address bar, tabs, and Google account icon. Meet UI includes microphone toggle, camera toggle, captions, present now, more options, hang up button, chat, and participants list"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference",
+                                        "layoutDescription": "Three video feeds displayed",
+                                        "visibleText": "Michael Madume\n11:32 AM | AI Coach Daily Sync\nDragos Nuta\nread.ai meeting notes"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T08:36:00Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Microsoft Edge, File Explorer, and system tray with notifications, sound, network, and time display",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - kxx-fcoj-dew - Google Chrome",
+                                "url": "meet.google.com/kxx-fcoj-dew",
+                                "position": "left",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, navigation buttons, Google account avatar, Meet controls"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Michael Madume (Presenting)",
+                                        "layoutDescription": "Main content area",
+                                        "visibleText": "Michael Madume (Presenting)"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Literal AI",
+                                "url": "https://literalai.app/project/literalai",
+                                "position": "right",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "tabs, navigation, main content area with tabs for Dashboard, Observability, Runs, Generations, Scores, Playground, Prompts, Datasets, Online Evaluation, Experiments, Users, Settings"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Threads",
+                                        "layoutDescription": "Main content area",
+                                        "visibleText": "Threads - Thread #07301920-3cbe-... - User 1: [JSON data structure showing detailed chat history and AI interactions]"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T08:39:27Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Settings, and hidden icons. Also displays the system clock showing '11:39 AM' and date '6/4/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - kxx-fcoj-dew - Google Chrome",
+                                "url": "meet.google.com/kxx-fcoj-dew",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Michael Madume (Presenting)",
+                                        "layoutDescription": "Video conference layout",
+                                        "visibleText": "Michael Madume (Presenting)"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "platform.openai.com",
+                                "url": "platform.openai.com",
+                                "position": "maximized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat",
+                                        "layoutDescription": "editor layout",
+                                        "visibleText": "SYSTEM\nGovern the following conversation and a follow up question, provide a helpful response to the user informed how you would respond on a chat interface response, like google chat, teams or slack and not like an email or letter (don't use emojis unless requested by user).\n\nUser's Name: Michael\nWritten Name: AI Assistant\nCurrent Time: (date)\n\nChat History:\n(chat, history)\n\nFollow Up Question: (question)\n\nInstructions:\n- Carefully review the chat history to understand the context of the conversation.\n- Provide a clear, detailed, and determinate response to the user.\n- Analyze the follow up question and determine the user's intent.\n- Use your knowledge and the information from that chat history to provide the most helpful response possible.\n- Answer the question to the best of your ability based on the data available.\n- Be detailed and factual in your response.\n\nQuestion, Instructions:\n\nResponse:"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Google Meet video conference titled 'AI Coach Daily Sync' with multiple participants, including Michael Madume, Dragos Nuta, and Serban Petrescu. The meeting appears to be focused on discussing AI-related tasks and updates. The user is actively presenting during the meeting, sharing their screen to display various tools and applications.",
+        "During the meeting, the user presents a tool called 'Literal AI' which is used for managing and observing AI threads, runs, and generations. The user navigates through different sections of the tool, including the dashboard, observability, and threads. The user demonstrates how to summarize issues that the prompt engineering team is dealing with, showcasing detailed JSON data structures and AI interactions.",
+        "The user also presents another tool, 'platform.openai.com', where they demonstrate how to provide a helpful response to a user based on chat history and follow-up questions. The user explains the instructions for analyzing the chat history, determining the user's intent, and providing a detailed and informative response. This indicates the user's involvement in AI-driven customer support or assistance tasks."
+    ],
+    "aiUseSummary": "The user utilizes AI tools extensively in their workflow. During the meeting, they demonstrate the use of 'Literal AI' for managing AI threads and summarizing issues faced by the prompt engineering team. They also use 'platform.openai.com' to show how to generate helpful responses based on chat history and follow-up questions. This indicates that the user relies on AI for both technical and customer support tasks, leveraging AI to enhance productivity and efficiency.",
+    "activities": [
+        "MEETING",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [
+        "OTHER"
+    ],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "OPENAI_PLAYGROUND"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 108,
+            "mouse": 20,
+            "date": "2024-06-04T08:30:09Z",
+            "windowTitle": "Bogdan Tenea - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/ulE4Q0AAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 68,
+            "mouse": 21,
+            "date": "2024-06-04T08:31:09Z",
+            "windowTitle": "AI Coach - internal - Chat - Google Chrome",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 1,
+            "date": "2024-06-04T08:32:09Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T08:33:09Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T08:34:09Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-04T08:35:09Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 14,
+            "date": "2024-06-04T08:36:09Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-04T08:37:09Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-04T08:38:09Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 15,
+            "mouse": 5,
+            "date": "2024-06-04T08:39:09Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-04T08:30:00Z"
+}

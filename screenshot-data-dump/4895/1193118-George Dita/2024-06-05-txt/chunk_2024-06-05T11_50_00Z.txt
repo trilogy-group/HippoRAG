@@ -1,0 +1,322 @@
+{
+    "candidateId": 2368956,
+    "apps": [
+        "mail.google.com",
+        "Google Chat",
+        "app.hubspot.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T11:51:23Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a Spotlight search icon and Notification Center icon.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Finder",
+                        "windows": []
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T11:56:29Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Siri, Google Chrome, Microsoft Outlook, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Visual Studio Code, Terminal, System Preferences, and others. Docked at the bottom of the screen.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Customer Platform Pricing | HubSpot",
+                                "url": "https://www.hubspot.com/pricing/customer-platform",
+                                "position": "right",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Navigation bar, tabs, address bar, vertical scroll bar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Customer Platform Pricing",
+                                        "layoutDescription": "Two-column layout",
+                                        "visibleText": "On June 25, 2024, the price of Professional Customer Platform and Enterprise Customer Platform will increase by 10%. Everything you need to know about the upcoming price increase, including possible pricing details of: Professional Customer Platform $2,355/mo today $2,590.50/mo June 25 Enterprise Customer Platform $5,000/mo today $5,500/mo June 25"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Medium posts",
+                                "url": "https://medium.com/@username/posts",
+                                "position": "right",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Navigation bar, tabs, address bar, vertical scroll bar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Guidance for Demo Prompt and Adoption Rate",
+                                        "layoutDescription": "Single-column layout",
+                                        "visibleText": "Guidance for Demo Prompt and Adoption Rate The new 'Product X' aims to stand out from the dull and boring products And to stand out from the company that abuses them. The prompt is personalized and set up with a unique action as below: ```javascript const action = { type: 'DEMO_PROMOT', payload: { id: '123', name: 'Product X', description: 'Stand out from the competition with this innovative product', } }; ```"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Gmail",
+                        "windows": [
+                            {
+                                "title": "Gmail",
+                                "position": "right",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Navigation bar, tabs, address bar, vertical scroll bar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Gmail",
+                                        "layoutDescription": "Single-column layout",
+                                        "visibleText": "Compose Categories: Primary, Social, Promotions, Updates, Forums Starred Snoozed Important Sent Drafts More Labels: Chat, All Mail, Spam, Trash, Categories, Manage labels, Create new label Chat: Sasha JQW: Azure Messenger Monitor Triage - TP104..."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Slack",
+                        "windows": [
+                            {
+                                "title": "Slack",
+                                "position": "right",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Navigation bar, sidebar, message area, input area"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Slack",
+                                        "layoutDescription": "Single-column layout",
+                                        "visibleText": "Workspace: ExampleCorp Channels: General, Random, Alerts, Dev, Sales, Marketing, HR, Admin, Customer Support, Product, Engineering, IT, Legal, Finance, Operations, Executive, Creative, Delivery Direct Messages: John Doe, Jane Doe, etc. Sasha JQW: Azure Messenger Monitor Triage - TP104..."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Finder",
+                        "windows": [
+                            {
+                                "title": "Finder",
+                                "position": "right",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Navigation bar, sidebar, message area, input area"
+                                },
+                                "content": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T11:57:47Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Adobe Photoshop, Adobe Illustrator, File Explorer, Microsoft Outlook, and other unidentified applications. Also includes the Start menu icon, search bar, and system tray with time display showing '11:57 AM'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Work with me in Shaping the Future of PowerBI!",
+                                "url": "https://mail.google.com/mail/u/0",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "interface with navigation pane on the left, main content area displaying an email, and a right sidebar with ads"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email Content",
+                                        "layoutDescription": "Email displayed prominently",
+                                        "visibleText": "George Bishop\nWork with me in Shaping the Future of PowerBI!\n\nHello [Name],\n\nI am writing to invite you to collaborate on the development of PowerBI strategies that could revolutionize our industry. Your expertise in data analysis and business intelligence would be invaluable to our efforts.\n\nPlease let me know if you are interested in this opportunity.\n\nBest regards,\nGeorge Bishop\nCEO, Data Analytics Corp."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in email communication using Gmail. They are seen composing and reading emails, with specific interactions involving discussions about Azure Messenger and monitoring tasks. The user is also seen responding to emails related to customer platform pricing and other professional correspondences. This indicates a focus on managing and coordinating tasks through email.",
+        "The user is also engaged in team communication via Google Chat. They are seen discussing various topics with team members, including task updates and project coordination. This suggests that the user is actively collaborating with their team, sharing updates, and seeking clarifications on ongoing tasks.",
+        "Additionally, the user is researching pricing details on the HubSpot platform. They are viewing the pricing page for different customer platform plans, which indicates that they might be involved in evaluating or comparing different service plans for potential use or recommendation. This activity shows the user's involvement in decision-making processes related to service procurement or client recommendations."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in email communication, team chat, and web research without any visible interaction with AI tools. Therefore, there is no detailed summary of AI tool usage in this context.",
+    "activities": [
+        "EMAIL",
+        "CHATTING_WITH_TEAM",
+        "RESEARCH"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "EMAIL",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 210,
+            "mouse": 3,
+            "date": "2024-06-05T11:50:23Z",
+            "windowTitle": " Re: Aurea version 2024 - Risk of failing PCI certification: next steps - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQVwnfNxRsmMzWHLmhVcZrZkHpn",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 116,
+            "mouse": 18,
+            "date": "2024-06-05T11:51:23Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 382,
+            "mouse": 5,
+            "date": "2024-06-05T11:52:23Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 285,
+            "mouse": 13,
+            "date": "2024-06-05T11:53:23Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 35,
+            "mouse": 7,
+            "date": "2024-06-05T11:54:23Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 12,
+            "date": "2024-06-05T11:55:23Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 37,
+            "date": "2024-06-05T11:56:23Z",
+            "windowTitle": " Customer Platform Pricing | HubSpot - Google Chrome\n",
+            "processName": "app.hubspot.com",
+            "visitingUrl": "https://app.hubspot.com/pricing/40828524/suite?term=annual",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 17,
+            "date": "2024-06-05T11:57:23Z",
+            "windowTitle": " Content Creator | HubSpot - Google Chrome\n",
+            "processName": "app.hubspot.com",
+            "visitingUrl": "https://app.hubspot.com/content/40828524/create/email/all?subcategory=classic_email&emailType=REGULAR&folder=all",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 5,
+            "date": "2024-06-05T11:58:23Z",
+            "windowTitle": " Content Creator | HubSpot - Google Chrome\n",
+            "processName": "app.hubspot.com",
+            "visitingUrl": "https://app.hubspot.com/content/40828524/create/email/all?subcategory=drag_drop_email&emailType=REGULAR&folder=all",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T11:59:23Z",
+            "windowTitle": " Content Creator | HubSpot - Google Chrome\n",
+            "processName": "app.hubspot.com",
+            "visitingUrl": "https://app.hubspot.com/content/40828524/create/email/all?subcategory=drag_drop_email&emailType=REGULAR&folder=all",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-05T11:50:00Z"
+}

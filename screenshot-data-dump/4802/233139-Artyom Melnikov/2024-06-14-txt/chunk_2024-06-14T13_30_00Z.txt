@@ -1,0 +1,276 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "webstorm64",
+        "mail.google.com",
+        "us-east-1.console.aws.amazon.com",
+        "app.crossover.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T13:30:29Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Visual Studio Code, File Explorer, Google Chrome, and other unidentified applications. System tray visible with clock showing '23:34' and date '2024-06-14'. Network, sound, and battery status icons are also visible.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "lambda-process - Code",
+                                "url": null,
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Explorer sidebar on the left, multiple tabs open in the editor, bottom status bar visible."
+                                },
+                                "content": [
+                                    {
+                                        "title": "context-pack-play editor open with markdown content",
+                                        "layoutDescription": "Markdown editor layout",
+                                        "visibleText": "# Creating a Context Pack\n\nContext Packs live in the product's main repository (e.g., /docs/context-pack/).\n\n1. Create a new Markdown document in the new `/context-pack` directory for L1 context:\n 1. Copy the contents of the Context Pack - L1 Template into the new document\n 2. Fill in the placeholders in the template with the Context Pack's content, following the instructions in the template.\n\n2. For each module that you have identified in the L1 document, create a new L2 context document: `L2_module-name-context.md`\n 1. Copy the contents of the Context Pack - L2 Template into the new document\n 2. Fill in the placeholders in the template with the Context Pack's content, following the instructions in the template.\n 3. For sections, where there is no relevant content, state that explicitly instead of removing the section.\n\n3. For each function that you have identified in the L2 document, create a new L3 context document: `L3_module-function-context-template.md`\n 1. Copy the contents of the Context Pack - L3 Template into the new document\n 2. Fill in the placeholders in the template with the Context Pack's content, following the instructions in the template.\n 3. For sections, where there is no relevant content, state that explicitly instead of removing the section.\n\n4. For each class or file that you have identified in the L3 document, create JSDoc (or similar for other languages) comments explaining the code.\n\n5. For all non-trivial function, method and block of code in the class or file, create comments explaining the code.\n\n6. Benchmark your new Context Pack (see below):\n 1. Increase rate by improving the Context Pack and benchmarking tests until AI using the Context Pack performs at least `10%` higher than \"without context\"\n 2. The acceptable rate \"with context\" is <5%\n\n7. Inconclusive rate \"with context\" is <5%\n\n# Benchmarking a Context Pack\n\n1. Create a benchmarking config file for the Context Pack in the `L4_second-brain-benchmark` directory.\n 1. Define tests i.e. practical tasks in the context of the product, designed to verify the AI's ability to successfully solve tasks within the areas described in the Context Pack.\n 2. Make sure that your tests and assertions cover all the scope provisions from the Context Pack.\n 3. Tasks must be high-level (functional), i.e. at the same level as your regular Jira tasks received, or higher.\n 4. Assertions must be deterministic and easy to verify by AI with consistent outcome.\n 5. Assertions must be narrow in scope (i.e. \"smart\" EDA), \"Less than 20 lines\"; 5000c; \"properly named variables\".\n 6. Assertions must only verify if AI correctly used information in the Context Pack (i.e. \"task implemented correctly\") and must verify that the AI has made all the necessary changes in all the right places."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T13:34:02Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and other pinned applications. Time displayed is 13:34",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "lambda-process - Visual Studio Code",
+                                "url": null,
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar at top, sidebar on left, editor area in center, status bar at bottom"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Creating a Context Pack",
+                                        "layoutDescription": "Text in editor",
+                                        "visibleText": "Creating a Context Pack\n\nContext Packs live in the product's main repository (e.g. /docs/context-pack/)\n\nL1\n\n1. Create a new Markdown document in the new [context-pack] directory for L1 context: L1.context.md\n2. Copy the contents of the [Context Pack - L1 Template](...) into the new document\n3. Fill in the placeholders in the template with the Context Pack's content, following the instructions in the template\n\nL2\n\n1. For each module that you have identified in the L1 document, create a new L2 context document: L2.module-name.context.md\n2. Copy the contents of the [Context Pack - L2 Template](...) into the new document\n3. Fill in the placeholders in the template with the Context Pack's content, following the instructions in the template\n4. For sections, where there is no relevant content, state that explicitly instead of removing the section (e.g. \"No 3rd party services used by this Module.\")\n\nL3\n\n1. For each function that you have identified in the L1 document, create a new L3 context document: L3.module-name-function-name.context.md\n2. Copy the contents of the [Context Pack - L3 Template](...) into the new document\n3. Fill in the placeholders in the template with the Context Pack's content, following the instructions in the template\n4. For sections, where there is no relevant content, state that explicitly instead of removing the section (e.g. \"No important technical decisions were made for this Function. Trivial CRUD.\")\n\nL4\n\n1. Benchmark your new Context Pack (see [below](...))\n2. Iterate by improving the Context Pack and benchmarking tests until AI using the Context Pack performs at least 30% higher than \"without context\"\n3. Pass rate \"with context\" is at least 30% higher than \"without context\"\n4. Inconclusive rate \"with context\" is <5%"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T13:38:06Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, File Explorer, Microsoft Edge, Microsoft Store, Mail, Calendar, Photos, Settings, and other unidentified applications. Also includes the Start menu icon, search bar, task view button, and system tray with network, sound, and clock indicators.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "My parameters - AWS Systems Manager - Parameter Store - Google Chrome",
+                                "url": "https://us-east-1.console.aws.amazon.com/systems-manager/parameters",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Reload button"
+                                },
+                                "content": [
+                                    {
+                                        "title": "AWS Systems Manager > Parameter Store",
+                                        "layoutDescription": "Web page layout",
+                                        "visibleText": "Services CloudFormation CloudFront Lambda EC2 Route 53 RDS CloudWatch API Gateway Systems Manager Athena DynamoDB AWS AppSync Simple Queue Service N. Virginia jsmith@example.com (ID: 1234-5678-1234) 13:38 My parameters Public parameters Settings Search Name: contains /no-hiring/ps4757/api/ Clear filters Name Tier Type Last modified /no-hiring/ps4757/api/action-caller Standard String Thu, 13 Jun 2024 10:52:15 GMT /no-hiring/ps4757/api/candidate-removal-secret-ke Standard SecureString Thu, 13 Jun 2024 10:52:15 GMT /no-hiring/ps4757/api/accesses Standard SecureString Thu, 13 Jun 2024 10:52:16 GMT /no-hiring/ps4757/api/authgate/api-key Standard SecureString Thu, 13 Jun 2024 10:52:16 GMT /no-hiring/ps4757/api/authgate/candidate-executiv Standard String Thu, 13 Jun 2024 10:52:16 GMT /no-hiring/ps4757/api/kontent-management-api-key Standard SecureString Thu, 13 Jun 2024 10:52:16 GMT /no-hiring/ps4757/api/kontent-preview-api-key Standard SecureString Thu, 13 Jun 2024 10:52:16 GMT /no-hiring/ps4757/api/kontent-project-id Standard SecureString Thu, 13 Jun 2024 10:52:16 GMT /no-hiring/ps4757/api/kontent-proxy-url Standard String Thu, 13 Jun 2024 10:52:16 GMT /no-hiring/ps4757/api/opensearch Standard String Thu, 13 Jun 2024 10:52:16 GMT"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in writing and editing documentation within Visual Studio Code. The primary focus is on creating and updating context packs, which are detailed markdown documents that provide business, functional, and technical information about a product. The user is following a structured template to fill in placeholders and ensure that all necessary sections are completed. This involves copying content from various templates and making sure that each module, function, and class is properly documented.",
+        "The user is also working within the AWS Systems Manager console, specifically in the Parameter Store section. They are managing parameters related to an API, as indicated by the search filter '/no-hiring/ps4757/api/'. The user appears to be reviewing or updating these parameters, which are essential for the configuration and operation of the API. However, the session has timed out, and the user is prompted to sign in again to continue their work.",
+        "In addition to documentation and parameter management, the user is accessing their email through Gmail. This suggests that they are likely checking for updates, communications, or instructions related to their ongoing tasks. The email activity is part of their workflow to stay informed and coordinate with team members or stakeholders."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being utilized in the provided screenshots. The user is primarily engaged in manual tasks such as writing documentation in Visual Studio Code, managing parameters in AWS Systems Manager, and checking emails in Gmail. No AI chat interfaces or AI-driven suggestions are visible in the screenshots, indicating that the user is not leveraging AI tools for their current activities.",
+    "activities": [
+        "WRITING_SPEC",
+        "READING_SPEC",
+        "EMAIL"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "IAC"
+    ],
+    "programmingLanguages": [
+        "TYPESCRIPT"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_SPEC",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T13:30:18Z",
+            "windowTitle": "lambda-process ? context-pack.playbook.md",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T13:31:18Z",
+            "windowTitle": "lambda-process ? context-pack.playbook.md",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T13:32:18Z",
+            "windowTitle": "lambda-process ? context-pack.playbook.md",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-14T13:33:18Z",
+            "windowTitle": "lambda-process ? context-pack.playbook.md",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T13:34:18Z",
+            "windowTitle": "lambda-process ? context-pack.playbook.md",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 5,
+            "date": "2024-06-14T13:35:18Z",
+            "windowTitle": "[Company-wide announcement] [Action required] Confirm necessary MacStadium instances - artyom.melnikov@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxHbLbDnWMTzQBgDNgSbhdWQ",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-14T13:36:18Z",
+            "windowTitle": "My parameters - AWS Systems Manager - Parameter Store - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/systems-manager/parameters/?region=us-east-1&tab=Table#list_parameter_filters=Name:Contains:%2Fxo-hiring%2Fpr457%2Fsf-api%2F",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T13:37:18Z",
+            "windowTitle": "My parameters - AWS Systems Manager - Parameter Store - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/systems-manager/parameters/?region=us-east-1&tab=Table#list_parameter_filters=Name:Contains:%2Fxo-hiring%2Fpr457%2Fsf-api%2F",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 5,
+            "date": "2024-06-14T13:38:18Z",
+            "windowTitle": "WorkSmart - Google Chrome",
+            "processName": "app.crossover.com",
+            "visitingUrl": "app.crossover.com/x/dashboard/contractor/my-dashboard",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-14T13:39:18Z",
+            "windowTitle": "[Company-wide announcement] [Action required] Confirm necessary MacStadium instances - artyom.melnikov@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxHbLbDnWMTzQBgDNgSbhdWQ",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T13:30:00Z"
+}

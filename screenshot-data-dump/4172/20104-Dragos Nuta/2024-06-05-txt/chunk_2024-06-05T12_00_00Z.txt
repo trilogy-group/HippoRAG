@@ -1,0 +1,290 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "mail.google.com",
+        "meet.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T12:02:01Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, File Explorer, and other unidentified applications. System clock shows '3:02 PM'. Date displayed is '6/5/2024'. Language setting is 'ENG'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - khm-qevt-udu - Google Chrome",
+                                "url": "meet.google.com/khm-qevt-udu",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "browser tabs, address bar, navigation buttons, Google account avatar, minimize, maximize, close buttons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "XO Check-in",
+                                        "layoutDescription": "Video conference layout",
+                                        "visibleText": "read.ai meeting notes Artem Melnikov Denys Yefimenko Dmitrii Shutenkov Dragos Nuta"
+                                    },
+                                    {
+                                        "title": "Google Calendar",
+                                        "layoutDescription": "Calendar layout",
+                                        "visibleText": "Calendar Today June 2024 Week 23 New Zealand Time 00:00 Meet with... Search for people Time Insights JUN 3 \u2013 9, 2024 More insights My calendars Dragos Nuta Trilogy Birthdays Dragos Nuta - Aurea Dragos Nuta - XO Other calendars"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T12:05:24Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, File Explorer, Microsoft Edge, Google Chrome, and several unidentified applications. System tray includes network status, sound volume, battery indicator, language selector (ENG), and clock showing '3:05 PM'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - khm-qevt-udu - Google Chrome",
+                                "url": "meet.google.com/khm-qevt-udu",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "browser tabs, address bar, bookmarks bar, Google account profile picture, Meet controls"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Meet Video Conference",
+                                        "layoutDescription": "Video tiles on right, main content on left",
+                                        "visibleText": "Artem Melnikov (Presenting) - Category: Job or work"
+                                    },
+                                    {
+                                        "title": "Google Docs - Document Content",
+                                        "layoutDescription": "Text document, bullet points, links",
+                                        "visibleText": "Sign-up without applying for a specific job\nRelated Doc\n1. Pager: Sign-ups without applying for a specific job\nBackend\n1. Create a set of pipelines with special behavior that will act as a generic \u201capply\u201d target\n a. The pipelines will be in the \u201cAchieved\u201d status - This way they will not be shown on the job page as a job, and we will not post ads for them.\n b. Modify the Product2_Type__c field to also contain \u201cSignUp\u201d (right now it is either Hire or Prime pipeline). This field will be used to indicate signup pipelines.\n c. We don\u2019t need any Kount enforcement, because there will be no actual job page for this pipeline (i.e., no hook, text). Just fill required fields with placeholders\n d. Reuse https://product2.c12.displayurl/[your-legacy-domain] to put a link to the related role page (i.e. named and/or Profile Conversion Job Roles Landing Page)\n e. Modify the flow: When the application for such pipeline arrives to Review -> Move it to Expired\n i. There are several options here:\n 1. Introduce a new terminal stage along with Hired/Rejected/Expired - this is a strong move and it may lead to potential issues across the system. Requires deeper analysis.\n 2. Re-use Marketplace stage - we no longer have Marketplace, so this one is not used. We have 13 applications in Marketplace stage right now (from 2020), we can just reject these or complete the cleanup.\n 3. We can reuse Expired terminal stage for such applications since they are not hired or rejected.\n f. Prepare job recommendations and send the email to the candidate\nFrontend\n1. Rely on Product2_Type__c field to render the application differently\n a. The pipeline links points to Product2_DisplayUrl field (which will have a role page URL)\n b. Hide the \u201ctimeline\u201d and \u201cJob details\u201d block\n c. Add all such applications in the terminal stage from the list\n d. Modify the apply page\n e. Modify the company logo\n f. Modify the apply app\nQuestions"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T12:09:28Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Google Chrome, File Explorer, and other unidentified applications. Displays the time as '3:09 PM' and date as '5/26/24'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - khm-qevt-udu - Google Chrome",
+                                "url": "meet.google.com/khm-qevt-udu",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Multiple tabs, address bar, bookmarks bar, Google Meet controls"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Docs - LAMBDA-75848: Sign-up without applying for a specific job",
+                                        "layoutDescription": "Text document with multiple sections",
+                                        "visibleText": "1. Backend\n a. Create a set of pipelines with special behavior that will act as a generic 'apply' target\n i. The pipelines will be in the 'Active/Hidden' status. This way they will not be shown on the job page as a job, and we will not post ad for them.\n ii. Modify the Product2.Type_ field to contain 'SignUps' (right now it is either Hire or Prime pipeline). This field will be used to indicate SignUp pipelines.\n iii. We don't need any key content information, because there will be no actual job page for this pipeline (i.e., no hook, euse, just UI required fields with placeholders)\n iv. Use Product2.Type2_Display1('Landing Page') field to put a link to the related role page (i.e., https://landbrose.crisolve.com/ozone/job-roles/so v. Calculate it based on the domain? Take from Kontent\n vi. Track the actual page\n b. Modify the flow when the application for such pipeline arrives to Review -> Move it to Expired\n i. There. Several options here:\n 1. Introduce a new terminal stage along with Hired/Rejected/Expired - this is a strong move and may lead to potential issues across the system. Requires deep analysis.\n 2. Require key marketplace tags - we no longer have marketplaces, but this one is not used. We have 31 applications in Marketplace stage right now (from 2020), we can just reject those to complete the cleanup.\n 3. We can use 'Expired terminal stage' for such applications since they are not hired or rejected.\n c. Prepare job recommendations and send the email to the candidate\n2. Frontend\n a. Rely on Product2.Type_ field to render the application differently\n b. The pipeline links to 'Product2. Display1' field (which will have a real page URL)\n c. Hide the 'pipeline' and 'details' block\n d. Add all such 'applications' in the terminal stage from the list\n e. Modify the apply page\n3. Questions\n a. What applications terminal stage do we accept?"
+                                    },
+                                    {
+                                        "title": "Google Meet",
+                                        "layoutDescription": "Video conference layout",
+                                        "visibleText": "Participants: Artem Melnikov (Presenting), Denys Yefimenko, Dmitrii Shutenkov, Dragos Nuta"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Google Meet video conference titled 'XO Check-in' with multiple participants, including Artem Melnikov, Denys Yefimenko, Dmitrii Shutenkov, and Dragos Nuta. The meeting involves discussing a document titled 'Sign-up without applying for a specific job,' which outlines backend and frontend tasks for creating a set of pipelines with special behavior. The document includes detailed steps for modifying fields, reusing URLs, and preparing job recommendations.",
+        "During the meeting, Artem Melnikov is presenting the document, and the participants are actively engaged in the discussion. The document details backend tasks such as creating pipelines in 'Active/Hidden' status, modifying fields to indicate 'SignUp' pipelines, and reusing URLs for related role pages. It also includes frontend tasks like rendering applications differently based on specific fields and modifying the application page layout.",
+        "The user is also seen managing their calendar in Google Calendar, which shows a busy schedule with multiple meetings and tasks. The calendar includes events like 'Product Daily Check-in,' 'Acquisition,' and 'Review Prompting Board.' The user is actively participating in the 'XO Check-in' meeting, which is scheduled from 15:00 to 15:30.",
+        "Throughout the session, the user is primarily focused on the Google Meet video conference and the document being presented. The document includes links to external resources, such as a Figma design and a product URL, indicating that the user is working on a project that involves both backend and frontend development tasks. The meeting appears to be a collaborative effort to finalize the details of the project and ensure all team members are aligned on the tasks and objectives."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a Google Meet video conference and reviewing a document related to a project. There are no visible interactions with AI chat interfaces or AI-driven tools in the screenshots.",
+    "activities": [
+        "MEETING",
+        "READING_SPEC",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "UI"
+    ],
+    "programmingLanguages": [
+        "OTHER"
+    ],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DOCUMENT_VIEWER_OR_EDITOR"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 127,
+            "mouse": 6,
+            "date": "2024-06-05T12:00:53Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/1cuZu0AAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 231,
+            "mouse": 6,
+            "date": "2024-06-05T12:01:53Z",
+            "windowTitle": "Meet - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0&hs=122&ijlm=1717588912608",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 3,
+            "mouse": 23,
+            "date": "2024-06-05T12:02:53Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T12:03:53Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T12:04:53Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T12:05:53Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 20,
+            "mouse": 3,
+            "date": "2024-06-05T12:06:53Z",
+            "windowTitle": "Jozsef Czapovics - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/3f70MMAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 5,
+            "mouse": 0,
+            "date": "2024-06-05T12:07:53Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T12:08:53Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T12:09:53Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-05T12:00:00Z"
+}

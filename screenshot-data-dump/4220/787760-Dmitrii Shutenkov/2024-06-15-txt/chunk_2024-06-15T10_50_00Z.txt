@@ -1,0 +1,244 @@
+{
+    "candidateId": 1444536,
+    "apps": [
+        "calendar.google.com",
+        "ws-lambda.atlassian.net",
+        "github.com",
+        "crossover.lightning.force.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-15T10:52:48Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Chrome, File Explorer, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Outlook, OneNote, Teams, Visual Studio Code, and other unidentified applications. Also includes system tray with network, sound, and battery status icons, as well as the date and time display.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Inbox (39) - dmitrii.shutenkov@trilogy.com - DevFactory Mail - Google Chrome",
+                                "url": "mail.google.com/mail/u/0/#inbox",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs for SF Prod, SF Sandbox, ADFS, My Tasks, Crossover Sprints, Technical Debt - Crossover, Guides - Crossover, WS.Eng TPO: Leadership, Task Catalog. Also includes address bar, bookmarks bar with several bookmarks, and Chrome control buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Gmail",
+                                        "layoutDescription": "client interface",
+                                        "visibleText": "Gmail\nCompose\nMail\nC 39\nStarred\nSnoozed\nSent\nDrafts\nMore\nLabels\nExceptions 5\nUnread\nCrossover No-Reply 39 Salesforce Exceptions Error setting email configuration - 8:41 PM\nCrossover No-Reply 2 Salesforce Exceptions Non-recognized value in Configuration - 8:31 PM\nLinkedIn Focus on the positive when asked about... - 8:09 PM\nFlowApplication 47 Salesforce Exceptions An error occurred with your last submission - 7:11 PM\nLinkedIn Dmitrii, follow Celso Lascasas - CEO at EyeOn - 6:21 PM\nThe Loom Team Webinar: Faster, clearer documentation with Loom - 6:10 PM\nDatadog Your Daily Digest from Datadog - The Daily Digest - 5:58 PM\nAutomation, WS 3 [JIRA] (LAMBDA-76078) Acceptance Crossover - 5:35 PM\nCrossover No-Reply 14 Salesforce Exceptions Error while uploading results - 4:58 PM\nCrossover No-Reply Salesforce Exceptions LinkedIn Connection Error - 4:47 PM\nDragos, me, Ben 15 Re: Crossover and Google - Hey Everyone, Hope you're doing well - 3:27 PM\nKontent.ai Successful delivery to webhook \"Update Pipeline\" - 3:27 PM"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-15T10:54:42Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Outlook, Edge, File Explorer, Visual Studio Code, Remote Desktop, and other unidentified applications. System tray includes network, sound, and battery status icons, as well as the date and time display '11:54:42 15/06/2024' and language indicator 'ENG'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "[LAMBDA-76116] Minimum Badge issue - WorkSmart Lambda - Google Chrome",
+                                "url": "ws-lambda.atlassian.net/browse/LAMBDA-76116",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs for SF Prod, SF Sandbox, ADFS, My Tasks, Crossover Sprints, Create Task, Technical Debt - Crossover, Guides - Crossover, WS.Eng TPO: Leadership, Task Catalog. Address bar, navigation buttons, and extension icons visible. Multiple notification icons including a bell with a red notification badge indicating '9+' notifications. User profile icon at the top right corner."
+                                },
+                                "content": [
+                                    {
+                                        "title": "WS Lambda Service project",
+                                        "layoutDescription": "Left sidebar navigation",
+                                        "visibleText": "WS Lambda Service project Queues Raise a request Scheduled Issues ScriptRunner Enhanced... Knowledge Knowledge base Reports Directory Channels Invite agents Customers You're in a company-managed project"
+                                    },
+                                    {
+                                        "title": "Add internal note / Reply to customer",
+                                        "layoutDescription": "Main content area",
+                                        "visibleText": "Add internal note / Reply to customer Pro tip: press M to comment Edit - Delete - Alejandro Chavez June 14, 2024 at 4:56 PM Here are the images State Result: Failed Raw Score 70.0 Percent Score 70% Badge Simulated Yes Badge Earned Badge Hidden Pass Threshold 75% Reject Threshold 75%"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-15T10:58:27Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Edge, File Explorer, and several unidentified applications. System tray includes network, sound, and date/time indicators.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "feat(LAMBDA-75447): Use versioned score for the new CodeSignal assessments by artyom-melnikov ? Pull Request #2307 ? trilogy-group/xo-hiring - Google Chrome",
+                                "url": "https://github.com/trilogy-group/x",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, GitHub repository navigation, file navigation pane, pull request details, code review pane"
+                                },
+                                "content": [
+                                    {
+                                        "title": "GitHub Pull Request #2307",
+                                        "layoutDescription": "Complex layout with multiple sections",
+                                        "visibleText": "feat(LAMBDA-75447): Use versioned score for the new CodeSignal assessments by artyom-melnikov ? Pull Request #2307 ? trilogy-group/xo-hiring\n\nFiles\nChanges from all commits\nFile filter\nConversations\nViewed\nReview changes\n\nsf..."
+                                    },
+                                    {
+                                        "title": "Code Review - AssessmentHelperCodeSignal.cls",
+                                        "layoutDescription": "Code snippet visible",
+                                        "visibleText": "@@ -347,6 +348,25 @@ public class AssessmentHelperCodeSignal extends AssessmentHelper {\nif (codingScore == null) {\ncodingScore = (Decimal) payload.get('score');\n}\n\n// LAMBDA-75447: Handle versioned coding score\nif (payload.containsKey('versionedCodingScore')) {\n// If provided - we use it with the highest priority\nMap<String, Object> versionedCodingScore = (Map<String, Object>) payload.get('versionedCodingScore');\nString version = (String) versionedCoding..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively managing their emails in Gmail. They have several unread emails, including notifications from Salesforce Exceptions, LinkedIn, FlowApplication, The Loom Team, Datadog, and Crossover. The user is likely prioritizing and organizing their tasks based on these emails. The calendar widget on the right side of the screen indicates that the user is also keeping track of their schedule for the day.",
+        "The user is reviewing a Jira issue on the WS Lambda service project. The issue, identified as LAMBDA-76116, involves a minimum badge issue. The user is reading through the details of the issue, which includes a comment from Alejandro Chavez with images showing the test results. The user is likely assessing the issue to determine the next steps for resolution.",
+        "The user is reviewing a pull request on GitHub for the repository trilogy-group/xo-hiring. The pull request, identified as #2307, involves using a versioned score for new CodeSignal assessments. The user is examining the changes made in the file AssessmentHelperCodeSignal.cls, which includes handling versioned coding scores. The user is likely ensuring that the changes meet the required standards and do not introduce any issues."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in managing emails, reviewing Jira issues, and examining pull requests on GitHub without any visible interaction with AI tools.",
+    "activities": [
+        "EMAIL",
+        "REVIEWING_CODE"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [
+        "SALESFORCE"
+    ],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "REVIEWING_CODE",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 27,
+            "date": "2024-06-15T10:53:41Z",
+            "windowTitle": "DevFactory - Calendar - Week of June 16, 2024 - Google Chrome",
+            "processName": "calendar.google.com",
+            "visitingUrl": "calendar.google.com/calendar/u/0/r/week/2024/6/18",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 13,
+            "date": "2024-06-15T10:54:41Z",
+            "windowTitle": "[LAMBDA-76116] Minimum Badge issue - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-76116",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-15T10:55:41Z",
+            "windowTitle": "[LAMBDA-76116] Minimum Badge issue - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-76116",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 11,
+            "date": "2024-06-15T10:56:41Z",
+            "windowTitle": "feat(LAMBDA-75521): Data fix script by artyom-melnikov ? Pull Request #454 ? trilogy-group/xo-hiring-monorepo - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/pull/454/files",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 17,
+            "date": "2024-06-15T10:57:41Z",
+            "windowTitle": "[LAMBDA-75521] Regrade Coding Score assessments - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-75521",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 9,
+            "date": "2024-06-15T10:58:41Z",
+            "windowTitle": "feat(LAMBDA-75447): Use versioned score for the new CodeSignal assessments by artyom-melnikov ? Pull Request #2307 ? trilogy-group/xo-hiring - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring/pull/2307/files",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-15T10:59:41Z",
+            "windowTitle": "Complex Problem-Solving in Code | Application Step Result | Salesforce - Google Chrome",
+            "processName": "crossover.lightning.force.com",
+            "visitingUrl": "crossover.lightning.force.com/lightning/r/Application_Step_Result__c/a0BIj0000013lKeMAI/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-15T10:50:00Z"
+}

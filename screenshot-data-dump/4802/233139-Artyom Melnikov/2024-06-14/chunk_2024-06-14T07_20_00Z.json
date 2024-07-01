@@ -1,0 +1,271 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "ws-lambda.atlassian.net"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T07:20:01Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Visual Studio Code, File Explorer, Microsoft Edge, and other unidentified applications. Also includes system tray with network, sound, and clock (time displayed as 18:15, date as 06/14/2024).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "package.json - infra-ts - Visual Studio Code",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "top bar, sidebar on left with file explorer, bottom bar with status and control icons"
+                },
+                "content": [
+                  {
+                    "title": "package.json",
+                    "layoutDescription": "editor open with JSON content",
+                    "visibleText": "{\n \"name\": \"@ftloyg-group/lambda-cdk-infra\",\n \"version\": \"1.11.3\",\n \"description\": \"CDK Infrastructure Library\",\n \"main\": \"dist/index.js\",\n \"types\": \"dist/index.d.ts\",\n \"files\": [\n \"dist/\"\n ],\n \"author\": \"Artyom Melnikov\",\n \"publishConfig\": {\n \"registry\": \"https://npm.pkg.github.com\"\n },\n \"repository\": {\n \"type\": \"git\",\n \"url\": \"https://github.com/ftloyg-group/lambda-cdk-infra\"\n },\n \"scripts\": {\n \"generate-index\": \"npx cti -b create ./src\",\n \"build\": \"tsc\"\n },\n \"peerDependencies\": {\n \"aws-cdk-lib\": \"^2.15.0\",\n \"constructs\": \"^10.0.0\"\n },\n \"optionalDependencies\": {\n \"@amplify-frontend-javascript\": \"^4.3.3\",\n \"@aws-amplify/ui-components\": \"^4.3.2.2\",\n \"@aws-cdk/aws-appsync-alpha\": \"^2.15.0-alpha.0\",\n \"@aws-cdk/aws-cognito-identitypool-alpha\": \"^2.15.0-alpha.0\",\n \"@aws-cdk/aws-glue-alpha\": \"^2.15.0-alpha.0\"\n },\n \"devDependencies\": {\n \"@types/node\": \"^14.17.20\",\n \"@types/yargs\": \"^17.0.5\",\n \"@types/fs-extra\": \"^9.0.0\",\n \"ts-node\": \"^10.4.0\",\n \"typescript\": \"^4.4.4\",\n \"aws-cdk-lib\": \"^2.15.0\",\n \"constructs\": \"^10.0.0\",\n \"@types/lodash\": \"^4.14.188\",\n \"@types/aws-amplify\": \"^4.3.4\",\n \"@aws-frontend-services/alpha\": \"^4.3.5.0\",\n \"@aws-cdk/aws-cognito-identitypool-alpha\": \"^2.15.0-alpha.0\",\n \"@aws-cdk/aws-glue-alpha\": \"^2.15.0-alpha.0\"\n }\n}"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T07:25:45Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays system tray with notifications, sound, network, and clock showing '9:25 AM'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Crossover Kanban - Agile Board - WorkSmart Lambda - Google Chrome",
+                "url": "ws.lambda.atlassian.net/jira/software",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "multiple tabs, address bar, bookmarks bar, navigation buttons, profile icon, extensions icons"
+                },
+                "content": [
+                  {
+                    "title": "Crossover Kanban",
+                    "layoutDescription": "Kanban board layout",
+                    "visibleText": "Projects / Crossover Hire / Crossover Kanban\nSearch\nBE-FE PR PE QC Story Points\nOnly My Issues\nQuick Filters Clear filters\nBacklog 90/828\nPriority band (15 issues)\nCategory 2005 integration\nLAMBDA_75966\nInterview Bot incorrectly manages ASR state by returning it to 'Not Started'\nLAMBDA_75327\nMatching Interview ASR emails in the Started state when another assessment is graded and drives the Application...\nLAMBDA_74247\nIteration 3 of Lead Source Tracking Enhancements\nLAMBDA_79392\nChange manual BFG verification work unit trigger\nLAMBDA_74607\nUpdate ENCODED_STYLES for Atlas widget component\nLAMBDA_74683\nAssessment renewal feature\nLAMBDA_75444\nInterview Bot Assessments are returning to 'Not Started' state while candidates claim it was completed\nLAMBDA_74654\nPICK TICKETS BELOW THIS LINE\nLAMBDA_71091\nBlocked 1/14\nMany users are complaining that they are stuck at the login to the Crossover product\nLAMBDA_74660\nReady for Work 12/57\nCreate Content pack for XO Salesforce repository\nLAMBDA_75869\nXO Report token usage\nLAMBDA_73792\nError while uploading resumes in batch\nLAMBDA_75947\nFront-end Development for Help Pages\nHIRE-286\nCreate Back-end API Endpoint to Update FAQ Item Helpfulness\nHIRE-219\nCreate a Back-end API Endpoint to Update Pipeline Metadata\nHIRE-270\nUpdate Readme to Educate Users\nLAMBDA_75914\nReview Sonnet Performance on Screenshot Retrieval\nLAMBDA_76071\nImprove tool query builder to maintain user question context\nLAMBDA_75918\nPlan and Design Stories - Week 24 - Artern\nLAMBDA_75951\nIn Progress 0/0\nReady for QC 1/17\nDone 53/53\nRegrade Coding Score assessments\nLAMBDA_75521\nUpdate Beginner Mind badge based on feedback\nLAMBDA_75792\nSupport Job Recommendations in Reject emails release and iterate\nLAMBDA_75794\nPropose LMI-based retargeting approach\nLAMBDA_74728\n[Indeed] 2024 Week 10 Investigation\nLAMBDA_75827\n[Indeed] 2024 Week 9 Investigation\nLAMBDA_75608\n[Indeed] 2024 Week 8 Investigation\nLAMBDA_75459\n[Indeed] 2024 Week 7 Investigation\nLAMBDA_75522\nAI Day - Week 17 Michael M. - DevEngine AI - Milestone 1.2 - DSP\nLAMBDA_74482"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T07:28:29Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, Microsoft Edge, File Explorer, and several other unidentified applications. System tray includes network status, sound volume, date and time display (9:28 AM, 6/14/2024), and language setting (ENG).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Crossover Kanban - Agile Board - WorkSmart Lambda - Google Chrome",
+                "url": "https://www.lambda.atlassian.net/j",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, extensions icons"
+                },
+                "content": [
+                  {
+                    "title": "Crossover Kanban",
+                    "layoutDescription": "Kanban board layout",
+                    "visibleText": "Projects / Crossover Hire / Crossover Kanban\nSearch\nOnly My Issues BE-FE PR PE QC Story Points\nQuick Filters Clear filters\nBacklog 90/828\nPriority band (15 issues)\nCategory 2005 integration\nLAMBDA-75966\nInterview Bot incorrectly manages ASR state by returning it to 'Not Started'\nLAMBDA-75327\nMatching Interview ASR emails in Started state when another assessment is graded and drives the Application...\nLAMBDA-74247\nIteration 3 of Lead Source Tracking Enhancements\nLAMBDA-79392\nChange manual BFG verification work unit trigger\nLAMBDA-74607\nUpdate ENCODED_STYLES for Atlas widget component\nLAMBDA-74683\nAssessment renewal feature\nLAMBDA-75544\nInterview Bot Assessments are returning to 'Not Started' state while candidates Qian Adams was completed\nLAMBDA-74654\nPICK TICKETS BELOW THIS LINE\nLAMBDA-71091\nBlocked 1/14\nMany users are complaining that they are stuck at the login to the Crossover product\nLAMBDA-74660\nReady for Work 12/57\nCreate Content pack for XO Salesforce repository\nLAMBDA-75869\nXO Report token usage\nLAMBDA-73792\nError while uploading resumes in batch\nLAMBDA-75947\nFront-end Development for Help Pages\nHIRE-286\nCreate Back-end API Endpoint to Update FAQ Item Helpfulness\nHIRE-219\nCreate a Back-end API Endpoint to Update Pipeline Metadata\nHIRE-270\nUpdate Readme to Educate Users\nLAMBDA-75914\nReview Sonnet Performance on Screenshot Retrieval\nLAMBDA-76071\nImprove tool query builder to maintain user question context\nLAMBDA-75918\nPlan and Design Stories - Week 24 - Artern\nLAMBDA-75951\nIn Progress 10/77\nReady for QC 1/77\nDone 53/53\nRegrade Coding Score assessments\nLAMBDA-75521\nUpdate Beginner Mind badge based on feedback\nLAMBDA-75972\nSupport Job Recommendations in Reject emails release and iterate\nLAMBDA-75794\nPropose LMI-based retargeting approach\nLAMBDA-74728\n[Indeed] 2024 Week 10 Investigation\nLAMBDA-75827\n[Indeed] 2024 Week 9 Investigation\nINDEED 2024 RESET\nLAMBDA-75608\n[Indeed] 2024 Week 8 Investigation\nINDEED 2024 RESET\nLAMBDA-75459\n[Indeed] 2024 Week 7 Investigation\nINDEED 2024 RESET\nLAMBDA-75521\nAI Day - Week 17 Michael M. - DevEngine AI - Milestone 1.2 - DSP\nLAMBDA-74482"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in coding activities using Visual Studio Code. The primary file open is 'package.json' within the 'lambda-cdk-infra' project. The user is working on a TypeScript project, as indicated by the presence of TypeScript dependencies and scripts in the 'package.json' file. The user is likely configuring or updating the project's dependencies and build scripts, which include various AWS CDK libraries and TypeScript-related packages.",
+    "The user is also involved in project management activities using the Crossover Kanban board on Google Chrome. The Kanban board displays various tasks and issues related to the 'Crossover Hire' project. The user is reviewing tasks in different states such as 'Backlog', 'Blocked', 'Ready for Work', 'In Progress', 'Ready for QC', and 'Done'. Specific tasks include 'Category jobs integration', 'Interview Bot incorrectly manages ASR state', and 'Iteration 3 of Lead Source Tracking Enhancements'. This indicates the user is tracking the progress of multiple tasks and possibly planning or prioritizing work.",
+    "The user continues to review the Kanban board, focusing on tasks that are 'Ready for Work' and 'In Progress'. The tasks include creating content packs for the XO Salesforce repository, front-end development for help pages, and creating back-end API endpoints. The user is likely assessing the status of these tasks, identifying any blockers, and ensuring that the tasks are progressing as planned. The detailed view of the Kanban board suggests a thorough review of the project's current state and upcoming work."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in coding and project management activities without any visible interaction with AI tools for code suggestions, debugging, or research. The focus is on manual review and updates within Visual Studio Code and the Crossover Kanban board.",
+  "activities": [
+    "WRITING_CODE",
+    "REVIEWING_CODE"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "IAC"
+  ],
+  "programmingLanguages": [
+    "TYPESCRIPT"
+  ],
+  "toolTypes": [
+    "IDE",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 2,
+      "mouse": 10,
+      "date": "2024-06-14T07:20:16Z",
+      "windowTitle": "Crossover Kanban - Agile Board - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/jira/software/c/projects/HIRE/boards/1?quickFilter=5&selectedIssue=LAMBDA-75951",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-14T07:21:16Z",
+      "windowTitle": "Crossover Kanban - Agile Board - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/jira/software/c/projects/HIRE/boards/1?quickFilter=5",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T07:22:16Z",
+      "windowTitle": "Crossover Kanban - Agile Board - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/jira/software/c/projects/HIRE/boards/1?quickFilter=5",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T07:23:16Z",
+      "windowTitle": "Crossover Kanban - Agile Board - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/jira/software/c/projects/HIRE/boards/1?quickFilter=5",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T07:24:16Z",
+      "windowTitle": "Crossover Kanban - Agile Board - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/jira/software/c/projects/HIRE/boards/1?quickFilter=5",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T07:25:16Z",
+      "windowTitle": "Crossover Kanban - Agile Board - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/jira/software/c/projects/HIRE/boards/1?quickFilter=5",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T07:26:16Z",
+      "windowTitle": "Crossover Kanban - Agile Board - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/jira/software/c/projects/HIRE/boards/1?quickFilter=5",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T07:27:16Z",
+      "windowTitle": "Crossover Kanban - Agile Board - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/jira/software/c/projects/HIRE/boards/1?quickFilter=5",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T07:28:16Z",
+      "windowTitle": "Crossover Kanban - Agile Board - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/jira/software/c/projects/HIRE/boards/1?quickFilter=5",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-14T07:29:16Z",
+      "windowTitle": "Crossover Kanban - Agile Board - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/jira/software/c/projects/HIRE/boards/1?quickFilter=5",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-14T07:20:00Z"
+}

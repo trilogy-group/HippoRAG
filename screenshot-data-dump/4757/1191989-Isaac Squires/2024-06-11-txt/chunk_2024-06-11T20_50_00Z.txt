@@ -1,0 +1,228 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "mail.google.com",
+        "Zoom"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-11T20:56:53Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for various applications such as a browser, file explorer, and settings. The taskbar also includes the system clock showing '14:56' and the date '11 Jun 2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Zoom",
+                        "windows": [
+                            {
+                                "title": "Meeting",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "highlightedElement": "Leave button is highlighted in red",
+                                "uiElements": {
+                                    "details": "buttons for Mute, Stop Video, Participants, Chat, Share Screen, Summary, Reactions, Apps, Notes, More, and Leave"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference",
+                                        "layoutDescription": "Two participants visible",
+                                        "visibleText": "Tristan Muniz, Isaac Squires"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Google Docs",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "icons for settings, help, and notifications"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Docs Content",
+                                        "layoutDescription": "Text document visible",
+                                        "visibleText": "Marketing spend\n\nMachine learning)\n\n\u2022 Edited\n\n\u2022 Last year was $176k\n\n\u2022 This year budget\n\n\u2022 Compared to that\n\n\u2022 7 min\n\nhttps://docs.google.com/document/d/1B24"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "System Notifications",
+                                "position": "bottom right",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "icon visible"
+                                },
+                                "content": [
+                                    {
+                                        "title": "System Time and Date",
+                                        "layoutDescription": "Displayed on taskbar",
+                                        "visibleText": "14:56, 11 Jun 2024"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Zoom meeting, as evidenced by the screenshot showing a video conference with two participants, Tristan Muniz and Isaac Squires. The Zoom interface displays various controls such as Mute, Stop Video, Participants, Chat, Share Screen, Summary, Reactions, Apps, Notes, and More. The 'Leave' button is highlighted in red, indicating that the meeting is currently active. The user is likely discussing work-related topics, given the professional setting and the presence of multiple participants.",
+        "In addition to the Zoom meeting, the user has a browser window open on the right side of the screen, displaying content from Google Docs. The visible text in the document includes references to 'Marketing spend,' 'Machine learning,' and a URL link to a Google Docs document. This suggests that the user is reviewing or discussing a document related to marketing and machine learning during the meeting. The document appears to be a collaborative effort, as indicated by the presence of multiple edits and comments.",
+        "The taskbar at the bottom of the screen shows icons for various applications, including a browser, file explorer, and settings. The system clock displays the time as '14:56' and the date as '11 Jun 2024.' This provides context for the timing of the activities captured in the screenshots. The user is likely multitasking, managing both the Zoom meeting and the review of the Google Docs content simultaneously."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a Zoom meeting and reviewing a Google Docs document. No AI chat interfaces or AI-driven tools are visible in the screenshots, and there are no indications of interactions with AI assistants or extensions.",
+    "activities": [
+        "MEETING",
+        "READING_SPEC"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DOCUMENT_VIEWER_OR_EDITOR"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 3,
+            "mouse": 28,
+            "date": "2024-06-11T20:50:48Z",
+            "windowTitle": "Samy's VPs Gen AI Adoption - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 5,
+            "date": "2024-06-11T20:51:48Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-11T20:52:48Z",
+            "windowTitle": "TeachTap - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 8,
+            "date": "2024-06-11T20:53:48Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T20:54:48Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T20:55:48Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 1,
+            "mouse": 0,
+            "date": "2024-06-11T20:56:48Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T20:57:48Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T20:58:48Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-11T20:59:48Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-11T20:50:00Z"
+}

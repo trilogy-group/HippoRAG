@@ -1,0 +1,209 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "Unity",
+    "GitHubDesktop",
+    "mail.google.com",
+    "tex.stackexchange.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-11T19:42:58Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, File Explorer, Microsoft Edge, Visual Studio, GitHub Desktop (active), Microsoft Teams, Outlook, OneNote, and system tray with notifications, sound, network, and clock displaying '13:42 11 Jun 2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "GitHub Desktop",
+            "windows": [
+              {
+                "title": "GitHub Desktop",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "menu bar with File, Edit, View, Repository, Branch, Help; sidebar with repository and branch details; main area with commit history and code diff viewer"
+                },
+                "content": [
+                  {
+                    "title": "Repository and Branch Information",
+                    "layoutDescription": "Sidebar on left",
+                    "visibleText": "Current repository: mobile-learning-games\nCurrent branch: main\nSelect branch to compare...\nHistory\nMerge pull request #352 from trilogy-group/hotfix/PlayerInitialDeathState\nGiovanny - 16 hours ago hotfix\nGiovanny Espinal Ramírez - 17 hours ago\nMerge pull request #314 from trilogy-group/feat/LAMBDA-75334\nGiovanny - 19 hours ago feat(LAMBDA-75334)\nFix merge conflicts\nGiovanny Espinal Ramírez - 20 hours ago\nMerge branch 'main' into feat/LAMBDA-75334\nGiovanny Espinal Ramírez - 20 hours ago\nMerge pull request #339 from trilogy-group/refactor/LAMBDA-75847-Game-State-Ev\nmohorkt - yesterday add(LAMBDA-75847): scripting symbols to protect admin credentials\nMohamed Mordtada - yesterday resolve(LAMBDA-75847): asset guid conflicts\nMohamed Mordtada - yesterday\nMerge branch 'main' of https://github.com/trilogy-group/mobile-learning- into refactor/LAMBDA-75...\nMohamed Mordtada - yesterday\nMerge pull request #315 from trilogy-group/feature/LAMBDA-75638-multiplayer-au\nDavidKuk@trilogy - yesterday\nMerge pull request #349 from trilogy-group/feature/LAMBDA-75827-NPC-Shops\nmohorkt - yesterday\nChange ENV_NAME to lowercase [13:42:05]\nYou are on the main branch."
+                  },
+                  {
+                    "title": "Code Diff Viewer",
+                    "layoutDescription": "Main area on right",
+                    "visibleText": "Merge pull request #352 from trilogy-group/hotfix/PlayerInitialDeathState -e hotfix Giovanny - 6738e7f2\n6 -0 1 changed file Jenga3D\\Assets\\Modules\\Combat\\Scripts\\Runtim"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in reviewing code on GitHub Desktop. The screenshot shows the user examining a pull request titled 'Merge pull request #352 from trilogy-group/hotfix/PlayerInitialDeathState' by Giovanny. The code diff viewer displays changes made to the 'DamageController.cs' file, specifically adding a condition to check if 'Mathf.RoundToInt(args.Attribute.Value) <= 0' and setting '_isDeath' to true. This indicates the user is focused on reviewing and possibly merging code changes related to a hotfix for player initial death state in a Unity project.",
+    "The user is also seen navigating through the commit history in GitHub Desktop. The sidebar shows a list of recent commits and pull requests, including 'Merge pull request #314 from trilogy-group/feat/LAMBDA-75334' and 'Merge pull request #339 from trilogy-group/refactor/LAMBDA-75847-Game-State-Events-Fix-Duplication'. This suggests the user is keeping track of recent changes and updates in the repository, ensuring that all code changes are properly reviewed and integrated into the main branch.",
+    "Additionally, the user has a web browser open with tabs for 'mail.google.com' and 'tex.stackexchange.com'. The presence of the Gmail tab indicates the user might be checking or responding to emails. The Stack Exchange tab suggests the user is researching a specific topic related to LaTeX, as the URL points to a question about the correct way to bold and italicize text. This shows the user is multitasking, balancing code review with research and communication tasks."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily focused on reviewing code in GitHub Desktop and conducting research on Stack Exchange. There are no visible AI chat interfaces or interactions with AI tools in the captured screenshots.",
+  "activities": [
+    "REVIEWING_CODE",
+    "RESEARCH",
+    "EMAIL"
+  ],
+  "workTypes": [
+    "BACKEND"
+  ],
+  "programmingLanguages": [
+    "OTHER"
+  ],
+  "toolTypes": [
+    "DEVELOPMENT_UTILITIES",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "REVIEWING_CODE",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 6,
+      "mouse": 10,
+      "date": "2024-06-11T19:40:48Z",
+      "windowTitle": "",
+      "processName": "Unity",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-11T19:41:48Z",
+      "windowTitle": "GitHub Desktop",
+      "processName": "GitHubDesktop",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T19:42:48Z",
+      "windowTitle": "GitHub Desktop",
+      "processName": "GitHubDesktop",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T19:43:48Z",
+      "windowTitle": "GitHub Desktop",
+      "processName": "GitHubDesktop",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T19:44:48Z",
+      "windowTitle": "GitHub Desktop",
+      "processName": "GitHubDesktop",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T19:45:48Z",
+      "windowTitle": "GitHub Desktop",
+      "processName": "GitHubDesktop",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T19:46:48Z",
+      "windowTitle": "GitHub Desktop",
+      "processName": "GitHubDesktop",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-11T19:47:48Z",
+      "windowTitle": "TeachTap - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/iXTDrUAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 84,
+      "mouse": 2,
+      "date": "2024-06-11T19:48:48Z",
+      "windowTitle": "best practices - \"Correct\" way to bold/italicize text? - TeX - LaTeX Stack Exchange - Google Chrome",
+      "processName": "tex.stackexchange.com",
+      "visitingUrl": "tex.stackexchange.com/questions/41681/correct-way-to-bold-italicize-text",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 210,
+      "mouse": 5,
+      "date": "2024-06-11T19:49:48Z",
+      "windowTitle": "Tristan Muniz messaged you - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/iXTDrUAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-11T19:40:00Z"
+}

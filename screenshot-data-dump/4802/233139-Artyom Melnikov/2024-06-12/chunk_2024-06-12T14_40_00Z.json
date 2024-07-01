@@ -1,0 +1,284 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "workbench.developerforce.com",
+    "ws-lambda.atlassian.net",
+    "crossover.lightning.force.com",
+    "idea64"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T14:41:13Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Visual Studio Code, Google Chrome, File Explorer, Microsoft Edge, and other unidentified applications. Also displays the system clock showing '16:41' and system language 'ENG'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "sfdx ? MiningRank__c.field",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Sidebar, bottom bar, multiple editor windows"
+                },
+                "content": [
+                  {
+                    "title": "Project Explorer",
+                    "layoutDescription": "Sidebar on the left",
+                    "visibleText": "Project\n- handlers\n - IlluminatedCloud\n - JUnit\n - linkedInapi\n - manifest\n - mdapi\n - node_modules\n - salesforce-action-caller\n- Commit\n- Shelf"
+                  },
+                  {
+                    "title": "Code Editor - MiningRank__c.field",
+                    "layoutDescription": "Central large editor",
+                    "visibleText": "<CustomField>\n <fullName>MiningRank__c</fullName>\n <label>Mining Rank</label>\n <type>Number</type>\n <precision>18</precision>\n <scale>0</scale>\n <required>false</required>\n <trackHistory>false</trackHistory>\n <trackTrending>false</trackTrending>\n <unique>false</unique>\n <externalId>false</externalId>\n <formula>TRIM(ROUND((Job_Board_CEL__c.Orphans__c * 330 + Job_Board_CEL__c.MonthlyInterviews__c * 220 + Job_Board_CEL__c.OrphansQLs__c * 130 + Job_Board_CEL__c.OrphansHQLs__c * 160 + Job_Board_CEL__c.LinkedIn_Integration__c.Weeks_Fo 0))</formula>\n</CustomField>"
+                  },
+                  {
+                    "title": "Terminal panel",
+                    "layoutDescription": "Bottom panel",
+                    "visibleText": "feat(LAMBDA-76029): Remove problematic layout\nCommit\nCommit and Push..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T14:45:59Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, Outlook, Word, Excel, PowerPoint, OneNote, Teams, Adobe Reader, File Explorer, Command Prompt, Settings, and unidentified applications. System tray includes network, sound, battery, and clock (16:46, 12/06/2024).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Indeed Current | LinkedIn Publish Logs | Salesforce - Google Chrome",
+                "url": "https://crossover.lightning.force.com",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "address bar, bookmarks bar, navigation buttons, refresh button, extensions icons, profile icon"
+                },
+                "content": [
+                  {
+                    "title": "LinkedIn Publish Logs",
+                    "layoutDescription": "Table layout",
+                    "visibleText": "LinkedIn Publish Logs\nSorted by LinkedIn Publish Log Name • Filtered by All linkedin publish logs - Run ID, Sourcing Platform • Updated 2 minutes ago\nRun ID LinkedIn Publish Log Name Pipeline Jobs Assigned Budget Exploration Slots Mining Slots Sourcing Platform # of slots out of Last Modified Date Created Date\nRun 4248 - 4358 AI-Augmented Back-end Principal Engineer 262 225 37 Indeed 12/06/2024 16:43 12/06/2024 16:41\nRun 4248 - 4774 AI-Augmented Full-Stack Principal Engineer 267 224 43 Indeed 12/06/2024 16:43 12/06/2024 16:41\nRun 4248 - 5186 AI-First Software Engineer III 815 699 117 Indeed 12/06/2024 16:43 12/06/2024 16:41\nRun 4248 - 5245 AI-First Full-Stack Developer 161 87 74 Indeed 12/06/2024 16:43 12/06/2024 16:41\nRun 4248 - 5260 AI-First Software Engineer 965 844 121 Indeed 12/06/2024 16:43 12/06/2024 16:41\nRun 4248 - 5269 Senior AI Innovation Specialist - Software Engineering 262 221 41 Indeed 12/06/2024 16:43 12/06/2024 16:41\nRun 4248 - 5270 AI Innovation Specialist - Software Engineering 116 103 13 Indeed 12/06/2024 16:43 12/06/2024 16:41\nRun 4248 - 5271 AI-First Front-end Developer 156 97 59 Indeed 12/06/2024 16:43 12/06/2024 16:41"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T14:48:35Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, Outlook, Word, Excel, PowerPoint, OneNote, Teams, File Explorer, Adobe Reader, Command Prompt, Settings, and a hidden icons arrow. System tray includes network, sound, and battery status icons, a language switcher (ENG), and the date/time display (16:48 12/06/2024).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Indeed Current | LinkedIn Publish Logs | Salesforce - Google Chrome",
+                "url": "https://crossover.lightning.force.com",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "address bar, bookmarks bar, navigation buttons, profile icon, extensions (Salesforce, Category tabs, Using, Job, Job & Like, selected tab Indeed Current)."
+                },
+                "content": [
+                  {
+                    "title": "LinkedIn Publish Logs",
+                    "layoutDescription": "Table layout",
+                    "visibleText": "LinkedIn Publish Logs\n8 Items - Sorted by LinkedIn Publish Log Name - Filtered by All linkedin publish logs - Run ID, Sourcing Platform - Updated 4 minutes ago\n\nRun ID LinkedIn Publish Log Name Pipeline Jobs Assigned Budget Exploration Slots Mining Slots Sourcing Platform # of slots out of Last Modified Date Created Date\nRun 428 - 4358 AI-Augmented Back-end Principal Engineer 262 225 37 Indeed 12/06/2024 16:43 12/06/2024 16:41\nRun 428 - 4774 AI-Augmented Full-Stack Principal Engineer 267 224 43 Indeed 12/06/2024 16:43 12/06/2024 16:41\nRun 428 - 5186 AI-First Software Engineer III 815 699 117 Indeed 12/06/2024 16:43 12/06/2024 16:41\nRun 428 - 5245 AI-First Full-Stack Developer 161 87 74 Indeed 12/06/2024 16:43 12/06/2024 16:41\nRun 428 - 5260 AI-First Software Engineer 965 844 121 Indeed 12/06/2024 16:43 12/06/2024 16:41\nRun 428 - 5269 Senior AI Innovation Specialist - Software Engineering 262 221 41 Indeed 12/06/2024 16:43 12/06/2024 16:41\nRun 428 - 5270 AI Innovation Specialist - Software Engineering 116 103 13 Indeed 12/06/2024 16:43 12/06/2024 16:41\nRun 428 - 5271 AI-First Front-end Developer 156 97 59 Indeed 12/06/2024 16:43 12/06/2024 16:41"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in writing code using the IntelliJ IDEA IDE. The code editor is open with a file named 'MiningRank__c.field' which contains a custom field definition for a Salesforce object. The user is working on a feature branch 'LAMBDA-76029' and has made a commit with the message 'Remove problematic layout'. The terminal panel shows the user is running anonymous Apex code, likely for testing or debugging purposes.",
+    "The user is also working within the Salesforce environment, specifically on the 'LinkedIn Publish Logs' page in Google Chrome. This page displays a table of LinkedIn publish logs with details such as Run ID, LinkedIn Publish Log Name, Pipeline, Jobs Assigned, Budget, Exploration Slots, Mining Slots, Sourcing Platform, and timestamps for the last modified and created dates. The user is likely reviewing or managing these logs as part of their workflow.",
+    "The user has multiple applications open, including Visual Studio Code, Google Chrome, and other development tools. The taskbar shows icons for various applications, indicating a multitasking environment. The user is focused on both coding and managing Salesforce data, suggesting a role that involves both development and data management tasks."
+  ],
+  "aiUseSummary": "There is no visible evidence of AI tools being used in the provided screenshots. The user is primarily engaged in coding and managing Salesforce data without any interaction with AI chat interfaces or AI-driven tools. The focus is on manual coding and data management tasks.",
+  "activities": [
+    "WRITING_CODE",
+    "REVIEWING_CODE"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "DB"
+  ],
+  "programmingLanguages": [
+    "SALESFORCE"
+  ],
+  "toolTypes": [
+    "IDE",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 18,
+      "mouse": 17,
+      "date": "2024-06-12T14:40:02Z",
+      "windowTitle": "Workbench: Bulk API Job Status - Google Chrome",
+      "processName": "workbench.developerforce.com",
+      "visitingUrl": "workbench.developerforce.com/asyncStatus.php?jobId=750Ij0000006wC3IAI&rn=1",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 55,
+      "mouse": 24,
+      "date": "2024-06-12T14:41:02Z",
+      "windowTitle": "Job Publishing Weekly Process - Crossover Hire - Confluence - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/wiki/spaces/HIRE/pages/2040496200/Job+Publishing+Weekly+Process",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 30,
+      "mouse": 51,
+      "date": "2024-06-12T14:42:02Z",
+      "windowTitle": "Indeed Current | LinkedIn Publish Logs | Salesforce - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/o/LinkedIn_Publish_Log__c/list?filterName=00B2j000001IIjmEAG",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 44,
+      "mouse": 32,
+      "date": "2024-06-12T14:43:02Z",
+      "windowTitle": "sfdx ? MiningRank__c.field",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 8,
+      "mouse": 8,
+      "date": "2024-06-12T14:44:02Z",
+      "windowTitle": "Job Publishing Weekly Process - Crossover Hire - Confluence - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/wiki/spaces/HIRE/pages/2040496200/Job+Publishing+Weekly+Process",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 4,
+      "mouse": 20,
+      "date": "2024-06-12T14:45:02Z",
+      "windowTitle": "Custom Settings | Salesforce - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/setup/CustomSettings/page?address=%2Fsetup%2Fui%2FlistCustomSettingsData.apexp%3Fid%3Da1i%26isOrg%3D1%26setupid%3DCustomSettings%26sfdcIFrameOrigin%3Dhttps%253A%252F%252Fcrossover.lightning.force.com%26clc%3D1",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 8,
+      "mouse": 25,
+      "date": "2024-06-12T14:46:02Z",
+      "windowTitle": "Indeed Current | LinkedIn Publish Logs | Salesforce - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/o/LinkedIn_Publish_Log__c/list?filterName=00B2j000001IIjmEAG",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T14:47:02Z",
+      "windowTitle": "Indeed Current | LinkedIn Publish Logs | Salesforce - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/o/LinkedIn_Publish_Log__c/list?filterName=00B2j000001IIjmEAG",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T14:48:02Z",
+      "windowTitle": "Indeed Current | LinkedIn Publish Logs | Salesforce - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/o/LinkedIn_Publish_Log__c/list?filterName=00B2j000001IIjmEAG",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T14:49:02Z",
+      "windowTitle": "Indeed Current | LinkedIn Publish Logs | Salesforce - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/o/LinkedIn_Publish_Log__c/list?filterName=00B2j000001IIjmEAG",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-12T14:40:00Z"
+}

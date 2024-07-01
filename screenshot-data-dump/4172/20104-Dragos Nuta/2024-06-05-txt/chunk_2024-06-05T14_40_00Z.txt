@@ -1,0 +1,305 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "ws-lambda.atlassian.net",
+        "linkedin.com",
+        "mail.google.com",
+        "chrome"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T14:41:27Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications. Displays the system tray with network, sound, and battery status icons, as well as the date and time (5/6/2024 5:41 PM).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "XO Team Chat - Chat - Google Chrome",
+                                "url": "mail.google.com/chat/u/0/#/chat/sp",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, profile icon, extensions, and minimize, maximize, close buttons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "XO Team Chat",
+                                        "layoutDescription": "Chat interface with sidebar and main chat area",
+                                        "visibleText": "XO Team Chat\n10 members \u00b7 Private\nChat Shared Tasks\nWS.Eng Bot App 2:23 PM\nWednesday (2024-06-05) Daily Status Update\n2 replies 2:23 PM\nsingle XO figma I am aware of\nhttps://www.figma.com/design/Zs34tSDkixj2hYnX Yefimenko @Michael Madume @Artem Melnikov - no proposals for AI Friday from you (https://ws-lambda.atlassian.net/jira/dashboards/"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T14:44:44Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Settings, and hidden icons tray. System clock shows '5:44 PM' and date '6/5/2024'. Network, sound, and battery status icons are visible.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Michael Madume - Chat - Google Chrome",
+                                "url": "mail.google.com/chat/u/0/#chat/dm/",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Tabs for Gmail, Google Calendar, Google Drive, and other unidentified tabs. Address bar visible with URL. Google account avatar on top right."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Chat",
+                                        "layoutDescription": "Sidebar on left, chat window on right",
+                                        "visibleText": "Chat\nNew chat\nShortcuts\nHome 5\nMentions 3\nStarred\nDirect messages\nGeorge Dita\nMarcelo Skaba\nSyed Shamael\nRakshit Bhatt\nIsabelle Adviento\nNaouman Shah\nEDGAR H MULONGO\nSpaces\nXO Team Chat\nCNU AI Assist - Extract Documents\nSamy's VPs Gen AI Adoption\nFeature Line automations\nCNU Q Business Productivity\nTPM reboot\nCrossover - Upwork Sourcing\nXO Candidate Support Escalation\nAWS News\nCentral PMs team\nGFI RUI/FC/TPM Management"
+                                    },
+                                    {
+                                        "title": "Google Meet",
+                                        "layoutDescription": "Video call interface centered",
+                                        "visibleText": "Google Meet\nMichael Madume\nDragos Nuta"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T14:47:50Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Settings, and hidden icons tray. System tray includes network, sound, and battery status icons, date and time display, and language indicator (ENG).",
+                        "position": "bottom"
+                    },
+                    {
+                        "elementType": "notification",
+                        "details": "from mail.google.com stating 'mail.google.com is sharing your screen.'",
+                        "position": "bottom right"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Crossover Sprints - Backlog - Jira | ws-lambda - Jira Service Management",
+                                "url": "https://ws-lambda.atlassian.net",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "window with multiple tabs, address bar, bookmarks bar, and navigation controls"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Raise this request on behalf of",
+                                        "layoutDescription": "Form field with dropdown",
+                                        "visibleText": "Dragos Nutu (dragos.nuta@aurea.com)"
+                                    },
+                                    {
+                                        "title": "Summary",
+                                        "layoutDescription": "Text field with text input",
+                                        "visibleText": "Test Gemini 15 on extracting data from timecards"
+                                    },
+                                    {
+                                        "title": "Suggested articles",
+                                        "layoutDescription": "List of articles",
+                                        "visibleText": "LEGACY ONBOARDING\nIdle cards idle cards appear when you don't have enough activity on a single timecard to bill the customer for it.\nAUTOMATE REIMPORTING DATA FROM LEARNING APPS\nProblem Background Sometimes we find bugs in the import implementation and after we fix them, there's a need to reimport data from a particular learning app for\nWS LAMBDA TEAM ONLINE\nAutomatically move ticket to In Progress when IC is active for more than 30 mins (logged 3 timecards in XO). LAMBDA-20473"
+                                    },
+                                    {
+                                        "title": "Description",
+                                        "layoutDescription": "Text area with formatting tools",
+                                        "visibleText": "Insight: Gemini 1.5pro proved great at processing video\nThings to explore:\n- take a WSPro video of 10 or 30 minutes and ask it to extract all documents it has seen, all chat conversations, all emails, all code"
+                                    },
+                                    {
+                                        "title": "Product",
+                                        "layoutDescription": "Dropdown menu",
+                                        "visibleText": "In case you can't find a product in a list please log a new ticket to add it to the list."
+                                    },
+                                    {
+                                        "title": "Priority",
+                                        "layoutDescription": "Dropdown menu",
+                                        "visibleText": "Standard"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in team communication and project management. At 14:41:27, the user is seen in the 'XO Team Chat' on Google Chat, discussing daily status updates and sharing a Figma link related to a project. The user mentions team members Denys Yefimenko, Michael Madume, and Artem Melnikov, indicating collaboration and coordination within the team. This activity highlights the user's involvement in team discussions and project updates.",
+        "At 14:44:44, the user is participating in a Google Meet video call with Michael Madume and Dragos Nuta. This meeting suggests a discussion or collaboration on a specific project or task. The user is also seen in the Google Chat interface, indicating ongoing communication with team members. This activity emphasizes the user's engagement in real-time communication and collaboration with colleagues.",
+        "At 14:47:50, the user is working on a Jira Service Management task in Google Chrome. The user is filling out a form to raise a request on behalf of Dragos Nuta, summarizing the task as 'Test Gemini 1.5 on extracting data from timecards.' The user is also exploring suggested articles related to the task and providing detailed insights and things to explore in the description field. This activity demonstrates the user's involvement in project management and task documentation."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in team communication, video conferencing, and project management tasks without any visible interaction with AI tools for code suggestions, research, or debugging.",
+    "activities": [
+        "CHATTING_WITH_TEAM",
+        "MEETING",
+        "WRITING_SPEC"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "CHATTING_WITH_TEAM",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 8,
+            "mouse": 10,
+            "date": "2024-06-05T14:40:55Z",
+            "windowTitle": "WS.Eng - AI Backlog - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/jira/dashboards/10101",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 142,
+            "mouse": 7,
+            "date": "2024-06-05T14:41:55Z",
+            "windowTitle": "(87) Victor Sant'Ana | LinkedIn - Google Chrome",
+            "processName": "linkedin.com",
+            "visitingUrl": "linkedin.com/in/victor-sant-ana-396704a6/",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 39,
+            "mouse": 21,
+            "date": "2024-06-05T14:42:55Z",
+            "windowTitle": "Michael Madume - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/mai09MAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 35,
+            "mouse": 9,
+            "date": "2024-06-05T14:43:55Z",
+            "windowTitle": "Michael Madume - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/mai09MAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T14:44:55Z",
+            "windowTitle": "Michael Madume - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/mai09MAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 31,
+            "mouse": 12,
+            "date": "2024-06-05T14:45:55Z",
+            "windowTitle": "Story - WS Lambda - Jira Service Management - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/servicedesk/customer/portal/5/group/80/create/633",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 225,
+            "mouse": 8,
+            "date": "2024-06-05T14:46:55Z",
+            "windowTitle": "mail.google.com is sharing your screen.",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 206,
+            "mouse": 2,
+            "date": "2024-06-05T14:47:55Z",
+            "windowTitle": "mail.google.com is sharing your screen.",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 311,
+            "mouse": 0,
+            "date": "2024-06-05T14:48:55Z",
+            "windowTitle": "mail.google.com is sharing your screen.",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 7,
+            "mouse": 4,
+            "date": "2024-06-05T14:49:55Z",
+            "windowTitle": "Bogdan Tenea messaged you - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/mai09MAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-05T14:40:00Z"
+}

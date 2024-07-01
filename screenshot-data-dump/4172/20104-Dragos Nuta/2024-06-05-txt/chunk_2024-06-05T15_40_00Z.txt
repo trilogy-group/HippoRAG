@@ -1,0 +1,335 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "meet.google.com",
+        "discourse.org",
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T15:40:18Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes network, sound, and clock (displaying 15:40).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - stp-shmc-fbc - Google Chrome",
+                                "url": "meet.google.com/stp-shmc-fbc",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "back, forward, refresh buttons, address bar, profile icon, minimize, maximize, close buttons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Meet Video Conference",
+                                        "layoutDescription": "Video conference layout with participant videos and controls",
+                                        "visibleText": "George Dita, Noumaan Shah, Dragos Nuta"
+                                    },
+                                    {
+                                        "title": "Google Calendar",
+                                        "layoutDescription": "Calendar layout with dates and events",
+                                        "visibleText": "June 2024, Calendar, Today, June 5, Week 23, Home, Meet with..., Search for people, Time Insights, More insights, My calendars, Dragos Nuta Trilogy, Birthdays, Dragos Nuta - Aurea, Dragos Nuta - XO, Tasks, Other calendars"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "File Explorer",
+                        "windows": []
+                    },
+                    {
+                        "appName": "Microsoft Edge",
+                        "windows": []
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T15:45:16Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Windows, Edge, File Explorer, and unidentified applications. Also displays the system clock showing '6:45 PM' and date '6/5/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Discourse AI Features | Discourse - Civilized Discussion",
+                                "url": "https://www.discourse.org/ai",
+                                "position": "left half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "UI includes back, forward, refresh buttons, address bar, tabs, and profile icon."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Discourse",
+                                        "layoutDescription": "Main content visible",
+                                        "visibleText": "Discourse\nOur AI solutions\nRelated Topics\nContent explorations made easy!\nFinished a topic and figuring out what to read next? Let Related Topics guide you to the most relevant and interesting topics."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Meet - stp-shmc-fbc?authuser=0",
+                                "url": "meet.google.com/stp-shmc-fbc?authuser=0",
+                                "position": "right half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "UI includes back, forward, refresh buttons, address bar, tabs, and profile icon."
+                                },
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "Dita",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Nouman Shah",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Dragos Nuta",
+                                            "expression": "neutral"
+                                        }
+                                    ]
+                                },
+                                "content": [
+                                    {
+                                        "title": "Meet",
+                                        "layoutDescription": "Video call interface",
+                                        "visibleText": "In-call messages\nUnless they're pinned, messages can only be seen by people in the call when the message is sent. All messages are deleted when the call ends.\nYou 6:44 PM\nhttps://www.discourse.org/ai\nthis?"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T15:49:18Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Settings, and hidden icons tray. System clock shows '6/5/2024 5:02 PM'. Language input method 'ENG' visible. Network status icon, sound volume icon, and battery status icon are also present.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - stp-shmc-fbc - Google Chrome",
+                                "url": "meet.google.com/stp-shmc-fbc?authu",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "conference window with participant thumbnails, main video feed, and control buttons for microphone, camera, and hang up."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference Participants",
+                                        "layoutDescription": "Three visible participants",
+                                        "visibleText": "Noumaan Shah, George Dita, Dragos Nutu"
+                                    },
+                                    {
+                                        "title": "Chat Window",
+                                        "layoutDescription": "Chat messages visible",
+                                        "visibleText": "Omar Ortiz 33 min Hey @Dragos Nutu - how did Tariq handle the chrome extension? I know this issue came up where the count was not updating (and Tariq resolved it). I wasn't able to find anything in the documentation. Benji Bizzell 18 min Do you have an insight into how the billing is handled? I was trying to find this within the subscription settings but no luck. no. I remember it was a bit tricky to get the exact count of active users. Benji Bizzell 14 min Do you have a recent example of how we can leverage that to ascertain the hard numbers? read.ai meeting notes"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Gmail - Omar, Benji - Google Chrome",
+                                "url": "mail.google.com/mail/u/0/#chat/spa",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "client interface with chat panel"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email Chat",
+                                        "layoutDescription": "Chat interface with messages",
+                                        "visibleText": "Omar Ortiz 33 min Hey @Dragos Nutu - how did Tariq handle the chrome extension? I know this issue came up where the count was not updating (and Tariq resolved it). I wasn't able to find anything in the documentation. Benji Bizzell 18 min Do you have an insight into how the billing is handled? I was trying to find this within the subscription settings but no luck. no. I remember it was a bit tricky to get the exact count of active users. Benji Bizzell 14 min Do you have a recent example of how we can leverage that to ascertain the hard numbers? read.ai meeting notes"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Google Meet video conference, as evidenced by the active window titled 'Meet - stp-shmc-fbc - Google Chrome'. The participants in the meeting include George Dita, Noumaan Shah, and Dragos Nuta. The user is also viewing their Google Calendar, which shows a detailed schedule for June 2024, including various meetings and tasks. This indicates that the user is actively participating in a meeting while keeping track of their schedule.",
+        "The user is researching AI features on the Discourse website, as shown by the window titled 'Discourse AI Features | Discourse - Civilized Discussion'. The content visible includes information about Discourse's AI solutions and related topics. This suggests that the user is exploring AI capabilities, possibly to integrate or understand how these features can be utilized in their work.",
+        "The user is also engaged in a chat conversation within Gmail, specifically in a chat space titled 'Omar, Benji'. The conversation includes discussions about handling a Chrome extension issue and insights into billing and subscription settings. This indicates that the user is collaborating with team members to resolve technical issues and discuss project-related matters."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a video conference, researching AI features on a website, and chatting with team members in Gmail. No AI chat interfaces or AI-driven tools are visible in the screenshots.",
+    "activities": [
+        "MEETING",
+        "RESEARCH",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T15:40:55Z",
+            "windowTitle": "Meet - stp-shmc-fbc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T15:41:55Z",
+            "windowTitle": "Meet - stp-shmc-fbc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T15:42:55Z",
+            "windowTitle": "Meet - stp-shmc-fbc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 4,
+            "mouse": 0,
+            "date": "2024-06-05T15:43:55Z",
+            "windowTitle": "Meet - stp-shmc-fbc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 37,
+            "mouse": 5,
+            "date": "2024-06-05T15:44:55Z",
+            "windowTitle": "Meet - stp-shmc-fbc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 32,
+            "mouse": 4,
+            "date": "2024-06-05T15:45:55Z",
+            "windowTitle": "Meet - stp-shmc-fbc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 10,
+            "date": "2024-06-05T15:46:55Z",
+            "windowTitle": "Discourse AI Features | Discourse - Civilized Discussion - Google Chrome",
+            "processName": "discourse.org",
+            "visitingUrl": "discourse.org/ai",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 14,
+            "mouse": 20,
+            "date": "2024-06-05T15:47:55Z",
+            "windowTitle": "Samy's Original VP TPMs - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 99,
+            "mouse": 10,
+            "date": "2024-06-05T15:48:55Z",
+            "windowTitle": "Code with AI - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAhwn64Tw",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 22,
+            "mouse": 1,
+            "date": "2024-06-05T15:49:55Z",
+            "windowTitle": "Meet - stp-shmc-fbc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-05T15:40:00Z"
+}

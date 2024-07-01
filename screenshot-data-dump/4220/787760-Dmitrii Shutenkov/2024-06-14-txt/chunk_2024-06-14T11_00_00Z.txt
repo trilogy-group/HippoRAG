@@ -1,0 +1,374 @@
+{
+    "candidateId": 1444536,
+    "apps": [
+        "chatgpt.com",
+        "TOTALCMD64",
+        "explorer"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T11:00:16Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Microsoft Edge, File Explorer, Windows Terminal, Microsoft Store, Mail, Calendar, Photos, Settings, and several other unidentified applications. Also includes system tray with network, sound, and battery status icons, as well as the date and time display '12:00:18 14/06/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "ChatGPT - Google Chrome",
+                                "url": "https://chatgpt.com/d/c08e5431-4f6",
+                                "position": "unknown",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "tabs for 'Inbox', 'SF Prod', 'SF Sandbox', 'ADFS', 'My Tasks', 'Create Task', 'Technical Debt - Crossover', 'Guides - Crossover...', 'WS.Eng TPO: Leadership...', 'Task Catalog', 'Home', and several others. Address bar, navigation buttons, bookmarks bar, and profile icon visible."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Python Code",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "picker.dump(creds, token)\n\nservice = build('sheets', 'v4', credentials=creds)\nreturn service\n\ndef write_to_sheet(values):\n \"\"\"Writes data to the spreadsheet.\"\"\"\n service = get_service()\n body = {\n 'values': values\n }\n result = service.spreadsheets().values().update(\n spreadsheetId=SPREADSHEET_ID, range=RANGE_NAME,\n valueInputOption='RAW', body=body).execute()\n print(f(\"result.get('updatedCells') cells updated.\"))\n\n# Example data to write: [['Hello', 'World']]\nwrite_to_sheet([['Hello', 'World']])"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T11:03:48Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and system tray with clock showing '12:03:50 PM' and date '14/06/2024'. Language input method 'ENG' and battery status icon visible.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Total Commander (x64) 10.52 - NOT REGISTERed",
+                        "windows": [
+                            {
+                                "title": "Total Commander (x64) 10.52 - NOT REGISTERED",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Selection, Mark, Commands, Net, Show, Configuration, Start, FTP, and Help. Toolbar with icons for various file operations like copy, move, delete, edit, and settings."
+                                },
+                                "content": [
+                                    {
+                                        "title": "File Explorer",
+                                        "layoutDescription": "Two-panel layout with file directories and files",
+                                        "visibleText": "c:\\Users\\xouser\\Projects Name [..] [ai-first-product-pl] [alpha-dash] [alpha-looker] [auzea-aisma-client] [cabu] [CloudFix] [crossover-xo.client] [crossover-xo.client.old] [cs-solve-issue-alpha] [deploy-source] [education-read-app] [Exp4] [Flowise] [fs-experiment-camera] [fs-experiment--fine] [fs-experiment-import] [fs-experiment-retype] [fs-experiment-temp] [Kandy UCaaS] [llm_toolkit_api] [Misc] [OpenAI] [python-aiplatform] [Quicksight] [quill.com] [sandbox] [Tempo] [Tempo filters] [tempo-hiring-tpm-fz] [ti] [ti-alpha-student-progress..] [ti-alpha-coaching-extension..] [ti-jive-copilot-chrome..] Size Date Attr * <DIR> 14/06/2024 02:44 <DIR> 15/11/2023 19:01 <DIR> 28/09/2023 13:57 <DIR> 12/10/2023 06:41 <DIR> 14/12/2023 10:23 <DIR> 13/12/2023 20:58 <DIR> 05/12/2023 17:16 <DIR> 01/03/2024 13:11 <DIR> 11/12/2023 20:00 <DIR> 21/09/2023 12:53 <DIR> 24/09/2023 10:43 <DIR> 12/11/2023 18:59 <DIR> 05/10/2023 20:09 <DIR> 12/11/2023 17:23 <DIR> 28/09/2023 14:11 <DIR> 05/10/2023 15:34 <DIR> 31/10/2023 08:18 <DIR> 31/03/2024 14:47 <DIR> 30/03/2024 15:18 <DIR> 30/03/2024 15:18 <DIR> 24/09/2023 10:46 <DIR> 24/09/2023 10:46 <DIR> 24/09/2023 10:46 <DIR> 21/09/2023 13:34 <DIR> 21/09/2023 13:34 <DIR> 21/09/2023 13:34 <DIR> 21/05/2023 18:47 <DIR> 12/11/2023 17:25"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "Visual Studio Code",
+                                "position": "maximized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Top bar with icons for Explorer, Search, Source Control, Run, Extensions. Bottom bar with icons for Problems, Output, Debug Console, Terminal."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Explorer - test.py",
+                                        "layoutDescription": "Editor with file tabs and sidebar",
+                                        "visibleText": "test.py Welcome.py salesforce.py campaign-tracking/test.py"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T11:07:08Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, File Explorer, Microsoft Edge, and other unidentified applications. Displays the system clock showing '12:07:10' and date '14/06/2024'. Network, sound, and battery status icons are visible.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "Lister - [c:\\Users\\xouser\\Projects\\cs-solve-issue-alp",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "menu bar with options like File, Edit, Selection, View, Go, Run, Terminal, Help. Sidebar with icons for Explorer, Search, Source Control, Run and Debug, Extensions, and more. Bottom bar shows branch 'main' and no running tasks."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Explorer",
+                                        "layoutDescription": "detailed list",
+                                        "visibleText": "OPEN EDITORS\nWelcome.py\ntest.py\nsalesforce.py\nTOOL campaign-tracking\n__pycache__\nconfig.json\ndash TASKS\nmain*"
+                                    },
+                                    {
+                                        "title": "Search",
+                                        "layoutDescription": "search panel",
+                                        "visibleText": "Search for: .py\nPath: c:\\Users\\xouser\\Projects\nRegEx\nCase sensitive\nWhole words\nHex\nFind files NOT containing the text\ngoogelapi\nSearch results:\n1275 files and 0 directories found\nC:\\Users\\xouser\\Projects\\cs-solve-issu (list continues with similar entries)"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Python Code Editor",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "editor area with line numbers, syntax highlighting for Python code."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Python Code",
+                                        "layoutDescription": "Text editor with code",
+                                        "visibleText": "import pandas as pd\nimport gspread\nfrom oauth2client.service_account import ServiceAccountCredentials\n\n# Function to load product mapping\n\ndef load_product_mapping(sheet_name):\n # Use creds to create a client to interact with the Google Drive API\n scope = [\n \"https://spreadsheets.google.com/feeds\",\n \"https://www.googleapis.com/auth/drive\",\n ]\n creds = ServiceAccountCredentials.from_json_keyfile_name( \"client-secret.json\", scope\n )\n client = gspread.authorize(creds)\n\n # Find a workbook by name and open the first sheet\n sheet = client.open_by_key(sheet_name).sheet1\n\n # Get all values\n data = sheet.get_all_values()\n\n # Convert the list of lists into a DataFrame, but only take the first 4 columns\n df = pd.DataFrame([row[0:4] for row in data])\n # Set the column headers to the values from the first row\n df.columns = df.iloc[0]\n # Drop the first row since it's now the headers\n df = df.iloc[1:]\n\n # Convert the dataframe into a dictionary\n data_dict = df.set_index(\"JQL name\").to_dict()[\"Tempo name\"]\n\n return data_dict"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Total Commander",
+                        "windows": [
+                            {
+                                "title": "Total Commander (x64) 10.52 - NOT REGISTERED",
+                                "position": "center of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "menu bar with options like File, Edit, Options, Plugins, Encoding, Help. Two-panel file manager interface with file and folder listings."
+                                },
+                                "content": [
+                                    {
+                                        "title": "File Manager",
+                                        "layoutDescription": "Two-panel layout",
+                                        "visibleText": "Files Mark Commands Net Show Configuration Start\nGeneral Advanced Plugins Load/Save\nSearch for: .py\nPath: c:\\Users\\xouser\\Projects\nRegEx\nCase sensitive\nWhole words\nHex\nFind files NOT containing the text\ngoogelapi\nSearch results:\n1275 files and 0 directories found\nC:\\Users\\xouser\\Projects\\cs-solve-issu (list continues with similar entries)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "Lister - [c:\\Users\\xouser\\Projects\\cs-solve-issue-alp",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "menu bar with options like File, Edit, Selection, View, Go, Run, Terminal, Help. Sidebar with icons for Explorer, Search, Source Control, Run and Debug, Extensions, and more. Bottom bar shows branch 'main' and no running tasks."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Explorer",
+                                        "layoutDescription": "detailed list",
+                                        "visibleText": "OPEN EDITORS\nWelcome.py\ntest.py\nsalesforce.py\nTOOL campaign-tracking\n__pycache__\nconfig.json\ndash TASKS\nmain*"
+                                    },
+                                    {
+                                        "title": "Search",
+                                        "layoutDescription": "search panel",
+                                        "visibleText": "Search for: .py\nPath: c:\\Users\\xouser\\Projects\nRegEx\nCase sensitive\nWhole words\nHex\nFind files NOT containing the text\ngoogelapi\nSearch results:\n1275 files and 0 directories found\nC:\\Users\\xouser\\Projects\\cs-solve-issu (list continues with similar entries)"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Python Code Editor",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "editor area with line numbers, syntax highlighting for Python code."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Python Code",
+                                        "layoutDescription": "Text editor with code",
+                                        "visibleText": "import pandas as pd\nimport gspread\nfrom oauth2client.service_account import ServiceAccountCredentials\n\n# Function to load product mapping\n\ndef load_product_mapping(sheet_name):\n # Use creds to create a client to interact with the Google Drive API\n scope = [\n \"https://spreadsheets.google.com/feeds\",\n \"https://www.googleapis.com/auth/drive\",\n ]\n creds = ServiceAccountCredentials.from_json_keyfile_name( \"client-secret.json\", scope\n )\n client = gspread.authorize(creds)\n\n # Find a workbook by name and open the first sheet\n sheet = client.open_by_key(sheet_name).sheet1\n\n # Get all values\n data = sheet.get_all_values()\n\n # Convert the list of lists into a DataFrame, but only take the first 4 columns\n df = pd.DataFrame([row[0:4] for row in data])\n # Set the column headers to the values from the first row\n df.columns = df.iloc[0]\n # Drop the first row since it's now the headers\n df = df.iloc[1:]\n\n # Convert the dataframe into a dictionary\n data_dict = df.set_index(\"JQL name\").to_dict()[\"Tempo name\"]\n\n return data_dict"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in coding activities. In the first screenshot, they are using ChatGPT to write a Python script that interacts with Google Sheets API. The code snippet shown includes functions for writing data to a spreadsheet. This indicates that the user is working on automating data entry or manipulation tasks using Python. The presence of multiple tabs in the browser suggests that the user is multitasking and possibly referencing other resources or documentation.",
+        "In the second screenshot, the user is using Total Commander, a file management tool, to search for files related to 'googleapi' within their project directory. This activity indicates that the user is organizing or locating specific files needed for their development tasks. The detailed file directory listing shows various project folders, suggesting that the user is managing multiple projects simultaneously.",
+        "The third screenshot shows the user continuing their search for 'googleapi' files in Total Commander. The search results display multiple files, indicating that the user is trying to locate specific code or resources related to Google API integration. The right side of the screen shows a Python script that loads product mapping data from Google Sheets, further confirming the user's focus on integrating Google services with their application."
+    ],
+    "aiUseSummary": "The user is utilizing ChatGPT for assistance with writing Python code that interacts with Google Sheets API. The AI tool provides code snippets and explanations, helping the user automate data entry tasks. This interaction demonstrates the user's reliance on AI for coding assistance, enhancing their productivity by quickly generating functional code and providing guidance on API usage.",
+    "activities": [
+        "WRITING_CODE",
+        "RESEARCH"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [
+        "PYTHON"
+    ],
+    "toolTypes": [
+        "IDE",
+        "DEVELOPMENT_UTILITIES",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "OPENAI_CHATGPT"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T11:00:24Z",
+            "windowTitle": "ChatGPT - Google Chrome",
+            "processName": "chatgpt.com",
+            "visitingUrl": "chatgpt.com/c/d08c5431-4f67-4076-8ec2-c0a89cf16eda",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 16,
+            "mouse": 8,
+            "date": "2024-06-14T11:01:24Z",
+            "windowTitle": "ChatGPT - Google Chrome",
+            "processName": "chatgpt.com",
+            "visitingUrl": "chatgpt.com/c/d08c5431-4f67-4076-8ec2-c0a89cf16eda",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 16,
+            "mouse": 5,
+            "date": "2024-06-14T11:02:24Z",
+            "windowTitle": "Total Commander (x64) 10.52 - NOT REGISTERED",
+            "processName": "TOTALCMD64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T11:03:24Z",
+            "windowTitle": "Total Commander (x64) 10.52 - NOT REGISTERED",
+            "processName": "TOTALCMD64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 13,
+            "mouse": 4,
+            "date": "2024-06-14T11:04:24Z",
+            "windowTitle": "Total Commander (x64) 10.52 - NOT REGISTERED",
+            "processName": "TOTALCMD64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 7,
+            "date": "2024-06-14T11:05:24Z",
+            "windowTitle": "Total Commander (x64) 10.52 - NOT REGISTERED",
+            "processName": "TOTALCMD64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 9,
+            "date": "2024-06-14T11:06:24Z",
+            "windowTitle": "Lister - [c:\\Users\\xouser\\Projects\\cs-solve-issue-alp-integrations\\assembly_lines\\Certifications\\certsfunctions.py]",
+            "processName": "TOTALCMD64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-14T11:07:24Z",
+            "windowTitle": "Lister - [c:\\Users\\xouser\\Projects\\cs-solve-issue-alp-integrations\\assembly_lines\\Certifications\\certsfunctions.py]",
+            "processName": "TOTALCMD64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T11:08:24Z",
+            "windowTitle": "Lister - [c:\\Users\\xouser\\Projects\\cs-solve-issue-alp-integrations\\assembly_lines\\Certifications\\certsfunctions.py]",
+            "processName": "TOTALCMD64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 8,
+            "mouse": 9,
+            "date": "2024-06-14T11:09:24Z",
+            "windowTitle": "Task Switching",
+            "processName": "explorer",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T11:00:00Z"
+}

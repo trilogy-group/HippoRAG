@@ -1,0 +1,204 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "app.crossover.com",
+        "mail.google.com",
+        "docs.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-11T17:51:02Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, Microsoft Edge, File Explorer, and several unidentified applications. System tray includes notifications, sound, network, and clock displaying '11:51'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "WorkSmart - Google Chrome",
+                                "url": "app.crossover.com/dashboard",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, profile icon, minimize, maximize, close buttons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Daily Logbook",
+                                        "layoutDescription": "Grid layout of hourly activity blocks",
+                                        "visibleText": "01 am\n\nWeekly update: Week ...\n02:00 AM\n6\n43\n\nDevFactory - Calendar...\n02:10 AM\n223\n151\n\n(9+) Standardizing Con...\n02:20 AM\n528\n41\n\nDevFactory Mail - Goo...\n02:30 AM\n502\n41\n\nDevFactory Mail - Goo...\n02:40 AM\n114\n47\n\nTeX and LaTeX extensi...\n02:50 AM\n12\n108\n\nRe: LearnWith.AI Beta ...\n03:00 AM\n65\n146"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in managing their tasks and communications through the Crossover dashboard. The screenshot shows the user navigating the 'Daily Logbook' on the Crossover platform, which displays a grid layout of hourly activity blocks. The visible text includes various tasks and updates, such as 'Weekly update: Week ...', 'DevFactory - Calendar...', and 'Standardizing Con...'. This indicates that the user is reviewing their schedule and task updates for the day.",
+        "The user is also seen accessing their email through Google Mail. The screenshot shows the user viewing emails related to 'DevFactory Mail' and 'LearnWith.AI Beta'. This suggests that the user is keeping up with their email communications, possibly responding to or organizing their inbox. The presence of multiple email-related entries indicates that email management is a significant part of the user's workflow during this period.",
+        "Additionally, the user is working on a document in Google Docs. The screenshot shows the user editing a document titled 'TeX and LaTeX extension'. This indicates that the user is involved in writing or updating documentation, possibly related to a project or a technical specification. The detailed view of the document suggests that the user is focused on creating or refining content, which is a critical part of their work process."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in task management, email communication, and document editing without any visible interaction with AI tools. Therefore, there is no detailed summary of AI usage in the user's workflow for this period.",
+    "activities": [
+        "READING_SPEC",
+        "EMAIL"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "UI"
+    ],
+    "programmingLanguages": [
+        "OTHER"
+    ],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DOCUMENT_VIEWER_OR_EDITOR"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "READING_SPEC",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-11T17:50:47Z",
+            "windowTitle": "WorkSmart - Google Chrome",
+            "processName": "app.crossover.com",
+            "visitingUrl": "app.crossover.com/x/dashboard/contractor/my-dashboard",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 13,
+            "date": "2024-06-11T17:51:47Z",
+            "windowTitle": "Re: TeachTales Purchase Request - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCwqNZBphRbSrxQdNmBRCJG",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T17:52:47Z",
+            "windowTitle": "Re: TeachTales Purchase Request - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCwqNZBphRbSrxQdNmBRCJG",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 9,
+            "mouse": 17,
+            "date": "2024-06-11T17:53:47Z",
+            "windowTitle": "Re: TeachTales Purchase Request - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCwqNZBphRbSrxQdNmBRCJG",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 57,
+            "mouse": 4,
+            "date": "2024-06-11T17:54:47Z",
+            "windowTitle": "Rough Priorities Assignment - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1xg25F13M7hSo1NjyQWFsRXGH6Jc_26tyRXI28OdMmpY/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 112,
+            "mouse": 9,
+            "date": "2024-06-11T17:55:48Z",
+            "windowTitle": "Rough Priorities Assignment - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1xg25F13M7hSo1NjyQWFsRXGH6Jc_26tyRXI28OdMmpY/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T17:56:48Z",
+            "windowTitle": "Rough Priorities Assignment - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1xg25F13M7hSo1NjyQWFsRXGH6Jc_26tyRXI28OdMmpY/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T17:57:48Z",
+            "windowTitle": "Rough Priorities Assignment - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1xg25F13M7hSo1NjyQWFsRXGH6Jc_26tyRXI28OdMmpY/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 1,
+            "mouse": 6,
+            "date": "2024-06-11T17:58:48Z",
+            "windowTitle": "Rough Priorities Assignment - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1xg25F13M7hSo1NjyQWFsRXGH6Jc_26tyRXI28OdMmpY/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 19,
+            "date": "2024-06-11T17:59:48Z",
+            "windowTitle": "TeachTap - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCwqNZBphRbSrxQdNmBRCJG",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-11T17:50:00Z"
+}

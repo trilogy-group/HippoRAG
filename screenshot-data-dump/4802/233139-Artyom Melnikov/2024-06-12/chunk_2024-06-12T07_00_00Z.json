@@ -1,0 +1,273 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "idea64",
+    "ws-lambda.atlassian.net"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T07:01:55Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the date and time '9:01' and system status icons including network status, sound level, and battery indicator.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Crossover Kanban - Agile Board - WorkSmart Lambda - Google Chrome",
+                "url": "ws-lambda.atlassian.net/jira/software",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and various extension icons"
+                },
+                "content": [
+                  {
+                    "title": "Crossover Kanban",
+                    "layoutDescription": "Kanban board layout",
+                    "visibleText": "Projects / Crossover Hire / Crossover Kanban\nSearch\nOnly My Issues BE-FE PR PE QC RT Story Points\nBacklog 8/926 Blocked 1/4 Ready for Work 11/35 In Progress 1/1 Ready for QC 27/8 In QC Done 48/48\nPriority band (10 issues)\nCategory jobs integration LAMBDA_75966\nThe campaignCookie is not set on generic pages (iteration) LAMBDA_76353\nInterview Bot incorrectly manages ASR state by returning to 'Not Started' LAMBDA_75827\nMatching Interview ASR remains in the Started state when another assessment is graded and drives the Application... LAMBDA_74827\nIteration 3 of Leaf Source Tracking Enhancements LAMBDA_75932\nChange manual BIR verification work unit trigger LAMBDA_74607\nUpdate ENCODED_STYLES for Atlas widget component LAMBDA_74643\nAssessment renewal feature LAMBDA_75444\nInterview Bot assessments are returning to 'Not Started' state while candidates claim it was completed LAMBDA_74644\nSupport Job Recommendations in Reject emails release and iterate LAMBDA_75914\nCreate Contact pack for XO Salesforce repository LAMBDA_75869\nXO Report token usage LAMBDA_73782\nError while uploading resumes in batch LAMBDA_75947\nFront-end Development for Help Pages HIRE_286\nCreate Back-end API Endpoint to Update FAQ Item Helpfulness HIRE_299\nImprove tool query builder to maintain user question context LAMBDA_75918\nImprove prompt structure LAMBDA_75842\nPlan and Design Stories: Week 24 - Artem LAMBDA_75931\nAdd new fields to the JobBoardCalcAnalytics and enhance calculation LAMBDA_76029\nUpdate Readme to Educate Users LAMBDA_75914\nUpdate Beginner Mind badge based on feedback LAMBDA_75972\nRegarde Coding Score assessments LAMBDA_75521\nPropose LLM-based retargeting approach LAMBDA_74728\n[Indeed 2024] Week 10 Investigation INDEED_74827\n[Indeed 2024] Week 9 Investigation INDEED_75068\n[Indeed 2024] Week 8 Investigation INDEED_74919\n[Indeed 2024] Week 7 Investigation INDEED_75221\nAI Day - Week 7 Michael M. - DevEngine AI - Milestone 1.12 - DISY LAMBDA_74462\nAI Day - Week 7 Michael M. - Create File Retrieval Module LAMBDA_74446\nAI Day - Week 7 Denys - Create High Level Subtasks Module LAMBDA_74445"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T07:04:14Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '07:04' and date '2024-06-12'. Language set to 'ENG'. Network status, sound volume, and battery status icons are visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "CountStepsNotCompleted - sfdx - Visual Studio Code",
+                "url": null,
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar at the top with File, Edit, View, Go, Run, Terminal, Help. Side bar on the left with Explorer, Search, Source Control, Run and Debug, Extensions icons. Bottom bar with problems, output, debug console, terminal tabs."
+                },
+                "content": [
+                  {
+                    "title": "Code Editing Window",
+                    "layoutDescription": "Text editor open with code",
+                    "visibleText": "public class CountStepsNotCompletedService : Singleton\n{\n public static int count(Opportunity application, string stageName, Integer cacheKeyForGetSteps, Account candidate)\n {\n // Handling for grading for BR/Cat steps || // STILL have failed steps\n if ((stage..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T07:08:41Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the date and time as '06/12/2024 8:08'. Network, sound, and battery status icons are visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "sfdx ? CountStepsNotCompletedServiceTests",
+                "position": "front",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Top menu bar with options like File, Edit, View, Go, Run, Terminal, Help. Sidebar with project files and folders. Bottom bar with buttons for problems, output, debug console, terminal, and extensions. Right sidebar with source control and extensions icons."
+                },
+                "content": [
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Text editor with multiple tabs",
+                    "visibleText": "public class CountStepsNotCompletedServiceTests {\n @IsTest\n private void integration_allStepsPassed() {\n // Arrange\n LoadApplicationBatchable.forceSync = true; // we have multiple Act sections\n Opportunity application = TestData.newOpportunity('BFC', 'BFC', 'BFC', Pipeline.Id);\n Id ccastStepId = TestData.newAppStep(name: 'CRC', stage: 'CRC', pipeline.Id);\n Id fsqStepId = TestData.newAppStep(name: 'FAT', stage: 'FAT', pipeline.Id);\n Id interviewStepId = TestData.newAppStep(name: 'Interview', stage: 'Interview', pipeline.Id);\n Id transferStepId = TestData.newAppStep(name: 'Transfer', stage: 'Transfer', pipeline.Id);\n Opportunity application = TestData.newApplication(candidat..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in managing tasks on a Kanban board in Jira, as seen in the first screenshot. They are reviewing various tasks under different categories such as 'Backlog', 'Blocked', 'Ready for Work', 'In Progress', 'Ready for QC', 'In QC', and 'Done'. Specific tasks include 'Category jobs integration', 'Support Job Recommendations in Reject emails release and iterate', and 'Create Contact pack for XO Salesforce repository'. This indicates the user is involved in project management and task prioritization.",
+    "In the second screenshot, the user is working within an IDE, specifically IntelliJ IDEA, on a project related to 'Job Board Cell Analytics'. The user is editing a class named 'CountStepsNotCompletedService' which includes methods for handling various stages of an application process. The user is also running tests for this class, as indicated by the 'Running tests' section at the bottom of the IDE. This suggests the user is involved in backend development and testing.",
+    "The third screenshot shows the user continuing to work in IntelliJ IDEA, focusing on the 'CountStepsNotCompletedServiceTests' class. The user is writing and running integration tests to ensure that all steps in the application process are completed correctly. The visible code includes assertions to verify the correct behavior of the application at different stages. This further confirms the user's role in backend development and testing."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in project management and backend development activities without any visible interaction with AI tools for code suggestions, debugging, or research.",
+  "activities": [
+    "WRITING_CODE",
+    "NAVIGATING_CODE",
+    "READING_SPEC"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "TESTS"
+  ],
+  "programmingLanguages": [
+    "SALESFORCE"
+  ],
+  "toolTypes": [
+    "IDE",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 2,
+      "mouse": 9,
+      "date": "2024-06-12T07:00:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedServiceTests",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 10,
+      "mouse": 13,
+      "date": "2024-06-12T07:01:00Z",
+      "windowTitle": "Crossover Kanban - Agile Board - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/jira/software/c/projects/HIRE/boards/1?quickFilter=5",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T07:02:00Z",
+      "windowTitle": "Crossover Kanban - Agile Board - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/jira/software/c/projects/HIRE/boards/1?quickFilter=5",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T07:03:00Z",
+      "windowTitle": "Crossover Kanban - Agile Board - WorkSmart Lambda - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/jira/software/c/projects/HIRE/boards/1?quickFilter=5",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 21,
+      "mouse": 33,
+      "date": "2024-06-12T07:04:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedServiceTests",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 37,
+      "mouse": 15,
+      "date": "2024-06-12T07:05:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedService",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 42,
+      "mouse": 30,
+      "date": "2024-06-12T07:06:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedServiceTests",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 31,
+      "mouse": 19,
+      "date": "2024-06-12T07:07:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedServiceTests",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-12T07:08:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedServiceTests",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T07:09:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedServiceTests",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-12T07:00:00Z"
+}

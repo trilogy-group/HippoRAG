@@ -1,0 +1,339 @@
+{
+    "candidateId": 2368956,
+    "apps": [
+        "mail.google.com",
+        "community.aurea.com",
+        "file:"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T13:23:09Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Contacts, Calendar, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Time Machine, and others. Includes a system tray with WiFi, battery, clock, and Spotlight icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Explore | Envato Elements",
+                                "url": "https://elements.envato.com/expl",
+                                "position": "left half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "search bar, navigation buttons, user profile icon, and other web interface elements"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Explore",
+                                        "layoutDescription": "grid layout",
+                                        "visibleText": "Explore\nGrid\nIntuitive\n AI and more! An AI deep dive into Envato Elements.\nRevolutionize Your Challenge: Breakdown Industry Barriers with AI-Powered Content Creation\nCaptains and Cyborgs on the High Seas of Tomorrow\nJust a description\nGoogle\nText Labels Upgrade\nLinkedIn video post test\nTechnical Docs\nClosed - Cloud Test\nText Example"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Aurea_Monitor_Release_Notes | Worx",
+                                "url": "https://worx.example.com/aurea_monit",
+                                "position": "right half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "viewer toolbar with zoom controls, page navigation, and download button"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Aurea_Monitor_Release_Notes",
+                                        "layoutDescription": "single page view",
+                                        "visibleText": "AUREA CORPORATION\n2\nChanges in this release\nFixed Issues\nHere you can find the list of resolved issues specific to Release 2023.1:\nNote: We changed our ticket tracking system and the issue number format.\nPlease note that the document shown is an approximation of the original document."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Gmail",
+                        "windows": [
+                            {
+                                "title": "- user@example.com - Gmail",
+                                "url": "https://mail.google.com/mail/u/0/#i",
+                                "position": "left half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "interface with navigation pane, search bar, and settings icon"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Inbox",
+                                        "layoutDescription": "standard layout",
+                                        "visibleText": "George <george@example.com>\nHi,\nI hope this email finds you well and enjoying your week! Just thought I'd share some news with you about a project I'm currently working on that might be of interest.\nRegards,\nGeorge\n\nKarthik <karthik@example.com>\nHi,\nI just wanted to let you know about something new that we have in store. I hope you're looking forward to it as much as I am. Please let me know what you think about the idea and if you have any questions.\nRegards,\nKarthik"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T13:25:16Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Finder, Microsoft Outlook, Microsoft Word, and other unidentified applications. Also includes system status icons like Wi-Fi, battery, and clock showing '1:25 PM'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "AureaMonitor_Release - Google Chrome",
+                                "url": "https://www.aurea.com/releases/2023",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Scroll bar visible on the right side"
+                                },
+                                "content": [
+                                    {
+                                        "title": "AureaMonitor Release Notes Enterprise 2023 R2",
+                                        "layoutDescription": "Text document layout",
+                                        "visibleText": "AureaMonitor Release Notes Enterprise 2023 R2\n\nVersion: 2023.2\nRelease Date: 2023-05-01\n\n**New Features**\n- Improved data processing speeds by up to 50%.\n- Enhanced security protocols for data transmission.\n\n**Bug Fixes**\n- Fixed issue where data synchronization could fail under specific network conditions.\n- Resolved a memory leak that could occur during prolonged use of the software.\n\n**Additional Comments**\n- The new security protocols require updating of the related modules.\n- All users must update their systems to continue using the software without disruptions.\n\nFor more detailed information, please refer to the attached documentation."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Explore - Google Chrome",
+                                "url": "https://www.google.com/explore",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Multiple tabs visible"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Explore",
+                                        "layoutDescription": "Grid layout of cards",
+                                        "visibleText": "Explore\n\nGrid of interactive cards displaying various topics such as AI and new apps, technology upgrades, and LinkedIn video post tests. Each card includes a title, a brief description, and an image or icon."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T13:29:47Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Contacts, Calendar, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Time Machine, and Trash. Also includes a Spotlight search icon and Notification Center icon.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Explore | Worx - Google Chrome",
+                                "url": "https://www.worx.com/explore",
+                                "position": "left half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, and various extension icons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Explore",
+                                        "layoutDescription": "layout of cards",
+                                        "visibleText": "Explore\n\nGridIntuitive\nReinvent Your Workspace with a Powerful Connection...\nAI and ML: A New Age in Automation\nAI and ML: A New Age in Automation\nCaptains and Cyborgs on the High Seas\n\nSHORT CUT COURSES\nGoogle\nTest LinkedIn Upgrade\nLinkedIn video post test\n\nTechnical Docs\nExample - Cloud Text\nTest Example\n\nMedium posts\nSee all Medium posts \u2193"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Aurea_Monitor_Release_Notes_2022R | Worx - Google Chrome",
+                                "url": "https://www.worx.com/aurea_monitor",
+                                "position": "right half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "PDF viewer controls."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Aurea_Monitor_Release_Notes_2022R",
+                                        "layoutDescription": "document view",
+                                        "visibleText": "Please note that the document shown is an approximation of the original document.\n\nDownload Aurea_Monitor_Release_Notes_2022R1.pdf"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in reading specifications and documentation. They are viewing the 'Aurea_Monitor_Release_Notes' on the Worx platform, which details changes and fixed issues in the release. The document includes information about resolved issues specific to Release 2023.1 and notes about changes in the ticket tracking system. This activity is crucial for understanding the updates and modifications in the software, which is essential for their work.",
+        "The user is also checking their email on Gmail. They are reading an email from George, which discusses a project update and shares some news. Another email from Karthik mentions something new in store and seeks feedback. This indicates that the user is keeping up with communications and staying informed about ongoing projects and updates from their team.",
+        "Additionally, the user is exploring content on the Envato Elements platform. The 'Explore' page shows various topics such as AI, content creation, and technology upgrades. This activity suggests that the user is researching or looking for inspiration and resources that could be relevant to their work or personal interests."
+    ],
+    "aiUseSummary": "",
+    "activities": [
+        "READING_SPEC",
+        "EMAIL",
+        "RESEARCH"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "READING_SPEC",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 81,
+            "mouse": 2,
+            "date": "2024-06-05T13:20:22Z",
+            "windowTitle": " Status of Aurea Monitor Fix Deployment - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#search/amadeus/FMfcgzQVwnXckmqGNbWWqtmJVhZpCrJL",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 64,
+            "mouse": 6,
+            "date": "2024-06-05T13:21:22Z",
+            "windowTitle": " Status of Aurea Monitor Fix Deployment - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#search/amadeus/FMfcgzQVwnXckmqGNbWWqtmJVhZpCrJL",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 4,
+            "mouse": 4,
+            "date": "2024-06-05T13:22:22Z",
+            "windowTitle": " Documentation - Aurea Monitor | Worx - Google Chrome\n",
+            "processName": "community.aurea.com",
+            "visitingUrl": "https://community.aurea.com/community/integration-solutions-hub/documentation-aurea-monitor/content?filterID=contentstatus%5Bpublished%5D~category%5Baurea-monitor-2022-r2%5D",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 14,
+            "date": "2024-06-05T13:23:22Z",
+            "windowTitle": " Aurea_Monitor_Release_Notes.pdf | Worx - Google Chrome\n",
+            "processName": "community.aurea.com",
+            "visitingUrl": "https://community.aurea.com/docs/DOC-333810",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 3,
+            "mouse": 17,
+            "date": "2024-06-05T13:24:22Z",
+            "windowTitle": " Aurea_Monitor_Release_Notes.pdf | Worx - Google Chrome\n",
+            "processName": "community.aurea.com",
+            "visitingUrl": "https://community.aurea.com/docs/DOC-333810",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 9,
+            "mouse": 15,
+            "date": "2024-06-05T13:25:22Z",
+            "windowTitle": " AureaMonitor_Release_Notes_Enterprise_2023_R2 - Google Chrome\n",
+            "processName": "file:",
+            "visitingUrl": "file:///Users/georgecrossover/Downloads/AureaMonitor_Release_Notes_Enterprise_2023_R2%20(1).pdf",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 58,
+            "mouse": 9,
+            "date": "2024-06-05T13:26:22Z",
+            "windowTitle": " Status of Aurea Monitor Fix Deployment - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#search/amadeus/FMfcgzQVwnXckmqGNbWWqtmJVhZpCrJL",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 38,
+            "mouse": 7,
+            "date": "2024-06-05T13:27:22Z",
+            "windowTitle": " Status of Aurea Monitor Fix Deployment - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#search/amadeus/FMfcgzQVwnXckmqGNbWWqtmJVhZpCrJL",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 150,
+            "mouse": 14,
+            "date": "2024-06-05T13:28:22Z",
+            "windowTitle": " Documentation - Aurea Monitor | Worx - Google Chrome\n",
+            "processName": "community.aurea.com",
+            "visitingUrl": "https://community.aurea.com/community/integration-solutions-hub/documentation-aurea-monitor/content?filterID=contentstatus%5Bpublished%5D~category%5Baurea-monitor-2022-r1%5D~latestActivityDate%5Ball%5D",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 13,
+            "date": "2024-06-05T13:29:22Z",
+            "windowTitle": " Aurea_Monitor_Release_Notes_2022R1.pdf | Worx - Google Chrome\n",
+            "processName": "community.aurea.com",
+            "visitingUrl": "https://community.aurea.com/docs/DOC-330355",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-05T13:20:00Z"
+}

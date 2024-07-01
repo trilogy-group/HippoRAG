@@ -1,0 +1,295 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "LockApp"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-04T17:52:00Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "taskbar visible at the bottom of the screen",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Google Chrome",
+                                "url": "mail.google.com",
+                                "position": "top right",
+                                "isActive": true,
+                                "highlightedElement": "Profile picture of a male, possibly the user, visible in the top right corner of the window",
+                                "uiElements": {
+                                    "details": "Profile picture visible"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Chrome",
+                                        "layoutDescription": "Window showing a profile picture",
+                                        "visibleText": "Google Chrome\nPrivate\nmail.google.com"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Google Chrome",
+                                "url": "calendar.google.com",
+                                "position": "middle right",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Icon with a number 4, possibly indicating notifications"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Chrome",
+                                        "layoutDescription": "Window showing an icon with a number",
+                                        "visibleText": "Google Chrome\nPrivate\ncalendar.google.com"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Google Chrome",
+                                "url": "calendar.google.com",
+                                "position": "bottom right",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Icon with a number 4, possibly indicating notifications"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Chrome",
+                                        "layoutDescription": "Window showing an icon with a number",
+                                        "visibleText": "Google Chrome\nPrivate\ncalendar.google.com"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T17:55:27Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "taskbar visible at the bottom of the screen, contains icons for various applications",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Google Chrome",
+                                "position": "right side of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Google Chrome window previews are visible"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Chrome",
+                                        "layoutDescription": "Three window previews",
+                                        "visibleText": "Google Chrome\nPrivate\nmail.google.com\nGoogle Chrome\nPrivate\ncalendar.google.com\nGoogle Chrome\nPrivate\ncalendar.google.com"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T17:59:14Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "taskbar visible at the bottom of the screen, contains icons for various applications",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Google Chrome",
+                                "position": "center-right",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Google Chrome window previews are visible"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Chrome",
+                                        "layoutDescription": "Three separate window previews",
+                                        "visibleText": "Google Chrome\nPrivate\nmail.google.com\nGoogle Chrome\nPrivate\ncalendar.google.com\nGoogle Chrome\nPrivate\ncalendar.google.com"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "During the captured timeframe, the user was primarily engaged with Google Chrome. The screenshots show three separate Chrome windows, with one actively displaying the user's email on mail.google.com. The other two windows were on calendar.google.com, likely indicating the user was managing their schedule or checking calendar events. The taskbar at the bottom of the screen shows icons for various applications, but only Chrome was actively used during this period.",
+        "The detailed analysis of the screenshots reveals that the user was viewing their email in one of the Chrome windows. The profile picture visible in the top right corner of the email window suggests that the user was logged into their email account. The other two Chrome windows, both on calendar.google.com, displayed icons with the number 4, possibly indicating notifications or upcoming events. This suggests that the user was likely planning or reviewing their schedule while also keeping an eye on their email."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user was primarily engaged with Google Chrome, viewing their email and calendar. No AI chat interfaces or AI-driven applications were visible during the captured timeframe.",
+    "activities": [
+        "EMAIL"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "EMAIL",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T17:50:11Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T17:51:11Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T17:52:11Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T17:53:11Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T17:54:11Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T17:55:11Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T17:56:11Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T17:57:11Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T17:58:11Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T17:59:11Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-04T17:50:00Z"
+}

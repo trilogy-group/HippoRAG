@@ -1,0 +1,284 @@
+{
+    "candidateId": 1444536,
+    "apps": [
+        "pythonw",
+        "us-east-1.console.aws.amazon.com",
+        "PickerHost"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-15T14:11:06Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for ChatGPT, Remove Line Breaks Online Tool, Google Chrome, and other unidentified applications. Also includes system clock showing '15:11:06' and date '15/06/2024', language setting 'ENG', and a network status icon.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "CampaignTracking | Functions | Lambda - Google Chrome",
+                                "url": "https://us-east-1.console.aws.amazon.com/lambda/home",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs for 'SF Prod', 'SF Sandbox', 'ADFS', 'My Tasks', 'Crossover Sprints', 'Technical Debt - Crossover', 'Guides - Crossover...', 'WS.Eng TPO: Leadership...', 'Task Catalog', and the active tab 'CampaignTracking | Functions'. Navigation buttons, address bar, bookmarks bar, and AWS management console navigation pane are visible."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Code source",
+                                        "layoutDescription": "Two-column layout with navigation pane on the left and code editor on the right",
+                                        "visibleText": "Successfully created the function CampaignTracking. You can now change its code and configuration. To invoke your function with a test event, choose \"Test\".\n\nCode source\n\nFile Edit Find View Go Tools Window Test Deploy\n\nGo to Anything (Ctrl+P)\n\nCampaignTracking\nlambda_function.py\ndef lambda_handler(event, context):\n # TODO: implement\n return {\n 'statusCode': 200,\n 'body': json.dumps('Hello from Lambda!')\n }\n\nEnvironment\nlambda_function.py\nEnvironment Var X"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-15T14:15:10Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, ChatGPT, Remove Line Breaks Online Tool, Google Chrome, File Explorer, Microsoft Edge, and system tray with notifications, sound, network, and battery status icons",
+                        "position": "bottom"
+                    },
+                    {
+                        "elementType": "system clock",
+                        "details": "Displays the time as 15:15 and the date as 15/06/2024",
+                        "position": "bottom-right"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "CampaignTracking | Functions | Lambda - Google Chrome",
+                                "url": "https://us-east-1.console.aws.amazon.com/lambda/home",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, AWS management console navigation bar, Lambda function editor with tabs for Code source, Info, Environment Variables, Execution results, and CloudWatch"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Successfully updated the function CampaignTracking.",
+                                        "layoutDescription": "Notification banner at top",
+                                        "visibleText": "Successfully updated the function CampaignTracking."
+                                    },
+                                    {
+                                        "title": "lambda_function.py editor window",
+                                        "layoutDescription": "Code editor",
+                                        "visibleText": "1 def lambda_handler(event, context):\n2 print('Lambda is invoked')\n3 credentials = event['gSheet_credentials']\n4 sheet_id = event['campaigns'][0]['sheet_id']\n5 return {\n6 'statusCode': 200,\n7 'headers': {\n8 'Content-Type': 'text/plain'\n9 },\n10 'body': 'Hello, world!'\n11 }"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-15T14:16:46Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for ChatGPT, Google Chrome, and other unidentified applications. Also includes system clock showing '15:16:47' and date '15/06/2024'. Language setting displayed as 'ENG'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "CampaignTracking | Functions | Lambda - Google Chrome",
+                                "url": "https://us-east-1.console.aws.amazon.com/lambda/home",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, AWS management console navigation bar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "AWS Lambda Management Console",
+                                        "layoutDescription": "Split view with navigation on left, code and event JSON editor on right",
+                                        "visibleText": "Successfully updated the function CampaignTracking\n\nCode source\nInfo\n\nFile\nEdit\nFind\nView\nGo\nTools lambda_handler(event, context):\n print(\"Lambda function executed\")\n calendar_id = 'primary'\n sheet_id = '1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T'\n return {\n 'success': True,\n 'headers': {\n 'Content-Type': 'application/json'\n },\n 'body': {\n 'credentials': 'stored securely',\n 'sheet_id': sheet_id\n }\n }\n\nEvent JSON\n\n{\n \"key1\": \"value1\",\n \"key2\": \"value2\",\n \"key3\": \"value3\"\n}"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in writing code within the AWS Lambda management console. They have created a new Lambda function named 'CampaignTracking' and are editing the 'lambda_function.py' file. The initial code includes a basic handler function that returns a JSON response with a status code of 200 and a message 'Hello from Lambda!'.",
+        "The user updates the Lambda function to include additional logic. They add a print statement to log when the Lambda is invoked and retrieve credentials and a sheet ID from the event object. The updated function constructs a response with headers and a body containing a 'Hello, world!' message.",
+        "The user continues to refine the Lambda function, adding more detailed logic. They include a calendar ID and a more complex response body that includes securely stored credentials and the sheet ID. The user also prepares an event JSON template for testing the function, which includes key-value pairs to simulate input data for the Lambda function."
+    ],
+    "aiUseSummary": "The user has ChatGPT open in a browser tab, indicating potential use for research or guidance. However, there is no direct interaction with ChatGPT visible in the screenshots. The presence of ChatGPT suggests the user may be leveraging AI for assistance with coding tasks, debugging, or seeking information related to their work on the Lambda function.",
+    "activities": [
+        "WRITING_CODE",
+        "RESEARCH"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "IAC"
+    ],
+    "programmingLanguages": [
+        "PYTHON"
+    ],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "OPENAI_CHATGPT"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 38,
+            "mouse": 10,
+            "date": "2024-06-15T14:10:41Z",
+            "windowTitle": "Spyder",
+            "processName": "pythonw",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 35,
+            "mouse": 2,
+            "date": "2024-06-15T14:11:41Z",
+            "windowTitle": "CampaignTracking | Functions | Lambda - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/functions/CampaignTracking?newFunction=true&tab=code",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 20,
+            "mouse": 6,
+            "date": "2024-06-15T14:12:41Z",
+            "windowTitle": "CampaignTracking | Functions | Lambda - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/functions/CampaignTracking?newFunction=true&tab=code",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 6,
+            "mouse": 12,
+            "date": "2024-06-15T14:13:41Z",
+            "windowTitle": "CampaignTracking | Functions | Lambda - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/functions/CampaignTracking?newFunction=true&tab=code",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 7,
+            "mouse": 8,
+            "date": "2024-06-15T14:14:41Z",
+            "windowTitle": "CampaignTracking | Functions | Lambda - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/functions/CampaignTracking?newFunction=true&tab=code",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 4,
+            "mouse": 11,
+            "date": "2024-06-15T14:15:41Z",
+            "windowTitle": "CampaignTracking | Functions | Lambda - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/functions/CampaignTracking?newFunction=true&tab=code",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 64,
+            "mouse": 12,
+            "date": "2024-06-15T14:16:41Z",
+            "windowTitle": "CampaignTracking | Functions | Lambda - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/functions/CampaignTracking?newFunction=true&tab=code",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 3,
+            "mouse": 8,
+            "date": "2024-06-15T14:17:41Z",
+            "windowTitle": "CampaignTracking | Functions | Lambda - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/functions/CampaignTracking?newFunction=true&tab=code",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 7,
+            "date": "2024-06-15T14:18:41Z",
+            "windowTitle": "Windows Security",
+            "processName": "PickerHost",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 23,
+            "mouse": 10,
+            "date": "2024-06-15T14:19:41Z",
+            "windowTitle": "CampaignTracking | Functions | Lambda - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/functions/CampaignTracking?newFunction=true&tab=code",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-15T14:10:00Z"
+}

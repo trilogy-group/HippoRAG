@@ -1,0 +1,159 @@
+{
+    "candidateId": 2368956,
+    "apps": [
+        "docs.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T16:02:14Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Google Chrome, Microsoft Outlook, Slack, Microsoft Teams, and other unidentified applications. Also includes system clock showing '4:02 PM' and system status icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Customer Outreach - AdvocateHub - Google Sheets",
+                                "url": "https://docs.google.com/spreadsheets",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help. Scroll bars, sheet tabs at bottom."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Customer Outreach - AdvocateHub",
+                                        "layoutDescription": "Spreadsheet layout",
+                                        "visibleText": "Sheet 1\nA B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n1 Name Email Phone Number Region Comments Status Last Contacted Next Steps\n2 John Doe john.doe@example.com 555-1234 North West Needs more info Follow-up 06/05/2024 Discuss project scope\n3 Jane Smith jane.smith@example.com 555-5678 South East Awaiting response Pending 05/30/2024 Send reminder email\n4 Sam Patel sam.patel@example.com 555-9012 North East Good to go Active 06/01/2024 Schedule meeting\n5 Aliya Khan aliya.khan@example.com 555-3456 South West Interested Follow-up 06/03/2024 Prepare proposal\n... (continues with similar rows for other contacts)"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Chat - Nicole Moser",
+                                "url": "https://chat.example.com",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Chat interface with search bar, settings icon, and message input area."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat",
+                                        "layoutDescription": "Chat interface",
+                                        "visibleText": "Nicole Moser\nHey, I just noticed that our website has a problem of being cluttered.\nhttps://www.example.com\nThe admin page does not display well on the new layout of the Real Estate page.\n\nIs there anything else that you need me to do in light of this? (Followed by a screenshot of a website)\n\nI can fix this. I expected some hitches but I'm ready for it though it's relatively late to begin."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Teams",
+                        "windows": [
+                            {
+                                "title": "Video Call with Participants",
+                                "position": "bottom center of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Call interface with controls for camera, microphone, and settings."
+                                },
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "Rajesh Kumar",
+                                            "expression": "Smiling"
+                                        },
+                                        {
+                                            "name": "John Doe",
+                                            "expression": "Neutral"
+                                        }
+                                    ]
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Call",
+                                        "layoutDescription": "Video call screen",
+                                        "visibleText": "Rajesh Kumar\nJohn Doe\nVideo call ongoing"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Finder",
+                        "windows": []
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in a Google Sheets document titled 'Customer Outreach - AdvocateHub'. The spreadsheet contains various columns such as Name, Email, Phone Number, Region, Comments, Status, Last Contacted, and Next Steps. The user appears to be managing customer outreach activities, updating statuses, and planning next steps for different contacts. This activity is crucial for maintaining customer relationships and ensuring follow-ups are conducted in a timely manner.",
+        "The user is also seen participating in a video call using Microsoft Teams. The call interface shows two participants, Rajesh Kumar and John Doe. The user is likely discussing project-related matters or coordinating with team members. Video calls are essential for real-time communication and collaboration, especially in remote work settings.",
+        "Additionally, the user is engaged in a chat conversation with Nicole Moser. The chat interface shows a discussion about a website issue where the admin page does not display well on the new layout of the Real Estate page. Nicole Moser provides a link to the problematic page and a screenshot for reference. The user acknowledges the issue and expresses readiness to fix it, indicating proactive problem-solving and communication within the team."
+    ],
+    "aiUseSummary": "",
+    "activities": [
+        "READING_SPEC",
+        "CHATTING_WITH_TEAM",
+        "MEETING"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "READING_SPEC",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T16:00:35Z",
+            "windowTitle": " Customer Outreach - AdvocateHub - Google Sheets - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/spreadsheets/d/1VuvNhyD3EuthmTN7aWAnuQAgYgTaGRQMyrmooe2Kr2g/edit#gid=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T16:01:35Z",
+            "windowTitle": " Customer Outreach - AdvocateHub - Google Sheets - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/spreadsheets/d/1VuvNhyD3EuthmTN7aWAnuQAgYgTaGRQMyrmooe2Kr2g/edit#gid=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T16:02:35Z",
+            "windowTitle": " Customer Outreach - AdvocateHub - Google Sheets - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/spreadsheets/d/1VuvNhyD3EuthmTN7aWAnuQAgYgTaGRQMyrmooe2Kr2g/edit#gid=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-05T16:00:00Z"
+}

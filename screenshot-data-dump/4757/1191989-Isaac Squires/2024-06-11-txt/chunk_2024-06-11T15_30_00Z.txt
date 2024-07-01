@@ -1,0 +1,199 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "Zoom",
+        "magicacademy.learnwith.ai",
+        "mixpanel.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-11T15:30:36Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, File Explorer, Microsoft Edge, and unidentified applications. Also includes system tray with network, sound, and clock icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Launch Meeting - Zoom - Google Chrome",
+                                "url": "crossover.zoom.us/j/8768538177#success",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, profile icon, extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Launch Meeting - Zoom",
+                                        "layoutDescription": "Centered text and button",
+                                        "visibleText": "Click Open Zoom Meetings on the dialog shown by your browser\n\nIf you don\u2019t see a dialog, click Launch Meeting below\n\nBy joining a meeting, you agree to our Terms of Service and Privacy Statement\n\nLaunch Meeting\n\nDon't have the Zoom Workplace app installed? Download Now\n\nHaving issues with the Zoom Workplace app? Join From Your Browser\n\n\u00a92024 Zoom Video Communications, Inc. All rights reserved.\n\nTrust Center | Acceptable Use Guidelines | Legal & Compliance | Do Not Sell My Personal Information | Cookie Preferences"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is attempting to join a Zoom meeting. The screenshot shows the Zoom meeting launch page in Google Chrome, indicating that the user is in the process of initiating or joining a meeting. The page instructs the user to click 'Open Zoom Meetings' on the dialog shown by the browser or to click 'Launch Meeting' if the dialog does not appear. This suggests that the user is preparing for a video conference, likely for a work-related discussion or collaboration.",
+        "The user has multiple tabs open in Google Chrome, including tabs for Gmail, Google Sheets, and other work-related tools. This indicates that the user is multitasking and possibly preparing for the meeting by reviewing emails, documents, or other relevant information. The presence of these tabs suggests that the user is engaged in various work activities, including communication and document review, alongside the meeting preparation.",
+        "The taskbar at the bottom of the screen shows icons for various applications, including the Start menu, Search, Task View, Widgets, File Explorer, Microsoft Edge, and other unidentified applications. The system tray includes icons for network, sound, and clock, indicating that the user is working on a Windows operating system. The presence of these icons suggests that the user has access to a range of tools and utilities to support their work activities."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily focused on joining a Zoom meeting and has multiple tabs open in Google Chrome for various work-related tasks. There are no visible interactions with AI chat interfaces or AI-driven tools in the screenshots, indicating that AI was not utilized during this specific timeframe.",
+    "activities": [
+        "MEETING",
+        "EMAIL",
+        "READING_SPEC"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 6,
+            "date": "2024-06-11T15:30:46Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 1,
+            "mouse": 11,
+            "date": "2024-06-11T15:31:46Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T15:32:46Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 8,
+            "mouse": 1,
+            "date": "2024-06-11T15:33:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 6,
+            "date": "2024-06-11T15:34:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-11T15:35:46Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 5,
+            "mouse": 2,
+            "date": "2024-06-11T15:36:46Z",
+            "windowTitle": "magicacademy.learnwith.ai - Google Chrome",
+            "processName": "magicacademy.learnwith.ai",
+            "visitingUrl": "magicacademy.learnwith.ai",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 4,
+            "mouse": 17,
+            "date": "2024-06-11T15:37:46Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 7,
+            "mouse": 14,
+            "date": "2024-06-11T15:38:46Z",
+            "windowTitle": "Magic Academy - Magic Academy / Mixpanel - Google Chrome",
+            "processName": "mixpanel.com",
+            "visitingUrl": "mixpanel.com/project/3313988/view/3818788/app/boards/#id=7342745",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 8,
+            "mouse": 8,
+            "date": "2024-06-11T15:39:46Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-11T15:30:00Z"
+}

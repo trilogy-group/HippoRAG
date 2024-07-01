@@ -1,0 +1,285 @@
+{
+  "candidateId": 2027577,
+  "apps": [
+    "chatgpt.com",
+    "WorkSmart",
+    "JavaAppLauncher"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T14:42:27Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Siri, Google Chrome, Microsoft Teams, Visual Studio Code, Terminal, and other unidentified applications. Also includes system status indicators for Wi-Fi, battery, clock (14:42), and Spotlight search.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "ChatGPT - Q2 Extractor - High memory usage - 821 MB - Google Chrome - Firat (trilogy.com)",
+                "url": "https://www.trilogy.com/chat",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Address bar, tabs, bookmarks bar, developer tools window"
+                },
+                "content": [
+                  {
+                    "title": "ChatGPT Q2 Extractor",
+                    "layoutDescription": "Text editor layout",
+                    "visibleText": "these conversations happened, create a report for what happened over where the first meeting, what we did decide on, what were the efforts that were tried and what were the results etc.\n\n2nd request: Create a post-mortem for all the efforts we tried to do, what went good, what didn't went good, and on which effort we did nothing.\n\n3rd request: create a second brain considering all the effort that was made, I want you to write down all the lost causes. It's almost like reconstructing the play, the different decisions and things that were tried during the also on current playbooks and past meetings, and Based on the current sessions below which create the second brain, what we did decide? What did we learn? What did we try? Maybe something we did make a decision on how to do the outreach, but we didn't try a lot of things, for example, a way that doing outreach as these educational tools or skills, or it was breakthrough! Make sure all of those are structured as bullets in chapters and saying, that's what we tried or that's what we decided or like some sort of a structure. These requests are long requests, I want you to go into detail, write everything, and don't miss anything but don't include anything that is not from the transcripts or the analysis you've made. It might be long, don't worry, continue to write."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Teams",
+            "windows": [
+              {
+                "title": "Team Chat",
+                "position": "bottom right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Chat interface with message input box, tabs for calls, contacts, and settings"
+                },
+                "content": [
+                  {
+                    "title": "Team Chat",
+                    "layoutDescription": "Chat layout",
+                    "visibleText": "Messages:\n- Starred\n- Front Room (Prod)\n- Recents\n- JIRA: TTM customer-focused data...\n- JIRA: TTM highly alert demo\n- JIRA: TTM/US data\n- From: JIRA\n- June - customer focus\n\nMessages in 'Front Room (Prod)':\n- [June 4, 2021] TPM: 'Type ahead' feature added. Major release today.\n- [May 26, 2021] TPM: 'Call Map' feature added. Waiting to test all meeting participants.\n- [May 18, 2021] TPM: 'Bad Data, meeting notes issue'. Need help.\n- [May 8, 2021] TPM: 'Room, Diana, and Fiona needed after meeting notes to read.'\n- [May 6, 2021] TPM: 'Raised priorities & directed meeting. Vulnerable to Malevich hack and aggressive advertising. Urgent cover or privacy policy response to escalate, or 'opt-out' to delete meeting.'"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T14:45:16Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, Edge, File Explorer, WorkSmart, and several other unidentified applications. System tray includes network, sound, battery, and clock (14:45, Friday, June 14, 2024)",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "WorkSmart | ComputerLab",
+                "url": "https://app.crossover.com/x/dashboard",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Web browser window with multiple tabs, address bar, navigation buttons, bookmarks bar"
+                },
+                "content": [
+                  {
+                    "title": "WorkSmart | ComputerLab",
+                    "layoutDescription": "Web page layout",
+                    "visibleText": "WorkSmart | ComputerLab\n\n02 pm\n\n03 pm\n\n04 pm\n\n05 pm\n\n06 pm\n\n07 pm\n\n08 pm\n\n09 pm\n\n10 pm\n\n11 pm\n\n12 am\n\n01 am\n\n02 am\n\n03 am\n\n04 am\n\n05 am\n\n06 am\n\n07 am\n\n08 am\n\n09 am\n\n10 am\n\n11 am\n\n12 pm\n\n01 pm"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Teams",
+            "windows": [
+              {
+                "title": "June - TPM | WorkSmart",
+                "url": "https://teams.microsoft.com/l/chat",
+                "position": "right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Chat interface with tabs for Activity, Chat, Teams, Assignments, Calendar, Calls, Files, and More"
+                },
+                "content": [
+                  {
+                    "title": "June - TPM | WorkSmart",
+                    "layoutDescription": "Chat layout",
+                    "visibleText": "June - TPM | WorkSmart\n\nMessages\n\n* Starred\n* Front Room (Prod)\n* Recents\n* June - TPM customer-focused clarity...\n* June - TPM shifting daily set demo\n* June - TPM standards\n* June - customer focus\n\nMessage June - TPM shifting daily set demo\n\n\"Hey team, great to finalize, or 'put to bed' meeting 26\""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T14:49:01Z",
+      "desktop": {
+        "uiElements": [],
+        "applications": [
+          {
+            "appName": "JavaAppLauncher",
+            "windows": [
+              {
+                "title": "JavaAppLauncher",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "black screen"
+                },
+                "content": [
+                  {
+                    "title": "JavaAppLauncher",
+                    "layoutDescription": "black screen",
+                    "visibleText": "No visible text"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in a conversation with ChatGPT on the 'Q2 Extractor' topic. The conversation involves creating detailed reports and post-mortems for various efforts, including what went well, what didn't, and what was not attempted. The user is also instructed to create a 'second brain' by documenting all decisions and actions taken during meetings and playbooks. This activity is focused on thorough documentation and analysis of past efforts.",
+    "The user is also seen interacting with Microsoft Teams, specifically in the 'Team Chat' section. The chat includes messages about various features and issues, such as the 'Type ahead' feature, 'Call Map' feature, and meeting notes. The user is likely collaborating with team members to address these issues and finalize features. This indicates active team communication and collaboration.",
+    "The user is utilizing the WorkSmart application, as seen in the Chrome browser. The WorkSmart dashboard is open, showing a timeline of activities from 02 pm to 01 am. This suggests that the user is monitoring or logging their work activities, possibly for productivity tracking or reporting purposes. The user is likely ensuring that their work is being tracked accurately.",
+    "The user is also seen using the JavaAppLauncher, although the specific activities within this application are not clear due to the black screen. This could indicate that the user is preparing to work on a Java application or is in the process of launching a Java-based tool. The lack of visible text makes it difficult to determine the exact nature of the activity."
+  ],
+  "aiUseSummary": "The user is leveraging ChatGPT for generating detailed reports and post-mortems related to their work efforts. The conversation with ChatGPT involves creating structured documentation, including decisions made, actions taken, and lessons learned. The AI tool is being used to assist in thorough documentation and analysis, enhancing the user's productivity by providing detailed and structured outputs based on the user's requests.",
+  "activities": [
+    "READING_SPEC",
+    "CHATTING_WITH_TEAM",
+    "RESEARCH"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "UI"
+  ],
+  "programmingLanguages": [
+    "OTHER"
+  ],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [
+    "OPENAI_CHATGPT"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "READING_SPEC",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 16,
+      "mouse": 17,
+      "date": "2024-06-14T14:40:43Z",
+      "windowTitle": " ChatGPT - Q2 Extractor - High memory usage - 853 MB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "chatgpt.com",
+      "visitingUrl": "https://chatgpt.com/g/g-wPxpbGewo-q2-extractor/c/de92f3b9-3f15-44b9-896a-d16ece75ca9f",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 259,
+      "mouse": 12,
+      "date": "2024-06-14T14:41:43Z",
+      "windowTitle": " ChatGPT - Q2 Extractor - High memory usage - 821 MB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "chatgpt.com",
+      "visitingUrl": "https://chatgpt.com/g/g-wPxpbGewo-q2-extractor/c/de92f3b9-3f15-44b9-896a-d16ece75ca9f",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 129,
+      "mouse": 1,
+      "date": "2024-06-14T14:42:43Z",
+      "windowTitle": " ChatGPT - Q2 Extractor - High memory usage - 821 MB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "chatgpt.com",
+      "visitingUrl": "https://chatgpt.com/g/g-wPxpbGewo-q2-extractor/c/de92f3b9-3f15-44b9-896a-d16ece75ca9f",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T14:43:43Z",
+      "windowTitle": " ChatGPT - Q2 Extractor - High memory usage - 1.0 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "chatgpt.com",
+      "visitingUrl": "https://chatgpt.com/g/g-wPxpbGewo-q2-extractor/c/de92f3b9-3f15-44b9-896a-d16ece75ca9f",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 4,
+      "date": "2024-06-14T14:44:43Z",
+      "windowTitle": " ChatGPT - Q2 Extractor - High memory usage - 1.0 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "chatgpt.com",
+      "visitingUrl": "https://chatgpt.com/g/g-wPxpbGewo-q2-extractor/c/de92f3b9-3f15-44b9-896a-d16ece75ca9f",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 5,
+      "date": "2024-06-14T14:45:43Z",
+      "windowTitle": " WorkSmart\n",
+      "processName": "WorkSmart",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 2,
+      "mouse": 4,
+      "date": "2024-06-14T14:46:43Z",
+      "windowTitle": " WorkSmart\n",
+      "processName": "WorkSmart",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T14:48:36Z",
+      "windowTitle": " JavaAppLauncher\n",
+      "processName": "JavaAppLauncher",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-14T14:40:00Z"
+}

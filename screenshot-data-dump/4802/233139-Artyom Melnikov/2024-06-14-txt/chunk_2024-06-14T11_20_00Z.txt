@@ -1,0 +1,276 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "chrome",
+        "github.com",
+        "mail.google.com",
+        "webstorm64"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T11:21:53Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Edge, File Explorer, Google Chrome, Visual Studio Code, and system tray with notifications, sound, network, and clock displaying '13:21 06/14/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Google Chat - Vinodh Talapaneni - Chat",
+                                "url": "https://mail.google.com/chat/u/0/#ch",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "sidebar, search bar, chat window, message input area"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat with Vinodh Talapaneni",
+                                        "layoutDescription": "Chat interface with sidebar and main chat area",
+                                        "visibleText": "Vinodh Talapaneni 2 min\nOkay, thanks. I will try that\nVinodh Talapaneni 2 min\nThanks it works but there some error in https://github.com/trilogy-group/yo-hiring-monore below function when I am trying to get SF data\n\n/**\n * Processes the pipeline code to retrieve additional details.\n */\nasync function getSFWorkPlaceAndHours(event: any, pipelineCode: string) {\n SELECT id, Name, Family_ProductCode, Hourly_Rate, c_Hours_per_Week, c_Mobile, c_Job_Type, c_State, c_EI, c_EI_End_Date, c_Location, c_Name, c_Location__c, c_Location__c, c_Location__c, c_Location__c, c_Posting_Name__c FROM Work_Location__c\n INNER JOIN Resource__c ON Work_Location__c.Resource__c = c_Resource__c\n WHERE Product_ID IS NOT NULL AND ProductCode=' + pipelineCode + '\n LIMIT 1;\n\nconst getSFpipeline = await query(event, queryString);\n if (getSFpipeline) {\n workLocations = await getWorkPlaceAndHours(getSFpipeline);\n weeklyHours = await getJobTypeAndHours(getSFpipeline);\n }\n}\n\nLet me check\nTry now\nOkay, let me check"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T11:24:27Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Microsoft Edge, File Explorer, Microsoft Store, Mail, Calendar, Photos, Settings, Microsoft Teams, Weather, News, and several unidentified applications. Also includes system tray with notifications, sound, network, and battery status icons, as well as the date and time display '11:24 AM 6/14/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Deploy environment on push ? Workflow runs ? trilogy-group/xo-hiring-monorepo - Google Chrome",
+                                "url": "https://github.com/trilogy-group/xo-hiring-monorepo",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "address bar, tabs, navigation buttons, GitHub repository navigation including Code, Issues, Pull Requests, Actions, Projects, Wiki, Security, Insights, Settings"
+                                },
+                                "content": [
+                                    {
+                                        "title": "GitHub Actions Page",
+                                        "layoutDescription": "List and details view",
+                                        "visibleText": "trilogy-group / xo-hiring-monorepo\nCode Pull requests 9 Actions Security Insights Settings\nWorkflow run was successfully requested.\nActions\nNew workflow\nAll workflows\nAuto-release accepted tickets\nAuto-update branches on changes to main\nCheck Jira ticket\nClose old Pull Requests\nCode Index Update\nDeploy environment on push\nDeploy the production environment\nDestroy preview environments\nPR-Agent\nProvision preview environment\nShow more workflows...\nManagement\nCaches\nAttestations\nR environment on push\ndeploy-env-on-push.yml\nHelp us improve GitHub Actions\nTell us how GitHub Actions work better for you with three quick questions.\nGive feedback\n583 workflow runs\nThis workflow has a workflow_dispatch event trigger.\nai@LAMBDA-75947: Use response type arraybuffer\nDeploy environment on push #737: Commit 1838199 pushed by lambda-service-user-github\n20 minutes ago 1m 28s\nDeploy environment on push\nDeploy environment on push #736: Manually run by anton-melnikov\n46 minutes ago 30m 25s\nDeploy environment on push\nDeploy environment on push #735: Manually run by anton-melnikov\n48 minutes ago 35s\nDeploy environment on push\nDeploy environment on push #734: Manually run by anton-melnikov\n1 hour ago 10m 43s\nMerge remote-tracking branch 'origin/bugfix/LAMBDA-75947 into sandbox\nDeploy environment on push #733: Commit 2a5c3 pushed by lambda-service-user-github\n1 hours ago 6m 26s\ndocs@LAMBDA-75608: Fix lint\nDeploy environment on push #732: Commit 1264014 pushed by lambda-service-user-github\nLast week 3m 30s\nfeat@LAMBDA-75521: Add readme\nDeploy environment on push #731: Commit 65d92af pushed by lambda-service-user-github\n2 weeks ago 1m 22s\nfeat@LAMBDA-75521: Data fix script\nDeploy environment on push #730: Commit 36d395d pushed by lambda-service-user-github\n2 weeks ago 1m 23s\nMerge remote-tracking branch 'origin/fix/LAMBDA-74791-ga-report-error... into sandbox\nDeploy environment on push #729: Commit 1c9e5e4 pushed by lambda-service-user-github\n3 weeks ago 6m 51s\nMerge remote-tracking branch 'origin/feature/LAMBDA-75492-ownbackup-a... into sandbox\nDeploy environment on push #728: Commit 1c9e5e4 pushed by lambda-service-user-github\n3 weeks ago 3m 20s\nMerge remote-tracking branch 'origin/fix/LAMBDA-74791-ga-report-error... into sandbox\nDeploy environment on push #727: Commit 1c9e5e4 pushed by lambda-service-user-github\n3 weeks ago 4m 54s"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T11:28:21Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, File Explorer, Web Browser, and System Tray including network, sound, and clock",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Code Editor",
+                        "windows": [
+                            {
+                                "title": "package.json",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "bar at top, sidebar on left with project files, bottom bar with terminal output"
+                                },
+                                "content": [
+                                    {
+                                        "title": "package.json",
+                                        "layoutDescription": "editor with JSON content",
+                                        "visibleText": "{\n \"name\": \"lambda-cdk-infra\",\n \"version\": \"0.3.0-0.preview.2\",\n \"description\": \"\",\n \"main\": \"index.js\",\n \"scripts\": {\n \"generate-index\": \"npx cti -b create ./src\",\n \"build\": \"tsc\"\n },\n \"author\": \"Artyom Melnikov\",\n \"license\": \"MIT\",\n \"dependencies\": {\n \"aws-cdk-lib\": \"^2.146.0\",\n \"constructs\": \"^10.0.0\"\n },\n \"peerDependencies\": {\n \"aws-cdk-lib\": \"^2.146.0\",\n \"constructs\": \"^10.0.0\"\n },\n \"devDependencies\": {\n \"@types/jest\": \"^27.0.0\",\n \"@types/node\": \"^16.0.0\",\n \"typescript\": \"^4.5.4\",\n \"ts-node\": \"^10.0.0\"\n },\n \"optionalDependencies\": {\n \"amplify-frontend-javascript\": \"^3.4.3\",\n \"aws-cdk/aws-cognito-identitypool-alpha\": \"^2.146.0-alpha.0\",\n \"aws-cdk/aws-fuly-extensibility-helper\": \"^2.3.2\"\n }\n}"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in a chat with a team member named Vinodh Talapaneni on Google Chat. The conversation involves debugging a function related to retrieving Salesforce data. The user shares a code snippet of an async function 'getSFWorkPlaceAndHours' that processes pipeline code to retrieve additional details. The function includes a SQL query to select various fields from the 'Work_Location__c' table and joins it with the 'Resource__c' table. The user is troubleshooting an error in this function and is coordinating with Vinodh to resolve it.",
+        "The user is reviewing a GitHub Actions workflow for the 'xo-hiring-monorepo' repository. The workflow is set to deploy the environment on push. The user is examining the status of various workflow runs, including those triggered by commits and manual runs. The workflow runs display different statuses, such as 'successfully requested,' 'manually run,' and 'commit pushed by lambda-service-user-github.' The user is likely monitoring the deployment process and ensuring that the environment is correctly set up after each push.",
+        "The user is working in the WebStorm IDE, editing the 'package.json' file of the 'lambda-cdk-infra' project. The file includes various dependencies, devDependencies, and scripts for building and generating the project index. The user is focused on managing the project's dependencies, which include 'aws-cdk-lib,' 'constructs,' and 'typescript.' The user is also ensuring that the build script 'tsc' is correctly defined and that the project is configured to generate the index using 'npx cti -b create ./src.' This indicates the user is involved in backend development and infrastructure as code (IaC) tasks."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in manual coding, debugging, and reviewing activities without any visible interaction with AI tools for code suggestions, research, or debugging purposes.",
+    "activities": [
+        "CHATTING_WITH_TEAM",
+        "REVIEWING_CODE",
+        "WRITING_CODE"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "IAC"
+    ],
+    "programmingLanguages": [
+        "TYPESCRIPT",
+        "SQL"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 5,
+            "date": "2024-06-14T11:20:17Z",
+            "windowTitle": "Google Chat - Vinodh Talapaneni - Chat",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T11:21:17Z",
+            "windowTitle": "Google Chat - Vinodh Talapaneni - Chat",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T11:22:17Z",
+            "windowTitle": "Google Chat - Vinodh Talapaneni - Chat",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 1,
+            "mouse": 23,
+            "date": "2024-06-14T11:23:17Z",
+            "windowTitle": "Google Chat - XO Team Chat - Chat",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 44,
+            "mouse": 19,
+            "date": "2024-06-14T11:24:17Z",
+            "windowTitle": "Deploy environment on push ? Workflow runs ? trilogy-group/xo-hiring-monorepo - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/workflows/deploy-env-on-push.yml",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 5,
+            "mouse": 1,
+            "date": "2024-06-14T11:25:17Z",
+            "windowTitle": "Deploy environment on push ? Workflow runs ? trilogy-group/xo-hiring-monorepo - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/workflows/deploy-env-on-push.yml",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T11:26:17Z",
+            "windowTitle": "Deploy environment on push ? Workflow runs ? trilogy-group/xo-hiring-monorepo - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/workflows/deploy-env-on-push.yml",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T11:27:17Z",
+            "windowTitle": "Deploy environment on push ? Workflow runs ? trilogy-group/xo-hiring-monorepo - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/workflows/deploy-env-on-push.yml",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-14T11:28:17Z",
+            "windowTitle": "Inbox - artyom.melnikov@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 6,
+            "date": "2024-06-14T11:29:17Z",
+            "windowTitle": "lambda-cdk-infra ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T11:20:00Z"
+}

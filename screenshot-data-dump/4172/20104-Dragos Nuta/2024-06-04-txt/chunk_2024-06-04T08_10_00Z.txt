@@ -1,0 +1,304 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "meet.google.com",
+        "mail.google.com",
+        "ai-assist.crossover.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-04T08:12:16Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Google Chrome, File Explorer, Microsoft Store, and system tray with notifications, sound, network, and battery status, and date/time display",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - zfj-rojw-kzq - Google Chrome",
+                                "url": "meet.google.com/zfj-rojw-kzq",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, Google account avatar, Meet controls"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference",
+                                        "layoutDescription": "Two video feeds displayed",
+                                        "visibleText": "Phil / Dragos - What can AI Assist help you?"
+                                    },
+                                    {
+                                        "title": "People Panel",
+                                        "layoutDescription": "List of meeting participants",
+                                        "visibleText": "IN MEETING\nContributors\nDragos Nuta (You) Meeting host\nPhil Hewinson\nread.ai meeting notes\nEveryone invited has joined"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T08:15:12Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, widgets, and several pinned applications. System tray includes network, sound, and clock (11:15 AM, 6/4/2024).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Chat - AI Coach - internal",
+                                "url": "mail.google.com/chat/u/0/#/chat/",
+                                "position": "half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "sidebar, search bar, chat window with text input area"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat",
+                                        "layoutDescription": "Chat layout and chat view",
+                                        "visibleText": "AI Coach - internal\n5 members - Private\nChat\nShared\nTasks\nanother example of making up stuff, and a 3rd... and this is an example of not answer the user has been leveraging unity and answer was by how prompts talks about the user as a 3rd party connection\nand please add an automatic redirect from ai-coach to assist.crossover.com"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Meet - zfj-rojw-kzq",
+                                "url": "meet.google.com/zfj-rojw-kzq",
+                                "position": "half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "call interface with participant thumbnails, chat, and controls"
+                                },
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "Phil Hewinson",
+                                            "expression": "thinking"
+                                        },
+                                        {
+                                            "name": "Drago Nu\u021ba",
+                                            "expression": "neutral"
+                                        }
+                                    ]
+                                },
+                                "content": [
+                                    {
+                                        "title": "Call",
+                                        "layoutDescription": "Video call screen",
+                                        "visibleText": "Phil / Drago\u0219 - What can AI ..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T08:19:40Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, Microsoft Edge, File Explorer, and system tray with notifications, sound, network, and battery status, language indicator (ENG), and time (11:19 AM, 6/4/2024)",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "AI Assist - Google Chrome",
+                                "url": "ai-assist.crosswor.com/thread/5ba5",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, profile icon, extensions icons, and menu button"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email Thread",
+                                        "layoutDescription": "Text-heavy layout",
+                                        "visibleText": "TeachTap team recently.\n2. Team Meetings or Communications: Details from any recent team meetings, emails, or communications where tasks were assigned.\n3. Task Lists Or Schedules: Any documented task lists, schedules, or project management tools that outline the activities planned or completed in the last 5 days.\n4. Team Member Roles: Understanding the specific roles and responsibilities of team members might help infer the types of tasks they were assigned.\n\nIf you can provide any of the above information or direct me to where I can find it, I can give you a more precise and detailed answer regarding the tasks, activities, or actions you asked your team to complete recently. Alternatively, if there are other sources or documents that might contain this information, please let me know so I can assist you further.\n\nThanks!"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Google Meet video conference, as evidenced by the screenshot showing the meeting interface with participants Phil Hewinson and Dragos Nuta. The meeting appears to be focused on discussing AI Assist, as indicated by the visible text 'Phil / Dragos - What can AI Assist help you?' The user is actively participating in the meeting, as shown by their video feed and the list of contributors.",
+        "The user is also involved in a chat conversation on Google Chat within the 'AI Coach - internal' space. The chat includes discussions about AI prompts and their responses, with specific mentions of making up stuff and leveraging Unity. The user is contributing to the conversation by providing examples and requesting an automatic redirect from ai-coach to assist.crossover.com.",
+        "Additionally, the user is utilizing the AI Assist tool on the ai-assist.crossover.com website. The screenshot shows the user interacting with the AI Assist Agent, asking 'what did I do yesterday?' The AI Assist Agent is providing a detailed response, asking for information about recent team meetings, task lists, and team member roles to give a more precise answer regarding the tasks and activities completed recently."
+    ],
+    "aiUseSummary": "The user utilizes AI tools extensively in their workflow. In the Google Chat, the user discusses AI prompts and their responses, indicating a focus on improving AI interactions. On the ai-assist.crossover.com website, the user interacts with the AI Assist Agent to get a summary of their previous day's activities. The AI Assist Agent provides a detailed response, asking for specific information to give a more accurate answer. This shows the user's reliance on AI for task tracking and summarization, enhancing productivity and task efficiency.",
+    "activities": [
+        "MEETING",
+        "CHATTING_WITH_TEAM",
+        "EMAIL"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "DEVFACTORY_TPM_AI"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 6,
+            "mouse": 0,
+            "date": "2024-06-04T08:10:09Z",
+            "windowTitle": "Meet - zfj-rojw-kzq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/zfj-rojw-kzq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 8,
+            "mouse": 0,
+            "date": "2024-06-04T08:11:09Z",
+            "windowTitle": "Meet - zfj-rojw-kzq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/zfj-rojw-kzq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T08:12:09Z",
+            "windowTitle": "Meet - zfj-rojw-kzq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/zfj-rojw-kzq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 4,
+            "mouse": 3,
+            "date": "2024-06-04T08:13:09Z",
+            "windowTitle": "Meet - zfj-rojw-kzq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/zfj-rojw-kzq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 3,
+            "mouse": 5,
+            "date": "2024-06-04T08:14:09Z",
+            "windowTitle": "AI Coach - internal - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/space/AAAAtTzc_M0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 35,
+            "mouse": 5,
+            "date": "2024-06-04T08:15:09Z",
+            "windowTitle": "Meet - zfj-rojw-kzq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/zfj-rojw-kzq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 58,
+            "mouse": 2,
+            "date": "2024-06-04T08:16:09Z",
+            "windowTitle": "AI Coach - internal - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/space/AAAAtTzc_M0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 97,
+            "mouse": 8,
+            "date": "2024-06-04T08:17:09Z",
+            "windowTitle": "AI Assist - Google Chrome",
+            "processName": "ai-assist.crossover.com",
+            "visitingUrl": "ai-assist.crossover.com/thread/b5ae1894-84fc-4b99-a079-6361fe61da68",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 22,
+            "mouse": 23,
+            "date": "2024-06-04T08:18:09Z",
+            "windowTitle": "AI Assist - Google Chrome",
+            "processName": "ai-assist.crossover.com",
+            "visitingUrl": "ai-assist.crossover.com/thread/b5ae1894-84fc-4b99-a079-6361fe61da68",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 116,
+            "mouse": 18,
+            "date": "2024-06-04T08:19:09Z",
+            "windowTitle": "AI Assist - Google Chrome",
+            "processName": "ai-assist.crossover.com",
+            "visitingUrl": "ai-assist.crossover.com/thread/b5ae1894-84fc-4b99-a079-6361fe61da68",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-04T08:10:00Z"
+}

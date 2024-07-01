@@ -1,0 +1,367 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "crossover.com",
+    "meet.google.com",
+    "Notepad"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-04T17:20:21Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, widgets, and several pinned applications. Displays the system tray with network, sound, and battery status icons, as well as the date and time '6/24/24 8:20 PM'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Meet - fmi-krfz-vbf - Google Chrome",
+                "url": "meet.google.com/fmi-krfz-vbf?authu",
+                "position": "half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and browser controls (minimize, maximize, close)."
+                },
+                "content": [
+                  {
+                    "title": "Video Conference",
+                    "layoutDescription": "Four video feeds displayed in a grid.",
+                    "visibleText": "Cory Kapner\nJason Messinger\nKatherine Rose\nDragos Nutu\nCory's Sybill Notetaker\nread.ai meeting notes"
+                  }
+                ]
+              },
+              {
+                "title": "Crossover - Jobs - Google Chrome",
+                "url": "crossover.com/jobs?Frequency=year&",
+                "position": "half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and browser controls (minimize, maximize, close)."
+                },
+                "content": [
+                  {
+                    "title": "Crossover Job Listings",
+                    "layoutDescription": "List of job openings displayed vertically.",
+                    "visibleText": "Software Development $30K - 100K\nCurrent Openings (10 Matching Jobs)\nEngineering\nAI-Augmented Back-end Principal Engineer $100,000 USD/year ($50 USD/hour)\nFully-remote Any country Full-time (40 hrs/week) Long-term\nAI-Augmented Full-Stack Principal Engineer $100,000 USD/year ($50 USD/hour)\nFully-remote Any country Full-time (40 hrs/week) Long-term\nSenior AI Innovation Specialist - Software Engineer $100,000 USD/year ($50 USD/hour)\nFully-remote Any country Full-time (40 hrs/week) Flexible schedule\nAI-First Software Engineer III $100,000 USD/year ($50 USD/hour)\nFully-remote Any country Full-time (40 hrs/week) Long-term"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T17:23:37Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Google Chrome, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes notifications, Wi-Fi, sound, and clock displaying '8:23 PM 6/4/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - fmi-krfz-vbf - Google Chrome",
+                "url": "meet.google.com/fmi-krfz-vbf?authuser=0",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Video conference window with participant videos, chat, and meeting controls"
+                },
+                "content": [
+                  {
+                    "title": "Video Conference Participants",
+                    "layoutDescription": "Grid layout",
+                    "visibleText": "Corry Kapner\nJason Messinger\nKatherine Rose\nCory's Sybill Notetaker\nDragos Nuta"
+                  },
+                  {
+                    "title": "Notification",
+                    "layoutDescription": "Notification at bottom right",
+                    "visibleText": "Joe / Dragos\n20:30 - 21:00\ncalendar.google.com\nSnooze\nClose"
+                  }
+                ]
+              },
+              {
+                "title": "Software Development Jobs - Google Chrome",
+                "url": "crossover.com/jobs?Frequency=year",
+                "position": "right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Job listings page with filters and job postings"
+                },
+                "content": [
+                  {
+                    "title": "Current Openings (10 Matching Jobs)",
+                    "layoutDescription": "List layout",
+                    "visibleText": "Engineering\nAI-Augmented Back-end Principal Engineer\n$100,000 USD/year ($50 USD/hour)\nFully-remote\nAny country\nFull-time (40 hrs/week)\nLong-term\nAI-Augmented Full-Stack Principal Engineer\n$100,000 USD/year ($50 USD/hour)\nFully-remote\nAny country\nFull-time (40 hrs/week)\nLong-term\nSenior AI Innovation Specialist - Software Engineer\n$100,000 USD/year ($50 USD/hour)\nFully-remote\nAny country\nFull-time (40 hrs/week)\nFlexible schedule\nAI-First Software Engineer III\n$100,000 USD/year ($50 USD/hour)\nFully-remote\nAny country\nFull-time (40 hrs/week)\nLong-term"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T17:28:00Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Search, Chrome, Notepad, File Explorer, and other unidentified applications. System tray includes network, sound, and clock (8:27 PM, 06/04/24)",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "LinkedIn Renewal 2024 - Google Sheets",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help, Accessibility"
+                },
+                "content": [
+                  {
+                    "title": "LinkedIn Renewal 2024",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "Plan, Slots, Cost, Cost/slot, Projected flow, Cost per BFQ, Cost per BFQ Passer Taker (CPQA), Now, Early renewal, Late renewal, Reduce to 75%, Reduce to 50%, Reduce to 25%, 3,480, $1,600,000, $460, 80,000, $1.2, $2.5, 3,788, $2,300,000, $607, 85,000, $1.7, $3.4, 2,610, $2,600,000, $996, 75,000, $1.9, $3.8, 1,740, $1,600,000, $920, 64,000, $1.6, $3.1, 870, $930,000, $1,069, 40,000, $1.4, $2.9"
+                  }
+                ]
+              },
+              {
+                "title": "2500month - Notepad",
+                "position": "bottom left corner of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View"
+                },
+                "content": [
+                  {
+                    "title": "2500month",
+                    "layoutDescription": "Text editor layout",
+                    "visibleText": "$2500/month, 5% of media spend"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Google Meet",
+            "windows": [
+              {
+                "title": "Meet - frm-kftz-vbf",
+                "url": "https://meet.google.com/frm-kftz-vbf",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Conference UI with participant names and mute, camera, and settings controls"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Cory Kapner",
+                      "expression": "Contemplative"
+                    },
+                    {
+                      "name": "Jane Messinger",
+                      "expression": "Focused"
+                    },
+                    {
+                      "name": "Katherine Rose",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "Dragos Nută",
+                      "expression": "Speaking"
+                    }
+                  ]
+                },
+                "content": [
+                  {
+                    "title": "Meet - frm-kftz-vbf",
+                    "layoutDescription": "Video call layout",
+                    "visibleText": "Cory's Sybill Notetaker, read.ai meeting notes, recruitics.com"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively participating in a Google Meet video conference. The meeting includes multiple participants, and the user is engaged in discussions. The visible participants are Cory Kapner, Jason Messinger, Katherine Rose, and Dragos Nută. The user is also using read.ai meeting notes and recruitics.com during the meeting. This indicates a collaborative session, possibly discussing project updates or planning tasks.",
+    "The user is browsing job listings on crossover.com. The job listings are related to software development roles, specifically for positions such as AI-Augmented Back-end Principal Engineer, AI-Augmented Full-Stack Principal Engineer, and Senior AI Innovation Specialist. The user is likely exploring potential job opportunities or conducting market research on available roles and their requirements.",
+    "The user is viewing a Google Sheets document titled 'LinkedIn Renewal 2024'. The spreadsheet contains detailed financial data, including cost per slot, projected flow, and cost per BFQ Passer Taker (CPQA). The user is analyzing different renewal plans and their associated costs, which suggests involvement in budget planning or financial analysis for LinkedIn renewals.",
+    "The user has Notepad open with a document titled '2500month'. The content includes a note about '$2500/month' and '5% of media spend'. This indicates the user is making quick notes or calculations related to media spending, possibly as part of a budgeting or financial planning task."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a video conference, browsing job listings, analyzing financial data in Google Sheets, and making notes in Notepad. No AI chat interfaces or AI-driven tools are visible in the screenshots.",
+  "activities": [
+    "MEETING",
+    "RESEARCH",
+    "READING_SPEC"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "UI"
+  ],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 15,
+      "date": "2024-06-04T17:20:11Z",
+      "windowTitle": "Remote Jobs - Work From Home - Google Chrome",
+      "processName": "crossover.com",
+      "visitingUrl": "crossover.com/jobs?Frequency=year&Min=15&Max=50&Roles=engineering&Areas=software_development",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-04T17:21:11Z",
+      "windowTitle": "Meet - fmi-krfz-vbf - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/fmi-krfz-vbf?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T17:22:11Z",
+      "windowTitle": "Meet - fmi-krfz-vbf - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/fmi-krfz-vbf?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T17:23:11Z",
+      "windowTitle": "Meet - fmi-krfz-vbf - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/fmi-krfz-vbf?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T17:24:11Z",
+      "windowTitle": "Meet - fmi-krfz-vbf - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/fmi-krfz-vbf?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T17:25:11Z",
+      "windowTitle": "Meet - fmi-krfz-vbf - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/fmi-krfz-vbf?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 66,
+      "mouse": 3,
+      "date": "2024-06-04T17:26:11Z",
+      "windowTitle": "*2500month - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 5,
+      "date": "2024-06-04T17:27:11Z",
+      "windowTitle": "*2500month - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-04T17:28:11Z",
+      "windowTitle": "*2500month - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 23,
+      "mouse": 3,
+      "date": "2024-06-04T17:29:11Z",
+      "windowTitle": "*2500month - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-04T17:20:00Z"
+}

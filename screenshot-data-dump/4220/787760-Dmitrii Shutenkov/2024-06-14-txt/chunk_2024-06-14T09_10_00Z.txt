@@ -1,0 +1,281 @@
+{
+    "candidateId": 1444536,
+    "apps": [
+        "chatgpt.com",
+        "mail.google.com",
+        "Code",
+        "explorer"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T09:10:46Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Windows Terminal, and several unidentified applications. Also displays system tray with network, sound, notifications, and clock showing '10:10:47' on '14/06/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Salesforce SOQL Query Python - Google Chrome",
+                                "url": "chatgpt.com/c/0dda060a-caa8-47b5-a",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, and browser controls (minimize, maximize, close)"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Step 3: Package Your Lambda Function",
+                                        "layoutDescription": "Text and code blocks visible",
+                                        "visibleText": "simple_salesforce\n\nStep 3: Package Your Lambda Function\n\n1. Deactivate the Virtual Environment:\n\nbash\ndeactivate\n\n2. Create a Deployment Package:\n\nbash\ncd venv/lib/python3.x/site-packages/ # replace 'python3.x' with your Python version\nzip -r9 ${OLDPWD}/function.zip .\ncd $OLDPWD\nzip -g function.zip lambda_function.\n"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T09:13:41Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Microsoft Edge, Windows Explorer, Visual Studio Code, and other unidentified applications. Also displays the system clock showing '10:13:43', language setting 'ENG', and a notification area.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "lambda_function.py - tools - Visual Studio Code",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Top bar with File, Edit, Selection, View, Go, Run, Terminal, Help. Left sidebar with icons for Explorer, Search, Source Control, Run, Extensions. Bottom bar with Python version, indentation settings, encoding, line and column indicator."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Explorer",
+                                        "layoutDescription": "Side panel",
+                                        "visibleText": "OPEN EDITORS\nWelcome\nREADME.md\n.gitattributes\nsale campaign-tracking U\nTOOLS\ncampaign-tracking\nlambda\n.gitattributes"
+                                    },
+                                    {
+                                        "title": "Context Menu",
+                                        "layoutDescription": "Popup menu",
+                                        "visibleText": "Open to the Side\nOpen With...\nReveal in File Explorer\nOpen in Integrated Terminal\nMaven\nSelect for Compare\nOpen Timeline\nCut\nCopy\nCopy Path\nCopy Relative Path\nRun Tests\nDebug Tests\nRename...\nDelete"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T09:19:08Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Chrome, File Explorer, and other unidentified applications. System tray includes network, sound, and clock icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "config.json - tools - Visual Studio Code",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with options like File, Edit, Selection, View, Go, Run, Terminal, Help. Side bar with icons for Explorer, Search, Source Control, Run, Extensions, and more. Status bar at the bottom showing language mode, encoding, line and column number, spaces information, and a prettify tool icon."
+                                },
+                                "content": [
+                                    {
+                                        "title": "config.json",
+                                        "layoutDescription": "editor with JSON code",
+                                        "visibleText": "{\n \"username\": \"your_username\",\n \"password\": \"your_password\",\n \"security_token\": \"your_security..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user started their session by researching on ChatGPT. They were looking at a guide on how to package a Lambda function using Python. The guide included steps to deactivate the virtual environment and create a deployment package. This indicates that the user is working on deploying a Lambda function, possibly for a backend service.",
+        "The user then switched to Visual Studio Code, where they had multiple files open, including 'lambda_function.py', 'salesforce.py', and 'config.json'. They were navigating through these files, which suggests they were working on integrating Salesforce with a Lambda function. The presence of a 'config.json' file indicates that they were setting up configuration details, such as username, password, and security token for Salesforce.",
+        "Throughout the session, the user was actively writing and navigating code in Visual Studio Code. They were seen editing Python files and JSON configuration files. This activity is consistent with backend development tasks, particularly those involving cloud services and API integrations."
+    ],
+    "aiUseSummary": "The user utilized ChatGPT for researching how to package a Lambda function using Python. They were looking at specific steps and code snippets provided by ChatGPT to deactivate the virtual environment and create a deployment package. This indicates that the user relies on AI tools for guidance and code examples, which helps in improving their productivity and ensuring they follow best practices.",
+    "activities": [
+        "WRITING_CODE",
+        "NAVIGATING_CODE",
+        "RESEARCH"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [
+        "PYTHON",
+        "SALESFORCE"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "OPENAI_CHATGPT"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T09:10:23Z",
+            "windowTitle": "Salesforce SOQL Query Python - Google Chrome",
+            "processName": "chatgpt.com",
+            "visitingUrl": "chatgpt.com/c/0dda060a-caa8-47b5-acfb-08cca56a5dd5",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 5,
+            "date": "2024-06-14T09:11:23Z",
+            "windowTitle": "Salesforce SOQL Query Python - Google Chrome",
+            "processName": "chatgpt.com",
+            "visitingUrl": "chatgpt.com/c/0dda060a-caa8-47b5-acfb-08cca56a5dd5",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-14T09:12:23Z",
+            "windowTitle": "Inbox (30) - dmitrii.shutenkov@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 22,
+            "mouse": 12,
+            "date": "2024-06-14T09:13:23Z",
+            "windowTitle": "la - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 11,
+            "mouse": 10,
+            "date": "2024-06-14T09:14:23Z",
+            "windowTitle": "? lambda_function.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 3,
+            "mouse": 3,
+            "date": "2024-06-14T09:15:23Z",
+            "windowTitle": "Salesforce SOQL Query Python - Google Chrome",
+            "processName": "chatgpt.com",
+            "visitingUrl": "chatgpt.com/c/0dda060a-caa8-47b5-acfb-08cca56a5dd5",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 6,
+            "date": "2024-06-14T09:16:23Z",
+            "windowTitle": "",
+            "processName": "explorer",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 3,
+            "date": "2024-06-14T09:17:23Z",
+            "windowTitle": "campaign.ts - master-assistant - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 10,
+            "mouse": 10,
+            "date": "2024-06-14T09:18:23Z",
+            "windowTitle": "? lambda_function.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 22,
+            "mouse": 6,
+            "date": "2024-06-14T09:19:23Z",
+            "windowTitle": "? config.json - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T09:10:00Z"
+}

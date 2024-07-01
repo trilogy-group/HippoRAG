@@ -1,0 +1,278 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "chrome",
+    "webstorm64",
+    "github.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T12:53:04Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. System tray includes network, sound, and clock icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "xo-hiring-monorepo > feat(LAMBDA-76101): cdk-infra-lib-upgrade",
+                "url": null,
+                "position": "full screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar at top, sidebar on left, bottom bar with terminal output, tabs at the top of the editor area"
+                },
+                "content": [
+                  {
+                    "title": "deploy-env-on-push.yml",
+                    "layoutDescription": "editor with YAML content",
+                    "visibleText": "name: Deploy\n\non:\n  push:\n    branches:\n      - master\n    paths:\n      - 'configs/**'\n      - 'packages.json'\n\njobs:\n  build:\n    runs-on: ubuntu-latest\n    steps:\n      - name: Setup Node.js\n        uses: actions/setup-node@v2\n        with:\n          node-version: '14'\n      - name: Install dependencies\n        run: |\n          npm config set //npm.pkg.github.com/:_authToken ${{ secrets.TRIL..."
+                  },
+                  {
+                    "title": "package.json",
+                    "layoutDescription": "editor with JSON content",
+                    "visibleText": "{\n  \"name\": \"sandbox-refresh-configs\",\n  \"version\": \"1.0.0\",\n  \"description\": \"Configuration files for sandbox environments\",\n  \"main\": \"index.ts\",\n  \"scripts\": {\n    \"test\": \"echo 'Error: no test specified' && exit 1\"\n  },\n  \"author\": \"\",\n  \"license\": \"ISC\"\n}"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T12:56:28Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '12:56 PM' and date '6/14/2024'. Network, sound, and battery status icons are visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "xo-hiring-monorepo > feat(LAMBDA-76101): cdk-infra-lib-upgrade",
+                "position": "full screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "menu bar, status bar, sidebar with repository and file explorer, terminal panel"
+                },
+                "content": [
+                  {
+                    "title": "deploy-env-on-push.yml",
+                    "layoutDescription": "editor with YAML code",
+                    "visibleText": "name: Deploy\n\non:\n  push:\n    branches:\n      - main\n\njobs:\n  build:\n    runs-on: ubuntu-latest\n    steps:\n      - name: Setup Node.js\n        uses: actions/setup-node@v2\n        with:\n          node-version: '14'\n      - name: Install dependencies\n        run: |\n          npm config set //npm.pkg.github.com/:_authToken ${{ secrets.TRIOLOGY_PACKAGES_TOKEN }}\n          npm ci\n          npm config set @trilogy-group/registry https://npm.pkg.github.com\n          cd deploy\n          npm ci\n      - name: Check modified projects\n        uses: dchorny/paths-filter@v2\n        id: changes\n        with:\n          token: ${{ secrets.GITHUB_TOKEN }}\n          filters: .github/projects.yml\n          base: ${{ github.ref }}\n      - name: Prepare CDK parameters\n        run: Prepare\n        uses: actions/github-script@v6\n        with:\n          script: |\n            let projects = '';\n            let env = '';\n            if (context.eventName == 'workflow_dispatch') {\n              projects = ${{ github.event.inputs.projects }};\n              env = ${{ github.event.inputs.env }};\n            } else {\n              // Use output from the previous step to find out modified projects\n              projects = ${{ fromJson(steps.changes.outputs) }};\n              const changes = Object.entries(changes)\n              projects = Object.entries(changes)\n            }\n          steps: Item 57 - with: filters: .github/projects.yml"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T12:58:26Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the system tray with network, sound, and battery status icons, as well as the date and time.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@852f61b - Google Chrome",
+                "url": "https://github.com/trilogy-group/xo-hiring-monorepo",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Multiple tabs, address bar, bookmarks bar, and various browser controls including refresh, home, and settings buttons."
+                },
+                "content": [
+                  {
+                    "title": "GitHub Actions Log",
+                    "layoutDescription": "Text-heavy layout",
+                    "visibleText": "Summary\nbuild\nsucceeded 15 minutes ago in 6m 15s\n\nDeploy to env\n\n[12:27] (DEBUG) Adding metadata to the deployment 'switcher': 'PreparePreprodget'\n[12:27] (DEBUG) Adding metadata to the deployment 'switcher': 'Stack Configuration'\n[12:27] (DEBUG) Adding metadata to the deployment 'switcher': 'SwitcherStack'\n[12:27] (DEBUG) Adding metadata to the deployment 'switcher': 'Configuration for env 'production''\n[12:27] (DEBUG) Adding metadata to the deployment 'switcher': 'Configuration for env 'sandbox''\n[12:27] (DEBUG) Adding metadata to the deployment 'switcher': 'Configuration for env 'undefined''\n[12:27] (DEBUG) Adding metadata to the deployment 'switcher': 'PreparePreprodget'\n[12:27] (DEBUG) Adding metadata to the deployment 'switcher': 'Stack Configuration'\n[12:27] (DEBUG) Adding metadata to the deployment 'switcher': 'SwitcherStack'\n[12:27] (DEBUG) Adding metadata to the deployment 'switcher': 'Configuration for env 'production''\n[12:27] (DEBUG) Adding metadata to the deployment 'switcher': 'Configuration for env 'sandbox''\n[12:27] (DEBUG) Adding metadata to the deployment 'switcher': 'Configuration for env 'undefined''\n[12:27] (DEBUG) Installing dependencies @ /home/runner/work/xo-hiring-monorepo/xo-hiring-monorepo\n[12:27] (DEBUG) 74 packages, and audited 75 packages in 3s\n\n44 packages are looking for funding\nrun 'npm fund' for details\n\n5 vulnerabilities (1 low, 4 moderate)\nTo address all issues, run:\nnpm audit fix\n\nRun 'npm audit fix' for details.\n[12:27] (DEBUG) Done! (took 1.2s)\n[12:27] (DEBUG) Done! (took 1.2s)\n[12:27] (DEBUG) Generating the project output\n[12:27] (DEBUG) Generating the project output\n[12:27] (DEBUG) Building the project\n[12:27] (DEBUG) Building the project\n\n> xc_auth@0.0.1 build\n> tsc\n\n[12:27] (DEBUG) Done! (took 5.67329545 s)\n[12:27] (DEBUG) Running tests\n[12:27] (DEBUG) Done! (took 1.127895 s)\n[12:27] (DEBUG) Preparing lambda layer with dependencies\n[12:27] (DEBUG) Preparing lambda layer with dependencies\nnpm WARN config production Use '--omit=dev' instead.\n\nadded 76 packages, and audited 77 packages in 2s\n\n44 packages are looking for funding\nrun 'npm fund' for details\n\n5 vulnerabilities (1 low, 4 moderate)\nTo address all issues, run:\nnpm audit fix\n\nRun 'npm audit fix' for details.\n[12:27] (DEBUG) Done! (took 2.38973072 s)\n[12:27] (DEBUG) Project prepared at: /home/runner/work/xo-hiring-monorepo/xo-hiring-monorepo\n[12:27] (DEBUG) Running tests for deployment: auth\n[12:27] (DEBUG) Project path accuracy successful\n[12:27] (DEBUG) Preparing deployment: xc_verification\n[12:27] (DEBUG) Preparing deployment: xc_verification\n[12:27] (DEBUG) Installing dependencies @ /home/runner/work/xo-hiring-monorepo/xo-hiring-monorepo\n[12:27] (DEBUG) WARN deprecated har-validator@5.1.5: this library is no longer supported"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in writing code using Visual Studio Code. They are working on a project titled 'xo-hiring-monorepo' with a specific focus on the 'cdk-infra-lib-upgrade' feature. The user is editing multiple files, including 'deploy-env-on-push.yml' and 'package.json'. The 'deploy-env-on-push.yml' file contains YAML code for setting up a deployment workflow triggered by pushes to the main branch. The 'package.json' file includes metadata and scripts for the project. The user is also running terminal commands to execute tasks such as 'prettier:fix-all'.",
+    "The user is reviewing a GitHub Actions log in Google Chrome. They are examining the details of a build process for the 'xo-hiring-monorepo' project. The log shows various steps, including setting up Node.js, installing dependencies, running tests, and preparing deployment packages. The user is likely ensuring that the build process completes successfully and identifying any issues that need to be addressed. The log also includes information about vulnerabilities and suggestions for running 'npm audit fix' to resolve them."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily focused on writing and reviewing code without any visible interaction with AI chat interfaces or other AI tools.",
+  "activities": [
+    "WRITING_CODE",
+    "REVIEWING_CODE"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "IAC"
+  ],
+  "programmingLanguages": [
+    "TYPESCRIPT",
+    "OTHER"
+  ],
+  "toolTypes": [
+    "IDE",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T12:50:17Z",
+      "windowTitle": "Google Chat - Vinodh Talapaneni - Chat",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-14T12:51:17Z",
+      "windowTitle": "xo-hiring-monorepo ? deploy-env-on-push.yml",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-14T12:52:17Z",
+      "windowTitle": "xo-hiring-monorepo ? deploy-env-on-push.yml",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-14T12:53:17Z",
+      "windowTitle": "xo-hiring-monorepo ? deploy-env-on-push.yml",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 8,
+      "mouse": 0,
+      "date": "2024-06-14T12:54:17Z",
+      "windowTitle": "Google Chat - Vinodh Talapaneni - Chat",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T12:55:17Z",
+      "windowTitle": "xo-hiring-monorepo ? deploy-env-on-push.yml",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T12:56:17Z",
+      "windowTitle": "xo-hiring-monorepo ? deploy-env-on-push.yml",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T12:57:17Z",
+      "windowTitle": "xo-hiring-monorepo ? deploy-env-on-push.yml",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 8,
+      "mouse": 4,
+      "date": "2024-06-14T12:58:17Z",
+      "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@852f61b - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9516221108/job/26232052618",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T12:59:17Z",
+      "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@852f61b - Google Chrome",
+      "processName": "github.com",
+      "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9516221108/job/26232052618",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-14T12:50:00Z"
+}

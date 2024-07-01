@@ -1,0 +1,310 @@
+{
+    "candidateId": 1444536,
+    "apps": [
+        "sandbox-admin.crossover.com",
+        "mail.google.com",
+        "Notepad"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T08:31:43Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Chrome, Word, Excel, PowerPoint, OneNote, File Explorer, and Settings. Displays the time as 09:31:44 and date as 14/06/2024. Language set to ENG. Battery indicator visible. Wi-Fi signal visible. Volume control visible. Notification center visible.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "My Pipelines - Crossover - Google Chrome",
+                                "url": "https://sandbox-admin.crossover.com",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "UI includes back and forward buttons, refresh button, home button, URL bar, bookmarks bar, tabs, and settings menu."
+                                },
+                                "content": [
+                                    {
+                                        "title": "My Pipelines",
+                                        "layoutDescription": "Web page layout",
+                                        "visibleText": "My Pipelines - Crossover\n\nCoding Fundamentals\nCoding - Data Structures & Algorithms - Certified - Writing Code - Data Structures & Algorithms - Certified\nFraud Check\n70 mins\n$5.00\nJava Coding Fundamentals\nSkills\n80 mins\n$5.00\nBackend Application Development\nFree Response\n90 mins\n$2.50\n\nService Reliability Engineering\nIaC - Terraform & Ansible\nSkills\n10 mins\n$2.60\nCloud Engineering for AWS\nSkills\n50 mins\n$2.60\nUsing Docker & Kubernetes\nSkills\n30 mins\n$2.60"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T08:35:05Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, File Explorer, Edge, Chrome, Notepad, Command Prompt, and system tray with notifications, sound, network, and clock displaying '09:35:07 14/06/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "https://sandbox-profile.crossover.com - campaignDetails is set in the local storage",
+                                "url": "https://sandbox-profile.crossover.com",
+                                "position": "partially visible behind Notepad window",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "address bar, navigation buttons, tabs, and vertical scrollbar visible"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Web Page Content",
+                                        "layoutDescription": "Standard web layout",
+                                        "visibleText": "https://sandbox-profile.crossover.com - campaignDetails is set in the local storage"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "https://sandbox-profile.crossover.com - campaignDetails is NOT set",
+                                "url": "https://sandbox-profile.crossover.com",
+                                "position": "partially visible behind Notepad window",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "address bar, navigation buttons, tabs, and vertical scrollbar visible"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Web Page Content",
+                                        "layoutDescription": "Standard web layout",
+                                        "visibleText": "https://sandbox-profile.crossover.com - campaignDetails is NOT set"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Notepad",
+                        "windows": [
+                            {
+                                "title": "Notepad",
+                                "position": "center of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "menu bar with File, Edit, View, and Help options; horizontal scrollbar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notepad Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "In my request I asked if the score component in the payload remains and we can rely on it, now I'm looking into the data which we receive on our end and analyzing it to see if it's relevant to us. Below are the URLs where I found the information:\n\nhttps://sandbox-profile.crossover.com - campaignDetails is set in the local storage\n\nhttps://sandbox-profile.crossover.com - campaignDetails is NOT set"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T08:37:23Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Windows Start, Task View, Microsoft Edge, File Explorer, and several other unidentified applications. System tray includes network status, sound volume, date and time display (09:37:25, 14/06/2024), and language setting (ENG). A 'PRE' label is visible, possibly indicating a preview or pre-release software version.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "My Pipelines - Crossover - Google Chrome",
+                                "url": "https://sandbox-admin.crossover.co",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs for JIRA, SF Prod, SF Sandbox, ADFS, My Tasks, Crossover Sprints, Application Step Pipeline, New Tab, and the active tab 'My Pipelines - Crossover'. Address bar visible with URL. Navigation buttons (back, forward, refresh), bookmark bar with several bookmarks, and browser settings button visible."
+                                },
+                                "content": [
+                                    {
+                                        "title": "CROSSOVER",
+                                        "layoutDescription": "content area",
+                                        "visibleText": "CROSSOVER\n\nSETTINGS\nCONTENT WORK\nTASK TIME\nSOURCING\n\nSKILLS ASSESSMENTS PREVIEW\n\nSkills\nFree Response\nUsing Generative AI\nAI Beginner Mind\nWriting Code - Data Structures & Algorithms\nCloud Engineering for AWS\n150 minutes\n180 minutes\n$7.60\n$5.00\n330 minutes total testing Time\n$12.60 cost per E2E applicant\n\nCrossover Skills Catalog\n\nTOTAL / CUMULATIVE\n330 mins total\n-\n-\npass rate\ncost/week\nPsychocognitive\n30 mins\nTechnical\n300 mins"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in managing and reviewing skills assessments on the Crossover platform. They are navigating through various sections of the 'My Pipelines' page, which includes details about different coding and engineering skills assessments such as 'Coding - Data Structures & Algorithms', 'Java Coding Fundamentals', and 'Backend Application Development'. The user is likely involved in setting up or reviewing these assessments, as indicated by the detailed view of the assessment types, durations, costs, and proficiency levels.",
+        "The user is also working with Notepad to document and analyze data related to campaign details on the Crossover platform. They are investigating the presence of campaign details in the local storage and comparing different URLs to understand the data flow and storage mechanisms. This activity suggests a focus on backend or data analysis tasks, as the user is examining the payload and its relevance to their work.",
+        "Throughout the session, the user is primarily using Google Chrome to access the Crossover platform and Notepad for note-taking and analysis. The user is not seen interacting with any AI tools or extensions during this period. The activities are centered around reviewing and managing technical assessments and analyzing backend data, indicating a focus on backend and data-related tasks."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the user's workflow during the captured session. The user is focused on navigating the Crossover platform and analyzing data in Notepad without any visible interaction with AI chat interfaces or AI-driven tools.",
+    "activities": [
+        "READING_SPEC",
+        "EMAIL"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "IAC"
+    ],
+    "programmingLanguages": [
+        "JAVA"
+    ],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DOCUMENT_VIEWER_OR_EDITOR"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "READING_SPEC",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 8,
+            "mouse": 16,
+            "date": "2024-06-14T08:30:23Z",
+            "windowTitle": "My Pipelines - Crossover - Google Chrome",
+            "processName": "sandbox-admin.crossover.com",
+            "visitingUrl": "sandbox-admin.crossover.com/admin/pipeline/01tF3000006EIKEIA4/skills",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 9,
+            "date": "2024-06-14T08:31:23Z",
+            "windowTitle": "My Pipelines - Crossover - Google Chrome",
+            "processName": "sandbox-admin.crossover.com",
+            "visitingUrl": "sandbox-admin.crossover.com/admin/pipeline/01tF3000006EIKEIA4/skills",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 7,
+            "date": "2024-06-14T08:32:23Z",
+            "windowTitle": "[JIRA] (LAMBDA-76078) Acceptance Crossover: Hire tasks 2024-06-13 - dmitrii.shutenkov@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxGRKCxxMDWBncXQlbWbbwpm",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 7,
+            "date": "2024-06-14T08:33:23Z",
+            "windowTitle": "*httpssandbox-profile.crossover.comj - Notepad",
+            "processName": "Notepad",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 7,
+            "date": "2024-06-14T08:34:23Z",
+            "windowTitle": "*httpssandbox-profile.crossover.comj - Notepad",
+            "processName": "Notepad",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 3,
+            "mouse": 2,
+            "date": "2024-06-14T08:35:23Z",
+            "windowTitle": "My Pipelines - Crossover - Google Chrome",
+            "processName": "sandbox-admin.crossover.com",
+            "visitingUrl": "sandbox-admin.crossover.com/admin/pipeline/01tF3000006EIKEIA4/skills",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 3,
+            "date": "2024-06-14T08:36:23Z",
+            "windowTitle": "My Pipelines - Crossover - Google Chrome",
+            "processName": "sandbox-admin.crossover.com",
+            "visitingUrl": "sandbox-admin.crossover.com/admin/pipeline/01tF3000006EIKEIA4/skills",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-14T08:37:23Z",
+            "windowTitle": "My Pipelines - Crossover - Google Chrome",
+            "processName": "sandbox-admin.crossover.com",
+            "visitingUrl": "sandbox-admin.crossover.com/admin/pipeline/01tF3000006EIKEIA4/skills",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T08:38:23Z",
+            "windowTitle": "My Pipelines - Crossover - Google Chrome",
+            "processName": "sandbox-admin.crossover.com",
+            "visitingUrl": "sandbox-admin.crossover.com/admin/pipeline/01tF3000006EIKEIA4/skills",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T08:39:23Z",
+            "windowTitle": "My Pipelines - Crossover - Google Chrome",
+            "processName": "sandbox-admin.crossover.com",
+            "visitingUrl": "sandbox-admin.crossover.com/admin/pipeline/01tF3000006EIKEIA4/skills",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-14T08:30:00Z"
+}

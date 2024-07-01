@@ -1,0 +1,218 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "Zoom",
+        "mail.google.com",
+        "meet.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-11T18:53:55Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. System tray includes network, sound, and battery status icons, as well as the date and time display '12:53 11 Jun 2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "TeachTales Marketing - Chat - Google Chrome",
+                                "url": "mail.google.com/mail/u/0/#chat/dm/",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, and more"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat with Samy Aboel-Nil",
+                                        "layoutDescription": "Chat interface layout",
+                                        "visibleText": "Samy Aboel-Nil\n\nThere is a thumbs up / down button, that you can click to leave feedback. I think sometimes you have to give it a clue that a topic is related to your history. Such as 'Based on my work on Magic Academy...'\n\nUltimately we want the AI to sort this out automatically - it's a known issue (but still helpful to submit your feedback).\n\nFriday, Jun 7\nShawn did join our weekly sync this week (Phil, Shawn, and I)\n\nput time on the calendar for 2pm central, but we can shift it as needed\n\ngood time to chat?\n\nIn a meeting until 4:30 PM\n\nthe situation"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Tasks",
+                        "windows": [
+                            {
+                                "title": "Active Tasks",
+                                "position": "side",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Task list interface with add task button, task categories, and task items"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Active Tasks",
+                                        "layoutDescription": "Task list layout",
+                                        "visibleText": "Active\n\nAdd a task\n\nTablet for Phil's son\nSplit out content gen / prompt engineering\nDo we grow marketing team?\nQ2 progress / Q3 plan Budget meeting\nSamy 1:1 topics\n- App testing as a service\n- Doreen run research study\nWeekly update\nEnter grade (support US grades only)\nPost TeachTap content on TikTok following the unit schedule on the calendar Split by channel per AP course\nhttps://assetstore.unity.com/packages/tools/level-design/terrain-tools-sample-asset-pack-145808\nFollow up with Doreen about beta program and research study\nPublish game for Xbox / PlayStation / Apple vision pro?\n$299 per grade level"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in a chat conversation on Gmail with a colleague named Samy Aboel-Nil. The conversation includes discussions about feedback mechanisms for AI sorting, scheduling a weekly sync meeting, and general chat interactions. The user is also managing tasks using the Google Tasks sidebar, which includes various tasks such as 'Tablet for Phil's son', 'Split out content gen / prompt engineering', and 'Do we grow marketing team?'. The user is seen typing a message in the chat interface, indicating active participation in the conversation.",
+        "The user is utilizing Google Chrome as their primary web browser, with multiple tabs open. The active tab is focused on Gmail, specifically the chat interface. The user is also seen managing tasks in the Google Tasks sidebar, which is integrated into the Gmail interface. The tasks listed include both personal and work-related items, such as 'Q2 progress / Q3 plan Budget meeting', 'Samy 1:1 topics', and 'Weekly update'. The user is actively typing a message in the chat interface, indicating ongoing communication with team members."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in chat conversations and task management within Gmail and Google Tasks. No AI chat interfaces or AI-driven suggestions are visible in the screenshots.",
+    "activities": [
+        "EMAIL",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DOCUMENT_VIEWER_OR_EDITOR"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "CHATTING_WITH_TEAM",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 8,
+            "date": "2024-06-11T18:50:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T18:51:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T18:52:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-11T18:53:47Z",
+            "windowTitle": "TeachTap - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/home",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 176,
+            "mouse": 12,
+            "date": "2024-06-11T18:54:47Z",
+            "windowTitle": "Meet - pca-zhdh-phx - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/pca-zhdh-phx",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 8,
+            "mouse": 5,
+            "date": "2024-06-11T18:55:48Z",
+            "windowTitle": "Meet - pca-zhdh-phx - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/pca-zhdh-phx",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T18:56:48Z",
+            "windowTitle": "Meet - pca-zhdh-phx - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/pca-zhdh-phx",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T18:57:48Z",
+            "windowTitle": "Meet - pca-zhdh-phx - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/pca-zhdh-phx",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T18:58:48Z",
+            "windowTitle": "Meet - pca-zhdh-phx - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/pca-zhdh-phx",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T18:59:48Z",
+            "windowTitle": "Meet - pca-zhdh-phx - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/pca-zhdh-phx",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-11T18:50:00Z"
+}

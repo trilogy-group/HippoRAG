@@ -1,0 +1,254 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "mail.google.com",
+    "docs.google.com",
+    "idea64"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T06:22:05Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, Outlook, OneNote, Word, Excel, PowerPoint, Teams, File Explorer, Adobe Reader, Command Prompt, Settings, and unidentified applications. System tray includes network status, sound volume, date/time, and language indicator.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Kerio Control",
+                "url": "keriovpn.devfactory.local:4080",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "no tabs for tasks, Indeed, and Finish update; address bar; navigation buttons; star button for favorites; profile icon; minimize, maximize, close buttons"
+                },
+                "content": [
+                  {
+                    "title": "Kerio Control",
+                    "layoutDescription": "Centered popup",
+                    "visibleText": "KerioControl\n2-STEP VERIFICATION\nYou are now connected."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T06:26:22Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Visual Studio Code, unknown applications, and system utilities like network, sound, and time display",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "sfdx ? Indeed_CampaignsGenerator",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "pane on the left, editor in the center, terminal at the bottom, and output pane on the right"
+                },
+                "content": [
+                  {
+                    "title": "Explorer Pane",
+                    "layoutDescription": "Vertical list",
+                    "visibleText": "Project 0\n- sfdx\n - .vscode\n - config\n - force-app\n - main\n - default\n - approvalProcesses\n - assignmentRules\n - aura\n - Test\n - classes\n - AlertDetails\n - ApexKitsUS\n - ApplicationAssignmentInterview\n- Commit\n - Shelf\n- ai (LAMBDA-75845): Category jobs support"
+                  },
+                  {
+                    "title": "Editor",
+                    "layoutDescription": "editor with code",
+                    "visibleText": "public class Indeed_CampaignsGenerator {\n private static final Integer BATCH_SIZE = 80;\n private static final String MINE = 'Mine';\n private static final String EXPLORE = 'Explore';\n private Id indeedJobsRecordTypeId = IndeedCampaignsGeneratorUtils.getIndeedRecordType private String product2Id = 'sampleValue';\n private LinkedJobsStats.ItemGenerator itemGenerator;\n private Map<String, Campaigns> campaignsById;\n private IndeedJobPublishing._indeedSetting; // Data redacted\n private Date refreshDate;\n"
+                  },
+                  {
+                    "title": "Terminal",
+                    "layoutDescription": "command line interface",
+                    "visibleText": "SOQL Query 1\nSELECT DeveloperName FROM Country__mdt WHERE IsIndeedAvailable__c = true"
+                  },
+                  {
+                    "title": "Output Pane",
+                    "layoutDescription": "Displays query results",
+                    "visibleText": "Legend\nLocal Only\nServer Only\nSubscribed\nSubscribed by Parent\nUsing cached metadata for connection 'z0-fullshared' from Jun 11, 2024, 7:39:47 PM.\nRetrieve\nRetrieve for Merge\nCancel\n\nm1n1appines\nBrazil\nMexico\nTab TB Tree\nExecuting:\n=============================== DeveloperName FROM Country__mdt WHERE IsIndeedAvailable__c = true\n13 rows returned."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T06:29:05Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Visual Studio Code, Google Chrome, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes network status, sound volume, battery indicator, date and time display (06/12/2024, 11:48 AM).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "Indeed_CampaignsGenerator",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Sidebar with file explorer, bottom bar with Git controls and terminal output"
+                },
+                "content": [
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Main central panel",
+                    "visibleText": "public class Indeed_CampaignsGenerator extends Database.Batchable<SObject>, Database.Stateful, Database.AllowsCallouts, SObjectLocator {\n private static final String NAME = \"Name\";\n private static final String EMPLOYEE = \"Employee\";\n private static final String ITEM_TYPE = \"ItemType\";\n private List<Products2> linkedInProducts;\n private LinkedInSlots.TextGenerator textGenerator;\n private Indeed_CampaignsBatchable campaignBatchable;\n private String campaignId;\n private CampaignUtils campaignUtils;\n private Pipeline, Pipeline_Job_Title__c() titleTypePipeline;\n\n public Indeed_CampaignsGenerator(LinkedInSlots.TextGenerator textGenerator) {\n this.textGenerator = textGenerator;\n this.titleTypePipeline = CampaignsGeneratorUtils.getsAllActivePipelines(); }\n\n public static void run() {\n LinkedInSlots.TextGenerator textGenerator;\n if (test.isRunningTest()) {\n textGenerator = a LinkedInSlots.TextGenerator(SourcingPlatform.INDE } else {\n textGenerator = a LinkedInSlots.TextGenerator();\n }\n Indeed_CampaignsGenerator batchable = a Indeed_CampaignsGenerator(textGenerator);\n return Database.executeBatch(batchable, BATCH_SIZE);\n }\n"
+                  },
+                  {
+                    "title": "Terminal",
+                    "layoutDescription": "Bottom panel",
+                    "visibleText": "Executing: SELECT DeveloperName FROM Country__mdt WHERE IsIndeedAvailable__c = true\n========================================\n1 rows returned."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "At 06:22:05Z, the user was connected to the Kerio Control VPN as indicated by the centered popup message on the Chrome browser. The browser window showed the Kerio Control page with a message confirming the connection. The taskbar at the bottom of the screen displayed icons for various applications including Chrome, Outlook, OneNote, Word, Excel, PowerPoint, Teams, File Explorer, Adobe Reader, Command Prompt, Settings, and other unidentified applications. The system tray included indicators for network status, sound volume, date/time, and language.",
+    "At 06:26:22Z, the user was actively working in Visual Studio Code (VS Code) on a project named 'sfdx'. The VS Code window was in fullscreen mode, showing a vertical list of project files in the Explorer pane on the left, an editor with code in the center, a terminal at the bottom, and an output pane on the right. The user was working on a class named 'Indeed_CampaignsGenerator' and executing a SOQL query in the terminal to select developer names from a specific table. The output pane displayed the results of the query, showing 13 rows returned.",
+    "At 06:29:05Z, the user continued to work in Visual Studio Code on the 'Indeed_CampaignsGenerator' class. The code editor displayed the implementation of the class, which included methods for handling batch processing and text generation. The terminal at the bottom showed the execution of a SOQL query to select developer names from a table, with the results indicating 13 rows returned. The taskbar at the bottom of the screen included icons for Visual Studio Code, Google Chrome, File Explorer, Microsoft Edge, and other unidentified applications. The system tray displayed network status, sound volume, battery indicator, and the date and time (06/12/2024, 11:48 AM)."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user was primarily engaged in writing and executing code in Visual Studio Code, with no visible interactions with AI chat interfaces or other AI tools. The focus was on implementing and testing the 'Indeed_CampaignsGenerator' class and executing SOQL queries to retrieve data.",
+  "activities": [
+    "WRITING_CODE",
+    "NAVIGATING_CODE"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "DB"
+  ],
+  "programmingLanguages": [
+    "SALESFORCE",
+    "SQL"
+  ],
+  "toolTypes": [
+    "IDE",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 6,
+      "date": "2024-06-12T06:23:00Z",
+      "windowTitle": "[JIRA] (LAMBDA-76029) Add new fields to the JobBoardCellAnalytics and enhance calculation - artyom.melnikov@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCzPNcHMtkHFlcgwXNFRRQh",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-12T06:24:00Z",
+      "windowTitle": "Inbox - artyom.melnikov@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 57,
+      "mouse": 8,
+      "date": "2024-06-12T06:25:00Z",
+      "windowTitle": "WS.Eng: Leaderboard - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1oAAVY_WDqnmHgaWBoxU9FOucmFGDxjKe37np5ZOSwI4/edit#gid=83754267",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 125,
+      "mouse": 18,
+      "date": "2024-06-12T06:26:00Z",
+      "windowTitle": "sfdx ? Indeed_CampaignsGenerator",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 24,
+      "mouse": 19,
+      "date": "2024-06-12T06:27:00Z",
+      "windowTitle": "sfdx ? Indeed_CampaignsGenerator",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 2,
+      "mouse": 25,
+      "date": "2024-06-12T06:28:00Z",
+      "windowTitle": "sfdx ? Indeed_CampaignsGenerator",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 30,
+      "date": "2024-06-12T06:29:00Z",
+      "windowTitle": "sfdx ? Indeed_CampaignsGenerator",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-12T06:20:00Z"
+}

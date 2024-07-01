@@ -1,0 +1,215 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "Zoom",
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-11T13:21:32Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Mute, Stop Video, Participants, Chat, Share Screen, Record, Show Captions, Reactions, Apps, Notes, and a Leave button. Also displays the time '07:21' and date '11 Jun 2024' at the bottom right corner.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Zoom Meeting",
+                        "windows": [
+                            {
+                                "title": "Zoom Meeting",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Top bar shows 'Recording' status. Bottom bar includes various control buttons like Mute, Stop Video, Participants, Chat, Share Screen, Record, Show Captions, Reactions, Apps, Notes, and a Leave button."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference Participants",
+                                        "layoutDescription": "Four video feeds displayed in a grid format",
+                                        "visibleText": "Simon Said\nIsaac Squires\nPhil Hewinson\nSamy Aboel-Nil"
+                                    }
+                                ],
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "Simon Said",
+                                            "expression": "thoughtful, hand on chin"
+                                        },
+                                        {
+                                            "name": "Isaac Squires",
+                                            "expression": "neutral, looking directly at the camera"
+                                        },
+                                        {
+                                            "name": "Phil Hewinson",
+                                            "expression": "slightly frowning, looking downwards"
+                                        },
+                                        {
+                                            "name": "Samy Aboel-Nil",
+                                            "expression": "neutral, looking directly at the camera"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Zoom meeting, as evidenced by the screenshot showing a Zoom interface with four participants: Simon Said, Isaac Squires, Phil Hewinson, and Samy Aboel-Nil. The meeting is being recorded, and various control buttons such as Mute, Stop Video, Participants, Chat, Share Screen, Record, Show Captions, Reactions, Apps, Notes, and a Leave button are visible. The participants appear to be in a discussion, with Simon looking thoughtful, Isaac and Samy looking directly at the camera, and Phil looking downwards.",
+        "The user is also active on mail.google.com, as indicated by the list of links visited during the activity. This suggests that the user is checking or managing their emails. However, there is no detailed screenshot available to provide more context on the specific activities performed within the email application."
+    ],
+    "aiUseSummary": "",
+    "activities": [
+        "MEETING",
+        "EMAIL"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T13:20:56Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T13:21:56Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T13:22:56Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T13:23:56Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 5,
+            "date": "2024-06-11T13:24:56Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/0lAS20AAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-11T13:25:56Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T13:26:56Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T13:27:56Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-11T13:28:56Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T13:29:56Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-11T13:20:00Z"
+}

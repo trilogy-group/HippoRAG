@@ -1,0 +1,271 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "docs.google.com",
+        "mail.google.com",
+        "meet.google.com",
+        "passwords.devfactory.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-04T07:03:05Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Chrome, File Explorer, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '10:03 AM 6/24/24'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - usn-vsag-wtn - Google Chrome",
+                                "url": "meet.google.com/usn-vsag-wtn",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, and Google account avatar visible"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Generate Documentation",
+                                        "layoutDescription": "Form layout with input fields and buttons",
+                                        "visibleText": "Generate Documentation\nFill out the form to trigger the documentation generation process.\n\nProduct Name\nintuitive\n\nProduct Context\nCustomer advocacy, community, and engagement platform\n\nNotification Receiver Emails\nrakshit.bhatt@trilogy.com\n\nAuth Token\nadmin\n\nFile Link 1\nhttps://www.youtube.com/watch?v=matchNmggKVYt4\nFile Link 2\nNotion Prompts Root\ntest\n\nGenerate Documentation"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T07:04:08Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Edge, File Explorer, Google Chrome, Notepad++, Visual Studio Code, JetBrains Rider, and system tray with network, sound, and clock icons",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "DevFactory Mail - Google Chrome",
+                                "url": "https://mail.google.com/mail/u/0/#inbox",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, extensions, and settings menu"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email Thread",
+                                        "layoutDescription": "Email thread layout",
+                                        "visibleText": "Commit: TPM: Jive Security. ON TRACK\nCommit: Upgrade 6 components/dependencies to address security vulnerabilities raised by customers adding up to >$7.5M ARR\nDragos Nuta - 3:48 PM, Jun 3 (EEST)\n@ben.new@devfactory.com , I don't think we can call this ON TRACK at 50% progress. I understand your confidence in recovering the gap, but this is not going according to plan.\nBen New - 5:44 PM, Jun 3 (EEST)\nIt's going to plan. 51% was last week, it's 61% now, at 9 weeks from 13 (69%). So we're a little behind on actual progress. But the trajectory is 43% over 4 weeks. There was always a front-loading on this work, where we would make little progress at the start.\n1 reaction (Dragos Nuta)\nDragos Nuta - 8:32 PM, Jun 3 (EEST)\nMarked as resolved\nBen New - 7:25 AM, Jun 4 (EEST) New\nI added something about this to the update, and also changed what I wrote about Jive Anywhere because that is done-done now :-)\nRe-opened\nBen New - 7:25 AM, Jun 4 (EEST) New\nMarked as resolved"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T07:09:45Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, and other unidentified applications. Displays the time as 7:09 AM and date as 6/4/2024. Language setting shown as ENG.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Weekly Delivery Tracker - TPM+Eng - Google Sheets",
+                                "url": "https://docs.google.com/spreadsheets",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help. Toolbar with undo, redo, print, zoom, format options, and other editing tools. Formula bar visible with formula '=countifs(M!mp1!$A:$A, BS2, M!mp1!$F:$F, SA9)'."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Weekly Delivery Tracker - TPM+Eng",
+                                        "layoutDescription": "Spreadsheet layout",
+                                        "visibleText": "Mini Specs Delivered\nCLOUDFIX\nCOPPERTREE\nEDU\nGFI\nIGNITE"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Google Meet session, as evidenced by the screenshot showing the Google Meet interface with a presentation being shared. The presentation appears to be a form for generating documentation, with fields for product name, product context, notification receiver emails, auth token, file links, and notion prompts root. The user is likely discussing or demonstrating the process of generating documentation using this form.",
+        "The user is also actively managing emails in Gmail. The screenshot shows an email thread discussing the progress of a project related to Jive Security. The conversation involves multiple participants, including Dragos Nuta and Ben New, discussing the project's progress, current status, and updates. The user is likely involved in project management or coordination activities, ensuring that the project stays on track and addressing any issues that arise.",
+        "Additionally, the user is working on a Google Sheets document titled 'Weekly Delivery Tracker - TPM+Eng'. The spreadsheet tracks the delivery of mini specs across various projects, with columns for different weeks and rows for different projects. The user is likely involved in tracking project progress, analyzing data, and ensuring that deliverables are met according to the schedule. The formula bar shows a COUNTIFS function, indicating that the user is performing data analysis within the spreadsheet."
+    ],
+    "aiUseSummary": "",
+    "activities": [
+        "MEETING",
+        "EMAIL",
+        "READING_SPEC"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DOCUMENT_VIEWER_OR_EDITOR"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 105,
+            "mouse": 12,
+            "date": "2024-06-04T07:00:07Z",
+            "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 122,
+            "mouse": 11,
+            "date": "2024-06-04T07:01:07Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/ulE4Q0AAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 32,
+            "mouse": 11,
+            "date": "2024-06-04T07:02:07Z",
+            "windowTitle": "Meet - usn-vsag-wtn - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/usn-vsag-wtn?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T07:03:07Z",
+            "windowTitle": "Meet - usn-vsag-wtn - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/usn-vsag-wtn?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 7,
+            "mouse": 12,
+            "date": "2024-06-04T07:04:08Z",
+            "windowTitle": "Factory status Ma... - @ben.new@devfactory.com , I don't thi... - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwngWWhTCLkmQqzMPDjQbFCJJ",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 26,
+            "mouse": 12,
+            "date": "2024-06-04T07:05:08Z",
+            "windowTitle": "Select Group Members - Google Chrome",
+            "processName": "passwords.devfactory.com",
+            "visitingUrl": "passwords.devfactory.com/AdaxesSelfService/SelectGroupMembershipObject.aspx?path=Adaxes%3a%2f%2fdevfactory.local%2fCN%3dRAM-AWS-Prod-CentralProduct-productmind-PowerUser%2cCN%3dUsers%2cDC%3ddevfactory%2cDC%3dlocal&callbackMethod=MembershipInfoControl_Sele",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 20,
+            "mouse": 14,
+            "date": "2024-06-04T07:06:07Z",
+            "windowTitle": "RAM-AWS-Prod-CentralProduct-productmind-PowerUser - Google Chrome",
+            "processName": "passwords.devfactory.com",
+            "visitingUrl": "passwords.devfactory.com/AdaxesSelfService/ViewObject.aspx?path=Adaxes%3a%2f%2fdevfactory.local%2fCN%3dRAM-AWS-Prod-CentralProduct-productmind-PowerUser%2cCN%3dUsers%2cDC%3ddevfactory%2cDC%3dlocal",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 12,
+            "mouse": 14,
+            "date": "2024-06-04T07:07:07Z",
+            "windowTitle": "Proposed new time: Joe / Dragos @ Tue Jun 4, 2024 20:30 - 21:00 (GMT+3) (Dragos Nuta) - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwnfPtNmcLrzZZxmHnbRLclbf",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 68,
+            "mouse": 10,
+            "date": "2024-06-04T07:08:07Z",
+            "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit#heading=h.welo7rg5pk0f",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 18,
+            "mouse": 16,
+            "date": "2024-06-04T07:09:07Z",
+            "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit#heading=h.cjshpcha9g5h",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-04T07:00:00Z"
+}

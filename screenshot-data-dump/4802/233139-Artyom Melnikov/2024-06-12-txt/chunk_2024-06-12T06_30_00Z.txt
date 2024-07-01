@@ -1,0 +1,284 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "idea64",
+        "crossover.lightning.force.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T06:30:15Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '8:23 AM' and date '6/12/2024'. Network, sound, and battery status icons are visible.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "sfdx ? Commit: Opportunity-Admin D....",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Top menu tabs, a sidebar with file explorer, a bottom bar with terminal output, and multiple editor windows"
+                                },
+                                "content": [
+                                    {
+                                        "title": "File Explorer",
+                                        "layoutDescription": "Vertical list",
+                                        "visibleText": "Project\nsfdx\nfeature/LAMBDA-73845"
+                                    },
+                                    {
+                                        "title": "Editor Window",
+                                        "layoutDescription": "Code editor",
+                                        "visibleText": "<layouts>\n<layoutSections"
+                                    },
+                                    {
+                                        "title": "Terminal Output",
+                                        "layoutDescription": "Horizontal layout",
+                                        "visibleText": "ai@LAMBDA-73845): Category Jobs support\n\nCommit and Push..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T06:34:15Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Visual Studio Code, Google Chrome, File Explorer, Microsoft Store, and other unidentified applications. Also includes system status icons like network, sound, and clock displaying '06:34 AM 08/12/24'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "CountStepsNotCompleted",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "sidebar with file explorer, bottom bar with terminal output"
+                                },
+                                "content": [
+                                    {
+                                        "title": "CountStepsNotCompleted editor",
+                                        "layoutDescription": "editor with multiple panels",
+                                        "visibleText": "public class CountStepsNotCompletedService { \n\n public static Outputs count(PagingBy application, String stageName, Integer cacheKeyForGetSteps, Account candidate) {\n hasCatSteps = true;\n\n // Incomplete\n if (asr.ApplicationStage__c == 'BR' || asr.ApplicationStage__c == 'CAT') {\n hasIncompleteRegCatSteps = true;\n }\n\n // Waiting for Grading\n else if (asr.ApplicationStage__c == 'BR' || asr.ApplicationStage__c == 'CAT') {\n hasWaitingForGradingRegCatSteps = true;\n }\n\n // Failed\n else if (asr.ApplicationStage__c == 'BR' || asr.ApplicationStage__c == 'CAT') {\n hasFailedRegCatSteps = true;\n }\n }\n}"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T06:39:38Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Google Chrome, File Explorer, and other unidentified applications. System tray includes network status, sound volume, date and time display (06/12/2024 8:39 AM), and language indicator (ENG).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Abdul hanan - AI-First Software Engineer | Application | Salesforce - Google Chrome",
+                                "url": "https://crossover.lightning.force.com",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, Salesforce navigation bar, and multiple Salesforce sub-tabs"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Application Detail",
+                                        "layoutDescription": "Structured layout with multiple sections",
+                                        "visibleText": "Application Name: Abdul hanan - AI-First Software Engineer\nAdvertised Title: Full Stack Developer\nBrand: Tootgi\nRate: $30.00\nCandidate: Abdul hanan\nProfile Application URL: https://www.crossover.com/application?job=1000009\nHiring Manager: Kevin Norchi\nSpecialist: Crossover Onboarding\nAssigned Recruiter: Crossover No-Reply\nNext Step: Crossover No-Reply\nApply Date: 11/06/2024 16:52\nExpire Date: 25/06/2024\nSource: Indeed\nScoring Platform: Proctor Result\nApplication Step Results: BRQ - AI-First Software Engineer - Tootgi, State: Not Started, Owner Alias: api\nApproval History, Notes, Cases, Opportunity Field History, Files, Pipelines"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in writing and navigating code within the IntelliJ IDEA IDE. The first screenshot shows the user working on a Salesforce project, specifically editing XML layout files related to job board cell analytics and opportunity admin detailed layout. The user is also running SOQL queries to retrieve developer names from various countries, indicating database interaction and data retrieval tasks.",
+        "In the second screenshot, the user continues to work within the IntelliJ IDEA IDE, this time focusing on a Java class named 'CountStepsNotCompletedService'. The code includes logic for handling different application stages such as 'Incomplete', 'Waiting for Grading', and 'Failed'. The user is likely implementing or debugging functionality related to application stage transitions.",
+        "The third screenshot shows the user working in Google Chrome, specifically on a Salesforce application page. The user is viewing details of an application for a position titled 'AI-First Software Engineer'. The page includes various sections such as application details, approval history, notes, cases, and opportunity field history. This indicates that the user is reviewing candidate information and possibly updating or managing application data within Salesforce."
+    ],
+    "aiUseSummary": "There is no visible evidence of AI tools being used in the provided screenshots. The user is primarily engaged in writing and navigating code within the IntelliJ IDEA IDE and reviewing application details in Salesforce. No AI chat interfaces or AI-generated suggestions are visible in the screenshots.",
+    "activities": [
+        "WRITING_CODE",
+        "NAVIGATING_CODE",
+        "READING_SPEC"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "DB"
+    ],
+    "programmingLanguages": [
+        "SALESFORCE",
+        "JAVA",
+        "SQL"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 6,
+            "mouse": 40,
+            "date": "2024-06-12T06:30:00Z",
+            "windowTitle": "sfdx ? Commit: IsBFQ__c.field-meta...",
+            "processName": "idea64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 4,
+            "mouse": 29,
+            "date": "2024-06-12T06:31:00Z",
+            "windowTitle": "sfdx ? Opportunity-Admin Detailed Layout.layout",
+            "processName": "idea64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 35,
+            "mouse": 24,
+            "date": "2024-06-12T06:32:00Z",
+            "windowTitle": "sfdx ? CountStepsNotCompletedService",
+            "processName": "idea64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 49,
+            "mouse": 11,
+            "date": "2024-06-12T06:33:00Z",
+            "windowTitle": "sfdx ? CountStepsNotCompletedService",
+            "processName": "idea64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 38,
+            "mouse": 6,
+            "date": "2024-06-12T06:34:00Z",
+            "windowTitle": "sfdx ? CountStepsNotCompletedService",
+            "processName": "idea64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 19,
+            "mouse": 23,
+            "date": "2024-06-12T06:35:00Z",
+            "windowTitle": "sfdx ? CountStepsNotCompletedService",
+            "processName": "idea64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 22,
+            "date": "2024-06-12T06:36:00Z",
+            "windowTitle": "Lightning Experience | Salesforce - Google Chrome",
+            "processName": "crossover.lightning.force.com",
+            "visitingUrl": "crossover.lightning.force.com/lightning/r/Opportunity/006Ij000002x0obIAA/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 81,
+            "mouse": 3,
+            "date": "2024-06-12T06:37:00Z",
+            "windowTitle": "sfdx ? CountStepsNotCompletedService",
+            "processName": "idea64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 90,
+            "mouse": 4,
+            "date": "2024-06-12T06:38:00Z",
+            "windowTitle": "sfdx ? CountStepsNotCompletedService",
+            "processName": "idea64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 38,
+            "mouse": 15,
+            "date": "2024-06-12T06:39:00Z",
+            "windowTitle": "sfdx ? CountStepsNotCompletedService",
+            "processName": "idea64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-12T06:30:00Z"
+}

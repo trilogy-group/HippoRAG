@@ -1,0 +1,360 @@
+{
+    "candidateId": 2368956,
+    "apps": [
+        "meet.google.com",
+        "docs.google.com",
+        "community.influitive.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-06T17:21:06Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Google Chrome, Microsoft Outlook, and other unidentified applications. Also includes a system clock showing '5:21 PM' and system status icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - vyd-yycg-qsd - Camera and microphone recording",
+                                "url": "https://meet.google.com/vyd-yycg-qsd",
+                                "position": "right",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Video conference window with participant video feeds, chat, and meeting controls"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference",
+                                        "layoutDescription": "Two participant videos displayed",
+                                        "visibleText": "Participant names: Nouman Shah, Samuel Guevara. Nouman Shah appears to be speaking, visible with a neutral expression. Samuel Guevara is listening, visible with a focused expression."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "HubSpot - Dashboard",
+                                "url": "https://app.hubspot.com/dashboard",
+                                "position": "right",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Dashboard with widgets and navigation bar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Dashboard",
+                                        "layoutDescription": "Dashboard layout with navigation on top",
+                                        "visibleText": "Widgets include 'Alerts', 'Tasks to Review', 'Your Progress Goals', and 'Activity Feed'. Alerts section contains multiple notifications about team performance and upcoming tasks. Tasks to Review section shows numbers 16, 23, and 8 for different categories. Your Progress Goals section includes a form with fields for 'Goal Name', 'Goal Description', and 'Goal Type' among others. Activity Feed shows recent updates including 'Met with Samuel Guevara' and 'Completed a challenge: Pumping Champions'."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Unsplash - Photo Searching",
+                                "url": "https://unsplash.com/s/photos",
+                                "position": "left",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Search bar and photo thumbnails"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Photo Searching",
+                                        "layoutDescription": "Grid of photo thumbnails",
+                                        "visibleText": "Search bar at the top with the text 'Search free high-resolution photos'. Below are thumbnails of various photos including landscapes, people, and abstract images. Each thumbnail has a hover text with the photographer's name and download options."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-06T17:26:24Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Contacts, Calendar, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "AdvocateHub + PostBeyond - Onboarding Questions - Google Docs",
+                                "url": "https://docs.google.com/document/d/1",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Docs interface with menu options for File, Edit, View, Insert, Format, Tools, Extensions, Help"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Access Request for New Documents",
+                                        "layoutDescription": "Bulleted list and headings",
+                                        "visibleText": "Access Request for New Documents\n\n1. Go to [URL: https://intranet.companyname.com]\n2. Navigate to the 'Documents' section.\n3. Click on 'New Document Request'.\n4. Fill out the form with the required information:\n - Document Title\n - Department\n - Purpose of the Document\n - Requested By\n - Date Needed\n5. Submit the form and wait for the approval.\n\nQuestions\n\nFAQs\n\n1. How often are new documents requested?\n - Typically, new documents are requested monthly.\n2. What are the common reasons for document requests?\n - New project requirements\n - Regulatory compliance needs\n - Updates to existing documents\n3. What is the typical approval time?\n - Usually, it takes about 2-3 weeks.\n\nFurther Notes\n\n- Ensure all information provided is accurate and thoroughly checked.\n- For urgent requests, please contact [Email: support@companyname.com] directly.\n- Always keep a copy of the submitted form for your records."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Sorry, we can't find the page you're looking for.",
+                                "url": "https://unknown-url.com",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Error message displayed in the center"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Error Page",
+                                        "layoutDescription": "Centered text",
+                                        "visibleText": "Sorry, we can't find the page you're looking for.\n\nPlease make sure you typed the URL correctly, or report your issue to our support team.\n\nGo Back\nContact Support"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Zoom",
+                        "windows": [
+                            {
+                                "title": "Team Meeting",
+                                "position": "bottom half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Meeting interface with options for Mute, Start Video, Participants, Chat, Share Screen, Record, Reactions, More"
+                                },
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "John Doe",
+                                            "expression": "smiling"
+                                        },
+                                        {
+                                            "name": "Jane Doe",
+                                            "expression": "neutral"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Finder",
+                        "windows": []
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-06T17:28:54Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Google Chrome, Microsoft Outlook, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Adobe Acrobat, System Preferences, and other unidentified applications. Also includes a system clock showing '5:29 PM' and a system date 'Wed Jun 6'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Influitive VIP - Google Chrome",
+                                "url": "https://app.influitive.com/",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "multiple tabs, address bar, bookmarks bar, and Chrome control buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Access Request Flow Documents",
+                                        "layoutDescription": "Text document layout",
+                                        "visibleText": "Access Request Flow Documents\n\n1. Go to https://influitive.my.salesforce.com\n2. Log in to your Influitive Salesforce account.\n3. Navigate to the 'Accounts' tab.\n4. Click on the account you wish to access.\n5. Under 'Account Details', click on 'Request Access'.\n6. Fill out the necessary form and submit.\n\nQuestions\nFAQs\n\n1. How often can I access the account?\n2. What are the requirements for access?\n3. How long does it take to process my request?\n\nFurther Info\nFor more detailed information, please contact support@influitive.com or visit our support page at https://support.influitive.com."
+                                    },
+                                    {
+                                        "title": "Set up your challenge",
+                                        "layoutDescription": "Form layout",
+                                        "visibleText": "Set up your challenge\n\nChallenge type: Event\nChallenge name: Influitive Event\nChallenge description: Join us for an exciting Influitive event! Learn about the latest trends and innovations in the industry.\n\nEvent date: June 15, 2024\nEvent location: Virtual\n\nResponse options:\n- Attend\n- Maybe\n- Decline\n\nDo you have any special challenges or interests?\n\nExample:\n- I am interested in learning more about AI.\n- I am interested in the latest tech trends.\n\nCampaign Summary:\nThe goal of this challenge is to promote Influitive's visibility and authority in the industry."
+                                    },
+                                    {
+                                        "title": "Influitive Chat",
+                                        "layoutDescription": "Chat window layout",
+                                        "visibleText": "Influitive Chat\n\nThomas: If you have any questions about the portal, I'm here to help. Just let me know what you need!"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Google Meet video conference, as evidenced by the screenshot showing the meeting interface with participant video feeds, chat, and meeting controls. The participants, Nouman Shah and Samuel Guevara, are visible, with Nouman Shah appearing to be speaking and Samuel Guevara listening attentively. This indicates active participation in a team meeting.",
+        "The user is also working on Google Docs, specifically on a document titled 'AdvocateHub + PostBeyond - Onboarding Questions'. The document contains detailed instructions for accessing new documents, including URLs, steps to navigate the intranet, and form submission guidelines. The user is likely involved in creating or updating onboarding documentation.",
+        "Additionally, the user is interacting with the Influitive community platform. The screenshots show the user navigating through various sections, including setting up challenges and reviewing program goals. This suggests the user is managing or participating in community engagement activities, possibly related to customer advocacy or marketing campaigns.",
+        "The user is seen chatting with a team member, Nouman Shah, on Google Chat. The conversation includes a link to a Google Meet meeting and a discussion about joining the meeting. This indicates coordination and communication with team members, likely for collaborative work or project discussions.",
+        "The user encounters an error page while navigating to an unknown URL. The error message suggests that the page could not be found, and the user is prompted to check the URL or contact support. This indicates the user might be troubleshooting or trying to access a specific resource that is currently unavailable."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in video conferencing, document editing, and community platform interactions without any visible AI assistance or chat interfaces.",
+    "activities": [
+        "MEETING",
+        "READING_SPEC",
+        "WRITING_SPEC",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T17:20:18Z",
+            "windowTitle": " Meet - vyd-yycg-qsd - Camera and microphone recording - Google Chrome\n",
+            "processName": "meet.google.com",
+            "visitingUrl": "https://meet.google.com/vyd-yycg-qsd",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T17:21:18Z",
+            "windowTitle": " Meet - vyd-yycg-qsd - Camera and microphone recording - Google Chrome\n",
+            "processName": "meet.google.com",
+            "visitingUrl": "https://meet.google.com/vyd-yycg-qsd",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T17:22:18Z",
+            "windowTitle": " Meet - vyd-yycg-qsd - Camera and microphone recording - Google Chrome\n",
+            "processName": "meet.google.com",
+            "visitingUrl": "https://meet.google.com/vyd-yycg-qsd",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T17:23:18Z",
+            "windowTitle": " Meet - vyd-yycg-qsd - Camera and microphone recording - Google Chrome\n",
+            "processName": "meet.google.com",
+            "visitingUrl": "https://meet.google.com/vyd-yycg-qsd",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T17:24:18Z",
+            "windowTitle": " Meet - vyd-yycg-qsd - Camera and microphone recording - Google Chrome\n",
+            "processName": "meet.google.com",
+            "visitingUrl": "https://meet.google.com/vyd-yycg-qsd",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 36,
+            "mouse": 7,
+            "date": "2024-06-06T17:25:18Z",
+            "windowTitle": " PB AI Content Generation - Use Cases - Google Docs - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/document/d/1s51PFYvgal07WOwLysRxjvhn-qaFISXJIyzHVL8wEEQ/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 19,
+            "mouse": 4,
+            "date": "2024-06-06T17:26:18Z",
+            "windowTitle": " AdvocateHub + PostBeyond - Onboarding Questions - Google Docs - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/document/d/14HpL51pWjnKuCm7ojr1Rd_2boijHP03yaVp5VHP4So4/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 10,
+            "mouse": 11,
+            "date": "2024-06-06T17:27:18Z",
+            "windowTitle": " Influitive VIP - Google Chrome\n",
+            "processName": "community.influitive.com",
+            "visitingUrl": "https://community.influitive.com/corporate/challenges/new",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 3,
+            "date": "2024-06-06T17:28:18Z",
+            "windowTitle": " Influitive VIP - Google Chrome\n",
+            "processName": "community.influitive.com",
+            "visitingUrl": "https://community.influitive.com/corporate/challenges/new",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 9,
+            "date": "2024-06-06T17:29:18Z",
+            "windowTitle": " Influitive VIP - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/document/d/14HpL51pWjnKuCm7ojr1Rd_2boijHP03yaVp5VHP4So4/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-06T17:20:00Z"
+}

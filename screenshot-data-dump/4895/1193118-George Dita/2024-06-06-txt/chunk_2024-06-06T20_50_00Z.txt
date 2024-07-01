@@ -1,0 +1,352 @@
+{
+    "candidateId": 2368956,
+    "apps": [
+        "docs.google.com",
+        "Poe",
+        "app.crossover.com",
+        "central-supportdesk.zendesk.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-06T20:51:48Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash",
+                        "position": "bottom"
+                    },
+                    {
+                        "elementType": "dock",
+                        "details": "application bar with visible icons for Google Chrome, Slack, and Microsoft Outlook",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": []
+            }
+        },
+        {
+            "capturedAt": "2024-06-06T20:55:42Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Google Chrome, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Outlook, OneNote, Skype, Adobe Reader, System Preferences, Terminal, and Trash",
+                        "position": "bottom"
+                    },
+                    {
+                        "elementType": "dock",
+                        "details": "application bar with various application icons",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Prompt Improvements & Tests - Google Sheets - Google Chrome",
+                                "url": "https://docs.google.com/spreadsheets",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "multiple tabs, address bar, bookmarks bar, and Google account icon"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Sheet 1",
+                                        "layoutDescription": "Spreadsheet layout",
+                                        "visibleText": "Prompt\nThe prompt should be designed to elicit a highly engaged response from users.\n\nBackground\nThe background should provide enough context to understand the motivation behind the prompt.\n\nConstraints\nThe constraints should be clear and concise, ensuring that users stay within the bounds of the desired activity.\n\nCons:\n\nPros:\n\nA note that this is the preliminary version of the testing plan.\n\nComments & Insights section for input."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "T9-Tasks - Project Tracking - Google Sheets - Google Chrome",
+                                "url": "https://docs.google.com/spreadsheets",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "multiple tabs, address bar, bookmarks bar, and Google account icon"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Project Tracking",
+                                        "layoutDescription": "Spreadsheet layout",
+                                        "visibleText": "Task ID | Task Name | Task Owner | Start Date | End Date | Status | Comments\n1 | Validate Excel Reports | John D. | 01/01/2020 | 01/07/2020 | Done | Task completed successfully.\n2 | Update Project Documentation | Emily R. | 01/08/2020 | 01/15/2020 | In Progress | Awaiting review.\n3 | Coordinate with Marketing Team | Alex B. | 01/16/2020 | 01/23/2020 | Pending | Needs more discussion.\n... (and more rows with similar structure)"
+                                    },
+                                    {
+                                        "title": "Comments",
+                                        "layoutDescription": "text area",
+                                        "visibleText": "Please ensure to update the project tracking sheet regularly to reflect the current status of tasks."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Outlook",
+                        "windows": [
+                            {
+                                "title": "Sara Lupton - Recent updates of Azure monitor tool for version 2020.10.01 Database & E-mailing features - Outlook",
+                                "position": "bottom half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "email list, reading pane, and navigation pane"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email from Sara Lupton",
+                                        "layoutDescription": "Email layout",
+                                        "visibleText": "Subject: Recent updates of Azure monitor tool for version 2020.10.01 Database & E-mailing features\n\nDear Team,\n\nI wanted to provide an update about...\n\nBest regards,\nSara Lupton\nsara.lupton@company.com"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Finder",
+                        "windows": []
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-06T20:56:59Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a docked application bar with visible icons for Google Chrome, Slack, and other unidentified applications.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Prompt Improvements & Tests - Google Sheets - Google Chrome",
+                                "url": "https://docs.google.com/spreadsheets",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Toolbar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help. Scroll bars visible on the right and bottom."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Sheet 1",
+                                        "layoutDescription": "Spreadsheet layout",
+                                        "visibleText": "The spreadsheet contains multiple columns labeled A through Z with rows numbered from 1 to 1000. Visible cells contain text such as 'Prompt', 'Category', 'Description', 'Status', 'Owner', 'Due Date', 'Comments'. Specific cell content includes: - Prompt: 'How can we leverage AI to improve user engagement?' - Category: 'User Engagement' - Description: 'Explore potential AI-driven features that could enhance user interaction and retention.' - Status: 'In Progress' - Owner: 'John Doe' - Due Date: '2024-07-01' - Comments: 'Initial brainstorming session scheduled for next week.'"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "T9 Tasks - Project Tracking - Google Sheets - Google Chrome",
+                                "url": "https://docs.google.com/spreadsheets",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Toolbar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help. Scroll bars visible on the right and bottom."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Sheet 1",
+                                        "layoutDescription": "Spreadsheet layout",
+                                        "visibleText": "The spreadsheet contains multiple columns labeled A through Z with rows numbered from 1 to 1000. Visible cells contain text such as 'Task ID', 'Task Name', 'Assigned To', 'Status', 'Priority', 'Start Date', 'Due Date', 'Comments'. Specific cell content includes: - Task ID: '001' - Task Name: 'Website Redesign' - Assigned To: 'Alice Smith' - Status: 'Completed' - Priority: 'High' - Start Date: '2024-01-15' - Due Date: '2024-03-30' - Comments: 'Project completed ahead of schedule, awaiting final review.'"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Slack",
+                        "windows": [
+                            {
+                                "title": "Project Discussions",
+                                "position": "left of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Interface with channels and direct messages list on the left, main chat window on the right."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Project Discussions",
+                                        "layoutDescription": "Chat layout",
+                                        "visibleText": "Visible chat includes messages from 'Social Media Experts' channel. Messages discuss strategies for leveraging social media for large businesses. Specific message content includes: - '10 Pain Points in Social Media Strategy for Large Businesses' - 'These experts are on the forefront of leveraging new tech and platforms, making them valuable resources for bringing software, emerging trends, and other subjects to attention across the business.'"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Finder",
+                        "windows": []
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in managing and updating project-related documents. They are working on two Google Sheets documents: 'Prompt Improvements & Tests' and 'T9 Tasks - Project Tracking'. The 'Prompt Improvements & Tests' sheet includes sections for prompt design, background, constraints, pros, and cons, indicating a structured approach to improving user engagement through AI-driven features. The 'T9 Tasks - Project Tracking' sheet is used for tracking various project tasks, with columns for task ID, task name, task owner, start date, end date, status, and comments. This suggests the user is involved in project management and task tracking activities.",
+        "The user is also utilizing the Poe application, which is an AI-driven tool for generating and refining content. In the screenshots, the user is seen interacting with the 'Social Media Experts' section, where they are likely seeking advice or generating content related to social media strategies. This indicates that the user is leveraging AI tools to enhance their content creation process, particularly for social media.",
+        "Additionally, the user is accessing the Zendesk platform, specifically the 'central-supportdesk.zendesk.com' URL, to manage support tickets. The visible ticket discusses issues related to the recent upgrade of the Azure monitor tool, indicating the user is involved in troubleshooting and resolving technical issues. This activity highlights the user's role in customer support and issue resolution.",
+        "Throughout the captured period, the user is primarily focused on document editing and project management tasks, with occasional use of AI tools for content generation and support ticket management. The combination of these activities suggests a multifaceted role that involves project coordination, content creation, and technical support."
+    ],
+    "aiUseSummary": "The user utilizes AI tools, specifically the Poe application, to generate and refine content related to social media strategies. In the screenshots, the user interacts with the 'Social Media Experts' section, seeking advice and generating content. This indicates the user relies on AI to enhance their content creation process, particularly for social media. The AI tool provides structured advice and content suggestions, which the user can then refine and implement, improving productivity and ensuring high-quality output.",
+    "activities": [
+        "READING_SPEC",
+        "WRITING_SPEC",
+        "RESEARCH",
+        "EMAIL"
+    ],
+    "workTypes": [
+        "UI",
+        "TESTS"
+    ],
+    "programmingLanguages": [
+        "OTHER"
+    ],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "ANTHROPIC_CLAUDE"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "WRITING_SPEC",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-06T20:50:05Z",
+            "windowTitle": " Prompt Improvements & Tests - Google Sheets - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/spreadsheets/d/1WuvnpN2mOTjguQMK5JPOmyddk2kjRN0krUJaruUk7ng/edit#gid=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 4,
+            "mouse": 14,
+            "date": "2024-06-06T20:51:05Z",
+            "windowTitle": "https://docs.google.com/document/d/1lNicY0ZW0UG9ctrq_y6GbDPdR8rYBFOC1SSCfN61tns/edit\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/document/d/1lNicY0ZW0UG9ctrq_y6GbDPdR8rYBFOC1SSCfN61tns/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 4,
+            "mouse": 31,
+            "date": "2024-06-06T20:52:05Z",
+            "windowTitle": " Prompt Improvements & Tests - Google Sheets - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/spreadsheets/d/1WuvnpN2mOTjguQMK5JPOmyddk2kjRN0krUJaruUk7ng/edit#gid=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 28,
+            "date": "2024-06-06T20:53:05Z",
+            "processName": "Poe",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 13,
+            "mouse": 13,
+            "date": "2024-06-06T20:54:05Z",
+            "windowTitle": " WorkSmart - Google Chrome\n",
+            "processName": "app.crossover.com",
+            "visitingUrl": "https://app.crossover.com/x/dashboard/contractor/my-dashboard",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 7,
+            "mouse": 17,
+            "date": "2024-06-06T20:55:05Z",
+            "windowTitle": "https://central-supportdesk.zendesk.com/agent/tickets/4075689\n",
+            "processName": "central-supportdesk.zendesk.com",
+            "visitingUrl": "https://central-supportdesk.zendesk.com/agent/tickets/4075689",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 135,
+            "mouse": 10,
+            "date": "2024-06-06T20:56:05Z",
+            "windowTitle": " Prompt Improvements & Tests - Google Sheets - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/spreadsheets/d/1WuvnpN2mOTjguQMK5JPOmyddk2kjRN0krUJaruUk7ng/edit#gid=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 108,
+            "mouse": 20,
+            "date": "2024-06-06T20:57:05Z",
+            "windowTitle": " Prompt Improvements & Tests - Google Sheets - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/spreadsheets/d/1WuvnpN2mOTjguQMK5JPOmyddk2kjRN0krUJaruUk7ng/edit#gid=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 186,
+            "mouse": 10,
+            "date": "2024-06-06T20:58:05Z",
+            "windowTitle": " Prompt Improvements & Tests - Google Sheets - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/spreadsheets/d/1WuvnpN2mOTjguQMK5JPOmyddk2kjRN0krUJaruUk7ng/edit#gid=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 124,
+            "mouse": 0,
+            "date": "2024-06-06T20:59:05Z",
+            "windowTitle": " Prompt Improvements & Tests - Google Sheets - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/spreadsheets/d/1WuvnpN2mOTjguQMK5JPOmyddk2kjRN0krUJaruUk7ng/edit#gid=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-06T20:50:00Z"
+}

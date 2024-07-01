@@ -1,0 +1,293 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "meet.google.com",
+        "chatgpt.com",
+        "explorer",
+        "calendar.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T15:11:28Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Settings, and hidden icons tray. Also displays the system clock showing '6:11 PM' and date '6/5/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "ChatGPT - Google Chrome",
+                                "url": "chatgpt.com/?oai=dm=1",
+                                "position": "fullscreen",
+                                "uiElements": {
+                                    "details": "UI includes back and forward navigation buttons, refresh button, home button, address bar, bookmarks bar, tabs, profile icon, minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "ChatGPT 4.0",
+                                        "layoutDescription": "Main content area with sidebar and central panel",
+                                        "visibleText": "ChatGPT\nITD Writer\nUser Insight Guide\nThe smartest rubber d...\nCrossover Talent Guide\n... 3 more\nExplore GPTs\nToday\nRevolutionizing Talent Recruitment\nPrevious 7 Days\nUnfit candidate notification\nGemini 1.5 Outperforms Competiti\nRelevant Interview Questions\nPrevious 30 Days\nProduct Issues Summary\nEnhance Copilot Usage Experience\nJob Title Analysis: Optimization\nJob Title Optimization Analysis\nJob Market Shifts\nInvite members\nExplain superconductors\nPick outfit to look good on camera\nContent calendar for TikTok\nMake me a personal webpage"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T15:15:41Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes notifications, language input, sound, and network status icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - qtv-ugaf-ywq - Google Chrome",
+                                "url": "https://meet.google.com/qtv-ugaf-ywq",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, Google account icon, Meet controls"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Weekly Progress Report - TPM-Eng",
+                                        "layoutDescription": "Document open in Google Docs",
+                                        "visibleText": "Weekly Progress Report - TPM-Eng\nFile Edit View Insert Format Tools Extensions Help\n100% Normal text Calibri 10 B I U A\n\nProgress week 22\nRollout plan\nNo changes on the conversion funnel\nOutreach to high ARR Customers as Messenger & Monitor Releases become available\nFollow-up after customers open support tickets for new releases to understand their upgrade plan and system requirements and help them resolve blockers for upgrading (if any)\nKeep track of releases deployed in the test environment (or production)\n\nRollout MIPs\nCustomers prefer to upgrade to versions that have been released as they feel these are more stable.\nRequirements and success criteria for SoftwareAG ($0.5M)\nEscalated issue with licenses to the BU team; Customer can not proceed without the signed documentation\nClarity to SAC that this issue may/will cause large delays, and we need clear requirements + test cases.\nLufthansa base version is 2022 and the fix we provided is on top of 2023. Consequently, they are asking for a fix on their current version.\n\nPlan Week 23\nComplete Lufthansa Certificates Outreach to Customers\nSupport Phone Call for Augmented Success.\nMonitor and keep pushing SoftwareAG to set up Webmethods environment.\nExpand the invitation to be an early adopter to the rest of the customers.\n\nBroadridge - the initial inquiry came from the Application team but the infrastructure team has no plans to upgrade as they still have issues with version 12.0, which they upgraded to in 2022.\nRefinitiv ($1M) - currently upgrading to 12.0.3 (July 2023 version). No plans for the 14 version."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T15:19:04Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, Microsoft Edge, File Explorer, Microsoft Store, Mail, Calendar, Photos, Settings, and pinned applications. System tray includes network, sound, and battery status icons, date/time display, and notifications icon.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - qtv-ugaf-ywq - Google Chrome",
+                                "url": "https://meet.google.com/qtv-ugaf-ywq",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, Google account icon, Google apps icon, and profile icon"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Meet - qtv-ugaf-ywq",
+                                        "layoutDescription": "Video conference layout",
+                                        "visibleText": "Marcelo Skaba (Presenting), George Dita, Marcelo Skaba, Omar Ortiz, Kathy Slowinski, Leonardo Lima, Jozsef Czapovics, Mitchell Horowitz, Dragos Nuta"
+                                    },
+                                    {
+                                        "title": "Video Conference Participants",
+                                        "layoutDescription": "Grid of video feeds",
+                                        "visibleText": "George Dita, Marcelo Skaba, Omar Ortiz, Kathy Slowinski, Leonardo Lima, Jozsef Czapovics, Mitchell Horowitz, Dragos Nuta"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Weekly Progress Report - TPM-Eng",
+                                "url": "https://docs.google.com/document/d/1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "toolbar, sharing settings, document title"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Weekly Progress Report - TPM-Eng",
+                                        "layoutDescription": "Text document layout",
+                                        "visibleText": "To complete this task, the following steps are required: Category, Work Product, Work Units, Quality Work, binaries/keys, deployed in test, deployed in prod, Progress week 22, Rollout plan, Rollout MIPs, Plan Week 23"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user started their session by interacting with ChatGPT on Google Chrome. The visible text indicates that the user was exploring various GPTs and had a specific query about writing a short email to cancel an interview. This suggests that the user was utilizing ChatGPT for assistance in drafting an email, likely for professional or administrative purposes.",
+        "The user then participated in a Google Meet session, as evidenced by the screenshots showing the Google Meet interface with multiple participants. The meeting was focused on reviewing a 'Weekly Progress Report - TPM-Eng' document. The document included details about the progress of various tasks, rollout plans, and issues faced by customers. The user was actively engaged in the meeting, as indicated by the presence of multiple participants and the shared document being discussed.",
+        "During the Google Meet session, the user had the 'Weekly Progress Report - TPM-Eng' document open in Google Docs. The document contained detailed information about the progress of different tasks, customer feedback, and future plans. The user was likely involved in discussing these points with the team, providing updates, and possibly making decisions based on the information presented in the document."
+    ],
+    "aiUseSummary": "The user utilized ChatGPT for drafting a professional email to cancel an interview. The interaction with ChatGPT involved a specific query about writing a short email, indicating that the user was seeking assistance in composing a well-structured and appropriate message. This use of AI highlights the user's reliance on AI tools for improving communication efficiency and ensuring the quality of their written correspondence.",
+    "activities": [
+        "RESEARCH",
+        "MEETING",
+        "READING_SPEC"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DOCUMENT_VIEWER_OR_EDITOR"
+    ],
+    "aiTools": [
+        "OPENAI_CHATGPT"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 132,
+            "mouse": 10,
+            "date": "2024-06-05T15:10:55Z",
+            "windowTitle": "Meet - qtv-ugaf-ywq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/qtv-ugaf-ywq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 235,
+            "mouse": 5,
+            "date": "2024-06-05T15:11:55Z",
+            "windowTitle": "ChatGPT - Google Chrome",
+            "processName": "chatgpt.com",
+            "visitingUrl": "chatgpt.com/?oai-dm=1",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 224,
+            "mouse": 1,
+            "date": "2024-06-05T15:12:55Z",
+            "windowTitle": "ChatGPT - Google Chrome",
+            "processName": "chatgpt.com",
+            "visitingUrl": "chatgpt.com/c/ffdae105-f75c-43f2-add7-35f0702932da",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 187,
+            "mouse": 3,
+            "date": "2024-06-05T15:13:55Z",
+            "windowTitle": "ChatGPT - Google Chrome",
+            "processName": "chatgpt.com",
+            "visitingUrl": "chatgpt.com/c/ffdae105-f75c-43f2-add7-35f0702932da",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 124,
+            "mouse": 10,
+            "date": "2024-06-05T15:14:55Z",
+            "windowTitle": "ChatGPT - Google Chrome",
+            "processName": "chatgpt.com",
+            "visitingUrl": "chatgpt.com/c/ffdae105-f75c-43f2-add7-35f0702932da",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 104,
+            "mouse": 1,
+            "date": "2024-06-05T15:15:55Z",
+            "windowTitle": "Meet - qtv-ugaf-ywq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/qtv-ugaf-ywq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 33,
+            "mouse": 25,
+            "date": "2024-06-05T15:16:55Z",
+            "windowTitle": "Task Switching",
+            "processName": "explorer",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 25,
+            "mouse": 15,
+            "date": "2024-06-05T15:17:55Z",
+            "windowTitle": "DevFactory - Calendar - Week of June 3, 2024 - Google Chrome",
+            "processName": "calendar.google.com",
+            "visitingUrl": "calendar.google.com/calendar/u/0/r",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 36,
+            "mouse": 26,
+            "date": "2024-06-05T15:18:55Z",
+            "windowTitle": "Meet - qtv-ugaf-ywq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/qtv-ugaf-ywq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 6,
+            "mouse": 6,
+            "date": "2024-06-05T15:19:55Z",
+            "windowTitle": "Meet - qtv-ugaf-ywq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/qtv-ugaf-ywq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-05T15:10:00Z"
+}

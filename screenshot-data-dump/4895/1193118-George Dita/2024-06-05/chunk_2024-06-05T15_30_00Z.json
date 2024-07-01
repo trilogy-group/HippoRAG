@@ -1,0 +1,368 @@
+{
+  "candidateId": 2368956,
+  "apps": [
+    "meet.google.com",
+    "Google Chat",
+    "chromewebstore.google.com",
+    "mail.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T15:30:43Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, File Explorer, Adobe Reader, Outlook, Skype, a folder, and other unidentified applications. There is also a Start menu icon, a search bar, a task view button, and system tray with time, date, network status, and other system icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Outlook",
+            "windows": []
+          },
+          {
+            "appName": "Skype",
+            "windows": []
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T15:36:14Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, FaceTime, Messages, Maps, Photos, Calendar, Contacts, Reminders, Notes, TV, Music, Podcasts, News, System Preferences, Microsoft Word, Excel, PowerPoint, Outlook, OneNote, OneDrive, Adobe Creative Cloud, Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Adobe Premiere Pro, Adobe After Effects, Adobe Lightroom, Adobe Acrobat, Terminal, and Trash. Docked at the bottom of the screen.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Meet - stp-shmc-fbc - Camera and microphone recording",
+                "position": "bottom center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "conference window with participant thumbnails, main video area, and control buttons"
+                },
+                "content": [
+                  {
+                    "title": "Video Conference Participants",
+                    "layoutDescription": "Three visible thumbnails, one main video area",
+                    "visibleText": "Participants: 1. [Name visible but not provided] - smiling 2. [Name visible but not provided] - neutral expression 3. [Name visible but not provided] - smiling Main participant area shows a placeholder with the letter 'R'."
+                  }
+                ]
+              },
+              {
+                "title": "Messenger - Chat",
+                "position": "top left",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Chat window with conversation threads and search bar"
+                },
+                "content": [
+                  {
+                    "title": "Chat Conversation",
+                    "layoutDescription": "Chat thread with messages",
+                    "visibleText": "Chat with [Name visible but not..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Word",
+            "windows": [
+              {
+                "title": "Weekly Progress Report - TMS.docx",
+                "position": "top center",
+                "isActive": false,
+                "uiElements": {
+                  "details": "editing window with text and formatting tools"
+                },
+                "content": [
+                  {
+                    "title": "Document Content",
+                    "layoutDescription": "Text document with multiple headings and bullet points",
+                    "visibleText": "Weekly Progress Report - TMS.docx [Full document content visible but not provided]"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Excel",
+            "windows": [
+              {
+                "title": "Excel - Budget.xlsx",
+                "position": "top right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "window with cells and formula bar"
+                },
+                "content": [
+                  {
+                    "title": "Spreadsheet Content",
+                    "layoutDescription": "Spreadsheet with rows and columns",
+                    "visibleText": "Excel - Budget.xlsx [Full spreadsheet content visible but not provided]"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T15:38:44Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, Edge, File Explorer, Mail, Calendar, Store, Photos, Settings, and several other unidentified applications. Notification area includes network, sound, and clock icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Re: Consulting hours - george.dita@trilogy.com - DevFactory Mail",
+                "url": "https://mail.google.com/mail/u/0/#inbox",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Email interface with navigation panel on the left, main content in the center, and settings on the top right"
+                },
+                "content": [
+                  {
+                    "title": "Email Content",
+                    "layoutDescription": "Standard email layout",
+                    "visibleText": "Kelly Small\n\nHi George,\n\nCan you confirm when we can discuss the budget? Is there a specific time? Kelly Small, Executive Assistant, Agile Coach, Scrum Master, kelly.small@trilogy.com\n\nGeorge Dita\n\nHi Kelly,\n\nThanks for reaching out. Are you asking about project budget? We can plan some time after going through KPIs, let me know the changes you need.\n\nVaughn Shepard\n\nHi George,\n\nThanks for responding. I believe Kelly was asking about if there's enough budget left for us to initiate new consulting projects.\n\nAs always, your work and advice are valuable. I believe many teams at KPI Executive Sessions have felt the utility of sessions. Thanks for that.\n\nBest,\nVaughn Shepard, Senior Manager, vaughn.shepard@trilogy.com"
+                  }
+                ]
+              },
+              {
+                "title": "Re: Consulting hours - george.dita@trilogy.com - DevFactory Mail",
+                "url": "https://mail.google.com/mail/u/0/#inbox",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Email interface with navigation panel on the left, main content in the center, and settings on the top right"
+                },
+                "content": [
+                  {
+                    "title": "Email Content",
+                    "layoutDescription": "Standard email layout",
+                    "visibleText": "Kelly Small\n\nHi George,\n\nCan you confirm when we can discuss the budget? Is there a specific time? Kelly Small, Executive Assistant, Agile Coach, Scrum Master, kelly.small@trilogy.com\n\nGeorge Dita\n\nHi Kelly,\n\nThanks for reaching out. Are you asking about project budget? We can plan some time after going through KPIs, let me know the changes you need.\n\nVaughn Shepard\n\nHi George,\n\nThanks for responding. I believe Kelly was asking about if there's enough budget left for us to initiate new consulting projects.\n\nAs always, your work and advice are valuable. I believe many teams at KPI Executive Sessions have felt the utility of sessions. Thanks for that.\n\nBest,\nVaughn Shepard, Senior Manager, vaughn.shepard@trilogy.com"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Excel",
+            "windows": [
+              {
+                "title": "Weekly Progress Report - T9.xlsx",
+                "position": "top right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Excel interface with ribbon on top, sheet tabs at the bottom"
+                },
+                "content": [
+                  {
+                    "title": "Excel Sheet Content",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "TEXT TOO BLURRY"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Teams",
+            "windows": [
+              {
+                "title": "Chat - Microsoft Teams",
+                "position": "top left",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Teams chat interface with sidebar on the left, chat area in the center"
+                },
+                "content": [
+                  {
+                    "title": "Chat Content",
+                    "layoutDescription": "Chat layout",
+                    "visibleText": "TEXT TOO BLURRY"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Google Meet video conference, as evidenced by the screenshots showing the Google Meet interface with multiple participants. The meeting appears to be focused on project updates, as indicated by the shared screen displaying a project timeline and progress chart. The user is actively participating in the meeting, as seen in the participant thumbnails.",
+    "The user is also involved in team communication through Google Chat. Multiple chat windows are open, showing conversations with team members Nichole Moser and Dragos Nouman. The discussions revolve around project updates, task assignments, and feedback on various aspects of the project. The user is actively responding to messages and providing input on the tasks discussed.",
+    "Additionally, the user is reviewing and editing documents in Google Docs. The screenshots show a document titled 'Weekly Progress Report - TMS.docx' with detailed project updates, financial information, and task assignments. The user is likely updating the document based on the discussions in the Google Meet and Google Chat conversations.",
+    "The user is also managing emails through Gmail. One of the screenshots shows an email thread discussing consulting hours and budget planning. The user is coordinating with colleagues to schedule meetings and discuss project budgets, indicating active involvement in project management and coordination tasks."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in video conferencing, team communication, document editing, and email management without any visible interaction with AI tools.",
+  "activities": [
+    "MEETING",
+    "CHATTING_WITH_TEAM",
+    "READING_SPEC",
+    "EMAIL"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T15:30:34Z",
+      "windowTitle": " Meet - qtv-ugaf-ywq - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/qtv-ugaf-ywq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T15:31:34Z",
+      "windowTitle": " Meet - qtv-ugaf-ywq - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/qtv-ugaf-ywq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 184,
+      "mouse": 11,
+      "date": "2024-06-05T15:32:34Z",
+      "windowTitle": " Meet - qtv-ugaf-ywq - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/qtv-ugaf-ywq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 11,
+      "date": "2024-06-05T15:33:34Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 66,
+      "mouse": 6,
+      "date": "2024-06-05T15:34:34Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 86,
+      "mouse": 9,
+      "date": "2024-06-05T15:35:34Z",
+      "windowTitle": " Chrome Web Store - Google Chrome\n",
+      "processName": "chromewebstore.google.com",
+      "visitingUrl": "https://chromewebstore.google.com/",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 4,
+      "mouse": 18,
+      "date": "2024-06-05T15:36:34Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-05T15:37:34Z",
+      "windowTitle": " Meet - stp-shmc-fbc - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/stp-shmc-fbc?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 6,
+      "date": "2024-06-05T15:38:34Z",
+      "windowTitle": " Re: Consulting hours - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQVwngXvqQfWxgxVfpLMqnqdnNt",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-05T15:39:34Z",
+      "windowTitle": " Meet - stp-shmc-fbc - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/stp-shmc-fbc?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T15:30:00Z"
+}

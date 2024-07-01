@@ -1,0 +1,279 @@
+{
+    "candidateId": 1444536,
+    "apps": [
+        "Code",
+        "console.anthropic.com",
+        "docs.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T12:12:56Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, File Explorer, Microsoft Edge, and system tray with network, sound, and date/time indicators",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "test.py - tools - Visual Studio Code",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "menu bar with File, Edit, Selection, View, Go, Run, Terminal, Help; sidebar with Explorer, Search, Source Control, Run, Extensions; status bar with Python environment, line and column indicator, spaces/tabs indicator, encoding, line ending, and language mode"
+                                },
+                                "content": [
+                                    {
+                                        "title": "test.py",
+                                        "layoutDescription": "code editor open",
+                                        "visibleText": "def test1():\n sf_connection = SalesforceConnection(\"dmitrii.shutenkov@trilogy.\", \"TsVQ3VSPej\", \"F3PZUv74KSTsi\")\n res = sf_connection.get_applications(['GA-Cat.*'])\n print(res[:10])\n print(res[-10:])\n\ndef test2():\n with open('config.json') as f:\n config = json.load(f)\n print(config)\n credentials = config['gsheet_credentials']\n sheet = config['campaigns'][0]['sheet']\n print(credentials)\n print(sheet)\n client = authenticate_gspread(credentials)\n print(client.open_by_key(sheet))\n\ntest2()"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T12:16:13Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Windows Timeline, Microsoft Edge, File Explorer, and system tray with network, sound, and date/time indicators",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "test.py - tools - Visual Studio Code",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "UI bar at top, sidebar on left, editor area in center, bottom bar with tabs for PROBLEMS, OUTPUT, DEBUG CONSOLE, TERMINAL, PORTS"
+                                },
+                                "content": [
+                                    {
+                                        "title": "EXPLORER",
+                                        "layoutDescription": "Sidebar on left",
+                                        "visibleText": "OPEN EDITORS\nWelcome\ntest.py campaign-tracking U\ngsheets.py campaign-tracking U\nconfig.json campaign-tracking U\nsalesforce.py campaign-tracking U\nTOOLS\ncampaign_tracking\n__pycache__\nconfig. TASKS"
+                                    },
+                                    {
+                                        "title": "test.py",
+                                        "layoutDescription": "Code editor in center",
+                                        "visibleText": "def test2():\n sheet = client.open_by_key(sheet_id)\n # Select the first worksheet in the sheet\n worksheet = sheet.sheet1\n # Write data to the worksheet\n data = [\n ['Name', 'Age', 'City'],\n ['John', 25, 'New York'],\n ['Alice', 30, 'London'],\n ['Bob', 35, 'Paris']\n ]\n worksheet.update('A1', data)\n\ntest2()"
+                                    },
+                                    {
+                                        "title": "Terminal",
+                                        "layoutDescription": "Command bar area",
+                                        "visibleText": "/serviceaccount.com', 'client_id': '101997431581087936394', 'auth_uri': 'https://accounts.google.com/o/oauth2/auth', 'token_uri': 'https://oauth2.googleapis.com/token', 'auth_provider_x509_cert_url': 'https://www.googleapis.com/oauth2/v1/certs', 'client_x509_cert_url': 'https://www.googleapis.com/robot/v1/metadata/x509', 'universe_domain': 'googleapis.com')\nC:\\Users\\xouser\\Projects\\t DeprecationWarning: [Deprecated][in version 6.0.0]: client_factory will be replaced by gspread_http_client types\nclient = authenticate_gspread(credentials)\nC:\\Users\\xou DeprecationWarning: [Deprecated][in version 6.0.0]: Method signature's arguments 'range_name' and 'values' will change their order. We recommend using named arguments for minimal impact. In addition, the arguments will be mandatory of type: 'List[List]'. (ex) worksheet.update(values = [[]], range_name=)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T12:18:26Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Windows Start, Task View, Microsoft Edge, File Explorer, and system tray with notifications, sound, network, and battery status icons, date and time display",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "test.py - campaign-tracking - Visual Studio Code",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "UI bar with File, Edit, Selection, View, Go, Run, Terminal, Help; sidebar with Explorer, Search, Source Control, Run, Debug, Extensions; status bar with Python environment, line and column indicator, encoding, line ending, language mode"
+                                },
+                                "content": [
+                                    {
+                                        "title": "test.py",
+                                        "layoutDescription": "editor",
+                                        "visibleText": "def test2():\n sheet = client.open('Sales Data').sheet1\n\n # Select the first sheet\n sheet = sheet.get_worksheet(0)\n\n # Write data to the sheet\n data = [\n ['Name', 'Age'],\n ['John', 25],\n ['Alice', 30],\n ['Bob', 35],\n ]\n worksheet.update('A1', data)\n\ntest2()\n\nExamples:\n # Sets 'Hello world' in 'A2' cell\n worksheet.update('A2', 'Hello world')\n # Updates cells A1, B1, C1 with values 42, 43, 44 respectively\n worksheet.update([42, 43, 44])\n # Updates A2 and A3 with values 42 and 43\n # Note that update range can be bigger than values array\n worksheet.update('A2:B4', [[42], [43]])"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in writing Python code within Visual Studio Code. They are working on a script named 'test.py' under a project directory called 'campaign-tracking'. The code involves connecting to a Salesforce instance and retrieving application data. The user is also working with Google Sheets API to authenticate and manipulate spreadsheet data. The script includes functions to open a configuration file, load credentials, and update a Google Sheet with specific data.",
+        "The user continues to refine their Python script, focusing on the 'test2' function. This function is designed to open a Google Sheet by its key, select the first worksheet, and write a set of data to it. The data includes names, ages, and cities. The user is also addressing deprecation warnings related to the gspread library, indicating they are ensuring the code is up-to-date with the latest library versions. The terminal output shows the user is running the script and checking for any issues.",
+        "The user is seen making further adjustments to the 'test2' function in their Python script. They are adding examples and comments to clarify how to update cells in the Google Sheet. The examples include setting a value in a specific cell, updating multiple cells with values, and updating a range of cells. This indicates the user is not only writing functional code but also ensuring it is well-documented and easy to understand for future reference or for other team members."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily focused on writing and debugging Python code within Visual Studio Code. There are no visible interactions with AI chat interfaces or other AI tools for code suggestions, research, or debugging purposes.",
+    "activities": [
+        "WRITING_CODE"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [
+        "PYTHON"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 12,
+            "mouse": 10,
+            "date": "2024-06-14T12:10:24Z",
+            "windowTitle": "? gsheets.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 9,
+            "mouse": 15,
+            "date": "2024-06-14T12:11:24Z",
+            "windowTitle": "Anthropic Console - Google Chrome",
+            "processName": "console.anthropic.com",
+            "visitingUrl": "console.anthropic.com/workbench/3b82aab0-aa46-4782-86b7-5d3a8399df2c",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 42,
+            "mouse": 8,
+            "date": "2024-06-14T12:12:24Z",
+            "windowTitle": "Anthropic Console - Google Chrome",
+            "processName": "console.anthropic.com",
+            "visitingUrl": "console.anthropic.com/workbench/3b82aab0-aa46-4782-86b7-5d3a8399df2c",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 49,
+            "mouse": 6,
+            "date": "2024-06-14T12:13:25Z",
+            "windowTitle": "test.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 26,
+            "mouse": 7,
+            "date": "2024-06-14T12:14:25Z",
+            "windowTitle": "test.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 23,
+            "mouse": 17,
+            "date": "2024-06-14T12:15:24Z",
+            "windowTitle": "? test.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 15,
+            "mouse": 7,
+            "date": "2024-06-14T12:16:24Z",
+            "windowTitle": "Google Ads - Direct - New - Google Sheets - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/spreadsheets/d/18fm1zh67mZKrw0r5BfvZHLg-YezCtHgo5rkqWk9TBEY/edit#gid=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 5,
+            "mouse": 6,
+            "date": "2024-06-14T12:17:24Z",
+            "windowTitle": "? test.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T12:18:24Z",
+            "windowTitle": "? test.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 2,
+            "mouse": 4,
+            "date": "2024-06-14T12:19:24Z",
+            "windowTitle": "? test.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T12:10:00Z"
+}

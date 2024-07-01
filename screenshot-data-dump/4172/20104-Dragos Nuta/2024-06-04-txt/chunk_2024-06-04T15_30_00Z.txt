@@ -1,0 +1,378 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "meet.google.com",
+        "google.com",
+        "explorer",
+        "calendar.google.com",
+        "docs.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-04T15:30:36Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '6:30 PM'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Calendar - Google Calendar",
+                                "url": "https://calendar.google.com/cale",
+                                "position": "left half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Top bar with options for 'Create', 'Search for people', 'More insights'. Navigation arrows and 'Today' button present. Sidebar with 'My calendars' and 'Other calendars' sections"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Calendar",
+                                        "layoutDescription": "Calendar view with multiple events",
+                                        "visibleText": "June 2024, Week 23, CT GMT-03, Home, 5:00 - Rakshit Bha, Dragos - What, CNU 1-week Project, AI Coach Daily Sync, Product Daily Check, May reg XO Check-in, Pre-acquisition Ideas, Generative, Sammy's TP, Crossover, IgniteTech CPM - Central, GFI CE Weekly Call, Vipin Kik and Dragos Nut, Dragos/Sammy, Stratifyd Daily Standup, Joe / Dragos, Isabelle / Dragos, Nouman / Dragos, Junsoo Park and Dragos Nut, Dragos Nuta Trilogy, Birthdays, Dragos Nuta - Aurea, Dragos Nuta - XO, Tasks"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Meet - djt-sgrk-svq - Google Chrome",
+                                "url": "https://meet.google.com/djt-sgrk-s",
+                                "position": "right half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Video conference controls including microphone, camera, and hang up button. Participant list and chat sidebar visible"
+                                },
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "Sam Walpole",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Ben New",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Firat Gomi",
+                                            "expression": "concerned"
+                                        },
+                                        {
+                                            "name": "David Belton",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Leonhard Holz",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Dragos Nuta",
+                                            "expression": "neutral"
+                                        }
+                                    ]
+                                },
+                                "content": [
+                                    {
+                                        "title": "Meet",
+                                        "layoutDescription": "Video conference layout",
+                                        "visibleText": "read.ai meeting notes"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T15:34:23Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Chrome, Edge, Notepad, File Explorer, and other unidentified applications. System tray includes network, sound, and clock (6:34 PM, 6/4/2024)",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - pvi-xucn-nkp - Google Chrome",
+                                "url": "https://meet.google.com/pvi-xucn-nkp",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, Google account avatar, extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Central TPM Office Meeting",
+                                        "layoutDescription": "Video conference layout",
+                                        "visibleText": "Central TPM Office meeting Tuesday, June 4 - 18:00 Weekly on Tuesday Join with Google Meet meet.google.com/pvi-xucn-nkp Read Meeting Report [PDF] This meeting costs $5 per minute Flexible Meeting Options Invite Read Join by phone (Ro) +40 31 227 6570 PIN: 123456 More phone numbers 10 guests 8 yes (7 virtually) 1 no, 1 awaiting 10 minutes before Ben New Going? Yes No Maybe Jungsoo Park and Dragos Nutu Trilogy 23:00, Google Meet (insta"
+                                    },
+                                    {
+                                        "title": "Participants",
+                                        "layoutDescription": "Video call participants layout",
+                                        "visibleText": "David Schwartz Marcelo Skaba Ben New read.ai meeting notes David's AI Notetaker (from Otter.ai)"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Calendar - Google Calendar",
+                                "url": "https://calendar.google.com/calendar",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "navigation buttons, settings, and search bar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Calendar",
+                                        "layoutDescription": "calendar view",
+                                        "visibleText": "June 2024 M T W T F S S 22 27 28 29 30 31 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 New Zealand Time 03:30 Meet with... Search for people Time Insights JUN 3 \u2013 9, 2024 More insights My calendars Dragos Nutu Trilogy Birthdays Dragos Nutu - Aurea Dragos Nutu - XO Tasks Other calendars Central TPM Office meeting Tuesday, June 4 - 18:00 Weekly on Tuesday Join with Google Meet meet.google.com/pvi-xucn-nkp Read Meeting Report [PDF] This meeting costs $5 per minute Flexible Meeting Options Invite Read Join by phone (Ro) +40 31 227 6570 PIN: 123456 More phone numbers 10 guests 8 yes (7 virtually) 1 no, 1 awaiting 10 minutes before Ben New Going? Yes No Maybe Jungsoo Park and Dragos Nutu Trilogy 23:00, Google Meet (insta"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T15:37:06Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Google Chrome, Microsoft Word, Microsoft Excel, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '6:37 PM 6/4/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "AI Feature Adoption Dashboard",
+                                "url": "ai-feature-adoption-dash.s3.amazonaws.com",
+                                "position": "left half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, and bookmarks bar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "AI Feature Adoption Dashboard",
+                                        "layoutDescription": "Two graphs displayed vertically",
+                                        "visibleText": "AI Feature Adoption Dashboard\n\nPer Feature\nPer Product\n\nOutput Tokens (US)\n0 2K 4K 6K\nMay 1-7, 2024 May 8-14, 2024 May 15-21, 2024 May 22-28, 2024 May 29-Jun 4, 2024 Jun 5-11, 2024 Jun 12-18, 2024\ncreated_at (Day)\n\n# of Unique Users by Product by Time\nProduct Id\nJive Cloud\nPostBeyond\n\n0 10 20 30 40\nmidatch"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Meet - pvi-xucn-nkp",
+                                "url": "meet.google.com/pvi-xucn-nkp",
+                                "position": "right half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, and bookmarks bar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Meet - pvi-xucn-nkp",
+                                        "layoutDescription": "Video conference with multiple participants",
+                                        "visibleText": "Meet - pvi-xucn-nkp\n\nDavid Schwartz\nMarcelo Skaba\nBen New\nJoe Conley\nDragos Nutu\nread.ai meeting notes\nDavid's AI Notetaker (from Otter.ai)"
+                                    }
+                                ],
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "David Schwartz",
+                                            "expression": "smiling"
+                                        },
+                                        {
+                                            "name": "Marcelo Skaba",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Ben New",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Joe Conley",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Dragos Nutu",
+                                            "expression": "neutral"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively participating in multiple Google Meet video conferences. The first meeting, titled 'read.ai meeting notes,' includes participants such as Sam Walpole, Ben New, Firat Gomi, David Belton, Leonhard Holz, and Dragos Nuta. The user is also viewing their Google Calendar, which is filled with various events and meetings for the week of June 3-9, 2024. The calendar includes events like 'AI Coach Daily Sync,' 'Product Daily Check,' and 'Stratifyd Daily Standup.'",
+        "In the second screenshot, the user is engaged in another Google Meet video conference titled 'Central TPM Office Meeting.' Participants include David Schwartz, Marcelo Skaba, Ben New, and others. The user is also viewing their Google Calendar, which shows the same events as in the first screenshot. The calendar is organized with color-coded events, making it easy to distinguish between different types of meetings and tasks.",
+        "In the third screenshot, the user is still in the 'Central TPM Office Meeting' on Google Meet. Additionally, the user has a browser tab open displaying the 'AI Feature Adoption Dashboard,' which shows two graphs: 'Output Tokens (US)' and '# of Unique Users by Product by Time.' The graphs provide insights into AI feature adoption over time, with data points spanning from May 1, 2024, to June 18, 2024."
+    ],
+    "aiUseSummary": "The user is utilizing AI tools for note-taking and meeting transcription during their Google Meet video conferences. Specifically, 'read.ai meeting notes' and 'David's AI Notetaker (from Otter.ai)' are visible in the participant list, indicating that the user relies on these AI tools to capture and summarize meeting discussions. This use of AI tools helps the user focus on the meeting content without worrying about manual note-taking, thereby enhancing productivity and ensuring accurate records of the meetings.",
+    "activities": [
+        "MEETING",
+        "MEETING",
+        "MEETING"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "DEVFACTORY_TPM_AI"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 20,
+            "mouse": 5,
+            "date": "2024-06-04T15:30:11Z",
+            "windowTitle": "Meet - djt-sgrk-svq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/djt-sgrk-svq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 3,
+            "mouse": 2,
+            "date": "2024-06-04T15:31:11Z",
+            "windowTitle": "Meet - djt-sgrk-svq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/djt-sgrk-svq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 48,
+            "mouse": 4,
+            "date": "2024-06-04T15:32:11Z",
+            "windowTitle": "?Thibault Bridel-Bertomeu? - ?Google Scholar? - Google Chrome",
+            "processName": "google.com",
+            "visitingUrl": "google.com/search?q=thibault+bridel-bertomeu&oq=thibault+bridel&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIKCAIQABgKGBYYHjINCAMQABiGAxiABBiKBTINCAQQABiGAxiABBiKBTIKCAUQABiABBiiBDIKCAYQABiABBiiBDIKCAcQABiABBiiBKgCALACAA&sourceid=chrome&ie=UTF-8",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 16,
+            "mouse": 13,
+            "date": "2024-06-04T15:33:11Z",
+            "windowTitle": "Task Switching",
+            "processName": "explorer",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 13,
+            "mouse": 9,
+            "date": "2024-06-04T15:34:11Z",
+            "windowTitle": "DevFactory - Calendar - Week of June 3, 2024 - Google Chrome",
+            "processName": "calendar.google.com",
+            "visitingUrl": "calendar.google.com/calendar/u/0/r",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 18,
+            "mouse": 15,
+            "date": "2024-06-04T15:35:11Z",
+            "windowTitle": "TPM - Operationalize AI Adoption - Google Sheets - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/spreadsheets/d/1U7fDI_oR9CjSAGCviFbHmLr7-Hq4G2-g2gLCjtJcVJU/edit#gid=502333273",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 29,
+            "mouse": 11,
+            "date": "2024-06-04T15:36:11Z",
+            "windowTitle": "Meet - pvi-xucn-nkp - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/pvi-xucn-nkp?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 2,
+            "date": "2024-06-04T15:37:11Z",
+            "windowTitle": "Meet - pvi-xucn-nkp - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/pvi-xucn-nkp?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T15:38:11Z",
+            "windowTitle": "Meet - pvi-xucn-nkp - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/pvi-xucn-nkp?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T15:39:11Z",
+            "windowTitle": "Meet - pvi-xucn-nkp - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/pvi-xucn-nkp?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-04T15:30:00Z"
+}

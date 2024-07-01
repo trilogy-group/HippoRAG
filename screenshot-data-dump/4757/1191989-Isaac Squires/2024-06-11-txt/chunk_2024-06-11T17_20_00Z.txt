@@ -1,0 +1,208 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "mail.google.com",
+        "docs.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-11T17:29:16Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Chrome, Outlook, OneNote, File Explorer, Visual Studio, and other unidentified applications. Also includes system clock showing '11:29 AM' and date '11 Jun 2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "TeachTap - Chat - Google Chrome",
+                                "url": "mail.google.com/mail/u/0/#chat/spa",
+                                "position": "unknown",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, and multiple extension icons including Google Account, Google Drive, and others."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Gmail",
+                                        "layoutDescription": "sidebar with icons for Mail, Chat, Meet",
+                                        "visibleText": "Mail\nChat\nMeet"
+                                    },
+                                    {
+                                        "title": "Accounts Chat",
+                                        "layoutDescription": "Chat interface with messages and options",
+                                        "visibleText": "Magic Accounts\n27 members \u00b7 Private\nMerge pull request #352 from trilogy-group/hotfix/PlayerInitialDeathState\nhot to\nWS.Eng Bot App\n5:26 AM\nTuesday (2024-06-11) Daily Status Update\n6 replies 5:26 AM\nMohamed Mortada\nUGS and Authentication on backend platform integration environments\n12 replies 19 min\nInteresting! Thanks! Cool, thanks\nHistory is on"
+                                    },
+                                    {
+                                        "title": "Thread",
+                                        "layoutDescription": "Thread conversation visible",
+                                        "visibleText": "Sergio Tomas Ortiz\n33 min\nif UGS supports a single env then probably the best options are either to not enable UGS on integration runs, or to have 2 UGS setups/accounts/however it works if that's an option to separate prod user data and int user data and avoid a catastrophic issue during development \ud83d\ude42\n1 unread\nMohamed Mortada\nAntoine Cherfane\nThe only issue I see is that when we're connecting to a backend environment that isn't merged to master yet but in this case, during development, I believe we can turn off UGS to prevent issues.\nThat's risky I see that's what we faced in the current PR so I brought it up, if we do this our tests and QC won't resemble the true final code if we're commenting code to dev stuff\nit throws many errors because the UGS module is enabled and systems are failing to download data from cloud save, we can't for sure know then if a task introduces defects or not as we'll have to pick and choose which errors in the QC to ignore"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in a chat conversation on Gmail. The chat is part of a private group named 'Magic Accounts' with 27 members. The conversation includes a discussion about a pull request (#352) related to a hotfix for 'PlayerInitialDeathState'. The user is also involved in a detailed technical discussion about UGS and authentication on backend platform integration environments. The conversation highlights issues faced during development, such as errors in the UGS module and the need to separate production and integration user data to avoid catastrophic issues.",
+        "The user is managing tasks using the task sidebar in Gmail. The tasks listed include 'Split out content gen/prompt engineering', 'Do we grow marketing team?', 'Q2 progress/Q3 plan', 'Samy 1:1 topics', 'Weekly update', 'Enter grade (support US grades only)', 'Post TeachTap content on TikTok following the unit schedule on the calendar', 'Follow up with Doreen about beta program and research study', 'Publish game for Xbox/Playstation/Apple vision pro', and '$299 per grade level'. The user is actively organizing and prioritizing these tasks, indicating a structured approach to project management."
+    ],
+    "aiUseSummary": "",
+    "activities": [
+        "EMAIL",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "CHATTING_WITH_TEAM",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T17:20:47Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAnM2TMLc",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T17:21:47Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAnM2TMLc",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-11T17:22:47Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAnM2TMLc",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 4,
+            "mouse": 5,
+            "date": "2024-06-11T17:23:47Z",
+            "windowTitle": "LearnWith.ai Q3 2024 Budget Update - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1wRJiCDXbFF0pR2cSKCtEeEa5BQWZFem1vLqOqLAI2ic/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 13,
+            "mouse": 9,
+            "date": "2024-06-11T17:24:47Z",
+            "windowTitle": "Rough Priorities Assignment - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1xg25F13M7hSo1NjyQWFsRXGH6Jc_26tyRXI28OdMmpY/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T17:25:47Z",
+            "windowTitle": "Rough Priorities Assignment - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1xg25F13M7hSo1NjyQWFsRXGH6Jc_26tyRXI28OdMmpY/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 3,
+            "date": "2024-06-11T17:26:47Z",
+            "windowTitle": "Rough Priorities Assignment - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1xg25F13M7hSo1NjyQWFsRXGH6Jc_26tyRXI28OdMmpY/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 5,
+            "date": "2024-06-11T17:27:47Z",
+            "windowTitle": "TeachTap - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAnM2TMLc",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-11T17:28:47Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAnM2TMLc",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 80,
+            "mouse": 4,
+            "date": "2024-06-11T17:29:47Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/6hvc7UAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-11T17:20:00Z"
+}

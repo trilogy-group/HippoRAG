@@ -1,0 +1,341 @@
+{
+    "candidateId": 2368956,
+    "apps": [
+        "Google Chat",
+        "chrome:",
+        "app.hubspot.com",
+        "knowledge.hubspot.com",
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T11:42:08Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Safari, Mail, Calendar, Messages, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Google Chrome, Slack, and other unidentified applications. Also includes system status icons like Wi-Fi, battery, clock (11:42 AM), and Spotlight search.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Google Chat",
+                                "position": "left side of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "sidebar, search bar, chat window, message input area"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat with Marcello Sabato",
+                                        "layoutDescription": "Chat layout",
+                                        "visibleText": "Marcello Sabato - I see. I think the issue is a result of a test run on the duplicate. This is not the process we... (text continues)"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Marketing Email",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "list, search bar, email content area"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Marketing Email",
+                                        "layoutDescription": "Email client layout",
+                                        "visibleText": "Some amendments were made requiring modified to be sent from a Mailchimp domain... (text continues)"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "DeskTime - Google Chrome",
+                                "position": "bottom of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "for Dashboard, Projects, Reports, Settings"
+                                },
+                                "content": [
+                                    {
+                                        "title": "DeskTime",
+                                        "layoutDescription": "tracking layout",
+                                        "visibleText": "Time logged 07 hours 20 minutes logged in the week Applications Spotlight on your top applications in the week... (text continues)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T11:44:04Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Reminders, Notes, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a docked application bar with icons for Google Chrome, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Adobe Acrobat Reader, and other unidentified applications.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Google Chat",
+                                "position": "left side of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "interface with contact list on the left, chat window in the center"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat with Muhammad Rizwan",
+                                        "layoutDescription": "Chat layout",
+                                        "visibleText": "Muhammad Rizwan\n\nM\n\nMessage not delivered\n\nToday\n\nHi Rizwan,\n\nI apologize that the PTO request was not approved. I know\n\nyou have plans to visit India and the cancellation of the meeting\n\nwas unexpected. I'll discuss with the team and see if we can\n\naccommodate your request."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T11:48:44Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Contacts, Calendar, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Time Machine, and Trash. Also includes a Spotlight search icon and Notification Center icon.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Facebook",
+                                "url": "https://www.facebook.com",
+                                "position": "left",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Navigation bar with Home, Create, Marketplace, Watch, Groups icons; Notifications, Messenger, and Account icons at top right."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Facebook News Feed",
+                                        "layoutDescription": "Main content area with posts",
+                                        "visibleText": "Create story\nRemember Password\nRemember this password in your settings.\n\nWhat's on your mind, George?\n\nJohn Doe updated his cover photo\nJust now\n\nLike Comment Share\n\nView recent stories\nSee more"
+                                    },
+                                    {
+                                        "title": "Facebook Sidebar",
+                                        "layoutDescription": "Sidebar with options",
+                                        "visibleText": "Group chats\nCreate new group\n\nSoftware Solutions\n\nProducts\n\nMarketing\nSales\nService"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Customer Platform",
+                                "url": "https://www.example.com/pricing",
+                                "position": "right",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Navigation bar with Home, Solutions, Pricing, About Us, Contact Us"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Customer Platform Pricing",
+                                        "layoutDescription": "Pricing options displayed",
+                                        "visibleText": "Customer Platform\n\nEverything you need to manage your customers behind one platform\n\nStarter Customer Platform\n$45/mo\n\nProfessional Customer Platform\n$2355/mo\n\nEnterprise Customer Platform\n$5000/mo\n\nSee More\n\nFeatures\n\nNetworking Hub\nCustomer Relationship Management\nOperations Hub\n\nSee More"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Safari",
+                        "windows": [
+                            {
+                                "title": "Knowledge Base",
+                                "url": "https://knowledge.hubspot.com",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Navigation bar with Home, Help Center, Documentation, Training, Community, Blog"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Connect additional brand domains",
+                                        "layoutDescription": "Article content displayed",
+                                        "visibleText": "Connect additional brand domains\n\nAdd a subdomain with any of the following subdomains, except those marked as restricted by ICANN:\n\nAccounting\n\nThe domain example is abc.co.uk. Use the subdomain and the top level domain, for example, uk.abc.co.uk, when referring to a third domain.\n\nhttps://www.YourWebsite.com\n\nBefore you get started\n\nIf you have a Custom HubSpot Application, you can host up to 3 additional brand domains. Learn more about the application-specific limits in each tab."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in chatting with team members on Google Chat. In the first screenshot, the user is having a conversation with Marcello Sabato, discussing a test run on a duplicate process. The chat window shows a detailed exchange about the issue and potential solutions. This indicates the user is collaborating with team members to resolve a problem.",
+        "In the second screenshot, the user is chatting with Muhammad Rizwan on Google Chat. The conversation revolves around a PTO request that was not approved and the user's plans to visit India. The user is apologizing for the inconvenience and discussing potential accommodations. This shows the user's involvement in team management and addressing team members' concerns.",
+        "The third screenshot shows the user browsing Facebook, viewing posts and updates. This activity is not directly related to work but indicates a brief period of personal browsing. The user is also seen on the HubSpot Customer Platform, reviewing pricing options for different customer platforms. This suggests the user is researching or evaluating different pricing plans for potential use or recommendation.",
+        "Additionally, the user is seen on the HubSpot Knowledge Base, reading an article about connecting additional brand domains. This indicates the user is researching how to add subdomains and manage brand domains, which is relevant to their work with HubSpot."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in chatting with team members, browsing the web, and researching on the HubSpot Knowledge Base. No AI chat interfaces or AI-driven tools are visible in the screenshots.",
+    "activities": [
+        "CHATTING_WITH_TEAM",
+        "RESEARCH"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "CHATTING_WITH_TEAM",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 196,
+            "mouse": 8,
+            "date": "2024-06-05T11:40:23Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 213,
+            "mouse": 15,
+            "date": "2024-06-05T11:41:23Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 199,
+            "mouse": 0,
+            "date": "2024-06-05T11:42:23Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 239,
+            "mouse": 8,
+            "date": "2024-06-05T11:43:23Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 269,
+            "mouse": 1,
+            "date": "2024-06-05T11:44:23Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 161,
+            "mouse": 17,
+            "date": "2024-06-05T11:45:23Z",
+            "windowTitle": "chrome://newtab/\n",
+            "processName": "chrome:",
+            "visitingUrl": "chrome://newtab/",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 33,
+            "mouse": 15,
+            "date": "2024-06-05T11:46:23Z",
+            "windowTitle": "chrome://newtab/\n",
+            "processName": "chrome:",
+            "visitingUrl": "chrome://newtab/",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 8,
+            "mouse": 10,
+            "date": "2024-06-05T11:47:23Z",
+            "windowTitle": " Customer Platform Pricing | HubSpot - Google Chrome\n",
+            "processName": "app.hubspot.com",
+            "visitingUrl": "https://app.hubspot.com/pricing/40828524/suite?term=annual",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 3,
+            "mouse": 7,
+            "date": "2024-06-05T11:48:23Z",
+            "windowTitle": " Connect additional brand domains - Google Chrome\n",
+            "processName": "knowledge.hubspot.com",
+            "visitingUrl": "https://knowledge.hubspot.com/domains-and-urls/connect-additional-brand-domains",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 58,
+            "mouse": 19,
+            "date": "2024-06-05T11:49:23Z",
+            "windowTitle": " Re: Aurea version 2024 - Risk of failing PCI certification: next steps - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQVwnfNxRsmMzWHLmhVcZrZkHpn",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-05T11:40:00Z"
+}

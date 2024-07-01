@@ -1,0 +1,190 @@
+{
+    "candidateId": 2027577,
+    "apps": [
+        "app.hubspot.com",
+        "app.guidde.com",
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T08:32:07Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, File Explorer, Edge, Chrome, and other unidentified applications. System tray includes network, sound, and clock (08:32 AM, 06-14-2024)",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "How does Copilot use your data? - Google Docs",
+                                "url": "https://docs.google.com/document/d/1",
+                                "position": "left side of the screen, maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Document tools (File, Edit, View, Insert, Format, Tools, Extensions, Help), sharing settings, comments, and document status (All changes saved in Drive)."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Document Content",
+                                        "layoutDescription": "Text document layout",
+                                        "visibleText": "1. At Copilot, we understand the importance of keeping your data secure and ensuring no AI is ever being trained on your data.\n2. In short, any data used by Copilot is anonymized and encrypted.\n3. As a Copilot user, you can trust...\n4. Since we are a cloud-based service, all data is securely stored and processed in our secure servers.\n5. The only time we'll ever query your data is when you explicitly ask us to do so.\n6. The only review is manually done by our team of experts.\n7. How do we manage data?\n8. Extra steps for data security include...\n9. It all starts with how we use the data...\n10. Stay ahead with the help of Copilot's advanced security measures.\n11. 12 keywords are used to find all the relevant documents.\n12. Here is an example of how steps 1-11 are implemented in our system:\n13. Copilot filters relevant documents...\n14. Filtered articles are sent to...\n15. Copilot displays the answer to the user."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T08:34:56Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, Edge, File Explorer, and several other unidentified applications. System tray visible with clock showing '8:34 AM', date '6/14/2024', and other system icons including network status, sound volume, and notifications.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Edit Email | Jive CoPilot - Educational Series Part 2 - Google Chrome",
+                                "url": "https://app.guidde.com/playback/",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, and browser controls (minimize, maximize, close)"
+                                },
+                                "content": [
+                                    {
+                                        "title": "How does Copilot use your data?",
+                                        "layoutDescription": "Popup window over webpage",
+                                        "visibleText": "How does Copilot use your data?\n\nPublic\nAnyone with the link can view\n\nSHARE\nSMART COPY\nTRACK\nEXPORT\n\nStart at 00:00:00\n\nEnter email addresses here\n\nCopy link\nCopy\nEmail\nFacebook\nTwitter\nLinkedIn\n\nSHARING\n\nThis video is going to explain how we have handled your data.\n\nGo to openai.com"
+                                    },
+                                    {
+                                        "title": "Jive CoPilot - Educational Series Part 2",
+                                        "layoutDescription": "Main content area of the browser",
+                                        "visibleText": "At CoPilot, we understand the importance of keeping your data private and secure. We handle your data with the utmost care and ensure it is never being trained on or used to train our models.\n\nWatch the video below to learn more about our commitment to keeping your data secure and never being trained on or used to train our models.\n\nHow does Copilot use your data?\n\nQ: Do Jive or CoPilot store our content?\nA: Since you are a Jive Cloud customer, we already store your content in the Cloud and nothing has changed. Unlike other commercial models, CoPilot does not store or analyze your data elsewhere for CoPilot when you aren't using it.\n\nSelect a video or drag and drop videos straight from your desktop.\n\nYou can also check the getting started guide if you'd like to watch our training videos for CoPilot."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in editing and managing content on the Guidde platform. They are working on a video titled 'How does Copilot use your data?' and are seen sharing the video publicly, adjusting sharing settings, and copying the embed code. This indicates a focus on content creation and distribution, likely for educational or marketing purposes.",
+        "Simultaneously, the user is working on an email campaign in HubSpot. They are editing an email titled 'Jive CoPilot - Educational Series Part 2'. The email content includes information about data security and privacy practices of Copilot, suggesting the user is preparing a detailed communication to inform or educate recipients about these topics. The user is seen adjusting the layout and content of the email, ensuring it is well-structured and informative.",
+        "The user is also seen accessing their Gmail inbox, indicating they are managing their emails alongside their other tasks. This multitasking behavior shows the user is handling various aspects of their workflow, from content creation and email marketing to communication management."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily focused on content creation and email marketing tasks without any visible interaction with AI tools for code suggestions, research, or debugging.",
+    "activities": [
+        "READING_SPEC",
+        "WRITING_SPEC",
+        "EMAIL"
+    ],
+    "workTypes": [
+        "UI"
+    ],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DOCUMENT_VIEWER_OR_EDITOR"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_SPEC",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 21,
+            "date": "2024-06-14T08:30:56Z",
+            "windowTitle": " Edit Email | Jive CoPilot - Educational Series Part 2 - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "app.hubspot.com",
+            "visitingUrl": "https://app.hubspot.com/email/4281917/edit/170056143203/preview",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 32,
+            "mouse": 7,
+            "date": "2024-06-14T08:31:56Z",
+            "windowTitle": " My Guides | Guidde - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "app.guidde.com",
+            "visitingUrl": "https://app.guidde.com/my-videos",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 17,
+            "date": "2024-06-14T08:32:56Z",
+            "windowTitle": " Edit Email | Jive CoPilot - Educational Series Part 2 - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "app.hubspot.com",
+            "visitingUrl": "https://app.hubspot.com/email/4281917/edit/170056143203/content",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 3,
+            "mouse": 12,
+            "date": "2024-06-14T08:33:56Z",
+            "windowTitle": " Edit Email | Jive CoPilot - Educational Series Part 2 - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "app.hubspot.com",
+            "visitingUrl": "https://app.hubspot.com/email/4281917/edit/170056143203/content",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 16,
+            "date": "2024-06-14T08:34:56Z",
+            "windowTitle": " Edit Email | Jive CoPilot - Educational Series Part 2 - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "app.hubspot.com",
+            "visitingUrl": "https://app.hubspot.com/email/4281917/edit/170056143203/content",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 4,
+            "mouse": 11,
+            "date": "2024-06-14T08:35:56Z",
+            "windowTitle": " Inbox (4) - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 2.3 GB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T08:30:00Z"
+}

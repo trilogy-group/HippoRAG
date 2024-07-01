@@ -1,0 +1,389 @@
+{
+  "candidateId": 2368956,
+  "apps": [
+    "herman-test.influitive.com",
+    "meet.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-06T17:30:09Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Contacts, Calendar, Notes, Reminders, Photo Booth, Maps, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Time Machine, and Trash. Also includes a Spotlight search icon and Notification Center icon.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Customer Overview - Dashboard",
+                "position": "top left",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Contains tabs, address bar, navigation buttons, and extensions"
+                },
+                "content": [
+                  {
+                    "title": "Customer Overview - Dashboard",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "ID, Name, Date, Code, Product, Quantity, Price, Total, Status\n1, John Doe, 2023-06-01, 00001, T-SHIRT, 5, 20, 100, Shipped\n2, Jane Doe, 2023-06-02, 00002, T-SHIRT, 10, 20, 200, Shipped\n3, Sam Smith, 2023-06-03, 00003, T-SHIRT, 15, 20, 300, Shipped\n4, Lisa Ray, 2023-06-04, 00004, T-SHIRT, 20, 20, 400, Shipped\n5, Tom Hanks, 2023-06-05, 00005, T-SHIRT, 25, 20, 500, Shipped\n6, Jerry Tom, 2023-06-06, 00006, T-SHIRT, 30, 20, 600, Shipped\n7, Mary Jane, 2023-06-07, 00007, T-SHIRT, 35, 20, 700, Shipped\n8, Barry Allen, 2023-06-08, 00008, T-SHIRT, 40, 20, 800, Shipped\n9, Clark Kent, 2023-06-09, 00009, T-SHIRT, 45, 20, 900, Shipped\n10, Bruce Wayne, 2023-06-10, 00010, T-SHIRT, 50, 20, 1000, Shipped"
+                  }
+                ]
+              },
+              {
+                "title": "Oh Darn! We can't find that page.",
+                "position": "top right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Contains tabs, address bar, navigation buttons, and extensions"
+                },
+                "content": [
+                  {
+                    "title": "Oh Darn! We can't find that page.",
+                    "layoutDescription": "Standard error message layout",
+                    "visibleText": "Sorry, we can't find the page you're looking for.\nPlease make sure you typed the URL correctly, or report broken link to your intranet."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Zoom",
+            "windows": [
+              {
+                "title": "Team Meeting",
+                "position": "bottom",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Contains video conference controls"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "John Smith",
+                      "expression": "smiling"
+                    },
+                    {
+                      "name": "Emily White",
+                      "expression": "neutral"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-06T17:36:21Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Excel, Microsoft Word, Adobe Reader, File Explorer, Microsoft Outlook, Skype, Slack, and a system clock showing '5:36 PM'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - vyd-yycg-qsd - Camera and microphone recording",
+                "url": "https://meet.google.com/vyd-yycg-qsd",
+                "position": "right",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Video conference window with participant controls"
+                },
+                "content": [
+                  {
+                    "title": "Video Conference Participants",
+                    "layoutDescription": "Two participants visible",
+                    "visibleText": "Participant 1: Male, wearing glasses, dark hair, serious expression. Participant 2: Male, bald, wearing a beige shirt, sitting in a room with a large window and plants, smiling."
+                  }
+                ]
+              },
+              {
+                "title": "Product Feature Strategy - diagrams.net",
+                "url": "https://app.diagrams.net/",
+                "position": "left",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Diagram editing tools visible"
+                },
+                "content": [
+                  {
+                    "title": "Product Feature Strategy Diagram",
+                    "layoutDescription": "Complex flowchart",
+                    "visibleText": "Shapes Library, Entity Relationship, Create diagram by double-clicking, Entity, Attribute, Weak Entity, Relationship, Identifying Relationship, Disjoint, Overlap, Complete, Partial, Weak, Strong, Key, Normal, Multivalued, Derived, Simple, Composite, Aggregation, Composition, Generalization, Specialization, Union, XOR, OR, AND, NOT, N-ary, Dependency, Association, Note, Image, Container, Frame, Group, Separator, Text, Line, Arrow, Connect, Basic Shapes, Icons, UML, BPMN, Flowchart, Network, AWS 3D, Azure, Cisco, Citrix, IBM, Android, Bootstrap, Material, ERP, SysML, EIP, ArchiMate, Office, Venn, Tables, Mockups, Floorplan, Electrical, Rack, Timeline, Maps, Flags, Clipart, People, Earth, Weather, Music, Finance, Food, Medical, Science, Misc, Basic, Arrow Connector, Line Connector, Generalization Connector, Dependency Connector, Association Connector, Note Connector, Image, Container, Frame, Group, Separator, Text, Line, Arrow, Connect"
+                  }
+                ]
+              },
+              {
+                "title": "Module Lesson Drop Zone - Google Drive",
+                "url": "https://drive.google.com/drive/u/0/",
+                "position": "center",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Google Drive interface with file list"
+                },
+                "content": [
+                  {
+                    "title": "Google Drive File List",
+                    "layoutDescription": "List of files and folders",
+                    "visibleText": "Dependency Item, Course ID, Module ID, Item ID, Item Name, Item Type, Last Access Date, Secondary Item Name, Due Date, Item Status, Item Grade, Item Feedback, Item Notes, Action, Edit, Delete, View, More, Filter, Sort, Export, Import, Refresh, New Folder, New File, Share, Settings, Help, Information, Search, My Drive, Shared with me, Recent, Starred, Trash, Backups, Photos, Computers, Settings"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-06T17:38:13Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Excel, Microsoft Word, File Explorer, Microsoft Outlook, Adobe Reader, Slack, and other unidentified applications. Also includes the system clock showing '5:38 PM' and system tray icons like network, sound, and battery status.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - vyd-yycg-qsd - Camera and microphone recording",
+                "url": "https://meet.google.com/vyd-yycg-qsd",
+                "position": "right",
+                "isActive": true,
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Participant 1",
+                      "expression": "smiling"
+                    },
+                    {
+                      "name": "Participant 2",
+                      "expression": "thinking"
+                    }
+                  ]
+                },
+                "uiElements": {
+                  "details": "Video conference window with participant thumbnails, mute, camera, and settings controls"
+                },
+                "content": [
+                  {
+                    "title": "Meet - vyd-yycg-qsd - Camera and microphone recording",
+                    "layoutDescription": "Video conference layout",
+                    "visibleText": "Meet - vyd-yycg-qsd - Camera and microphone recording"
+                  }
+                ]
+              },
+              {
+                "title": "Product Feature Strategy - diagrams.net",
+                "url": "https://app.diagrams.net/",
+                "position": "left",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Diagram editing tools, shapes library, and canvas"
+                },
+                "content": [
+                  {
+                    "title": "Product Feature Strategy",
+                    "layoutDescription": "Diagram editing interface",
+                    "visibleText": "Shapes Library, Entity Relationship, Create diagram by double-clicking, Standard, Detailed, Entity with attributes, Weak entity, Relationship, Identifying relationship, Attribute, Key attribute, Multivalued attribute, Derived attribute, Weak key, Connection arrows, Generalization, Specialization, Aggregation, Composition, Note, Image, Text, etc."
+                  }
+                ]
+              },
+              {
+                "title": "Multiple Lease Drop View",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "left",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Sheets interface with toolbar and cell grid"
+                },
+                "content": [
+                  {
+                    "title": "Multiple Lease Drop View",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "Opportunity Name, Created Date, Stage, MRR, ARR, High-Level Benefits, Last Reason, Secondary Last Reason, Detail on Last Reason, Account ID, AccountName, AccountOwner, Product Interest, Product Interest Detail, Last Activity, Next Steps, Comments, etc."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Google Meet video conference, as evidenced by the screenshots showing the Google Meet interface with two participants. The meeting appears to be focused on discussing a product feature strategy, as indicated by the diagrams.net window open in the background. The user is actively participating in the meeting, with the video conference controls and participant thumbnails visible.",
+    "The user is also working on a Google Sheets document titled 'Customer Outreach - Profit/Loss'. The spreadsheet contains detailed information about customer interactions, including columns for ID, Name, Date, Code, Product, Quantity, Price, Total, and Status. This suggests that the user is analyzing customer data, possibly for a report or presentation.",
+    "Additionally, the user has a browser window open with an error message stating 'Sorry, we can't find the page you're looking for.' This indicates that the user attempted to access a page on the herman-test.influitive.com site but encountered a 404 error. The user may need to troubleshoot this issue or contact support for assistance.",
+    "In another screenshot, the user is seen working on a complex flowchart in diagrams.net. The flowchart is titled 'Product Feature Strategy' and includes various shapes and connectors, indicating a detailed planning or brainstorming session. The user is likely collaborating with team members to outline the features and structure of a new product.",
+    "Throughout the session, the user is switching between different applications and browser tabs, indicating a multitasking workflow. The presence of multiple tabs and applications suggests that the user is managing several tasks simultaneously, including data analysis, meeting participation, and troubleshooting website issues."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a video conference, working on a Google Sheets document, and creating a flowchart in diagrams.net. No AI chat interfaces or AI-driven tools are visible in the screenshots, indicating that the user is not utilizing AI for code suggestions, research, or debugging during this session.",
+  "activities": [
+    "READING_SPEC",
+    "MEETING"
+  ],
+  "workTypes": [
+    "UI",
+    "DB"
+  ],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "DIAGRAMING_TOOL",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 13,
+      "date": "2024-06-06T17:30:18Z",
+      "windowTitle": " Oh Darn! We can't find that page. - Google Chrome\n",
+      "processName": "herman-test.influitive.com",
+      "visitingUrl": "https://herman-test.influitive.com/sign_in",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T17:31:18Z",
+      "windowTitle": " Oh Darn! We can't find that page. - Google Chrome\n",
+      "processName": "herman-test.influitive.com",
+      "visitingUrl": "https://herman-test.influitive.com/sign_in",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T17:32:18Z",
+      "windowTitle": " Oh Darn! We can't find that page. - Google Chrome\n",
+      "processName": "herman-test.influitive.com",
+      "visitingUrl": "https://herman-test.influitive.com/sign_in",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T17:33:18Z",
+      "windowTitle": " Oh Darn! We can't find that page. - Google Chrome\n",
+      "processName": "herman-test.influitive.com",
+      "visitingUrl": "https://herman-test.influitive.com/sign_in",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-06T17:34:18Z",
+      "windowTitle": " Meet - vyd-yycg-qsd - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/vyd-yycg-qsd",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T17:35:18Z",
+      "windowTitle": " Meet - vyd-yycg-qsd - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/vyd-yycg-qsd",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T17:36:18Z",
+      "windowTitle": " Meet - vyd-yycg-qsd - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/vyd-yycg-qsd",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T17:37:18Z",
+      "windowTitle": " Meet - vyd-yycg-qsd - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/vyd-yycg-qsd",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T17:38:18Z",
+      "windowTitle": " Meet - vyd-yycg-qsd - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/vyd-yycg-qsd",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T17:39:18Z",
+      "windowTitle": " Meet - vyd-yycg-qsd - Camera and microphone recording - Google Chrome\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/vyd-yycg-qsd",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-06T17:30:00Z"
+}

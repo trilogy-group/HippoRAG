@@ -1,0 +1,284 @@
+{
+  "candidateId": 1444536,
+  "apps": [
+    "docs.google.com",
+    "Code",
+    "fastapi.tiangolo.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T15:12:37Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, File Explorer, Outlook, and other unidentified applications. Also includes system tray with clock showing '16:12','ENG' language indicator, and network status icon.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Google Ads - Direct - New - Google Sheets - Google Chrome",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs for SF Prod, SF Sandbox, ADFS, My Tasks, Crossover Sprints, Create Task, Technical Debt - Crossover, Guides - Crossover, WS.Eng TPO: Leadership, Task Catalog. Address bar, bookmarks bar, Google account icon, minimize, maximize, close buttons"
+                },
+                "content": [
+                  {
+                    "title": "Google Ads - Direct - New",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "# Account ID Application ID Campaign Advertised Title Date Country Outcome Stage Last Active CCAT S 183 182 001j000003lamdIAC 006j000002wqieIAA GA-Cat.AI.SWDEIndia.pmaxINDIA AI-First Full-Stack Developer 2024-06-10 in Unknown Canceled CCAT 1255 1254 001j000003JDWlAO 006j000002xB3lAE GA-Cat.AI.SWDEpmaxBNG..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T15:15:04Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, Widgets, and system tray with notifications, sound, network, and date/time display",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "test.py - tools - Visual Studio Code",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "UI bar at top, sidebar on left, editor in center, terminal at bottom"
+                },
+                "content": [
+                  {
+                    "title": "EXPLORER",
+                    "layoutDescription": "list",
+                    "visibleText": "OPEN EDITORS\n1 unsaved\nWelcome\ntest.py campaign-tracking\nrequirements.txt campaign-tracking\nlambda_function.py campaign-tracking\ngsheets.py campaign-tracking\nconfig.json campaign-tracking\nDockerfile campaign-tracking\nsalesforce.py campaign-tracking\nTOOLS\ncampaign-tracking\n> .pycache_\n> venv\ncampaign_tracking_package.zip\nconfig.json"
+                  },
+                  {
+                    "title": "EDITOR",
+                    "layoutDescription": "editor",
+                    "visibleText": "def classifyApplication(application) -> str:\n if application['Last_Active_Stage__c'] == 'CCAT'):\n if (application['StageName'] == 'CCAT'): return 'BFQ pass'\n if (application['StageName'] == 'Rejected'): return 'CCAT fail'\n if application['Last_Active_Stage__c'] == 'BFQ'):\n if (application['StageName'] == 'BFQ'): return 'Applied'\n if (application['StageName'] == 'Rejected'): return 'BFQ fail'\n return 'Unknown'\n\ndef test3():\n with open('config.json') as f:\n event = json.load(f)\n lambda_handler(event, None)\n\ntest3()"
+                  },
+                  {
+                    "title": "TERMINAL",
+                    "layoutDescription": "command line interface",
+                    "visibleText": "PS C:\\Users\\xouser\\Projects\\tools\\campaign-tracking\nFound 2000 records\nFound 2526 records"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T15:17:48Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Outlook, File Explorer, Microsoft Teams, and other unidentified applications. Also includes system clock showing '16:17:50' and date '14/06/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Google Ads - Direct - New - Google Sheets - Google Chrome",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs for SF Prod, SF Sandbox, ADFS, My Tasks, Crossover Sprints, Create Task, Technical Debt - Crossover, Guides - Crossover, WS.Eng TPO: Leadership, Task Catalog. Address bar, navigation buttons, Google account access, profile icon, and extensions visible."
+                },
+                "content": [
+                  {
+                    "title": "Sheet1",
+                    "layoutDescription": "spreadsheet layout",
+                    "visibleText": "U6\n7.46%\n66.67%\n33.33%\nTotal\nCOUNTA of Out\nCOUNTA of Out\nCOUNTA of Out\nCOUNTA of Out\nCOUNTA of Out\nCOUNTA of Out\nCOUNTA of Out\nCOUNTA of Out\n66.67%\n53.85%\n74.84%\n76.91%\n25.00%\n73.23%"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in multiple tasks. Initially, they are working on a Google Sheets document titled 'Google Ads - Direct - New'. The spreadsheet contains various columns such as Account ID, Application ID, Campaign, Advertised Title, Date, Country, Outcome, Stage, and Last Active. The user is likely analyzing or updating data related to different campaigns, as indicated by the visible text in the spreadsheet.",
+    "The user then switches to Visual Studio Code, where they are working on a Python project named 'campaign-tracking'. The open files include 'test.py', 'requirements.txt', 'lambda_function.py', 'gsheets.py', 'config.json', 'Dockerfile', and 'salesforce.py'. The user is writing and testing Python code, specifically a function named 'classifyApplication' that classifies applications based on their stage names and last active stages. The terminal output shows that the user is running tests and retrieving records from a database.",
+    "The user returns to the Google Sheets document, this time focusing on a different sheet named 'Pivot Table 1'. The visible text includes various percentages and counts, indicating that the user is analyzing data related to campaign performance across different regions. The user is likely using pivot tables to summarize and interpret the data, which helps in making informed decisions about the campaigns."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in manual tasks such as updating spreadsheets and writing Python code. There are no visible AI chat interfaces or AI-generated suggestions in the IDE or other applications. Therefore, it can be concluded that the user is not utilizing AI tools in their workflow during this time period.",
+  "activities": [
+    "WRITING_CODE",
+    "READING_SPEC"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "DB"
+  ],
+  "programmingLanguages": [
+    "PYTHON"
+  ],
+  "toolTypes": [
+    "IDE",
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 14,
+      "date": "2024-06-14T15:10:26Z",
+      "windowTitle": "Google Ads - Direct - New - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/18fm1zh67mZKrw0r5BfvZHLg-YezCtHgo5rkqWk9TBEY/edit#gid=976649687",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 11,
+      "date": "2024-06-14T15:11:26Z",
+      "windowTitle": "Google Ads - Direct - New - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/18fm1zh67mZKrw0r5BfvZHLg-YezCtHgo5rkqWk9TBEY/edit#gid=976649687",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 16,
+      "date": "2024-06-14T15:12:26Z",
+      "windowTitle": "Google Ads - Direct - New - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/18fm1zh67mZKrw0r5BfvZHLg-YezCtHgo5rkqWk9TBEY/edit#gid=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 17,
+      "mouse": 9,
+      "date": "2024-06-14T15:13:25Z",
+      "windowTitle": "campaign.ts - master-assistant - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 55,
+      "mouse": 18,
+      "date": "2024-06-14T15:14:25Z",
+      "windowTitle": "? lambda_function.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 4,
+      "mouse": 5,
+      "date": "2024-06-14T15:15:25Z",
+      "windowTitle": "test.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 4,
+      "mouse": 8,
+      "date": "2024-06-14T15:16:26Z",
+      "windowTitle": "Google Ads - Direct - New - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/18fm1zh67mZKrw0r5BfvZHLg-YezCtHgo5rkqWk9TBEY/edit#gid=976649687",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 4,
+      "date": "2024-06-14T15:17:26Z",
+      "windowTitle": "Google Ads - Direct - New - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/18fm1zh67mZKrw0r5BfvZHLg-YezCtHgo5rkqWk9TBEY/edit#gid=976649687",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 7,
+      "date": "2024-06-14T15:18:26Z",
+      "windowTitle": "Google Ads - Direct - New - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/18fm1zh67mZKrw0r5BfvZHLg-YezCtHgo5rkqWk9TBEY/edit#gid=976649687",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-14T15:19:26Z",
+      "windowTitle": "Python Types Intro - FastAPI - Google Chrome",
+      "processName": "fastapi.tiangolo.com",
+      "visitingUrl": "fastapi.tiangolo.com/python-types/#:~:text=Python%20has%20support%20for%20optional,can%20give%20you%20better%20support.",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-14T15:10:00Z"
+}

@@ -1,0 +1,354 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "docs.google.com",
+        "meet.google.com",
+        "calendar.google.com",
+        "explorer"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-04T15:00:19Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes network, sound, and battery status icons, as well as the date and time display '6/4/2024 6:00 PM'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Weekly Progress Report - TPM+Eng - Google Docs",
+                                "url": "https://docs.google.com/document/d/1",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with options for File, Edit, View, Insert, Format, Tools, Extensions, Help. Toolbar with undo, redo, print, spelling and grammar check, zoom level, text formatting options, and more."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Weekly Progress Report - TPM+Eng",
+                                        "layoutDescription": "Structured document layout",
+                                        "visibleText": "Outline\nBusiness Goal Progress Scorecard...\nWeek 22-2024\nIgniteTech\n- Slot #1\n- Slot #2\nMaintenance\nJigsaw\n- Slot #1\nWeek 21-2024\nIgniteTech\n- Slot #1\n- Slot #2\nMaintenance\nJigsaw\n- Slot #1\nAI - Agents\n- Slot #1\nInfluitive\nStratifyd\n- Slot #1 - Import\nGEI\nMetrics/KPIs\nFunnel\nSegment 1 (Initial Interest)\nSegment 2 (Compliance concerns)\nSegment 3 (All other customers)\nCustomers in segment\n9\n9\n66\nReached\n9\n7\n66\n- Interested\n6\n2\n6\n- Declined\n1\n1\n1\nEnabled Copilot\n5\n1\n1\nActively using\n1\n0\n1\nJive Cloud CoPilot - Outreach tracker\nTotal Enabled Companies: 7\nReasons for decline:\n2 Due to Company\u2019s AI Policy\n1 Due to Company not renewing (they complained about renewal process)\nAdoption\nTotal Usage (conversations)\nMarch 2024\n105\nApril 2024\n2288\nMay 2024\n1573\nUp Votes (%)\n83.33\n31.96\n44.23\nDown Votes (%)\n16.67\n68.04\n55.77\nCustomers are not enabling Copilot on their own.\nProposal: does the BU approve enabling it for all other customers who did not specifically ask us to disable it last time?\nFollow up on email trackers. Sending follow-up emails to clients. Mass E-mail Strategy"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T15:05:54Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, File Explorer, and other unidentified applications. Also includes system clock showing '6:05 PM' and date '6/4/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Prod2 Mini Spec - IgniteTech:Jive HOP - Fix Jive security - MS12 - Execute Spring and Spring Security upgrade - Google Docs",
+                                "url": "https://docs.google.com/document/d/1",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "with options for File, Edit, View, Insert, Format, Tools, Extensions, Help, Share button, Zoom controls, and document status 'Editing'"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Prod2 Mini Spec",
+                                        "layoutDescription": "Text document layout",
+                                        "visibleText": "Prod2 Mini Spec\nIgniteTech:Jive HOP\n\nFix Jive security - MS12 - Execute Spring and Spring Security upgrade\n\nSummary\n\nScope\nProblem Summary\nApproach & Insights\nFacts and Analysis\nImportant User Stories\nRequirements\nImportant Scope Exclusions\nP2 Feedback\nFollow-up Recommendations...\nSolution Architecture\nCore Approach\nSSD 1 - Use a single ...\nITD 2 - Perform comp...\nITD 3 - Upgrade a sing...\nEngineering Guidance\nEngineering Execution"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Meet - dtg-srgk-svq",
+                                "url": "https://meet.google.com/dtg-",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "conference UI with participant grid, mute, camera, and settings controls"
+                                },
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "Czapovics",
+                                            "expression": "appears tired or sleeping"
+                                        },
+                                        {
+                                            "name": "Eric Vaughan",
+                                            "expression": "serious"
+                                        },
+                                        {
+                                            "name": "Thibaul Bridel-Bertomeu",
+                                            "expression": "frustrated"
+                                        },
+                                        {
+                                            "name": "New",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Firat Gomleksizoglu",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "D Belton",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Leonhard Holz",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Dragos Nut\u0103",
+                                            "expression": "neutral"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T15:07:22Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Microsoft Edge, Windows, Chrome, Mail, and other unidentified applications. System tray includes network, sound, and battery status icons, as well as the date and time display '6/4/2024 6:07 PM'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Prod2 Mini Spec - IgniteTech:Jive Copilot - Refine Copilot - MS2 - Better Responses - Google Docs",
+                                "url": "https://docs.google.com/document/d/1",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help. Toolbar with undo, redo, print, spelling and grammar check, document status (Saved), zoom level (125%), and other editing tools. Scroll bars present."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Solution Architecture",
+                                        "layoutDescription": "Text and diagrams",
+                                        "visibleText": "Solution Architecture\n\nDiagram\nThis diagram shows how the product will look after the change.\n\nBefore\n[Diagram showing the process flow from 'Jive Cloud User' request to 'Determine References']\n\nAfter\n[Diagram showing the updated process flow incorporating 'OpenAI' for generating responses and including steps like 'Extract Searches', 'Search & Extract Content', and 'Generate Response']\n\nLink to LucidChart"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Video Call",
+                        "windows": [
+                            {
+                                "title": "Video Call - Google Meet",
+                                "url": "",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Video call interface with participant controls, mute, camera, and end call buttons."
+                                },
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "Eric Vaughan",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Firat Gomi",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Dragos Nutu",
+                                            "expression": "neutral"
+                                        }
+                                    ]
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Call Participants",
+                                        "layoutDescription": "Video frames",
+                                        "visibleText": "Eric Vaughan\nFirat Gomi\nDragos Nutu"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in reading and editing documents on Google Docs. The first screenshot shows the user viewing a 'Weekly Progress Report - TPM+Eng' document. The document includes various sections such as Business Goal Progress Scorecard, Metrics/KPIs, and Adoption statistics. The user is likely analyzing the progress and performance metrics for different segments and customers, as well as reviewing the reasons for decline and adoption rates for the Jive Cloud CoPilot.",
+        "In the second screenshot, the user is participating in a Google Meet video conference while simultaneously viewing a 'Prod2 Mini Spec - IgniteTech:Jive HOP' document on Google Docs. The document outlines the scope, problem summary, approach, and requirements for fixing Jive security and executing a Spring and Spring Security upgrade. The user is likely discussing the details of this document with the meeting participants, who appear to be colleagues or stakeholders.",
+        "The third screenshot shows the user continuing the video conference while viewing another document titled 'Prod2 Mini Spec - IgniteTech:Jive Copilot - Refine Copilot - MS2 - Better Responses' on Google Docs. This document includes a solution architecture diagram that illustrates the process flow before and after incorporating OpenAI for generating responses. The user is likely discussing the technical details and improvements in the Copilot's response generation with the meeting participants."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in reading and editing documents on Google Docs and participating in a Google Meet video conference. There are no visible interactions with AI chat interfaces or AI-driven tools in the screenshots.",
+    "activities": [
+        "READING_SPEC",
+        "MEETING"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "READING_SPEC",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 24,
+            "mouse": 13,
+            "date": "2024-06-04T15:00:11Z",
+            "windowTitle": "Weekly Progress Report - TPM+Eng - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1ZpDZFhxlCdiHNCBofrePLV4fzgVUfIH3de4corNiNt0/edit#heading=h.4avz2vqrgs3a",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 4,
+            "mouse": 10,
+            "date": "2024-06-04T15:01:10Z",
+            "windowTitle": "Prod2 Mini Spec - IgniteTech:Jive Copilot - Refine Copilot - MS1 - AI Analytics - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1euh03xKQM7mOI7Sb-NSFR0cI7vF9xmK4RXOofIf3mlk/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 12,
+            "mouse": 19,
+            "date": "2024-06-04T15:02:10Z",
+            "windowTitle": "Meet - djt-sgrk-svq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/djt-sgrk-svq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 35,
+            "mouse": 18,
+            "date": "2024-06-04T15:03:10Z",
+            "windowTitle": "Meet - djt-sgrk-svq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/djt-sgrk-svq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 95,
+            "mouse": 15,
+            "date": "2024-06-04T15:04:11Z",
+            "windowTitle": "DevFactory - Calendar - Week of June 3, 2024 - Google Chrome",
+            "processName": "calendar.google.com",
+            "visitingUrl": "calendar.google.com/calendar/u/0/r",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 7,
+            "mouse": 11,
+            "date": "2024-06-04T15:05:11Z",
+            "windowTitle": "",
+            "processName": "explorer",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 18,
+            "date": "2024-06-04T15:06:11Z",
+            "windowTitle": "Untitled - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/spreadsheets/d/1gpx1RHXZPfqbpeyZwvMioOJ4o-liMp6B2ayxy4eysVM/edit#gid=646311066",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 13,
+            "date": "2024-06-04T15:07:11Z",
+            "windowTitle": "Prod2 Mini Spec - IgniteTech:Jive Copilot - Refine Copilot - MS2 - Better Responses - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1R8GYrigUEvU7kpR2W5E1I4_rfIqlwElR4nFZ3cPW2_Q/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 9,
+            "date": "2024-06-04T15:08:11Z",
+            "windowTitle": "Prod2 Mini Spec - IgniteTech:Jive Copilot - Refine Copilot - MS2 - Better Responses - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1R8GYrigUEvU7kpR2W5E1I4_rfIqlwElR4nFZ3cPW2_Q/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 7,
+            "date": "2024-06-04T15:09:11Z",
+            "windowTitle": "Weekly Progress Report - TPM+Eng - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1ZpDZFhxlCdiHNCBofrePLV4fzgVUfIH3de4corNiNt0/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-04T15:00:00Z"
+}

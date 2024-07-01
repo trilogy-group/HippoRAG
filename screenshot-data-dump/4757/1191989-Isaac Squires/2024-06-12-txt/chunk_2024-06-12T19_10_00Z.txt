@@ -1,0 +1,199 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "meet.google.com",
+        "docs.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T19:18:26Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Minimize, Core, CoachBot, DevFactory, Meet, Week!, Budget, New Tab, and additional unidentified icons. Also includes system clock showing '13:18', system date '12 Jun 2024', and system status icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - wyj-rdjj-kan - Google Chrome",
+                                "url": "meet.google.com/wyj-rdjj-kan",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Navigation buttons, address bar, and Google account icon visible"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Meet Video Conference",
+                                        "layoutDescription": "Grid layout of video feeds",
+                                        "visibleText": "David Schwartz, Dragos_Nuta, Vaibhav Patel, Robert Egglestone, read.ai meeting notes, David's AI Notetaker (from Otter.ai), Vaibhav's OtterPilot, Samy Aboel-Nil, Isaac Squires, 1:18 PM, XO Kanban Weekly Demo"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Google Meet video conference, as evidenced by the screenshot showing the Google Meet interface with multiple participants. The meeting is titled 'XO Kanban Weekly Demo' and includes participants such as David Schwartz, Dragos Nuta, Vaibhav Patel, Robert Egglestone, and others. The meeting appears to be in progress at 1:18 PM, with various participants either speaking or listening.",
+        "The user has multiple browser tabs open, including 'Core', 'CoachBot', 'DevFactory', 'Meet', 'Week!', 'Budget', and a 'New Tab'. This indicates that the user is likely multitasking or preparing for different activities related to their work. The presence of these tabs suggests that the user is involved in various tasks that may require switching between different applications and resources.",
+        "The user is also active on Google Docs, as indicated by the list of links visited during the activity. The specific document being edited is accessible via the link 'docs.google.com/document/d/1xg25F13M7hSo1NjyQWFsRXGH6Jc_26tyRXI28OdMmpY/edit'. This suggests that the user is either reading or writing specifications, meeting notes, or other documentation relevant to their tasks."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots or data. The user is primarily engaged in a Google Meet video conference and working on a Google Docs document. There are no visible interactions with AI tools such as AI_IDE_EXTENSION, ChatGPT, or other AI assistants during the captured timeframe.",
+    "activities": [
+        "MEETING",
+        "READING_SPEC",
+        "WRITING_SPEC"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DOCUMENT_VIEWER_OR_EDITOR"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T19:10:54Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 79,
+            "mouse": 11,
+            "date": "2024-06-12T19:11:54Z",
+            "windowTitle": "Rough Priorities Assignment - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1xg25F13M7hSo1NjyQWFsRXGH6Jc_26tyRXI28OdMmpY/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 69,
+            "mouse": 6,
+            "date": "2024-06-12T19:12:54Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 20,
+            "mouse": 7,
+            "date": "2024-06-12T19:13:54Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T19:14:54Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 12,
+            "mouse": 6,
+            "date": "2024-06-12T19:15:54Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T19:16:54Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T19:17:54Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 20,
+            "date": "2024-06-12T19:18:54Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T19:19:54Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-12T19:10:00Z"
+}

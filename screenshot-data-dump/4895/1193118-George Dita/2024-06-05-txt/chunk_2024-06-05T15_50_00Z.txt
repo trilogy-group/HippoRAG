@@ -1,0 +1,319 @@
+{
+    "candidateId": 2368956,
+    "apps": [
+        "docs.google.com",
+        "meet.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T15:51:52Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Chat - Nicole Moser",
+                                "url": "https://chat.google.com/room/abc123",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "interface with user list, search bar, chat area, and message input box"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat",
+                                        "layoutDescription": "user list and chat layout",
+                                        "visibleText": "Nicole Moser: I just realized that our table was not in the process of being filtered out. https://docs.google.com/spreadsheets/d/1A2B3C4D5E"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T15:53:23Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, FaceTime, Messages, Maps, Photos, Calendar, Contacts, Reminders, Notes, TV, Music, Podcasts, News, System Preferences, Adobe Creative Cloud, Microsoft Word, Excel, PowerPoint, Outlook, OneNote, OneDrive, Teams, Visual Studio Code, Terminal, Settings, Trash. Docked at the bottom of the screen.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - stp-shmc-fbc - Camera and microphone recording",
+                                "position": "bottom right quadrant",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Video conference window with participant thumbnails, main video area, and control bar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference Participants",
+                                        "layoutDescription": "Grid layout",
+                                        "visibleText": "Names visible: Daniel, Chris, Raul. Expressions: Daniel is smiling, Chris is neutral, Raul is neutral."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Weekly Progress Report - TMS.docx",
+                                "position": "top right quadrant",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Editing window with text and formatting tools"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Document Content",
+                                        "layoutDescription": "Text-heavy layout",
+                                        "visibleText": "Weekly Progress Report - TMS.docx\n\n1. Introduction\n2. Team Member Updates\n3. Project Progress\n4. Issues and Resolutions\n5. Next Steps\n6. Appendix\n\nDetailed sections include lists of tasks, team member names, project milestones, and status updates."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Chat",
+                                "position": "left half",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Chat interface with contact list and conversation pane"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat with Nichole Moser",
+                                        "layoutDescription": "Split layout",
+                                        "visibleText": "Nichole Moser: I just realized that we might have a problem of timing (delayed start)\n\nhttps://docs.google.com/spreadsheets/d/"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Finder",
+                        "windows": []
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T15:59:13Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Outlook, Slack, and other unidentified applications",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Customer Outreach - AdvocateHub - Google Sheets",
+                                "url": "https://docs.google.com/spreadsheets/d/1",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, and Google Sheets toolbar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Customer Outreach - AdvocateHub",
+                                        "layoutDescription": "Spreadsheet layout",
+                                        "visibleText": "Sheet 1\nA B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n1 Name Job Title Company Email Phone Number LinkedIn Profile Outreach Date Notes Status\n2 John Doe Senior Analyst ABC Corp. johndoe@abccorp.com 555-1234 www.linkedin.com/in/johndoe 06/05/2024 Initial contact; awaiting response. Red\n3 Jane Smith Director XYZ Inc. janesmith@xyzinc.com 555-5678 www.linkedin.com/in/janesmith 06/05/2024 Follow-up scheduled. Yellow\n... (additional rows with similar data structure)"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Chat - Nicole Moser",
+                                "url": "https://chat.google.com/room/ABCDE1",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "chat interface with message input box, attachments, and settings"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat",
+                                        "layoutDescription": "chat interface",
+                                        "visibleText": "Nicole Moser\nHi, I just noticed that your table was published in the process of being edited.\nhttps://docs.google.com/spreadsheets/d/1 there a date when the data copy would go live? Not clear in the doc itself (from Nicole)\n\nI'm assuming you've checked the product? Are you engaging these respondents? (from Nicole)\n\nI'm running with it NOW (from user)\n\nI've attached a bug report where I had to briefly hand it through usability tests (from user)\n\n... (additional chat messages)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in a Google Meet video conference, as evidenced by the screenshots showing a meeting with three participants. The meeting appears to be focused on discussing project updates or tasks, as indicated by the presence of a document titled 'Weekly Progress Report - TMS.docx' in the background. The user is likely participating in the meeting while also referencing the document for relevant information.",
+        "The user is also involved in chatting with a team member, Nichole Moser, via Google Chat. The conversation includes sharing links to Google Sheets documents and discussing issues related to data filtering and timing. This indicates that the user is collaborating with team members to resolve data-related issues and ensure accurate information is being shared.",
+        "The user is working on multiple Google Sheets documents, including 'Customer Outreach - AdvocateHub' and another spreadsheet related to customer upgrade paths. The user is likely updating or reviewing data in these spreadsheets, as indicated by the visible rows and columns of customer information, job titles, and outreach statuses. This suggests that the user is managing customer outreach and tracking progress in these tasks.",
+        "The user is reading and possibly editing a document titled 'Weekly Progress Report - TMS.docx' in Google Docs. The document includes sections on team member updates, project progress, issues and resolutions, and next steps. This indicates that the user is involved in project management and is responsible for documenting and tracking the progress of various tasks and milestones."
+    ],
+    "aiUseSummary": "",
+    "activities": [
+        "READING_SPEC",
+        "CHATTING_WITH_TEAM",
+        "MEETING"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 11,
+            "date": "2024-06-05T15:50:34Z",
+            "windowTitle": " Influtive Losses Deep Dive - Google Sheets - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/spreadsheets/d/13Nxi61xKUhh2ehwPg5w2LwPGX1jED_WjDM803n6Zyk4/edit#gid=1881519802",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 14,
+            "date": "2024-06-05T15:51:34Z",
+            "windowTitle": " Meet - stp-shmc-fbc - Camera and microphone recording - Google Chrome\n",
+            "processName": "meet.google.com",
+            "visitingUrl": "https://meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T15:52:35Z",
+            "windowTitle": " Meet - stp-shmc-fbc - Camera and microphone recording - Google Chrome\n",
+            "processName": "meet.google.com",
+            "visitingUrl": "https://meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T15:53:35Z",
+            "windowTitle": " Meet - stp-shmc-fbc - Camera and microphone recording - Google Chrome\n",
+            "processName": "meet.google.com",
+            "visitingUrl": "https://meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 71,
+            "mouse": 4,
+            "date": "2024-06-05T15:54:35Z",
+            "windowTitle": " Customer Outreach - AdvocateHub - Google Sheets - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/spreadsheets/d/1VuvNhyD3EuthmTN7aWAnuQAgYgTaGRQMyrmooe2Kr2g/edit#gid=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 37,
+            "mouse": 9,
+            "date": "2024-06-05T15:55:35Z",
+            "windowTitle": " Customer Outreach - AdvocateHub - Google Sheets - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/spreadsheets/d/1VuvNhyD3EuthmTN7aWAnuQAgYgTaGRQMyrmooe2Kr2g/edit#gid=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T15:56:35Z",
+            "windowTitle": " Customer Outreach - AdvocateHub - Google Sheets - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/spreadsheets/d/1VuvNhyD3EuthmTN7aWAnuQAgYgTaGRQMyrmooe2Kr2g/edit#gid=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T15:57:35Z",
+            "windowTitle": " Customer Outreach - AdvocateHub - Google Sheets - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/spreadsheets/d/1VuvNhyD3EuthmTN7aWAnuQAgYgTaGRQMyrmooe2Kr2g/edit#gid=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T15:58:35Z",
+            "windowTitle": " Customer Outreach - AdvocateHub - Google Sheets - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/spreadsheets/d/1VuvNhyD3EuthmTN7aWAnuQAgYgTaGRQMyrmooe2Kr2g/edit#gid=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T15:59:35Z",
+            "windowTitle": " Customer Outreach - AdvocateHub - Google Sheets - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/spreadsheets/d/1VuvNhyD3EuthmTN7aWAnuQAgYgTaGRQMyrmooe2Kr2g/edit#gid=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-05T15:50:00Z"
+}

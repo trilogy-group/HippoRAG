@@ -1,0 +1,334 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "meet.google.com",
+        "chrome",
+        "appcast.io"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-04T19:42:54Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Chrome, DevFactory, Calendar, AWS, Ads Manager, Google Chat, Messages, and more. Also shows system icons like Wi-Fi, sound, battery, and clock displaying '10:42 PM'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - qrz-rpvr-qjr - Google Chrome",
+                                "url": "meet.google.com/qrz-rpvr-qjr",
+                                "position": "half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "call interface with controls for microphone, camera, captions, present now, more options, and hang up. Participants list and chat sidebar visible."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Call Participants",
+                                        "layoutDescription": "Video call layout",
+                                        "visibleText": "Isabelle Advierto, Dragos Nuta"
+                                    },
+                                    {
+                                        "title": "Bookmarks",
+                                        "layoutDescription": "on left",
+                                        "visibleText": "Bookmarks bar, Cohorts, Read, Stuff, Assembly Lines, Guides, Info, LI, XO Process, XO WSPro, Google Jobs, Open tabs July 2022, New folder, SEO, Org, AI Coach, Sourcing 2024, Platforms. Your profile is managed by devfactory.com"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T19:45:32Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for 'Your Phone', 'analytics', 'impact-on-hires', 'Sheet4', 'contract', and a search bar. Also includes system time '10:45 PM', system date '6/4/2024', and language setting 'ENG'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "LinkedIn Renewal 2024",
+                                "url": "https://docs.google.com/spreadsheets",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs for 'analytics', 'impact-on-hires', 'Sheet4', 'contract'"
+                                },
+                                "content": [
+                                    {
+                                        "title": "LinkedIn Renewal 2024",
+                                        "layoutDescription": "Spreadsheet layout",
+                                        "visibleText": "Plan Slots Cost Cost/slot Projected flow CpA Cost per BFQ Passer Cost per BFQ Taker Cost per CCAT Passer (CPOA) Cost per CCAT Taker (inflated by badge reuse) Now 3,480 $1,600,000 $460 80,000 $0.38 $1.2 $2.5 $16.5 $55.1 Early renewal 3,788 $2,300,000 $607 85,000 $0.52 $1.7 $3.4 $22.4 $74.6 Late renewal 3,788 $2,600,000 $686 85,000 $0.59 $1.9 $3.8 $23.3 $84.3 Reduce to 75% 2,610 $2,000,000 $766 75,000 $0.52 $1.7 $3.4 $22.5 $74.9 Reduce to 50% 1,740 $1,600,000 $920 64,000 $0.48 $1.6 $3.1 $20.7 $68.9 Reduce to 25% 870 $930,000 $1,069 40,000 $0.45 $1.4 $2.9 $19.2 $64.1 Cost per slot chart showing blue bars for 'Slots' and red line for 'Cost/slot' with values at specific points: $460, $607, $683, $766, $920, $1,069"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Meet - qrz-rpvr-qjr",
+                                "url": "https://meet.google.com/qrz-rpvr-qjr",
+                                "position": "maximized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "call interface with controls for microphone, camera, and settings"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Meet - qrz-rpvr-qjr",
+                                        "layoutDescription": "Video call layout",
+                                        "visibleText": "Isabelle Adviento Dragos Nuta read.ai meeting notes"
+                                    }
+                                ],
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "Isabelle Adviento",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Dragos Nuta",
+                                            "expression": "concerned"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Your Phone",
+                        "windows": []
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T19:48:15Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Microsoft Edge, File Explorer, Google Chrome, Microsoft Store, and other unidentified applications. Also shows the system tray with network, sound, and battery status icons, as well as the date and time '6/4/2024 10:48 PM'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - qrz-rpvr-qjr - Google Chrome",
+                                "url": "https://meet.google.com/qrz-rpvr-qjr",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "Isabelle Advierto",
+                                            "expression": "speaking"
+                                        },
+                                        {
+                                            "name": "Drago Nutu",
+                                            "expression": "looking down"
+                                        }
+                                    ]
+                                },
+                                "uiElements": {
+                                    "details": "Video call interface with controls for microphone, camera, captions, and more"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Call",
+                                        "layoutDescription": "Two participants visible",
+                                        "visibleText": "Isabelle Advierto, Dragos Nutu, read.ai meeting notes, read.ai meeting notes"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "ALPAPT - Jira | Atlassian - Google Chrome",
+                                "url": "https://devgraph.at.atlassian.net/",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Project management interface with various task cards"
+                                },
+                                "content": [
+                                    {
+                                        "title": "ALPAPT Project Board",
+                                        "layoutDescription": "List of tasks and issues",
+                                        "visibleText": "Projects, ALPAPT, Finance, View all projects, INPUT QC: 3, GT School - LogRocket, Credit Card payment for yearly subscription to Wix.com, MOO Business Cards for CRO - Rory James, READY FOR WORK: 0, INTERNAL QC: 0, EXTERNAL QC: 0, Wavnet Ltd - Invoice, Invoice 9130 from SQUARESPACE AGENCY, Purchase Schedule from Squarespace, Create"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Google Meet video conference call with two participants, Isabelle Adviento and Dragos Nuta. The call interface shows controls for microphone, camera, captions, and more. The user is also browsing bookmarks in Chrome, with categories such as Cohorts, Read, Stuff, Assembly Lines, Guides, Info, LI, XO Process, XO WSPro, Google Jobs, Open tabs July 2022, New folder, SEO, Org, AI Coach, Sourcing 2024, and Platforms.",
+        "The user is viewing a Google Sheets document titled 'LinkedIn Renewal 2024'. The spreadsheet contains detailed financial data, including plans, slots, costs, cost per slot, projected flow, and various cost metrics. A chart visualizes the cost per slot with blue bars for 'Slots' and a red line for 'Cost/slot'. The user is also in the same Google Meet call, with participants Isabelle Adviento and Dragos Nuta visible.",
+        "The user is accessing a Jira project management board titled 'ALPAPT' on Atlassian. The board displays various tasks and issues, including 'GT School - LogRocket', 'Credit Card payment for yearly subscription to Wix.com', and 'MOO Business Cards for CRO - Rory James'. The user is still in the Google Meet call with Isabelle Adviento and Dragos Nuta, who are visible in the video call interface."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a video conference call, viewing a Google Sheets document, and accessing a Jira project management board. No AI chat interfaces or AI-driven tools are visible in the screenshots.",
+    "activities": [
+        "MEETING",
+        "READING_SPEC"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DOCUMENT_VIEWER_OR_EDITOR"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 10,
+            "mouse": 11,
+            "date": "2024-06-04T19:40:11Z",
+            "windowTitle": "Meet - qrz-rpvr-qjr - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/qrz-rpvr-qjr?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 3,
+            "mouse": 2,
+            "date": "2024-06-04T19:41:11Z",
+            "windowTitle": "Meet - qrz-rpvr-qjr - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/qrz-rpvr-qjr?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 88,
+            "mouse": 2,
+            "date": "2024-06-04T19:42:11Z",
+            "windowTitle": "population of europe - Google Search - Google Chrome",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 20,
+            "mouse": 3,
+            "date": "2024-06-04T19:43:11Z",
+            "windowTitle": "Meet - qrz-rpvr-qjr - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/qrz-rpvr-qjr?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 20,
+            "mouse": 17,
+            "date": "2024-06-04T19:44:11Z",
+            "windowTitle": "meet.google.com is sharing your screen.",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 31,
+            "date": "2024-06-04T19:45:11Z",
+            "windowTitle": "meet.google.com is sharing your screen.",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 14,
+            "date": "2024-06-04T19:46:11Z",
+            "windowTitle": "Meet - qrz-rpvr-qjr - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/qrz-rpvr-qjr?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 33,
+            "mouse": 18,
+            "date": "2024-06-04T19:47:11Z",
+            "windowTitle": "Recruitment Marketing Tech Solutions | Appcast - Google Chrome",
+            "processName": "appcast.io",
+            "visitingUrl": "appcast.io",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 6,
+            "date": "2024-06-04T19:48:11Z",
+            "windowTitle": "Meet - qrz-rpvr-qjr - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/qrz-rpvr-qjr?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T19:49:11Z",
+            "windowTitle": "Meet - qrz-rpvr-qjr - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/qrz-rpvr-qjr?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-04T19:40:00Z"
+}

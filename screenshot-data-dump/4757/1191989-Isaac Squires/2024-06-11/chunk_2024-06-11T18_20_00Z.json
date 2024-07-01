@@ -1,0 +1,204 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "calendar.google.com",
+    "docs.google.com",
+    "appstoreconnect.apple.com",
+    "SnippingTool",
+    "mail.google.com",
+    "x.com",
+    "google.com",
+    "ventrilo.ai"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-11T18:25:36Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Minimize, Core, Mail, Calendar, Google Chrome, AI, File Explorer, Microsoft Word, and settings. Also shows the system clock displaying '12:25' and a date '11 Jun 2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "App Store Connect - Google Chrome",
+                "url": "https://appstoreconnect.apple.com",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, profile icon, and extension icons"
+                },
+                "content": [
+                  {
+                    "title": "Magic Academy - Play to Learn",
+                    "layoutDescription": "Web page layout",
+                    "visibleText": "App Store Connect\nApps Analytics Trends Reports Business Users and Access\nMagic Academy - Play to Learn\nOverview Acquisition Benchmarks Metrics Retention\nTotal Downloads By Date Add Filter\nTOTAL DOWNLOADS\n253\nMay 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 Jun 1 2 3 4 5 6 7 8 9 10\nDate Total\nMay 12-Jun 10"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in monitoring the performance metrics of an application named 'Magic Academy - Play to Learn' on App Store Connect. The screenshot shows the user viewing the 'Metrics' section, specifically focusing on the 'Total Downloads' which is currently at 253. The user is likely analyzing the download trends over a period from May 12 to June 10, as indicated by the graph displayed on the screen. This activity suggests that the user is involved in tracking the app's performance and possibly preparing for a discussion or report on the app's success and areas for improvement.",
+    "The user has multiple tabs open in Google Chrome, indicating multitasking. These tabs include various tools and platforms such as Google Calendar, Google Docs, and Ventrilo.ai. The presence of these tabs suggests that the user is managing their schedule, working on documents, and possibly engaging with AI tools for assistance. The notification about an upcoming Zoom meeting titled 'Niraj next role discussion - cont.' indicates that the user is preparing for a meeting, which is scheduled to start in 5 minutes. This preparation might involve reviewing relevant documents and data to ensure a productive discussion."
+  ],
+  "aiUseSummary": "There is no direct evidence from the provided screenshot that the user is utilizing AI tools within their workflow during this specific timeframe. The screenshot does not show any interactions with AI chat interfaces or AI-driven suggestions. However, the presence of Ventrilo.ai in the list of active applications suggests that the user might be using AI tools for other tasks not captured in the screenshot. Therefore, it is possible that the user leverages AI for various purposes such as research, guidance, or productivity enhancement, but specific details are not visible in the current data.",
+  "activities": [
+    "READING_SPEC",
+    "MEETING"
+  ],
+  "workTypes": [
+    "UI"
+  ],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "READING_SPEC",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-11T18:20:48Z",
+      "windowTitle": "DevFactory - Calendar - Week of June 9, 2024 - Google Chrome",
+      "processName": "calendar.google.com",
+      "visitingUrl": "calendar.google.com/calendar/u/0/r/week",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 23,
+      "date": "2024-06-11T18:21:48Z",
+      "windowTitle": "DevFactory - Calendar - Week of June 9, 2024 - Google Chrome",
+      "processName": "calendar.google.com",
+      "visitingUrl": "calendar.google.com/calendar/u/0/r/week",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 23,
+      "mouse": 21,
+      "date": "2024-06-11T18:22:48Z",
+      "windowTitle": "DevFactory - Calendar - Week of June 9, 2024 - Google Chrome",
+      "processName": "calendar.google.com",
+      "visitingUrl": "calendar.google.com/calendar/u/0/r/week",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 19,
+      "date": "2024-06-11T18:23:47Z",
+      "windowTitle": "TeachTap Ad Metrics - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/19uZM6yGbuyzzAhlNcGY6x2ehgPsoVaoEutB70RyGdWA/edit?pli=1#gid=131961663",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 9,
+      "mouse": 29,
+      "date": "2024-06-11T18:24:47Z",
+      "windowTitle": "App Store Connect - Google Chrome",
+      "processName": "appstoreconnect.apple.com",
+      "visitingUrl": "appstoreconnect.apple.com/apps/6478924272/distribution/activity/ios/ratingsResponses?m=",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 47,
+      "mouse": 10,
+      "date": "2024-06-11T18:25:48Z",
+      "windowTitle": "Snipping Tool Overlay",
+      "processName": "SnippingTool",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 184,
+      "mouse": 13,
+      "date": "2024-06-11T18:26:48Z",
+      "windowTitle": "TeachTap - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/nO1DrUAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 8,
+      "mouse": 13,
+      "date": "2024-06-11T18:27:48Z",
+      "windowTitle": "(9) Chief AI Officer on X: \"5 new market maps in AI 1. AI code generation tools from Greylock https://t.co/9yOnKkH1AA\" / X - Google Chrome",
+      "processName": "x.com",
+      "visitingUrl": "x.com/chiefaioffice/status/1799766662746398851/photo/1",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 61,
+      "mouse": 28,
+      "date": "2024-06-11T18:28:48Z",
+      "windowTitle": "codium - Google Search - Google Chrome",
+      "processName": "google.com",
+      "visitingUrl": "google.com/search?q=codium&sca_esv=ee550f040f73c7f6&ei=WJdoZtP2Mp_cwN4Pyo-w0Q0&ved=0ahUKEwjTgv36ltSGAxUfLtAFHcoHLNoQ4dUDCBA&uact=5&oq=codium&gs_lp=Egxnd3Mtd2l6LXNlcnAiBmNvZGl1bTIQEC4YgAQYsQMYQxiDARiKBTIKEAAYgAQYQxiKBTIQEAAYgAQYsQMYQxiDARiKBTITEC4YgAQYsQMY",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 46,
+      "mouse": 32,
+      "date": "2024-06-11T18:29:48Z",
+      "windowTitle": "Every developer deserves a quality partner - Google Chrome",
+      "processName": "ventrilo.ai",
+      "visitingUrl": "ventrilo.ai",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-11T18:20:00Z"
+}

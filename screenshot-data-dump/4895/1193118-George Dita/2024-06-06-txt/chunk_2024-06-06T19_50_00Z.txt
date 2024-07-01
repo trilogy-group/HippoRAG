@@ -1,0 +1,350 @@
+{
+    "candidateId": 2368956,
+    "apps": [
+        "Google Chat",
+        "docs.google.com",
+        "liveops.influitive.com",
+        "aurea.com",
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-06T19:52:39Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Chrome, Outlook, Word, PowerPoint, Excel, OneNote, Teams, File Explorer, and other unidentified applications. Also includes system icons like Wi-Fi, sound, battery, and clock displaying '7:52 PM'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Aurea",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with options for Chrome, View, History, Bookmarks, People, Window, Help"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Chat",
+                                        "layoutDescription": "Chat interface",
+                                        "visibleText": "Chat\n\nMitchell Horowitz\n\nmitchell.horowitz@aurea.com\n\nHey Jonathan! Just wanted to ask if you had a chance to look over the CRM proposal I sent last week?\n\n1 day ago\n\nJonathan\n\nI did, and I must say it's quite detailed. I think it could be helpful to include a small section on user training.\n\n1 day ago\n\nMitchell Horowitz\n\nDo you have any educational material? Or do you think online resources?\n\n1 day ago\n\nAurea\n\nAurea Software\n\nAurea helps thousands of businesses in 60+ countries become more successful without the usual cost.\n\nmitchell.horowitz@aurea.com\n\nIf you want to talk, I will call you in the afternoon.\n\n1 day ago"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Error Page",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with options for Chrome, View, History, Bookmarks, People, Window, Help"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Error Page",
+                                        "layoutDescription": "Error message display",
+                                        "visibleText": "Sorry, we can't find the page you're looking for.\n\nPlease make sure you typed the URL correctly, or report our support team about your issue.\n\nGo Home Contact Support"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Gmail",
+                        "windows": [
+                            {
+                                "title": "Inbox",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with options for Gmail, File, Edit, View, Go, Window, Help"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Gmail",
+                                        "layoutDescription": "Email interface",
+                                        "visibleText": "Gmail\n\nCompose\n\nInbox\n\nStephanie Shepherd\n\nRe: Inquiry for Partnership\n\nLet me know if there's any more information you need regarding this.\n\nBest,\n\nStephanie\n\n\n\nChris Anderson - Salesforce's Growth CEO\n\nCan you explain how your recommendation is likely to help maximize our profitability and what steps you're taking to ensure we are preparing?\n\nThanks,\n\nChris\n\n\n\nGeorge Smith - PropertyDealing.com\n\nThank you for your assistance!\n\nThanks,\n\nGeorge"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-06T19:53:43Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Google Chrome, File Explorer, Microsoft Edge, and other unidentified applications. System tray visible with clock showing '7:53 PM', date '6/6/2024', and other system icons including network status, sound volume, and notifications icon.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "RStudio - User Adoption Rate",
+                                "position": "top left",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Contains tabs, address bar, bookmarks bar, and developer tools"
+                                },
+                                "content": [
+                                    {
+                                        "title": "RStudio - User Adoption Rate",
+                                        "layoutDescription": "Split view with code editor and console output",
+                                        "visibleText": "# User Adoption Rate\n\nThis function will plot the R^2 generated whenever a calculation is performed by A.\n\n```R\n# Load necessary libraries\nlibrary(ggplot2)\nlibrary(dplyr)\n\n# Define the function\nuser_adoption_rate <- function(data) {\n # Calculate R^2\n rsquared <- summary(lm(log10(users) ~ date, data = data))$r.squared\n \n # Plot\n ggplot(data, aes(x = date, y = log10(users))) +\n geom_point() +\n geom_smooth(method = 'lm') +\n labs(title = 'User Adoption Rate', subtitle = 'Plot of R^2 over time')\n}\n\n# Example usage\nexample_data <- data.frame(\ndate = as.Date('2020-01-01') + 0:29,\nusers = round(runif(30, 100, 1000))\n)\nuser_adoption_rate(example_data)\n```\n\nDB to Analysis:\n\n| Date | Users |\n|------------|-------|\n| 2020-01-01 | 100 |\n| 2020-01-02 | 150 |\n| 2020-01-03 | 200 |\n| ... | ... |\n| 2020-01-30 | 950 |\n"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Weekly Progress Report - TMS.docx - Google Docs",
+                                "position": "top right",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Contains tabs, address bar, and Google Docs toolbar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Weekly Progress Report - TMS.docx",
+                                        "layoutDescription": "Document layout with text and tables",
+                                        "visibleText": "Weekly Progress Report - TMS\n\n- Review and update the project timeline\n- Ensure all team members are on track with their tasks\n- Address any issues that arise during the week\n- Prepare for the upcoming project review meeting\n\nTasks for Next Week:\n\n- Continue with the system integration tests\n- Begin preparations for the user acceptance testing\n- Update the project documentation\n\nDeliverables:\n\n- Updated project timeline\n- Completed system integration tests\n- Prepared user acceptance testing\n\nStakeholders:\n\n- Project Manager: John Doe\n- Technical Lead: Jane Smith\n- Business Analyst: Bob Johnson\n- Quality Assurance: Alice Cooper\n\nBusiness Objectives:\n\n- Ensure project is on schedule\n- Maintain high quality standards\n- Prepare for successful user acceptance testing\n\nTimeline:\n\n| Task | Start Date | End Date |\n|------------------------|------------|-------|\n| System Integration Test | 2024-06-01 | 2024-06-07 |\n| User Acceptance Testing | 2024-06-08 | 2024-06-14 |\n"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Page not found \u00ef\u00bf\u00bd GitHub \u00ef\u00bf\u00bd GitHub - Google Chrome",
+                                "position": "bottom",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Contains tabs, address bar, and bookmarks bar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Page not found \u00ef\u00bf\u00bd GitHub \u00ef\u00bf\u00bd GitHub",
+                                        "layoutDescription": "Web page layout with central image and text",
+                                        "visibleText": "404\nThis is not the web page you are looking for.\n\nFind code, projects and people on GitHub.\n\nGitHub\n\nSubscribe\n\nNewsletter for developer news\n\nSubscribe\n\nProducts\n\nGitHub Enterprise\nGitHub Pages\nGitHub Actions\nGitHub Packages\n\nPlatform\n\nDeveloper API\nGitHub Marketplace\nEducation\n\nSupport\n\nCommunity Forum\nGitHub Docs\nPremium Support\n\nCompany\n\nAbout\nBlog\nCareers\nPress in to GitHub\n\nUsername\nPassword\n\nForgot password?\n\nor sign up with another service\n\nSearch\n\nCurrent sponsor: GitHub - @githubstatus\n"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-06T19:58:24Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a docked application bar with visible icons for Google Chrome, Microsoft Word, Slack, and other unidentified applications. Spotlight search icon visible. Notification center icon visible.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "News | Worx - Google Chrome",
+                                "url": "https://www.worx.com/news",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, vertical scroll bar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Announcing Thrive",
+                                        "layoutDescription": "Main content visible",
+                                        "visibleText": "Announcing Thrive\nTOP STORIES\n- Zoom Link -\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Word",
+                        "windows": []
+                    },
+                    {
+                        "appName": "Slack",
+                        "windows": []
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in multiple activities. They are chatting with a team member named Mitchell Horowitz on Google Chat, discussing a CRM proposal and educational materials. They are also viewing an error page on a website, likely related to their work on the Aurea platform. Additionally, the user is checking their Gmail inbox, reading emails from Stephanie Shepherd and Chris Anderson, which pertain to partnership inquiries and recommendations for maximizing profitability.",
+        "The user is reading specifications and documentation on Google Docs. They are viewing a document titled 'RStudio - User Adoption Rate,' which includes R code for plotting user adoption rates and a table of user data. They are also reviewing a 'Weekly Progress Report - TMS.docx,' which outlines project timelines, tasks, deliverables, and business objectives. This indicates that the user is involved in project management and data analysis tasks.",
+        "The user is conducting research on various websites. They are visiting the Aurea website to check the 'Product Support End of Life (EOL) Dates and Policy' page, which provides information on product versions and their support timelines. They are also browsing the Worx website, specifically the news section, which includes an announcement about a new product called Thrive. This suggests that the user is staying updated on product developments and support policies.",
+        "The user is experiencing some issues with web pages. They encounter a 404 error page on GitHub, indicating that the page they were trying to access is not available. This could be related to their research or project work, where they might be looking for specific code repositories or documentation on GitHub."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in chatting, reading specifications, checking emails, and conducting research without any visible interaction with AI tools. Therefore, there is no detailed summary of AI usage in their workflow for this period.",
+    "activities": [
+        "READING_SPEC",
+        "EMAIL",
+        "CHATTING_WITH_TEAM",
+        "RESEARCH"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "DB"
+    ],
+    "programmingLanguages": [
+        "PYTHON"
+    ],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "READING_SPEC",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 144,
+            "mouse": 13,
+            "date": "2024-06-06T19:50:05Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 94,
+            "mouse": 14,
+            "date": "2024-06-06T19:51:05Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 6,
+            "date": "2024-06-06T19:52:05Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 107,
+            "mouse": 9,
+            "date": "2024-06-06T19:53:05Z",
+            "windowTitle": " Meaghan [AdvocateHub] - Interview Summary - Google Docs - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/document/d/1G_vfq5h1k8_aiEvpjVNxEXQouopSIYXYvp691jUrxUY/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 29,
+            "date": "2024-06-06T19:54:05Z",
+            "windowTitle": " Liveops Nation - Google Chrome\n",
+            "processName": "liveops.influitive.com",
+            "visitingUrl": "https://liveops.influitive.com/corporate/advocates",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 36,
+            "mouse": 21,
+            "date": "2024-06-06T19:55:05Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 115,
+            "mouse": 15,
+            "date": "2024-06-06T19:56:05Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 85,
+            "mouse": 22,
+            "date": "2024-06-06T19:57:05Z",
+            "windowTitle": " Aurea Product Support End of Life (EOL) Dates and Policy - Google Chrome\n",
+            "processName": "aurea.com",
+            "visitingUrl": "https://www.aurea.com/resources/product-support-eol/#integration",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 25,
+            "date": "2024-06-06T19:58:05Z",
+            "windowTitle": " Aurea Product Support End of Life (EOL) Dates and Policy - Google Chrome\n",
+            "processName": "aurea.com",
+            "visitingUrl": "https://www.aurea.com/resources/product-support-eol/#integration",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 119,
+            "mouse": 8,
+            "date": "2024-06-06T19:59:05Z",
+            "windowTitle": " Messenger Upgrade Support Call (2024-06-06 17:32 GMT+3) - Transcript - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQVwwwMPLKggLcWmMzffNnlPmQW?compose=DmwnWtMnZtrgFzlZFSTbBxBFphZtcVVNjWPpHtjJQvSKPlZNNQZFfJRSlMSqQljtZgcbQvvmXXDV",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-06T19:50:00Z"
+}

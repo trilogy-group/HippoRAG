@@ -1,0 +1,455 @@
+{
+    "candidateId": 2368956,
+    "apps": [
+        "mail.google.com",
+        "meet.google.com",
+        "Google Chat",
+        "Notes"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-06T14:33:12Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Outlook, Adobe Reader, and other unidentified applications. Also includes system icons like Wi-Fi, battery, and clock showing '2:33 PM'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Gmail - Re: Aura version 2024 - Risk of failing PCI certification next steps - chris.wilson@aurasoft.com - Aurasoft Mail",
+                                "position": "top left",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Contains tabs, address bar, bookmarks bar, and vertical scrollbar."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email Content",
+                                        "layoutDescription": "Email displayed in reading pane",
+                                        "visibleText": "Chris Wilson,\n\nHi Chris,\n\nI've been reviewing the concerns you raised in regards to our next steps for PCI certification. I understand the urgency and the potential risks involved. Here are a few points I'd like to discuss further:\n\n1. Risk assessment and mitigation strategies.\n2. Timeline for implementation and testing.\n3. Budget considerations and resource allocation.\n\nI think it's crucial we address these issues as soon as possible to ensure we don't fail the upcoming certification. Let's schedule a meeting to discuss this in detail.\n\nBest regards,\n[Name Redacted]"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Google Chat",
+                                "position": "center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Chat interface with contact list, search bar, and chat window."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat with Mitchell Horowitz",
+                                        "layoutDescription": "Chat window open",
+                                        "visibleText": "Mitchell Horowitz\n\nHi Chris, I was looking at the timeline you considered, and it looks very tight especially with the upcoming PCI certification. Have you looked into the risk factors?\n\nChris Wilson\n\nYeah, I was talking to [Name Redacted] and they mentioned they're also concerned about the timeline.\n\nMitchell Horowitz\n\nWhat did [Name Redacted] say about our deployment options?\n\nChris Wilson\n\n[Name Redacted] says we should consider additional risk mitigation measures."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Google Docs - Project Planning Document",
+                                "position": "top right",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Contains document editing tools, sharing options, and document content."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Project Planning Document",
+                                        "layoutDescription": "Document content visible",
+                                        "visibleText": "Project Planning Document\n\n1. Henry Gomez,\n\nHi Henry,\n\nI am Chris Wilson, and I'm the Product Manager at Thoughtburst. I'm reaching out to you today as I've been tasked with leading a key initiative for the development and implementation of our new software project.\n\nWe are working on a new initiative targeting AI-enhanced customer contact centers, and I would like to get your insights.\n\nWhat we expect:\n\n- You will help us test and interact with our software features, prototypes.\n- We will adjust our insights to better focus on what the product demands.\n- You have the opportunity to influence how our product is developed.\n\nThere is no previous experience necessary, but it would be nice to have 20 minutes of your time each week for testing and feedback. I am looking forward to discussing more details about our exciting initiative soon.\n\nBest regards,\nChris Wilson"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Google Meet",
+                        "windows": [
+                            {
+                                "title": "Video Call - Google Meet",
+                                "position": "bottom",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Video conference interface with participant thumbnails, mute, and camera controls."
+                                },
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "Initial only, no visible face"
+                                        },
+                                        {
+                                            "name": "M",
+                                            "expression": "Initial only, no visible face"
+                                        },
+                                        {
+                                            "name": "R",
+                                            "expression": "Initial only, no visible face"
+                                        },
+                                        {
+                                            "name": "P",
+                                            "expression": "Initial only, no visible face"
+                                        },
+                                        {
+                                            "name": "Mitchell Overhoff",
+                                            "expression": "Visible, appears focused"
+                                        },
+                                        {
+                                            "name": "Kayden Prochnow",
+                                            "expression": "Visible, appears to be in a home office setting"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Outlook",
+                        "windows": []
+                    },
+                    {
+                        "appName": "Adobe Reader",
+                        "windows": []
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-06T14:36:08Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash",
+                        "position": "bottom"
+                    },
+                    {
+                        "elementType": "dock",
+                        "details": "application bar with visible icons for Google Chrome, Microsoft Teams, and other unidentified applications",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Re: Aura version 2024 - Risk of failing PCI certification next steps",
+                                "url": "https://mail.google.com/mail/u/0/#inbox",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Email content, scroll bar visible"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email Content",
+                                        "layoutDescription": "Email layout",
+                                        "visibleText": "Chris White,\n\nThe latest version is attached - all previous issues you raised have been resolved.\n\nPlease review and let me know.\n\nThanks,\n\nJohn\n\n---\n\nFrom: Chris White\nSent: Thursday, June 6, 2024 10:15 AM\nTo: John Doe\nSubject: Re: Aura version 2024 - Risk of failing PCI certification next steps\n\nJohn,\n\nI have reviewed the documentation prepared by our team and unfortunately, it appears that the implementation of some of the security measures may not be sufficient to pass the upcoming audit.\n\nAreas of Concern:\n\n- The implementation of encryption controls around the storage of sensitive data (PCI DSS) for the existing Issuer.\n- Automated audit trails for all sensitive data, ensuring that all data manipulations can be traced and audited accurately.\n- The use of secure coding practices to minimize the risk of injection flaws and other common security vulnerabilities.\n\nI recommend that we engage with a PCI compliance consultant to review our current controls and recommend appropriate actions. Additionally, it is imperative to address the risk of failing the next PCI certification audit by enhancing our security measures.\n\nPlease arrange for a meeting with all relevant stakeholders to discuss this further.\n\nRegards,\n\nChris White\n\n---\n\nAttachment: Document.pdf"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Teams",
+                        "windows": [
+                            {
+                                "title": "Messenger",
+                                "position": "center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Conference, participant icons, chat sidebar"
+                                },
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "Call",
+                                            "expression": "Video call layout"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Project Timeline",
+                                "position": "right",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Content, scroll bar visible"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Note Content",
+                                        "layoutDescription": "Note layout",
+                                        "visibleText": "Project Timeline\n\nMilestone Dates:\n\n- Project Start: January 2024\n- Detailed Design Complete: March 2024\n- Development Start: April 2024\n- Testing Phase Start: July 2024\n- Implementation Phase Start: August 2024\n- Project Close: December 2024\n\nTasks:\n\n- Assess the project requirements.\n- Allocate resources.\n- Develop the project plan.\n- Execute the project plan.\n- Monitor and control the project.\n- Close the project.\n\nTeam Members:\n\n- John Doe\n- Jane Doe\n- Chris White\n- Michael Brown\n- Sarah Green\n- David Smith"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-06T14:37:26Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, Finder, Microsoft Outlook, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Adobe Acrobat Reader DC, System Preferences, Terminal, Notes, Reminders, Messages, FaceTime, Photo Booth, iTunes, QuickTime Player, App Store, System Information, Time Machine, Siri, Launchpad, Trash",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Microsoft Outlook",
+                        "windows": []
+                    },
+                    {
+                        "appName": "Microsoft Word",
+                        "windows": []
+                    },
+                    {
+                        "appName": "Microsoft Excel",
+                        "windows": []
+                    },
+                    {
+                        "appName": "Microsoft PowerPoint",
+                        "windows": []
+                    },
+                    {
+                        "appName": "Adobe Acrobat Reader DC",
+                        "windows": []
+                    },
+                    {
+                        "appName": "System Preferences",
+                        "windows": []
+                    },
+                    {
+                        "appName": "Terminal",
+                        "windows": []
+                    },
+                    {
+                        "appName": "Notes",
+                        "windows": []
+                    },
+                    {
+                        "appName": "Reminders",
+                        "windows": []
+                    },
+                    {
+                        "appName": "Messages",
+                        "windows": []
+                    },
+                    {
+                        "appName": "FaceTime",
+                        "windows": []
+                    },
+                    {
+                        "appName": "Photo Booth",
+                        "windows": []
+                    },
+                    {
+                        "appName": "iTunes",
+                        "windows": []
+                    },
+                    {
+                        "appName": "QuickTime Player",
+                        "windows": []
+                    },
+                    {
+                        "appName": "App Store",
+                        "windows": []
+                    },
+                    {
+                        "appName": "System Information",
+                        "windows": []
+                    },
+                    {
+                        "appName": "Time Machine",
+                        "windows": []
+                    },
+                    {
+                        "appName": "Siri",
+                        "windows": []
+                    },
+                    {
+                        "appName": "Launchpad",
+                        "windows": []
+                    },
+                    {
+                        "appName": "Trash",
+                        "windows": []
+                    }
+                ]
+            },
+            "applications": [
+                {
+                    "appName": "Microsoft Edge",
+                    "windows": []
+                }
+            ]
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in reading and responding to emails. The primary email being viewed is from Chris Wilson, discussing the risk of failing PCI certification for Aura version 2024. The email outlines concerns and suggests scheduling a meeting to address risk assessment, timeline, and budget considerations. The user is also seen responding to this email, indicating active participation in the discussion.",
+        "The user is participating in a Google Meet video conference call. The call includes multiple participants, with some visible and others represented by initials. The user appears to be engaged in the meeting, as indicated by the visible participant thumbnails and the in-call messages. The meeting is likely related to the ongoing discussions about PCI certification and project planning.",
+        "The user is engaged in a chat conversation on Google Chat with Mitchell Horowitz. The chat discusses the tight timeline for the upcoming PCI certification and the need for additional risk mitigation measures. The user is actively responding to Mitchell's queries and providing insights from discussions with other team members.",
+        "The user is viewing a project planning document in Google Docs. The document is addressed to Henry Gomez and outlines the expectations for a new AI-enhanced customer contact center initiative. The user is likely reviewing the document to gather insights and prepare for further discussions or planning related to the project."
+    ],
+    "aiUseSummary": "",
+    "activities": [
+        "EMAIL",
+        "MEETING",
+        "CHATTING_WITH_TEAM",
+        "READING_SPEC"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DOCUMENT_VIEWER_OR_EDITOR"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "EMAIL",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 5,
+            "mouse": 9,
+            "date": "2024-06-06T14:30:09Z",
+            "windowTitle": " Re: Aurea version 2024 - Risk of failing PCI certification: next steps - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#search/chris.morino%40aurea.com/FMfcgzQVwnfNxRsmMzWHLmhVcZrZkHpn",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 27,
+            "mouse": 8,
+            "date": "2024-06-06T14:31:09Z",
+            "windowTitle": " Meet - pko-wkjq-jaj - Camera and microphone recording - Google Chrome\n",
+            "processName": "meet.google.com",
+            "visitingUrl": "https://meet.google.com/pko-wkjq-jaj?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 19,
+            "mouse": 10,
+            "date": "2024-06-06T14:32:09Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 29,
+            "mouse": 11,
+            "date": "2024-06-06T14:33:09Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-06T14:34:09Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 4,
+            "mouse": 3,
+            "date": "2024-06-06T14:35:09Z",
+            "windowTitle": " Meet - pko-wkjq-jaj - Camera and microphone recording - Google Chrome\n",
+            "processName": "meet.google.com",
+            "visitingUrl": "https://meet.google.com/pko-wkjq-jaj?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 49,
+            "mouse": 4,
+            "date": "2024-06-06T14:36:09Z",
+            "windowTitle": " Notes\n",
+            "processName": "Notes",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 0,
+            "date": "2024-06-06T14:37:09Z",
+            "windowTitle": " Notes\n",
+            "processName": "Notes",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 130,
+            "mouse": 1,
+            "date": "2024-06-06T14:38:09Z",
+            "windowTitle": " Notes\n",
+            "processName": "Notes",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 6,
+            "mouse": 0,
+            "date": "2024-06-06T14:39:09Z",
+            "windowTitle": " Notes\n",
+            "processName": "Notes",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-06T14:30:00Z"
+}

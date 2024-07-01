@@ -1,0 +1,264 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "meet.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T12:40:53Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Settings, and hidden icons tray. Also displays the time '3:40 PM' and date '6/5/2024' along with network, sound, and battery status icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - khm-qevt-udu - Google Chrome",
+                                "url": "meet.google.com/khm-qevt-udu",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "back, forward, refresh buttons, address bar, profile icon, minimize, maximize, close buttons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Meet Video Conference",
+                                        "layoutDescription": "Grid layout with participant videos",
+                                        "visibleText": "Artem Melnikov\nDmitrii Shutenkov\nDenys Yefimenko\nread.ai meeting notes\n3:40 PM | XO Check-in"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T12:43:38Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Edge, File Explorer, and several unidentified applications. Also includes system tray with notifications, sound, network, battery status icons, and the time display showing '3:43 PM' and the date '6/5/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - khm-qevt-udu - Google Chrome",
+                                "url": "meet.google.com/khm-qevt-udu",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "back, forward, refresh buttons, address bar, tab bar with one open tab, browser control buttons (minimize, maximize, close)"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Meet Video Conference",
+                                        "layoutDescription": "Grid layout with participant videos",
+                                        "visibleText": "Artem Melnikov\nDmitrii Shutenkov\nDenys Yefimenko\nDragosNta\nread.ai meeting notes\n3:43 PM | XO Check-in"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T12:48:11Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Edge, File Explorer, and several unidentified applications. Also includes system tray with notifications, sound, network, and language settings icons, and a clock displaying '3:48 PM'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - khm-qevt-udu - Google Chrome",
+                                "url": "meet.google.com/khm-qevt-udu",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "back, forward, refresh buttons, address bar, tabs, and profile icon. Meet controls include microphone, camera, captions, present now, and hang up buttons, along with additional settings and chat options."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Meet Video Conference",
+                                        "layoutDescription": "Grid layout with participant videos",
+                                        "visibleText": "Artem Melnikov\nDmitrii Shutenkov\nDenys Yefimenko\nread.ai meeting notes\n3:48 PM | XO Check-in"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Google Meet video conference, as evidenced by the screenshots showing the Google Meet interface with multiple participants. The meeting is titled 'XO Check-in' and includes participants named Artem Melnikov, Dmitrii Shutenkov, Denys Yefimenko, and DragosNta. The meeting appears to be ongoing, with timestamps indicating the user is actively participating from 3:40 PM to 3:48 PM. The user interface shows standard Google Meet controls such as microphone, camera, captions, present now, and hang-up buttons, along with additional settings and chat options.",
+        "The user is not engaged in any other activities or applications during this time frame. The taskbar shows icons for Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Settings, and hidden icons tray, but none of these applications are active. The only active application is Google Chrome, which is being used to access the Google Meet link 'meet.google.com/khm-qevt-udu'. The user is focused solely on the video conference, with no evidence of multitasking or switching between applications."
+    ],
+    "aiUseSummary": "There is no evidence of AI tool usage in the provided screenshots. The user is solely engaged in a Google Meet video conference and does not appear to be interacting with any AI tools or extensions during this time frame.",
+    "activities": [
+        "MEETING"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T12:40:53Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T12:41:53Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T12:42:53Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T12:43:53Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T12:44:53Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T12:45:54Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 4,
+            "mouse": 1,
+            "date": "2024-06-05T12:46:54Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T12:47:53Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T12:48:53Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T12:49:53Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-05T12:40:00Z"
+}

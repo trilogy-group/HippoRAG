@@ -1,0 +1,270 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "webstorm64",
+        "github.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T10:11:56Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned and running applications. Displays the time '12:41' and date '06/14/2024'. System tray includes network status, sound volume, and notifications icon. Language set to 'ENG'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "feat(LAMBDA-76101): Migrating to cdk infra lib v3 ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+                                "url": "https://github.com/trilogy-group/xo-hiring-monorepo",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Tabs, address bar, bookmarks bar, GitHub repository navigation tabs, and a vertical scrollbar."
+                                },
+                                "content": [
+                                    {
+                                        "title": "GitHub Actions Log",
+                                        "layoutDescription": "Text-heavy layout with a structured list of log entries.",
+                                        "visibleText": "Summary\nJobs\nbuild\nRun details\nUsage\nWorkflow file\nPerform CDK deployment\n[08:11] Adding metadata to the deployment 'site-researchers' Configuration for env 'production'\n[08:11] Adding metadata to the deployment 'site-researchers' Configuration for env 'sandbox'\n[08:11] Adding metadata to the deployment 'site-researchers' Configuration for env 'prd/sbx'\n[08:11] Adding metadata to the deployment 'site-researchers' PrepareToPerform\n[08:11] Adding metadata to the deployment 'site-researchers' stack 'SiteResearcherStack'\n[08:11] Adding metadata to the deployment 'site-researchers' Configuration for env 'production'\n[08:11] Adding metadata to the deployment 'site-researchers' Configuration for env 'sandbox'\n[08:11] Adding metadata to the deployment 'site-researchers' Prepare 'StateStackPrepare'\n[08:11] Adding metadata to the deployment 'site-researchers' stack 'StateResearcherStack'\n[08:11] Adding metadata to the deployment 'terminated-partners' Configuration for env 'production'\n[08:11] Adding metadata to the deployment 'terminated-partners' Configuration for env 'sandbox'\n[08:11] Adding metadata to the deployment 'terminated-partners' stack 'TerminatedPartnersStack'\n[08:11] Adding metadata to the deployment 'terminated-partners' Configuration for env 'production'\n[08:11] Adding metadata to the deployment 'terminated-partners' Configuration for env 'sandbox'\n[08:11] Adding metadata to the deployment 'uploaddatavars' Configuration for env 'prd/sbx'\n[08:11] Adding metadata to the deployment 'uploaddatavars' Prepare 'UploadDataVarsStack'\n[08:11] Adding metadata to the deployment 'watchers' Configuration for env 'production'\n[08:11] Adding metadata to the deployment 'watchers' Configuration for env 'sandbox'\n[08:11] Adding metadata to the deployment 'watchers' Prepare 'PreparedWatcher'\n[08:11] Adding metadata to the deployment 'watchers' stack 'WatcherStack'\n[08:11] Adding metadata to the deployment 'coach-a' Configuration for env 'production'\n[08:11] Adding metadata to the deployment 'coach-a' Configuration for env 'sandbox'\n[08:11] Adding metadata to the deployment 'coach-a' Configuration for env 'undefined'\n[08:11] Adding metadata to the deployment 'coach-a' Prepare 'PreparedCoach'\n[08:11] Adding metadata to the deployment 'coach-a' stack 'CoachAStack'\n[08:11] Adding metadata to the deployment 'coach-a' Configuration for env 'production'\n[08:11] Adding metadata to the deployment 'coach-a' Configuration for env 'sandbox'\n[08:11] Adding metadata to the deployment 'coach-a' Prepare 'AfterDestructionLogic'\n[08:11] Adding metadata to the deployment 'coach-a' stack 'StackCoachAStack'\n[08:11] (EMAC) Preparing 15 deployments\n[08:11] (EMAC) Preparing 15 deployments: stats-tracker\n[08:11] (DEBUG) Installing dependencies (ci = true)\n[08:11] added 475 packages, and audited 484 packages in 7s\n[08:11] 52 packages are looking for funding\n[08:11] run 'npm fund' for details\n[08:11] 5 vulnerabilities (1 low, 5 moderate, 1 high, 1 critical)\n[08:11] run 'npm audit fix'\n[08:11] 'npm audit fix' details.\n[08:11] (DEBUG) Cleaning the project output\n[08:11] (EMAC) Bundled (took 208.478 ms)\n[08:11] (DEBUG) Running tests\n[08:11] 'open-search-ui-0.8.0' build\n[08:11] (EMAC) Done! (took 5,107,992.054 ms)\n[08:11] (EMAC) Running tests\n[08:11] 'open-search-ui-0.8.0' test\nDrop SSM Parameters\nPost Run Action: setup-node@v4\nRun as: ci/jenkins/setup-node@v4"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T10:14:03Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Chrome, Outlook, Slack, Visual Studio Code, AWS CLI, and system tray including network, sound, and time display",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "feat(LAMBDA-76101): Migrating to cdk infra lib v3 ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+                                "url": "https://github.com/trilogy-group/xo-hiring-monorepo",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, GitHub site interface including repository navigation and action logs"
+                                },
+                                "content": [
+                                    {
+                                        "title": "GitHub Actions Log",
+                                        "layoutDescription": "Text log in monospaced font",
+                                        "visibleText": "588 Perform CDK deployment\n589 xo-hiring-pg59-stats-tracker | 07 | 18:33:24.25 | CREATE_IN_PROGRESS | AWS::CloudFormation::Stack | xo-hiring-pg59-stats-tracker-owner-changesetsdete User Initiated\n... (continues with similar entries for various AWS resources and states, including CREATE_COMPLETE and CREATE_IN_PROGRESS, with timestamps and resource IDs)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T10:17:52Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Inbox, Chrome, IAM, WSL, featQ, MyP, Re, awsX, aws, AWS, Packt, and several unidentified icons. System time displayed as 12:17. Language set to ENG.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Deploy environment on push ? Workflow runs ? trilogy-group/xo-hiring-monorepo - Google Chrome",
+                                "url": "https://github.com/trilogy-group/xo-hiring-monorepo",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, GitHub repository navigation, sidebar with workflow options, main content area with workflow runs list"
+                                },
+                                "content": [
+                                    {
+                                        "title": "GitHub Repository - Actions Tab",
+                                        "layoutDescription": "List and sidebar layout",
+                                        "visibleText": "trilogy-group / xo-hiring-monorepo\nCode Pull requests 9 Actions Security Insights Settings\nActions New workflow\nAll workflows\nAuto-release accepted tickets Auto-update branches on changes to m... Check Jira ticket Close old Pull Requests Code Index Update Deploy environment on push Destroy preview environments PR-Agent Provision preview environment Show more workflows...\nManagement Caches Attestations Runners\nDeploy environment on push deploy-env-on-push.yml\nHelp us improve GitHub Actions\nGitHub Actions work better for you with these quick questions.\n589 workflow runs\nThis workflow has a workflow_dispatch event trigger.\nMerge remote-tracking branch 'origin/bugfix/LAMBDA-75947 into sandbox\nDeploy environment on push #783 Commit: b5a1c3f pushed by lambda-service-user-github\nsandbox\nUse workflow from Branch feat/LAMBDA-76080...\nProjects to deploy\nTarget environment\nsandbox\nRun workflow\nMore workflow runs listed with details such as event, status, branch, actor, and timestamps."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in reviewing code on GitHub. They are examining the logs and details of a GitHub Actions workflow run for the repository 'xo-hiring-monorepo'. The logs show detailed entries about the deployment process, including metadata addition, dependency installation, and test execution. The user is likely ensuring that the deployment process is running smoothly and identifying any issues that may arise during the build and deployment stages.",
+        "The user continues to review the GitHub Actions logs, focusing on the 'Perform CDK deployment' job. The logs provide a comprehensive view of the deployment steps, including the creation and completion of various AWS resources such as CloudFormation stacks, Lambda functions, and IAM roles. The user is likely verifying the successful creation and configuration of these resources as part of the deployment process.",
+        "The user navigates to the 'Deploy environment on push' workflow in the GitHub repository. They are reviewing the list of workflow runs, which includes details such as the event trigger, status, branch, and actor for each run. The user is likely monitoring the deployment status of different branches and ensuring that the workflows are executing as expected. They may also be preparing to run a new workflow from a specific branch to deploy changes to the sandbox environment."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily focused on reviewing and monitoring GitHub Actions workflows and deployment logs. There are no visible interactions with AI chat interfaces or AI-driven tools in the screenshots.",
+    "activities": [
+        "REVIEWING_CODE"
+    ],
+    "workTypes": [
+        "IAC"
+    ],
+    "programmingLanguages": [
+        "TYPESCRIPT"
+    ],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "REVIEWING_CODE",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 72,
+            "mouse": 25,
+            "date": "2024-06-14T10:10:17Z",
+            "windowTitle": "xo-hiring-monorepo ? shared-auto-release-accepted.yml",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 24,
+            "mouse": 24,
+            "date": "2024-06-14T10:11:17Z",
+            "windowTitle": "feat(LAMBDA-76101): Migrating to cdk infra lib v3 by artyom-melnikov ? Pull Request #459 ? trilogy-group/xo-hiring-monorepo - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/pull/459/files",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 10,
+            "mouse": 26,
+            "date": "2024-06-14T10:12:17Z",
+            "windowTitle": "feat(LAMBDA-76101): Migrating to cdk infra lib v3 ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514416238/job/26226566498?pr=459",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 11,
+            "date": "2024-06-14T10:13:17Z",
+            "windowTitle": "feat(LAMBDA-76101): Migrating to cdk infra lib v3 ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514416238/job/26226566498?pr=459",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T10:14:17Z",
+            "windowTitle": "feat(LAMBDA-76101): Migrating to cdk infra lib v3 ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514416238/job/26226566498?pr=459",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T10:15:17Z",
+            "windowTitle": "feat(LAMBDA-76101): Migrating to cdk infra lib v3 ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514416238/job/26226566498?pr=459",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T10:16:17Z",
+            "windowTitle": "feat(LAMBDA-76101): Migrating to cdk infra lib v3 ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514416238/job/26226566498?pr=459",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 12,
+            "date": "2024-06-14T10:17:17Z",
+            "windowTitle": "Workflow runs ? trilogy-group/xo-hiring-monorepo - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 8,
+            "mouse": 34,
+            "date": "2024-06-14T10:18:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514511544/job/26226855351",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 12,
+            "mouse": 7,
+            "date": "2024-06-14T10:19:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514511544/job/26226855351",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T10:10:00Z"
+}

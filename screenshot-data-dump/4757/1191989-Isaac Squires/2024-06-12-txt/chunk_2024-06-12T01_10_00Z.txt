@@ -1,0 +1,145 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "mail.google.com",
+        "drive.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T01:13:57Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, File Explorer, Microsoft Word, and other unidentified applications. Also shows the system clock displaying '19:13' and the date '11 Jun 2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "WorkSmart",
+                                "url": "https://www.worksmart.com",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "video player controls visible at the bottom"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Avatar Customization Screen",
+                                        "layoutDescription": "Centered layout",
+                                        "visibleText": "Avatar\nSize\nBody\nHead"
+                                    },
+                                    {
+                                        "title": "Call Window",
+                                        "layoutDescription": "Small window in bottom right",
+                                        "visibleText": "David Kube"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Word",
+                        "windows": [
+                            {
+                                "title": "Project Plan",
+                                "position": "left",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "text formatting toolbar visible"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Project Plan Document",
+                                        "layoutDescription": "Full page layout",
+                                        "visibleText": "Project Overview\nIntroduction\nObjectives\nTimeline\nBudget\nResources\nConclusion"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in a video call using the WorkSmart application. The call window is visible in the bottom right corner of the screen, showing a participant named David Kube. This indicates that the user is in a meeting, likely discussing work-related topics. The main content on the screen is an avatar customization interface, suggesting that the user might be involved in a project related to game development or user interface design.",
+        "The user has multiple browser tabs open, including 'mail.google.com' and 'drive.google.com'. The Gmail tab indicates that the user is checking or managing emails, while the Google Drive tab shows a file being viewed. The file URL suggests that the user is reviewing a document stored in Google Drive. This activity aligns with tasks such as reading specifications or reviewing project-related documents.",
+        "The taskbar at the bottom of the screen shows icons for Google Chrome, File Explorer, Microsoft Word, and other unidentified applications. The system clock displays '19:13' and the date '11 Jun 2024'. This provides context about the time and date of the user's activities. The presence of Microsoft Word suggests that the user might also be working on document editing or creation tasks, although it is not active in the current screenshot."
+    ],
+    "aiUseSummary": "There is no visible evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a video call and reviewing documents on Google Drive. No AI chat interfaces or AI-driven suggestions are visible in the current context.",
+    "activities": [
+        "MEETING",
+        "EMAIL",
+        "READING_SPEC"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-12T01:10:45Z",
+            "windowTitle": "Inbox - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 5,
+            "date": "2024-06-12T01:11:45Z",
+            "windowTitle": "LearnWith.AI Beta Test - Ana (2024-06-06 18:05 GMT+3) - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1CmwimKV96gAkuaeeAGpSJ_fRJQIZnbZ-/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T01:12:45Z",
+            "windowTitle": "LearnWith.AI Beta Test - Ana (2024-06-06 18:05 GMT+3) - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1CmwimKV96gAkuaeeAGpSJ_fRJQIZnbZ-/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-12T01:13:45Z",
+            "windowTitle": "LearnWith.AI Beta Test - Ana (2024-06-06 18:05 GMT+3) - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1CmwimKV96gAkuaeeAGpSJ_fRJQIZnbZ-/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-12T01:10:00Z"
+}

@@ -1,0 +1,199 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "Zoom",
+        "calendar.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-11T16:53:38Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications including Microsoft Edge, File Explorer, and Zoom. Notification area shows system clock, Wi-Fi, sound, and battery status icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Zoom",
+                        "windows": [
+                            {
+                                "title": "Zoom Meeting",
+                                "url": "",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "highlightedElement": "Top bar with minimize, restore, and close buttons. Bottom bar with mute, video, chat, and other meeting controls.",
+                                "uiElements": {
+                                    "details": "Video conference controls"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Tristan Muniz's Personal Meeting Room",
+                                        "layoutDescription": "Video conference layout",
+                                        "visibleText": "Tristan Muniz's Personal Meeting Room\nToday\nread.ai meeting notes to You (Direct message) 10:31\nTristan added read.ai meeting notes to the meeting.\nRead provides AI generated meeting summaries to make meetings more effective and efficient. View our Privacy Policy at https://www.read.ai/pp\nType \"read stop\" to disable, or \"opt out\" to delete meeting data.\nNew messages\nTristan Muniz to Everyone 10:34\nhttps://docs.google.com/spreadsheets/d/1gU can see your messages? Recording On\nTo: read.ai meeting notes (direct message)\nType message here..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively participating in a Zoom meeting. The meeting interface shows multiple participants, including Tristan Muniz, Isaac Squires, Mark Nygren, Phil Hewinson, and Samy Abel-Nil. The meeting is being recorded, and there is a chat window open on the right side of the screen. The chat includes a direct message from read.ai meeting notes, indicating that AI-generated meeting summaries are being used to make meetings more effective and efficient. Additionally, Tristan Muniz shared a Google Sheets link with everyone in the meeting.",
+        "The user is also interacting with the chat feature in Zoom. They received a direct message from read.ai meeting notes at 10:31, which provides information about AI-generated meeting summaries and a link to the privacy policy. The user also sent a message to everyone in the meeting at 10:34, sharing a Google Sheets link. The chat window shows that the meeting is being recorded, and there is an option to type a message to read.ai meeting notes directly."
+    ],
+    "aiUseSummary": "The user is utilizing read.ai within Zoom to generate meeting summaries. The AI tool provides a summary of the meeting and offers options to disable or delete meeting data. This indicates that the user is leveraging AI to enhance meeting productivity and ensure efficient documentation of meeting discussions. The AI tool's presence in the chat suggests it is actively assisting in real-time during the meeting.",
+    "activities": [
+        "MEETING",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "SHORTWAVE"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T16:50:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 7,
+            "date": "2024-06-11T16:51:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T16:52:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T16:53:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T16:54:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 8,
+            "date": "2024-06-11T16:55:47Z",
+            "windowTitle": "DevFactory - Calendar - Week of June 9, 2024 - Google Chrome",
+            "processName": "calendar.google.com",
+            "visitingUrl": "calendar.google.com/calendar/u/0/r/week",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 8,
+            "date": "2024-06-11T16:56:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T16:57:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T16:58:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T16:59:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-11T16:50:00Z"
+}

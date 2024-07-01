@@ -1,0 +1,405 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "Zoom",
+        "GoogleDriveFS",
+        "docs.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-04T10:20:02Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, File Explorer, Microsoft Edge, and system tray with network, sound, and date/time indicators",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "AI Assist",
+                                "url": "https://ai-assist.crossover.com",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, and vertical sidebar with icons and email addresses"
+                                },
+                                "content": [
+                                    {
+                                        "title": "AI Assist",
+                                        "layoutDescription": "Vertical layout",
+                                        "visibleText": "AI Assist\n10:55 AM\nHello Dragos (Admin), enter a user's email to begin chat session\nAI Assist\n10:55 AM\nThanks! The email dragos.nuta@trilogy.com has been configured (Admin), You are now set to chat with My-GPT40 based on screen resolution 768 1365"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Zoom",
+                        "windows": [
+                            {
+                                "title": "Meeting 40-Minutes",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "video controls, participant list, and chat panel"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Zoom Meeting 40-Minutes",
+                                        "layoutDescription": "Video call layout",
+                                        "visibleText": "Jozef Capovics\nDragos Nuta\nMute\nStop Video\nSecurity\nShare Screen\nApps\nNotes\nMore\nEnd"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T10:26:17Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Google Chrome, File Explorer, and system tray with time display showing '1:26 PM' and date '6/24/24'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Factory status May 2024 (TPM/Eng) - Google Docs",
+                                "url": "https://docs.google.com/document/d/1",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, and Google Docs toolbar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Factory status May 2024 (TPM/Eng)",
+                                        "layoutDescription": "Document open in Google Docs",
+                                        "visibleText": "Factory status April 2024 (TPM/Eng)\n\nSummary\n\nSlot Delivery\nIn numbers:\n15 commit goals: 5 completed, 7 on track, 2 off track (of which, one is at high risk)\n7 stretch goals: 2 deprioritized, 3 on track, 2 off track\n8 new goals (added during Q2): 1 completed, 3 on track, 4 off track (of which, two are at high risk)\nWhat went well:\nResponded well to changing BU priorities - took over and made progress on many new goals\nDid much better in meeting commitments - we will deliver all but one of the Commit goals\nTurned around the Messenger slot - delivered more than planned\nWhat did not go well:\nCustomer adoption is low and remains low (details below)\n\nMaintenance\nMaintenance had a great month. We have already delivered 88% of our Q2 orders (goal: 20 tickets) and we are on track to overhaul for all BUs.\nWe removed 62% of our backlog in Q2 so far and are on track to eliminate our backlog in Q2.\nYou can find the delivery scorecard and the burndown charts at the bottom of the document.\n\nEarly Customer Adoption\nPMs hired in April were assigned to 3 BUs (Ignite, Jigsaw, Influitive). We made progress, but results what we would have wanted and usage/activity remains low:\nMessenger: of 20 customers, 4 customers showed interest, none has concrete upgrade plans yet to wait until the new version is proven stable\nWe want to cut the number down is a problem in itself\nJive Cloud AI Copilot: 2 customers are actively using it, 7 have it enabled, most have it disabled\nInfluitive AI Feature: 2 customers started recently, 7\n\nImprovements\nWe are fixing this by defining the service\nTPM Slot - Early Adoption Service\nOther topics"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Zoom",
+                        "windows": [
+                            {
+                                "title": "Meeting - 42 Minutes",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "video feed, participant list, and meeting controls"
+                                },
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "Czapovics",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Drago Nutu",
+                                            "expression": "relaxed"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Google Chrome",
+                                "windows": [
+                                    {
+                                        "title": "Product Daily Check-in - Google Calendar",
+                                        "url": "https://calendar.google.com",
+                                        "position": "right corner",
+                                        "isActive": false,
+                                        "uiElements": {
+                                            "details": "a notification popup"
+                                        },
+                                        "content": [
+                                            {
+                                                "title": "Product Daily Check-in",
+                                                "layoutDescription": "Google Calendar notification",
+                                                "visibleText": "Product Daily Check-in\n13:30 \u2013 14:00\ncalendar.google.com\n\nRequest\nSnooze\nClose"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "appName": "File Explorer",
+                                "windows": [
+                                    {
+                                        "title": "Weekly Progress Report - TPM-Eng - Excel",
+                                        "position": "minimized",
+                                        "isActive": false,
+                                        "uiElements": {
+                                            "details": "icon on taskbar"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T10:29:24Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Zoom, and system utilities like volume and network status, as well as the date and time display '1:29 PM 6/4/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Factory status May 2024 (TPM/Eng)",
+                                "url": "https://docs.google.com/document",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help; Toolbar with undo, redo, print, spelling and grammar check, zoom settings, styles, and formatting options"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Factory status May 2024 (TPM/Eng)",
+                                        "layoutDescription": "Document layout with headings and bullet points",
+                                        "visibleText": "Summary\nKanban Slots\nJigsaw (1 slot)\nIgniteTech #1: Security\nIgniteTech #2: Copilot\nIgniteTech Maintenance\nGFI (1 slot)\nInfluitive (2 slots)\nStratifyd (1 slot)\nCrossover (1 slot)\nApplied AI (1 slot)\nTelco (3 slots + 1 Ops slot)\nTPM only slots (1 slot)\nMaintenance Delivery scorecard\nBurndown charts - road to zero...\nAll BUs\nIgniteTech\nCopperTree\nJigsaw\nInfluitive\n Use AI to create engaging challenges for PostBeyond\nDONE\nOFF TRACK (10%)\nON TRACK (80%)\nOFF TRACK (60%)\nNext Steps:\nEnable AI for communities\nAchieved:\nImplementation completed, is currently in testing phase before being released\nWe are tracking AI usage analytics on this feature\nNext Steps:\nRelease to customers\nAchieved:\nUtilizing CNU to perform analysis on past challenges\nChallenges:\nTeams have different exposures, e.g., PepsiCo had more challenges completed (by IBM which uses the platforms as an LMS) making it hard to identify patterns. Could be a great source of insights, if it were available.\nNext Steps:\nImprove the AI content generation\nAchieved:\nLinkedin sharing restored for PostBeyond.\nFacebook and LinkedIn app access control regained for PostBeyond.\nChallenges:\nThis was not a planned commitment when the quarter started, but we had to prioritize functionality and legal issues.\nNext Steps:\nComplete Facebook API and Android SDK upgrade so we do not lose functionality\nAchieved:\nSecurity fix for videos completed (AWS issue - this was a failed delivery from prior quarter).\nChallenges:\nSecurity issue for publicly accessible avatar images from common discussion is a complete Disclosure upgrade\nNext Steps:\nFix security issues for publicly accessible avatar images and limiting the types of files which can be uploaded by the users.\nDisclosure update has consumed longer than anticipated time. We chose to start work on this earlier in the quarter.\nOverall Reflection\nGetting Discourse updated has consumed longer than anticipated time. We chose to start work on this earlier in the quarter."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Zoom",
+                        "windows": [
+                            {
+                                "title": "Meeting 40-Minutes",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Conference controls including mute, stop video, security, share screen"
+                                },
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "Czapovics",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Drago Nuta",
+                                            "expression": "smiling"
+                                        }
+                                    ]
+                                },
+                                "content": [
+                                    {
+                                        "title": "Meeting 40-Minutes",
+                                        "layoutDescription": "Video call window",
+                                        "visibleText": "29:42"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Product Daily Check-in",
+                                "url": "https://calendar.google.com",
+                                "position": "right corner",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Calendar notification"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Product Daily Check-in",
+                                        "layoutDescription": "Notification popup",
+                                        "visibleText": "Product Daily Check-in\n13:30 \u2013 14:00\ncalendar.google.com\nSnooze\nClose"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Zoom meeting, as evidenced by the screenshots showing a video call with two participants, Jozef Capovics and Dragos Nuta. The meeting appears to be ongoing, with the user actively participating in the discussion. The Zoom interface shows typical video call controls such as mute, stop video, security, share screen, and more. The meeting duration is visible, indicating that the user has been in the meeting for a significant amount of time.",
+        "The user is also working on a Google Docs document titled 'Factory status May 2024 (TPM/Eng)'. The document contains detailed information about various project statuses, including slot delivery, maintenance, and early customer adoption. The user is likely reviewing and possibly updating the document, as the content includes specific metrics, achievements, challenges, and next steps for different projects. The document is structured with headings, bullet points, and tables, indicating a comprehensive report.",
+        "In addition to the Zoom meeting and Google Docs activity, the user has a notification from Google Calendar for a 'Product Daily Check-in' scheduled from 13:30 to 14:00. This suggests that the user is managing their schedule and preparing for upcoming meetings. The notification includes options to snooze or close, indicating that the user is aware of the upcoming event and can choose to address it later.",
+        "The user is interacting with an AI tool within the Chrome browser, specifically on a page titled 'AI Assist'. The AI tool, identified as 'My-GPT40', is configured to assist the user based on their email. The conversation with the AI includes setting up the email and preparing to chat with the AI assistant. This indicates that the user is leveraging AI for assistance, possibly for tasks related to their work or the ongoing meeting."
+    ],
+    "aiUseSummary": "The user utilizes an AI tool named 'My-GPT40' within the Chrome browser for assistance. The AI tool is configured based on the user's email, and the conversation includes setting up the email and preparing to chat with the AI assistant. This suggests that the user is leveraging AI for support in their workflow, potentially for tasks related to their work or the ongoing Zoom meeting. The AI tool's presence indicates an effort to enhance productivity and efficiency through AI-driven assistance.",
+    "activities": [
+        "MEETING",
+        "READING_SPEC",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "AI_IDE_EXTENSION"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T10:20:09Z",
+            "windowTitle": "Zoom Meeting 40-Minutes",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 8,
+            "mouse": 2,
+            "date": "2024-06-04T10:21:09Z",
+            "windowTitle": "Zoom Meeting 40-Minutes",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 26,
+            "mouse": 0,
+            "date": "2024-06-04T10:22:09Z",
+            "windowTitle": "Zoom Meeting 40-Minutes",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T10:23:09Z",
+            "windowTitle": "Zoom Meeting 40-Minutes",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T10:24:09Z",
+            "windowTitle": "Zoom Meeting 40-Minutes",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 67,
+            "mouse": 7,
+            "date": "2024-06-04T10:25:09Z",
+            "windowTitle": "Zoom Meeting 40-Minutes",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 3,
+            "date": "2024-06-04T10:26:09Z",
+            "windowTitle": "Google Drive Status Window",
+            "processName": "GoogleDriveFS",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 83,
+            "mouse": 0,
+            "date": "2024-06-04T10:27:09Z",
+            "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 43,
+            "mouse": 9,
+            "date": "2024-06-04T10:28:09Z",
+            "windowTitle": "Zoom Meeting 40-Minutes",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 4,
+            "mouse": 0,
+            "date": "2024-06-04T10:29:09Z",
+            "windowTitle": "Zoom Meeting 40-Minutes",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-04T10:20:00Z"
+}

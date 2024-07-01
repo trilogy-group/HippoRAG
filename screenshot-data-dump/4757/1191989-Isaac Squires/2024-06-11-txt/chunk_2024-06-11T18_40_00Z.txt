@@ -1,0 +1,227 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "Zoom"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-11T18:43:18Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Minimize, Core, AI, Pending, and system clock showing 12:43 PM, 11 Jun 2024",
+                        "position": "top of the screen"
+                    },
+                    {
+                        "elementType": "system tray",
+                        "details": "Contains icons for network, sound, and user profile",
+                        "position": "top right corner"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Zoom Meeting",
+                        "windows": [
+                            {
+                                "title": "Zoom Meeting",
+                                "position": "center of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Icons for Mute, Stop Video, Participants, Chat, Share Screen, Record, Reactions, Apps, Notes, More, and Leave"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference",
+                                        "layoutDescription": "Three participant videos displayed",
+                                        "visibleText": "Niraj Patel, Isaac Squires, Samy Aboel-Nil"
+                                    }
+                                ],
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "Niraj Patel",
+                                            "expression": "focused"
+                                        },
+                                        {
+                                            "name": "Isaac Squires",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Samy Aboel-Nil",
+                                            "expression": "eyes closed"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Tasks",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Task list with add task button"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Tasks",
+                                        "layoutDescription": "List of tasks with checkboxes",
+                                        "visibleText": "Add a task, Tablet for Phil's son, Split out content gen / prompt engineering, Do we grow marketing team?, Q2 progress / Q3 plan Budget meeting https://docs.google.com/document..., Samy 1:1 topics - App testing as a service - Doreun team research study..., Weekly update, Enter grade (support US grades only), Post TeachTap content on TikTok following the unit schedule on the calendar Split by channel per AP course, https://asset.unity.com/packages/tools/utilities/ Follow up with Doreen about beta program and research study, Publish game for Xbox / Playstation / Apple vision pro?, $299 per grade level"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Zoom meeting with three participants: Niraj Patel, Isaac Squires, and Samy Aboel-Nil. The meeting interface shows that the user has access to various controls such as Mute, Stop Video, Participants, Chat, Share Screen, Record, Reactions, Apps, Notes, More, and Leave. The participants appear to be discussing various topics, as indicated by their focused and neutral expressions.",
+        "On the right side of the screen, the user has a task management application open, displaying a list of tasks. The tasks include 'Tablet for Phil's son,' 'Split out content gen / prompt engineering,' 'Do we grow marketing team?,' 'Q2 progress / Q3 plan Budget meeting,' 'Samy 1:1 topics - App testing as a service - Doreen team research study,' 'Weekly update,' 'Enter grade (support US grades only),' 'Post TeachTap content on TikTok following the unit schedule on the calendar,' 'Follow up with Doreen about beta program and research study,' 'Publish game for Xbox / Playstation / Apple vision pro?,' and '$299 per grade level.' This indicates that the user is also managing and reviewing tasks while participating in the meeting."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a Zoom meeting and managing tasks through a task management application. No interactions with AI tools or AI-generated content are visible in the screenshots.",
+    "activities": [
+        "MEETING"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T18:40:48Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T18:41:48Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T18:42:48Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T18:43:48Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-11T18:44:48Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T18:45:48Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T18:46:48Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 7,
+            "date": "2024-06-11T18:47:48Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-11T18:48:48Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 5,
+            "date": "2024-06-11T18:49:48Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-11T18:40:00Z"
+}

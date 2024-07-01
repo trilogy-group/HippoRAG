@@ -1,0 +1,195 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "meet.google.com",
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T20:16:03Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Minimize, Core, MS:En, Teach!, DevFar, Me, (9+), W, A, Pending, Magic Academy, Budget, New T, and user profile picture. Also includes system clock showing '2:16 PM' and date '12 Jun 2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - zii-cirx-oyg - Google Chrome",
+                                "url": "meet.google.com/zii-cirx-oyg",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, Google account profile picture, minimize, maximize, close buttons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Meet Video Call",
+                                        "layoutDescription": "Video call interface",
+                                        "visibleText": "Dragos Nuta\n2:16 PM | Isaac / Dragos\nIsaac Squires"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Google Meet video call. The interface shows two participants, Dragos Nuta and Isaac Squires, with the call taking place at 2:16 PM. The user is actively participating in the meeting, as indicated by the visible video feed and the presence of the Google Meet interface. The browser tabs suggest that the user has multiple tasks or projects open, including WS:Eng, Teach!, DevFar, and others, indicating a busy and multitasking work environment.",
+        "The user is using Google Chrome as their web browser, with the active tab being a Google Meet session. The taskbar at the bottom of the screen shows various icons, including Minimize, Core, MS:En, Teach!, DevFar, Me, (9+), W, A, Pending, Magic Academy, Budget, and New T, along with the system clock displaying '2:16 PM' and the date '12 Jun 2024'. This suggests that the user is managing multiple applications and tasks simultaneously while participating in the video call."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a Google Meet video call and managing multiple browser tabs related to different tasks or projects. No interactions with AI tools or AI-driven features are visible in the screenshots.",
+    "activities": [
+        "MEETING"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T20:10:54Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T20:11:54Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T20:12:54Z",
+            "windowTitle": "Meet - wyj-rdjj-kan - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wyj-rdjj-kan?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 17,
+            "date": "2024-06-12T20:13:54Z",
+            "windowTitle": "Inbox (17) - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 5,
+            "date": "2024-06-12T20:14:54Z",
+            "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T20:15:54Z",
+            "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T20:16:54Z",
+            "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T20:17:54Z",
+            "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T20:18:54Z",
+            "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T20:19:54Z",
+            "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-12T20:10:00Z"
+}

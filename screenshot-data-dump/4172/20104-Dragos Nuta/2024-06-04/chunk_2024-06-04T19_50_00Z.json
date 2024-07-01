@@ -1,0 +1,351 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "docs.google.com",
+    "explorer",
+    "meet.google.com",
+    "chrome"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-04T19:50:25Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Meet, and system utilities like clock and language settings",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Factory status May 2024 (TPM/Eng)",
+                "url": "https://docs.google.com/document/d/1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tools like File, Edit, View, Insert, Format, Tools, Extensions, Help, and search bar"
+                },
+                "content": [
+                  {
+                    "title": "Factory status May 2024 (TPM/Eng)",
+                    "layoutDescription": "Text document layout",
+                    "visibleText": "NEW goal: Monitor: Upgrade Webmethods Interpreter to version 10.15 (Java 11) BLOCKED\nNEW goal: Messenger Java 17 upgrade IN TRACK\nOverall Reflection\nIgniteTech #1: Security\n1 commit defense goal: while behind from a progress perspective, we are confident we can recover and deliver by EoQ\nCommit: Fix live Security ON TRACK\nCommit: Upgrade 6 components/dependencies to address security vulnerabilities raised by customers adding up to >57.5M ARR\nOverall Reflection\nLast month, this slot was reported as being 'off track.' Since then, progress has been good, despite a very n"
+                  }
+                ]
+              },
+              {
+                "title": "Meet - qrz-rpvr-qjr",
+                "url": "https://meet.google.com/qrz-rpvr-qjr",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "call interface with controls for camera, microphone, and chat"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Adviemto",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Dragos Nuta",
+                      "expression": "tired"
+                    }
+                  ]
+                },
+                "content": [
+                  {
+                    "title": "Meet - qrz-rpvr-qjr",
+                    "layoutDescription": "Video call layout",
+                    "visibleText": "read.ai meeting notes"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T19:56:05Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Google Chrome, Microsoft Edge, File Explorer, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '10:56 PM'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "LinkedIn Renewal 2024 - Google Sheets",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help, Accessibility. Toolbar with undo, redo, print, formatting options, zoom controls, and cell editing tools."
+                },
+                "content": [
+                  {
+                    "title": "LinkedIn Renewal 2024",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "A64\nAntigua, Antigua and Barbuda\n1808\n1809\n1810\n1811\n1812\n1813\n1814"
+                  }
+                ]
+              },
+              {
+                "title": "Pivot Table 2 - Google Sheets",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Table editor visible with options for Rows, Columns, Values, and Filters."
+                },
+                "content": [
+                  {
+                    "title": "Pivot Table 2",
+                    "layoutDescription": "Pivot table editor",
+                    "visibleText": "analytics!A1:Y74975\nRows\nSort by Ascending\nShow totals\nColumns\nAdd\nValues as: Columns\nJobSlotWeeks_c\nSummarize by SUM\nShow as Default\nMQLs_c\nSummarize by SUM\nShow as Default\nFilters\nAdd"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Google Meet",
+            "windows": [
+              {
+                "title": "Google Meet Video Call",
+                "url": "https://meet.google.com",
+                "position": "right of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Conference window with participant thumbnails, mute, camera, and share screen controls."
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Dragoș Nuță",
+                      "expression": "focused"
+                    }
+                  ]
+                },
+                "content": [
+                  {
+                    "title": "Meet Video Call",
+                    "layoutDescription": "Video call interface",
+                    "visibleText": "Dragoș Nuță\n4\nread.ai meeting notes\nContract started\nApril 26"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T19:59:41Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '10:59 PM 6/4/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "LinkedIn Renewal 2024 - Google Sheets",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help. Toolbar with undo, redo, print, formatting options, zoom controls, and cell formatting tools. Scroll bars on the right and bottom."
+                },
+                "content": [
+                  {
+                    "title": "LinkedIn Renewal 2024",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "7.43, 5.29, 19.13, 30.4, 8.15, 9.13, 36192.52, 13112, 0.3622848036, 750,000, 90,099, 873,725, 647,508, 673,446, 2,405,665, 41,377, 51,277,591"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in a Google Meet video conference, as evidenced by the screenshots showing the Google Meet interface with participants. The meeting appears to involve discussions on various topics, including 'read.ai meeting notes' and 'Contract started April 26'. The user is also sharing their screen during the meeting, indicating active participation and collaboration with team members.",
+    "In parallel to the meeting, the user is working on a Google Docs document titled 'Factory status May 2024 (TPM/Eng)'. The document contains detailed project updates and goals, such as upgrading Webmethods Interpreter to version 10.15 (Java 11) and Messenger Java 17. The user is likely reviewing and updating the document based on the visible text and layout.",
+    "The user is also working on a Google Sheets document titled 'LinkedIn Renewal 2024'. The document includes various data points and pivot tables, suggesting that the user is analyzing and organizing data related to LinkedIn renewals. The user is seen interacting with the pivot table editor, adding rows, columns, and values, indicating active data manipulation and analysis.",
+    "Throughout the session, the user is utilizing Google Chrome as their primary web browser, with multiple tabs open for different Google Docs and Sheets documents. This indicates a focus on document editing, data analysis, and collaboration through web-based tools."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in document editing, data analysis, and video conferencing without any visible interaction with AI tools or assistants.",
+  "activities": [
+    "READING_SPEC",
+    "WRITING_SPEC",
+    "MEETING"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "DB"
+  ],
+  "programmingLanguages": [
+    "JAVA",
+    "SQL"
+  ],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 1,
+      "mouse": 12,
+      "date": "2024-06-04T19:50:11Z",
+      "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit#heading=h.p48fd2cyppfn",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 55,
+      "mouse": 12,
+      "date": "2024-06-04T19:51:12Z",
+      "windowTitle": "Task Switching",
+      "processName": "explorer",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 19,
+      "mouse": 22,
+      "date": "2024-06-04T19:52:12Z",
+      "windowTitle": "Meet - qrz-rpvr-qjr - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/qrz-rpvr-qjr?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 18,
+      "mouse": 33,
+      "date": "2024-06-04T19:53:12Z",
+      "windowTitle": "meet.google.com is sharing a window.",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 24,
+      "mouse": 19,
+      "date": "2024-06-04T19:54:12Z",
+      "windowTitle": "meet.google.com is sharing a window.",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 2,
+      "mouse": 16,
+      "date": "2024-06-04T19:55:12Z",
+      "windowTitle": "meet.google.com is sharing a window.",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 24,
+      "date": "2024-06-04T19:56:11Z",
+      "windowTitle": "meet.google.com is sharing a window.",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 25,
+      "mouse": 19,
+      "date": "2024-06-04T19:57:11Z",
+      "windowTitle": "meet.google.com is sharing a window.",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 65,
+      "mouse": 14,
+      "date": "2024-06-04T19:58:11Z",
+      "windowTitle": "meet.google.com is sharing a window.",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 6,
+      "mouse": 14,
+      "date": "2024-06-04T19:59:11Z",
+      "windowTitle": "meet.google.com is sharing a window.",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-04T19:50:00Z"
+}

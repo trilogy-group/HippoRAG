@@ -1,0 +1,201 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "drive.google.com",
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T00:57:41Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Minimize, Core, Inbox, LearnWith.AI, DevFactory, Calendar, Weekly Update, Magic Academy, Budget, and user profile. Notification area shows network, sound, and clock icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "LearnWith.AI Beta Test - Ana (2024-06-06 18:05 GMT+3) - Google Drive",
+                                "url": "drive.google.com/file/d/1CmwimKV96g",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, profile icon, and extensions visible"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Player",
+                                        "layoutDescription": "Centered large video player",
+                                        "visibleText": "Sam cut his pizza into four equal pieces. He ate one piece. How much of the pizza did Sam eat? One half One third One quarter"
+                                    },
+                                    {
+                                        "title": "Video Call",
+                                        "layoutDescription": "Small video call window in bottom right",
+                                        "visibleText": "Bogdan Ienea"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is primarily engaged in a video call and watching a video on Google Drive. The video appears to be a beta test for 'LearnWith.AI,' as indicated by the title 'LearnWith.AI Beta Test - Ana (2024-06-06 18:05 GMT+3) - Google Drive.' The video content involves a math problem where Sam cuts his pizza into four equal pieces and eats one piece, with the question asking how much of the pizza Sam ate. The user is also participating in a video call with a person named Bogdan Ienea, whose video feed is visible in the bottom right corner of the screen.",
+        "The user has multiple tabs open in their Chrome browser, including 'Inbox,' 'LearnWith.AI,' 'DevFactory,' 'Calendar,' 'Weekly Update,' 'Magic Academy,' and 'Budget.' However, the primary focus is on the 'LearnWith.AI Beta Test' video. The taskbar at the bottom of the screen shows icons for various applications, but the active window is the Chrome browser displaying the Google Drive video. The user is likely reviewing the beta test video content and possibly discussing it with Bogdan Ienea during the video call."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is focused on watching a video and participating in a video call. No AI chat interfaces or AI-driven tools are visible in the screenshots.",
+    "activities": [
+        "MEETING",
+        "READING_SPEC"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 411,
+            "mouse": 3,
+            "date": "2024-06-12T00:50:45Z",
+            "windowTitle": "LearnWith.AI Beta Test - Ana (2024-06-06 18:05 GMT+3) - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1CmwimKV96gAkuaeeAGpSJ_fRJQIZnbZ-/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 3,
+            "date": "2024-06-12T00:51:45Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAQOJ5hB4",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 1,
+            "mouse": 12,
+            "date": "2024-06-12T00:52:45Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAnM2TMLc",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 203,
+            "mouse": 10,
+            "date": "2024-06-12T00:53:45Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAQOJ5hB4",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 8,
+            "date": "2024-06-12T00:54:45Z",
+            "windowTitle": "LearnWith.AI Beta Test - Ana (2024-06-06 18:05 GMT+3) - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1CmwimKV96gAkuaeeAGpSJ_fRJQIZnbZ-/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T00:55:45Z",
+            "windowTitle": "LearnWith.AI Beta Test - Ana (2024-06-06 18:05 GMT+3) - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1CmwimKV96gAkuaeeAGpSJ_fRJQIZnbZ-/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 57,
+            "mouse": 17,
+            "date": "2024-06-12T00:56:45Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAnM2TMLc",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 5,
+            "date": "2024-06-12T00:57:45Z",
+            "windowTitle": "LearnWith.AI Beta Test - Ana (2024-06-06 18:05 GMT+3) - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1CmwimKV96gAkuaeeAGpSJ_fRJQIZnbZ-/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 49,
+            "mouse": 5,
+            "date": "2024-06-12T00:58:45Z",
+            "windowTitle": "LearnWith.AI Beta Test - Ana (2024-06-06 18:05 GMT+3) - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1CmwimKV96gAkuaeeAGpSJ_fRJQIZnbZ-/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T00:59:45Z",
+            "windowTitle": "LearnWith.AI Beta Test - Ana (2024-06-06 18:05 GMT+3) - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1CmwimKV96gAkuaeeAGpSJ_fRJQIZnbZ-/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-12T00:50:00Z"
+}

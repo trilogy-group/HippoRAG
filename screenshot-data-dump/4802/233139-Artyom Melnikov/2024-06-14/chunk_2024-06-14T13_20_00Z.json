@@ -1,0 +1,291 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "webstorm64"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T13:20:20Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. System tray includes network, sound, and clock (23:34, 14/06/2024)",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "lambda-process - Visual Studio Code",
+                "url": null,
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar at top, sidebar on left, editor and preview pane in center, status bar at bottom"
+                },
+                "content": [
+                  {
+                    "title": "Writing a Context Pack",
+                    "layoutDescription": "Text editor on left, markdown preview on right",
+                    "visibleText": "# Writing a Context..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "lambda-process - Visual Studio Code",
+                "url": null,
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar at top, sidebar on left, editor and preview pane in center, status bar at bottom"
+                },
+                "content": [
+                  {
+                    "title": "Writing a Context Pack",
+                    "layoutDescription": "Text editor on left, markdown preview on right",
+                    "visibleText": "# Writing a Context Pack\n\n## Activity\n\nDocumentation\n\n## Summary\n\nThis playbook explains how to create and contribute to Context Packs for Trilogy's products.\n\n## Prerequisites\n\n- Solid knowledge of the specific area of the product that the Context Pack is being created for\n- Proficiency in writing clear, concise, and informative technical documentation\n- Proficiency in prompt-engineering\n\n## What is a Context Pack?\n\nContext Packs are a compilation of business, functional and technical information about the product at hand. Context Packs are used to provide context to human developers and AI models, helping them navigate the complex and ensuring that the implementation is aligned with the product's business goals.\n\nContext Pack documents follow the naming convention of L#, where # is the zoom level number (1-5):\n\n- **L1**: this document contains high level business and technical information about the product in general. It describes what high-level problems this project solves for its audience and what technology is involved in making it happen and why. L1 Context Pack lists and describes every Module. Among other uses, a L1 will refer to an L1 Context Pack to aid its research needs.\n- **L2**: each L2 document describes one of the Module's Functions. L2 Context Pack provides a functional and technical overview of the respective Module, highlights important information about the tech stack, and explains its technical design. L2 document also lists and describes every Function in the module, referencing the more detailed L3-level document about the Function. Among other uses, an L1 will refer to it when investigating the Module's technical or functional details to discover the functions within the Module.\n- **L3**: each L3 document describes one of the Module's Functions. Similarly to L2 it also covers both the functional and the technical details and important decisions, specific to the Function. L3 will refer to L3 documents when trying to understand Functionality, important Technical details about the Function and investigate implications/classes relevant to the Function.\n\nFrom this point on we transition from Markdown documents to Code-level comments\n\n- **L4**: Each class or file includes (must include) Class/File-level comments/annotations inside the file or within the non-trivial code in the project must be annotated with comments, explaining what the code does and why it is important. L4 will refer to L4 documents when making high-level design decisions, understanding the implications of the code, and ensuring that the implementation is aligned with the product's business goals.\n\n## Creating a Context Pack\n\nContext Packs live in the product's main repository (e.g. /docs/context-pack/...)\n\n### L1\n\n1. Create a new Markdown document in the new 'context-pack' directory for L1 context: 'L1.context.md'\n2. Copy the contents of the [Context Pack - L1 Template](...) into the new document\n3. Fill in the placeholders in the template with the Context Pack's content, following the instructions\n\n### L2\n\n4. For each module that you have identified in the L1 document, create a new L2 context document: 'L2.context.md'\n5. Copy the contents of the [Context Pack - L2 Template](...) into the new document\n6. Fill in the placeholders in the template with the Context Pack's content, following the instructions\n\n### L3\n\n7. For each function that you have identified in the L2 document, create a new L3 context document: 'L3.context.md'\n8. Copy the contents of the [Context Pack - L3 Template](...) into the new document\n9. Fill in the placeholders in the template with the Context Pack's content, following the instructions"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T13:24:02Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Time displayed is 23:34. Date is 14/06/2024. Network, sound, and battery status icons are visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "lambda-process - Visual Studio Code",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Explorer on the left with folders and files, tabs open for multiple markdown and template files, bottom status bar showing branch master, 41 problems, 10 warnings, 1 error, and git sync status."
+                },
+                "content": [
+                  {
+                    "title": "context-pack-playbook editor open",
+                    "layoutDescription": "Markdown editor open",
+                    "visibleText": "# Benchmarking a Context Pack\n\n1. Create a new benchmarking config file for the Context Pack in the ['ai-second-brain-benchmark'](https://github.com/ repository.\n2. Define tests i.e. practical tasks in the context of the product, designed to verify the AI's ability to effectively navigate the database and follow the specific business, functional and technical requirements and established process during implementation.\n3. Make sure that your tasks and assertions cover all the scoped provisions from the Context Pack.\n4. Tasks must be high-level (functional), i.e. at the same level as your regular Jira tasks received from the Product team.\n5. Assertions must be narrow in scope and easy to verify by AI with consistent outcome.\n6. Assertions must be deterministic (i.e. \"small\" = BAD, \"less than 20 lines\" = GOOD; \"properly named\" = BAD, \"follows X naming convention\" = GOOD).\n7. Assertions must only verify that AI accurately used information in the Context Pack (i.e. \"task implemented correctly\" = BAD, \"follows undocumented best practices\" = BAD.).\n8. Run the Benchmarking Tool with your new benchmarking config file.\n\n# Revising a Context Pack\n\n1. Review the current content of the Context Pack documents, relevant to the area being reviewed.\n2. Review the entire context pack branch, starting from L1 and going down to L5 for the area being reviewed.\n3. Update the necessary changes to the relevant Context Pack documents.\n4. Make the benchmarking config file in the ['ai-second-brain-benchmark'](https://github.com/ repository.\n5. Run the Benchmarking Tool with the updated benchmarking config file.\n6. Iterate by improving/extending the Context Pack and benchmarking tests until they perform well on the Benchmarking Tool.\n7. Pass rate \"with context\" is >90% or is at least 30% higher than \"without context\".\n8. Inconclusive rate \"with context\" is <5%."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T13:28:38Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Time displayed is 23:34. Date is 14/06/2024. Network, sound, and battery status icons are visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "lambda-process - Visual Studio Code",
+                "url": null,
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "a sidebar with folders and files, a top menu bar, and multiple open document tabs"
+                },
+                "content": [
+                  {
+                    "title": "context-pack-playbook editor with markdown content",
+                    "layoutDescription": "editor with markdown content",
+                    "visibleText": "# What is a Context Pack?\n\nContext Packs are a compilation of business, functional and technical information about the product at different zoom levels in a hierarchical structure.\n\nContext Packs are used to provide context to human developers and AI models, helping them navigate the code base and ensuring that the implementation is aligned with the product's business goals, functional requirements, technical architecture and established practices.\n\nContext Pack documents follow the naming convention of L#, where # is the zoom level number (1-5):\n\n- **L1** - this document contains high level business and technical information about the product in general. It describes what high-level problems this project solves for its audience and what technology is involved in making it happen and why L1 Context Pack lists and describes every Module. Among other uses, AI will refer to it to investigate which Modules the product has.\n- **L2** - each L2 document describes one of the Module's Functions. Similarly to L2 it also covers both the technical and the technical details and important decisions, specific to the Function. Among other uses, AI will refer to it when investigating the Module's technical or functional details and discover the functions within the Module.\n- **L3** - each L3 document describes one of the Module's Functions. Similarly to L2 it also covers both the functional and the technical details and important decisions, specific to the Function. Among other uses, AI will refer to it when investigating the Module's technical or functional details and discover the functions within the Module.\n\n---\n\n## Creating a Context Pack\n\nContext Packs live in the product's main repository (e.g. /docs/context-pack-1/...)\n\n### L1\n\n1. Create a new Markdown document in the new /context-pack-1 directory for L1 context:\n1. Copy the contents of the [Context Pack - L1 Template](...) into the new document\n1. Fill in the placeholders in the template with the Context Pack's content, following the instructions in the template\n\n### L2\n\n1. For each module that you have identified in the L1 document, create a new L2 context document: \n1. Copy the contents of the [Context Pack - L2 Template](...) into the new document\n1. Fill in the placeholders in the template with the Context Pack's content, following the instructions in the template\n\n### L3\n\n1. For each function that you have identified in the L2 document, create a new L3 context document: \n1. Copy the contents of the [Context Pack - L3 Template](...) into the new document\n1. Fill in the placeholders in the template with the Context Pack's content, following the instructions in the template\n\n### L4\n\n1. For each class or file that you have identified in the L3 document, create JSDoc (or similar for other languages) comments inside the files\n1. Annotate non-trivial code in the project must be annotated with comments, explaining what the code is meant to do. Among other uses, AI will refer to these comments and form its understanding, prioritizing it over the code itself.\n\n### L5\n\n1. For each new function, method, or block of code in the class or file, create comments explaining the code's purpose and how it makes changes to the overall project.\n\n---\n\n# Proficiency in prompt-engineering"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in writing and editing documentation within Visual Studio Code. The primary focus is on creating and contributing to Context Packs for Trilogy's products. The user is working on multiple markdown files, including 'context-pack-playbook.md', 'L1.context.template.md', 'L2.module.context.template.md', and 'L3.module.function.context.template.md'. The content includes detailed instructions on creating, benchmarking, and revising Context Packs, which are used to provide context to human developers and AI models.",
+    "The user is also involved in reading and editing technical documentation. The visible text in the screenshots includes sections on 'What is a Context Pack?', 'Creating a Context Pack', 'Benchmarking a Context Pack', and 'Revising a Context Pack'. These sections provide a comprehensive overview of the purpose, structure, and creation process of Context Packs, as well as guidelines for benchmarking and revising them to ensure they meet the required standards.",
+    "Throughout the captured period, the user is consistently working within the Visual Studio Code environment, utilizing its features such as the sidebar for file navigation, the editor for writing and editing markdown content, and the preview pane for viewing the rendered markdown. The user is also managing multiple open tabs, indicating a multitasking approach to handling different sections of the documentation simultaneously."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is focused on writing and editing documentation within Visual Studio Code without any visible interaction with AI chat interfaces or other AI tools.",
+  "activities": [
+    "WRITING_SPEC",
+    "READING_SPEC"
+  ],
+  "workTypes": [
+    "UI"
+  ],
+  "programmingLanguages": [
+    "OTHER"
+  ],
+  "toolTypes": [
+    "IDE",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_SPEC",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-14T13:20:17Z",
+      "windowTitle": "lambda-process ? context-pack.playbook.md",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-14T13:21:17Z",
+      "windowTitle": "lambda-process ? context-pack.playbook.md",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T13:22:17Z",
+      "windowTitle": "lambda-process ? context-pack.playbook.md",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-14T13:23:17Z",
+      "windowTitle": "lambda-process ? context-pack.playbook.md",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-14T13:24:17Z",
+      "windowTitle": "lambda-process ? context-pack.playbook.md",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-14T13:25:17Z",
+      "windowTitle": "lambda-process ? context-pack.playbook.md",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-14T13:26:18Z",
+      "windowTitle": "lambda-process ? context-pack.playbook.md",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-14T13:27:18Z",
+      "windowTitle": "lambda-process ? context-pack.playbook.md",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T13:28:18Z",
+      "windowTitle": "lambda-process ? context-pack.playbook.md",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-14T13:29:18Z",
+      "windowTitle": "lambda-process ? context-pack.playbook.md",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-14T13:20:00Z"
+}

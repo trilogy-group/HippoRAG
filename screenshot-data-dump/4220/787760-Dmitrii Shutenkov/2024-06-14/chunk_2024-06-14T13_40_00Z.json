@@ -1,0 +1,285 @@
+{
+  "candidateId": 1444536,
+  "apps": [
+    "us-east-1.console.aws.amazon.com",
+    "package python with dependencies as aws",
+    "docs.aws.amazon.com",
+    "cmd",
+    "TOTALCMD64"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T13:40:27Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, Search, Edge, File Explorer, Windows Terminal, Visual Studio Code, Notepad++, Word, Excel, PowerPoint, Adobe Reader, Calendar, Mail, Python, Antivirus, LAN settings, Internet settings, and system clock",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "xo-hiring-candidate- | Functions | Lambda - Google Chrome",
+                "url": "https://us-east-1.console.aws.amazon.com/lambda/home",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "browser tabs, address bar, navigation buttons, AWS management console navigation bar, Lambda function tabs"
+                },
+                "content": [
+                  {
+                    "title": "AWS Lambda Management Console",
+                    "layoutDescription": "Web page with navigation and content area",
+                    "visibleText": "Code\nTest\nMonitor\nConfigure\nSource\nInfo\nLoading your function..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T13:43:38Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, Edge, File Explorer, and several unidentified applications. System tray includes network, sound, and clock (14:43:40, 14/06/2024).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Working with .zip file archives for Python Lambda functions - AWS Lambda - Google Chrome",
+                "url": "https://docs.aws.amazon.com/lambda",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, navigation buttons, AWS management console button, profile icon, and settings menu."
+                },
+                "content": [
+                  {
+                    "title": "AWS Lambda Developer Guide",
+                    "layoutDescription": "Text and code snippets visible",
+                    "visibleText": "AWS Lambda Developer Guide\n\nRecently added to this guide Preview\nTutorial: Using an Amazon MSK event source mapping to invoke a Lambda function June 14, 2024\nGranting other AWS entities access to your Lambda functions June 8, 2024\nWorking with AWS managed policies in the execution role June 8, 2024\nView all\n\nWhat is AWS Lambda?\nGetting started\n\n2. Create a new directory named package into which you will install your dependencies.\n\nmkdir package\n\nNote that for a .zip deployment package, Lambda expects your source code and its dependencies all to be at the root of the zip file. However, installing dependencies directly in your project directory can introduce a large number of new files and folders and make navigating around your IDE difficult. You create a separate package directory here to keep your dependencies separate from your source code.\n\nInstall your dependencies in the package directory. The example below installs the Boto3 SDK from the Python Package Index using pip. If your function code uses Python packages you have created yourself, save them in the package directory.\n\npip install --target ./package boto3\n\nCreate a .zip file with the installed libraries at the root.\n\ncd package\nzip -r ../my_deployment_package.zip ."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T13:49:18Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and system tray with network, sound, and date/time indicators",
+            "position": "bottom"
+          },
+          {
+            "elementType": "system tray",
+            "details": "Icons for network, sound, notifications, and clock displaying '14:49 14/06/2024'",
+            "position": "bottom right"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Total Commander (x64) 10.52 - NOT REGISTERED",
+            "windows": [
+              {
+                "title": "Total Commander (x64) 10.52 - NOT REGISTERED",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with options: Files, Mark, Commands, Net, Show, Configuration, Start, Help. Toolbar with various file operation icons"
+                },
+                "content": [
+                  {
+                    "title": "Left Panel",
+                    "layoutDescription": "List of files and folders",
+                    "visibleText": "adding: zee\nc:\\Users\\xouser\\Projects\\yo-hiring-utili 14:15\t<DIR>\n[db]\t\t\t29/03/2024 14:15\t<DIR>\n[guides]\t\t\t29/03/2024 14:15\t<DIR>\n[node_modules]\t\t\t29/03/2024 14:15\t<DIR>\n[src]\t\t\t06/05/2024 09:31\t<DIR>\n[template]\t\t\t\t\n.env\ttemplate\nc:\\Users\\xouser\\Projects\\yo-hiring-utili 14:15\t-a-\n.gitignore\t\t409\t29/03/2024 14:15\t-a-\ncredentials\tjson\t2,400\t11/05/2024 19:02\t-a-\ndizext\tcsv\t299,844\t06/05/2024 14:39\t-a-\nindirect\tcsv\t329,382\t06/05/2024 14:39\t-a-\npackage\tjson\t662\t11/05/2024 17:54\t-a-\npackage-lock\tjson\t113,343\t01/05/2024 17:54\t-a-"
+                  },
+                  {
+                    "title": "Right Panel",
+                    "layoutDescription": "List of files and folders",
+                    "visibleText": "c:\\Users\\xouser\\Projects\\yo-hiring-utili 14:45\t<DIR>\n[attr]\t\t\t14/06/2024 14:45\t<DIR>\n[attrs]\t\t\t14/06/2024 14:45\t<DIR>\n[attrs-23.0.0.dist-info]\t\t\t14/06/2024 14:45\t<DIR>\n[bin]\t\t\t14/06/2024 14:44\t<DIR>\n[cache..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in managing AWS Lambda functions. At 13:40:27, the user is seen on the AWS Lambda Management Console, specifically on the 'xo-hiring-candidate' function page. The console is in the process of loading the function's code. This indicates that the user is likely preparing to review or edit the Lambda function's code.",
+    "At 13:43:38, the user is researching how to package Python dependencies for AWS Lambda functions. They are viewing the AWS Lambda Developer Guide, which provides instructions on creating a new directory for dependencies, installing the Boto3 SDK using pip, and creating a .zip file for deployment. This suggests that the user is working on deploying a Python-based Lambda function and is ensuring they follow best practices for packaging dependencies.",
+    "At 13:49:18, the user is using Total Commander, a file management tool, to organize and manage project files. The left panel shows directories and files related to a project named 'yo-hiring-utilities', including directories for source code, node modules, and various configuration files. The right panel shows the contents of a directory named 'campaign-tracking', which includes various Python packages and dependencies. This indicates that the user is preparing or managing the files necessary for their Lambda function deployment."
+  ],
+  "aiUseSummary": "",
+  "activities": [
+    "READING_SPEC",
+    "RESEARCH"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "IAC"
+  ],
+  "programmingLanguages": [
+    "PYTHON"
+  ],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DEVELOPMENT_UTILITIES"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "RESEARCH",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 3,
+      "mouse": 11,
+      "date": "2024-06-14T13:40:24Z",
+      "windowTitle": "xo-hiring-candidate-pr435-CustomCDKBucketDeploymen-jkWEnbwYmedJ | Functions | Lambda - Google Chrome",
+      "processName": "us-east-1.console.aws.amazon.com",
+      "visitingUrl": "us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/functions/xo-hiring-candidate-pr435-CustomCDKBucketDeploymen-jkWEnbwYmedJ?tab=code",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 8,
+      "date": "2024-06-14T13:41:24Z",
+      "windowTitle": "xo-hiring-candidate-pr435-CustomCDKBucketDeploymen-jkWEnbwYmedJ | Functions | Lambda - Google Chrome",
+      "processName": "us-east-1.console.aws.amazon.com",
+      "visitingUrl": "us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/functions/xo-hiring-candidate-pr435-CustomCDKBucketDeploymen-jkWEnbwYmedJ?tab=configure",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 31,
+      "mouse": 14,
+      "date": "2024-06-14T13:42:24Z",
+      "windowTitle": "New Tab - Google Chrome",
+      "processName": "package python with dependencies as aws",
+      "visitingUrl": "package python with dependencies as aws",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 2,
+      "mouse": 2,
+      "date": "2024-06-14T13:43:25Z",
+      "windowTitle": "Working with .zip file archives for Python Lambda functions - AWS Lambda - Google Chrome",
+      "processName": "docs.aws.amazon.com",
+      "visitingUrl": "docs.aws.amazon.com/lambda/latest/dg/python-package.html",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 52,
+      "mouse": 6,
+      "date": "2024-06-14T13:44:25Z",
+      "windowTitle": "Administrator: Command Prompt",
+      "processName": "cmd",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 35,
+      "mouse": 5,
+      "date": "2024-06-14T13:45:25Z",
+      "windowTitle": "Administrator: Command Prompt",
+      "processName": "cmd",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 12,
+      "mouse": 3,
+      "date": "2024-06-14T13:46:25Z",
+      "windowTitle": "Working with .zip file archives for Python Lambda functions - AWS Lambda - Google Chrome",
+      "processName": "docs.aws.amazon.com",
+      "visitingUrl": "docs.aws.amazon.com/lambda/latest/dg/python-package.html",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 65,
+      "mouse": 5,
+      "date": "2024-06-14T13:47:25Z",
+      "windowTitle": "Working with .zip file archives for Python Lambda functions - AWS Lambda - Google Chrome",
+      "processName": "docs.aws.amazon.com",
+      "visitingUrl": "docs.aws.amazon.com/lambda/latest/dg/python-package.html",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 19,
+      "mouse": 16,
+      "date": "2024-06-14T13:48:25Z",
+      "windowTitle": "Total Commander (x64) 10.52 - NOT REGISTERED",
+      "processName": "TOTALCMD64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 45,
+      "mouse": 11,
+      "date": "2024-06-14T13:49:25Z",
+      "windowTitle": "Total Commander (x64) 10.52 - NOT REGISTERED",
+      "processName": "TOTALCMD64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-14T13:40:00Z"
+}

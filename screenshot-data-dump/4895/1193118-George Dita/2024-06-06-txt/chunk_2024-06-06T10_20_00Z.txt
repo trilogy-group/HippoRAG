@@ -1,0 +1,219 @@
+{
+    "candidateId": 2368956,
+    "apps": [
+        "Google Chat",
+        "Finder",
+        "docs.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-06T10:25:26Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Google Chrome, Microsoft Outlook, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Adobe Acrobat, System Preferences, and other unidentified applications. Also includes a system clock showing the time '10:25 AM' and date 'Wednesday, June 6'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Other unidentified applications",
+                        "windows": []
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-06T10:28:34Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Google Chrome, Microsoft Outlook, Microsoft Word, and other unidentified applications. Also includes system status icons like Wi-Fi, battery, and clock displaying '10:28 AM'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "AdvocateHub - Custom... - Google Drive",
+                                "position": "left top",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Google Drive interface with sidebar and file list"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Drive",
+                                        "layoutDescription": "List and sidebar",
+                                        "visibleText": "Drive\nMy Drive\nShared drives\nShared with me\nRecent\nStarred\nTrash\n\nFolders\nAdvocateHub - Content Review\nCustomEngagement - Strategy\nCustomEngagement - Tactics\nCustomEngagement - Overview\nCustomEngagement - Budget\nCustomEngagement - Final\n\nTeam\nGeorge - Reviewer\nSophia - Writer\n\nLast modified\nToday\nYesterday\nLast week"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Marketing Email",
+                                "position": "center top",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Email interface with message list and reading pane"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email",
+                                        "layoutDescription": "List and reading pane",
+                                        "visibleText": "Marketing Email\n\nInbox\nDrafts\nSent\nTrash\n\nEmails\nSubject: Re: Important Project Update\nFrom: Mitchell Horowitz\nDate: June 6, 2024\n\nMitchell Horowitz\n\nI understand that it's a good thing\n\nMitchell, I understand your need for the RFP to be exactly as you want it, and I respect your decision. However, I believe that our team has put in a lot of effort and that the current draft is very close to what you are looking for.\n\nI still believe we can meet the mark, but I see your frustration and understand your concerns. I hope we can resolve this amicably and move forward.\n\nThe RFP draft remains largely unchanged from yesterday's version.\n\nThe RFP draft remains largely unchanged from yesterday's version.\n\nI will keep trying to understand why the new meeting is necessary.\n\nReply to John"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Slido.com",
+                                "position": "right top",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Slido interface with poll results"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Slido",
+                                        "layoutDescription": "Poll results",
+                                        "visibleText": "Slido\n\nEvent: Annual Strategy Meeting\n\nPolls\nQ1: Overall satisfaction\nQ2: Clarity of presentation\nQ3: Engagement level\n\nResults\nQ1: 85%\nQ2: 90%\nQ3: 75%\n\nParticipants: 120\n\nResponses: 100%"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Finder",
+                        "windows": [
+                            {
+                                "title": "Finder window",
+                                "position": "center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Finder window with file list"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Downloads",
+                                        "layoutDescription": "File list",
+                                        "visibleText": "Downloads\n\nFiles\nChapter0 Projects\nAnnual Reports\nClient Documents\n\nLast modified\nToday\nYesterday\nLast week"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Outlook",
+                        "windows": []
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in chatting with team members on Google Chat. In the first screenshot, the user is conversing with Muhammad Rizwan about a performance issue after upgrading to a new version. The conversation includes technical details about the issue and potential solutions, indicating a collaborative effort to resolve a problem.",
+        "The user is also reading specifications on Google Docs. The document titled 'CHASPT 4' is open, and it contains detailed points about various challenges and strategies. This suggests that the user is reviewing important project documentation, possibly to understand the current state of the project or to prepare for a meeting.",
+        "In the second screenshot, the user continues to chat with team members, this time with Mitchell Horowitz. The conversation revolves around understanding and resolving issues related to a new version. The user is trying to comprehend the problems faced by the team and is actively seeking solutions.",
+        "Additionally, the user is seen using Finder to browse through files in the 'Downloads' folder. This activity indicates that the user might be looking for specific documents or files needed for their current tasks. The presence of various files suggests that the user is organizing or retrieving necessary resources for their work."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in chatting with team members, reading specifications, and browsing files. No AI chat interfaces or AI-generated content are visible in the screenshots.",
+    "activities": [
+        "CHATTING_WITH_TEAM",
+        "READING_SPEC"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "CHATTING_WITH_TEAM",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 13,
+            "mouse": 17,
+            "date": "2024-06-06T10:24:52Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 112,
+            "mouse": 0,
+            "date": "2024-06-06T10:25:52Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T10:26:52Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 11,
+            "mouse": 19,
+            "date": "2024-06-06T10:27:52Z",
+            "windowTitle": " Downloads\n",
+            "processName": "Finder",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 3,
+            "date": "2024-06-06T10:28:52Z",
+            "windowTitle": " Untitled document - Google Docs - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/document/d/1G_vfq5h1k8_aiEvpjVNxEXQouopSIYXYvp691jUrxUY/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 54,
+            "mouse": 11,
+            "date": "2024-06-06T10:29:52Z",
+            "windowTitle": " Meaghan [AdvocateHub] - Interview Summary - Google Docs - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/document/d/1G_vfq5h1k8_aiEvpjVNxEXQouopSIYXYvp691jUrxUY/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-06T10:20:00Z"
+}

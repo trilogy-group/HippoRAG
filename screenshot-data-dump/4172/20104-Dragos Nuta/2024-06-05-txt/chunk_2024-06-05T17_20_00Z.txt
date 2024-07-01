@@ -1,0 +1,239 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "LockApp"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T17:22:30Z",
+            "desktop": {
+                "uiElements": [],
+                "applications": [
+                    {
+                        "appName": "Default Lock Screen",
+                        "windows": [
+                            {
+                                "title": "Lock Screen",
+                                "position": "Full Screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "visible UI elements"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Lock Screen",
+                                        "layoutDescription": "Full screen",
+                                        "visibleText": "The screen is completely black, indicating either a turned off display or a system issue, as no details are visible."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T17:25:04Z",
+            "desktop": {
+                "uiElements": [],
+                "applications": [
+                    {
+                        "appName": "Default Lock Screen",
+                        "windows": [
+                            {
+                                "title": "Lock Screen",
+                                "position": "Full Screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "No visible UI elements"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Lock Screen",
+                                        "layoutDescription": "Full screen",
+                                        "visibleText": "The screen is completely black, indicating either a turned off display or a system issue such as a crash or power failure. No text, icons, or other elements are visible."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T17:28:20Z",
+            "desktop": {
+                "uiElements": [],
+                "applications": [
+                    {
+                        "appName": "Default Lock Screen",
+                        "windows": [
+                            {
+                                "title": "Lock Screen",
+                                "position": "Full Screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "No visible UI elements"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Lock Screen",
+                                        "layoutDescription": "Full screen",
+                                        "visibleText": "The screen is completely black with no visible content or text."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user was primarily engaged with the 'LockApp' during the recorded period. The screenshots captured at 17:22:30Z, 17:25:04Z, and 17:28:20Z all show a completely black screen, indicating that the system was either turned off, experiencing a crash, or in a locked state. No visible UI elements, text, or icons were present in any of the screenshots, suggesting no active user interaction with the system during this time frame.",
+        "The detailed analysis of the screenshots confirms that the 'Default Lock Screen' was the only application active. The lock screen was in full-screen mode and remained active throughout the captured period. The absence of any visible content or text further supports the conclusion that the system was either locked or experiencing a display issue. No other applications or activities were detected during this period."
+    ],
+    "aiUseSummary": "There is no evidence of AI tool usage in the provided screenshots. The system was either locked or experiencing a display issue, and no interactions with AI tools or applications were visible.",
+    "activities": [],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T17:20:13Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T17:21:13Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T17:22:13Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T17:23:13Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T17:24:13Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T17:25:13Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T17:26:13Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T17:27:13Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T17:28:13Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T17:29:13Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-05T17:20:00Z"
+}

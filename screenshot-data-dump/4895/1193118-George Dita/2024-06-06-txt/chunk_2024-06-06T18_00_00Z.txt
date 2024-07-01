@@ -1,0 +1,178 @@
+{
+    "candidateId": 2368956,
+    "apps": [
+        "meet.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-06T18:01:11Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, Mail, Calendar, Photos, Settings, Calculator, Snipping Tool, Xbox, Your Phone, Help, Microsoft Teams, Widgets, Search bar, Start menu button, and system tray including network, sound, and battery status icons",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - vyd-yycg-qsd - Camera and microphone recording",
+                                "position": "top right",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Video conference window with participant video feeds, control buttons for camera, microphone, captions, and hang up"
+                                },
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "Participant 1",
+                                            "expression": "focused"
+                                        },
+                                        {
+                                            "name": "Participant 2",
+                                            "expression": "neutral"
+                                        }
+                                    ]
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference",
+                                        "layoutDescription": "Two participant videos displayed",
+                                        "visibleText": "Participant 1 is a male with glasses, wearing headphones, and a blurred background. Participant 2 is a male with a beard, wearing a cap and headphones, in a room with visible windows and a plant."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Prod Feature Strategy - lucidchart.com",
+                                "url": "https://lucidchart.com",
+                                "position": "left",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Diagram editing interface with toolbars and panels"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Prod Feature Strategy",
+                                        "layoutDescription": "Complex diagram with multiple nodes and connections",
+                                        "visibleText": "Diagram includes nodes such as 'Company', 'Product', 'Market', 'Customer', 'Competitor', 'Technology', 'Regulatory', 'Environment', 'SWOT Analysis', 'Strengths', 'Weaknesses', 'Opportunities', 'Threats', 'Market Segmentation', 'Target Market', 'Positioning', 'Value Proposition', 'Go-to-Market Strategy', 'Sales Strategy', 'Marketing Plan', 'Product Roadmap', 'Budget', 'Milestones', 'KPIs', 'Dashboard', 'Reports', 'Feedback', 'Adjustments', 'Iteration'. Tools available include 'Shapes', 'Lines', 'Text', 'Images', 'Tables', 'Charts', 'Containers', 'Icons', 'Links', 'Comments', 'Layers', 'Data'."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Multiple Lease Drop Down - Google Sheets",
+                                "url": "https://docs.google.com/spreadsheets",
+                                "position": "left",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Spreadsheet interface with rows and columns"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Multiple Lease Drop Down",
+                                        "layoutDescription": "Spreadsheet with multiple columns and rows",
+                                        "visibleText": "Columns titled 'Dependency Item', 'Code ID', 'Major Lease/Batch', 'Major Lease/Batch Desc', 'Lease Term', 'Lease From', 'Lease To', 'Secondary Lease/Batch', 'Secondary Lease/Batch Desc', 'Dual In Lease Term', 'Dual In Lease From', 'Dual In Lease To'. Rows contain various entries related to lease agreements, terms, and descriptions."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a video conference on Google Meet, as indicated by the active window titled 'Meet - vyd-yycg-qsd - Camera and microphone recording'. The video conference window shows two participants, one with a focused expression and the other with a neutral expression. The user is likely discussing or collaborating on a project, given the presence of a complex diagram and a spreadsheet in other windows.",
+        "The user has a Lucidchart diagram titled 'Prod Feature Strategy' open, which includes multiple nodes and connections related to company strategy, product, market, customer, competitor, technology, regulatory environment, SWOT analysis, market segmentation, and more. This suggests the user is involved in strategic planning or project management activities.",
+        "The user also has a Google Sheets document titled 'Multiple Lease Drop Down' open. The spreadsheet contains columns and rows related to lease agreements, terms, and descriptions. This indicates the user is working on data analysis or management tasks related to lease agreements, possibly for a real estate or property management project."
+    ],
+    "aiUseSummary": "",
+    "activities": [
+        "MEETING",
+        "READING_SPEC"
+    ],
+    "workTypes": [
+        "UI"
+    ],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DIAGRAMING_TOOL",
+        "DOCUMENT_VIEWER_OR_EDITOR"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T18:00:18Z",
+            "windowTitle": " Meet - vyd-yycg-qsd - Camera and microphone recording - Google Chrome\n",
+            "processName": "meet.google.com",
+            "visitingUrl": "https://meet.google.com/vyd-yycg-qsd",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T18:01:18Z",
+            "windowTitle": " Meet - vyd-yycg-qsd - Camera and microphone recording - Google Chrome\n",
+            "processName": "meet.google.com",
+            "visitingUrl": "https://meet.google.com/vyd-yycg-qsd",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T18:02:18Z",
+            "windowTitle": " Meet - vyd-yycg-qsd - Camera and microphone recording - Google Chrome\n",
+            "processName": "meet.google.com",
+            "visitingUrl": "https://meet.google.com/vyd-yycg-qsd",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T18:03:18Z",
+            "windowTitle": " Meet - vyd-yycg-qsd - Camera and microphone recording - Google Chrome\n",
+            "processName": "meet.google.com",
+            "visitingUrl": "https://meet.google.com/vyd-yycg-qsd",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T18:04:18Z",
+            "windowTitle": " Meet - vyd-yycg-qsd - Camera and microphone recording - Google Chrome\n",
+            "processName": "meet.google.com",
+            "visitingUrl": "https://meet.google.com/vyd-yycg-qsd",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-06T18:00:00Z"
+}

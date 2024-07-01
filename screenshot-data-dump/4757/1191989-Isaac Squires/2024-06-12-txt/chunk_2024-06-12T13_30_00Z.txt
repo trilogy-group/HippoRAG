@@ -1,0 +1,217 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "docs.google.com",
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T13:38:53Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, widgets, and several pinned applications including Edge, Chrome, and others. System tray includes network, sound, battery, and clock icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "CoachBot Alerts - Chat - Google Chrome",
+                                "url": "mail.google.com/mail/u/0/#chat/spa",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, Google account avatar, and extension icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Gmail Chat",
+                                        "layoutDescription": "Chat interface with left sidebar",
+                                        "visibleText": "Phil, Bogdan, Simon, Shawn\n5 members\n\nPhil Heinson 5 min\nAnd Sam will be having them test the SAT content soon too\n\n9 min * Edited\nthey were also helping to test the early versions of TeachTap\n\n4 min\nRow 90 total amount seems too high\n(academic SMEs)\nnevermind, I know why\n\n3 min * Edited\nactually no, I thought we changed Doreen to 5 hrs / week in the HC sheet\n\nthe annual total should be close to 225, and not 320\n\nwhich means the quarterly total should be around 56 instead of 79\n\nmaybe I just misunderstand the loading of the costs\n\nI see for anyone with 100 / hr rate, we budget $280k annual - that seems like a lot\n\nShouldn't it be closer to $208k?"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Tasks",
+                        "windows": [
+                            {
+                                "title": "Tasks",
+                                "position": "right side",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Task list interface with add task button"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Tasks",
+                                        "layoutDescription": "List of tasks with checkboxes",
+                                        "visibleText": "Active\n\nAdd a task\n\nMac build working on Steam?\nReply to Simon\nTablet for Phil's son\nQ2 progress / Q3 plan\nBudget meeting\nSamy 1:1 topics\n - App testing as a service\n - Doreen run research study...\nUser submitted video\nPlay test\nEnter grade (support US grades only)\nPost TeachTap content on TikTok following the unit schedule on the calendar\nSplit by channel per AP course\nFollow up with Doreen about beta program and research results"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in a chat conversation on Gmail with team members Phil, Bogdan, Simon, and Shawn. The discussion revolves around testing SAT content, budget calculations, and adjustments to the HC sheet. Specific details include a conversation about changing Doreen's hours to 5 hours per week and recalculating the annual and quarterly totals. The user also questions the budget for a $100/hr rate, suggesting it should be closer to $208k instead of $280k.",
+        "The user is also managing tasks using the Google Tasks application. The task list includes various items such as 'Mac build working on Steam?', 'Reply to Simon', 'Tablet for Phil's son', 'Q2 progress / Q3 plan', 'Samy 1:1 topics', 'User submitted video', 'Play test', 'Enter grade (support US grades only)', 'Post TeachTap content on TikTok', and 'Follow up with Doreen about beta program and research results'. This indicates the user is organizing and prioritizing their work effectively."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in chat conversations and task management without any visible interaction with AI tools for code suggestions, research, or debugging.",
+    "activities": [
+        "CHATTING_WITH_TEAM",
+        "EMAIL"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DOCUMENT_VIEWER_OR_EDITOR"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "CHATTING_WITH_TEAM",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 10,
+            "mouse": 12,
+            "date": "2024-06-12T13:30:44Z",
+            "windowTitle": "GT School Q3'24 Budget Details - Google Sheets - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/spreadsheets/d/19t2L4FosU9WLYwDFYdDf6EbfMwMUkto9JOJdjZXw57U/edit#gid=1935652953",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-12T13:31:45Z",
+            "windowTitle": "Magic Academy - Product - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-12T13:32:45Z",
+            "windowTitle": "GT School Q3'24 Budget Details - Google Sheets - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/spreadsheets/d/19t2L4FosU9WLYwDFYdDf6EbfMwMUkto9JOJdjZXw57U/edit#gid=1935652953",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 48,
+            "mouse": 21,
+            "date": "2024-06-12T13:33:45Z",
+            "windowTitle": "Magic Academy - Product - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 211,
+            "mouse": 12,
+            "date": "2024-06-12T13:34:45Z",
+            "windowTitle": "TeachTales Marketing - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 167,
+            "mouse": 35,
+            "date": "2024-06-12T13:35:45Z",
+            "windowTitle": "TeachTales Marketing - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 81,
+            "mouse": 22,
+            "date": "2024-06-12T13:36:45Z",
+            "windowTitle": "GT School Q3'24 Budget Details - Google Sheets - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/spreadsheets/d/19t2L4FosU9WLYwDFYdDf6EbfMwMUkto9JOJdjZXw57U/edit#gid=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 54,
+            "mouse": 15,
+            "date": "2024-06-12T13:37:45Z",
+            "windowTitle": "WS.Eng AI Adoption - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 152,
+            "mouse": 39,
+            "date": "2024-06-12T13:38:45Z",
+            "windowTitle": "Magic Academy - Product - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 71,
+            "mouse": 13,
+            "date": "2024-06-12T13:39:45Z",
+            "windowTitle": "Magic Academy - Product - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-12T13:30:00Z"
+}

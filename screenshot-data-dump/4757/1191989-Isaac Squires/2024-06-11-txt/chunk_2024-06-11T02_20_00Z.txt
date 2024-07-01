@@ -1,0 +1,201 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "mail.google.com",
+        "mathml",
+        "google.com",
+        "notion.so"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-11T02:28:21Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, Widgets, and several pinned applications including Edge, Chrome, and Notion. System tray visible with clock showing '20:28', date '10 Jun 2024', and other system icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Standardizing Content Generation - Google Chrome",
+                                "url": "https://notion.so/trilogy-enterprises",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, and browser controls visible"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Standardizing Content Generation",
+                                        "layoutDescription": "Text and bullet points layout",
+                                        "visibleText": "ITD#2: Generate and store content using Markdown with LaTeX Extensions\n\nDecision: Store content in Markdown with LaTeX extensions instead of pure LaTeX or other formats.\n\nContext: The content generation platform needs to support complex mathematical notation while ensuring readability, flexibility, and ease of integration across various platforms and devices.\n\nWhy it's Important:\n\nReadability and Simplicity: Markdown is easy to read and write, making it accessible to a broader range of users and platforms.\n\nSimpler Prompt Engineering: Markdown\u2019s simplicity also makes prompt engineering new generators easier (both for prompt engineers to understand, and LLMs to generate - need to validate the latter claim).\n\nEnhanced Mathematical Notation: LaTeX extensions allow for precise and clear mathematical expressions when needed.\n\nAlternatives Considered:\n\nPure LaTeX / MathML: Both provide powerful mathematical typesetting but are complex and less readable than Markdown. Therefore, these add further complexity to prompt engineering that is not necessary where Markdown supports the required syntax.\n\nqTI: This adds further verbosity on top of regular MathML, slowing down prompt engineering even further.\n\nOther Formats (e.g., HTML): May not support complex mathematical notation as effectively as LaTeX.\n\nAdditional notes:"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in reading a specification document on Notion. The document titled 'Standardizing Content Generation' discusses the decision to generate and store content using Markdown with LaTeX extensions. The document outlines the context, importance, and alternatives considered for this decision. The user is likely involved in understanding the requirements and implications of this decision for their project.",
+        "The user is also seen engaging in a chat within the Notion document. The conversation involves discussing the verbosity and structure of MathML compared to LaTeX. The user is likely collaborating with team members to finalize the approach for handling complex mathematical notation in their content generation platform. This indicates active participation in team discussions and decision-making processes.",
+        "The user has multiple tabs open in their Chrome browser, including search results related to MathML vs LaTeX and whether QTI uses LaTeX. This suggests that the user is conducting research to compare different mathematical notation formats and their suitability for their project. The research is likely aimed at validating the decision to use Markdown with LaTeX extensions and understanding the trade-offs involved."
+    ],
+    "aiUseSummary": "",
+    "activities": [
+        "READING_SPEC",
+        "CHATTING_WITH_TEAM",
+        "RESEARCH"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "READING_SPEC",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 158,
+            "mouse": 0,
+            "date": "2024-06-11T02:20:13Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/iXTDrUAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 134,
+            "mouse": 6,
+            "date": "2024-06-11T02:21:13Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/iXTDrUAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 99,
+            "mouse": 11,
+            "date": "2024-06-11T02:22:14Z",
+            "windowTitle": "New Tab - Google Chrome",
+            "processName": "mathml",
+            "visitingUrl": "mathml",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 12,
+            "mouse": 0,
+            "date": "2024-06-11T02:23:14Z",
+            "windowTitle": "mathml vs latex - Google Search - Google Chrome",
+            "processName": "google.com",
+            "visitingUrl": "google.com/search?q=mathml+vs+latex&oq=mathml+vs+latex&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABixAxiABDIKCAIQABixAxiABDIKCAMQABixAxiABDIKCAQQABixAxiABDIKCAUQABixAxiABDIKCAYQABixAxiABDIKCAcQABixAxiABDIKCAgQABixAxiABDIKCAkQABixAxiABNIBCDE1MzFqMGo3qAIAsAIA&sou",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T02:24:14Z",
+            "windowTitle": "mathml vs latex - Google Search - Google Chrome",
+            "processName": "google.com",
+            "visitingUrl": "google.com/search?q=mathml+vs+latex&oq=mathml+vs+latex&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABixAxiABDIKCAIQABixAxiABDIKCAMQABixAxiABDIKCAQQABixAxiABDIKCAUQABixAxiABDIKCAYQABixAxiABDIKCAcQABixAxiABDIKCAgQABixAxiABDIKCAkQABixAxiABNIBCDE1MzFqMGo3qAIAsAIA&sou",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T02:25:14Z",
+            "windowTitle": "mathml vs latex - Google Search - Google Chrome",
+            "processName": "google.com",
+            "visitingUrl": "google.com/search?q=mathml+vs+latex&oq=mathml+vs+latex&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABixAxiABDIKCAIQABixAxiABDIKCAMQABixAxiABDIKCAQQABixAxiABDIKCAUQABixAxiABDIKCAYQABixAxiABDIKCAcQABixAxiABDIKCAgQABixAxiABDIKCAkQABixAxiABNIBCDE1MzFqMGo3qAIAsAIA&sou",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 20,
+            "mouse": 4,
+            "date": "2024-06-11T02:26:14Z",
+            "windowTitle": "does QTI use latex - Google Search - Google Chrome",
+            "processName": "google.com",
+            "visitingUrl": "google.com/search?q=does+QTI+use+latex&oq=does+QTI+use+latex&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABgIGA0YHjINCAIQABiGAxiABBiKBTINCAMQABiGAxiABBiKBTINCAQQABiGAxiABBiKBTIKCAUQABiABBiiBDIKCAYQABiiBBiJBTIKCAcQABiABBiiBDIKCAgQABiABBiiBDIKCAkQABiABBiiBNIBCDI0MD",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 19,
+            "mouse": 9,
+            "date": "2024-06-11T02:27:13Z",
+            "windowTitle": "(9+) Standardizing Content Generation - Google Chrome",
+            "processName": "notion.so",
+            "visitingUrl": "notion.so/trilogy-enterprises/Standardizing-Content-Generation-5067d264ec4648af86c139725e9e907a",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 5,
+            "date": "2024-06-11T02:28:13Z",
+            "windowTitle": "(9+) Standardizing Content Generation - Google Chrome",
+            "processName": "notion.so",
+            "visitingUrl": "notion.so/trilogy-enterprises/Standardizing-Content-Generation-5067d264ec4648af86c139725e9e907a",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 86,
+            "mouse": 6,
+            "date": "2024-06-11T02:29:13Z",
+            "windowTitle": "(9+) Standardizing Content Generation - Google Chrome",
+            "processName": "notion.so",
+            "visitingUrl": "notion.so/trilogy-enterprises/Standardizing-Content-Generation-5067d264ec4648af86c139725e9e907a",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-11T02:20:00Z"
+}

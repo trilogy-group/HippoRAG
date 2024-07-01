@@ -1,0 +1,253 @@
+{
+    "candidateId": 1444536,
+    "apps": [
+        "chrome",
+        "crossover--fullshared.sandbox.lightning.force.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T08:12:56Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Microsoft Edge, File Explorer, Microsoft Store, Windows Security, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Google Chrome, and system status indicators including network, sound, and time display",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Microsoft Edge",
+                        "windows": []
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T08:15:36Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Edge, File Explorer, Windows Store, Mail, Calendar, Photos, Microsoft Teams, Weather, and Settings. Also includes a Start button, Cortana button, Task View button, and system tray with network, sound, and battery indicators, and a clock showing '09:15:39' on '14/06/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "New Tab - Google Chrome",
+                                "url": "chrome://newtab/",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "full bar, refresh button, forward and back navigation buttons, tab bar with multiple tabs, profile icon, vertical ellipsis for menu"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Search",
+                                        "layoutDescription": "Central layout with logo and search bar",
+                                        "visibleText": "Google\nSearch Google or type a URL"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T08:19:31Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Notes, History, Google Chrome, Microsoft Word, Microsoft Excel, and other unidentified applications. Displays the time as 09:19:33 and date as 14/06/2024. Language set to English (ENG), network status icon, sound volume icon, and battery status showing as charging (PRE).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Application Step Pipeline Mappings | Salesforce - Google Chrome",
+                                "url": "crossover--fullshared.sandbox.lightning.force.com",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, Salesforce interface elements including search bar, user profile, and logout option."
+                                },
+                                "content": [
+                                    {
+                                        "title": "CROSSOVER",
+                                        "layoutDescription": "web application interface",
+                                        "visibleText": "CROSSOVER\nXO Recruiting\nHome\nCandidates\nApplications\nApplication Step Results\nApplication Steps\nCampaigns\nPipelines\nIdentity Proofs\nApplication Step Pipeline Mappings\nTasks\nCalendar\nMore\nPipelines > Software Engineering\nApplication Steps\n1 item selected\nApplication Step Pipeline Mapping Name\n1 SMQ - 5077 - Engineering SignUp Pipeline Test - Using Generative AI\n2 FRQ - 5077 - Engineering SignUp Pipeline Test - AI Beginner Mind\nApplication Step\nUsing Generative AI\nAI Beginner Mind\nProctoring\nNone\nNone\nPass Threshold\n30%\n50%\nDesired Proficiency\nBasic\nBeginner\nReject Threshold\n30%\n50%\nMinimum Proficiency\nBasic\nBeginner"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in various tasks using Google Chrome. They have multiple tabs open, including JIRA, WorkSmart Lambda, and Salesforce. The user is likely managing tasks and projects, as indicated by the JIRA and WorkSmart Lambda tabs. The Salesforce tab shows the user is viewing 'Application Step Pipeline Mappings,' which suggests they are working on configuring or reviewing application steps for a pipeline. The visible text in the Salesforce interface includes details about different application steps, their pass thresholds, and desired proficiency levels.",
+        "The user is also seen navigating through different tabs in Google Chrome. They have tabs related to 'Technical Debt,' 'Guides,' and 'Task Catalog,' indicating they are possibly researching or referencing documentation related to their tasks. The presence of tabs like 'My Tasks' and 'Crossover Sprints' further supports the idea that the user is managing their workload and sprint tasks. The user is not seen writing or reviewing code directly in the screenshots, but their activities suggest a focus on project management and task coordination.",
+        "The user is utilizing Salesforce to view and possibly edit application step pipeline mappings. The specific mappings visible include 'Engineering SignUp Pipeline Test - Using Generative AI' and 'Engineering SignUp Pipeline Test - AI Beginner Mind.' This indicates the user is involved in setting up or reviewing steps for engineering sign-up tests, with a focus on AI-related tasks. The user is likely ensuring that the application steps meet certain criteria, such as pass thresholds and desired proficiency levels."
+    ],
+    "aiUseSummary": "There is no direct evidence of AI tool usage in the provided screenshots. The user is primarily engaged in project management and task coordination activities using Google Chrome and Salesforce. There are no visible interactions with AI tools like IDE embedded AI chat interfaces, ChatGPT, or other conversational AI tools. The focus of the user's activities appears to be on managing tasks, referencing documentation, and configuring application steps in Salesforce.",
+    "activities": [
+        "READING_SPEC",
+        "RESEARCH"
+    ],
+    "workTypes": [
+        "UI",
+        "BACKEND"
+    ],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "READING_SPEC",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 12,
+            "date": "2024-06-14T08:10:23Z",
+            "windowTitle": "New Tab - Google Chrome",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T08:11:23Z",
+            "windowTitle": "New Tab - Google Chrome",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T08:12:23Z",
+            "windowTitle": "New Tab - Google Chrome",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T08:13:23Z",
+            "windowTitle": "New Tab - Google Chrome",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T08:14:23Z",
+            "windowTitle": "New Tab - Google Chrome",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T08:15:23Z",
+            "windowTitle": "New Tab - Google Chrome",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T08:16:23Z",
+            "windowTitle": "New Tab - Google Chrome",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T08:17:23Z",
+            "windowTitle": "New Tab - Google Chrome",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 3,
+            "mouse": 8,
+            "date": "2024-06-14T08:18:23Z",
+            "windowTitle": "Application Step Pipeline Mappings | Salesforce - Google Chrome",
+            "processName": "crossover--fullshared.sandbox.lightning.force.com",
+            "visitingUrl": "crossover--fullshared.sandbox.lightning.force.com/lightning/r/Product2/01tF3000006EIKEIA4/related/Application_Step_Pipeline_Mappings__r/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T08:19:23Z",
+            "windowTitle": "Application Step Pipeline Mappings | Salesforce - Google Chrome",
+            "processName": "crossover--fullshared.sandbox.lightning.force.com",
+            "visitingUrl": "crossover--fullshared.sandbox.lightning.force.com/lightning/r/Product2/01tF3000006EIKEIA4/related/Application_Step_Pipeline_Mappings__r/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-14T08:10:00Z"
+}

@@ -1,0 +1,264 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "meet.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T08:33:03Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "Taskbar for Google Chrome, Microsoft Outlook, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes notifications icon, language input (ENG), sound control, network status, date and time (11:33 AM, 6/5/2024).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - kxx-fcoj-dew - Google Chrome",
+                                "url": "meet.google.com/kxx-fcoj-dew",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Tabs, address bar, navigation buttons, Google account avatar, extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference",
+                                        "layoutDescription": "Video call interface",
+                                        "visibleText": "Michael Madume, Dragos Nuta"
+                                    },
+                                    {
+                                        "title": "Chat Sidebar",
+                                        "layoutDescription": "Chat sidebar on right",
+                                        "visibleText": "read.ai meeting notes"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Calendar - Google Chrome",
+                                "url": "calendar.google.com/calendar/u/0/r",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Tabs, address bar, navigation buttons, Google account avatar, extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Calendar",
+                                        "layoutDescription": "Calendar interface",
+                                        "visibleText": "June 2024, Week 23, Tuesday 5, New Zealand Time 20:30, Meet with..., Time Insights, My calendars, Dragos Nuta Trilogy, Birthdays, Dragos Nuta - Aurea, Dragos Nuta - XO, Tasks, Other calendars, 5:00 - Rakshit Bha, 9:00 - AI Coach Daily Sync, 12:00 - Google Ads & FB X - plan & review, 13:00 - Nilesh Deshpande and Victor SanAna meeting, 15:00 - XO Check-in, 16:00 - Acquisition, 16:30 - Generative, 18:30 - Infinitive PM, 19:00 - Monthly - PM, 20:00 - Victor SanAna and Dragos Nuta meeting, 21:30 - XO Kanban Weekly Demo"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T08:35:04Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, Microsoft Edge, File Explorer, Microsoft Store, and system tray with notifications, sound, network, and battery status icons",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - kxx-fcoj-dew - Google Chrome",
+                                "url": "meet.google.com/kxx-fcoj-dew",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "browser tabs, address bar, bookmarks bar, and Google account avatar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Meet Video Call",
+                                        "layoutDescription": "Video call layout",
+                                        "visibleText": "Michael Madume (Presenting) read.ai meeting notes"
+                                    },
+                                    {
+                                        "title": "Code Review in Google Meet",
+                                        "layoutDescription": "Code displayed on left, video tiles on right",
+                                        "visibleText": "Fix Updated the query builder prompt to specify Current Date and Time instead of Current Time as it seemed to cause it to ignore the year. backend/fg/chainlite/state_graph/nodes/vector_sto -19,7 +19,7 @@ Speak to the user's memory in third person. Tool Names: {tools} User's Name: {user_full_name} Current Time: {date} Current Date and Time: {date} Conversation with Information Retrieval Agent: {retrieval_history} Force tool calling in the node call and add self reflection step to determine if the date should be set for a particular query return lm = get_model(smart=True) lm_with_tools = lm.bind_tools(tools=tools, tool_choice=\"any\") chain = {final_prompt | lm_with_tools} response = chain.invoke {\"retrieval_history\": state[\"messages\"], \"question\": state.get(\"internal_question\")} Update response prompt to address strict adherence to factuality Process Insights Provide your feedback and insights on what, in your opinion, we can change in our current process to prevent bugs like this from happening in the future. Lessons Provide your feedback and insights on what, in your opinion, the rest of the team should be aware of to avoid introducing"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T08:38:41Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Google Chrome, Microsoft Edge, File Explorer, Microsoft Teams, Visual Studio Code, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '11:38 AM' and '6/5/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - kxx-fcoj-dew - Google Chrome",
+                                "url": "meet.google.com/kxx-fcoj-dew",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, Google account avatar, minimize, maximize, close buttons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Meet Video Conference",
+                                        "layoutDescription": "Video conference layout",
+                                        "visibleText": "Michael Madume (Presenting) read.ai meeting notes"
+                                    },
+                                    {
+                                        "title": "Google Docs - RCA-LAMDA-7584 - Fix Issues Raised With Loading Philips Data",
+                                        "layoutDescription": "Document editing layout",
+                                        "visibleText": "Question: Why was the response despite lack of data not factual? Answer: Response prompt was not strict enough about hallucination Evidence: Here is a comparison of the old and new prompt for response generation backend/config/path/initiate_with_state_prod/hand - Provide a clear, detailed, and informative response to the question. - Use your knowledge and the information from the chat history to provide the most helpful response possible. - Answer the question to the best of your ability based on the data available. - Be detailed and factual in your responses. - You must only respond based on facts available in the chat history. - Look carefully at the chat history to determine if you can confidently answer a question without guessing. - Never make up an answer to a question, instead explain why you cannot answer the question factually. (custom_instructions)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Google Meet video conference, as evidenced by the screenshots showing the Google Meet interface with participants Michael Madume and Dragos Nuta. The meeting appears to be an 'AI Coach Daily Sync' as indicated by the calendar event visible in the Google Calendar. The user is actively participating in the meeting, as seen in the screenshots where Michael Madume is presenting and discussing code changes and process insights.",
+        "During the meeting, the user is reviewing a document titled 'RCA-LAMDA-7584 - Fix Issues Raised With Loading Philips Data' on Google Docs. The document includes a detailed analysis of a code fix, comparing old and new prompts for response generation. The user is discussing the reasons for a response being non-factual due to a lack of strictness in the response prompt about hallucination. This indicates the user is involved in a code review and process improvement discussion.",
+        "The user is also seen navigating through their Google Calendar, which is filled with various meetings and events. The calendar includes events such as 'AI Coach Daily Sync', 'Google Ads & FB X - plan & review', and 'XO Check-in'. This suggests that the user is managing their schedule and ensuring they are aware of upcoming meetings and tasks. The calendar view provides a comprehensive overview of the user's planned activities for the week."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a Google Meet video conference and reviewing documents on Google Docs. There are no visible interactions with AI chat interfaces or AI-driven tools in the screenshots. The focus of the user's activities is on code review, process improvement discussions, and managing their schedule through Google Calendar.",
+    "activities": [
+        "MEETING",
+        "REVIEWING_CODE",
+        "READING_SPEC"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [
+        "PYTHON"
+    ],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DOCUMENT_VIEWER_OR_EDITOR"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 21,
+            "mouse": 22,
+            "date": "2024-06-05T08:33:52Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-05T08:34:53Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T08:35:53Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T08:36:53Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T08:37:53Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T08:38:53Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 32,
+            "mouse": 8,
+            "date": "2024-06-05T08:39:53Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-05T08:30:00Z"
+}

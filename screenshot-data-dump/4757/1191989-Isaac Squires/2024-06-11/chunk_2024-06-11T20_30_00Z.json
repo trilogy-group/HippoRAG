@@ -1,0 +1,220 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "mail.google.com",
+    "Zoom",
+    "docs.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-11T20:37:46Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications including Edge, File Explorer, and others. Zoom application icon is highlighted, indicating it is active.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Zoom",
+            "windows": [
+              {
+                "title": "Tristan Muniz's Personal Meeting Room",
+                "position": "fullscreen",
+                "isActive": true,
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Tristan Muniz"
+                    },
+                    {
+                      "name": "Isaac Squires"
+                    },
+                    {
+                      "name": "Niraj Patel"
+                    }
+                  ]
+                },
+                "uiElements": {
+                  "details": "conference window with participant videos, chat panel, and control bar"
+                },
+                "content": [
+                  {
+                    "title": "Video Conference Participants",
+                    "layoutDescription": "Grid layout",
+                    "visibleText": "Tristan Muniz, Isaac Squires, Niraj Patel"
+                  },
+                  {
+                    "title": "Chat Panel",
+                    "layoutDescription": "Right side panel",
+                    "visibleText": "Tristan Muniz to Everyone 14:13\nhttps://docs.google.com/spreadsheets/d/1fv to Everyone 14:18\nhttps://docs.google.com/spreadsheets/d/1fv to Everyone 14:25\n$201,000\n\nhttps://docs.google.com/spread"
+                  },
+                  {
+                    "title": "Control Bar",
+                    "layoutDescription": "Bottom of the screen",
+                    "visibleText": "Mute, Stop Video, Participants, Chat, Share Screen, Summary, Reactions, Apps, Notes, More, Leave"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively participating in a Zoom meeting titled 'Tristan Muniz's Personal Meeting Room'. The meeting includes three participants: Tristan Muniz, Isaac Squires, and Niraj Patel. The user is engaged in the conversation, as evidenced by the chat panel on the right side of the screen. The chat panel shows multiple links to Google Sheets documents being shared among the participants, indicating a collaborative discussion likely focused on reviewing or updating these documents.",
+    "During the Zoom meeting, the user is also sharing a Google Sheets document. The chat messages include links to various Google Sheets, suggesting that the participants are discussing data or information contained within these spreadsheets. The user shared a link at 14:18 and another at 14:25, along with a message indicating a financial figure of $201,000. This suggests that the meeting may involve financial planning or budget discussions.",
+    "The user's desktop taskbar shows several pinned applications, including Edge, File Explorer, and Zoom, with Zoom being the active application. This indicates that the user is focused on the Zoom meeting and not multitasking with other applications. The control bar at the bottom of the Zoom window shows options for muting, stopping video, viewing participants, chatting, sharing the screen, and other functionalities, which the user might be utilizing during the meeting."
+  ],
+  "aiUseSummary": "",
+  "activities": [
+    "MEETING",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 100,
+  "events": [
+    {
+      "keyboard": 50,
+      "mouse": 21,
+      "date": "2024-06-11T20:30:48Z",
+      "windowTitle": "Samy's VPs Gen AI Adoption - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 84,
+      "mouse": 19,
+      "date": "2024-06-11T20:31:48Z",
+      "windowTitle": "TeachTap - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 7,
+      "date": "2024-06-11T20:32:48Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 9,
+      "mouse": 19,
+      "date": "2024-06-11T20:33:48Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-11T20:34:48Z",
+      "windowTitle": "Upwork Spend Q2 GT Report - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1cNA2aPISSI-wjWFZJ2uYBqoVizSSz8oqNLrvINwjEiI/edit#gid=355690038",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 11,
+      "date": "2024-06-11T20:35:48Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 13,
+      "date": "2024-06-11T20:36:48Z",
+      "windowTitle": "Upwork Spend Q2 GT Report - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1cNA2aPISSI-wjWFZJ2uYBqoVizSSz8oqNLrvINwjEiI/edit#gid=355690038",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 17,
+      "date": "2024-06-11T20:37:48Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-11T20:38:48Z",
+      "windowTitle": "Upwork Spend Q2 GT Report - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1cNA2aPISSI-wjWFZJ2uYBqoVizSSz8oqNLrvINwjEiI/edit#gid=355690038",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 23,
+      "date": "2024-06-11T20:39:48Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-11T20:30:00Z"
+}

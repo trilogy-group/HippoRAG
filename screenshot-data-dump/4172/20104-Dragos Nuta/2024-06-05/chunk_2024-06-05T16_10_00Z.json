@@ -1,0 +1,526 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "Notepad",
+    "docs.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T16:12:19Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Notepad, Zoom, and system status icons including Wi-Fi, sound, battery, and clock showing '7:12 PM 6/5/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Factory status May 2024 (TPM/Eng)",
+                "url": "https://docs.google.com/document",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help. Toolbar with undo, redo, print, zoom controls, and document status as '100% - Normal text - Calibri - 10 - B'"
+                },
+                "content": [
+                  {
+                    "title": "Factory status May 2024 (TPM/Eng)",
+                    "layoutDescription": "Text document layout",
+                    "visibleText": "Jigsaw (1 slot)\n1 commit defense goal - delivered, release made available to customers with 4 customers requesting access\n1 stretch defense goal: canceled in agreement with the BU after reassessing its value\n4 new defense goals were added mid-quarter: 2 already delivered, 1 pending completion by EoQ2 and the other by EoQ3\n\nCommit: Upgrade Messenger to Java 11, fix two vulnerabilities, support three OSes\nNEW goal: Monitor: Overcome Lufthansa PCI audit issues, support new OSes, L4 vulnerability.\nNEW goal: Monitor: Upgrade Interceptor SDK to Java 11 DONE\nNEW goal: Monitor: Upgrade Websites [inaccessible to version 10.5 (Java 11) BLOCKED]\nNEW goal: Messenger Java 17 upgrade\nOverall Reflection\nWe continue simplifying the deliverables while maintaining the breadth of our offerings. We extend the number of business objectives this quarter for the R&D team and must provide all improvements done in the products to the R&D team based on these deliverables.\n\nIgniteTech #1: Security\n1 commit defense goal: while behind from a progress perspective, we are confident we can recover and deliver.\nCommit: Fix live Security\nON TRACK\nCommit: Upgrade 6 components/dependencies to address\n\nAfter we completed the migration of Messenger to Java 11 in April, and the Lufthansa failed the PCI audit due to security issues with Monitor, SoftwareAG was blocked from upgrading its white-label product. We have released a version that will enable that upgrade.\nNow, we have covered $11M out of $12M planned ARR customers, but we still hold off (10) of high ARR customers who requested the changes and are not in our customers reach yet to the upgrade. Only 4/20 (b1) also asked for 0.2. We will are very slow to entire customer base but, most importantly, we are pushing them to provide the necessary licenses and information for the upgrade.\nRisk: SoftwareAG must provide installation and use case instructions to end users and tools and test the upgrade. This step is impossible to avoid as we build for the future. Action: We are pushing them to provide the necessary licenses and information for the upgrade.\nMessenger is now simply adding the 02 objective as we are well delivered on the infrastructure and providing supported solutions. We are derisking our architecture will cope with Java 17 changes or if we need to redesign the architecture.\n"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Notepad",
+            "windows": [
+              {
+                "title": "do GMs think we delivered enough",
+                "position": "bottom right of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View"
+                },
+                "content": [
+                  {
+                    "title": "do GMs think we delivered enough",
+                    "layoutDescription": "Text document layout",
+                    "visibleText": "do GMs think we delivered enough\nEric - good, better (grade is )\nKathy - yes hit commitments, better than they have been, room to improve and\n(grade is C)\nDR -\nJeff -\n"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Zoom",
+            "windows": [
+              {
+                "title": "Meeting",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Meeting controls visible"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Anna Slowinski",
+                      "expression": "focused"
+                    },
+                    {
+                      "name": "Drago Nuta",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Jamie Sidley",
+                      "expression": "listening"
+                    },
+                    {
+                      "name": "Jozef Capovics",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Leonha Hödl",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Brandon Pizzacalla",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Coli Guilfoyle",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Eric Vaughan",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Jeff Meyer",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Andy Price",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Sammy Anoebi",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Arthur Michel",
+                      "expression": "neutral"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T16:13:37Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Notepad, and other unidentified applications. System clock shows '7:13 PM'. Date '6/5/2024'. Wi-Fi, sound, and battery status icons are visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Factory status May 2024 (TPM/Eng)",
+                "url": "https://docs.google.com/document",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help. Toolbar with undo, redo, print, zoom controls, and other editing options. Google account icon visible."
+                },
+                "content": [
+                  {
+                    "title": "Factory status May 2024 (TPM/Eng)",
+                    "layoutDescription": "Text document layout",
+                    "visibleText": "1 commit defense goal - delivered, release made available to customers with 4 customers requesting access\n1 stretch defense goal: canceled in agreement with the BU after reassessing its value\n4 new defense goals were added mid-quarter: 2 already delivered, 1 pending completion by EoQ2 and the last one pending\n\nCommit: Upgrade Messenger to Java 11, fix two vulnerabilities, support three OSes\nOvercome Lufthansa PCI audit issues, support new goal: Monitor Interceptor, upgrade Interceptor SDK to Java 11 DONE\n\nNEW goal: Monitor: Upgrade Websites Interceptor to version 10.1.6 (Java 11) BLOCKED\nNEW goal: Messenger Java 17 upgrade\nON TRACK\n\nOverall Reflection\nWe continue simplifying the deliverables while maintaining the balance between the number of business objectives this quarter for the team and must provide all improvements done in the products to the R&D team based on these deliverables.\n\nIgniteTech #1: Security\n1 commit defense goal: while behind from a progress perspective, we are confident we can recover and deliver on this.\nCommit: Fix live Security\nON TRACK\n\nCommit: Upgrade 6 components/dependencies to address\n\nThe May release of live HQP 9.2.1 included:\nSupport for all latest supported versions of PostgreSQL\nFix for an important security vulnerability\nUpgraded Spring Framework in non-core components.\nSeveral bug fixes."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Zoom Meeting",
+            "windows": [
+              {
+                "title": "Zoom Meeting",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Conference window with participant grid, meeting controls including mute, video, participants, chat, share screen, record, and more. Meeting timer shows 01:22:30."
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Kathy Slowinski",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "Drago Nuța",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "Jamie Sidley",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "Josef Čapovičs",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "Leonhard Hölk",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "Brandon Pizzacalla",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "Colin Guilfoyle",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "Eric Vaughan",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "Jeff Meyer",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "Andy Price",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "Sammy Anoebi",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "Arthur Michel",
+                      "expression": "Neutral"
+                    }
+                  ]
+                },
+                "content": [
+                  {
+                    "title": "Zoom Meeting",
+                    "layoutDescription": "Video call layout",
+                    "visibleText": "Participant names visible: Kathy Slowinski, Dragoș Nuța, Jamie Sidley, Josef Čapovičs, Leonhard Hölk, Brandon Pizzacalla, Colin Guilfoyle, Eric Vaughan, Jeff Meyer, Andy Price, Sammy Anoebi, Arthur Michel"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Notepad",
+            "windows": [
+              {
+                "title": "GMs think we delivered enough - Notepad",
+                "position": "foreground over other windows",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View. Text area with visible text."
+                },
+                "content": [
+                  {
+                    "title": "GMs think we delivered enough",
+                    "layoutDescription": "Text editor layout",
+                    "visibleText": "Eric - good, better (grade is )\nKathy - yes hit commitments, better than they have been, room to improve and accelerate (grade is C)\nDR - \nJeff - \n\nhow is the slot going? what grade would CEOs give us for the work done on the slot?\nIgnite - good, C\nIgnite Security - good, B (Spring must work)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T16:17:20Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Notepad, Zoom, and system status icons including Wi-Fi, sound, battery, and clock showing '7:17 PM'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Factory status May 2024 (TPM/Eng) - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help; Toolbar with undo, redo, print, spelling and grammar check, zoom controls, styles, and formatting options"
+                },
+                "content": [
+                  {
+                    "title": "Document Content",
+                    "layoutDescription": "Structured text document",
+                    "visibleText": "Factory status May 2024 (TPM/Eng)\n\nNew: Reduce Hosting Costs by 20% STARTING IN JUNE\n\nThe first round of cost optimization will focus on executing CloudFix recommendations on storage and idle resource cleanup, achieving a 20% reduction of overall AWS costs. The key components of this effort include:\n- Executing CloudFix recommendations on storage and idle resource cleanup\n- Removing unnecessary AWS services (e.g., AWS DevOps Guru)\n- Performing initial right-sizing and consolidation of the MongoDB instances\n\nThe stack is almost 100% on AWS, and is reasonably straightforward in its architecture.\n\nOverall Reflection\n\nCrossover (1 slot)\nCommit: Deliver video for WorkSmart Java tracker by May 10 DONE\nAchieved:\n- Delivered end-to-end functionality for both Java and .NET trackers\n- Summarization of 10-minute time cards.\n- Implemented microphone and system audio capture for the Java tracker\n- The 10-minute summary.\nChallenges:\n- Maintaining the one-week development cadence has proven difficult\n- Status and video capture quirks at the operating system level.\nNext steps:\n- Produce video and audio capture capabilities across both Java and .NET trackers\n- Release version 1.0 of the platform, enabling other application trackers and the summarization feature.\nThe WorkSmart video capability was successfully delivered on schedule. The audio functionality is advancing rapidly and is on track for a full deployment within the next two weeks, further enhancing the platform's capabilities.\n\nTelco (3 slots + 1 Ops slot)\nSkyvera\nAchieved\n- Functional Spec - Skyvera:NewNet - FAF Copilot Report\n- Functional Spec - Skyvera:NewNet - Fix Remaining R"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Notepad",
+            "windows": [
+              {
+                "title": "is the slot going what grade wo - Notepad",
+                "position": "bottom right of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, Format, View, Help; Status bar showing line and column numbers"
+                },
+                "content": [
+                  {
+                    "title": "Notepad Content",
+                    "layoutDescription": "Text editor with simple layout",
+                    "visibleText": "how is the slot going what grade would EGOs give us for the work done on the slot?\nJigsaw - good, C\nJive Security - good, B (Spring must work)\nGFI - good, B\nJive Cloud - good, B\nInfluitive - B\nStratifive - B\nCrossover - B"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Zoom",
+            "windows": [
+              {
+                "title": "Zoom Meeting",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Meeting controls including mute, stop video, participants, chat, share screen, record, reactions, and more"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Jan Slowinski"
+                    },
+                    {
+                      "name": "Dragoș Nuța"
+                    },
+                    {
+                      "name": "Jamie Sidley"
+                    },
+                    {
+                      "name": "Jozsef Czapovics"
+                    },
+                    {
+                      "name": "Leonhard Höll"
+                    },
+                    {
+                      "name": "Colin Guilfoyle"
+                    },
+                    {
+                      "name": "Eric Vaughan"
+                    },
+                    {
+                      "name": "Jeff Myer"
+                    },
+                    {
+                      "name": "Andy Price"
+                    },
+                    {
+                      "name": "Sammy Aboel-Nil"
+                    },
+                    {
+                      "name": "Arthur Micheli"
+                    },
+                    {
+                      "name": "Brandon Pizzacalla"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in a Zoom meeting, as evidenced by the screenshots showing a video conference with multiple participants. The meeting appears to be focused on discussing project updates and deliverables, as indicated by the visible text in the Google Docs document titled 'Factory status May 2024 (TPM/Eng)'. The document outlines various project goals, achievements, and challenges, including upgrading Messenger to Java 11, addressing security vulnerabilities, and optimizing hosting costs.",
+    "In addition to participating in the Zoom meeting, the user is also actively editing and reviewing a Google Docs document. The document contains detailed project status updates, including specific goals, progress, and reflections on various tasks. The user is seen interacting with team members through comments in the document, discussing roles, responsibilities, and project specifics. This indicates a collaborative effort to ensure all team members are aligned on project objectives.",
+    "The user is utilizing Notepad to take notes during the meeting. The notes include feedback on project deliverables and performance evaluations for team members. The user is documenting the grades and comments for different project slots, such as 'Jigsaw', 'Ignite Security', and 'Crossover'. This suggests that the user is responsible for tracking and evaluating project progress and team performance.",
+    "Throughout the session, the user is primarily focused on project management and coordination activities. The combination of participating in a Zoom meeting, editing a Google Docs document, and taking notes in Notepad indicates a comprehensive approach to managing project deliverables, team collaboration, and performance evaluation. The user is ensuring that all aspects of the project are documented, discussed, and aligned with the team's goals."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in project management activities, including participating in a Zoom meeting, editing a Google Docs document, and taking notes in Notepad. There are no visible interactions with AI tools or AI-driven features in the screenshots.",
+  "activities": [
+    "READING_SPEC",
+    "WRITING_SPEC",
+    "MEETING",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "UI"
+  ],
+  "programmingLanguages": [
+    "JAVA"
+  ],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 100,
+  "events": [
+    {
+      "keyboard": 51,
+      "mouse": 1,
+      "date": "2024-06-05T16:10:55Z",
+      "windowTitle": "*do GMs think we delivered all - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 145,
+      "mouse": 3,
+      "date": "2024-06-05T16:11:55Z",
+      "windowTitle": "*do GMs think we delivered enough - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 198,
+      "mouse": 2,
+      "date": "2024-06-05T16:12:55Z",
+      "windowTitle": "*do GMs think we delivered enough - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 160,
+      "mouse": 1,
+      "date": "2024-06-05T16:13:55Z",
+      "windowTitle": "*how is the slot going what grade wo - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 32,
+      "mouse": 3,
+      "date": "2024-06-05T16:14:55Z",
+      "windowTitle": "*how is the slot going what grade wo - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 20,
+      "mouse": 2,
+      "date": "2024-06-05T16:15:55Z",
+      "windowTitle": "*how is the slot going what grade wo - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 53,
+      "mouse": 3,
+      "date": "2024-06-05T16:16:55Z",
+      "windowTitle": "*how is the slot going what grade wo - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 32,
+      "mouse": 6,
+      "date": "2024-06-05T16:17:55Z",
+      "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 12,
+      "mouse": 3,
+      "date": "2024-06-05T16:18:55Z",
+      "windowTitle": "*how is the slot going what grade wo - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 45,
+      "mouse": 7,
+      "date": "2024-06-05T16:19:55Z",
+      "windowTitle": "*how is the slot going what grade wo - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T16:10:00Z"
+}

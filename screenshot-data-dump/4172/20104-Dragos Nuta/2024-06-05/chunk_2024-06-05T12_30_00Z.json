@@ -1,0 +1,272 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "meet.google.com",
+    "crossover.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T12:30:54Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Edge, File Explorer, Google Chrome, and several other unidentified applications. Also includes system tray with clock showing '3:30 PM', date '6/5/2024', and language indicator 'ENG'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - khm-qevt-udu - Google Chrome",
+                "url": "meet.google.com/khm-qevt-udu",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, Google Meet controls including microphone, camera, captions, present now, more options, and hang up buttons."
+                },
+                "content": [
+                  {
+                    "title": "Artem Melnikov (Presenting)",
+                    "layoutDescription": "Main content area",
+                    "visibleText": "LinkedIn Historical Data\nSourcing Performance\nTitles Performance\n\nLast N Weeks Sourcing Performance\n\nRows\n# Campaigns\nPlatform Cost\n# Platform Views\n# Platform Clicks\n# Platform Applies\n# B/P Passes\nCPA\nTarget CPA (LU)\nTarget CPA (GOA)\n\n2020-10\nCrossover\n24\n$0.00\n0\n0\n0\n Jobs\n1,307\n$0.00\n0\n0\n0\n592\n$0.00\n$0.24\n$"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T12:36:16Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Meet, central track, React App, Billing and UX, DevFactory, TODO & Notes, AI-X, Jungsoo Park, Board-App, and several minimized applications. Also includes system icons like Wi-Fi, battery, sound, and date/time display.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Jungsoo Park - Senior Data Analyst | Application | Salesforce",
+                "url": "https://crossover.lightning.force.com",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "multiple tabs, address bar, bookmarks bar, Salesforce navigation bar, and multiple Salesforce panels"
+                },
+                "content": [
+                  {
+                    "title": "Jungsoo Park - Senior Data Analyst",
+                    "layoutDescription": "Detailed layout with multiple sections",
+                    "visibleText": "Application\nJungsoo Park - Senior Data Analyst\nAdvertised Title\nSenior Data Analyst\nBrand\nCrossover\nRate\n$30.00\nCandidate Name\nJungsoo Park\nDetails\nApplication Name\nJungsoo Park - Senior Data Analyst\nAdvertised Title\nSenior Data Analyst\nProfile Application 360\nhttps://www.crossover.com/applications/001j0\nPipeline\nSenior Data Analyst\nBrand\nCrossover\nNotes\nHistory\nActivities (2+)\nJungsoo Park - Senior Data Analyst\nAdvertised Title\nSenior Data Analyst\nApply Date\n31/05/2024 21:50\nLead Source\nUnknown\nJungsoo Park - AI-Driven Learning Strategist\nAdvertised Title\nAI-Driven Learning Strategist\nApply Date\n30/05/2024 20:14\nLead Source\nRetargeting\nCases (0)\nApproval History (0)\nNotes (0)\nOpportunity Field History (10+)\n10 items - Sorted by Date - Updated an hour ago\nDate\nField\nUser\nOriginal Value\nNew Value"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T12:38:33Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Settings, and hidden icons tray. Also displays the system clock showing '3:38 PM' and system date '6/5/24'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - khm-qevt-udu - Google Chrome",
+                "url": "https://meet.google.com/khm-qevt-udu",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "back, forward, refresh buttons, address bar, tabs, profile icon, minimize, maximize, close buttons"
+                },
+                "content": [
+                  {
+                    "title": "Google Meet Video Conference",
+                    "layoutDescription": "Grid layout with participant videos",
+                    "visibleText": "Artem Melnikov\nDmitrii Shutenkov\nDenys Yefimenko\nread.ai meeting notes\nDragosNta\n3:38 PM | XO Check-in"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Google Meet video conference, as evidenced by the screenshots showing the Google Meet interface with multiple participants. The meeting appears to be focused on discussing performance metrics and data analysis, as indicated by the shared screen displaying a dashboard with various performance metrics such as platform cost, views, clicks, and applications across different platforms like Facebook, LinkedIn, and Indeed.",
+    "During the meeting, the user is also actively reviewing an application for a Senior Data Analyst position on the Crossover platform. The detailed view of the application includes information about the candidate, such as their name, email, phone number, LinkedIn profile, and application history. The user is likely discussing or evaluating the candidate's qualifications and fit for the role during the meeting.",
+    "The user continues to participate in the Google Meet video conference, with the focus shifting to different participants. The meeting seems to be a regular check-in, as indicated by the title 'XO Check-in' visible in the Google Meet interface. The participants are likely discussing various topics related to their ongoing projects and tasks."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a video conference and reviewing an application on the Crossover platform. No AI chat interfaces or AI-driven tools are visible in the screenshots.",
+  "activities": [
+    "MEETING",
+    "REVIEWING_CODE"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "UI"
+  ],
+  "programmingLanguages": [
+    "SALESFORCE"
+  ],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T12:30:53Z",
+      "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T12:31:53Z",
+      "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T12:32:53Z",
+      "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T12:33:53Z",
+      "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T12:34:53Z",
+      "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T12:35:53Z",
+      "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 21,
+      "mouse": 13,
+      "date": "2024-06-05T12:36:53Z",
+      "windowTitle": "Jungsoo Park's Profile 360 - Crossover - Google Chrome",
+      "processName": "crossover.com",
+      "visitingUrl": "crossover.com/applications/001Ij000003FLUoIAO?job=01tIj0000001AlTIAU#application_006Ij000002vHnOIAU",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 8,
+      "mouse": 5,
+      "date": "2024-06-05T12:37:53Z",
+      "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T12:38:53Z",
+      "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T12:39:53Z",
+      "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-05T12:30:00Z"
+}

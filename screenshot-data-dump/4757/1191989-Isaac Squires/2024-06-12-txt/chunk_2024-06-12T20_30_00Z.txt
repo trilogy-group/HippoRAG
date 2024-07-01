@@ -1,0 +1,82 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T20:31:46Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Minimize, Core, MS.Eng AI, TeachTales, DevFactory, 9+ Week, AI, 5 Pending, Magic Academy, Budget, New Tab",
+                        "position": "top"
+                    },
+                    {
+                        "elementType": "system clock",
+                        "details": "Displays the time as 14:31",
+                        "position": "bottom right"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Gmail",
+                                "url": "https://mail.google.com",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "search bar, settings, help, and account management icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email List",
+                                        "layoutDescription": "List of emails displayed in a column",
+                                        "visibleText": "Taylor, Giorgio - 4\nTessillo - next steps - FYI, we should get a proper quote from Testlio in our next meeting, i...\n2:16 PM\nBogdan Tenea\nFwd: LearnWith.AI Beta Test - Maria - internal - Following up on the play test that we ha...\n12:55 PM\nSamy .. Sim, Samy 6\nRe: TeachTales Purchase Request - Thanks. I'd like whoever picks work up to solve the pr...\n12:04 PM\nOluremi Folashade 2\nFraud (no subject) - Hello, Tina loves playing the game, excited about it and telling her sib...\n9:12 AM\nTristan, Phil 2\nFraud (no subject) - Hi Phil, It's great to see Elijah still working and earni...\n9:12 AM\nElizabeth Ola 2\nFraud (no subject) - Hello, Paul plays the game at every chance he gets, he has been mor...\n9:11 AM\nPaschal Walker 2\nFraud (no subject) - Hi, Richard plays the game often since I introduced the game to him, ...\n9:11 AM\nGideon Brown 2\nFraud (no subject) - Hello, my child enjoys playing the game, always on the game at every...\n9:10 AM\nChristina 2\nFraud (no subject) - Hello, Gina enjoys the game, so much so that it's what she talks abou...\n9:08 AM\nElizabeth Olageshin\nRe: Congratulations! Your Child Has Been Accepted to Magic Academy Beta \ud83c\udf89 - Awai...\n9:01 AM\nNathani .. Nathani. 4\nFraud (no subject) - oshinayadamilola3@gmail.com On Wed, Jun 12, 2024, 2:58 PM Learn...\n8:31 AM\nElizabe .. Elizabe. 4\nFraud (no subject) - olaelizabeth432@gmail.com On Wed, Jun 12, 2024, 2:56 PM LearnWit...\n8:30 AM\nDan Meyer from Math.\nTeachers Aren't Your Customer Support Representatives - Sal Khan and yours truly in ...\n5:58 AM\nPhil, me 2\nTeacherTap Marketing Plan for Q3 - Hi Samy and Isaac, Here is a marketing plan for TeachT...\n5:03 AM\nmaharirman76@gmail.com\nItem shared with you: \"IMG_5767.MOV\" - Done David Kube Business and Data Analyst GT...\n2:28 AM\nNiraj, Bogdan 2\nGT School Q3'24 Budget Details - Note the values in here, and in many ...\n2:28 AM\nRaviraja Rao (Googl.\nGT School Q3'24 Budget Details - New activity in the following document GT School Q3'2...\n2:28 AM\nDavid Harpur 2\nQ3 Budget - PBMI - GT School @ Wed, Jun 12, 2024 16:30 - 17:15 (GMT+01:00) - PBM1 actions ...\n2:28 AM\n'Melis, Tristan, me 3\nFw: Item shared with you: \"IMG_5767.MOV\" - I also wanted to chime in here to say thanks fo...\n2:28 AM"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is primarily engaged in managing and responding to emails using Gmail. The screenshot shows a list of emails in the user's inbox, with subjects ranging from project updates to marketing plans. The user is likely prioritizing and organizing tasks based on the emails received. The task list on the right side of the screen indicates that the user is also tracking various tasks, including testing on Mac, addressing authentication errors, and reviewing Q2 progress and Q3 plans.",
+        "The user is also seen interacting with a task management tool integrated within Gmail. The tasks listed include specific actions such as 'Test on mac,' 'Authentication error on users after login session,' and 'Q2 progress / Q3 plan.' This suggests that the user is actively managing their workload and ensuring that important tasks are tracked and completed. The presence of links to Google Docs and other resources indicates that the user is accessing and possibly updating these documents as part of their workflow."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily focused on managing emails and tasks within Gmail. There are no visible interactions with AI chat interfaces or AI-driven email applications like Shortwave. The user's activities are centered around organizing and responding to emails and managing tasks without the assistance of AI tools.",
+    "activities": [
+        "EMAIL"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "EMAIL",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 310,
+            "mouse": 5,
+            "date": "2024-06-12T20:30:54Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjHz_mgo",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-12T20:30:00Z"
+}

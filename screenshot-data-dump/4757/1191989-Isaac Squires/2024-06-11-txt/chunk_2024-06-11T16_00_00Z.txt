@@ -1,0 +1,200 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "Zoom",
+        "meet.google.com",
+        "mixpanel.com",
+        "docs.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-11T16:08:45Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Chrome, File Explorer, and other unidentified applications. Displays the time as 10:08 and the date as 11 Jun 2024.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "LearnWith.ai Q3 2024 Budget Update - Google Docs",
+                                "url": "https://docs.google.com/document/d/1",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with options for File, Edit, View, Insert, Tools, Extensions, Help. Toolbar with undo, redo, print, formatting options, zoom controls, and sharing settings."
+                                },
+                                "content": [
+                                    {
+                                        "title": "LearnWith.ai Q3 2024 Budget Update",
+                                        "layoutDescription": "Text document layout",
+                                        "visibleText": "LearnWith.ai Q3 2024 Budget Update\n\nMagic Academy\nQ2 Progress\nQ3 Plans\nTeachTales\nQ2 Progress\nQ3 Plans\nReading Critters\nQ2 Progress\nQ3 Goals\nPlatform\nQ2 Progress\nQ3 Goals\nAI Engineering\nQ2 Progress\nQ3 Goals\n\nQ3 Plans\nIn Q3 we plan to shift our energy toward user acquisition and monetization. Key to this strategy is selling parents on the value as part of the user acquisition funnel with targeted landing pages and supporting research. We will build out proof points of program effectiveness both to validate the core strategy and to compel parents to make subsequent purchases.\n1. Acquire users through social and mobile ads\n2. Monetize by selling a $299 grade-level advancement program to parents\n a. Purchase form as part of the acquisition funnel\n b. Kids get real-world rewards as motivation\n3. Demonstrate academic outcomes to parents\n a. Parent dashboard & report cards\n b. Adaptive placement\n c. MAP testing (at the start and as confirmation of mastery)\n4. Expand the game content to increase retention\n a. Quests\n b. Offline progress\n c. Achievements\n d. Multiplayer\n\nTeachTales\nWe are building a reading app whose mission is to help users \"read what they love to love to read.\" Using AI, we want to make \"reading what you love\" possible like never before.\n\nQ2 Progress\nIn Q2, we shipped an MVP, and we have started acquiring users through paid ads over the past few weeks."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in reviewing and editing a Google Docs document titled 'LearnWith.ai Q3 2024 Budget Update'. The document outlines various plans and progress reports for different projects such as Magic Academy, TeachTales, and Reading Critters. The user is focusing on the Q3 Plans section, which includes strategies for user acquisition, monetization, and content expansion. The document also details the progress made in Q2, including the launch of an MVP and user acquisition through paid ads.",
+        "The user is participating in a meeting on Google Meet, as indicated by the shared tab notification at the top of the Google Docs interface. The meeting is likely related to the content of the document being reviewed, given the context of the Q3 plans and progress updates. The user is sharing their screen, which suggests they are presenting or discussing the document with team members.",
+        "The user has multiple browser tabs open, including Mixpanel, which is a tool for product analytics. This indicates that the user might be analyzing data related to user engagement or other metrics to support the strategies outlined in the Google Docs document. The presence of Mixpanel suggests that the user is involved in data-driven decision-making processes."
+    ],
+    "aiUseSummary": "",
+    "activities": [
+        "READING_SPEC",
+        "MEETING"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "READING_SPEC",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T16:00:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 7,
+            "date": "2024-06-11T16:01:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T16:02:47Z",
+            "windowTitle": "Zoom Meeting",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 14,
+            "date": "2024-06-11T16:03:47Z",
+            "windowTitle": "Meet - wzy-xnzq-gro - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wzy-xnzq-gro?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 6,
+            "mouse": 19,
+            "date": "2024-06-11T16:04:47Z",
+            "windowTitle": "Meet - wzy-xnzq-gro - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wzy-xnzq-gro?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 10,
+            "date": "2024-06-11T16:05:47Z",
+            "windowTitle": "Meet - wzy-xnzq-gro - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wzy-xnzq-gro?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 3,
+            "mouse": 18,
+            "date": "2024-06-11T16:06:47Z",
+            "windowTitle": "Magic Academy - Magic Academy / Mixpanel - Google Chrome",
+            "processName": "mixpanel.com",
+            "visitingUrl": "mixpanel.com/project/3313988/view/3818788/app/boards/#id=7342745",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 8,
+            "date": "2024-06-11T16:07:47Z",
+            "windowTitle": "Meet - wzy-xnzq-gro - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/wzy-xnzq-gro?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 21,
+            "date": "2024-06-11T16:08:47Z",
+            "windowTitle": "LearnWith.ai Q3 2024 Budget Update - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1wRJiCDXbFF0pR2cSKCtEeEa5BQWZFem1vLqOqLAI2ic/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 22,
+            "date": "2024-06-11T16:09:47Z",
+            "windowTitle": "LearnWith.ai Q3 2024 Budget Update - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1wRJiCDXbFF0pR2cSKCtEeEa5BQWZFem1vLqOqLAI2ic/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-11T16:00:00Z"
+}

@@ -1,0 +1,146 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "mail.google.com",
+        "mixpanel.com",
+        "calendar.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T17:21:22Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Chrome, File Explorer, and other unidentified applications. System tray includes network, sound, and clock icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "DevFactory Mail - Google Chrome",
+                                "url": "mail.google.com/mail/u/0/#chat/dm/",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "address bar, bookmarks bar, tabs, navigation buttons, profile icon, and extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Gmail",
+                                        "layoutDescription": "email layout",
+                                        "visibleText": "Shortcuts\nHome\nMentions\nDirect messages\nDavid Nune\nSimon Said\nPhil, Bogdan, Simon, S...\nGiorgio Micotti\nTristan Muniz\nDavid Harpur\nBogdan Tenea\nSamy Abele-Nil\nNiraj Patel\nPhil Hewinson\nSpaces\nMagic Academy\nMagic Academy - ...\nMagic Academy - ...\nPatient Disclosure ...\nSamy's Original V...\nSamy's VPs Gen A...\nTeachTap\nTeachTap Marke...\nWS.Ena AI Adopti...\n\nTicket today as it has some important fixes and was doing the RCAS da.atlassian.net/browse/LAMBDA-76048\nAnother issue for login for saved data as we're caching data, turns out we're not logging out if the user logs out without quitting the game, so logged in users reuse the previous user's data and if a save is triggered it saves the previous user's data to this user, pretty much cloning someone had two accounts.\n\nDavid asked me to merge the fix for the character stuck on relog issue, I added to it that it's quite important imo and two other issues, you can see them in the ticket that I did the cache issue yesterday when I was working on quest saving\n\nWill start QC shortly\n\nDavid that was debugging an issue with 'Branch' attribution sdk with David earlier and will start work now, he'll be testing the functionality\n\nDavid gave some hints on the subscription issue and he'll be testing on his iphone\n\nRegarding fixing, I fixed a few issues yesterday along with some bug feedback I got from some testing some save/load scenarios, and discovered if a quest was modified and saved to a user's profile, loading it seems to make some UI data of the..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in a chat on Gmail, discussing various issues and tasks related to their work. The conversation includes details about fixing login issues, merging fixes for character-related bugs, and testing functionalities with different SDKs. The user is also coordinating with team members on testing and debugging tasks, indicating a collaborative effort to resolve ongoing issues.",
+        "The user is managing tasks using the Gmail interface, with a task list visible on the right side of the screen. The tasks include addressing authentication errors, planning for Q2 progress, and reviewing revenue models. The user is also involved in personal tasks such as arranging a tablet for Phil's son and reviewing user-submitted videos. This indicates a mix of professional and personal task management within the same interface.",
+        "The user is navigating through different tabs in the Chrome browser, with multiple tabs open related to work and personal interests. These tabs include DevFactory, Rough Pricing, and Magic Academy, suggesting the user is multitasking and possibly switching between different projects and interests. The presence of a calendar tab indicates the user is also keeping track of their schedule and upcoming meetings."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in email communication and task management within the Gmail interface. No AI chat interfaces or AI-generated suggestions are visible in the screenshots, indicating that the user is not utilizing AI tools for their workflow during this period.",
+    "activities": [
+        "EMAIL",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "EMAIL",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 12,
+            "mouse": 12,
+            "date": "2024-06-12T17:20:46Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/6hvc7UAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 43,
+            "mouse": 8,
+            "date": "2024-06-12T17:21:45Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAX7DNjX0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 47,
+            "mouse": 17,
+            "date": "2024-06-12T17:22:45Z",
+            "windowTitle": "Magic Academy - Magic Academy / Mixpanel - Google Chrome",
+            "processName": "mixpanel.com",
+            "visitingUrl": "mixpanel.com/project/3313988/view/3818788/app/boards/#id=7342745",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 11,
+            "date": "2024-06-12T17:23:45Z",
+            "windowTitle": "DevFactory - Calendar - Week of June 9, 2024 - Google Chrome",
+            "processName": "calendar.google.com",
+            "visitingUrl": "calendar.google.com/calendar/u/0/r/week/2024/6/11",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-12T17:24:46Z",
+            "windowTitle": "CoachBot Alerts - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 17,
+            "date": "2024-06-12T17:25:46Z",
+            "windowTitle": "CoachBot Alerts - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-12T17:20:00Z"
+}

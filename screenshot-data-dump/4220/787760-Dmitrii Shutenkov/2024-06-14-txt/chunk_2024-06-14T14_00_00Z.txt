@@ -1,0 +1,286 @@
+{
+    "candidateId": 1444536,
+    "apps": [
+        "us-east-1.console.aws.amazon.com",
+        "docs.google.com",
+        "stackoverflow.com",
+        "github.com",
+        "TOTALCMD64",
+        "pip.pypa.io"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T14:01:59Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Chrome, Antivirus, My Computer, App, My Lan, Python IDE, Git, Work, Horizon, Go, Internet, Cloud, Automation, Build, Plus, and a red circle with a white cross. System time is 15:02:01 on 14/06/2024. Language set to ENG. Network status icon visible. Battery status icon visible.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "CampaignTracking | Functions | Lambda - Google Chrome",
+                                "url": "https://us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/functions/CampaignTracking",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs for SF Prod, SF Sandbox, ADFS, My Tasks, Crossover Sprints, Create Task, Technical Debt - Crossover, Guides - Crossover, WS.Eng TPO: Leadership, Task Catalog. Address bar visible with URL. Navigation buttons (back, forward, refresh, home). AWS services menu visible. Notification 'Successfully updated the function CampaignTracking.'"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Code properties",
+                                        "layoutDescription": "Sectioned layout",
+                                        "visibleText": "Code properties\nPackage size\n12.9 MB\nSHA256 hash\nJXtny3DCYQBVmpnIdWfGP8NNxmj733aG1zaRvCvFxY"
+                                    },
+                                    {
+                                        "title": "Runtime settings",
+                                        "layoutDescription": "Sectioned layout",
+                                        "visibleText": "Runtime settings\nRuntime\nPython 3.12\nHandler\nlambda_function.lambda_handler\nARN\narn:aws:lambda:us-east-1:runtime:7776de4ce90"
+                                    },
+                                    {
+                                        "title": "Layers",
+                                        "layoutDescription": "Sectioned layout",
+                                        "visibleText": "Layers\nMerge order\nName\nLayer version\nCompatible runtimes\nCompatible architectures\nVersion ARN\nThere is no data to display."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T14:03:59Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Chrome, File Explorer, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Outlook, OneNote, Skype, Adobe Reader, VLC Media Player, and system utilities like network, sound, and battery status. Also displays the date and time '15:04:01 14/06/2024' and language setting 'ENG'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "CloudWatch | us-east-1 - Google Chrome",
+                                "url": "https://us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "browser controls (back, forward, refresh, home, settings), address bar, bookmarks bar, multiple extension icons (AWS, Lambda, Cognito, S3, DynamoDB, API Gateway, Athena, CloudTrail, CloudWatch)"
+                                },
+                                "content": [
+                                    {
+                                        "title": "CloudWatch",
+                                        "layoutDescription": "window layout",
+                                        "visibleText": "CloudWatch\nFavorites and recents\nDashboards\nAlarms\nIn alarm\nAll alarms\nBilling\nLogs\nLog groups\nLog Anomalies\nLive Tail\nLogs Insights\nContributor Insights\nMetrics\nX-Ray traces\nEvents\nApplication Signals New\nNetwork monitoring\nInsights\nCloudShell\nFeedback\nLog events\nYou can use the filter bar below to search for and match terms, phrases, or values in your log events. Learn more about filter patterns\nTimestamp\n2024-06-14T14:01:47.1892\n20 older events at this moment. Retry\nINIT_START Runtime version: python3.12.v28 Runtime version ARN: arn:aws:lambda:us-east-1:runtime:7776edea-9c9fff4 RequestId: 6519bbb7-afbc-416c-99ec-a3200018e6c2 Version: SLATEST\nLAMBDA_WARNING: Unhandled exception. The most likely cause is an issue in the function code. However, in rare cases, a Lambda runtime update can cause unexpected function behavior. For functions using managed runtimes, runtime updates can be triggered by a function change, or can be applied automatically. To determine if the runtime has been updated, check the runtime\n[ERROR] RuntimeError.ImportModuleError: Unable to import module 'lambda_function': cannot import 'ObjectIdentifier' from 'cryptography.hazmat.bindings_rust' (unknown\nEND RequestId: 6519bbb7-afbc-416c-99ec-a3200018e6c2\nREPORT RequestId: 6519bbb7-afbc-416c-99ec-a3200018e6c2 Duration: 4.59 ms Billed Duration: 5 ms Memory Size: 128 MB Max Memory Used: 65 MB Init Duration: 522.60 ms"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T14:07:34Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, Edge, File Explorer, and several unidentified applications. System tray includes network status, sound volume, notifications, and clock showing '15:07:36' on '14/06/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Cannot import name 'ObjectIdentifier' from 'cryptography.hazmat.bindings._rust' ? Issue #9513 ? pyca/cryptography - Google Chrome",
+                                "url": "https://github.com/pyca/cryptography",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, bookmarks bar, GitHub page content"
+                                },
+                                "content": [
+                                    {
+                                        "title": "GitHub Issue Page",
+                                        "layoutDescription": "Web page layout",
+                                        "visibleText": "Cannot import name 'ObjectIdentifier' from 'cryptography.hazmat.bindings._rust' #9513\nSpanditLenkaTR opened this issue on Aug 28, 2023 \u00b7 6 comments\n\nClosed\n\n[github-actions bot] commented on Sep 6, 2023\n'github-actions bot removed the Stale label on Sep 6, 2023'\n\n[github-actions bot] commented on Sep 10, 2023\n'This issue has been waiting for a reporter response for 3 days. It will be auto-closed if no activity occurs in the next 5 days.'\n\n[github-actions bot] added the Stale label on Sep 10, 2023\n\n[github-actions bot] commented on Sep 15, 2023\n'This issue has not received a reporter response and has been auto-closed. If the issue is still relevant please leave a comment and we can reopen it.'\n\n[github-actions bot] closed this as completed on Sep 15, 2023\n\n[github-actions bot] locked as resolved and limited conversation to collaborators on Dec 14, 2023"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively working on an AWS Lambda function named 'CampaignTracking'. They are viewing the function's code properties, runtime settings, and layers in the AWS Management Console. The runtime is set to Python 3.12, and the handler is 'lambda_function.lambda_handler'. The user has successfully updated the function, as indicated by the notification in the console.",
+        "The user is monitoring the logs for the 'CampaignTracking' Lambda function in AWS CloudWatch. They are reviewing log events that include runtime warnings and errors. Specifically, there is an 'ImportModuleError' indicating that the module 'lambda_function' cannot import 'ObjectIdentifier' from 'cryptography.hazmat.bindings._rust'. The user is likely troubleshooting this issue.",
+        "The user is reviewing a GitHub issue related to the 'cryptography' library. The issue, titled 'Cannot import name 'ObjectIdentifier' from 'cryptography.hazmat.bindings._rust'', was opened by a user named SpanditLenkaTR. The issue has been closed by GitHub actions due to inactivity. The user is likely gathering information to resolve the import error encountered in the AWS Lambda function."
+    ],
+    "aiUseSummary": "",
+    "activities": [
+        "WRITING_CODE",
+        "REVIEWING_CODE",
+        "RESEARCH"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [
+        "PYTHON"
+    ],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 7,
+            "mouse": 14,
+            "date": "2024-06-14T14:00:25Z",
+            "windowTitle": "CampaignTracking | Functions | Lambda - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/functions/CampaignTracking?newFunction=true&tab=code",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 7,
+            "mouse": 9,
+            "date": "2024-06-14T14:01:24Z",
+            "windowTitle": "Google Ads - Direct - New - Google Sheets - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/spreadsheets/d/18fm1zh67mZKrw0r5BfvZHLg-YezCtHgo5rkqWk9TBEY/edit#gid=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 9,
+            "mouse": 12,
+            "date": "2024-06-14T14:02:24Z",
+            "windowTitle": "CampaignTracking | Functions | Lambda - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/functions/CampaignTracking?newFunction=true&tab=monitoring",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 6,
+            "date": "2024-06-14T14:03:24Z",
+            "windowTitle": "CloudWatch | us-east-1 - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1#logsV2:log-groups/log-group/$252Faws$252Flambda$252FCampaignTracking/log-events/2024$252F06$252F14$252F$255B$2524LATEST$255D1efea15aa4854f9f87f01cd35ea0862c",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 8,
+            "date": "2024-06-14T14:04:25Z",
+            "windowTitle": "CloudWatch | us-east-1 - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1#logsV2:log-groups/log-group/$252Faws$252Flambda$252FCampaignTracking/log-events/2024$252F06$252F14$252F$255B$2524LATEST$255D1efea15aa4854f9f87f01cd35ea0862c",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 5,
+            "mouse": 9,
+            "date": "2024-06-14T14:05:25Z",
+            "windowTitle": "CloudWatch | us-east-1 - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1#logsV2:log-groups/log-group/$252Faws$252Flambda$252FCampaignTracking/log-events/2024$252F06$252F14$252F$255B$2524LATEST$255D1efea15aa4854f9f87f01cd35ea0862c",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 5,
+            "mouse": 9,
+            "date": "2024-06-14T14:06:25Z",
+            "windowTitle": "aws lambda - Unable to import module 'lambda_function': cannot import name 'exceptions' from 'cryptography.hazmat.bindings._rust' (unknown location) - Stack Overflow - Google Chrome",
+            "processName": "stackoverflow.com",
+            "visitingUrl": "stackoverflow.com/questions/76690964/unable-to-import-module-lambda-function-cannot-import-name-exceptions-from",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 10,
+            "date": "2024-06-14T14:07:25Z",
+            "windowTitle": "Cannot import name 'ObjectIdentifier' from 'cryptography.hazmat.bindings._rust' ? Issue #9513 ? pyca/cryptography - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/pyca/cryptography/issues/9513",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 10,
+            "date": "2024-06-14T14:08:25Z",
+            "windowTitle": "Total Commander (x64) 10.52 - NOT REGISTERED",
+            "processName": "TOTALCMD64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 48,
+            "mouse": 15,
+            "date": "2024-06-14T14:09:25Z",
+            "windowTitle": "pip install - pip documentation v24.0 - Google Chrome",
+            "processName": "pip.pypa.io",
+            "visitingUrl": "pip.pypa.io/en/stable/cli/pip_install/",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T14:00:00Z"
+}

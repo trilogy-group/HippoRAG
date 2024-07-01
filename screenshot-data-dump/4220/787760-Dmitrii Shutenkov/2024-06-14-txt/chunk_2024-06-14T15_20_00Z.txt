@@ -1,0 +1,286 @@
+{
+    "candidateId": 1444536,
+    "apps": [
+        "fastapi.tiangolo.com",
+        "mail.google.com",
+        "explorer",
+        "chatgpt.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T15:20:07Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, File Explorer, Edge, and other pinned applications. System tray includes network, sound, and battery status icons, as well as the date and time display.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Python Types Intro - FastAPI - Google Chrome",
+                                "url": "https://fastapi.tiangolo.com/python-types-intro/",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, navigation buttons, refresh button, star button for favorites, profile icon, vertical ellipsis for menu"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Python Types Intro",
+                                        "layoutDescription": "Web page with text and code snippets",
+                                        "visibleText": "Python Types Intro\n\nLearn\nPython Types Intro\nConcurrency and async / await\nTutorial - User Guide\nAdvanced User Guide\nFastAPI CLI\nDeployment\nHow To - Recipes\n\nbool\nbytes\ndef get_items(item_a: str, item_b: int, item_c: float, item_d: bool, item_e: bytes):\n return item_a, item_b, item_c, item_d, item_e\n\nGeneric types with type parameters\nThere are some data structures that can contain other values, like dict, list, set and tuple. And the internal values can have their own type too.\nThese types that have internal types are called \"generic\" types. And it's possible to declare them, even with their internal types.\nTo declare those types and the internal types, you can use the standard Python module typing.\nIt exists specifically to support these type hints.\n\nNewer versions of Python\nThe syntax using typing is compatible with all versions, from Python 3.6 to the latest ones, including Python 3.9, Python 3.10, etc.\nAs Python advances, newer versions come with improved support for these type annotations and in many cases you won't even need to import and use the typing module to declare the type hints."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T15:26:11Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, File Explorer, Edge, Chrome, and other unidentified applications. System tray includes notifications, ENG language indicator, Wi-Fi, sound, battery, and date/time display.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Crossover - Upwork Sourcing v2 - Chat - Google Chrome",
+                                "url": "mail.google.com/mail/u/0/#chat",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "spa tabs, address bar, bookmarks bar, Gmail navigation pane, chat window"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Gmail Navigation",
+                                        "layoutDescription": "Vertical list on left",
+                                        "visibleText": "Mail (37 unread), Chat (2 unread), Meet, New chat, Shortcuts, Home (2 unread), Mentions (1 unread), Starred, Direct messages (Edward Fontana, Evgeniy Beloshytskiy, Denys, Serban, Dragos Nuta, Sergey Burovov, Kevin Munch), Spaces (XO Team Chat, Crossover - Upwork, WS.Eng Acceptance, XO Platform, General, Code with Alex)"
+                                    },
+                                    {
+                                        "title": "Chat Window",
+                                        "layoutDescription": "Central panel",
+                                        "visibleText": "XO Team Chat, 10 members, Private, Chat, Shared, Tasks, Thread, Follow, WS.Eng Bot App, Thursday (2024-06-13) Daily Status Update, 2 replies, Yesterday 12:23 PM, WS.Eng Bot App, Friday (2024-06-14) Daily Status Update, 2 replies, Today 12:23 PM, Status update for Artem, Hours Worked: 9 hours worked, Work Done:, Work in Progress: [IN PROGRESS] LAMBDA-76101: lambda-role-infra lib"
+                                    },
+                                    {
+                                        "title": "Google Calendar Widget",
+                                        "layoutDescription": "Right panel",
+                                        "visibleText": "Calendar, Fri, Jun 14, Today, GMT+01, 8 AM, 9 AM, 10 AM, 11 AM, 12 PM, 1 PM, 2 PM, 3 PM, 4 PM, 5 PM, 6 PM"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T15:29:48Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Microsoft Edge, File Explorer, and several pinned applications. System tray includes network, sound, notifications, and clock displaying '16:29:50 14/06/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "ChatGPT - Google Chrome",
+                                "url": "chatgpt.com/c/27821b8b-1d82-4776-9",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "9 tabs, address bar, bookmarks bar, and browser controls (back, forward, refresh, home, settings)."
+                                },
+                                "content": [
+                                    {
+                                        "title": "ChatGPT 4 v",
+                                        "layoutDescription": "Text and code block visible",
+                                        "visibleText": "This function is set up to return a `200 OK` status, with a plain text response containing \"Hello, world!\".\n\nStep 2: Set Up API Gateway\n\nTo make your Lambda function accessible over HTTP, you need to set up API Gateway:\n\n1. Create a New API:\n\n- Go to the API Gateway console.\n- Choose \"Create API\" and select the appropriate API type (e.g., REST API).\n- Follow the steps to create the API."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user started by researching Python types on the FastAPI documentation website. The webpage displayed information about generic types with type parameters, including code snippets and explanations on how to declare these types using the standard Python module 'typing'. This indicates the user is likely working on a Python project and needed to understand or refresh their knowledge on type annotations and generic types.",
+        "The user then switched to Gmail, specifically the chat feature within Gmail. They were engaged in a team chat named 'XO Team Chat' with 10 members. The chat included status updates from a bot named 'WS.Eng Bot App' for the dates June 13 and June 14, 2024. The updates included hours worked and work done, indicating the user was checking team progress and possibly coordinating tasks with team members.",
+        "Finally, the user accessed ChatGPT, where they were viewing a guide on setting up an API Gateway for a Lambda function. The guide included steps to create a new API and configure it to return a '200 OK' status with a plain text response. This suggests the user was seeking assistance or confirmation on how to properly set up an API Gateway for their project, leveraging ChatGPT for detailed instructions."
+    ],
+    "aiUseSummary": "The user utilized ChatGPT for guidance on setting up an API Gateway for a Lambda function. The interaction involved reading through a step-by-step guide provided by ChatGPT, which included creating a new API and configuring it to return a '200 OK' status. This indicates the user relies on AI tools like ChatGPT for detailed technical instructions and to ensure they are following best practices in their development tasks.",
+    "activities": [
+        "RESEARCH",
+        "EMAIL",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [
+        "PYTHON"
+    ],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "OPENAI_CHATGPT"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "RESEARCH",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T15:20:26Z",
+            "windowTitle": "Python Types Intro - FastAPI - Google Chrome",
+            "processName": "fastapi.tiangolo.com",
+            "visitingUrl": "fastapi.tiangolo.com/python-types/#:~:text=Python%20has%20support%20for%20optional,can%20give%20you%20better%20support.",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T15:21:26Z",
+            "windowTitle": "Python Types Intro - FastAPI - Google Chrome",
+            "processName": "fastapi.tiangolo.com",
+            "visitingUrl": "fastapi.tiangolo.com/python-types/#:~:text=Python%20has%20support%20for%20optional,can%20give%20you%20better%20support.",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 7,
+            "date": "2024-06-14T15:22:26Z",
+            "windowTitle": "Crossover - Upwork Sourcing v2 - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAA8ETEWyA",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-14T15:23:26Z",
+            "windowTitle": "Crossover - Upwork Sourcing v2 - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAA8ETEWyA",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T15:24:26Z",
+            "windowTitle": "Crossover - Upwork Sourcing v2 - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAA8ETEWyA",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T15:25:25Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAA8ETEWyA",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T15:26:25Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAA8ETEWyA",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 13,
+            "date": "2024-06-14T15:27:25Z",
+            "windowTitle": "",
+            "processName": "explorer",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 6,
+            "mouse": 9,
+            "date": "2024-06-14T15:28:25Z",
+            "windowTitle": "ChatGPT - Google Chrome",
+            "processName": "chatgpt.com",
+            "visitingUrl": "chatgpt.com/c/27821b8b-1d82-4776-98b3-cec7895ff391",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 56,
+            "mouse": 2,
+            "date": "2024-06-14T15:29:25Z",
+            "windowTitle": "ChatGPT - Google Chrome",
+            "processName": "chatgpt.com",
+            "visitingUrl": "chatgpt.com/c/27821b8b-1d82-4776-98b3-cec7895ff391",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T15:20:00Z"
+}

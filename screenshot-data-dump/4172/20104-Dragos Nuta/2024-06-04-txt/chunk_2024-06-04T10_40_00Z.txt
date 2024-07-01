@@ -1,0 +1,331 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "meet.google.com",
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-04T10:40:43Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, a folder, and system utilities like network, sound, and date/time display",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - htz-sajj-osw - Google Chrome",
+                                "url": "meet.google.com/htz-sajj-osw",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Video conference window with control buttons for camera, microphone, and hang up. Participant thumbnails at the bottom."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference",
+                                        "layoutDescription": "Main participant visible",
+                                        "visibleText": "Jozsef Czapovics"
+                                    },
+                                    {
+                                        "title": "Chat Window",
+                                        "layoutDescription": "Chat messages displayed",
+                                        "visibleText": "Noumaan Shah (via Meet) Yesterday 8:40 PM Call ended Noumaan Shah Yesterday 9:49 PM Took a look at the summary... Re: Maintenance The charts look awesome - but realistically, how many issues are we missing? If we are customer focused, what does the true backlog look like? What is the average age of defects? Are we effectively prioritizing tickets? What are the number of outages per product across the board? What have we done to prevent them from occurring again? Thoughts? Thanks! Are you available?"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "mail.google.com/chat/u/0",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Chat interface with contact list and search bar."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat Interface",
+                                        "layoutDescription": "List of contacts and messages",
+                                        "visibleText": "Chat Home Mentions Starred Direct messages Isaac Squires EDGAR H MULONGO Michael Madume Noumaan Shah Dmitrii Shutkenov George Dita Marcelo Skaba Joe Conley Spaces XO Candidate Support Esc... Spec Request Notifications tpm reboot XO Team Chat AWS News GFI BU/CE/TPM Management... Feature Line automations AppManager Technical De... AI Assist on WorkSmart CNU_TPM projects More"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T10:44:55Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Google Chrome, Microsoft Edge, File Explorer, and other unidentified applications. System tray includes notifications, Wi-Fi, sound, battery, and clock displaying '1:44 PM 6/4/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - aqm-tpng-aqq - Google Chrome",
+                                "url": "https://meet.google.com/aqm-tpng-aqq",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, Google account icon, Meet controls"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference",
+                                        "layoutDescription": "Four participant video tiles",
+                                        "visibleText": "Firat Gomi, George Dita, read.ai meeting notes, Dragos Nuta"
+                                    },
+                                    {
+                                        "title": "Meet Controls",
+                                        "layoutDescription": "Bottom of the Meet window",
+                                        "visibleText": "Microphone toggle, camera toggle, captions, present now, more options, hang up"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Gmail - Inbox - Google Chrome",
+                                "url": "https://mail.google.com/mail/u/0/#inbox",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "sidebar, search bar, email list, email preview pane"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email List",
+                                        "layoutDescription": "List of emails with sender and subject",
+                                        "visibleText": "Mar, Joe, Joe (VIP) - Edu spec on core DSes - update - I acknowledge. I was short on time. Samy Aboel-Nil - FW: 7 Golden Rules for Generative AI Apps: A Playbook from E... Magic, me 2 - Congratulations! Your Child Has Been Accepted to Magic Academy. me - Fwd: Chat in tpm reboot \"if you want you can use a utility i built\". Ethan Mollick from . - Innovation through prompting - Democratizing educational technology. me - notes from Samy - 2 TPMs are missing the program management... All News - Confirm your subscription to All News - Click here to confirm your subscription."
+                                    },
+                                    {
+                                        "title": "Email Preview",
+                                        "layoutDescription": "Preview of selected email",
+                                        "visibleText": "George Dita - PM Playbook Draft - feedback and direction - Hi, Please see the attached draft of the PM playbook. I would appreciate your feedback and direction on this. Thanks, George"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T10:48:45Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Google Chrome, File Explorer, and other unidentified applications. System tray includes notifications, language settings (ENG), and clock showing '1:48 PM'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - aqm-tpng-aqq - Google Chrome",
+                                "url": "https://meet.google.com/aqm-tpng-aqq",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "conference window with participant thumbnails, mute, camera, and settings controls"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference Participants",
+                                        "layoutDescription": "Grid layout",
+                                        "visibleText": "Firat Gomi, George Dita, read.ai meeting notes, Dragos Nutu"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Gmail - Inbox - Google Chrome",
+                                "url": "https://mail.google.com/mail/u/0/#inbox",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "email list, navigation pane, search bar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email List",
+                                        "layoutDescription": "List layout",
+                                        "visibleText": "All VIP, Edu spec on core DSes - update - I acknowledge. I was short..., FW: 7 Golden Rules for Generative AI Apps: A Playbook from E..., Congratulations! Your Child Has Been Accepted to Magic Acad..., Fwd: Chat in tpm reboot \"if you want you can use a utility i bui..., Innovation through prompting - Democratizing educational tech..., notes from Samy - 2 TPMs are missing the program management..., Confirm your subscription to All News - Click here to confirm your s..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a video conference on Google Meet, as evidenced by the active window titled 'Meet - htz-sajj-osw - Google Chrome'. The user is participating in a meeting with Jozsef Czapovics, who is the main participant visible on the screen. The chat window shows a conversation with Noumaan Shah discussing maintenance issues, backlog, defect age, ticket prioritization, and outage prevention. This indicates a focus on project management and operational concerns.",
+        "The user is also involved in another video conference on Google Meet, as shown by the window titled 'Meet - aqm-tpng-aqq - Google Chrome'. This meeting includes participants Firat Gomi, George Dita, and Dragos Nuta, along with a notetaker and meeting notes from read.ai. The user is likely discussing project updates or planning, given the presence of multiple team members and a notetaker.",
+        "In addition to the meetings, the user is checking emails on Gmail. The email list includes various subjects such as 'FW: 7 Golden Rules for Generative AI Apps', 'Congratulations! Your Child Has Been Accepted to Magic Academy', and 'Innovation through prompting - Democratizing educational technology'. The user is also reviewing an email from George Dita regarding a PM Playbook Draft, seeking feedback and direction. This suggests the user is managing multiple projects and communications simultaneously.",
+        "The user is actively chatting with team members on Google Chat. The chat interface shows direct messages with several contacts, including Isaac Squires, EDGAR H MULONGO, Michael Madume, Noumaan Shah, Dmitrii Shutkenov, George Dita, Marcelo Skaba, and Joe Conley. The user is likely coordinating tasks, discussing project details, and addressing team concerns through these chats."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in video conferences, email management, and team chats without any visible interaction with AI tools for code suggestions, research, or debugging.",
+    "activities": [
+        "MEETING",
+        "EMAIL",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 23,
+            "mouse": 7,
+            "date": "2024-06-04T10:40:09Z",
+            "windowTitle": "New Tab - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 23,
+            "mouse": 14,
+            "date": "2024-06-04T10:41:09Z",
+            "windowTitle": "Meet - htz-sajj-osw - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/htz-sajj-osw",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 6,
+            "mouse": 9,
+            "date": "2024-06-04T10:42:09Z",
+            "windowTitle": "Noumaan Shah - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/pzZb60AAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 26,
+            "mouse": 22,
+            "date": "2024-06-04T10:43:09Z",
+            "windowTitle": "Meet - htz-sajj-osw - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/htz-sajj-osw",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 6,
+            "mouse": 16,
+            "date": "2024-06-04T10:44:09Z",
+            "windowTitle": "Meet - htz-sajj-osw - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/htz-sajj-osw",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 4,
+            "mouse": 17,
+            "date": "2024-06-04T10:45:09Z",
+            "windowTitle": "Meet - aqm-tpng-aqq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/aqm-tpng-aqq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T10:46:09Z",
+            "windowTitle": "Meet - aqm-tpng-aqq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/aqm-tpng-aqq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T10:47:09Z",
+            "windowTitle": "Meet - aqm-tpng-aqq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/aqm-tpng-aqq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T10:48:09Z",
+            "windowTitle": "Meet - aqm-tpng-aqq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/aqm-tpng-aqq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T10:49:09Z",
+            "windowTitle": "Meet - aqm-tpng-aqq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/aqm-tpng-aqq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-04T10:40:00Z"
+}

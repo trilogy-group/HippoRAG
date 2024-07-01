@@ -1,0 +1,183 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "chrome",
+        "ws-lambda.atlassian.net"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T06:53:54Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, File Explorer, Visual Studio Code, and other unidentified applications. System tray includes network, sound, and clock (displaying 8:34 AM).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Google Chat - WS.Eng Onboarding - Chat",
+                                "url": "https://chat.google.com/room/abc123/",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "window with tabs for Chat, Shared, and Tasks. Search bar at the top. Settings and options on the right."
+                                },
+                                "content": [
+                                    {
+                                        "title": "WS.Eng Onboarding",
+                                        "layoutDescription": "Chat layout with messages and sidebar",
+                                        "visibleText": "WS.Eng Onboarding - 29 members - Private\n\nSerban Petrescu May 21, 11:29 AM\nUpdates:\n- Andrei passed onboarding. He'll be working on TechDebt and then we'll add him to the Platform team.\n\ud83d\udc4d 9 \u2764\ufe0f 10 5\n\n1 turned 8 replies May 21, 4:00 PM\n\nSerban Petrescu 6:40 AM\nUpdates:\n- We have a new engineer. (Nitish Sharma is starting on Monday. He'll work on TeachTap. Buddy = Pooja Gupta.\n\ud83d\udc4d 7\n\nSerban Petrescu added Nitish Sharma\n\nSerban Petrescu 6:44 AM\n@Danish Ahmad @Pooja Gupta @Astrio Aid I'll need a couple of our hosts take (a single story with BE and FE) to serve as Nitish's 'real work' part of the onboarding. He'll should reach that stage in 1-4/5 weeks. Any suggestions for such a story. It should be something real (or realistic), but (very) low prio.\n\n2\n\n1 turned 1 reply 7:44 AM\n\nMessage deleted by its author 6:51 AM\n\nGiovanny Ramirez 6:52 AM\nWelcome! @Nitish Sharma"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T06:57:59Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Outlook, Slack, Visual Studio Code, and other unidentified applications. System time is displayed as 06:34 AM. System date is June 14, 2024. Network status icon is visible. Speaker volume icon is visible. Battery status icon is visible.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Crossover Kanban - Agile Board - WorkSmart Lambda - Google Chrome",
+                                "url": "https://ws.lambda.atlassian.net/jira/software/projects",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Multiple tabs, address bar, bookmarks bar, navigation buttons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Crossover Kanban",
+                                        "layoutDescription": "Kanban board layout",
+                                        "visibleText": "PLANNING\nCrossover Kanban\nTimeline\nKanban board\nCalendar NEW\nReports\nList\nIssues\nComponents\nDEVELOPMENT\nScriptRunner Enhanced Search\nYou're in a company-managed project\nLearn more\nBACKLOG 89/727\nPriority Band (114 issues)\nRework 1: The average proficiency should be updated weekly from the data in AWS Athena\nLAMBDA-64952\nEnable AWS RUM for the candidate app\nLAMBDA-67702\n[Interview Bot] Update submission time for assessments that have incorrect values\nLAMBDA-64853\n[Grading Bot] Fix data issues caused by GPT hallucination\nLAMBDA-68788\nEnforce content availability for open pipelines\nLAMBDA-69208\nCorrectly handle cases where ChatGPT has outage\nLAMBDA-69358\nChange UI for Need Help\nLAMBDA-70883\n[Interview Bot] Add 'dirty-run grading' feature\nLAMBDA-71972\n[Interview Bot] Remove bulk grading in favor of per-question scores\nLAMBDA-71982\nIN QC\nDONE 53/33\nDeploy a Simple RAG Agent\nLAMBDA-75558\nImprove AI Coach Reasoning Process with Past Questions\nLAMBDA-75579\nFix Issues Raised with Loading Phil's Data\nLAMBDA-75624\nDaily Summary Report Automation\nLAMBDA-75642\nAdd new users to AI Assist\nLAMBDA-75693\nInsights from user usage review\nLAMBDA-75695\nDeploy AI Assist for prod\nLAMBDA-75694\nContent-pack Tasks & Questions\nLAMBDA-75737\nCreate a user profile object that stores user preferences and info and use that to personalize LTI interactions\nLAMBDA-75738\nProcess meeting transcripts\nLAMBDA-75697"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in a Google Chat conversation within the 'WS.Eng Onboarding' room. The chat includes updates about new engineers joining the team and their onboarding process. Specific mentions include Nitish Sharma starting on Monday and working on TeachTap, with Pooja Gupta as his buddy. The user is also involved in discussions about assigning real work tasks to new engineers as part of their onboarding process.",
+        "The user is working within the Crossover Kanban board on Jira, specifically within the 'WorkSmart Lambda' project. They are creating a new issue titled 'Upgrade cdk infra lib to use SDK v3' for the 'Crossover Hire' project. The issue type is set to 'Engineering - Story', and the user is filling out the necessary details such as the summary and description. The Kanban board displays various tasks in different stages, including backlog, in progress, and done."
+    ],
+    "aiUseSummary": "",
+    "activities": [
+        "CHATTING_WITH_TEAM",
+        "RESEARCH"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [
+        "OTHER"
+    ],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "CHATTING_WITH_TEAM",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 25,
+            "date": "2024-06-14T06:54:16Z",
+            "windowTitle": "Google Chat - WS.Eng Onboarding - Chat",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 7,
+            "date": "2024-06-14T06:55:16Z",
+            "windowTitle": "Google Chat - WS.Eng QC Requests - Chat",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 24,
+            "date": "2024-06-14T06:56:16Z",
+            "windowTitle": "Crossover Kanban - Agile Board - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/jira/software/c/projects/HIRE/boards/1?quickFilter=5",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 23,
+            "mouse": 23,
+            "date": "2024-06-14T06:57:16Z",
+            "windowTitle": "Crossover Kanban - Agile Board - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/jira/software/c/projects/HIRE/boards/1?quickFilter=5",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 83,
+            "mouse": 26,
+            "date": "2024-06-14T06:58:16Z",
+            "windowTitle": "Crossover Kanban - Agile Board - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/jira/software/c/projects/HIRE/boards/1?quickFilter=5",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 148,
+            "mouse": 10,
+            "date": "2024-06-14T06:59:16Z",
+            "windowTitle": "Google Chat - WS.Eng Team - Chat",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T06:50:00Z"
+}

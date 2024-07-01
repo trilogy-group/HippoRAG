@@ -1,0 +1,197 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "meet.google.com",
+        "calendar.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-11T14:50:34Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications. Displays the date and time as '11 Jun 2024 08:50'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "gt.school - HC, Work Units - Google Sheets",
+                                "url": "https://docs.google.com/spreadsheets",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help. Toolbar with undo, redo, print, zoom controls, and other icons. Address bar with URL. Multiple tabs open."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Spreadsheet Content",
+                                        "layoutDescription": "Grid layout",
+                                        "visibleText": "HR Provider, Plan to move to XO, Margin, Function, Worker name, Full-time/Part-time, Q2 24 - Decision, Q2 24 - Decision Date, Q2 24 - Rate, Q2 24 - Cost w/ Margin, Crossover - W-2, Move to XO, 1.35, Academic SMEs, Doreen Mayrell - Academic SME, Part-time, Default, $100, $35,100, Sam Emara, Test Prep SME, Full-time, Default, $100, $70,200, Janet Demir, AI Prompt Engineer, Full-time, Default, $50, $29,900, Nina Shirazian, AI Prompt Engineer, Full-time, Default, $100, $52,000, Sean Carlson, AI Prompt Engineer, Full-time, Default, $30, $21,060, Jacob Daniel, AI Prompt Engineer, Full-time, Default, $75, $29,250, Noor Amari, AI Prompt Engineer, Full-time, Default, $50, $29,900, Neil Mate, AI Prompt Engineer, Part-time, Default, $30, $8,970, Pranay Kalyan, AI Prompt Engineer, Full-time, Default, $75, $30,900, Mark Nygren - V/D Team Lead, Full-time, Default, $100, $70,200, Tim Doyle, Adobe Expert, Video Editor, Full-time, Default, $75, $29,900, Luke Strickler, Video Editor, Part-time, Default, $65, $16,900, Qamar Badamsuly - AI Engineer, AI Expert, Full-time, Default, $15, $8,970, Chico Nadal - AI Expert, Video Editor, Full-time, Default, $90, $46,800, Matthew Copani - AI Engineer, AI Expert, Video Editor, Full-time, Default, $50, $35,100, Tristan Heniz - V/T Team Lead, Full-time, Promotion Trial, $100, $59,800, David Munshower - AI, Automation Spe, Full-time, Default, $30, $17,940, Eduardo Baccin, AI Automation Specialist, Full-time, Default, $30, $17,940, Mark Forrester, AI-First Support Analyst, Full-time, Default, $15, $8,970, 6 (Toby, Jackson, Sheikh, Aman, Pearson, and another), Part-time, Default, $30, $43,253, TOTAL Q2 HC COST, $623,253, TOTAL Q2 HC APPROVED BUDGET, $921,294"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a meeting on Google Meet, as indicated by the active link 'meet.google.com/jmu-ybin-ufc?authuser=0'. This suggests that the user is participating in a video conference, likely discussing work-related topics. The presence of Google Calendar also indicates that the user is managing their schedule, possibly setting up or reviewing upcoming meetings and tasks.",
+        "The user is viewing a Google Sheets document titled 'gt.school - HC, Work Units'. The spreadsheet contains detailed information about HR providers, plans to move to XO, margins, functions, worker names, full-time/part-time status, Q2 24 decisions, decision dates, rates, and costs with margins. This indicates that the user is involved in HR or project management activities, analyzing and updating workforce data for Q2 2024."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots or activity data. The user is primarily engaged in a meeting and managing a Google Sheets document, with no visible interactions with AI tools for code suggestions, research, or debugging.",
+    "activities": [
+        "MEETING",
+        "READING_SPEC"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 2,
+            "mouse": 5,
+            "date": "2024-06-11T14:50:56Z",
+            "windowTitle": "Meet - jmu-ybin-ufc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/jmu-ybin-ufc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 5,
+            "date": "2024-06-11T14:51:56Z",
+            "windowTitle": "Meet - jmu-ybin-ufc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/jmu-ybin-ufc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T14:52:56Z",
+            "windowTitle": "Meet - jmu-ybin-ufc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/jmu-ybin-ufc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T14:53:56Z",
+            "windowTitle": "Meet - jmu-ybin-ufc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/jmu-ybin-ufc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-11T14:54:56Z",
+            "windowTitle": "DevFactory - Calendar - Week of June 9, 2024 - Google Chrome",
+            "processName": "calendar.google.com",
+            "visitingUrl": "calendar.google.com/calendar/u/0/r/week",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 22,
+            "date": "2024-06-11T14:55:56Z",
+            "windowTitle": "Meet - jmu-ybin-ufc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/jmu-ybin-ufc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 15,
+            "date": "2024-06-11T14:56:56Z",
+            "windowTitle": "Meet - jmu-ybin-ufc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/jmu-ybin-ufc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T14:57:56Z",
+            "windowTitle": "Meet - jmu-ybin-ufc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/jmu-ybin-ufc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T14:58:56Z",
+            "windowTitle": "Meet - jmu-ybin-ufc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/jmu-ybin-ufc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T14:59:56Z",
+            "windowTitle": "Meet - jmu-ybin-ufc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/jmu-ybin-ufc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-11T14:50:00Z"
+}

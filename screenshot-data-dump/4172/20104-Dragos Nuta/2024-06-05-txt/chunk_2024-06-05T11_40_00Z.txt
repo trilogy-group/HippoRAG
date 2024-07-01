@@ -1,0 +1,459 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "LockApp",
+        "mail.google.com",
+        "ai-feature-adoption-dash.s3.amazonaws.com",
+        "chrome",
+        "docs.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T11:42:38Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "taskbar visible at the bottom of the screen",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Google Chrome",
+                                "position": "bottom right",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Popup window with user profile and recent tabs"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Chrome Popup",
+                                        "layoutDescription": "Popup window layout",
+                                        "visibleText": "Google Chrome\nPrivate\nmail.google.com"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T11:44:58Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Chrome, File Explorer, and other unidentified applications. Displays the time as 2:44 PM and date as 6/5/2024. Language set to ENG.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Factory status May 2024 (TPM/Eng)",
+                                "url": "https://docs.google.com/document",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Toolbar with options for File, Edit, View, Insert, Format, Tools, Extensions, Help. Editing mode enabled, showing 'Editing' next to a pencil icon. Share button visible."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Factory status May 2024 (TPM/Eng)",
+                                        "layoutDescription": "Document layout with text and bullet points",
+                                        "visibleText": "Factory status May 2024 (TPM/Eng)\n\n- Summary\n - Kanban Slots\n - Jigsaw (1 slot)\n - IgniteTech #1: Security\n - IgniteTech #2: Copilot\n - IgniteTech Maintenance\n - GFI (1 slot)\n - Influitive (2 slots)\n - Stratifyd (1 slot)\n - Crossover (1 slot)\n - Telco (3 slots + 1 Ops slot)\n - TPM only slots (1 slot)\n - Applied AI (1 slot)\n - Maintenance Delivery scorecard\n - Burndown charts - road to zero...\n - All BUs\n - IgniteTech\n - CopperTree\n - Jigsaw\n - Influitive\n\n- Jive\n - Want to wait until the new version is proven stable or are mid-upgrade with older versions)\n - Jive Connectify: 12 customers, 3 are interested in upgrading\n - Jive Cloud AI Copilot: 2 customers actively using it, 7 have it enabled, others have it disabled\n - Influitive AI features: 2 customers actively using it, 7 have it enabled, others have it disabled\n - Focus on customer problems - conducted calls to understand their problems (for projects in early stages), help them use the product (for AI features), or get them to upgrade (for defense projects)\n - Focus on business value: analyzing usage (e.g., Jive Copilot Usage Report) and acting upon it\n\n- What went well:\n - Focus on customer problems - conducted calls to understand their problems (for projects in early stages), help them use the product (for AI features), or get them to upgrade (for defense projects)\n - Focus on business value: analyzing usage (e.g., Jive Copilot Usage Report) and acting upon it\n\n- What did not go well:\n - We started without a clear framework and spent a time aligning expectations, navigating our org, or doing work that we did actually believe to be in our scope\n - We focused on a subset of customers which we believed to be more interested and got low response rates. We should have contacted all customers to increase the size of the early adoption pool.\n - Long upgrade cycles for hosted projects (Messenger, live HOP) make it impossible to demonstrate customer value during the quarter.\n\n- Improvements: we are fixing this by defining the service\n - TPM Slot - Early Adoption Service.\n\n- ITDs:\n - Limit the scope to one process (e.g., not upgrading security)\n - Start by reaching out to ALL customers, increases the fear or the old plans (depending on stage)\n - Start by reaching out broadly to all projects in partnership that were put value from the feature\n - Focus on the pool of early adopters that respond positively and make that list clear to the BU\n - All other customers are in BU's responsibility\n\n- Other topics\n - Cost reduction: completed a long level cost reduction analysis, focused on lower-complexity changes\n - Discount programs: working with AWS to activate MAP, targeting up to ~50% savings per year. EDP and waste pricing sliding discount programs are in good shape.\n - Private: work to prove $200k+ of wasted reservations on eu-north-1. The remaining waste found was either resolved or known by the SaaS Ops Cost team.\n - Reservation and CS (escalation): We have an additional ~100k cost reduction opportunities that will require minor spends for inventory; RDS optimization, centralization, and reservations.\n - Independently, VITransit has made a number of product-level recommendations: these will have to be reviewed by PPS to establish ROI and then handed through mini specs.\n - Providing updates during renewal: TPM will provide content to Renewals that talks about product investments which will be made available to customers during the renewal process\n\n- AI Feature Usage:\n - Link: https://ai-feature-adoption-dash.s3.amazonaws.com"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T11:46:51Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Settings, and hidden icons. System tray includes network, sound, battery, and clock (2:46 PM, 6/5/2024).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "David Schwartz - Chat - Google Chrome",
+                                "url": "mail.google.com/chat/u/0/#chat/dm/",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, and chat sidebar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat",
+                                        "layoutDescription": "Chat interface with sidebar",
+                                        "visibleText": "Chat\nNew chat\nShortcuts\nHome 7\nMentions 3\nStarred\nDirect messages 4\nDavid Schwartz\nMarcelo Skaba\nJoe Conley\nBogdan Tenea\nJozsef Czapovics\nGeorge Dita\nSyed Shamael\nMichael Madume\nSpaces 3\nCNU Q Business ProductM...\nXO Team Chat\nTPM reboot\nCrossover - Upwork Sourcin...\nFeature Line automations\nCNU AI Assist - Extract Doc...\nXO Candidate Support Escal...\nAWS News\nCentral PMs team\nGFI BU/CE/TPM Managem...\nAI Coach - internal\nSpace Request Notifications"
+                                    },
+                                    {
+                                        "title": "David Schwartz Chat",
+                                        "layoutDescription": "Chat window with messages",
+                                        "visibleText": "David Schwartz 1 min\nIll try\nDavid Schwartz Now\nok\ndude - let me work\nDavid Schwartz Now\nfor sure it will work\nDavid Schwartz Now\ni am not taking it down until something better comes along\nmay even keep both running just in case\nanyway - let me see if i can do this quickly"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Notepad",
+                        "windows": [
+                            {
+                                "title": "Notepad",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "menu bar and text editing area"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notepad Window",
+                                        "layoutDescription": "Text editing window",
+                                        "visibleText": "My personal view that is hardly sha - Notepad\n*auto-orders for cost - Notepad\n*screening interview on deliveryc - Notepad\nWhat is the data record - Notepad\nTPM product adoption - Notepad\nIs there something you, as an a - Notepad\nAI top down approach - Notepad\n*summary - Notepad\n1. Facebook ads - what do we do - Notepad\nTPM ownership matrix, discuss in - Notepad\n*productivity - Notepad\n*trigger runner - Notepad\nDemo Day Transcript.txt - Notepad\n*review usage - Notepad\n*retention period for live record - Notepad\nCQA what people what data - Notepad\n*pipelines to source for engineeri - Notepad\n*exciting AI feature for our team - Notepad\n*how many SE7s (build, release spear - Notepad\n*video5 - Notepad\n*generate class level planned chan - Notepad\n*SPDV - Notepad\n*52 requirements - Notepad\n*as a user I want will ask you (acti - Notepad\n*project - Notepad\n*playbook on pm - Notepad\n*report all thing that you had to fi - Notepad\n*tasks - Notepad\n*10% management feed on the spend - Notepad"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Windows Explorer",
+                        "windows": [
+                            {
+                                "title": "File Explorer",
+                                "position": "minimized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "address bar, search bar, navigation pane, and file display area"
+                                },
+                                "content": [
+                                    {
+                                        "title": "File Explorer",
+                                        "layoutDescription": "File management interface",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Edge",
+                        "windows": [
+                            {
+                                "title": "Microsoft Edge",
+                                "position": "minimized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "tabs, address bar, and favorites bar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Microsoft Edge",
+                                        "layoutDescription": "Web browsing interface",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Settings",
+                        "windows": [
+                            {
+                                "title": "Settings",
+                                "position": "minimized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "search bar, navigation pane, and settings options"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Settings",
+                                        "layoutDescription": "settings interface",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Store",
+                        "windows": [
+                            {
+                                "title": "Microsoft Store",
+                                "position": "minimized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "search bar, navigation pane, and store options"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Microsoft Store",
+                                        "layoutDescription": "store interface",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Teams",
+                        "windows": [
+                            {
+                                "title": "Microsoft Teams",
+                                "position": "minimized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "tabs, address bar, and teams options"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Microsoft Teams",
+                                        "layoutDescription": "teams interface",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "File Explorer",
+                        "windows": [
+                            {
+                                "title": "File Explorer",
+                                "position": "minimized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "address bar, search bar, navigation pane, and file display area"
+                                },
+                                "content": [
+                                    {
+                                        "title": "File Explorer",
+                                        "layoutDescription": "File management interface",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Edge",
+                        "windows": [
+                            {
+                                "title": "Microsoft Edge",
+                                "position": "minimized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "tabs, address bar, and favorites bar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Microsoft Edge",
+                                        "layoutDescription": "Web browsing interface",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Settings",
+                        "windows": [
+                            {
+                                "title": "Settings",
+                                "position": "minimized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "search bar, navigation pane, and settings options"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Settings",
+                                        "layoutDescription": "settings interface",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user started their session by interacting with Google Chrome, as indicated by the popup window showing their profile and recent tabs. This suggests they were likely checking their email or other notifications. The taskbar at the bottom of the screen shows icons for various applications, including Chrome, File Explorer, and others, indicating a typical work environment setup.",
+        "The user then moved on to working on a Google Docs document titled 'Factory status May 2024 (TPM/Eng)'. The document contains detailed notes on various topics such as Kanban slots, customer problems, business value, and cost reduction strategies. The user is actively editing the document, as indicated by the 'Editing' mode enabled and the visible text changes. This activity falls under 'READING_SPEC' and 'WRITING_SPEC'.",
+        "Next, the user engaged in a chat conversation on Google Chat with a person named David Schwartz. The conversation includes messages about trying out something, ensuring it works, and discussing the intention behind a task. This activity is categorized as 'CHATTING_WITH_TEAM'. The chat interface shows multiple direct messages and spaces, indicating active communication with team members.",
+        "Throughout the session, the user had multiple Notepad windows open, each containing different notes and topics. These notes include various project-related topics such as 'TPM product adoption', 'AI top down approach', and 'productivity'. This suggests the user is organizing their thoughts and tasks, which can be related to 'WRITING_SPEC' or general note-taking."
+    ],
+    "aiUseSummary": "There is no direct evidence of AI tools being used in the provided screenshots. The user primarily interacted with Google Docs, Google Chat, and Notepad for their tasks. There are no visible AI chat interfaces or AI-generated content in the screenshots. Therefore, it can be concluded that the user did not utilize AI tools during this session.",
+    "activities": [
+        "READING_SPEC",
+        "WRITING_SPEC",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [
+        "UI"
+    ],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_SPEC",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T11:40:53Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T11:41:53Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T11:42:53Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 55,
+            "mouse": 4,
+            "date": "2024-06-05T11:43:53Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/lbuwS0AAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 141,
+            "mouse": 8,
+            "date": "2024-06-05T11:44:53Z",
+            "windowTitle": "New Tab - Google Chrome",
+            "processName": "ai-feature-adoption-dash.s3.amazonaws.com",
+            "visitingUrl": "ai-feature-adoption-dash.s3.amazonaws.com/index.html",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 218,
+            "mouse": 7,
+            "date": "2024-06-05T11:45:53Z",
+            "windowTitle": "David Schwartz - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/lbuwS0AAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 161,
+            "mouse": 0,
+            "date": "2024-06-05T11:46:53Z",
+            "windowTitle": "David Schwartz - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/lbuwS0AAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 79,
+            "mouse": 5,
+            "date": "2024-06-05T11:47:53Z",
+            "windowTitle": "React App - Google Chrome",
+            "processName": "ai-feature-adoption-dash.s3.amazonaws.com",
+            "visitingUrl": "https://ai-feature-adoption-dash.s3.amazonaws.com/index.html",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 201,
+            "mouse": 4,
+            "date": "2024-06-05T11:48:53Z",
+            "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 165,
+            "mouse": 11,
+            "date": "2024-06-05T11:49:53Z",
+            "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-05T11:40:00Z"
+}

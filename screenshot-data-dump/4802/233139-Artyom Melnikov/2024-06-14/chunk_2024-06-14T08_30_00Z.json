@@ -1,0 +1,289 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "webstorm64"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T08:30:25Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '10:30' and language 'ENG'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "lambda-cdk-infra \\ src \\ workspace \\ lambda-cdk-infra",
+                "url": null,
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "menu bar with options like File, Edit, View, Go, Run, Terminal, Help. Sidebar with project files and folders. Bottom bar with terminal output."
+                },
+                "content": [
+                  {
+                    "title": "aws-config.ts",
+                    "layoutDescription": "code editor with code",
+                    "visibleText": "export class AwsConfig {\n/**\n* @param override optional override. If not undefined then it will be the output\n*/\nstatic getAccountId(override?: string): string {\ntry {\nreturn AwsConfig.getAccountId(override);\n} catch (e) {\nconst response: GetCallerIdentityCommandOutput = await sts.send(new GetCaller..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T08:34:12Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '10:34 AM' and date '6/14/2024'. Network status icon, sound volume icon, and language indicator 'ENG' are also visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "lambda-cdk-infra \\ src \\ aws-config.ts - Visual Studio Code",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Top bar with File, Edit, View, Go, Run, Terminal, Help. Side bar on left with Explorer tab open showing project structure. Bottom bar showing terminal output."
+                },
+                "content": [
+                  {
+                    "title": "File Explorer",
+                    "layoutDescription": "Vertical panel on left",
+                    "visibleText": "lambda-cdk-infra\n.github\nnode_modules\nLibraries\nScratches and Consoles"
+                  },
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Large central panel",
+                    "visibleText": "export class AwsConfig {\n static getRegion(override?: string): string {\n return process.env.CDK_DEFAULT_REGION ?? process.env.AWS_REGION ?? 'sts-config.region';\n }\n\n if (value !== undefined) {\n if (typeof value === 'string') {\n return value;\n }\n throw new Error('Cannot detect current aws region');\n }\n\n /**\n * Get current AWS account id or throw an error\n * @param override optional override. If not undefined then it will be the output\n */\n static getAccountID(override?: string): string {\n const value: string | undefined = override\n ?? process.env.CDK_DEFAULT_ACCOUNT\n ?? process.env.AWS_ACCOUNT;\n if (value !== undefined) {\n return value;\n }\n throw an Error('Cannot detect current aws account id');\n }\n\n /**\n * Fetch current AWS account id or throw an error. It is more accurate than get method but requires SDK call\n * @param override optional override. If not undefined then it will be the output\n */"
+                  },
+                  {
+                    "title": "Terminal",
+                    "layoutDescription": "Horizontal panel at bottom",
+                    "visibleText": "Run 'npm install' in lambda-cdk-infra\n\n> npm\n\nrun 'npm fund' for details\n\n51 vulnerabilities (7 moderate, 43 high, 1 critical)\n\nTo address issues that do not require attention, run:\nnpm audit fix\n\nTo address all issues (including breaking changes), run:\nnpm audit fix --force\n\nRun 'npm audit' for details.\n\nProcess finished with exit code 0"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T08:38:39Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, File Explorer, Microsoft Edge, Visual Studio Code, and system tray with network, sound, and date/time indicators",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "aws-config.ts - lambda-cdk-infra - Visual Studio Code",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "File explorer on left, editor in center, terminal at bottom, top menu bar, right sidebar with minimap"
+                },
+                "content": [
+                  {
+                    "title": "File Explorer",
+                    "layoutDescription": "Vertical list on left",
+                    "visibleText": "lambda-cdk-infra\n.github\nnode_modules\nsrc"
+                  },
+                  {
+                    "title": "Editor",
+                    "layoutDescription": "Main editor in center",
+                    "visibleText": "export class AwsConfig {\n static async fetchAccountId(): Promise<string> {\n const response: GetCallerIdentityCommandOutput = await sts.send(new GetCallerIdentityCommand());\n if (!response.Account) {\n throw new Error('Cannot identify current account id through STS.getCallerIdentity()');\n }\n return response.Account;\n }\n\n static defaultCredentials(): AwsCredentialIdentityProvider {\n if (AwsConfig.defCredentials != null) {\n return AwsConfig.defCredentials;\n }\n AwsConfig.defCredentials = fromIni({ ini_profile: 'default' });\n }\n\n /**\n * Forcefully reload AWS credentials based on the profile name\n * @param profile profile name (or 'default')\n */\n static loadAwsCredentials(profile: string = 'default'): AwsCredentialIdentityProvider {\n process.env.AWS_PROFILE = profile; // Set it to support propagated invocations\n AwsConfig.defCredentials = fromIni({ ini_profile: profile });\n return AwsConfig.defCredentials;\n }\n"
+                  }
+                ]
+              },
+              {
+                "title": "Terminal",
+                "layoutDescription": "Horizontal panel at bottom",
+                "visibleText": "Run 'npm install' in lambda-cdk-infra\n\nC:\\> npm\n\nrun 'npm fund' for details\n\n51 vulnerabilities (7 moderate, 43 high, 1 critical)\n\nTo address issues that do not require attention, run:\nnpm audit fix\n\nTo address all issues (including breaking changes), run:\nnpm audit fix --force\n\nRun 'npm audit' for details.\n\nProcess finished with exit 0"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in writing code within the WebStorm IDE. The project being worked on is named 'lambda-cdk-infra', and the user is editing a TypeScript file named 'aws-config.ts'. The code includes methods for fetching AWS account IDs and regions, handling AWS credentials, and managing errors. The user is also running npm commands in the terminal to check for vulnerabilities and install dependencies, indicating active development and maintenance of the project.",
+    "The user is navigating through the project structure in the WebStorm IDE, which includes directories such as 'src', 'shared', and 'data-seeding'. The user is focusing on the 'aws-config.ts' file, which contains TypeScript code for AWS configuration management. The terminal output shows the user running 'npm audit' to check for vulnerabilities, with a total of 51 vulnerabilities identified, including 1 critical issue. This suggests the user is also involved in ensuring the security and stability of the project.",
+    "The user is writing and editing TypeScript code in the 'aws-config.ts' file within the WebStorm IDE. The code includes methods for fetching AWS account IDs and regions, handling AWS credentials, and managing errors. The user is also running npm commands in the terminal to check for vulnerabilities and install dependencies. The project structure includes directories such as 'src', 'shared', and 'data-seeding', indicating a well-organized codebase. The user is actively engaged in both coding and project maintenance tasks."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is working within the WebStorm IDE, focusing on writing and editing TypeScript code for AWS configuration management. The absence of any AI chat interfaces or AI-generated suggestions in the screenshots indicates that the user is not utilizing AI tools for this particular task.",
+  "activities": [
+    "WRITING_CODE",
+    "NAVIGATING_CODE"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "IAC"
+  ],
+  "programmingLanguages": [
+    "TYPESCRIPT"
+  ],
+  "toolTypes": [
+    "IDE"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 100,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 9,
+      "date": "2024-06-14T08:30:17Z",
+      "windowTitle": "lambda-cdk-infra ? aws-config.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T08:31:17Z",
+      "windowTitle": "lambda-cdk-infra ? aws-config.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T08:32:17Z",
+      "windowTitle": "lambda-cdk-infra ? aws-config.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 29,
+      "mouse": 15,
+      "date": "2024-06-14T08:33:17Z",
+      "windowTitle": "lambda-cdk-infra ? aws-config.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 7,
+      "date": "2024-06-14T08:34:17Z",
+      "windowTitle": "lambda-cdk-infra ? aws-config.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 75,
+      "mouse": 18,
+      "date": "2024-06-14T08:35:17Z",
+      "windowTitle": "lambda-cdk-infra ? aws-config.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 17,
+      "mouse": 12,
+      "date": "2024-06-14T08:36:17Z",
+      "windowTitle": "lambda-cdk-infra ? aws-config.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 91,
+      "mouse": 13,
+      "date": "2024-06-14T08:37:17Z",
+      "windowTitle": "lambda-cdk-infra ? aws-config.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 68,
+      "mouse": 22,
+      "date": "2024-06-14T08:38:17Z",
+      "windowTitle": "lambda-cdk-infra ? aws-config.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 77,
+      "mouse": 27,
+      "date": "2024-06-14T08:39:17Z",
+      "windowTitle": "lambda-cdk-infra ? aws-config.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-14T08:30:00Z"
+}

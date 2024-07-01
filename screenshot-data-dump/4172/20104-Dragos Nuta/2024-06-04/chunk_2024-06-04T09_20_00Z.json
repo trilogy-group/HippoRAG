@@ -1,0 +1,271 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "meet.google.com",
+    "docs.google.com",
+    "mail.google.com",
+    "chrome"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-04T09:21:15Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Widgets, Chat, File Explorer, Microsoft Edge, and system tray with notifications, sound, network, and battery status icons",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Meet - kxx-fcoj-dew",
+                "url": "meet.google.com/kxx-fcoj-dew",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "back, forward, refresh buttons, address bar, tabs, and extension icons"
+                },
+                "content": [
+                  {
+                    "title": "Google Meet Video Conference",
+                    "layoutDescription": "Four video feeds displayed",
+                    "visibleText": "Michael Madume\nSerban Petrescu\nread.ai meeting notes\nDragos Nta\n12:21 PM | AI Coach Daily Sync"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T09:23:38Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Edge, File Explorer, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '12:23 PM 6/24/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Prompts Shared with Companies - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Toolbar with options for File, Edit, View, Insert, Format, Tools, Extensions, Help. Toolbar with undo, redo, print, spelling and grammar check, paint format, zoom, styles, fonts, and formatting options. Right sidebar with document outline and tools for adding comments and suggesting edits."
+                },
+                "content": [
+                  {
+                    "title": "Document Content",
+                    "layoutDescription": "Text and interactive elements",
+                    "visibleText": "1. Reference\n- First Canadian Title (FCT) Insurance\n- Mortgage Pre-Approval - Personal\n- Second Mortgages - Product Information\n- Staff Loans and Mortgages: Legal\n\n2. Example\n- can you go in detail?\n\n3. Prompt: What are the differences between ...?\nExample: What are the differences between Libro pillars and industry standards?\n\n4. Prompt: Do you know ...\nExample: Do you know how Libro pillars changed since 5 years?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T09:28:34Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "Taskbar for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. System tray includes network, sound, and clock (12:28 PM, 6/4/2024)",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "CNU Q Business ProductMind - Chat - Google Chrome",
+                "url": "mail.google.com/chat/u/0/#chat/spaces",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Tabs for Inbox, CNU, DevFest, ARRI, EDU, Jive, Jive, Cloud, Note, and others. Address bar visible with URL. Navigation buttons, extensions including Google Account and Notifications visible."
+                },
+                "content": [
+                  {
+                    "title": "CNU Q Business ProductMind",
+                    "layoutDescription": "Chat interface with multiple panels",
+                    "visibleText": "Chat\nNew chat\nShortcuts\nHome 5\nMentions 3\nStarred\nDirect messages 3\nFirat Gomi\nGeorge, Noumaan\nBogdan Tenea\nPhil Hewinson\nDavid Schwartz\nBen New\nIsaac Squires\nEDGAR H MULONGO\nSpaces 2\nCrossover - Upwork Source...\nCNU Q Business ProductMind\nAI Coach - internal\nXO Candidate Support Esc...\nSpec Request Notifications\ntpm reboot\nXO Team Chat\nAWS News\nGFI BU/VE/TPM Managemen...\nFeature Line automations\nCentral PMs team\nAppManager Technical Pe...\nShared\nTasks\nCloudSense Marketing\nBogdan Tenea 11:15 AM\nQuestions for AWS Meeting - add to this thread:\n1 reply 11:16 AM\nBogdan Tenea 30 min\nMeeting recording:\nCNU 1-week Project - Amazon Q Business for ProductMind (2024-06-04 10:33 GMT-3)\nHistory is on"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user participated in a Google Meet video conference titled 'AI Coach Daily Sync' at 12:21 PM. The meeting involved multiple participants, including individuals named Michael Madume, Serban Petrescu, and Dragos Nta. The user was actively engaged in the meeting, as indicated by the visible video feeds and the meeting notes displayed on the screen.",
+    "The user was also working on a Google Docs document titled 'Prompts Shared with Companies.' The document contained various prompts and examples related to industry standards and company-specific information. The user was likely reviewing or editing the document, as indicated by the visible text and interactive elements on the screen.",
+    "Additionally, the user was engaged in a chat conversation on Google Chat within the 'CNU Q Business ProductMind' space. The conversation included questions for an AWS meeting, a meeting recording, and interactions with team members such as Bogdan Tenea. The user was actively participating in the chat, as indicated by the visible messages and replies."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user was primarily engaged in a video conference, document editing, and team chat activities without any visible interaction with AI tools or assistants.",
+  "activities": [
+    "MEETING",
+    "READING_SPEC",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T09:20:09Z",
+      "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T09:21:09Z",
+      "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 4,
+      "mouse": 23,
+      "date": "2024-06-04T09:22:09Z",
+      "windowTitle": "Jive Upgrade - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1nnAVgAx6l0ctwVVIc7FoS5EIxlZIKADewIfTKBmNd0g/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 158,
+      "mouse": 7,
+      "date": "2024-06-04T09:23:09Z",
+      "windowTitle": "Jive Upgrade - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1nnAVgAx6l0ctwVVIc7FoS5EIxlZIKADewIfTKBmNd0g/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 31,
+      "mouse": 36,
+      "date": "2024-06-04T09:24:09Z",
+      "windowTitle": "Prompts Shared with Companies - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1ao9IoLjQabtg9BTNlMdMQrDOkcMgV8WmtYx-cK3yUfg/edit#heading=h.vhoweek2sr06",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 334,
+      "mouse": 4,
+      "date": "2024-06-04T09:25:09Z",
+      "windowTitle": "Jive Upgrade - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1nnAVgAx6l0ctwVVIc7FoS5EIxlZIKADewIfTKBmNd0g/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 208,
+      "mouse": 3,
+      "date": "2024-06-04T09:26:09Z",
+      "windowTitle": "Firat Gomi - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/gwDF1MAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 131,
+      "mouse": 8,
+      "date": "2024-06-04T09:27:09Z",
+      "windowTitle": "George, Noumaan - Chat - Google Chrome",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 11,
+      "date": "2024-06-04T09:28:09Z",
+      "windowTitle": "CNU Q Business ProductMind - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/chat/u/0/#chat/space/AAAArMEfJMs",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T09:29:09Z",
+      "windowTitle": "CNU Q Business ProductMind - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/chat/u/0/#chat/space/AAAArMEfJMs",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-04T09:20:00Z"
+}

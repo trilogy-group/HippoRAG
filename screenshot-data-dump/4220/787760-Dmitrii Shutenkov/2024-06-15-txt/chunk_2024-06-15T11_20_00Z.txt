@@ -1,0 +1,290 @@
+{
+    "candidateId": 1444536,
+    "apps": [
+        "crossover.lightning.force.com",
+        "station.veriff.com",
+        "mail.google.com",
+        "veriff.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-15T11:21:55Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Edge, File Explorer, Mail, Calendar, Photos, Microsoft Store, Settings, and other unidentified applications. Also includes system status icons for network, sound, notifications, and language (ENG), along with the date and time display (15/06/2024, 12:21:56).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Veriff Station - Google Chrome",
+                                "url": "https://station.veriff.com",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "UI includes back, forward, refresh, home buttons, address bar, bookmarks bar, tabs, and profile icon."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Veriff Station",
+                                        "layoutDescription": "Centered layout",
+                                        "visibleText": "Please wait"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-15T11:26:23Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Task View, Microsoft Edge, File Explorer, and several unidentified applications. Also includes system tray with icons for network, sound, notifications, and clock displaying '12:26:23' on '15/06/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Veriff Station - Google Chrome",
+                                "url": "https://station.veriff.com/verific",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs for 'SF Prod', 'SF Sandbox', 'ADFS', 'My Tasks', 'Crossover Sprints', 'Create Task', 'Technical Debt - Crossover', 'Guides - Crossover', 'WS.Eng TPO: Leadership', 'Task Catalog' visible. Address bar, navigation buttons, and browser settings visible."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Integration",
+                                        "layoutDescription": "layout of filters",
+                                        "visibleText": "Integration\nAll selected\nDate range\nStatus\nReason\nCountry\nDocument type\nClear All"
+                                    },
+                                    {
+                                        "title": "Notification",
+                                        "layoutDescription": "layout of notification message",
+                                        "visibleText": "There are filters selected that may affect your results."
+                                    },
+                                    {
+                                        "title": "Intercom Chat Widget",
+                                        "layoutDescription": "Chat interface",
+                                        "visibleText": "Hey Dmitrii!\nHow can we help?\nAsk a question\nHome\nMessages\nHelp\nPowered by Intercom"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-15T11:28:40Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Edge, File Explorer, Mail, Calendar, Photos, Microsoft Store, Settings, and other unidentified applications. Also includes system tray with network, sound, and battery status icons, as well as the date and time display '12:28:40 15/06/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Veriff Station - Google Chrome",
+                                "url": "https://station.veriff.com/verifications",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs for SF Prod, SF Sandbox, ADFS, My Tasks, Crossover Sprints, Create Task, Technical Debt - Crossover, Guides - Crossover, WS.Eng TPO: Leadership, Task Catalog. Address bar, navigation buttons, and browser settings button visible."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Verifications",
+                                        "layoutDescription": "Full page layout with left sidebar and main content area",
+                                        "visibleText": "Verifications\nIntegration All selected\nDate range\nStatus\nReason\nCountry\nDocument type\nClear All\na112j000000o2hAAAQ\nPress Enter to search\nThere are filters selected that may affect your results.\nNo result\nTry different keywords or remove filters."
+                                    },
+                                    {
+                                        "title": "Chat Widget",
+                                        "layoutDescription": "Floating chat widget on the right side",
+                                        "visibleText": "Operator\nAgent\nDid that answer help, or are you looking for something else?\nBot \u00b7 1m ago.\nThat helped \ud83d\udc4d Talk to a person \ud83d\udc64\nPowered by Intercom\nThis didn't help. I need to know for how long Veriff stores the data for the sessions that were completed. I need to review sessions that are more than 1 year"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in verifying identity proofs on Veriff Station. The first screenshot shows the user waiting for the page to load, indicating they are accessing the verification system. The second screenshot reveals the user interacting with the Veriff Station interface, where they are likely filtering or searching for specific verification records. The third screenshot shows the user searching for a specific identity proof record using the ID 'a112j000000o2hAAAQ'. The user is also interacting with an AI-powered chat widget, asking for assistance regarding data storage duration for completed sessions.",
+        "The user is utilizing multiple tabs in Google Chrome, as seen in the screenshots. These tabs include 'SF Prod', 'SF Sandbox', 'ADFS', 'My Tasks', 'Crossover Sprints', 'Create Task', 'Technical Debt - Crossover', 'Guides - Crossover', 'WS.Eng TPO: Leadership', and 'Task Catalog'. This indicates that the user is managing various tasks and projects simultaneously, likely related to software development and project management. The presence of these tabs suggests the user is multitasking and possibly switching between different tasks and projects throughout the session."
+    ],
+    "aiUseSummary": "The user is utilizing an AI-powered chat widget integrated into the Veriff Station interface. The user interacts with the AI assistant to seek help regarding the duration for which Veriff stores data for completed sessions. The AI assistant, labeled as 'Operator', responds to the user's queries, providing assistance and options to either confirm the help was useful or to talk to a human agent. This interaction highlights the user's reliance on AI for quick information retrieval and support, enhancing their efficiency in managing verification tasks.",
+    "activities": [
+        "RESEARCH",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "UI"
+    ],
+    "programmingLanguages": [
+        "OTHER"
+    ],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "SHORTWAVE"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "RESEARCH",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 11,
+            "date": "2024-06-15T11:20:41Z",
+            "windowTitle": "A-00001669 | Identity Proof | Salesforce - Google Chrome",
+            "processName": "crossover.lightning.force.com",
+            "visitingUrl": "crossover.lightning.force.com/lightning/r/Identity_Proof__c/a112j000000o2hAAAQ/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 28,
+            "mouse": 8,
+            "date": "2024-06-15T11:21:41Z",
+            "windowTitle": "Veriff Station - Google Chrome",
+            "processName": "station.veriff.com",
+            "visitingUrl": "station.veriff.com/login/otp",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 6,
+            "mouse": 9,
+            "date": "2024-06-15T11:22:41Z",
+            "windowTitle": "Re: Moving candidate to Identity Check - dmitrii.shutenkov@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#search/from%3Aisabelle/FMfcgzQVwxGQqRxqmrPwVJWJvVLnVlbW",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 9,
+            "date": "2024-06-15T11:23:41Z",
+            "windowTitle": "A-00001669 | Identity Proof | Salesforce - Google Chrome",
+            "processName": "crossover.lightning.force.com",
+            "visitingUrl": "crossover.lightning.force.com/lightning/r/Identity_Proof__c/a112j000000o2hAAAQ/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 10,
+            "mouse": 13,
+            "date": "2024-06-15T11:24:41Z",
+            "windowTitle": "Veriff Station - Google Chrome",
+            "processName": "station.veriff.com",
+            "visitingUrl": "station.veriff.com/verifications",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 33,
+            "mouse": 17,
+            "date": "2024-06-15T11:25:41Z",
+            "windowTitle": "A-00001669 | Identity Proof | Salesforce - Google Chrome",
+            "processName": "crossover.lightning.force.com",
+            "visitingUrl": "https://crossover.lightning.force.com/lightning/r/Identity_Proof__c/a112j000000o2hAAAQ/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 25,
+            "mouse": 4,
+            "date": "2024-06-15T11:26:41Z",
+            "windowTitle": "Veriff Station - Google Chrome",
+            "processName": "station.veriff.com",
+            "visitingUrl": "station.veriff.com/verifications",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 51,
+            "mouse": 4,
+            "date": "2024-06-15T11:27:41Z",
+            "windowTitle": "Veriff Station - Google Chrome",
+            "processName": "station.veriff.com",
+            "visitingUrl": "station.veriff.com/verifications",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 165,
+            "mouse": 1,
+            "date": "2024-06-15T11:28:41Z",
+            "windowTitle": "Veriff Station - Google Chrome",
+            "processName": "station.veriff.com",
+            "visitingUrl": "station.veriff.com/verifications",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 12,
+            "mouse": 8,
+            "date": "2024-06-15T11:29:41Z",
+            "windowTitle": "AI-Powered Identity Verification | Drive Growth | Veriff.com - Google Chrome",
+            "processName": "veriff.com",
+            "visitingUrl": "veriff.com",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-15T11:20:00Z"
+}

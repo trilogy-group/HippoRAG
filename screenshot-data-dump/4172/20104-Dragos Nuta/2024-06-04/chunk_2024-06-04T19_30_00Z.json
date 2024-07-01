@@ -1,0 +1,391 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "Notepad",
+    "meet.google.com",
+    "chrome"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-04T19:30:47Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the system tray with network, sound, and battery status icons, as well as the date and time '6/24/24 10:30 PM'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Gmail",
+                "url": "https://mail.google.com",
+                "position": "left half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Interface with sidebar containing Mail, Chat, Meet, and other sections. Main area shows list of emails with sender names and subjects."
+                },
+                "content": [
+                  {
+                    "title": "Email List",
+                    "layoutDescription": "List format",
+                    "visibleText": "Kaan Ozdokmeci (Google. Weekly Delivery T... - These are project deliveries and/ George Dita (Google. Delivery progress (Influitive - Add AI to Discourse Com... Jamie Sidey (via Go. Document shared with you: 'Notes from Legal call w La... Ben Moosher 2 Re: Crossover and Google - Hey Dragos! It's been a while... Joe Conley Updated invitation: Stratifyd - Cost Optimization Plan @ Tue... Matheus Vinicius de. 2 Re: Invitation: Matheus de Freitas and Dragos Nuta @ N... David ... Marcelo 6 Factory status May 2024 (TPM/Eng) - New activity in the..."
+                  }
+                ]
+              },
+              {
+                "title": "Notepad",
+                "position": "center of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Simple window with text content."
+                },
+                "content": [
+                  {
+                    "title": "Notepad Content",
+                    "layoutDescription": "Text editor",
+                    "visibleText": "tier 1 - enterprise, 20k/month tier 2 - 5k/month generic job boards (indeed, linkedin, zip recruiter) niche job boards (next, dice) agencies with a pool (hand picks candidates) social media (facebook, x) google ads"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Google Meet",
+            "windows": [
+              {
+                "title": "uii-fdeo-wsx",
+                "url": "https://meet.google.com/uii-fdeo-wsx",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Meet interface with participant video feeds and controls."
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "York",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Saket Chourasiya",
+                      "expression": "smiling"
+                    },
+                    {
+                      "name": "Padd Nuta",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Joveo Notetaker",
+                      "expression": "not visible"
+                    }
+                  ]
+                },
+                "content": [
+                  {
+                    "title": "Google Meet Video Call",
+                    "layoutDescription": "Video call layout",
+                    "visibleText": "Participant names and video feeds visible. Controls for microphone, camera, and other settings at the bottom."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T19:34:35Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, File Explorer, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '10:34 PM' and '6/24/24'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - uii-fdeo-wsx - Google Chrome",
+                "url": "meet.google.com/uii-fdeo-wsx",
+                "position": "left half of the screen",
+                "isActive": true,
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "John Doe",
+                      "expression": "smiling"
+                    },
+                    {
+                      "name": "Saket Chourasiya"
+                    },
+                    {
+                      "name": "Paddy"
+                    },
+                    {
+                      "name": "Joveo Notetaker",
+                      "expression": "Initial J on a blue background"
+                    },
+                    {
+                      "name": "Dragos Nuta"
+                    }
+                  ]
+                },
+                "uiElements": {
+                  "details": "Video conference window with participant videos and controls"
+                },
+                "content": [
+                  {
+                    "title": "Meet - uii-fdeo-wsx",
+                    "layoutDescription": "Video conference layout",
+                    "visibleText": "Meet - uii-fdeo-wsx"
+                  }
+                ]
+              },
+              {
+                "title": "Gmail - Inbox - Google Chrome",
+                "url": "mail.google.com/mail/u/0/#inbox",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Email client interface with navigation and email list"
+                },
+                "content": [
+                  {
+                    "title": "Gmail - Inbox",
+                    "layoutDescription": "Email client layout",
+                    "visibleText": "Gmail\nCompose\nInbox\nStarred\nSent\nDrafts\nMore\nCoach Emma\nBilling\nCS Tempo\nKayako\nImportant\nGeorge Dita (Google. Delivery progress (Influitive - Add AI to Discourse Community)\nJamie Sidey (via Google. Document shared with you: 'Notes from Legal call w Laura'\nBen Moosher 2 Re: Crossover and Google - Hey Dragos! It's been a while\nJoe Conley Updated invitation: Stratifyd - Cost Optimization Plan @ Tuesday\nMatheus Vinicius de Freitas and Dragos Nuta Re: Invitation: Matheus de Freitas and Dragos Nuta @ Google\nDavid... Marcelo 6 Factory status May 2024 (TPM/Eng) - New activity in the thread\nMarcel Skaba (Google. Weekly Delivery T... @marcelo.skaba@devfactory.com"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T19:38:16Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, widgets, and several pinned applications. Also shows the system tray with network, sound, and battery status icons, as well as the date and time display '6/24/24 10:38 PM'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - qrz-rpvr-qjr - Google Chrome",
+                "url": "meet.google.com/qrz-rpvr-qjr",
+                "position": "left half of the screen",
+                "isActive": true,
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Adwiento",
+                      "expression": "smiling"
+                    },
+                    {
+                      "name": "Dragos Nuta",
+                      "expression": "stretching"
+                    }
+                  ]
+                },
+                "uiElements": {
+                  "details": "call controls include microphone toggle, camera toggle, captions, present now, more options, and hang up."
+                },
+                "content": [
+                  {
+                    "title": "Meet - qrz-rpvr-qjr",
+                    "layoutDescription": "Video call window",
+                    "visibleText": "read.ai meeting notes"
+                  }
+                ]
+              },
+              {
+                "title": "Crossover - Engineering Jobs - Google Chrome",
+                "url": "crossover.com/jobs?Frequency=year",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "search filters and category tabs"
+                },
+                "content": [
+                  {
+                    "title": "Current Openings (10 Matching Jobs)",
+                    "layoutDescription": "Job listings page",
+                    "visibleText": "Engineering\n\nAI-Augmented Back-end Principal Engineer\n$100,000 USD/year ($50 USD/hour)\nFully-remote · Any country · Full-time (40 hrs/week) · Long-term role\n\nAI-Augmented Full-Stack Principal Engineer\n$100,000 USD/year ($50 USD/hour)\nFully-remote · Any country · Full-time (40 hrs/week) · Long-term role\n\nSenior AI Innovation Specialist - Software Engineering\n$100,000 USD/year ($50 USD/hour)\nFully-remote · Any country · Full-time (40 hrs/week) · Flexible schedule · Long-term role\n\nAI-First Software Engineer III\n$100,000 USD/year ($50 USD/hour)\nFully-remote · Any country · Full-time (40 hrs/week) · Long-term role"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Google Meet video conference, as evidenced by the screenshots showing the Google Meet interface with multiple participants. The meeting appears to be active, with participants visible and engaged in discussion. The user is also taking notes in Notepad, which is open and contains text related to job boards and advertising strategies. This indicates that the user is multitasking, participating in the meeting while simultaneously documenting important points or strategies discussed.",
+    "The user is also checking their email in Gmail, as shown by the open Gmail interface in the screenshots. The email list includes various emails related to project deliveries, document sharing, and invitations. This suggests that the user is managing their communications and staying updated on project progress and meetings. The user is likely prioritizing their tasks and ensuring they are on top of their responsibilities.",
+    "In another screenshot, the user is seen browsing job listings on the Crossover website. This indicates that the user is possibly looking for new job opportunities or researching the job market. The job listings are for engineering positions, which aligns with the user's role as a software engineer. This activity shows that the user is proactive in exploring career opportunities and staying informed about the job market trends."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a video conference, taking notes, checking emails, and browsing job listings. There are no visible interactions with AI chat interfaces or AI-driven tools in the screenshots.",
+  "activities": [
+    "MEETING",
+    "EMAIL",
+    "RESEARCH"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T19:30:11Z",
+      "windowTitle": "*tier 1 - enterprise, 20kmonth - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T19:31:11Z",
+      "windowTitle": "*tier 1 - enterprise, 20kmonth - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 18,
+      "mouse": 1,
+      "date": "2024-06-04T19:32:11Z",
+      "windowTitle": "*tier 1 - enterprise, 20kmonth - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T19:33:11Z",
+      "windowTitle": "*tier 1 - enterprise, 20kmonth - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 36,
+      "mouse": 3,
+      "date": "2024-06-04T19:34:11Z",
+      "windowTitle": "*tier 1 - enterprise, 20kmonth - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 13,
+      "mouse": 4,
+      "date": "2024-06-04T19:35:11Z",
+      "windowTitle": "*tier 1 - enterprise, 20kmonth - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 53,
+      "mouse": 3,
+      "date": "2024-06-04T19:36:11Z",
+      "windowTitle": "Meet - uii-fdeo-wsx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/uii-fdeo-wsx?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 26,
+      "mouse": 18,
+      "date": "2024-06-04T19:37:11Z",
+      "windowTitle": "Meet - qrz-rpvr-qjr - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/qrz-rpvr-qjr?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 8,
+      "mouse": 5,
+      "date": "2024-06-04T19:38:11Z",
+      "windowTitle": "Meet - qrz-rpvr-qjr - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/qrz-rpvr-qjr?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 11,
+      "mouse": 3,
+      "date": "2024-06-04T19:39:11Z",
+      "windowTitle": "New Tab - Google Chrome",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-04T19:30:00Z"
+}

@@ -1,0 +1,204 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "docs.google.com",
+    "meet.google.com",
+    "mail.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T14:32:23Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Minimize, Core, MS.Eng.AI, TeachTap, DevFactory, Week, Pending, Magic Academy, Budget, New Tab, and additional unidentified icons. Also includes system clock showing '8:32 AM' and date '12 Jun 2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - gsv-napk-ouw - Google Chrome",
+                "url": "meet.google.com/gsv-napk-ouw",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Tabs visible with titles Minimize, Core, MS.Eng.AI, TeachTap, DevFactory, Week, Pending, Magic Academy, Budget, New Tab. Address bar visible with URL. Navigation buttons (back, forward, refresh) visible. Google account icon, Chrome profile icon, and vertical ellipsis for menu visible."
+                },
+                "content": [
+                  {
+                    "title": "Video Conference",
+                    "layoutDescription": "Three video feeds displayed in a grid layout",
+                    "visibleText": "Phil Hewinson\nBogdan Tenea\nIsaac Squires"
+                  },
+                  {
+                    "title": "In-call messages",
+                    "layoutDescription": "Sidebar on the right side of the screen",
+                    "visibleText": "In-call messages\nLet everyone send messages\nUnless they're pinned, messages can only be seen by people in the call when the message is sent. All messages are deleted when the call ends.\nPhil Hewinson 8:21 AM\nhttps://docs.google.com/spreadsheets/d/1g9sU9"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Google Meet video conference, as evidenced by the screenshot showing three participants: Phil Hewinson, Bogdan Tenea, and Isaac Squires. The meeting interface displays in-call messages on the right sidebar, with a link to a Google Sheets document shared by Phil Hewinson at 8:21 AM. The user is actively participating in the meeting, which is likely related to project updates or planning, given the shared document link.",
+    "The user has multiple tabs open in Google Chrome, including 'Minimize', 'Core', 'MS.Eng.AI', 'TeachTap', 'DevFactory', 'Week', 'Pending', 'Magic Academy', 'Budget', and a 'New Tab'. This indicates that the user is multitasking and possibly working on various projects or tasks simultaneously. The system clock shows '8:32 AM' and the date '12 Jun 2024', confirming the time of the activity.",
+    "The in-call messages sidebar in the Google Meet interface shows a link to a Google Sheets document titled 'GT School Q3'24 Budget Details' and another document titled 'TeachTap Marketing Plan - Q3 2024'. This suggests that the meeting involves discussions about budget details and marketing plans for the third quarter of 2024. The user is likely reviewing these documents during the meeting to provide input or updates."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a Google Meet video conference and reviewing shared documents. No interactions with AI tools such as IDE embedded AI chat interfaces, conversational AI tools, or AI debugging tools are visible in the screenshots.",
+  "activities": [
+    "MEETING",
+    "READING_SPEC"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 3,
+      "mouse": 9,
+      "date": "2024-06-12T14:30:45Z",
+      "windowTitle": "Edu Platform Cost breakdown - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1_o0oMTFXRMSC3GB4LuReVWLkB5TVk6E2MaKytazqpqw/edit#gid=111605701",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 21,
+      "date": "2024-06-12T14:31:45Z",
+      "windowTitle": "Meet - gsv-napk-ouw - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/gsv-napk-ouw",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 5,
+      "date": "2024-06-12T14:32:45Z",
+      "windowTitle": "AI Assist on WorkSmart - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 14,
+      "date": "2024-06-12T14:33:45Z",
+      "windowTitle": "Meet - gsv-napk-ouw - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/gsv-napk-ouw",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T14:34:45Z",
+      "windowTitle": "Meet - gsv-napk-ouw - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/gsv-napk-ouw",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T14:35:45Z",
+      "windowTitle": "Meet - gsv-napk-ouw - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/gsv-napk-ouw",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T14:36:45Z",
+      "windowTitle": "Meet - gsv-napk-ouw - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/gsv-napk-ouw",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 18,
+      "date": "2024-06-12T14:37:45Z",
+      "windowTitle": "LearnWith.ai Q3 2024 Budget Update - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1wRJiCDXbFF0pR2cSKCtEeEa5BQWZFem1vLqOqLAI2ic/edit#heading=h.vbhqvcs88jdp",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-12T14:38:45Z",
+      "windowTitle": "Meet - gsv-napk-ouw - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/gsv-napk-ouw",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T14:39:45Z",
+      "windowTitle": "Meet - gsv-napk-ouw - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/gsv-napk-ouw",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-12T14:30:00Z"
+}

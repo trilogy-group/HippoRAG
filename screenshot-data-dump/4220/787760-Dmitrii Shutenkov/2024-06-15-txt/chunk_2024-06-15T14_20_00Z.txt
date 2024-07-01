@@ -1,0 +1,283 @@
+{
+    "candidateId": 1444536,
+    "apps": [
+        "us-east-1.console.aws.amazon.com",
+        "Code"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-15T14:21:53Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for ChatGPT, Google Chrome, File Explorer, Microsoft Edge, and other unidentified applications. Also includes system icons for network, sound, notifications, and clock displaying '15:21:53 15/06/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "CampaignTracking | Functions | Lambda - Google Chrome",
+                                "url": "https://us-east-1.console.aws.amazon.com",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Address bar, bookmarks bar with AWS, Cognito, S3, DynamoDB, API Gateway, Athena, CloudWatch, New Tab. Navigation buttons, refresh button, home button, extensions, profile icon."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Code source",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "1 def lambda_handler(event, context):\n2 print('Lambda invoked')\n3 credentials = event['gsheet_credentials']\n4 sheet_id = event['campaigns'][0]['sheet_id']\n5 return {\n6 'statusCode': 200,\n7 'headers': {\n8 'Content-Type': 'text/plain'\n9 },\n10 'body': f\"Hello, world!\\ncredentials: {credentials}\\nsheet_id: {sheet..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-15T14:24:11Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Microsoft Edge, File Explorer, Google Chrome, and system tray with notifications, sound, network, and clock displaying '15:24:12 15/06/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "CloudWatch | us-east-1 - Google Chrome",
+                                "url": "https://us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, AWS management console navigation bar, CloudWatch navigation sidebar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "CloudWatch",
+                                        "layoutDescription": "content area with logs",
+                                        "visibleText": "CloudWatch\nFavorites and recents\nDashboards\nAlarms\nLogs\nLog groups\nLog Anomalies\nLive Tail\nLogs Insights\nContributor Insights\nMetrics\nX-Ray traces\nEvents\nApplication Signals New\nNetwork monitoring\nInsights\nCloudShell\nFeedback\nLog events\nYou can use the filter bar below to search for and match terms, phrases, or values in your log events. Learn more about filter patterns\nTimestamp\n2024-06-15T14:22:12.3917\n20 more records within selected time range Retry\nINIT_START Runtime Version: python3.12.v28 Runtime Version ARN: aws:lambda:us-east-1:runtime:7776ed4e90fff44dfab8 RequestId: cddf27a3-fb89-4439-a7fa-11a860f678c0 Version: SLATEST\nLambda invoked\n{'version': '2.0', 'routeKey': '$default', 'rawPath': '/', 'rawQueryString': '', 'headers': {'content-length': '2623', 'x-amzn-tls-version': 'TLSv1.3', 'x-forwarded-for': 'x.x.x.x', 'x-amzn-trace-id': 'Root=1-62a1b2b8-4e5e5f1d3b2f2e4c3b3f3b2f'}, 'requestContext': {'accountId': 'x.x.x.x', 'apiId': 'x.x.x.x'}, 'isBase64Encoded': false}\nLAMBDA_WARNING: Unhandled exception. The most likely cause is an issue in the function code. However, in rare cases, a Lambda runtime update can cause unexpected fu\n[ERROR] KeyError: 'gsheet_credentials' Traceback (most recent call last): File '/var/task/lambda_function.py', line 4, in lambda_handler credentials = event['-\nEND RequestId: cddf27a3-fb89-4439-a7fa-11a860f678c0\nREPORT RequestId: cddf27a3-fb89-4439-a7fa-11a860f678c0 Duration: 22.32 ms Billed Duration: 23 ms Memory Size: 128 MB Max Memory Used: 35 MB Init Duration: 101.61 ms\nSTART RequestId: c180f5b3-532a-431c-bb5b-34a794c0e38c Version: SLATEST\nLambda invoked\n{'version': '2.0', 'routeKey': '$default', 'rawPath': '/', 'rawQueryString': '', 'headers': {'content-length': '2623', 'x-amzn-tls-version': 'TLSv1.3', 'x-forwarded-for': 'x.x.x.x', 'x-amzn-trace-id': 'Root=1-62a1b2b8-4e5e5f1d3b2f2e4c3b3f3b2f'}, 'requestContext': {'accountId': 'x.x.x.x', 'apiId': 'x.x.x.x'}, 'isBase64Encoded': false}"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-15T14:27:19Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, File Explorer, Microsoft Edge, Visual Studio Code, and system tray including network, sound, and clock",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "dump.json - tools - Visual Studio Code",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "menu bar with File, Edit, Selection, View, Go, Run, Terminal, Help; sidebar with Explorer, Search, Source Control, Run and Debug, Extensions, and minimized panels"
+                                },
+                                "content": [
+                                    {
+                                        "title": "EXPLORER",
+                                        "layoutDescription": "side panel",
+                                        "visibleText": "EXPLORER\nOPEN EDITORS\n3 unsaved\nWelcome\ntest.py campaign-tracking\nrequirements.txt campaign-tracking\nlambda_function.py campaign-tracking\ngsheets.py campaign-tracking\nconfig.json campaign-tracking\ndump.json campaign-tracking\nUntitled-1\nTOOLS\ncampaign-tracking\n.pycache_\n> venv\ncampaign_tracking_package.zip\nconfig.json"
+                                    },
+                                    {
+                                        "title": "editor area",
+                                        "layoutDescription": "editor area",
+                                        "visibleText": "{\n \"version\": \"2.0\",\n \"routeKey\": \"$default\",\n \"rawPath\": \"/\",\n \"rawQueryString\": \"\",\n \"headers\": {\"content-length\": \"2623\", \"x-amzn-tls-version\": \"TLSv1.3\", \"x-amzn-TraceId\": \"Root=1-62a2b0a7-06f4f9821b77d1e2302b125a\"},\n \"requestContext\": {\n \"accountId\": \"123456789012\",\n \"apiId\": \"a1b2c3d4e5\",\n \"domainName\": \"api.example.com\",\n \"domainPrefix\": \"api\",\n \"httpMethod\": \"POST\",\n \"requestId\": \"c6f25b1d-07c2-411a-8c75-95b6d2a242d1\",\n \"routeKey\": \"$default\",\n \"stage\": \"dev\",\n \"time\": \"12/May/2022 19:45:24 +0000\",\n \"timeEpoch\": 1589312724000\n },\n \"body\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOi \"isBase64Encoded\": true\n}"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in writing and debugging code for an AWS Lambda function named 'CampaignTracking'. The code is written in Python, as evidenced by the '.py' file extension and the syntax used. The user is working within the AWS Management Console, specifically in the Lambda and CloudWatch services. They are editing the 'lambda_function.py' file, which includes a handler function that processes events and returns a response. The user is also monitoring the logs in CloudWatch to debug issues related to missing 'gsheet_credentials'.",
+        "The user is also utilizing Visual Studio Code (VS Code) to manage and edit multiple files related to the 'campaign-tracking' project. The open files include 'test.py', 'requirements.txt', 'lambda_function.py', 'gsheets.py', 'config.json', and 'dump.json'. The user is likely testing the Lambda function locally, as indicated by the terminal output showing a deprecation warning and a SQL query execution. The user is also editing a JSON file, 'dump.json', which appears to contain API request and response data.",
+        "The user is navigating through the AWS Management Console, specifically within the CloudWatch service, to view and analyze log events. The logs show multiple invocations of the Lambda function, with details about the request and response payloads. The user is troubleshooting an 'Unhandled exception' error related to missing 'gsheet_credentials'. This indicates that the user is focused on debugging and ensuring the Lambda function operates correctly.",
+        "The user has multiple browser tabs open, including AWS Lambda, CloudWatch, and ChatGPT. The presence of ChatGPT suggests that the user might be using it for research or assistance in debugging the code. However, there is no direct interaction with ChatGPT visible in the screenshots provided. The user is primarily focused on the AWS Management Console and VS Code for their development and debugging tasks."
+    ],
+    "aiUseSummary": "The user has ChatGPT open in a browser tab, indicating potential use for research or debugging assistance. However, there is no visible interaction with ChatGPT in the provided screenshots. The user is primarily focused on writing and debugging code within the AWS Management Console and Visual Studio Code. The presence of ChatGPT suggests that the user might consult it for code suggestions, troubleshooting, or understanding specific concepts related to their current task.",
+    "activities": [
+        "WRITING_CODE",
+        "NAVIGATING_CODE",
+        "RESEARCH"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "DB",
+        "TESTS"
+    ],
+    "programmingLanguages": [
+        "PYTHON",
+        "SQL"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "OPENAI_CHATGPT"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 5,
+            "date": "2024-06-15T14:20:41Z",
+            "windowTitle": "CloudWatch | us-east-1 - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1#logsV2:log-groups/log-group/%2Faws%2Flambda%2FCampaignTracking/log-events/2024%2F06%2F15%2F[%24LATEST]86ccb18a7b8c42648bfafb4df1b95088?start=PT3H",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 4,
+            "mouse": 3,
+            "date": "2024-06-15T14:21:41Z",
+            "windowTitle": "CampaignTracking | Functions | Lambda - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/functions/CampaignTracking?newFunction=true&tab=code",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 15,
+            "mouse": 10,
+            "date": "2024-06-15T14:22:41Z",
+            "windowTitle": "CloudWatch | us-east-1 - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1#logsV2:log-groups/log-group/%2Faws%2Flambda%2FCampaignTracking/log-events/2024%2F06%2F15%2F[%24LATEST]86ccb18a7b8c42648bfafb4df1b95088?start=PT3H",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 8,
+            "mouse": 10,
+            "date": "2024-06-15T14:23:41Z",
+            "windowTitle": "CampaignTracking | Functions | Lambda - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/functions/CampaignTracking?newFunction=true&tab=code",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 4,
+            "mouse": 12,
+            "date": "2024-06-15T14:24:41Z",
+            "windowTitle": "CloudWatch | us-east-1 - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1#logsV2:log-groups/log-group/%2Faws%2Flambda%2FCampaignTracking/log-events/2024%2F06%2F15%2F[%24LATEST]a781f1cd5b334a72805b8e4153c8929c?start=PT3H",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 12,
+            "mouse": 13,
+            "date": "2024-06-15T14:25:41Z",
+            "windowTitle": "? {'version': '2.0', 'routeKey': '$default ? Untitled-1 - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 43,
+            "mouse": 17,
+            "date": "2024-06-15T14:26:41Z",
+            "windowTitle": "? dump.json - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 16,
+            "mouse": 13,
+            "date": "2024-06-15T14:27:41Z",
+            "windowTitle": "? dump.json - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 23,
+            "mouse": 13,
+            "date": "2024-06-15T14:28:42Z",
+            "windowTitle": "? dump.json - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 10,
+            "mouse": 6,
+            "date": "2024-06-15T14:29:42Z",
+            "windowTitle": "? dump.json - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-15T14:20:00Z"
+}

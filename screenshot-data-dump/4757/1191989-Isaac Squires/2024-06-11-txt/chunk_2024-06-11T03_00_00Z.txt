@@ -1,0 +1,157 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "mail.google.com",
+        "mixpanel.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-11T03:02:21Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Chrome, Outlook, File Explorer, and other unidentified applications. System clock shows '21:02', date '10 Jun 2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Fwd: IMPORTANT - admin@ and contact@ emails vanished - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+                                "url": "mail.google.com/mail/u/0/#inbox/FM",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, Gmail navigation pane, and task sidebar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email Thread",
+                                        "layoutDescription": "Email thread displayed in center",
+                                        "visibleText": "Bogdan Tenea to Tristan, Simon, me\nLOL, my bad - I saw Clara's message that she got an error when emailing admin@, searched users, and panicked :)\nRegards,\nBogdan\n\nTristan Muniz to Bogdan, Simon, me\nNo worries. I'm glad there wasn't an issue. I'll still try to figure out why she received an error.\nTristan Muniz | Marketing Innovation and Operations\nLearnWith.AI | Trilogy Enterprises, Inc."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is primarily engaged in email activities. They are using Gmail to read and respond to emails. The email thread visible in the screenshot involves a discussion about an error encountered when emailing a specific address. The user is also managing tasks using the task sidebar in Gmail, which includes various tasks such as Q2 progress, app testing, and content posting. The user is actively navigating through their inbox, as indicated by the multiple tabs and email threads open in the browser.",
+        "The user is also accessing Mixpanel, a web-based analytics tool. The specific project and board being viewed are related to user activity tracking and analytics. This suggests that the user is involved in monitoring or analyzing user data, possibly for a web or mobile application. The Mixpanel interface shows various metrics and data points, indicating that the user is reviewing analytics data to gain insights into user behavior or application performance."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in email communication and data analysis using Gmail and Mixpanel, respectively. There are no visible AI chat interfaces or AI-generated content in the screenshots.",
+    "activities": [
+        "EMAIL",
+        "RESEARCH"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "EMAIL",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 10,
+            "date": "2024-06-11T03:00:14Z",
+            "windowTitle": "Re: LearnWith.AI Beta Test - Ana - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwwwMPNXnwnMDZRFJSCLMsWXt",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 13,
+            "date": "2024-06-11T03:01:14Z",
+            "windowTitle": "Re: LearnWith.AI Beta Test - Ana - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwwwMPNXnwnMDZRFJSCLMsWXt",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 38,
+            "date": "2024-06-11T03:02:14Z",
+            "windowTitle": "Fwd: IMPORTANT - admin@ and contact@ emails vanished - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwwwNTbKxpVKTBbGhTBVbvqrQ",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 11,
+            "date": "2024-06-11T03:03:14Z",
+            "windowTitle": "TeachTap Weekly Update - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzGxRdzKqFsTPvQCsCMgHpJrQWpp",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 32,
+            "date": "2024-06-11T03:04:14Z",
+            "windowTitle": "Fwd: Q3'24 Budget Packs - Samy's group - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzGxTPHJkggMWlfFRLFLCHrddtFC",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 24,
+            "date": "2024-06-11T03:05:14Z",
+            "windowTitle": "Magic Academy - Magic Academy / Mixpanel - Google Chrome",
+            "processName": "mixpanel.com",
+            "visitingUrl": "mixpanel.com/project/3313988/view/3818788/app/boards/#id=7342745",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 65,
+            "mouse": 18,
+            "date": "2024-06-11T03:06:14Z",
+            "windowTitle": "Inbox (2) - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-11T03:00:00Z"
+}

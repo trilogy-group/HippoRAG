@@ -1,0 +1,286 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "crossover.lightning.force.com",
+    "webstorm64"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T15:12:20Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '17:24' and date '2024/06/12'. Network status, sound volume, and battery status icons are visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "xo-hiring-monorepo | indeed-xml-generator\\src\\index.ts",
+                "url": null,
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar at the top with options like File, Edit, View, Go, Run, Terminal, Help. Sidebar on the left with file explorer showing project structure. Bottom bar showing branch name 'teatime/LAMBDA-73909-amended-2024'"
+                },
+                "content": [
+                  {
+                    "title": "File Explorer",
+                    "layoutDescription": "Vertical panel",
+                    "visibleText": "Project\n- src\n - data.ts\n - index.ts\n - utils.ts\n- test\n - utils.ts\n- build\n- dist\n- node_modules\n- common\n - athena-utils\n - base-lambda-executor.ts\n - common-utils.ts\n - config.ts\n - constants.ts\n - event-parser.ts\n - index-mappings.ts\n - open-search-utils.ts\n - s3-utils.ts\n - sqs-utils.ts\n - string-utils.ts\n - time-utils.ts\n - index.ts\n - types.ts\n - dfq-handler.ts\n - dfq-parser.ts\n - index-candidates\n - lambda-executor.ts\n - index.ts\n - index-candidates-info\n - lambda-executor.ts\n - migrate-resumes\n - resume-handlers.ts\n - lambda-executors\n - index.ts\n- package.json\n- package-lock.json\n- README.md\n- tsconfig.json\n- .env\n- .gitignore"
+                  },
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Main central area",
+                    "visibleText": "function buildJobFeedXml(campaigns: Campaign[], countries: Country[], config: Config): string {\n batches.forEach((campaigns: CampaignId[]) => {\n campaigns.forEach((campaign: Campaign) => {\n if (miningCampaigns.length > 0) {\n miningCampaigns.forEach((campaign: Campaign) => {\n campaign.categoryOverride = '12_PIPE_Campaign.Pipeline_n.ProductCode_PART_s.C miningCampaigns.push(campaign);\n });\n }\n });\n });\n\n const byTzOffsets: Record<number, CampaignId[]> = {};\n if (campaign.categoryOverride != null) {\n byTzOffsets.forEach((campaign: Campaign) => {\n let tzOffset: number = CountriesAndTimezones[campaign.Ad.Posted.Country_ if (tzOffset == null) {\n console.error('No timezone offset found for country ${campaign.Ad.Posted.Country_Name__c}');\n tzOffset = 0;\n }\n\n if (byTzOffsets[tzOffset] is null) {\n byTzOffsets[tzOffset] = [];\n }\n byTzOffsets[tzOffset].push(campaign);\n });\n\n let buffer: CampaignId[] = [];\n let counter1: number = 0;\n let counter2: number = 0;\n for (let key: string in byTzOffsets) {\n the jobs: CampaignId[] = byTzOffsets[key];\n if (jobs.length < CategoryJobsMin) {\n console.log('Total amount of sub-campaigns is less than ${CategoryJobsMin}, merging with next');\n buffer = jobs;\n buffer.push(...buffer);\n }\n counter1++;\n counter2++;\n }\n }\n return xml;\n}"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T15:14:52Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and system tray with network, sound, and date/time indicators",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "index.ts - xo-hiring-monorepo - Visual Studio Code",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Explorer, Search, Source Control, Run and Debug, Extensions sidebar icons visible"
+                },
+                "content": [
+                  {
+                    "title": "File Explorer",
+                    "layoutDescription": "Vertical column on left",
+                    "visibleText": "Project\nsrc\nindex.ts\nutil"
+                  },
+                  {
+                    "title": "Editor Area",
+                    "layoutDescription": "Main editor area",
+                    "visibleText": "import { Campaign, Country, Config } from './types';\n\nfunction buildJobFeedXml(campaigns: Campaign[], countries: Country[], config: Config): string {\n batches.forEach((campaigns: Campaign[]) => void => {\n // Process each campaign\n // ...\n const miningCampaigns: Campaign[] = [];\n campaigns.forEach(cat => {\n if (cat.Pipeline__r.ProductCode === '5183' || cat.Pipeline__r.Product..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T15:17:00Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '17:17' and date '2024/06/12'. Network status icon, sound volume icon, and language indicator 'ENG' are visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "indeed-xml-generator\\ - xo-hiring-monorepo - Visual Studio Code",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Top menu bar with options like File, Edit, View, Go, Run, Terminal, Help. Side bar with icons for Explorer, Search, Source Control, Run and Debug, Extensions. Status bar at the bottom showing branch name 'LAMBDA-7399-andeed-2024', problems count, and feedback icon."
+                },
+                "content": [
+                  {
+                    "title": "File Explorer",
+                    "layoutDescription": "Vertical panel on left",
+                    "visibleText": "Project\nsrc\n- data.ts\n- index.ts\n- run.ts\n- utils.ts\n- test\n- unit.ts\n- Babel\n- build\n- dist\n- node_modules\n- common\n- athena-utils\n- base-lambda-executor.ts\n- common-utils.ts\n- config.ts\n- constants.ts\nRun\n- T2_PIPE_5185_PART_2.1*: 199\n- T2_PIPE_5185_PART_3.1*: 96\n- T2_PIPE_5185_PART_4.1*: 175\n- T2_PIPE_5185_PART_4.2*: 88\n- T2_PIPE_5245_PART_1.1*: 62\n- T2_PIPE_5245_PART_2.1*: 99\n- T2_PIPE_5245_MONN_EXP*: 110\n- T2_PIPE_5260_PART_1.1*: 170\n- T2_PIPE_5260_PART_2.1*: 175\n- T2_PIPE_5260_PART_2.2*: 84\n- T2_PIPE_5260_PART_3.1*: 102\n- T2_PIPE_5260_PART_4.1*: 175\n- T2_PIPE_5260_PART_4.2*: 129\n- T2_PIPE_5269_PART_1.1*: 138\n- T2_PIPE_5269_PART_2.1*: 124\n- T2_PIPE_5277_PART_1.1*: 72\n- T2_PIPE_5277_PART_1.1*: 64\nSuccessfully uploaded to crossover-indeed-indeed-job-wrapping.xml\nDone"
+                  },
+                  {
+                    "title": "Editor",
+                    "layoutDescription": "Large central panel",
+                    "visibleText": "function buildJobFeedXml(campaigns: Campaign[], countries: Country[], config: Config): string {\n batches.forEach((campaign: Campaign) => {\n // Implementation;\n });\n const miningCampaigns: Campaign[] = [];\n forEachCat((cat: Pipeline) => {\n if (cat.Pipeline_n.ProductCode === '5185' or '5260' and cat.Publish_Selection_n === 'Mine') {\n miningCampaigns.push(cat);\n }\n });\n if (miningCampaigns.length > 0) {\n miningCampaigns.forEach((campaign: Campaign) => {\n cat.Pipeline_n.categoryOverride = 'T2_PIPE_'+campaign.Pipeline_n.ProductCode+'_MINI incCategory(campaign.categoryOverride);\n });\n }\n const byIDtoOffsets: Record<number, Campaign[]> = {};\n callback for batches.forEach\n"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is primarily engaged in writing code within the WebStorm IDE. The project structure visible in the file explorer includes various TypeScript files such as 'data.ts', 'index.ts', 'utils.ts', and others. The user is working on a function named 'buildJobFeedXml' which processes campaign data. The code includes logic for handling campaign categories and timezone offsets, indicating a focus on backend development tasks related to data processing and manipulation.",
+    "The user is also running the code within the IDE, as evidenced by the output panel showing the results of the executed script. The output includes a list of processed campaign parts and a confirmation message indicating successful upload to a specified XML file. This suggests that the user is testing and validating their code to ensure it functions correctly.",
+    "Additionally, the user has visited a Salesforce Lightning page related to LinkedIn Publish Logs. This indicates that the user might be involved in tasks related to data integration or monitoring within a Salesforce environment. However, there is no evidence of active interaction with this page during the captured timeframe.",
+    "Throughout the session, the user remains focused on the code editor and the terminal within the WebStorm IDE, with no visible interaction with other applications or tools. This suggests a concentrated effort on coding and debugging tasks without significant context switching."
+  ],
+  "aiUseSummary": "There is no evidence of AI tool usage in the provided screenshots. The user is focused on writing and running code within the WebStorm IDE without any visible interaction with AI chat interfaces or other AI tools. The absence of AI-related UI elements or chat windows indicates that the user is not leveraging AI for code suggestions, debugging, or research during this session.",
+  "activities": [
+    "WRITING_CODE",
+    "NAVIGATING_CODE"
+  ],
+  "workTypes": [
+    "BACKEND"
+  ],
+  "programmingLanguages": [
+    "TYPESCRIPT"
+  ],
+  "toolTypes": [
+    "IDE",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 121,
+      "mouse": 0,
+      "date": "2024-06-12T15:10:02Z",
+      "windowTitle": "Indeed Current | LinkedIn Publish Logs | Salesforce - Google Chrome",
+      "processName": "crossover.lightning.force.com",
+      "visitingUrl": "crossover.lightning.force.com/lightning/o/LinkedIn_Publish_Log__c/list?filterName=00B2j000001IIjmEAG",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 118,
+      "mouse": 5,
+      "date": "2024-06-12T15:11:02Z",
+      "windowTitle": "xo-hiring-monorepo ? indeed-xml-generator\\src\\index.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 65,
+      "mouse": 20,
+      "date": "2024-06-12T15:12:02Z",
+      "windowTitle": "xo-hiring-monorepo ? indeed-xml-generator\\src\\index.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 45,
+      "mouse": 30,
+      "date": "2024-06-12T15:13:02Z",
+      "windowTitle": "xo-hiring-monorepo ? indeed-xml-generator\\src\\index.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 9,
+      "mouse": 6,
+      "date": "2024-06-12T15:14:02Z",
+      "windowTitle": "xo-hiring-monorepo ? indeed-xml-generator\\src\\index.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T15:15:02Z",
+      "windowTitle": "xo-hiring-monorepo ? indeed-xml-generator\\src\\index.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T15:16:02Z",
+      "windowTitle": "xo-hiring-monorepo ? indeed-xml-generator\\src\\index.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T15:17:02Z",
+      "windowTitle": "xo-hiring-monorepo ? indeed-xml-generator\\src\\index.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T15:18:02Z",
+      "windowTitle": "xo-hiring-monorepo ? indeed-xml-generator\\src\\index.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T15:19:02Z",
+      "windowTitle": "xo-hiring-monorepo ? indeed-xml-generator\\src\\index.ts",
+      "processName": "webstorm64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-12T15:10:00Z"
+}

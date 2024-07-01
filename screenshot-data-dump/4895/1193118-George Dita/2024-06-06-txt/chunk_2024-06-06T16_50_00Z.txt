@@ -1,0 +1,363 @@
+{
+    "candidateId": 2368956,
+    "apps": [
+        "Google Chat",
+        "hq.influitive.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-06T16:51:49Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Reminders, Notes, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a dock with application icons and a system tray with notifications, time, and system controls.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Finder",
+                        "windows": []
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-06T16:53:26Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a dock with application icons and a system clock showing the time '4:53 PM'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Messenger - [Conversation] - Nouman Shah",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "interface with search bar, settings icon, and chat list on the left side"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat with Nouman Shah",
+                                        "layoutDescription": "Chat layout",
+                                        "visibleText": "Nouman Shah: If I still have been using this email primarily I would have seen this much sooner. Sorry for the late response. \n\n Nouman Shah: [Link to a document] \n\n Nouman Shah: That's the link to the document. \n\n Nouman Shah: Let me know if you have any questions. \n\n Nouman Shah: I'll be available tomorrow."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Google Chat",
+                                "position": "left half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "interface with search bar, settings icon, and chat list on the left side"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat with Nouman Shah",
+                                        "layoutDescription": "Chat layout",
+                                        "visibleText": "Nouman Shah: If I still have been using this email primarily I would have seen this much sooner. Sorry for the late response. \n\n Nouman Shah: [Link to a document] \n\n Nouman Shah: That's the link to the document. \n\n Nouman Shah: Let me know if you have any questions. \n\n Nouman Shah: I'll be available tomorrow."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Excel",
+                        "windows": [
+                            {
+                                "title": "Challenge Publishing Calendar",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "interface with ribbon toolbar, formula bar, and sheet tabs"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Challenge Publishing Calendar",
+                                        "layoutDescription": "Spreadsheet layout",
+                                        "visibleText": "Challenge Publishing Calendar\n\nJanuary February March April May June July August September October November December\n\n[Rows with various entries and dates]"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Word",
+                        "windows": [
+                            {
+                                "title": "[Document] - Microsoft Word",
+                                "position": "bottom half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "interface with ribbon toolbar, ruler, and status bar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "[Document] - Microsoft Word",
+                                        "layoutDescription": "Document layout",
+                                        "visibleText": "[Text about project management methodologies, including tables and highlighted sections]"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Zoom",
+                        "windows": [
+                            {
+                                "title": "Zoom Meeting",
+                                "position": "bottom right of the screen",
+                                "isActive": true,
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "participant",
+                                            "expression": "Speaking"
+                                        },
+                                        {
+                                            "name": "participant",
+                                            "expression": "Listening"
+                                        }
+                                    ]
+                                },
+                                "uiElements": {
+                                    "details": "interface with video panels, chat, and meeting controls"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Zoom Meeting",
+                                        "layoutDescription": "Video conference layout",
+                                        "visibleText": "[Visible participant names and meeting controls]"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-06T16:59:04Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Notes, Reminders, Messages, Maps, Photos, Contacts, Music, Podcasts, TV, News, System Preferences, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Other Apps (folder), Trash. Also includes a Spotlight search icon and a Notification Center icon.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Messenger - Nooruman Shah - Google Chrome",
+                                "url": "https://mail.google.com/chat/u/0/#",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "chat interface, search bar, settings icon, chat list"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat",
+                                        "layoutDescription": "window layout",
+                                        "visibleText": "Nooruman Shah\n\nKeith: I have been using this email productivity technique for the last 6 months and it has been a game changer for me.\n\nNooruman Shah: That's awesome, Keith!\n\nKeith: https://blog.example.com/2023/04/ultimate-email-productivity\n\nNooruman Shah: Thanks for the share, Keith.\n\nKeith: No worries! Let me know if you have any questions.\n\nNooruman Shah: Will do!"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Successful Customers",
+                                "layoutDescription": "Document layout",
+                                "visibleText": "Successful Customers:\n\nCustomer Engagement: Fostering great customer relationships leads to advantages for all of your team. Companies that implement our solutions see an average 23% increase in customer satisfaction scores, higher customer retention rates, and more.\n\nEngagement Techniques: We provide tools and strategies that help your team engage customers more effectively. From training materials to real-time analytics, everything is designed to enhance your customer interactions.\n\nWhy Choose Us: Our solutions are built on the latest technology and are designed to integrate seamlessly into your existing business processes. This allows for a smoother transition and better adoption rates among your team members.\n\nFor more information, visit our website at www.example.com."
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Untitled - Google Docs",
+                        "url": "https://docs.google.com/document/d/1",
+                        "position": "right half of the screen",
+                        "isActive": false,
+                        "uiElements": {
+                            "details": "document editing tools, share button, document title"
+                        },
+                        "content": [
+                            {
+                                "title": "Document",
+                                "layoutDescription": "editing layout",
+                                "visibleText": "Document Title: Untitled\n\nThis is a sample text for a document in Google Docs. You can add more text here as needed for your document. This text serves as a placeholder to show how text appears in a Google..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in a Google Chat conversation with a team member named Nouman Shah. The discussion revolves around a project update, with Nouman sharing a document link and discussing the project's progress. The user is also seen responding to Nouman's messages, indicating active participation in the conversation.",
+        "The user is viewing a document titled 'Megathon - Interview Summary' in Google Docs. The document contains detailed text about customer engagement, project challenges, and other relevant topics. The user is likely reviewing or editing this document as part of their work.",
+        "The user is participating in a Zoom meeting with multiple participants. The meeting interface shows video panels of the participants, along with chat and meeting controls. The user is likely discussing project-related topics with their team members during this meeting.",
+        "The user is accessing the Influitive platform, specifically the 'Challenge Publishing Calendar' and 'Customer Publishing' sections. The user is likely reviewing the publishing schedule and other related information on this platform.",
+        "The user is also seen viewing a spreadsheet titled 'Megathon Shepherd Presentation' in Google Sheets. The spreadsheet contains various sections and highlighted text, indicating that the user is either reviewing or updating the content of this presentation."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in chat conversations, document reviews, and meetings without any visible interaction with AI tools.",
+    "activities": [
+        "READING_SPEC",
+        "CHATTING_WITH_TEAM",
+        "MEETING"
+    ],
+    "workTypes": [
+        "UI"
+    ],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "CHATTING_WITH_TEAM",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T16:50:18Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-06T16:51:18Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 96,
+            "mouse": 3,
+            "date": "2024-06-06T16:52:18Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 112,
+            "mouse": 0,
+            "date": "2024-06-06T16:53:18Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T16:54:18Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-06T16:55:18Z",
+            "windowTitle": " InfluitiveHQ - Google Chrome\n",
+            "processName": "hq.influitive.com",
+            "visitingUrl": "https://hq.influitive.com/corporate",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 49,
+            "mouse": 2,
+            "date": "2024-06-06T16:56:18Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T16:57:18Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T16:58:18Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T16:59:18Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-06T16:50:00Z"
+}

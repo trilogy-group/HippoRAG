@@ -1,0 +1,272 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "chrome",
+    "idea64"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T09:21:46Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Visual Studio Code, File Explorer, and other unidentified applications. Displays the time as 11:21 AM and date as 06/12/2024. Network status icon visible, indicating connectivity. Battery icon showing full charge.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Sidebar with project files. Bottom bar with Git options and search functionality."
+                },
+                "content": [
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Text editor with multiple tabs",
+                    "visibleText": "public class LinkedInSlots_ComputeCellMetricsBatch implements Database.Batchable<SObject>, Schedulable {\n\n private Map<String, Set<Id>> processedLinkedInSlots = new HashMap<String, Set<Id>>();\n private SourcingPlatforms sourcingPlatforms = SourcingPlatforms.NONE;\n private DateTime initialScheduledDate = null;\n private DateTime nextScheduledDate = null;\n\n // set initialDateTime to 13 weeks (91 days) before initialScheduledDate\n this.nextScheduledDate = initialScheduledDate.addDays(-91);\n\n for (SourcingPlatforms platform : sourcingPlatforms) {\n processedLinkedInSlots.put(platform.recordTypeName, new Set<Id>());\n }\n\n public void execute(SchedulableContext sc) {\n // If execution triggered by the Schedule without coordinator, run the batch for all sourcing platforms\n // If execution in coordinator to false to keep it as a standalone task.\n\n Database.executeBatch(\n new LinkedInSlots_ComputeCellMetricsBatch(),\n SourcingPlatformsEurope.LIMEWED_IN_AID_INDEED, DateTime.now().addDays(-7),\n LinkedInSlots_ComputeCellMetricsBatch.BATCH_SIZE\");\n }\n\n public Database.QueryLocator start(Database.BatchableContext bc) {\n System.debug('ComputeCellMetricsBatch started.');\n }\n\n // We have to take campaign which is 'in the middle' of job ads and opportunities.\n // We cannot take DISTINCT(cdbq) FROM opportunities, so we have to settle on this\n // given the amount of data we have. Basically, we'll do a big select on the campaigns\n // and do the further filter during the execution.\n\n // <More code continues below...>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T09:23:56Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '11:24' and date '06/12/2024'. Network, sound, and battery status icons are visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "IntelliJ IDEA",
+            "windows": [
+              {
+                "title": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "menu bar with options like File, Edit, View, Navigate, Code, Analyze, Refactor, Build, Run, Tools, VCS, Window, Help. Sidebar with project files. Bottom bar with Git options and terminal tabs."
+                },
+                "content": [
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Main area with multiple open tabs",
+                    "visibleText": "public class LinkedInSlots_ComputeCellMetricsBatch implements Database.Batchable<sObject>, Schedulable, Database.Stateful {\n\n public Database.QueryLocator start(Database.BatchableContext bc) {\n return Database.getQueryLocator(\n \"SELECT Id, Name, RecordType.DeveloperName, SourcingPlatformDetails__c, CreatedDate, LastModifiedById\n FROM Campaigns\n WHERE LastModifiedDate >= :minLastModifiedDate\n AND CreatedDate >= :minCreationDate\");\n }\n\n public void execute(Database.BatchableContext bc, List<Campaign> campaigns) {\n if (campaigns.size() <= 0) {\n System.debug('Nothing to process');\n return;\n }\n\n DateTime referenceDateForPerformanceAnalysis = Date.now().addDays(-7);\n // ...\n List<Job_Board_Cell_Analytics__c> analytics = new List<Job_Board_Cell_Analytics__c>();\n\n for (Campaign campaign : campaigns) {\n // ...\n String recordTypeName = campaign.RecordType.DeveloperName;\n SourcingPlatformDetails__c platform = SourcingPlatformDetails__c.platformForRecordTypeN if (cellId != null && processedCells.get(recordTypeName).contains(cellI {\n continue;\n }\n processedCells.get(record..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T09:29:28Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '11:29' and date '06/12/2024'. Language setting 'ENG' visible. System tray icons include network, sound, and battery status.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "sfdx ? feature/LAMBDA-76029-sfdx-fields ? LinkedInSlots_ComputeCellMetricsBatch",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar at top with File, Edit, View, Go, Run, Terminal, Help. Side bar on the left with Explorer, Search, Source Control, Run and Debug, Extensions icons. Bottom bar with problems, output, debug console, terminal tabs. Right sidebar with commit details and file structure."
+                },
+                "content": [
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Text editor with multiple tabs",
+                    "visibleText": "public class LinkedInSlots_ComputeCellMetricsBatch implements Database.Batchable<sObject>, Schedulable, Database.Stateful {\n\n public List<sObject> start(Database.BatchableContext BC) {\n List<Campaign> campaigns = [SELECT Id, Name FROM Campaign WHERE Id IN :LinkedinApi.getLinkedinCampaignIds()];\n List<sObject> batchData = new List<sObject>();\n for (Campaign campaign : campaigns) {\n LinkedInBoard_Cell__c cell = new LinkedInBoard_Cell__c();\n cell.LinkedInBoard_Parent__c = campaign.Id;\n cell.Name = campaign.Name;\n batchData.add(cell);\n }\n return batchData;\n }\n\n public void execute(Database.BatchableContext BC, List<sObject> scope) {\n List<LinkedInBoard_Cell_Analytics__c> analytics = new List<LinkedInBoard_Cell_Analytics__c>();\n for (sObject sobj : scope) {\n LinkedInBoard_Cell__c cell = (LinkedInBoard_Cell__c)sobj;\n Id analyticId = cell.LinkedInBoard_Cell_Analytics__c.isEmpty() ? cell.LinkedInBoard_Cell_Analytics__c.getId() : null;\n Job_Board_Cell__c jobBoardCell = (Job_Board_Cell__c)cell;\n cell.LinkedInBoard_Cell_Analytics__c = analyticId;\n jobBoardCell.LinkedInBoard_Cell_Parent__c = cell.LinkedInBoard_Parent__c;\n jobBoardCell.Name = cell.Name;\n // Metrics calculation\n Decimal cost_c = toDecimalZero(results.get('cost_c'));\n Decimal numApplicants = toDecimalZero(results.get('numApplicants'));\n Decimal interviewers = toDecimalZero(results.get('interviewers'));\n Decimal interviewersTasks = toDecimalZero(results.get('interviewersTasks'));\n Decimal mostRecentTest = toDecimalZero(results.get('mostRecentTest'));\n Decimal bfr = toDecimalZero(results.get('bfr'));\n Decimal hqls = toDecimalZero(results.get('hqls'));\n Decimal mqls = toDecimalZero(results.get('mqls'));\n Decimal sqls = toDecimalZero(results.get('sqls'));\n Decimal sqlsTestTakers = toDecimalZero(results.get('sqlsTestTakers'));\n // Upsert analytics\n upsert analytics;\n }\n }\n\n public Decimal toDecimalZero(Object value) {\n return value != null ? (Decimal)value : 0;\n }\n\n public void finish(Database.BatchableContext BC) {\n System.debug('ComputeCellMetricsBatch completed.');\n }\n\n public Database.QueryLocator start(Database.BatchableContext bc) {\n // Set executeContext in coordinator to false to keep it as standalone task.\n Database.executeBatch(new LinkedInSlots_ComputeCellMetricsBatch(new SourcingPlatformDetails(), DateTime.now().addDays(-7)), LinkedInSlots_ComputeCellMetricsBatch.BATCH_SIZE) return null;\n }\n"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in writing and navigating code within the IntelliJ IDEA IDE. The primary focus is on a class named 'LinkedInSlots_ComputeCellMetricsBatch' which implements the 'Database.Batchable<SObject>' and 'Schedulable' interfaces. The user is working on methods such as 'execute', 'start', and 'finish', which are part of a batch processing job. The code includes logic for handling campaigns, processing cell metrics, and upserting analytics data.",
+    "The user is also seen working on a feature branch named 'feature/LAMBDA-76029-sfdx-fields' within the same class. The code involves querying campaign data, processing job board cell analytics, and calculating various metrics such as cost, number of applicants, and interviewers. The user is making changes to the code, as indicated by the commit message 'Remove problematic layout'.",
+    "Throughout the session, the user is seen navigating through different parts of the codebase, including the project structure and various methods within the 'LinkedInSlots_ComputeCellMetricsBatch' class. The user is also utilizing the Git integration within the IDE to manage code changes, as evidenced by the commit and push actions visible in the screenshots."
+  ],
+  "aiUseSummary": "There is no visible evidence of AI tools being used in the provided screenshots. The user is primarily focused on writing and navigating code within the IntelliJ IDEA IDE. No AI chat interfaces or AI-generated code suggestions are visible in the screenshots.",
+  "activities": [
+    "WRITING_CODE",
+    "NAVIGATING_CODE"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "DB",
+    "TESTS"
+  ],
+  "programmingLanguages": [
+    "SALESFORCE",
+    "JAVA",
+    "SQL"
+  ],
+  "toolTypes": [
+    "IDE"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 3,
+      "mouse": 7,
+      "date": "2024-06-12T09:20:00Z",
+      "windowTitle": "Google Chat - Crossover - Upwork Sourcing v2 - Chat",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 7,
+      "date": "2024-06-12T09:21:00Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-12T09:22:01Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-12T09:23:01Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-12T09:24:00Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T09:25:00Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-12T09:26:00Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-12T09:27:00Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T09:28:00Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T09:29:01Z",
+      "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-12T09:20:00Z"
+}

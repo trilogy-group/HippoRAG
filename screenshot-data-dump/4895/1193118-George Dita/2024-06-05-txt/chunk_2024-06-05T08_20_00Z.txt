@@ -1,0 +1,345 @@
+{
+    "candidateId": 2368956,
+    "apps": [
+        "mail.google.com",
+        "Google Chat"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T08:20:50Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, Mail, Calendar, Photos, Settings, and other unidentified applications. Also includes the Start menu icon, search bar, task view button, and system tray with time, date, network status, and other system icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "File Explorer",
+                        "windows": []
+                    },
+                    {
+                        "appName": "Microsoft Store",
+                        "windows": []
+                    },
+                    {
+                        "appName": "Mail",
+                        "windows": []
+                    },
+                    {
+                        "appName": "Calendar",
+                        "windows": []
+                    },
+                    {
+                        "appName": "Photos",
+                        "windows": []
+                    },
+                    {
+                        "appName": "Settings",
+                        "windows": []
+                    }
+                ]
+            },
+            "applications": [
+                {
+                    "appName": "Other unidentified applications",
+                    "windows": []
+                }
+            ]
+        },
+        {
+            "capturedAt": "2024-06-05T08:23:24Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, Mail, Calendar, Photos, Settings, and other unidentified applications. Also includes system status icons like network, sound, and battery level.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Re: Consulting hours - george.dita@trilogy.com - DevFactory Mail",
+                                "url": "https://mail.google.com/mail/u/0/#inbox",
+                                "position": "right",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Chrome tabs, address bar, bookmarks bar, and extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email Content",
+                                        "layoutDescription": "Email view layout",
+                                        "visibleText": "George,\n\nI hope this email finds you well.\n\nI wanted to touch base regarding the consulting hours we discussed. As I mentioned, my team is in urgent need and we look forward to your expertise.\n\nCould you please confirm whether Wednesday or Thursday works better for you? We are flexible on the time.\n\nLooking forward to your guidance.\n\nBest,\nKelly Thompson\nkelly.thompson@trilogy.com"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Feed - Dashboard - June 4, 2024",
+                                "url": "https://dashboard.myfeed.com",
+                                "position": "left",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Chrome video player controls, navigation buttons, and other UI elements"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Dashboard Content",
+                                        "layoutDescription": "Video dashboard layout",
+                                        "visibleText": "Summary\n\nChapters: 0\nDuration: 0\n\n[Video player with controls]"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Marketing Email",
+                                "url": "https://mail.google.com/mail/u/0/#inbox",
+                                "position": "center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Chrome tabs, address bar, bookmarks bar, and extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email Content",
+                                        "layoutDescription": "Email view layout",
+                                        "visibleText": "Some accounts remained active with billing modified to be seen as Mailgun fallback accounts.\n\nPlease remember that some mail must be routed from our server to avoid DNS issues."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T08:29:22Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, Mail, Calendar, Photos, Settings, and other unidentified applications. Also includes system status icons like network, sound, and battery level.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Re: Consulting hours - george.dita@trilogy.com - DevFactory Mail",
+                                "url": "https://mail.google.com/mail/u/0/#inbox",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, and multiple extension icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email Thread",
+                                        "layoutDescription": "Email content displayed",
+                                        "visibleText": "George,\n\nI hope this email finds you well.\n\nI wanted to touch base regarding the consulting hours we discussed. Could you please confirm if the proposed schedule works for you?\n\nLooking forward to your feedback.\n\nBest,\nJohn Doe"
+                                    },
+                                    {
+                                        "title": "Email Response",
+                                        "layoutDescription": "Email reply form visible",
+                                        "visibleText": "Hi John,\n\nThank you for reaching out. The schedule works for me. I've attached the signed agreement.\n\nBest regards,\nGeorge Dita"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "My Feed - PowerBI",
+                                "url": "https://app.powerbi.com/groups/me",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "navigation pane, report canvas, and toolbar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "PowerBI Report",
+                                        "layoutDescription": "Interactive report visible",
+                                        "visibleText": "Summary\n\nChapters: 0\nAuthors: 0\nCitations: 0"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Marketing Email",
+                                "url": "https://mail.google.com/mail/u/0/#inbox",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, and multiple extension icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Marketing Email",
+                                        "layoutDescription": "Email content displayed",
+                                        "visibleText": "Subject: Important Product Update\n\nDear Valued Customer,\n\nWe are excited to announce a significant update to our product line. We believe this new range will provide you with enhanced functionality and greater value.\n\nPlease visit our website or contact your sales representative for more information.\n\nBest Regards,\n\nThe Product Team"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in email communication. In the first screenshot, the user is composing an email in Gmail, addressing a person named Kelly. The email discusses consulting hours and scheduling a meeting. The user is also seen interacting with Google Chat, where they are part of a conversation in a thread named 'TPMEngineers'. The chat includes messages about notifying the team and following up on certain tasks.",
+        "In the second screenshot, the user continues to engage with Gmail, reading and responding to emails. The email content includes discussions about consulting hours and confirming schedules. The user is also seen navigating through various tabs in Google Chrome, including a marketing email and a dashboard feed. The user is likely multitasking, managing emails, and keeping track of other work-related information.",
+        "The third screenshot shows the user still in Gmail, composing a response to an email. The email thread involves discussions about consulting hours and scheduling meetings. The user is also seen with multiple Chrome tabs open, indicating they are managing several tasks simultaneously. The tabs include a marketing email, a dashboard feed, and other work-related content."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in email communication and chat interactions without any visible AI assistance.",
+    "activities": [
+        "EMAIL",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "EMAIL",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 19,
+            "mouse": 19,
+            "date": "2024-06-05T08:20:20Z",
+            "windowTitle": " Re: Consulting hours - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQVwngXvqQfWxgxVfpLMqnqdnNt",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 143,
+            "mouse": 1,
+            "date": "2024-06-05T08:21:20Z",
+            "windowTitle": " Re: Consulting hours - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQVwngXvqQfWxgxVfpLMqnqdnNt",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T08:22:20Z",
+            "windowTitle": " Re: Consulting hours - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQVwngXvqQfWxgxVfpLMqnqdnNt",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 122,
+            "mouse": 6,
+            "date": "2024-06-05T08:23:20Z",
+            "windowTitle": " Re: Consulting hours - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQVwngXvqQfWxgxVfpLMqnqdnNt",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 30,
+            "mouse": 4,
+            "date": "2024-06-05T08:24:20Z",
+            "windowTitle": " Re: Consulting hours - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQVwngXvqQfWxgxVfpLMqnqdnNt",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T08:25:20Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T08:26:20Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T08:27:20Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 2,
+            "mouse": 2,
+            "date": "2024-06-05T08:28:20Z",
+            "windowTitle": " Re: Consulting hours - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQVwngXvqQfWxgxVfpLMqnqdnNt",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 1,
+            "date": "2024-06-05T08:29:20Z",
+            "windowTitle": " Re: Consulting hours - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQVwngXvqQfWxgxVfpLMqnqdnNt",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-05T08:20:00Z"
+}

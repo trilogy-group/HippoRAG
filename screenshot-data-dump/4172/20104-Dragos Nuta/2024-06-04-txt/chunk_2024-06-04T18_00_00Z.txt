@@ -1,0 +1,271 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "LockApp",
+        "mail.google.com",
+        "meet.google.com",
+        "explorer"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-04T18:01:40Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "taskbar visible at the bottom of the screen",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Google Chrome",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Google Chrome window previews visible"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Chrome",
+                                        "layoutDescription": "Three window previews",
+                                        "visibleText": "Google Chrome\nPrivate\nmail.google.com\nGoogle Chrome\nPrivate\ncalendar.google.com"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T18:06:28Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and system utilities like volume and network status. Time displayed is 9:06 PM. Language setting is ENG.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Weekly Progress Report - TPM+Eng - Google Docs",
+                                "url": "https://docs.google.com/document/d/1",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "toolbar with options for File, Edit, View, Insert, Format, Tools, Extensions, Help. Text formatting toolbar with options for font style, size, bold, italic, underline, text color, highlight color, alignment, lists, indent, and links. Google account profile picture displayed at top right."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Weekly Progress Report - TPM+Eng",
+                                        "layoutDescription": "Text document layout",
+                                        "visibleText": "Slot #1\nSlot #2\nMaintenance\nJigsaw\nSlot #1\nInfluitive\nStratifyd\n\u2014 Slot #1 - Import\nWeek 21-2024\nIgniteTech\nSlot #1\nSlot #2\nMaintenance\nJigsaw\nSlot #1\nAI - Agents\nSlot #1\nInfluitive\nStratifyd\nSlot #1 - Import\nGFI\nSlot #1\nProgress week 22\nMIP week 22\nPlan week 23\nCustomer engagement/rollout\n166 conversations in the last 30 days from multiple customers.\nCustomers using it\nWe do not have tenant-level info, since it\u2019s an embedded widget. However, based on logs it is clear that multiple customers have been using it.\nRollout plan\nRolled out.\nRollout MIP\nGetting an announcement banner which is visible to all customers, so we can gain traction.\nInsights from customers\nNone.\nStratifyd\nSlot #1 - Import\nDelivery progress - Import Stratifyd\n1-sentence update\nFinal Eng import tasks wrapping up by tomorrow (6/5), then transitioning to low-risk cost-optimization work while retained SMEs work on prioritized backlog\nProgress week 22\nProd2 Mini Spec - Jigsaw-Stratifyd - Import - Stratifyd\nOur - final deployment task to complete today\nCore platform tasks progressing\nETL and testing (Selenium) modules are complete\nInfrastructure - taking time this week to apply learnings from Jeremy\u2019s KT session on dev\nLinks\nStratifyd Second-Brain\nSaaS monitoring report complete - mini-spec for additional monitoring of core product use cases to start this week\nBacklog review is underway\nOmar/Laura completed a first round of prioritization and we will use this - not to have the team (SMEs + one CE resource) work on the backlog (34 ticket total as inputting stopper)\nInitial cost optimization starting tomorrow, with a focus on low-risk cost savings (e.g. $3 Intelligent Tiering) relying on SMEs to ensure safety"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T18:07:08Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time as 9:07 PM and date as 6/24/2024. System tray includes network, sound, and battery status icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Jozsef Czapovics - Chat - Google Chrome",
+                                "url": "mail.google.com/chat/u/0/#/chat/dm",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, and extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat",
+                                        "layoutDescription": "standard chat layout",
+                                        "visibleText": "Chat\nNew chat\nShortcuts\nHome 10\nMentions 3\nStarred\nDirect messages 6\nInfluitive & Stratifyd Knowledge Base Now\nJozsef Czapovics\nFirat Gomi\nGeorge Dita\nJamie Sidey\nBen New\nAndrei Kharytonenka\nJoe Conley\nSpaces 4\ntpm reboot\nFeature Line automations\nAWS News\nCentral PMs team\nGFI BU/CE/TPM Management\nCNU Q Business Product Management\nXO Team Chat\nCNU AI Assist - Extract Documents\nXO Candidate Support Escalation\nCrossover - Upwork Sourcing\nAI Coach - internal\nSpace Request Notifications\nJozsef Czapovics\nthis is not a good direction\nRafal Hryniow 34 min\njust had stupid discussion\nre Influitive\nKathy wants PS to do work (ESRs) as this is cheaper than Eng - as we bundle with TPMs\nand just transition to Eng\nI don't agree with that:\n1. This opens a door for all 3rd party development\n2. I don't want us to own bugs created by other teams - I am happy if they support bugs and outages then\nJozsef Czapovics 1 min\nshe really wants to leave central\nI know\nI think so, too\nlol\nshould we make it a topic for tomorrow?"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in a Google Meet session, as evidenced by the screenshot showing multiple participants in a video call. The meeting appears to be focused on discussing a 'Weekly Progress Report' document, which is open in a Google Docs window. The document includes detailed updates on various projects, such as 'Stratifyd' and 'IgniteTech,' with specific mentions of customer engagement, rollout plans, and progress updates for the week.",
+        "The user is also involved in a chat conversation on Google Chat with a colleague named Jozsef Czapovics. The discussion revolves around a recent decision regarding the Influitive project. The user expresses disagreement with a proposal to transition work to another team, citing concerns about third-party development and bug ownership. The conversation indicates active collaboration and decision-making within the team.",
+        "Additionally, the user is managing emails through Gmail, as indicated by the active 'mail.google.com' application. Although the specific content of the emails is not visible, the presence of the Gmail application suggests that the user is likely handling communication and coordination tasks related to their projects."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a Google Meet session, reviewing a progress report in Google Docs, and chatting with a colleague on Google Chat. No AI chat interfaces or AI-driven email applications like Shortwave are visible in the screenshots. Therefore, it can be concluded that the user did not utilize AI tools during this time frame.",
+    "activities": [
+        "MEETING",
+        "READING_SPEC",
+        "CHATTING_WITH_TEAM",
+        "EMAIL"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T18:00:11Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T18:01:11Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T18:02:11Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 16,
+            "mouse": 14,
+            "date": "2024-06-04T18:03:11Z",
+            "windowTitle": "Jozsef Czapovics - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/3f70MMAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 17,
+            "mouse": 14,
+            "date": "2024-06-04T18:04:11Z",
+            "windowTitle": "Meet - qtv-ugaf-ywq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/qtv-ugaf-ywq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T18:05:11Z",
+            "windowTitle": "Meet - qtv-ugaf-ywq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/qtv-ugaf-ywq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 14,
+            "mouse": 10,
+            "date": "2024-06-04T18:06:11Z",
+            "windowTitle": "Meet - qtv-ugaf-ywq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/qtv-ugaf-ywq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 62,
+            "mouse": 1,
+            "date": "2024-06-04T18:07:11Z",
+            "windowTitle": "",
+            "processName": "explorer",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 7,
+            "mouse": 0,
+            "date": "2024-06-04T18:08:11Z",
+            "windowTitle": "Meet - qtv-ugaf-ywq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/qtv-ugaf-ywq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T18:09:11Z",
+            "windowTitle": "Meet - qtv-ugaf-ywq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/qtv-ugaf-ywq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-04T18:00:00Z"
+}

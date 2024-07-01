@@ -1,0 +1,439 @@
+{
+    "candidateId": 2368956,
+    "apps": [
+        "Google Chat",
+        "docs.google.com",
+        "app.hubspot.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-06T13:52:18Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Reminders, Notes, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a Spotlight search icon and Notification Center icon.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Sheets",
+                        "windows": [
+                            {
+                                "title": "Customer Outreach - Postbuyout",
+                                "position": "left half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "multiple columns and rows with data, scroll bars visible"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Customer Outreach - Postbuyout",
+                                        "layoutDescription": "Spreadsheet layout",
+                                        "visibleText": "Columns include: ID, First Name, Last Name, Email, Phone, Address, City, State, Zip, Country, DOB, Gender, Marital Status, Children, Occupation, Income, Car Make, Car Model, Purchase Date, Last Contact, Notes. Rows filled with corresponding data."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Customer Outreach - Associations",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "multiple columns and rows with data, scroll bars visible"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Customer Outreach - Associations",
+                                        "layoutDescription": "Spreadsheet layout",
+                                        "visibleText": "Columns include: ID, Association, Notes. Rows filled with corresponding data."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Google Chat",
+                        "windows": [
+                            {
+                                "title": "Chat",
+                                "position": "center of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "chat interface with contact list and conversation pane"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat with Flat Goni",
+                                        "layoutDescription": "Chat layout",
+                                        "visibleText": "Flat Goni: I think the presentation slides are in a folder called 'work stuff' from last year\n\nUser: I found them in a folder. What do you think?\n\nFlat Goni: They look great, thanks!\n\nUser: I tweaked them a bit, adding a few slides.\n\nFlat Goni: Perfect! How was the meeting?\n\nUser: It was fine, thanks. Sadly, I think they are just fishing for ideas.\n\nFlat Goni: They always just play around something :(\n\nUser: Yeah"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Associate Challenge Creation Helper",
+                                "position": "bottom of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "browser interface with tabs, address bar, and bookmarks bar visible"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Associate Challenge Creation Helper",
+                                        "layoutDescription": "Web page layout",
+                                        "visibleText": "You can modify it to handle errors like this:\n\nExplanation:\n\n* `templateId: AC_6, AC_7, AC_8`: This is the 'original' template.\n* `templateId: ..., ..., ...`: This is the 'success' template. Formula returns an error if it is not found.\n\nSteps:\n\n1. Enter the 'template ID' in the desired cell.\n\n2. Search for the customer value you want to test to make a match found.\n\nThis approach ensures that your spreadsheet stays in a clean recovery message state should you wish to revert from the 'success' template after any error message that starts with 'O'."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-06T13:55:26Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Time Machine, and Trash. Also includes a Spotlight search icon and Notification Center icon.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Excel",
+                        "windows": [
+                            {
+                                "title": "Customer Outreach - PostBeyond",
+                                "position": "top left",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Data, Window, Help"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Customer Outreach - PostBeyond",
+                                        "layoutDescription": "Spreadsheet layout",
+                                        "visibleText": "Column headers: ID, First Name, Last Name, Email, Phone, Company, Title, Industry, LinkedIn URL, Notes, Last Contacted, Status, Owner, Campaign, Created At, Updated At, Outreach Step, Last Outreach, Next Step Date, Comments"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Customer Outreach - PostBeyond",
+                                "position": "top right",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Data, Window, Help"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Customer Outreach - PostBeyond",
+                                        "layoutDescription": "Spreadsheet layout",
+                                        "visibleText": "Column headers: ID, First Name, Last Name, Email, Phone, Company, Title, Industry, LinkedIn URL, Notes, Last Contacted, Status, Owner, Campaign, Created At, Updated At, Outreach Step, Last Outreach, Next Step Date, Comments"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Slack",
+                        "windows": [
+                            {
+                                "title": "Chat with Felix Goni",
+                                "position": "middle right",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Chat interface with search bar, settings, and chat options"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Flat Goni",
+                                        "layoutDescription": "Chat layout",
+                                        "visibleText": "Felix last seen today\nI'm free for the next 30 mins, then I have a meeting\nIf that's ok then let's go. You want to meet on ZOOM? I'll ping you there :)\n\nFelix\nHow's the new logo?\n\nFelix\nWhat are you planning for today?\n\nFelix\nI'm already late and you're discussing meetings :)\n\nFelix\nMaybe next time :)\n\nFelix\nI replied late to his questions and now he's mad"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-06T13:59:40Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Contacts, Calendar, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash",
+                        "position": "bottom"
+                    },
+                    {
+                        "elementType": "dock",
+                        "details": "application bar with visible icons for Google Chrome, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, and other unidentified applications",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Invitation Emails for PostBeyond - Google Docs",
+                                "url": "https://docs.google.com/document/d/1",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "editing toolbar with options for font style, size, bold, italic, underline, text color, background color, link, comment, and more"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Invitation Emails for PostBeyond",
+                                        "layoutDescription": "Text document layout",
+                                        "visibleText": "Version 2 - Full professional, selling it\n\nMain Idea\nHelp team members 'Plant the Seeds' of thought/impact\n\nIntroduction\nHello [Name],\n\nI'm [Your Name], Head of [Department]. I'm thrilled to offer you a unique opportunity to engage with our latest project through PostBeyond. This platform allows you to share our brand's story in a way that's authentic to you.\n\nHere's what's in it for you:\n- Exclusive access to our brand's content and behind-the-scenes promotions.\n- A platform to share your expert analysis and viewpoints of our products.\n\nRemember: Plant the seeds of thought/impact!\n\nBest Regards,\n[Your Name]\n\nPostBeyond Manager [Title/Location]"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Finder",
+                        "windows": [
+                            {
+                                "title": "Finder",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "navigation and management interface"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Finder",
+                                        "layoutDescription": "browser layout",
+                                        "visibleText": "Advocate Challenge Creation Folder\n\nFolders:\n- 11 Steps (Empty)\n- Email Templates\n- Event Scripts\n- FAQ\n- Graphics\n- Legal\n- Other\n\nFiles:\n- PostBeyond_Logo.png\n- PostBeyond_Logo_White.png\n- PostBeyond_Logo_Black.png\n- PostBeyond_Logo_Square.png\n- PostBeyond_Logo_Square_White.png\n- PostBeyond_Logo_Square_Black.png\n- PostBeyond_Logo_Square_Outline.png\n- PostBeyond_Logo_Square_Outline_White.png\n- PostBeyond_Logo_Square_Outline_Black.png\n- PostBeyond_Logo_Square_Outline_Gray.png"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Email",
+                        "windows": [
+                            {
+                                "title": "New Email",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "composition interface"
+                                },
+                                "content": [
+                                    {
+                                        "title": "New Email",
+                                        "layoutDescription": "Email composition layout",
+                                        "visibleText": "Hello [ ],\n\nPostBeyond has recently announced that starting on your next work day, we will be implementing a new mandatory process to update our health and safety standards. Every department should have received the same set of instructions. Use the space to ask any questions you may need to ask.\n\nLocation:\n\nName: [Your Name]\n\nTitle: [Your Title]\n\nYour Email:\n\nOther contact information:\n\nTagline: Empowering the team from A to Z\n\nYour Location:\n\nYour Name"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Invitation Emails for PostBeyond - Google Docs",
+                                "url": "https://docs.google.com/document/d/1",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "editing toolbar with options for font style, size, bold, italic, underline, text color, background color, link, comment, and more"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Invitation Emails for PostBeyond",
+                                        "layoutDescription": "Text document layout",
+                                        "visibleText": "Version 2 - Full professional, selling it\n\nMain Idea\nHelp team members 'Plant the Seeds' of thought/impact\n\nIntroduction\nHello [Name],\n\nI'm [Your Name], Head of [Department]. I'm thrilled to offer you a unique opportunity to engage with our latest project through PostBeyond. This platform allows you to share our brand's story in a way that's authentic to you.\n\nHere's what's in it for you:\n- Exclusive access to our brand's content and behind-the-scenes promotions.\n- A platform to share your expert analysis and viewpoints of our products.\n\nRemember: Plant the seeds of thought/impact!\n\nBest Regards,\n[Your Name]\n\nPostBeyond Manager [Title/Location]"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Word",
+                        "windows": []
+                    },
+                    {
+                        "appName": "Microsoft Excel",
+                        "windows": []
+                    },
+                    {
+                        "appName": "Microsoft PowerPoint",
+                        "windows": []
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in managing customer outreach data using Google Sheets. They have multiple spreadsheets open, including 'Customer Outreach - Postbuyout' and 'Customer Outreach - Associations', which contain detailed columns and rows of customer information. The user is likely updating or reviewing this data as part of their workflow.",
+        "The user is also engaged in a conversation on Google Chat with a contact named Flat Goni. The chat involves discussing presentation slides, tweaking them, and the outcome of a meeting. This indicates collaboration and communication with team members to finalize presentation materials.",
+        "Additionally, the user is working on creating or editing email templates in Google Docs. The document titled 'Invitation Emails for PostBeyond' includes a professional email template aimed at engaging team members with the PostBeyond project. This activity suggests the user is involved in crafting communication materials for outreach purposes.",
+        "The user is utilizing HubSpot to manage email performance, as indicated by the link to the HubSpot email performance page. This suggests the user is tracking the effectiveness of their email campaigns, likely to optimize future outreach efforts.",
+        "The user is also seen using a web-based tool named 'Associate Challenge Creation Helper' in Google Chrome. This tool appears to assist in creating and managing challenges or tasks, possibly related to customer outreach or internal team activities."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in managing spreadsheets, communicating with team members, and creating email templates without any visible AI assistance.",
+    "activities": [
+        "READING_SPEC",
+        "WRITING_SPEC",
+        "EMAIL",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_SPEC",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T13:50:09Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 89,
+            "mouse": 5,
+            "date": "2024-06-06T13:51:09Z",
+            "windowTitle": " Customer Outreach - PostBeyond - Google Sheets - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/spreadsheets/d/1UI55HtXadjsHGHBBz4sUSna1r2Yh16H4oqcozR4eeIE/edit#gid=403761945",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 79,
+            "mouse": 8,
+            "date": "2024-06-06T13:52:09Z",
+            "windowTitle": " Customer Outreach - PostBeyond - Google Sheets - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/spreadsheets/d/1UI55HtXadjsHGHBBz4sUSna1r2Yh16H4oqcozR4eeIE/edit#gid=403761945",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 207,
+            "mouse": 7,
+            "date": "2024-06-06T13:53:09Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 237,
+            "mouse": 3,
+            "date": "2024-06-06T13:54:09Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 184,
+            "mouse": 4,
+            "date": "2024-06-06T13:55:09Z",
+            "windowTitle": " Customer Outreach - PostBeyond - Google Sheets - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/spreadsheets/d/1UI55HtXadjsHGHBBz4sUSna1r2Yh16H4oqcozR4eeIE/edit#gid=403761945",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 36,
+            "mouse": 45,
+            "date": "2024-06-06T13:56:09Z",
+            "windowTitle": " Customer Outreach - PostBeyond - Google Sheets - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/spreadsheets/d/1UI55HtXadjsHGHBBz4sUSna1r2Yh16H4oqcozR4eeIE/edit#gid=1108807119",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 37,
+            "date": "2024-06-06T13:57:09Z",
+            "windowTitle": " Marketing Email | HubSpot - Google Chrome\n",
+            "processName": "app.hubspot.com",
+            "visitingUrl": "https://app.hubspot.com/email/40828524/details/169540659859/performance",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 20,
+            "date": "2024-06-06T13:58:09Z",
+            "windowTitle": " Marketing Email | HubSpot - Google Chrome\n",
+            "processName": "app.hubspot.com",
+            "visitingUrl": "https://app.hubspot.com/email/40828524/details/169540659859/performance",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 17,
+            "date": "2024-06-06T13:59:09Z",
+            "windowTitle": " Marketing Email | HubSpot - Google Chrome\n",
+            "processName": "app.hubspot.com",
+            "visitingUrl": "https://app.hubspot.com/email/40828524/details/169540659859/performance",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-06T13:50:00Z"
+}

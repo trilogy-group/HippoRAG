@@ -1,0 +1,310 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "mail.google.com",
+        "meet.google.com",
+        "explorer",
+        "drive.google.com",
+        "docs.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-04T13:21:29Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Outlook, File Explorer, Microsoft Teams, and other unidentified applications. Also includes system clock showing '4:21 PM' and date '6/4/2024', system tray with network, sound, and notifications icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - ssv-vhkw-gzq - Google Chrome",
+                                "url": "meet.google.com/ssv-vhkw-gzq?authu",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, Google account avatar, navigation buttons, and extension icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Meet Video Conference",
+                                        "layoutDescription": "Grid layout of participant videos",
+                                        "visibleText": "Participants: Noumaan Shah, Rishap Ahuja, David Harpur, Jozsef Czapovics, Raghuil Suthagar, Neeraj Gupta, +1 630-***-**20, 2 others"
+                                    },
+                                    {
+                                        "title": "Chat Message",
+                                        "layoutDescription": "Single chat message visible",
+                                        "visibleText": "Bogdan Tenea: Poti sa muti stack-ai test stuff in Dragos' Playground ca sa nu poluam main folder?"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Tivian <> Performance Plan - Google Chrome",
+                                "url": "docs.google.com/spreadsheets/d/1gj",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "interface with menu bar, toolbar, formula bar, and sheet tabs"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Tivian <> Performance Plan Spreadsheet",
+                                        "layoutDescription": "Spreadsheet layout with multiple rows and columns",
+                                        "visibleText": "Table of Contents, FACTS, Performance and Joe Charts, P&L - Budget View, P&L - Product View, P&L - Bid Model, P&L - Post Close, Headcount, HC Ongoing, HC Legacy, HR Data, Non-Headcount, Central Unit Orders, Non HC, Units Budget, Import & MR Budget, Import Budget, MR Budget, Data Inputs, Metadata, Decision Frameworks, ARR Validation Report Summary, ARR Details, MR Budget on HC - Data, Links, Supplementary Analysis, Purchase Price Adjustments"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T13:25:11Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. Also includes system tray with network, sound, and battery status icons, and a clock displaying '4:25 PM' and date '6/02/24'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Trivian CloudFix Savings - Google Sheets",
+                                "url": "https://docs.google.com/spreadsheets",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help. Toolbar with undo, redo, print, formatting options, zoom controls, and cell editing features."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Trivian CloudFix Savings",
+                                        "layoutDescription": "Spreadsheet layout",
+                                        "visibleText": "Data Captured Until 5/30/2024\nSavings by finder\ndescription SUM of\nRdsRepTypeSingleAZ $251,916\nEksOptimizeEOLVersion $50,124\nEfsIntelligentTiering $35,246\nStandardToSIT $23,589\nRdsResizeStorage $21,407\nGp2Gp3 $8,256\nVpcIdNatGateway $3,609\nRdsOptimizeInstances $1,594\nEc2CleanupIdleClusters $1,340\nRdsInstanceUpgrade $1,306\nDMSCleanupInstances $1,328\nUnusedEBDSVolumes $896\nLongStoppedEsVolume $852\nUnusedElasticIps $724\nEc2IntelToAmd $190\nArchiveOldEbsVolumeSnapshots $9\nEc2LowRiskRightsize $2\nGrand Total $402,297\nSavings by account\nAccount Name\nProduction-us\nCXI-Production\nbfa-us\ntivi (TIVIAN Inc.)\ndataexchange-us\ntivian-xi-gmbh (TIVIAN XI GmbH)"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Meet - ssv-vhkw-gzq - Google Chrome",
+                                "url": "https://meet.google.com/ssv-vhkw-gzq",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Video conference controls including microphone, camera, hand raise, chat, and more."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Meet - ssv-vhkw-gzq",
+                                        "layoutDescription": "Video call layout",
+                                        "visibleText": "Participants:\nNoumaan Shah\nRishap Ahuja\nRaghul Suthagaar\nDavid Harpur\nJ\u00f3zsef Czapovics\nNeeraj Gupta\nDragos Nut\u0103\n+1 630-***-**20\n3 others"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T13:27:59Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Chrome, File Explorer, and other unidentified applications. System tray includes network, sound, and clock (4:27 PM, 06/02/24).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Tivian - Pricing Insights (stickiness) - Google Docs",
+                                "url": "https://docs.google.com/document/d/1",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help. Toolbar with undo, redo, print, spelling and grammar check, formatting options, zoom controls, and more."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Detail: Switching Cost",
+                                        "layoutDescription": "Text document layout",
+                                        "visibleText": "Detail: Switching Cost\nThis section seeks to answer the question: what is the effort and risk associated with switching to the primary competitor?\n\nThere are two primary variables that make up switching cost:\n1) The direct cost of the effort to make the switch. For example, if a customer is switching CRM platforms will need to: migrate contact, account and activity data, rebuild important workflows and automations, train the sales team, etc.\n2) The indirect cost associated with the risk that the switch represents. For example, if the transition date to a new CRM is missed, there is a potential result that Sales reps cannot do their core job. That would have a monetary impact on revenue.\n\nConsidering direct cost is straightforward. In order to consider indirect cost, try to capture the specific risks if a switch does not go smoothly.\n\nCalculations based on customers matching the ICP (any company with 10k employees).\n- Market research cohort: $120k (avg ARR $400k)\n- Communicate XI cohort: $200k (avg ARR $700k)\n- Employee Experience cohort: $200k (avg ARR $995k)\n- Customer Experience cohort: $55k (avg ARR $455k)\n\nMarket Research\nItem\tOne sentence Description\t$ Figure\tRationale for $ Figure (the math)\nRebuild surveys\tLong complex surveys with lots of branching, piping would need to be rebuilt without losing data integrity.\t$50k\t4 weeks for 5-10 people\nEmployee training\tA market research agency will presumably have many users that live in the tool every day.\t$60k\t250 people (2.5% of company) require 4 hours of training on average\nRisk of downtime\t$8k per hour\t- $0k - 1000k responses per day = $4000 per hour\n- $.50 - $2 per response = $8,000 per hour in lost revenue\n\nCommunicate XI\nItem\tOne sentence Description\t$ Figure\tRationale for $ Figure (the math)\nExport / import content\tExport content. Import to new platform and recreate campaigns and templates as needed.\t$15k\t2-4 weeks for 1-2 people"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Google Meet video conference, as evidenced by the screenshots showing the Google Meet interface with multiple participants. The meeting appears to be focused on acquisition and import review, as indicated by the visible text in the meeting interface. The user is actively participating in the meeting, with the Google Meet window occupying a significant portion of the screen.",
+        "The user is also working on a Google Sheets document titled 'Tivian <> Performance Plan'. The document contains various sections such as FACTS, Performance and Joe Charts, P&L - Budget View, and more. The user is likely reviewing or discussing the contents of this document during the meeting, as it is open alongside the Google Meet window.",
+        "In another screenshot, the user is working on a different Google Sheets document titled 'Trivian CloudFix Savings'. This document details various savings by finder and account, with a grand total of $402,297. The user is likely analyzing or discussing these savings during the meeting, as the document is open alongside the Google Meet window.",
+        "The user is also engaged with a Google Docs document titled 'Tivian - Pricing Insights (stickiness)'. This document discusses the effort and risk associated with switching to a primary competitor, including direct and indirect costs. The user is likely reviewing or editing this document, as it is open and active in one of the screenshots.",
+        "Throughout the captured period, the user is primarily focused on reviewing and discussing various documents related to performance plans, savings, and pricing insights. The user's activities are centered around collaboration and analysis, as evidenced by the open Google Meet session and the various Google Docs and Sheets documents being reviewed."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in reviewing and discussing documents in Google Docs and Sheets, and participating in a Google Meet video conference. No AI chat interfaces or AI-generated content are visible in the screenshots.",
+    "activities": [
+        "READING_SPEC",
+        "MEETING"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 95,
+            "mouse": 4,
+            "date": "2024-06-04T13:20:09Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/pzZb60AAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 41,
+            "mouse": 0,
+            "date": "2024-06-04T13:21:09Z",
+            "windowTitle": "Meet - ssv-vhkw-gzq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/ssv-vhkw-gzq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 3,
+            "date": "2024-06-04T13:22:09Z",
+            "windowTitle": "Meet - ssv-vhkw-gzq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/ssv-vhkw-gzq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 13,
+            "mouse": 0,
+            "date": "2024-06-04T13:23:09Z",
+            "windowTitle": "Task Switching",
+            "processName": "explorer",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 8,
+            "mouse": 8,
+            "date": "2024-06-04T13:24:09Z",
+            "windowTitle": "My Drive - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/drive/my-drive",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 15,
+            "mouse": 8,
+            "date": "2024-06-04T13:25:09Z",
+            "windowTitle": "Meet - ssv-vhkw-gzq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/ssv-vhkw-gzq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 15,
+            "date": "2024-06-04T13:26:09Z",
+            "windowTitle": "Prod2 Due Diligence - A&I:A&I - Tivian - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1SCdBrRhu0lKkDTpMAPLLs1e13yeKJ28kq19Gi3PPPZs/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 3,
+            "date": "2024-06-04T13:27:09Z",
+            "windowTitle": "Meet - ssv-vhkw-gzq - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/ssv-vhkw-gzq?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 20,
+            "mouse": 13,
+            "date": "2024-06-04T13:28:09Z",
+            "windowTitle": "Tivian - Pricing Insights (stickiness) - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1odAwT764bKU3bb1Fy3cLTKgdilvNjhA3CgZk7nJlgwc/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 8,
+            "date": "2024-06-04T13:29:09Z",
+            "windowTitle": "Tivian - AI Vision & Generative AI Features - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1kIZ3JtOndRoxkiFiHa6PTEmjXZHhJylkYriLq59Ox84/edit#heading=h.jmsof4z2h0zx",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-04T13:20:00Z"
+}

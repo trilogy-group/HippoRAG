@@ -1,0 +1,365 @@
+{
+    "candidateId": 2368956,
+    "apps": [
+        "app.mixmax.com",
+        "app.hubspot.com",
+        "calendly.com",
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T14:32:19Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, Microsoft Edge, File Explorer, Microsoft Store, Mail, Calendar, Photos, Settings, and other unidentified applications. Also includes system tray with network, sound, and battery status icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Invitation Emails for PostBeyond - Google Docs",
+                                "url": "https://docs.google.com/document/d/1",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Docs interface with menu bar, toolbar, and document area"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Invitation Emails for PostBeyond",
+                                        "layoutDescription": "Text document layout",
+                                        "visibleText": "Version 3 - very brief, very direct\n\nHello [Name],\n\nI'm Diego from the Product Management of PostBeyond and I'm excited to offer you a unique opportunity to directly influence our upcoming product launches. This is an exclusive invite, and we'd love for you to help us understand customer needs and shape our new services. Here's how:\n\n- Exclusive Access: Gain direct access to product features before they go public.\n- Feedback Opportunities: Share your experiences and influence our product roadmap.\n- PostBeyond Experiences: Connect with our team at exclusive events and product meetings.\n\nAdditionally, we would deeply appreciate it if you could forward this message to other influential individuals in your network who might be interested.\n\nLooking forward to your invaluable insights and having you on board!\n\nBest regards,\nDiego [Lastname]\nProduct Manager\nEmail: diego@postbeyond.com"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "New Email",
+                                "url": "https://mail.google.com/mail/u/0/#i",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Gmail interface with menu bar, toolbar, and email composition area"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Compose Email",
+                                        "layoutDescription": "Email composition layout",
+                                        "visibleText": "To: [Recipient Email]\nSubject: Invitation to Influence PostBeyond's Upcoming Products\n\nI'm Diego from the Product Management of PostBeyond and I'm excited to offer you a unique opportunity to directly influence our upcoming product launches. This is an exclusive invite, and we'd love for you to help us understand customer needs and shape our new services. Here's how:\n\n- Exclusive Access: Gain direct access to product features before they go public.\n- Feedback Opportunities: Share your experiences and influence our product roadmap.\n- PostBeyond Experiences: Connect with our team at exclusive events and product meetings.\n\nAdditionally, we would deeply appreciate it if you could forward this message to other influential individuals in your network who might be interested.\n\nLooking forward to your invaluable insights and having you on board!\n\nBest regards,\nDiego [Lastname]\nProduct Manager\nEmail: diego@postbeyond.com"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Teams",
+                        "windows": [
+                            {
+                                "title": "PostBeyond Outreach - Feature Planning",
+                                "position": "bottom left of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Teams interface with sidebar, chat area, and message input box"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Teams Chat",
+                                        "layoutDescription": "Chat layout",
+                                        "visibleText": "1. [Timestamped message]\nSender: [Sender Name]\nMessage: Started preparing!\n\n2. [Timestamped message]\nSender: [Sender Name]\nMessage: Perfect, everything's set!"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Edge",
+                        "windows": []
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T14:36:19Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, Edge, File Explorer, Mail, Calendar, Store, Photos, Settings, and other unidentified applications. Also includes system tray with clock, Wi-Fi, sound, and notifications icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Edit Email | New email - Google Chrome",
+                                "url": "https://mail.google.com/mail/u/0/#",
+                                "position": "left, large window, partially overlapping with other windows",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, and vertical scroll bar."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Edit Email",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "Version 3 - very brief, very direct\n\nHello Max,\n\nI'm Greg, the Product Manager of Polygraph and I'm thrilled to offer you an update opportunity to directly influence our upcoming product launch. This is your chance to be involved in the early bird phase to explore exclusive features that would propel your research initiatives. Below are the key points:\n\n- Exclusive Access: Gain access to unreleased features and beta programs.\n- Feedback Opportunities: Provide input on product development and user experience, including testing.\n- Product Release Special Commemorative Edition: Receive a limited edition product, making your involvement truly memorable.\n\nAdditionally, we would like to offer you a special gift of 20% off on the immediate flagship product as a further token of our appreciation for your invaluable feedback.\n\nLooking forward to your thoughts!\n\nBest Regards,\nGreg\nProduct Manager, Polygraph\nEmail: greg@polygraph.com"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Outlook",
+                        "windows": [
+                            {
+                                "title": "Calendar - Outlook",
+                                "url": "https://outlook.live.com/calendar",
+                                "position": "large window, partially overlapping with other windows",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "tabs, address bar, and horizontal menu bar."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Calendar",
+                                        "layoutDescription": "Calendar layout",
+                                        "visibleText": "June 2004\n\nSun Mon Tue Wed Thu Fri Sat\n\n30 31 1 2 3 4 5 6 7 8 9\n\n... (continues with calendar dates and events)\n\nEvents:\n\n- 9:00 AM, Team Sync\n- 10:30 AM, Project Update\n- 1:00 PM, Lunch with Sarah\n- 3:00 PM, Client Call\n- 5:00 PM, End of Day Review\n\n... (continues with other events and details)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T14:38:29Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a system clock showing '2:38 PM' and a Spotlight search icon.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Edit Email | New email - Google Chrome",
+                                "position": "top right",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Browser tabs, address bar, bookmarks bar, navigation buttons, profile icon, vertical scrollbar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Edit Email",
+                                        "layoutDescription": "Text editing area on right",
+                                        "visibleText": "Hi Emma Chase,\n\nI'm George Diaz, the Product Manager of BlueWidget. I'm excited to offer you a unique opportunity to directly influence our upcoming product features. Your insights are invaluable to us, and we believe they can help us deliver the top-tier products our customers expect and deserve.\n\nHere's how we envision your participation:\n\n* Feedback Sessions: Give your input on product features and prototypes.\n* Product Release Events: Get a sneak peek at upcoming releases before general release.\n\nAdditionally, we would enjoy any demonstrations and discussions on Face-to-face meetings or phone as a different method of communication.\n\nI am looking forward to your positive feedback and hoping to connect soon!\n\nBest regards,\nGeorge Diaz\nProduct Manager, BlueWidget\n123 Business Rd., TechCity, SAN 12345, USA\n\n[Reply] [Forward]"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Preview: New email - Google Chrome",
+                                "position": "top left",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Browser tabs, address bar, bookmarks bar, navigation buttons, profile icon, vertical scrollbar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Preview: New email",
+                                        "layoutDescription": "Email preview on left",
+                                        "visibleText": "Marketing Partner Needed for BlueWidget\n\nHi Emma Chase,\n\nI'm George Diaz, the Product Manager of BlueWidget. I'm excited to offer you a unique opportunity to directly influence our upcoming product features. Your insights are invaluable to us, and we believe they can help us deliver the top-tier products our customers expect and deserve.\n\nHere's how we envision your participation:\n\n* Feedback Sessions: Give your input on product features and prototypes.\n* Product Release Events: Get a sneak peek at upcoming releases before general release.\n\nAdditionally, we would enjoy any demonstrations and discussions on Face-to-face meetings or phone as a different method of communication.\n\nI am looking forward to your positive feedback and hoping to connect soon!\n\nBest regards,\nGeorge Diaz\nProduct Manager, BlueWidget\n123 Business Rd., TechCity, SAN 12345, USA"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Calendar",
+                        "windows": [
+                            {
+                                "title": "Calendar - June 2004",
+                                "position": "bottom",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Month view with navigation buttons, settings icon, and search bar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Calendar - June 2004",
+                                        "layoutDescription": "Calendar grid view",
+                                        "visibleText": "June 2004\n\nWeek starting on Monday\n\n1 2 3 4 5 6 7\n8 9 10 11 12 13 14\n15 16 17 18 19 20 21\n22 23 24 25 26 27 28\n29 30\n\nEvents:\n- June 3: Meeting with Team\n- June 4: Client Call\n- June 5: Office Day\n- June 6: Remote Work\n- June 7: Team Outing\n- June 8: Project Review\n- June 9: Free Day"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in composing and editing emails related to product invitations and outreach. In the first screenshot, the user is working on a Google Docs document titled 'Invitation Emails for PostBeyond,' where they are drafting an email template. The content includes a brief introduction, exclusive access details, feedback opportunities, and a request to forward the message to other influential individuals. This indicates the user is preparing a formal communication to invite stakeholders to influence upcoming product launches.",
+        "In the second screenshot, the user is seen editing an email in the Mixmax application. The email content is similar to the one in the Google Docs document, suggesting the user is transferring or refining the draft from Google Docs to Mixmax for sending. The user is also seen inserting a link into the email, which shows attention to detail and ensuring the email is comprehensive and contains all necessary information.",
+        "The third screenshot shows the user previewing the email in Gmail. This step is crucial as it allows the user to review the email's appearance and content before sending it out. The user is ensuring that the email is correctly formatted and free of errors. Additionally, the user has their Google Calendar open, indicating they might be scheduling or planning related activities, such as meetings or follow-ups with the email recipients."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is manually composing, editing, and previewing emails without any visible assistance from AI tools. The focus is on ensuring the content is accurate and well-formatted before sending it out.",
+    "activities": [
+        "WRITING_SPEC",
+        "EMAIL"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_SPEC",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 56,
+            "mouse": 15,
+            "date": "2024-06-05T14:30:34Z",
+            "windowTitle": " Sequences \u00ef\u00bf\u00bd george.dita@trilogy.com - Google Chrome\n",
+            "processName": "app.mixmax.com",
+            "visitingUrl": "https://app.mixmax.com/dashboard/sequences",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 24,
+            "mouse": 12,
+            "date": "2024-06-05T14:31:34Z",
+            "windowTitle": " Edit Email | New email - Google Chrome\n",
+            "processName": "app.hubspot.com",
+            "visitingUrl": "https://app.hubspot.com/email/40828524/edit/169555346253/content",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 46,
+            "mouse": 18,
+            "date": "2024-06-05T14:32:34Z",
+            "windowTitle": " Edit Email | New email - Google Chrome\n",
+            "processName": "app.hubspot.com",
+            "visitingUrl": "https://app.hubspot.com/email/40828524/edit/169555346253/content",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 14,
+            "mouse": 6,
+            "date": "2024-06-05T14:33:34Z",
+            "windowTitle": " Editing Call with George Dita - Product Manager Trilogy - Calendly - Google Chrome\n",
+            "processName": "calendly.com",
+            "visitingUrl": "https://calendly.com/event_types/170501121/edit?return_to=%2Fevent_types%2Fuser%2Fme",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 14,
+            "mouse": 8,
+            "date": "2024-06-05T14:34:34Z",
+            "windowTitle": " Editing Call with George Dita - Product Manager Trilogy - Calendly - Google Chrome\n",
+            "processName": "calendly.com",
+            "visitingUrl": "https://calendly.com/event_types/170501121/edit?return_to=%2Fevent_types%2Fuser%2Fme",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T14:35:34Z",
+            "windowTitle": " Editing Call with George Dita - Product Manager Trilogy - Calendly - Google Chrome\n",
+            "processName": "calendly.com",
+            "visitingUrl": "https://calendly.com/event_types/170501121/edit?return_to=%2Fevent_types%2Fuser%2Fme",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 39,
+            "mouse": 11,
+            "date": "2024-06-05T14:36:34Z",
+            "windowTitle": " Edit Email | New email - Google Chrome\n",
+            "processName": "app.hubspot.com",
+            "visitingUrl": "https://app.hubspot.com/email/40828524/edit/169555346253/content",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 11,
+            "mouse": 23,
+            "date": "2024-06-05T14:37:34Z",
+            "windowTitle": " Preview - - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQVwwvDMczmWXnqPhvgFdrXbDNz",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 4,
+            "mouse": 13,
+            "date": "2024-06-05T14:38:34Z",
+            "windowTitle": " Edit Email | New email - Google Chrome\n",
+            "processName": "app.hubspot.com",
+            "visitingUrl": "https://app.hubspot.com/email/40828524/edit/169555346253/content",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 24,
+            "mouse": 15,
+            "date": "2024-06-05T14:39:34Z",
+            "windowTitle": " Preview - - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQVwwvDMczmWXnqPhvgFdrXbDNz",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-05T14:30:00Z"
+}

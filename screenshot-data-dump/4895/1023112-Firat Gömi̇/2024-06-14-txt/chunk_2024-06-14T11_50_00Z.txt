@@ -1,0 +1,170 @@
+{
+    "candidateId": 2027577,
+    "apps": [
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T11:52:52Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Outlook, and other unidentified applications. Also includes the system clock showing '11:52 AM' and system tray icons like network status and sound volume.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Prod2 Feature Strategy - IgniteTech:Jive HOP - Jive HOP Copilot - Google Docs - Part of group JiveHOP - Google Chrome - Firat (trilogy.com)",
+                                "url": "https://docs.google.com/document",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help; Google account profile picture at top right; document sharing status 'Editing'"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Prod2 Feature Strategy",
+                                        "layoutDescription": "Two-column layout",
+                                        "visibleText": "**Jive HOP Feature Strategy**\n\n**IgniteTech Jive HOP**\n**Jive HOP Copilot Stage 1**\n\n**Summary**\n\n**JIRA:** HOP-123\n**Status:** In-Progress\n**Objective:** Develop a new feature set to improve usability for the Cloud. This must be ready for the next major release.\n\n**Feature Request**\n\n**Business Problem:**\n- Users are hindered by manual data creation and entry.\n- Data is stored in multiple locations causing issues with access, management, and security.\n\n**Background:**\n- Users are hindered by manual data creation and entry.\n- Data is stored in multiple locations causing issues with access, management, and security.\n\n**Definition of Success**\n\n**Measures:**\n- Increase in user adoption rates.\n- Reduction in time spent on data management.\n- Enhanced security measures.\n\n**Next Steps**\n- Stage 1: Unstructured data...\n- Stage 2: Integration...\n- Stage 3: Application...\n\n**Follow-up Recommendations**\n- Review by Business Analysts.\n- Feedback from stakeholders.\n- Enhancements based on user feedback.\n\n**Next Steps**\n- Further development and testing.\n- Integration with existing systems.\n- Launch and monitor user adoption."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T11:55:15Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Siri, Google Chrome, Microsoft Outlook, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Adobe Acrobat, System Preferences, Terminal, and others",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Pro2J Mini Spec - IgniteTech.UK - Google Docs - Refine Capital - MS4 - HelpFix U.K.",
+                                "url": "https://docs.google.com/document/d/1j0y2j0y2j0y2j0y2j0y2j0y2j0y2j0y2j0y2j0y2j0y2j0y2j",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Google Docs editing tools"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Pro2J Mini Spec",
+                                        "layoutDescription": "text document",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in reading and editing product specifications. The first screenshot shows a Google Docs document titled 'Prod2 Feature Strategy - IgniteTech:Jive HOP - Jive HOP Copilot'. The document includes sections such as Summary, Feature Request, Business Problem, Background, Definition of Success, and Next Steps. The user is also interacting with comments on the document, indicating collaboration with team members.",
+        "In the second screenshot, the user is viewing another Google Docs document titled 'Pro2J Mini Spec - IgniteTech.UK'. This document appears to be a detailed specification with sections like Approach & Insights, Requirements, and Important Scope Exclusions. The user is again interacting with comments, suggesting active collaboration and review of the document.",
+        "The user is also seen using Google Chat within Gmail, as indicated by the URLs visited. The chat interface shows conversations with team members, discussing various topics related to their work. This indicates that the user is engaged in team communication and collaboration through chat.",
+        "Additionally, the user is managing a call list in an application, possibly related to outreach or customer support. The call list includes details such as user, prospect, state, duration, purpose, and disposition of calls. This suggests that the user is involved in tasks related to customer interaction or sales."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in reading and editing documents, managing calls, and chatting with team members. There are no visible AI chat interfaces or AI-generated content in the screenshots.",
+    "activities": [
+        "READING_SPEC",
+        "WRITING_SPEC",
+        "CHATTING_WITH_TEAM",
+        "EMAIL"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "READING_SPEC",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 41,
+            "mouse": 4,
+            "date": "2024-06-14T11:50:13Z",
+            "windowTitle": " DevFactory Mail - Pinned - High memory usage - 2.7 GB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#chat/space/AAAAaeKfuEw",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 65,
+            "mouse": 0,
+            "date": "2024-06-14T11:51:14Z",
+            "windowTitle": " DevFactory Mail - Pinned - High memory usage - 2.6 GB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#chat/space/AAAAaeKfuEw",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 190,
+            "mouse": 4,
+            "date": "2024-06-14T11:52:14Z",
+            "windowTitle": " DevFactory Mail - Pinned - High memory usage - 2.6 GB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#chat/dm/vIwttMAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 19,
+            "mouse": 17,
+            "date": "2024-06-14T11:53:14Z",
+            "windowTitle": " DevFactory Mail - Pinned - High memory usage - 2.5 GB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#chat/dm/vIwttMAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 223,
+            "mouse": 2,
+            "date": "2024-06-14T11:54:14Z",
+            "windowTitle": " DevFactory Mail - Pinned - High memory usage - 2.5 GB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#chat/dm/vIwttMAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T11:50:00Z"
+}

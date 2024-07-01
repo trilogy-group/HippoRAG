@@ -1,0 +1,350 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "docs.google.com",
+    "meet.google.com",
+    "mail.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-04T19:01:48Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, File Explorer, Microsoft Edge, and other unidentified applications. Displays the time as '10:01 PM' and date as '6/4/2024'. System tray includes network, sound, and battery status icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - uii-fdeo-wsx - Google Chrome",
+                "url": "meet.google.com/uii-fdeo-wsx",
+                "position": "full screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Browser tabs, address bar, navigation buttons, Google account profile picture, Meet controls including microphone, camera, captions, present now, and more options. Notification bell icon in the top right corner."
+                },
+                "content": [
+                  {
+                    "title": "Video Conference",
+                    "layoutDescription": "Grid layout with participant videos",
+                    "visibleText": "Participants visible: Patrick York, Paddy, Joveo Notetaker, Saket Chourasiya, Dragos Nuta. Patrick York is in an office setting with a 'joveo' logo in the background. Paddy appears in a similar setting. Saket Chourasiya is in a room with a plain background. Dragos Nuta is in a home setting, visibly stressed with hands on head."
+                  }
+                ]
+              },
+              {
+                "title": "Chat - George Dita - Google Chrome",
+                "url": "mail.google.com/chat/u/0/#chat/dm/",
+                "position": "right side of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Chat interface with search bar, chat list, and message area."
+                },
+                "content": [
+                  {
+                    "title": "Chat Conversation",
+                    "layoutDescription": "List and message view",
+                    "visibleText": "Chat with George Dita includes messages: 'yeah, she is the one!' and 'Don't know if you saw this, but here is the link: https://docs.google.com/spreadsheets/d/1KJZs2CpXl"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Edge",
+            "windows": []
+          }
+        ]
+      },
+      "applications": [
+        {
+          "appName": "File Explorer",
+          "windows": []
+        }
+      ]
+    },
+    {
+      "capturedAt": "2024-06-04T19:06:23Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Settings, and hidden icons. System tray includes network, sound, battery, and clock (19:06, 6/4/2024).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Meet - uii-fdeo-wsx - Google Chrome",
+                "url": "https://meet.google.com/uii-fdeo-wsx",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, Google account avatar, Meet controls including microphone, camera, captions, present now, more options, and hang up."
+                },
+                "content": [
+                  {
+                    "title": "Video Conference",
+                    "layoutDescription": "Four video feeds displayed",
+                    "visibleText": "Patrick York, Paddy, Joveo Notetaker, Saket Chourasiya, Dragos Nuta"
+                  }
+                ]
+              },
+              {
+                "title": "Gmail - Inbox - Google Chrome",
+                "url": "https://mail.google.com/mail/u/0/#inbox",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "interface with sidebar, search bar, main email content area, and email controls."
+                },
+                "content": [
+                  {
+                    "title": "Email Content",
+                    "layoutDescription": "Email displayed in reading pane",
+                    "visibleText": "Crossover <> Joveo / Introduction @ Thu, Jul 8, 2021\nMarc Breslow <marc.breslow@crossover.com>\nTo Aditya, Dan, me, heli, raashid ansari\nHi Aditya,\nPFA the NDA.\nThanks,\n---Marc\nMarc Breslow | e: marc.breslow@crossover.com | v: +1 908 800 2112 | US-NJ\nOne attachment - Scanned by Gmail\nCrossover Mutual...\n\nAditya Prakash <adityap@joveo.com>\nTo Marc, Dan, me, Dragos\nIt was great speaking with you on Thursday - and it looks like an exciting partnership opportunity for Marc and Dragos!\nI apologize, I am a little behind schedule on this, our Publisher Operations team is gathering regions. I will share that information with you by end of tomorrow/ early Wednesday at the latest.\nThe NDA is with the legal team for review - however I am sending our standard MNDA here for your review.\nLet me know if you have any questions :)\nThanks,\nAdi"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T19:08:03Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Visual Studio Code, React App, DevFactor, TODO & Bug Tracker, Dify - AI Tool, and system icons including Wi-Fi, battery, clock (10:08 PM), and language (ENG).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "LinkedIn Renewal 2024 - Google Sheets",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help, Accessibility. Toolbar with undo, redo, print, zoom, and other editing options. Tabs for analytics, impact-on-hires, Sheet4, contract."
+                },
+                "content": [
+                  {
+                    "title": "LinkedIn Renewal 2024",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "A2:L7\n\nSheet\n\nHome\n\nSlots Cost Cost/slot Projected flow CpA Cost per BFQ Passer Taker Cost per CCAT\n\nNow 3,480 $1,600,000 $460 80,000 $0.38 $1.2 $2.5\nEarly renewal 3,788 $2,300,000 $607 85,000 $0.52 $1.7 $3.4\nLate renewal 3,788 $2,600,000 $686 85,000 $0.59 $1.9 $3.8\nReduce to 75% 2,610 $2,000,000 $766 75,000 $0.52 $1.7 $3.4\nReduce to 50% 1,740 $1,600,000 $920 64,000 $0.48 $1.6 $3.1\nReduce to 25% 870 $930,000 $1,069 40,000 $0.45 $1.4 $2.9\n\nCost per slot\n\nSlots Cost/slot\n\nNow: $1.6M Early renewal: $2.3M Late renewal: $2.6M Reduce to 75%: $1.6M Reduce to 50%: $1.6M Reduce to 25%: $0.9M"
+                  }
+                ]
+              },
+              {
+                "title": "Meet - uii-fdeo-wsx - Google Chrome",
+                "url": "https://meet.google.com/uii-fdeo-wsx",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Video conference window with participant thumbnails, main video, and controls for microphone, camera, and settings."
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "York",
+                      "expression": "focused"
+                    },
+                    {
+                      "name": "Paddy",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Saket Chourasiya",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Drag Nuta",
+                      "expression": "neutral"
+                    }
+                  ]
+                },
+                "content": [
+                  {
+                    "title": "Meet - uii-fdeo-wsx",
+                    "layoutDescription": "Video conference layout",
+                    "visibleText": "Joveo"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Google Meet video conference with multiple participants, including Patrick York, Paddy, Saket Chourasiya, and Dragos Nuta. The meeting appears to be related to a project or business discussion, as indicated by the presence of a 'Joveo' logo in the background of some participants' video feeds. The user is actively participating in the meeting, as evidenced by the open Google Meet window and the visible video feeds of the participants.",
+    "The user is also engaged in a chat conversation with George Dita on Google Chat. The conversation includes messages about a delivery progress and a link to a Google Spreadsheet. This indicates that the user is collaborating with George Dita on a project that involves tracking progress and possibly updating or reviewing data in the shared spreadsheet.",
+    "The user is checking emails on Gmail. One of the emails is from Marc Breslow, discussing an NDA and a potential partnership opportunity with Joveo. The email thread includes responses from Aditya Prakash, indicating ongoing communication and coordination regarding the NDA and other related matters. This suggests that the user is involved in managing or facilitating this partnership.",
+    "The user is viewing a Google Spreadsheet titled 'LinkedIn Renewal 2024'. The spreadsheet contains data related to different renewal plans, including costs, projected flow, and cost per slot. The user is likely analyzing or updating this data as part of their work, possibly to make informed decisions about the renewal plans."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in video conferencing, chatting, checking emails, and viewing a spreadsheet. No AI chat interfaces or AI-generated content are visible in the screenshots.",
+  "activities": [
+    "MEETING",
+    "CHATTING_WITH_TEAM",
+    "EMAIL",
+    "READING_SPEC"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 33,
+      "mouse": 10,
+      "date": "2024-06-04T19:00:11Z",
+      "windowTitle": "Weekly Progress Report - TPM+Eng - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1ZpDZFhxlCdiHNCBofrePLV4fzgVUfIH3de4corNiNt0/edit#heading=h.x3kxrc2h0zlk",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 4,
+      "mouse": 11,
+      "date": "2024-06-04T19:01:11Z",
+      "windowTitle": "Influtive Losses Deep Dive - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/13Nxi61xKUhh2ehwPg5w2LwPGX1jED_WjDM803n6Zyk4/edit#gid=1247300906",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 57,
+      "mouse": 5,
+      "date": "2024-06-04T19:02:11Z",
+      "windowTitle": "Meet - uii-fdeo-wsx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/uii-fdeo-wsx?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-04T19:03:11Z",
+      "windowTitle": "Meet - uii-fdeo-wsx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/uii-fdeo-wsx?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T19:04:11Z",
+      "windowTitle": "Meet - uii-fdeo-wsx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/uii-fdeo-wsx?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T19:05:11Z",
+      "windowTitle": "Meet - uii-fdeo-wsx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/uii-fdeo-wsx?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T19:06:11Z",
+      "windowTitle": "Meet - uii-fdeo-wsx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/uii-fdeo-wsx?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-04T19:07:11Z",
+      "windowTitle": "EDGAR H MULONGO - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/lpiBzMAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 44,
+      "mouse": 8,
+      "date": "2024-06-04T19:08:11Z",
+      "windowTitle": "Meet - uii-fdeo-wsx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/uii-fdeo-wsx?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 84,
+      "mouse": 7,
+      "date": "2024-06-04T19:09:11Z",
+      "windowTitle": "Meet - uii-fdeo-wsx - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/uii-fdeo-wsx?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-04T19:00:00Z"
+}

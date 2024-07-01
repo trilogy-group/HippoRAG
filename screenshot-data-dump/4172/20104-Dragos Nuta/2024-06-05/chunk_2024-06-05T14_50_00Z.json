@@ -1,0 +1,324 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "mail.google.com",
+    "ws-lambda.atlassian.net",
+    "chrome"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T14:52:47Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Google Chrome, File Explorer, Microsoft Outlook, and other unidentified applications. System tray includes network, sound, and clock (5:52 PM, 06/05/2024)",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "XO Team Chat - Chat - Google Chrome",
+                "url": "mail.google.com/chat/u/0/#chat/dm/",
+                "position": "unknown",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Chrome UI includes address bar, bookmarks bar, and multiple tabs. Active tab shows a Google Meet video call interface."
+                },
+                "content": [
+                  {
+                    "title": "Google Meet",
+                    "layoutDescription": "Video call interface",
+                    "visibleText": "Michael Madume, Dragos Nuta, You (via Meet) 8 min Call started"
+                  },
+                  {
+                    "title": "Chat",
+                    "layoutDescription": "Chat sidebar",
+                    "visibleText": "New chat, Shortcuts, Home, 7 Mentions, 3 Starred, Direct messages, George, Dita, Marcelo, Skaba, Syed, Shamael, Rakshit Bhatt, Isabelle Adviento, Nouman Shah, EDGAR H MULONGO, Spaces, 2 XO Team Chat, CNU AI Assist - Extract Doc..., Samy's VPs, Gen AI Ado..., Feature Line automations, CNU Q, Business ProductM..., tpm reboot, Crossover - Upwork Sourcin..., XO Candidate Support Escal..., AWS News Central, PMs team, GFI, RUI/FT/PM Management..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T14:54:36Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Settings, and hidden icons. System tray includes network, sound, battery, and clock (5:54 PM, 06/05/2024).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Story - WS Lambda - Jira Service Management - Google Chrome",
+                "url": "ws-lambda.atlassian.net/servicedes",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, extensions (Google Keep, Google Docs, Google Sheets, Google Slides, and more)."
+                },
+                "content": [
+                  {
+                    "title": "Raise this request on behalf of",
+                    "layoutDescription": "Form field with dropdown",
+                    "visibleText": "Dragos Nuta (dragos.nuta@aurea.com)"
+                  },
+                  {
+                    "title": "Summary",
+                    "layoutDescription": "Text input field",
+                    "visibleText": "Test Gemini 15 on extracting data from timecards"
+                  },
+                  {
+                    "title": "Suggested articles",
+                    "layoutDescription": "List of articles",
+                    "visibleText": "LEGACY ONBOARDING\nIdle cards idle cards appear when you don't have enough activity on a single timecard to bill the customer for it.\nAUTOMATIC REIMPORTING DATA FROM LEARNING APPS\nProblem Background Sometimes we find bugs in the import implementation and after we fix them, there's a need to reimport data from a particular learning app for weekly.\nWS LAMBDA TEAM ONLINE\nAutomatically move ticket to In Progress when IC is active for more than 30 mins (logged 3 timecards in XO). LAMBDA-20473"
+                  },
+                  {
+                    "title": "Description",
+                    "layoutDescription": "Text input field with formatting options",
+                    "visibleText": "Insight: Gemini 1.5pro proved great at processing video\nObjective: extract content from video and test out current models\nThings to explore:\n- take a WSIP video of 10 or 30 minutes and ask it to\n- extract raw content: similar to our current prompt, but see if Gemini accounts for the motion to do its own consolidation and split-out stuff\n- extract consolidated content: extract all documents it has seen, all chat conversations, all emails, all code"
+                  },
+                  {
+                    "title": "Product",
+                    "layoutDescription": "Dropdown menu",
+                    "visibleText": "In case you can't find a product in a list please log a new ticket to add it to the list."
+                  },
+                  {
+                    "title": "Priority",
+                    "layoutDescription": "Dropdown menu",
+                    "visibleText": "TEXT TOO BLURRY"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T14:58:42Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Settings, and hidden icons. System tray includes network, sound, battery, and clock (5:58 PM, 06/05/2024).",
+            "position": "bottom"
+          },
+          {
+            "elementType": "notification",
+            "details": "Chrome notification: 'mail.google.com is sharing your screen.' with options to 'Stop sharing' and 'Hide'",
+            "position": "bottom-right"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Crossover Sprints - Backlog - Jira | ws-lambda - Jira Service Management",
+                "url": "ws-lambda.atlassian.net/service",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, vertical tabs button, minimize, maximize, close buttons"
+                },
+                "content": [
+                  {
+                    "title": "Raise this request on behalf of",
+                    "layoutDescription": "Text field with dropdown",
+                    "visibleText": "Dragos Nuta (dragos.nuta@aurea.com)"
+                  },
+                  {
+                    "title": "Summary",
+                    "layoutDescription": "Text field",
+                    "visibleText": "Test Gemini 15 on extracting data from timecards"
+                  },
+                  {
+                    "title": "Suggested articles",
+                    "layoutDescription": "List of articles",
+                    "visibleText": "LEGACY ONBOARDING\nIdc cards Idc cards appear when you don't have enough activity on a single timecard to bill the customer for it.\nAUTOMATIC REIMPORTING DATA FROM LEARNING APPS\nProblem Background Sometimes we find bugs in the import implementation and after we fix them, there's a need to reimport data from a particular learning app for weekly\nWS LAMBDA TEAM ONLINE\nAutomatically move ticket to In Progress when IC is active for more than 30 mins (logged 3 timecards in XO), LAMBDA-20473"
+                  },
+                  {
+                    "title": "Description",
+                    "layoutDescription": "Text editor with formatting tools",
+                    "visibleText": "Objective: extract content from video using test out current vision enabled models (Gemini 1.5pro, GPT40, Claude3 opus)\n- this way, we won't have to process each frame and hopefully neither assemble content from multiples screenshots and instead rely on the LLM to extract the (document) content\n- the ideal output would be to have all content from all apps they have been using, this may not be possible, so the question is how much can we get and how small do we need we need videos to be\n- we don't care much about verbatim content, if the result we get is what we would get from say \"chain of density\"-like approach\n- start with 30 minute videos as people tend to work on multiple things at the same time and content can easily spread out across a timeline. if results are bad, go 10 minutes. Output limits can impact this decision."
+                  },
+                  {
+                    "title": "Product",
+                    "layoutDescription": "Menu",
+                    "visibleText": "Ludiel Miner 2"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Google Meet video call with a participant named Dragos Nuta. The call has been ongoing for 8 minutes. The user is also actively using Google Chat, where they have several direct messages and spaces, including 'XO Team Chat' and 'CNU AI Assist - Extract Doc...'. This indicates that the user is multitasking, participating in a meeting while keeping an eye on chat communications.",
+    "The user is working on a Jira Service Management task in Google Chrome. They are filling out a form to raise a request on behalf of Dragos Nuta. The summary of the request is 'Test Gemini 1.5 on extracting data from timecards'. The user is also exploring suggested articles related to legacy onboarding, automating data reimporting from learning apps, and WS Lambda team online activities. The description field contains detailed objectives and things to explore, such as extracting content from video and testing current models.",
+    "The user continues to work on the Jira Service Management task, refining the description field. They are specifying the objective to extract content from video using vision-enabled models like Gemini 1.5pro, GPT-4.0, and Claude3 opus. The user is considering the ideal output and the feasibility of processing 30-minute videos. They are also discussing the potential impact of output limits on the decision-making process. This indicates a thorough and methodical approach to the task at hand."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a Google Meet video call, Google Chat communications, and working on a Jira Service Management task in Google Chrome. The activities do not show any interaction with AI tools for code suggestions, research, guidance, or debugging purposes.",
+  "activities": [
+    "MEETING",
+    "CHATTING_WITH_TEAM",
+    "WRITING_SPEC"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_SPEC",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T14:50:55Z",
+      "windowTitle": "Bogdan Tenea messaged you - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/mai09MAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T14:51:55Z",
+      "windowTitle": "Bogdan Tenea messaged you - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/mai09MAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 39,
+      "mouse": 0,
+      "date": "2024-06-05T14:52:55Z",
+      "windowTitle": "Bogdan Tenea messaged you - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/mai09MAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 49,
+      "mouse": 0,
+      "date": "2024-06-05T14:53:55Z",
+      "windowTitle": "Bogdan Tenea messaged you - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/mai09MAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 71,
+      "mouse": 0,
+      "date": "2024-06-05T14:54:55Z",
+      "windowTitle": "Story - WS Lambda - Jira Service Management - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/servicedesk/customer/portal/5/group/80/create/633",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 282,
+      "mouse": 2,
+      "date": "2024-06-05T14:55:55Z",
+      "windowTitle": "Story - WS Lambda - Jira Service Management - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/servicedesk/customer/portal/5/group/80/create/633",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 413,
+      "mouse": 0,
+      "date": "2024-06-05T14:56:55Z",
+      "windowTitle": "Story - WS Lambda - Jira Service Management - Google Chrome",
+      "processName": "ws-lambda.atlassian.net",
+      "visitingUrl": "ws-lambda.atlassian.net/servicedesk/customer/portal/5/group/80/create/633",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 151,
+      "mouse": 15,
+      "date": "2024-06-05T14:57:55Z",
+      "windowTitle": "mail.google.com is sharing your screen.",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 285,
+      "mouse": 0,
+      "date": "2024-06-05T14:58:55Z",
+      "windowTitle": "mail.google.com is sharing your screen.",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 41,
+      "mouse": 16,
+      "date": "2024-06-05T14:59:55Z",
+      "windowTitle": "mail.google.com is sharing your screen.",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T14:50:00Z"
+}

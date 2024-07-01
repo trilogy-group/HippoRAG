@@ -1,0 +1,280 @@
+{
+  "candidateId": 2368956,
+  "apps": [
+    "community.aurea.com",
+    "mail.google.com",
+    "Finder"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T13:32:39Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Chrome, File Explorer, Microsoft Edge, and other unidentified applications. Notification area visible with clock showing '5:32 PM' and date '6/5/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Explore - Google Chrome",
+                "position": "left half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "multiple tabs, address bar, bookmarks bar, and navigation buttons."
+                },
+                "content": [
+                  {
+                    "title": "Explore",
+                    "layoutDescription": "Grid layout",
+                    "visibleText": "GridIntuitive\nYour Customer Engagement with AI-Powered Conversations.\n\nAI and ML News\nAI Advancements in Healthcare.\n\nAI and ML News\nAI Advancements in Healthcare.\n\nContent and Campaigns on the Fringe of Innovation\n\nJust a description\n\nGoogle\n\nTest LinkedIn Upgrade\n\nLinkedIn video post test\n\nTechnical Docs\n\nClosed - Cloud Test\n\nClosed - Cloud Test\n\nTest Example"
+                  }
+                ]
+              },
+              {
+                "title": "Status of Aurea Monitor Fix Deployment - george.dita@trilogy.com - DevFactory Mail - Google Chrome",
+                "position": "right half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "PDF viewer with navigation controls, zoom controls, and download button."
+                },
+                "content": [
+                  {
+                    "title": "Aurea_Monitor_Release_Note",
+                    "layoutDescription": "Standard layout",
+                    "visibleText": "Aurea_Monitor_Release_Note note that the document shown above is an approximation of the original document.\n\nComponent\tVersion\tDescription\nCOMPANY\t1.0.1\tMinor bug fixes and performance improvements.\nCOMPANY\t1.0.2\tAdded new features and enhancements.\nCOMPANY\t1.0.3\tUpdated documentation and user guides.\nCOMPANY\t1.0.4\tSecurity updates and patches.\nCOMPANY\t1.0.5\tGeneral maintenance and bug fixes.\nCOMPANY\t1.0.6\tNew module integration and system updates.\nCOMPANY\t1.0.7\tAPI enhancements and new developer tools.\nCOMPANY\t1.0.8\tPerformance tuning and optimization.\nCOMPANY\t1.0.9\tUI/UX improvements and new user interface components.\nCOMPANY\t1.1.0\tMajor release with significant new features and improvements.\nCOMPANY\t1.1.1\tAdditional security enhancements.\nCOMPANY\t1.1.2\tEnhanced support for mobile devices.\nCOMPANY\t1.1.3\tIntegration with third-party services.\nCOMPANY\t1.1.4\tNew reporting features and analytics tools.\nCOMPANY\t1.1.5\tMaintenance release with minor updates.\nCOMPANY\t1.1.6\tAdditional language support and internationalization.\nCOMPANY\t1.1.7\tEnhanced data protection and privacy features.\nCOMPANY\t1.1.8\tBug fixes and stability improvements.\nCOMPANY\t1.1.9\tUpdated API and new integration capabilities.\nCOMPANY\t1.2.0\tMajor update with extensive new features and enhancements."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T13:36:11Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, Microsoft Edge, File Explorer, and several unidentified applications. Notification area includes network, sound, and clock (13:36)",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "File Explorer",
+            "windows": []
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T13:39:13Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. Also includes the Start button, search bar, and system tray with time display.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Explore - Google Chrome",
+                "position": "left half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and vertical scroll bar"
+                },
+                "content": [
+                  {
+                    "title": "Explore",
+                    "layoutDescription": "Grid layout",
+                    "visibleText": "Explore\n\nGridIntuitive\n Your Customer Engagement with AI-Powered Conversations\n\nAI and ML News\nAI A deep dive into machine learning\n\nAI and ML News\nAI A deep dive into machine learning\n\nAI and ML News\nAI A deep dive into machine learning\n\nJust a description\n\nGoogle\n\nTest LinkedIn Upgrade\n\nLinkedIn video post test\n\nTechnicalDoc\n\nClosed - Cloud Test\n\nTest Example\n\nTest Example"
+                  }
+                ]
+              },
+              {
+                "title": "Status of Aurea Monitor Fix Deployment - george.dita@trilogy.com - DevFactory Mail - Google Chrome",
+                "position": "right half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and vertical scroll bar"
+                },
+                "content": [
+                  {
+                    "title": "Status of Aurea Monitor Fix Deployment",
+                    "layoutDescription": "Email layout",
+                    "visibleText": "Status of Aurea Monitor Fix Deployment\n\nHi Team,\n\nPlease find attached the presentation slides I initially had at the inception of the project (with PDF slides for the existing issues).\n\nAs some of you are aware, we have been in a position to fix most of the major issues with our monitoring system. However, there are still a few issues that need to be addressed in the next patch, which will require some more time.\n\nOur current implementation allows us to:\n\n- Monitor and control the system remotely.\n\n- Automatically detect and report errors.\n\n- Provide a comprehensive overview of the system's performance.\n\nPlease let me know if you have any questions or would like to provide feedback on the slides or any of the key talking points we should address.\n\nThank you,\n\nGeorge"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in reading specifications and documentation. The screenshots show the user viewing a PDF document titled 'Aurea_Monitor_Release_Notes_2022R2.pdf' on the 'community.aurea.com' website. The document contains detailed release notes, including version numbers, descriptions of updates, and enhancements. This indicates that the user is reviewing the latest updates and changes to the Aurea Monitor software.",
+    "The user is also seen managing files using the Finder application. The screenshots show the Finder window open with a list of files and folders, including various documents and directories. This suggests that the user is organizing or accessing files related to their work, possibly to reference or update documentation.",
+    "Additionally, the user is actively engaged in email communication. The screenshots show the user viewing and composing emails in Gmail. One email thread titled 'Status of Aurea Monitor Fix Deployment' involves discussions about the current status of the Aurea Monitor fix deployment, including attached presentation slides and a summary of the project's progress. The user is likely coordinating with team members and stakeholders regarding the deployment status and addressing any remaining issues."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in reading documentation, managing files, and email communication without any visible interaction with AI tools or assistants.",
+  "activities": [
+    "READING_SPEC",
+    "EMAIL"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "READING_SPEC",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 13,
+      "mouse": 31,
+      "date": "2024-06-05T13:30:22Z",
+      "windowTitle": " Aurea_Monitor_Release_Notes_2022R1.pdf | Worx - Google Chrome\n",
+      "processName": "community.aurea.com",
+      "visitingUrl": "https://community.aurea.com/docs/DOC-330355",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 14,
+      "mouse": 20,
+      "date": "2024-06-05T13:31:22Z",
+      "windowTitle": " Status of Aurea Monitor Fix Deployment - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#search/chris.morino%40aurea.com/FMfcgzQVwnXckmqGNbWWqtmJVhZpCrJL",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 6,
+      "mouse": 18,
+      "date": "2024-06-05T13:32:22Z",
+      "windowTitle": " Status of Aurea Monitor Fix Deployment - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#search/chris.morino%40aurea.com/FMfcgzQVwnXckmqGNbWWqtmJVhZpCrJL",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 21,
+      "mouse": 4,
+      "date": "2024-06-05T13:33:22Z",
+      "windowTitle": " Status of Aurea Monitor Fix Deployment - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#search/chris.morino%40aurea.com/FMfcgzQVwnXckmqGNbWWqtmJVhZpCrJL",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 1,
+      "mouse": 25,
+      "date": "2024-06-05T13:34:22Z",
+      "windowTitle": " Documentation - Aurea Monitor | Worx - Google Chrome\n",
+      "processName": "community.aurea.com",
+      "visitingUrl": "https://community.aurea.com/community/integration-solutions-hub/documentation-aurea-monitor/content?filterID=contentstatus%5Bpublished%5D~category%5Baurea-monitor-2023-r2%5D~latestActivityDate%5Ball%5D",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 12,
+      "mouse": 8,
+      "date": "2024-06-05T13:35:22Z",
+      "windowTitle": " Dita Management & Investments\n",
+      "processName": "Finder",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 26,
+      "mouse": 21,
+      "date": "2024-06-05T13:36:22Z",
+      "windowTitle": " Status of Aurea Monitor Fix Deployment - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#search/chris.morino%40aurea.com/FMfcgzQVwnXckmqGNbWWqtmJVhZpCrJL",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 76,
+      "mouse": 7,
+      "date": "2024-06-05T13:37:22Z",
+      "windowTitle": " Status of Aurea Monitor Fix Deployment - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#search/chris.morino%40aurea.com/FMfcgzQVwnXckmqGNbWWqtmJVhZpCrJL",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 10,
+      "date": "2024-06-05T13:38:22Z",
+      "windowTitle": " Re: Aurea version 2024 - Risk of failing PCI certification: next steps - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#search/chris.morino%40aurea.com/FMfcgzQVwnfNxRsmMzWHLmhVcZrZkHpn",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 44,
+      "mouse": 12,
+      "date": "2024-06-05T13:39:22Z",
+      "windowTitle": " Status of Aurea Monitor Fix Deployment - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#search/chris.morino%40aurea.com/FMfcgzQVwnXckmqGNbWWqtmJVhZpCrJL",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T13:30:00Z"
+}

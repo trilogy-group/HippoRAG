@@ -1,0 +1,273 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "github.com",
+        "mail.google.com",
+        "ws-lambda.atlassian.net"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T11:01:50Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for GitHub, Mailbox, Webex, Work, BAM, Notes, Indeed, AWS, Packt, My Apps, Trend Micro, alpha, AWS Console, and Feat. Also includes system tray with time display '13:01', network status icon, sound volume icon, and language setting 'ENG'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+                                "url": "https://github.com/trilogy-group/x",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "logs input box, refresh button, time filter dropdown, and 'Search logs' button"
+                                },
+                                "content": [
+                                    {
+                                        "title": "build",
+                                        "layoutDescription": "in structured columns",
+                                        "visibleText": "Summary\nbuild\nStarted 24m 5s ago\nRun details\nUsage\nWorkflow file\nDeploy to env\nxo-hiring-pg59-interview-bot-backend 6/8 6/8 15:38:28 AM | CREATE_IN_PROGRESS | Custom::LogRetention | xo-hiring-interview-bot-pg59-processAssessmentRes (repeats for multiple lines with similar structure, showing various stages of deployment and resource creation, with timestamps and status updates)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T11:04:23Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, widgets, and several pinned applications. System tray includes network, sound, notifications, and clock displaying '1:34 PM' and 'ENG' language indicator.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Inbox - artyom.melnikov@trilogy.com - DevFactory Mail",
+                                "url": "mail.google.com/mail/u/0/#inbox",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, Gmail navigation pane, email list pane, and email preview pane"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email List",
+                                        "layoutDescription": "List format",
+                                        "visibleText": "- WLS Lambda Automation. [LIRJA] [LAMBDA-7610] Upgrade order info libs - WLS Lambda Automation made 1 update. WLS LambdaLAMBDA-7610 Upgrade cdk infra lib\n- Dragos Nutu (Google. Week 11 Detailed | LAMBDA-7606 | comment BFGTestTakers 10 Dragos Nutu - 10:05 PM, Jun 13 (CEST) New I would increase this a bit... Open\n- WS, Denys, Dmitrii & [LIRJA] [LAMBDA-7649] Sign-up without applying for a specific job - WLS Lambda Automation made 1 update. WLS LambdaLAMBDA-7649 Sign-up without applying for a specific job\n- Failing delivery to webhook 'Update Pipeline Metadata' for 1 hour - Hi Artem, There have been problems delivering a notification to the webhook Update Pipeline Metadata configured in the Production environment of your project Crossover Hire DEV. The delivery of the\n- Salesforce Integration Unresponsive Legacy API Versions - Product & Service Notification As you may know, legacy API versions 210 through 30.0 are deprecated and unsupported. You are receiving this email because you're an admin of an org where the\n- Demo Day on June 13, 2024 | Read Meeting Report - Artem Melnikov led a meeting discussing the implementation of special pipelines for job roles and candidates, as well as the challenges of displaying pipeline roles on\n- Notes - XO Check-in - @artyom.melnikov@trilogy.com, is thi..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T11:07:55Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for various applications and system features, including Start menu, search bar, pinned applications, and system tray with notifications, language indicator (ENG), and clock showing 13:07",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Commits \u00b7 trilogy-group/lambda-cdk-infra - Google Chrome",
+                                "url": "https://github.com/trilogy-group/lambda-cdk-infra",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "multiple tabs, address bar, bookmarks bar, GitHub repository navigation tabs, and GitHub file navigation sidebar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Commit",
+                                        "layoutDescription": "list of files and code changes displayed",
+                                        "visibleText": "Commits \u00b7 trilogy-group/lambda-cdk-infra\n\nAdds the no-profile option to all the other commands.\n\nmaster (#20)\n\nserban-petrescu committed on Mar 24, 2023\n\nShowing 3 changed files with 31 additions and 17 deletions.\n\nsrc/decorators.ts\nsrc/infra-cli.ts 117,14 @@ export interface PrepareConfig {\npreparers: boolean;\ndebug: boolean;\ninfra-installs: boolean;\ninstall: boolean;\n\nexport interface PrepareCallback {\n\nsrc/infra-cli.ts\n\n68 68,12 @@ export const infraCli = yargs\ndefault: false,\n})\n.option('no-install', {\nalias: 'ni',\ndescribes: 'do not do npm install nor npm ci',\ndefault: false,\n})\n.option('ci', {\ndescribes: 'ci mode (use npm ci instead of npm install)',\ndefault: false,\n})\n\n97 97,18 @@ export const infraCli = yargs\npreset target='test',\n})\n.ci arg=ci as boolean,\ndebug arg=debug as boolean,\ninstall arg=install as boolean,\ndebug arg=debug as again,\n\n97 Call all registered Prepare callbacks\n\n308 306,12 @@ export const infraCli = yargs\ndescribes: 'AWS profile to use',\ndefault: 'default',\n})\n.option('no-profile', {\ndescribes: 'no, not override the AWS profile - Just use the existing env vars',\ndefault: false,\n})"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in reviewing code on GitHub. The first screenshot shows the user on the GitHub Actions page for the repository 'xo-hiring-monorepo', specifically looking at the logs for a build job. The logs detail various stages of deployment and resource creation, indicating the user is monitoring the build process and ensuring everything is running smoothly.",
+        "In the second screenshot, the user is checking their email on Gmail. The inbox contains several emails related to work, including updates on various JIRA tickets, notifications about webhook delivery failures, and meeting reports. This indicates the user is staying updated on project progress and addressing any issues that arise.",
+        "The third screenshot shows the user reviewing code commits on GitHub for the 'lambda-cdk-infra' repository. The commit message indicates changes to add a 'no-profile' option to commands. The user is examining the specific code changes, which include additions and deletions in multiple files. This suggests the user is ensuring the changes are correct and do not introduce any issues."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in reviewing code, checking build logs, and managing emails. No AI chat interfaces or AI-generated suggestions are visible in the screenshots.",
+    "activities": [
+        "REVIEWING_CODE",
+        "EMAIL"
+    ],
+    "workTypes": [
+        "IAC",
+        "BACKEND"
+    ],
+    "programmingLanguages": [
+        "TYPESCRIPT"
+    ],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "REVIEWING_CODE",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T11:00:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514770164/job/26227606906",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T11:01:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514770164/job/26227606906",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T11:02:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514770164/job/26227606906",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T11:03:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514770164/job/26227606906",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 3,
+            "date": "2024-06-14T11:04:17Z",
+            "windowTitle": "Inbox - artyom.melnikov@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T11:05:17Z",
+            "windowTitle": "Inbox - artyom.melnikov@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T11:06:17Z",
+            "windowTitle": "Inbox - artyom.melnikov@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T11:07:17Z",
+            "windowTitle": "Inbox - artyom.melnikov@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 31,
+            "date": "2024-06-14T11:08:17Z",
+            "windowTitle": "Commits ? trilogy-group/lambda-cdk-infra - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/lambda-cdk-infra/commits/master/?after=db4aa091883c9959ed9b90b14d701f0f81ddb8c7+104",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 22,
+            "mouse": 17,
+            "date": "2024-06-14T11:09:17Z",
+            "windowTitle": "Infra CDK Library - WS Lambda - Confluence - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/wiki/spaces/LAMBDA/pages/1866006529/Deployment+process+with+CDK",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T11:00:00Z"
+}

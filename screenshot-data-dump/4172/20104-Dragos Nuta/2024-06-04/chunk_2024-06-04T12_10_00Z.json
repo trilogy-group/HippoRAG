@@ -1,0 +1,318 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "chrome",
+    "meet.google.com",
+    "docs.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-04T12:10:53Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for DevF, Jive, Wee, ARR, Google Chrome, Copi, Cent, Edu, ARR, Jive, Not, Cloud, ESW, Step, Not, Google Chrome, and system icons including Wi-Fi, sound, notifications, and clock displaying '3:10 PM 6/4/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Jigsaw Slot update prep - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help; Toolbar with undo, redo, print, spelling and grammar check, zoom, formatting options; Right sidebar with Comments panel"
+                },
+                "content": [
+                  {
+                    "title": "Jigsaw Slot update prep",
+                    "layoutDescription": "Document layout with text and headings",
+                    "visibleText": "Jigsaw\nSlot #1\nProgress week 22b\nRollout plan\nNo changes on the conversion funnel\nOutreach to high ARR Customers as Messenger & Monitor Releases become available\nFollow-up after customers open support tickets for new releases to understand their upgrade path and user requirements and help them remove blockers for upgrading (if any)\nKeep track of releases deployed in the test environment (or production)\nRollout MIPs\n1) Getting requirements and success criteria for SoftwareAG ($0.9M)\n2) Establish lease with licenses to the BU team/customer; Customer can not proceed without the signed documentation\n3) Clarify to SA that this issue may/will cause large delays, and we need clear requirements & tests cases.\n4) Lufthansa base version is 2022 and the fix we provided is on top of 2023. Consequently, they are asking for a fix on their current version. while the fix struggling with upgrade as it is not made for their 2022 deployed version\nPlan Week 23*\n1) Complete Phone Call Attempts Outreach to Customers\n2) Support Lufthansa for upgrading software.\n3) Monitor and keep pushing SoftwareAG to set up Webmethods environment.\nInsights from customers\nBroadridge - the initial inquiry came from the Application team but the Infrastructure team has no plans to upgrade as they still have issues with version 'Still have issues with 1.2.0,' which they upgraded to upgrade in 2022. They push for a new low from Application department to currently upgrading to 1.2.0.3\nProximity (S1M) - currently upgrading products over 2 years version; No plans for 14 upgrade. Refineries: upgrades are planned 9 months to 1-3 year in advance; We missed the current cycle. They still have problems upgrading to version 12.0\nSee individual customer summaries"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T12:14:43Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Settings, and hidden icons tray. System tray includes network, sound, and battery status icons, date and time display, and language selection (ENG).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Jigsaw Slot update prep - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "left half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Docs interface with menu bar, toolbar, and document outline sidebar"
+                },
+                "content": [
+                  {
+                    "title": "Jigsaw Slot update prep",
+                    "layoutDescription": "Text document layout",
+                    "visibleText": "Jigsaw\nOutline\nJigsaw\nS #1\nRollout plan\nOutreach to high ARR accounts\nFollow-up after customer meetings to understand usage plan and satisfaction\nKeep track of releases and customer feedback\nRollout MIPs\nCustomers refer to updates as 'MIPs' because these are more stable\nGetting requirements and feedback early is crucial\nEscalated issues need to be brought to the attention of the product team\nLufthansa base version - they are asking for a fix that is not made for their version\nPlan Week 234\nComplete Phone Call Analysis\nSupport Lufthansa for another cycle\nMonitor and keep pushing for updates\nInsights from customers\nBroadridge - the initial version they received has no plans to upgrade (which they upgraded later)\nReprint (simulated) - current feedback: very positive\nProximus: upgrades are done in a 5-year cycle. They still have problems with the new version\nSee individual customer feedback for more details"
+                  }
+                ]
+              },
+              {
+                "title": "Meet - aqm-tpng-aqq - Google Chrome",
+                "url": "https://meet.google.com/aqm-tpng-a",
+                "position": "right half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Meet interface with control bar, participant video feeds, and chat sidebar"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "George Dita",
+                      "expression": "smiling"
+                    },
+                    {
+                      "name": "Firat Gomi",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Dragos Nuta",
+                      "expression": "speaking"
+                    }
+                  ]
+                },
+                "content": [
+                  {
+                    "title": "Daily Check-in",
+                    "layoutDescription": "Video conference layout",
+                    "visibleText": "Product Daily Check-in\nGeorge Dita\nFirat Gomi\nFirat's AI Notetaker\nDragos Nuta\nread.ai meeting notes"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T12:17:21Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, widgets, and several pinned applications. Also shows system tray with clock, language indicator, and other system icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - khm-qevt-udu - Google Chrome",
+                "url": "https://meet.google.com/khm-qevt-udu",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, and extension icons"
+                },
+                "content": [
+                  {
+                    "title": "Google Meet",
+                    "layoutDescription": "Video conference layout",
+                    "visibleText": "Denys Yefimenko\nDmitrii Shutenkov\nread.ai meeting notes\nArtem Melnikov\nDragos Nuta"
+                  }
+                ]
+              },
+              {
+                "title": "Calendar - Week of June 3, 2024 - Google Chrome",
+                "url": "https://calendar.google.com/calendar",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, and extension icons"
+                },
+                "content": [
+                  {
+                    "title": "Google Calendar",
+                    "layoutDescription": "Calendar layout",
+                    "visibleText": "Calendar\nToday\nJune 2024\nWeek 23\nCreate\nSearch for people\nTime Insights\nMore insights\nMy calendars\nDragos Nuta Trilogy\nBirthdays\nDragos Nuta - Aurea\nDragos Nuta - XO\nTasks\nOther calendars\nMON 3\nTUE 4\nHome\n5:00 - Rakshit Bha\nDragos/Rakshit, 10:00\nCNU 1-week Project\nPhil / Dragos - What\nAI Coach Daily Sync,\nJozsef / Dragos Wee\nProduct Daily Check\nDragos Holiday\nMay reg BBQ\nPre-acquisition deb\nSamy's Crossover\nIgniteTech CPM - Cent\nVanishig Singh and D\nReview Prompting Bad\nJoe / Dragos, 20:30\nCrossover w/ Joeve Di\nIsabelle / Dragos, 23:00"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in a Google Docs document titled 'Jigsaw Slot update prep'. The document contains detailed plans and updates related to a project, including progress updates, rollout plans, and insights from customers. The user is making edits and comments, as seen in the right sidebar where comments and suggestions are being exchanged with team members. This indicates a collaborative effort in refining the document's content.",
+    "The user is participating in a Google Meet video conference titled 'Product Daily Check-in'. The meeting includes multiple participants, and the user is actively engaged in the discussion. The meeting interface shows video feeds of the participants and a chat sidebar, indicating that the user is involved in real-time communication and collaboration with their team.",
+    "The user is also involved in another Google Meet video conference titled 'XO Check-in'. This meeting includes different participants and appears to be a separate session from the previous one. The user is multitasking, as the Google Calendar is open in the background, showing a detailed schedule of meetings and tasks for the week. This suggests that the user is managing multiple projects and coordinating with different teams."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in document editing and video conferencing without any visible interaction with AI tools for code suggestions, research, or debugging. The focus is on collaborative efforts and real-time communication with team members.",
+  "activities": [
+    "READING_SPEC",
+    "WRITING_SPEC",
+    "MEETING"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 99,
+      "mouse": 15,
+      "date": "2024-06-04T12:10:09Z",
+      "windowTitle": "meet.google.com is sharing a window.",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 29,
+      "date": "2024-06-04T12:11:09Z",
+      "windowTitle": "meet.google.com is sharing a window.",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 36,
+      "mouse": 2,
+      "date": "2024-06-04T12:12:09Z",
+      "windowTitle": "meet.google.com is sharing a window.",
+      "processName": "chrome",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 6,
+      "mouse": 12,
+      "date": "2024-06-04T12:13:09Z",
+      "windowTitle": "Meet - aqm-tpng-aqq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/aqm-tpng-aqq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-04T12:14:09Z",
+      "windowTitle": "Jigsaw Slot update prep - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1dWStrMol3OJMxmYDpYMUZxFAEtBmONi-gAMyP8FulQM/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 4,
+      "mouse": 5,
+      "date": "2024-06-04T12:15:09Z",
+      "windowTitle": "Meet - aqm-tpng-aqq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/aqm-tpng-aqq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 11,
+      "date": "2024-06-04T12:16:10Z",
+      "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T12:17:10Z",
+      "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 2,
+      "mouse": 4,
+      "date": "2024-06-04T12:18:10Z",
+      "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-04T12:19:10Z",
+      "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-04T12:10:00Z"
+}

@@ -1,0 +1,278 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "webstorm64",
+        "github.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T09:21:31Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '16:24' and date '06/14/2024'. Network, sound, and battery status icons are visible.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "lambda-cdk-infra \\ workspace\\Lambda\\lambda-cdk-infra",
+                                "url": null,
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "menu bar with options like File, Edit, View, Go, Run, Terminal, Help. Sidebar with file explorer showing project structure. Bottom bar showing terminal output."
+                                },
+                                "content": [
+                                    {
+                                        "title": "cognito-seeding.ts editor open",
+                                        "layoutDescription": "code editor layout",
+                                        "visibleText": "export async function createNewCognitoUser(UserData: CognitoUserData, props: CognitoDataSeedingProps): Promise<void> {\n if (userData.password) {\n await Client.send(new AdminSetUserPasswordCommand({\n UserPoolId: props.userPoolId,\n Username: userInfo.User.Username,\n Password: userData.password,\n Permanent: true,\n }));\n log.debug('Cognito Data Seeding] Set password for user: ${userData.username}');\n }\n\n // Set groups if required\n if (userData.groups) {\n await Promise.all(userData.groups.map(groupName => {\n Client.send(new AdminAddUserToGroupCommand({\n UserPoolId: props.userPoolId,\n Username: userInfo.User.Username,\n GroupName: groupName,\n }));\n log.debug('Cognito Data Seeding] Set groups for user: ${userData.username}');\n }\n\n // Update existing Cognito User based on the provided user data and configuration\n // @param userData user seeding data\n // @param props configuration\n // @param propsInfo the output of the adminGetUser SDK call (current user attributes)\n export async function updateExistingCognitoUser(userData: CognitoUserData, props: CognitoDataSeedingProps): Promise<void> {\n // More code here\n }\n\n // More code and comments\n"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T09:25:02Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Visual Studio Code, File Explorer, Google Chrome, and other unidentified applications. Also includes system clock showing '20:54' and system tray with network, sound, and battery status icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "lambda-cdk-infra \u2014 src\\shared\\data-seeding\\cognito-seeding.ts",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Top bar with File, Edit, View, Go, Run, Terminal, Help. Left sidebar with Explorer, Search, Source Control, Run and Debug, Extensions icons. Bottom status bar with TypeScript version, encoding, line and column number, and spaces."
+                                },
+                                "content": [
+                                    {
+                                        "title": "File Explorer",
+                                        "layoutDescription": "Left sidebar",
+                                        "visibleText": "lambda-cdk-infra\n.github"
+                                    },
+                                    {
+                                        "title": "Editor",
+                                        "layoutDescription": "Main area",
+                                        "visibleText": "export async function updateExistingCognitoUser(userData: CognitoUserData, props: CognitoDataSeedingProps, ...)\n\n// Debug: log('Cognito Data Seeding] Updated user attributes...)\n\nif (props.removeAttributesOnUpdate) {\n const attributesToRemove: string[] = [];\n userData.Attributes\n .filter(it: AttributeType => it.Name !== 'sub') // system attribute, we should not remove it\n .forEach((attr: AttributeType) => {\n if (attr.ExpectedAttributeType?.find((AttributeType => attr.Name === it.Name)) !== null) {\n attributesToRemove.push(attr.Name);\n }\n });\n\n if (attributesToRemove.length > 0) {\n await client.send(new AdminDeleteUserAttributesCommand({\n UserPoolId: props.userPoolId,\n Username: userData.UserInfo.Username,\n UserAttributes: attributesToRemove.map((AttributeType => it.Name)).join(', ')\n }).promise();\n log.debug('Cognito Data Seeding] Removed...);\n }\n\n if (userData.password && props.updatePasswordOnUpdate) {\n await client.adminSetUserPassword({\n UserPoolId: props.userPoolId,\n Username: userData.UserInfo.Username,\n Password: props.newPassword,\n Permanent: true\n }).promise();\n }\n\n log.debug('Cognito Data Seeding] Password updated for user: ${userData.UserInfo.Username}');\n"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T09:27:37Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Visual Studio Code, File Explorer, and other unidentified applications. System time displayed as 11:24 AM. Network status icon visible. Battery indicator shows full charge. Language set to ENG.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "lambda-cdk-infra",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Side pane on the left with files and folders, bottom bar with Git controls, search functionality, and extensions view. Top menu with options like File, Edit, View, Go, Run, Terminal, Help."
+                                },
+                                "content": [
+                                    {
+                                        "title": "package.json",
+                                        "layoutDescription": "Text editor open",
+                                        "visibleText": "{\n \"name\": \"@aws-sdk/client-cognito-identity-provider\",\n \"version\": \"3.59.0\",\n \"dependencies\": {\n \"@aws-sdk/client-cloudformation\": \"^3.59.0\",\n \"@aws-sdk/client-sts\": \"^3.59.0\",\n \"@aws-sdk/credential-providers\": \"^3.59.0\",\n \"@aws-sdk/client-s3\": \"^3.59.0\",\n \"@aws-sdk/client-rum\": \"^3.59.0\",\n \"@aws-sdk/client-cognito-identity-provider\": \"^3.59.0\",\n \"uuid\": \"^8.3.2\",\n \"ts-deepmerge\": \"7.0.0\",\n \"winston\": \"3.7.2\",\n \"chalk\": \"4.1.2\",\n \"fs-extra\": \"10.0.0\",\n \"execution-time\": \"1.4.1\",\n \"loglevel\": \"1.7.1\",\n \"yaml\": \"2.0.0-7\",\n \"graphql\": \"15.8.0\",\n \"@graphql-codegen/core\": \"2.5.1\",\n \"@graphql-codegen/typescript\": \"2.4.5\",\n \"@graphql-codegen/typescript-operations\": \"2.3.2\",\n \"@graphql-codegen/introspection\": \"2.1.1\",\n \"@graphql-codegen/typescript-graphql-request\": \"4.4.1\",\n \"lodash\": \"4.17.21\"\n }\n}"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in writing and updating code within the WebStorm IDE. They are working on a project named 'lambda-cdk-infra' and are specifically focused on the 'cognito-seeding.ts' file. The code involves creating and updating Cognito users, including setting passwords and assigning groups. The user is also updating the AWS SDK to version 3, as indicated by the instructions and code snippets visible in the IDE.",
+        "The user is seen navigating through the project structure in the WebStorm IDE, exploring various TypeScript files such as 'aws-utils.ts', 'run.ts', and 'package.json'. They are making modifications to the 'package.json' file, updating dependencies related to AWS SDK and other libraries. The terminal output shows the user running npm commands to install and audit packages, indicating active development and dependency management.",
+        "The user is reviewing code changes on GitHub, specifically a pull request for the 'lambda-cdk-infra' repository. The pull request involves migrating code to AWS SDK v3 and includes changes to multiple files. The user is likely ensuring that the updates are correctly implemented and do not introduce any issues. This activity is crucial for maintaining code quality and ensuring compatibility with the updated SDK."
+    ],
+    "aiUseSummary": "The user is utilizing an AI_IDE_EXTENSION within the WebStorm IDE to assist with code migration and updates. The AI tool provides suggestions and code snippets for migrating to AWS SDK v3, including specific commands and code modifications. The user interacts with the AI to get detailed instructions and apply the necessary changes, enhancing their productivity and ensuring accurate implementation of the updates.",
+    "activities": [
+        "WRITING_CODE",
+        "NAVIGATING_CODE",
+        "REVIEWING_CODE"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "IAC"
+    ],
+    "programmingLanguages": [
+        "TYPESCRIPT"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "AI_IDE_EXTENSION"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 40,
+            "mouse": 31,
+            "date": "2024-06-14T09:20:17Z",
+            "windowTitle": "lambda-cdk-infra ? aws-config.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 96,
+            "mouse": 31,
+            "date": "2024-06-14T09:21:17Z",
+            "windowTitle": "lambda-cdk-infra ? cognito-seeding.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 74,
+            "mouse": 25,
+            "date": "2024-06-14T09:22:17Z",
+            "windowTitle": "lambda-cdk-infra ? cognito-seeding.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 32,
+            "mouse": 21,
+            "date": "2024-06-14T09:23:17Z",
+            "windowTitle": "lambda-cdk-infra ? cognito-seeding.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 44,
+            "mouse": 29,
+            "date": "2024-06-14T09:24:17Z",
+            "windowTitle": "lambda-cdk-infra ? cognito-seeding.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 78,
+            "mouse": 21,
+            "date": "2024-06-14T09:25:17Z",
+            "windowTitle": "lambda-cdk-infra ? cognito-seeding.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 82,
+            "mouse": 22,
+            "date": "2024-06-14T09:26:17Z",
+            "windowTitle": "lambda-cdk-infra ? cognito-seeding.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 80,
+            "mouse": 21,
+            "date": "2024-06-14T09:27:17Z",
+            "windowTitle": "lambda-cdk-infra ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 58,
+            "mouse": 34,
+            "date": "2024-06-14T09:28:17Z",
+            "windowTitle": "lambda-cdk-infra ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 29,
+            "mouse": 39,
+            "date": "2024-06-14T09:29:17Z",
+            "windowTitle": "feat(LAMBDA-76101): Upgrade dependency versions by artyom-melnikov ? Pull Request #27 ? trilogy-group/lambda-cdk-infra - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/lambda-cdk-infra/pull/27",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T09:20:00Z"
+}

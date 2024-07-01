@@ -1,0 +1,192 @@
+{
+    "candidateId": 1444536,
+    "apps": [
+        "mail.google.com",
+        "ws-lambda.atlassian.net",
+        "crossover--fullshared.sandbox.lightning.force.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T07:54:27Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Settings, and hidden icons tray. System clock shows '08:54:37' on '14/06/2024'. Language input method 'ENG' visible. Network, sound, and battery status icons are present.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "DevFactory Mail",
+                                "url": "mail.google.com/mail/u/0/#chat/space",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, extensions icons, and minimize, maximize, close buttons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Gmail",
+                                        "layoutDescription": "sidebar, main chat area",
+                                        "visibleText": "Gmail\nShortcuts\nHome 2\nMentions 1\nStarred\nDirect messages\nEdward Fontana\nEvgeniy Beloshytskiy\nDenys, Serban\nDragos Nuta\nSergey Buravov\nSpaces\nWS.Eng Acceptance\nCrossover - Upwork\nXO Platform\nXO Team Chat\nGeneral\nSearch in chat\nXO Platform\n5 members \u00b7 Private\nChat\nShared\nTasks\nKevin Norchi Yesterday 7:34 PM\nI'm guessing Javed\nYou\nIf I understand correctly, you need to change the URL from https://jobs.crossover.com/application/0062j00000 to https://www.crossover.com/applications/002j100000 is easy, but I'm not the owner of those analyses\n@Dragos Nuta can you make me the owner?\nCorrect\nHistory is on"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T07:58:25Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, File Explorer, Microsoft Outlook, and other unidentified applications. Displays the time as 08:58:27 and date as 14/06/2024. Language set to ENG. Battery status is not visible.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "My Tasks - WorkSmart Lambda - Google Chrome",
+                                "url": "https://ws-lambda.atlassian.net/jira/dashboard",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Tabs for Inbox, My Tasks, Crossover Sprints, Create Task, Technical Debt - Crossover, Guides - Crossover, WS.Eng TPO: Leadership, Task Catalog. Address bar visible with URL. Navigation buttons, refresh button, star button for favorites, profile icon, and notification bell visible. Extensions icons and vertical ellipsis for more options present."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Tasks Pending Approval",
+                                        "layoutDescription": "List format",
+                                        "visibleText": "Tasks Pending Approval\nT Key Summary P Category - Task Type Epic Link Delivered at\nLAMBDA-75521 Regrade Coding Score assessments Engineering - Story 6/3/2024 2:49:00 PM\nLAMBDA-75845 Sign-up without applying for a specific job Engineering - Story 6/10/2024 10:52:00 AM\nLAMBDA-75972 Update Beginner Mind badge based on feedback Engineering - Story 6/12/2024 8:41:00 AM\nLAMBDA-76046 Create QuickSight dashboard for Retargeting V2 Engineering - Story Yesterday 8:01:00 AM\n1-4 of 4 issues"
+                                    },
+                                    {
+                                        "title": "Filters",
+                                        "layoutDescription": "List and dropdown",
+                                        "visibleText": "Filters\nHide Blocked Epics Epic Plans Customer Requests"
+                                    },
+                                    {
+                                        "title": "My Open Tasks",
+                                        "layoutDescription": "List format",
+                                        "visibleText": "My Open Tasks\nT Key Summary P Status Category - Task Type Epic Link Product"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in a chat on Gmail, specifically within the 'XO Platform' space. They are discussing URL changes for job applications with a colleague named Kevin Norchi. The user provides a corrected URL and requests ownership of certain analyses from another colleague, Dragos Nuta. This indicates collaboration and communication within the team to resolve issues related to job application URLs.",
+        "The user is also working on tasks in Jira, as seen in the 'My Tasks - WorkSmart Lambda' window. They are reviewing tasks pending approval, which include regrading coding score assessments, signing up without applying for a specific job, updating a badge based on feedback, and creating a dashboard for retargeting. This shows the user is involved in task management and approval processes within the engineering domain."
+    ],
+    "aiUseSummary": "",
+    "activities": [
+        "EMAIL",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "CHATTING_WITH_TEAM",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 3,
+            "mouse": 15,
+            "date": "2024-06-14T07:54:23Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAEID_H-I",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-14T07:55:23Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAeZVXuc0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 17,
+            "date": "2024-06-14T07:56:23Z",
+            "windowTitle": "New Tab - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/jira/dashboards/10058",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T07:57:23Z",
+            "windowTitle": "My Tasks - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/jira/dashboards/10058",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-14T07:58:23Z",
+            "windowTitle": "Inbox (34) - dmitrii.shutenkov@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-14T07:59:23Z",
+            "windowTitle": "Home | Salesforce - Google Chrome",
+            "processName": "crossover--fullshared.sandbox.lightning.force.com",
+            "visitingUrl": "crossover--fullshared.sandbox.lightning.force.com/lightning/page/home",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T07:50:00Z"
+}

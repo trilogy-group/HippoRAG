@@ -1,0 +1,301 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "chatgpt.com",
+        "crossover--fullshared.sandbox.lightning.force.com",
+        "idea64"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T07:21:50Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. System tray includes network, sound, and battery status icons, as well as the date and time display '9:21 AM 06/12/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Salesforce - Google Chrome",
+                                "url": "https://crossover--fullshared.sandbox.my.salesforce.com",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, navigation buttons, Salesforce specific navigation including 'Setup', 'Home', 'Object Manager', and user profile options."
+                                },
+                                "content": [
+                                    {
+                                        "title": "New Custom Field",
+                                        "layoutDescription": "Complex layout with multiple sections",
+                                        "visibleText": "CROSSOVER\nSetup\nHome\nObject Manager\nSETUP - OBJECT MANAGER\nApplication\nDetails\nFields & Relationships\nPage Layouts\nLightning Record Pages\nButtons, Links, and Actions\nCompact Layouts\nField Sets\nObject Limits\nRecord Types\nRelated Lookup Filters\nSearch Layouts\nList View Button Layout\nScoping Rules\nTriggers\nFlow Triggers\nValidation Rules\nNew Custom Field\nStep 3. Enter formula\nEnter your formula and click Check Syntax to check for errors. Click the Advanced Formula tab to use additional fields, operators, and functions.\nExample: (Fahrenheit-32)*5/9=Celsius\nSimple Formula\nAdvanced Formula\nInsert Field\nInsert Operator\nCheck Syntax\nDescription\nHelp Text\nBlank Field Handling\nIf your formula references any number, currency, or percent fields, specify what happens to the formula output when their values are blank.\nTreat blank fields as zeroes\nTreat blank fields as blanks\nPrevious\nNext\nCancel"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T07:26:06Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned and running applications. Displays the system tray with network status, sound volume, date and time, and language indicator.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Salesforce - Google Chrome",
+                                "url": "https://crossover--fullshared.sand",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, and navigation controls"
+                                },
+                                "content": [
+                                    {
+                                        "title": "CROSSOVER",
+                                        "layoutDescription": "layout with tabs and menu",
+                                        "visibleText": "CROSSOVER Setup Home Object Manager"
+                                    },
+                                    {
+                                        "title": "SETUP - OBJECT MANAGER - Opportunity",
+                                        "layoutDescription": "Sidebar navigation",
+                                        "visibleText": "SETUP - OBJECT MANAGER - Opportunity Details Fields & Relationships Page Layouts Lightning Record Pages Buttons, Links, and Actions Compact Layouts Field Sets Object Limits Record Types Related Lookup Filters Search Layouts List View Button Layout Scoping Rules Triggers Flow History Validation Rules"
+                                    },
+                                    {
+                                        "title": "Opportunity Page Layout",
+                                        "layoutDescription": "Main content area",
+                                        "visibleText": "Opportunity Page Layout Pipeline Brand Sample Test JR Qb Manager Sample Test Opportunity Owner Sample Test Next Step Sample Test Close Date 6/12/2024 9:25 AM Apply Rules Sample Test Close Reason Sample Test Candidate Region Eastern Sample Test Candidate Qualification Frame Sample Test Last Close Stage Sample Test Last Amended Sample Test Assessment Fee Sample Test Primary Campaign Source Sample Test Indirect Campaign Sample Test Sourcing Platform Sample Test Additional Information Probability 30% Decision Score Sample Test CAT Decision 0.7 CAT Cleanup Sample Test PI Priority Score 15.34 PI Priority Score 1.0/7.0 PI Priority Score 5.5/7.0 Passed Interview 4 Qualification Override Sample Test Candidate ID Sample Test Candidate Status Sample Test Verification Status Sample Test Client Information Browser Name Sample Text Browser Version Sample Text OS Version Sample Text Fingerprint Hash Sample Text Identification Information 0000000000276956"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T07:28:29Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '07:28' and date '2024-06-12'. Language set to 'ENG'. Network status visible. Sound and notifications icons present.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "feature/LAMBDA-76029-i",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar at top with File, Edit, View, Go, Run, Terminal, Help. Side bar on left with Explorer, Search, Source Control, Run and Debug, Extensions icons. Status bar at bottom showing branch name, problems count, and sync status."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Explorer",
+                                        "layoutDescription": "Vertical panel",
+                                        "visibleText": "Project\n- CommunitiesLifeOrgControllerTest\n- ComputeSignUpsFlow\n- ComputeSRAGsReceivedCountBatch\n- ConvertToRecordActionRequest\n- ConvertToRecordService\n- CopyMandatoryAssessmentsToPipeline\n- CopyMandatoryAssessmentsToPipelineTest\n- CountStepsNotCompletedService\n- CountStepsNotCompletedServiceTest\n- CreateInspectionSubmissions\n- CreateInterviewScopeResult_subflowTests\n- CreateOrUpdatePipelineTests\n- CreateRetargetingCampaignsTests\n- CreateUpdateMetadataJobs\n- CreateUpdateMetadataJobsTests\n- CredibilityTagTests\n- Opportunity-Admin Detailed Layout_layout-meta.xml\n- Objects 3 files\n- DJ_Board_Call_Analytics_cfield-meta.xml\n- BFQ_cfield-meta.xml\n- OpportunityFields 1 file\n- BFQ_cfield-meta.xml\n- HP_BFQ_cfield-meta.xml"
+                                    },
+                                    {
+                                        "title": "Source Control",
+                                        "layoutDescription": "Vertical panel",
+                                        "visibleText": "Commit\nShelf\nAgenda\nai (LAMBDA-75845): Category jobs support"
+                                    },
+                                    {
+                                        "title": "Terminal",
+                                        "layoutDescription": "Vertical panel",
+                                        "visibleText": "Run CountStepsNotCompletedServiceTests.integration_al Results\nCountStepsNotCompletedServiceTests\ninte 7 sec 162 ms\nICS: [Q5] (558094609|1601) EXECUTE_BEGIN [1314] Aggregations:SELECT Id, Is_Verification_Required__c FROM ACCOUNT WHERE Id = :tpVar1\n09:11:55.584 [20210901] EXECUTE_BEGIN [1314] Rows:1\n09:11:55.584 (5634753900|5493) EXECUTE_END [1710] Rows:1\n09:11:55.584 (5641130588) USER_DEBUG [2271] DEBUG [CS]: BFQ 0 0\n09:11:55.584 (5641759380) USER_DEBUG [2271] DEBUG [CS]: BFQ unknown\n09:11:55.584 (5641799558) LIMIT_USAGE_FOR_NS (default)\nNumber of SOQL queries: 2 out of 20\nNumber of DML statements: 0 out of 150"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in configuring Salesforce. They are creating a new custom field within the Salesforce Object Manager. The user is seen entering a formula and selecting fields from a list to insert into the formula. This activity involves navigating through various sections such as 'Fields & Relationships', 'Page Layouts', and 'Validation Rules'. The user is also seen checking the syntax of the formula and providing descriptions and help text for the new custom field.",
+        "The user is working on the page layout for the Opportunity object in Salesforce. They are modifying the layout by adding and arranging fields. The visible fields include 'Pipeline Brand', 'Opportunity Owner', 'Close Date', and 'Candidate Region'. The user is also seen interacting with additional information sections such as 'Probability', 'Decision Score', and 'Client Information'. This activity involves detailed customization of the page layout to meet specific requirements.",
+        "The user is writing and navigating code in IntelliJ IDEA. They are working on a project related to 'CountStepsNotCompletedService'. The user is seen editing a class named 'ApplicationStagesSingleton' and a method 'getStages'. They are also running tests for 'CountStepsNotCompletedServiceTests' and viewing the test results in the terminal. The user is committing changes to the source control with a message 'Category jobs support'. This activity involves both coding and testing phases, indicating a focus on backend development."
+    ],
+    "aiUseSummary": "The user is utilizing ChatGPT for assistance. They are visiting chatgpt.com, indicating they are likely seeking help or guidance on specific tasks. The exact nature of the interaction with ChatGPT is not visible in the screenshots, but it suggests the user is leveraging AI for research or problem-solving purposes. This use of AI tools helps in enhancing productivity by providing quick solutions or insights.",
+    "activities": [
+        "WRITING_CODE",
+        "NAVIGATING_CODE",
+        "READING_SPEC",
+        "RESEARCH"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "UI",
+        "DB",
+        "TESTS"
+    ],
+    "programmingLanguages": [
+        "SALESFORCE",
+        "JAVA",
+        "SQL"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "OPENAI_CHATGPT"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 110,
+            "mouse": 17,
+            "date": "2024-06-12T07:20:00Z",
+            "windowTitle": "ChatGPT ? Mozilla Firefox",
+            "processName": "chatgpt.com",
+            "visitingUrl": "https://chatgpt.com",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 98,
+            "mouse": 12,
+            "date": "2024-06-12T07:21:00Z",
+            "windowTitle": "ChatGPT ? Mozilla Firefox",
+            "processName": "chatgpt.com",
+            "visitingUrl": "https://chatgpt.com",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 116,
+            "mouse": 15,
+            "date": "2024-06-12T07:22:00Z",
+            "windowTitle": "Application | Salesforce - Google Chrome",
+            "processName": "crossover--fullshared.sandbox.lightning.force.com",
+            "visitingUrl": "crossover--fullshared.sandbox.lightning.force.com/lightning/setup/ObjectManager/Opportunity/FieldsAndRelationships/new",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 140,
+            "mouse": 10,
+            "date": "2024-06-12T07:23:00Z",
+            "windowTitle": "ChatGPT ? Mozilla Firefox",
+            "processName": "chatgpt.com",
+            "visitingUrl": "https://chatgpt.com",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 75,
+            "mouse": 13,
+            "date": "2024-06-12T07:24:00Z",
+            "windowTitle": "Application | Salesforce - Google Chrome",
+            "processName": "crossover--fullshared.sandbox.lightning.force.com",
+            "visitingUrl": "crossover--fullshared.sandbox.lightning.force.com/lightning/setup/ObjectManager/Opportunity/FieldsAndRelationships/new",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 60,
+            "mouse": 19,
+            "date": "2024-06-12T07:25:00Z",
+            "windowTitle": "ChatGPT ? Mozilla Firefox",
+            "processName": "chatgpt.com",
+            "visitingUrl": "https://chatgpt.com/c/13ee8025-6d1d-45a5-9a8f-16e48201324b",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 10,
+            "mouse": 23,
+            "date": "2024-06-12T07:26:00Z",
+            "windowTitle": "Application | Salesforce - Google Chrome",
+            "processName": "crossover--fullshared.sandbox.lightning.force.com",
+            "visitingUrl": "crossover--fullshared.sandbox.lightning.force.com/lightning/setup/ObjectManager/Opportunity/PageLayouts/00h2j000000pyyrAAA/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 11,
+            "date": "2024-06-12T07:27:00Z",
+            "windowTitle": "ArtemTest TestTest - Principal Software Architect | Application | Salesforce - Google Chrome",
+            "processName": "crossover--fullshared.sandbox.lightning.force.com",
+            "visitingUrl": "crossover--fullshared.sandbox.lightning.force.com/lightning/r/Opportunity/006F300000cPeDeIAK/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 6,
+            "mouse": 15,
+            "date": "2024-06-12T07:28:00Z",
+            "windowTitle": "ArtemTest TestTest - Principal Software Architect | Application | Salesforce - Google Chrome",
+            "processName": "crossover--fullshared.sandbox.lightning.force.com",
+            "visitingUrl": "crossover--fullshared.sandbox.lightning.force.com/lightning/r/Opportunity/006F300000cPeDeIAK/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 4,
+            "mouse": 32,
+            "date": "2024-06-12T07:29:00Z",
+            "windowTitle": "sfdx ? ApplicationStagesSingleton",
+            "processName": "idea64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-12T07:20:00Z"
+}

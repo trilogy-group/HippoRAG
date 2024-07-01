@@ -1,0 +1,362 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "meet.google.com",
+    "mail.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T15:20:11Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes notifications, language input, sound, network, and date/time display.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - qtv-ugaf-ywq - Google Chrome",
+                "url": "meet.google.com/qtv-ugaf-ywq",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Address bar visible with URL. Navigation buttons, extensions, and user profile icon present."
+                },
+                "content": [
+                  {
+                    "title": "Meet - qtv-ugaf-ywq - Google Chrome",
+                    "layoutDescription": "video conference interface",
+                    "visibleText": "Participant thumbnails, mute, camera, and presentation controls visible."
+                  }
+                ],
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Dita",
+                      "expression": "focused"
+                    },
+                    {
+                      "name": "Marcelo Skaba",
+                      "expression": "presenting"
+                    },
+                    {
+                      "name": "Omar Ortiz",
+                      "expression": "listening"
+                    },
+                    {
+                      "name": "Kathy Slowinski",
+                      "expression": "thinking"
+                    },
+                    {
+                      "name": "Leon Lima",
+                      "expression": "tired"
+                    },
+                    {
+                      "name": "Jozsef Czapovics",
+                      "expression": "listening"
+                    },
+                    {
+                      "name": "Mit Horowitz",
+                      "expression": "blurred"
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Weekly Progress Report - TPM-Eng - Google Chrome",
+                "url": "docs.google.com",
+                "position": "maximized",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Google Docs interface with tabs for Gmail, Google Meet, and a Google Docs document."
+                },
+                "content": [
+                  {
+                    "title": "Weekly Progress Report - TPM-Eng",
+                    "layoutDescription": "Google Docs interface",
+                    "visibleText": "Weekly Progress Report - TPM-Eng\n\n1. Engineering\n a. WebMethods\n i. We have reached out to SoftwareAG and they are working out the details internally.\n ii. Our needs solution license agreements to get the WebMethods installers.\n iii. SC will prepare the use cases and detailed instrumentation.\n iv. We will build WebMethods environment with their assistance.\n\nPlan week 23\n Deliver Messenger Support 1.4.7 - 1.4.11 Version\n Complete design for Messenger: Supervisor new DB and deliver it.\n Start building WebMethods testing environment and related mini spec.\n\nUpdated priorities for Q2 are here.\n\nCustomer rollout & Engagement - B2: Jigsaw: Messenger - Platform Upgrade\n\nAdoption Funnel\n # total customers 68 ($26M)\n # selected for early rollout 20 ($0.89M)\n - No response 11\n - Declined/Not Interested 3\n - interested/requested if blanks/keys 4 ($1.6M)\n - deployed in test 1 ($0M)\n - deployed in prod 0 ($0M)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T15:23:47Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, File Explorer, and other unidentified applications. System tray includes network, sound, and clock (6:23 PM) icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "XO Team Chat - Chat - Google Chrome",
+                "url": "mail.google.com/chat/u/0/#chat/spaces",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, Google account avatar, and Chrome control buttons (minimize, maximize, close)."
+                },
+                "content": [
+                  {
+                    "title": "XO Team Chat",
+                    "layoutDescription": "Chat interface with sidebar and main chat area",
+                    "visibleText": "Chat\nNew chat\nShortcuts\nHome 5\nMentions 3\nStarred\nDirect messages 4\nInfluitive <-> PM in 7 min\nDmitrii Shutkenov\nTristan Muniz\nBogdan Tenea\nMichael Madume\nHoward Abrams\nAnuj, Joe, Jozsef\nMuhammad Javed\nSpaces\n1\nGFI BU/CE/TPM Management\nXO Team Chat\nCNU AI Assist - Extract Documents\nSamy's VPs Gen AI Adoption\nFeature Line automations\nCNU Q Business Product Management\nTPM reboot\nCrossover - Upwork Sourcing\nXO Candidate Support Escalation\nAWS News\nCentral PMs team\nAI Coach - internal\nWS.Eng Bot App\nWednesday (2024-06-05) Daily Status Update\n2 replies 2:23 PM\nsingle XO figma I am aware of\nhttps://www.figma.com/design/Zs34StDkXljzYhNx Yefimenko @Michael Madume @Artem Melnikov - no proposals for AI Friday from you (https://aws-lambda.atlassian.net/jira/dashboards ?\n1 unread 2 replies 38 min ago"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T15:28:40Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, Widgets, File Explorer, Microsoft Edge, and several unidentified applications. System tray includes network status, sound volume, battery indicator, language selector (ENG), and clock (6:28 PM, 05/06/24).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Samy's Original VP TPMs - Chat - Google Chrome",
+                "url": "mail.google.com/mail/u/0/#chat",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "spa tabs, address...  Read More",
+                  "highlightedElement": "Chat interface with sidebar and main chat area",
+                  "content": [
+                    {
+                      "title": "Chat Window",
+                      "layoutDescription": "Chat interface with sidebar and main chat area",
+                      "visibleText": "Omar, Benji - 3 members\nOmar Ortiz created this chat today\nHISTORY IS ON\nMessages sent with history on are saved\nOmar Ortiz added Dragos Nutza, Benji Bizzell\n1 unread\nToday\nOmar Ortiz 12 min\nHey @Dragos Nutza - how did Tariq add seats to Kayako for users wanting to use the Kayako AI chrome extension?\nI know this issue came up where the user needed an agent (once they exceeded their current count) and Tariq resolved it.\nI wasn't able to find anything in the handover documentation.\nLet me take a look No idea! Give me a call\nwe agreed with support that we can ask them to add a seat and"
+                    }
+                  ]
+                }
+              },
+              {
+                "appName": "Chrome",
+                "windows": [
+                  {
+                    "title": "Samy's Original VP TPMs - Chat - Google Chrome",
+                    "url": "mail.google.com/mail/u/0/#chat",
+                    "position": "center",
+                    "isActive": true,
+                    "uiElements": {
+                      "details": "spa tabs, address bar, navigation buttons, profile icon, extensions, and menu button."
+                    },
+                    "highlightedElement": "Chat interface with sidebar and main chat area",
+                    "content": [
+                      {
+                        "title": "Chat Window",
+                        "layoutDescription": "Chat interface with sidebar and main chat area",
+                        "visibleText": "Omar, Benji - 3 members\nOmar Ortiz created this chat today\nHISTORY IS ON\nMessages sent with history on are saved\nOmar Ortiz added Dragos Nutza, Benji Bizzell\n1 unread\nToday\nOmar Ortiz 12 min\nHey @Dragos Nutza - how did Tariq add seats to Kayako for users wanting to use the Kayako AI chrome extension?\nI know this issue came up where the user needed an agent (once they exceeded their current count) and Tariq resolved it.\nI wasn't able to find anything in the handover documentation.\nLet me take a look No idea! Give me a call\nwe agreed with support that we can ask them to add a seat and"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Samy's Original VP TPMs - Chat - Google Chrome",
+                "url": "mail.google.com/mail/u/0/#chat",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "spa tabs, address bar, navigation buttons, profile icon, extensions, and menu button."
+                },
+                "highlightedElement": "Chat interface with sidebar and main chat area",
+                "content": [
+                  {
+                    "title": "Chat Window",
+                    "layoutDescription": "Chat interface with sidebar and main chat area",
+                    "visibleText": "Omar, Benji - 3 members\nOmar Ortiz created this chat today\nHISTORY IS ON\nMessages sent with history on are saved\nOmar Ortiz added Dragos Nutza, Benji Bizzell\n1 unread\nToday\nOmar Ortiz 12 min\nHey @Dragos Nutza - how did Tariq add seats to Kayako for users wanting to use the Kayako AI chrome extension?\nI know this issue came up where the user needed an agent (once they exceeded their current count) and Tariq resolved it.\nI wasn't able to find anything in the handover documentation.\nLet me take a look No idea! Give me a call\nwe agreed with support that we can ask them to add a seat and"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is participating in a Google Meet video conference, as evidenced by the screenshot showing the Google Meet interface with multiple participants. The user is viewing a 'Weekly Progress Report' document in Google Docs, which includes detailed information about engineering tasks, customer rollout, and engagement metrics. The document outlines tasks such as delivering Messenger Support versions, designing new DB versions, and building WebMethods testing environments.",
+    "The user is actively engaged in team communication through Google Chat. The screenshot shows the 'XO Team Chat' space where the user is discussing daily status updates and sharing links to Figma designs. The chat includes mentions of team members and discussions about proposals for AI Friday. This indicates that the user is collaborating with team members and sharing project-related information.",
+    "The user is also involved in another Google Chat conversation in the 'Omar, Benji' chat space. The chat includes a discussion about adding seats to Kayako for users wanting to use the Kayako AI Chrome extension. The user is seeking information on how to resolve an issue related to agent count and mentions a previous resolution by a team member named Tariq. This shows the user's involvement in troubleshooting and resolving team issues."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in video conferencing and team communication through Google Meet and Google Chat, respectively. There are no visible interactions with AI chat interfaces or AI-driven tools in the screenshots.",
+  "activities": [
+    "MEETING",
+    "READING_SPEC",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T15:20:55Z",
+      "windowTitle": "Meet - qtv-ugaf-ywq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/qtv-ugaf-ywq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T15:21:55Z",
+      "windowTitle": "Meet - qtv-ugaf-ywq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/qtv-ugaf-ywq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 6,
+      "mouse": 5,
+      "date": "2024-06-05T15:22:55Z",
+      "windowTitle": "Dmitrii Shutenkov - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/mFrPdMAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 231,
+      "mouse": 2,
+      "date": "2024-06-05T15:23:55Z",
+      "windowTitle": "XO Team Chat - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/chat/u/0/#chat/space/AAAA8ETEWyA",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 109,
+      "mouse": 12,
+      "date": "2024-06-05T15:24:55Z",
+      "windowTitle": "Meet - qtv-ugaf-ywq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/qtv-ugaf-ywq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 1,
+      "mouse": 1,
+      "date": "2024-06-05T15:25:55Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/popout?ver=1lgb5q4k8ar9m&search=inbox&th=%23thread-f%3A1800957149650155093&cvid=8",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 13,
+      "mouse": 8,
+      "date": "2024-06-05T15:26:55Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/popout?ver=1lgb5q4k8ar9m&search=inbox&th=%23thread-f%3A1800983534583478517&cvid=9",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 132,
+      "mouse": 13,
+      "date": "2024-06-05T15:27:55Z",
+      "windowTitle": "George Dita - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/sKno1MAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 198,
+      "mouse": 16,
+      "date": "2024-06-05T15:28:55Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAhwn64Tw",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 56,
+      "mouse": 13,
+      "date": "2024-06-05T15:29:55Z",
+      "windowTitle": "Inbox - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T15:20:00Z"
+}

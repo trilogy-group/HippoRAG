@@ -1,0 +1,200 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "docs.google.com",
+    "meet.google.com",
+    "mail.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T16:00:37Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, widgets, file explorer, Microsoft Edge, and system tray with time, Wi-Fi, sound, and battery status icons",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - mns-wkxc-dga - Google Chrome",
+                "url": "https://meet.google.com/mns-wkxc-dga",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, extensions icons, profile icon, minimize, maximize, close buttons"
+                },
+                "content": [
+                  {
+                    "title": "In-call messages",
+                    "layoutDescription": "Sidebar on the right",
+                    "visibleText": "Unless they're pinned, messages can only be seen by people in the call when the message is sent. All messages are deleted when the call ends.\n\nDavid's Assistant 9:31 AM\nDavid and Shawn added read.ai meeting notes to the meeting (recording enabled).\n\nRead will generate a transcript of this meeting.\nReview our Terms of Service at https://read.ai/tos and Privacy Policy at https://read.ai/pp.\n\nType 'read stop' to disable, or 'opt out' to delete meeting data.\n\nView Privacy Policy: https://www.read.ai/pp\n\nPhil Hewinson 9:46 AM\nhttps://docs.google.com/document/d/1wRJCIDXbF 9:47 AM\nhttps://docs.google.com/spreadsheets/d/1r912L"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Google Meet video conference, as evidenced by the screenshot showing multiple participants in a meeting. The meeting appears to be focused on a budget discussion for Q3, as indicated by the title 'Q3 Budget - PBM1 - GT School' at the bottom of the screen. The user is actively participating in the meeting, with the sidebar showing in-call messages that include links to Google Docs and Google Sheets, suggesting that the user is also referencing or discussing these documents during the meeting.",
+    "The user is also involved in reading and possibly discussing documents and spreadsheets. The in-call messages sidebar shows links to a Google Doc and a Google Sheet, which are likely being used as reference materials or collaborative documents for the meeting. The Google Doc link points to a document with the ID '1wRJiCDXbFF0pR2cSKCtEeEa5BQWZFem1vLqOqLAI2ic', and the Google Sheet link points to a spreadsheet with the ID '19t2L4FosU9WLYwDFYdDf6EbfMwMUkto9JOJdjZXw57U'. These documents are likely related to the budget discussion mentioned in the meeting title.",
+    "The user is also using Google Mail, as indicated by the list of apps recorded with user activity. The specific activities within Google Mail are not detailed in the screenshot, but it is likely that the user is checking or sending emails, possibly related to the meeting or other work tasks. The presence of Google Mail in the list of active apps suggests that email communication is a part of the user's workflow during this period."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots or data. The user is primarily engaged in a Google Meet video conference, referencing Google Docs and Google Sheets, and using Google Mail. There are no visible interactions with AI tools such as AI_IDE_EXTENSION, ChatGPT, or Shortwave in the provided data. Therefore, it can be concluded that AI tools were not utilized during this specific timeframe.",
+  "activities": [
+    "MEETING",
+    "READING_SPEC",
+    "EMAIL"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 5,
+      "date": "2024-06-12T16:00:45Z",
+      "windowTitle": "LearnWith.ai Q3 2024 Budget Update - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1wRJiCDXbFF0pR2cSKCtEeEa5BQWZFem1vLqOqLAI2ic/edit#heading=h.vbhqvcs88jdp",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 15,
+      "date": "2024-06-12T16:01:45Z",
+      "windowTitle": "GT School Q3'24 Budget Details - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/19t2L4FosU9WLYwDFYdDf6EbfMwMUkto9JOJdjZXw57U/edit#gid=658915472&range=S:V",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 7,
+      "date": "2024-06-12T16:02:45Z",
+      "windowTitle": "GT School Q3'24 Budget Details - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/19t2L4FosU9WLYwDFYdDf6EbfMwMUkto9JOJdjZXw57U/edit#gid=658915472",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 9,
+      "date": "2024-06-12T16:03:45Z",
+      "windowTitle": "GT School Q3'24 Budget Details - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/19t2L4FosU9WLYwDFYdDf6EbfMwMUkto9JOJdjZXw57U/edit#gid=658915472",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 8,
+      "date": "2024-06-12T16:04:45Z",
+      "windowTitle": "Meet - mns-wkxc-dga - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/mns-wkxc-dga?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 74,
+      "mouse": 16,
+      "date": "2024-06-12T16:05:45Z",
+      "windowTitle": "Meet - mns-wkxc-dga - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/mns-wkxc-dga?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 7,
+      "date": "2024-06-12T16:06:45Z",
+      "windowTitle": "Meet - mns-wkxc-dga - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/mns-wkxc-dga?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-12T16:07:45Z",
+      "windowTitle": "Meet - mns-wkxc-dga - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/mns-wkxc-dga?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 64,
+      "mouse": 12,
+      "date": "2024-06-12T16:08:45Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/4VJ_N0AAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 94,
+      "mouse": 18,
+      "date": "2024-06-12T16:09:45Z",
+      "windowTitle": "AI Assist on WorkSmart - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-12T16:00:00Z"
+}

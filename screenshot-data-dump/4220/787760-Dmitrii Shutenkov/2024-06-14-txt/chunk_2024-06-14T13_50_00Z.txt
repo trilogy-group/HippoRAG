@@ -1,0 +1,276 @@
+{
+    "candidateId": 1444536,
+    "apps": [
+        "docs.aws.amazon.com",
+        "cmd",
+        "Notepad",
+        "us-east-1.console.aws.amazon.com",
+        "chatgpt.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T13:51:28Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, Edge, File Explorer, and several pinned applications. System tray includes network, sound, and clock icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Working with .zip file archives for Python Lambda functions - AWS Lambda - Google Chrome",
+                                "url": "https://docs.aws.amazon.com/lambda",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, AWS management console menu, and browser extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "AWS Lambda Developer Guide",
+                                        "layoutDescription": "Web page layout with navigation sidebar on the left and main content on the right",
+                                        "visibleText": "AWS Lambda Developer Guide\n\nRecently added to this guide Preview\nTutorial: Using an Amazon MSK event source mapping to invoke a Lambda function June 14, 2024\nGranting other AWS entities access to your Lambda functions June 8, 2024\nWorking with AWS managed policies in the execution role June 8, 2024\nView all\n\nWhat is AWS Lambda?\n\nGetting started\n\nDeveloper Guide\n\npython3.x represents the version of the runtime you're using) or /opt/python. In the search path, these directories have precedence over the directories containing the runtime-included libraries and pip-installed libraries (/var/runtime and /var/lang/lib/python3.x/site-packages). Libraries in function layers therefore have precedence over versions included in the runtime.\n\nNote\nIn the Python 3.11 managed runtime and base image, the AWS SDK and its dependencies are installed in the /var/lang/lib/python3.11/site-packages directory.\n\nYou can see the full search path for your Lambda function by adding the following code snippet.\n\nimport sys\nsearch_path = sys.path\nprint(search_path)\n\nNote\nBecause dependencies in your deployment package or layers take precedence over runtime-included libraries, this can cause version misalignment problems if you include an SDK dependency such as urllib3 in your package without including the SDK as well. If you deploy your own version of a Boto3 dependency, you must also deploy Boto3 as a separate layer to avoid version conflicts."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T13:55:16Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Chrome, Anaconda Navigator, IntelliJ IDEA, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Adobe Acrobat Reader, File Explorer, and system tray with network, sound, and clock",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Salesforce SOQL Query Python - Google Chrome",
+                                "url": "chatgpt.com/c/0dda060a-caa8-47b5-a",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "address bar, tabs, bookmarks bar, and vertical scrollbar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Step 2: Create a New Lambda Function",
+                                        "layoutDescription": "Text content in list format",
+                                        "visibleText": "\u2022 Package the libraries from the virtual environment along with your Lambda code into a ZIP file.\n\nStep 2: Create a New Lambda Function\n\n1. Log in to your AWS Management Console.\n2. Navigate to the AWS Lambda service.\n3. Click on Create function.\n4. Choose Author from scratch.\n5. Enter the Function name, for example, `MyPythonLambda`.\n6. Select Python 3.8 (or another version that supports your code) as the Runtime.\n7. For the Execution role, choose an existing role or create a new role from AWS policy templates. This role should have permissions to execute Lambda functions and access any other AWS resources your function needs.\n\nStep 3: Upload Your Code\n\n1. Under the Function code section, choose \"Upload from\" and select .zip file."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T13:58:20Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Microsoft Edge, File Explorer, Windows Security, and system tray with network, sound, and clock indicators",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Salesforce SOQL Query Python - Google Chrome",
+                                "url": "chatgpt.com/c/0dda060a-caa8-47b5-a",
+                                "position": "top",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, and browser controls"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Step 3: Upload Your Code",
+                                        "layoutDescription": "Text content in structured steps",
+                                        "visibleText": "6. Select Python 3.8 (or another version that supports your code) as the Runtime.\n7. For the Execution role, choose an existing role or create a new role from AWS policy templates. This role should have permissions to execute Lambda functions and access any other AWS resources your function needs.\n\nStep 3: Upload Your Code\n1. Under the Function code section, choose \"Upload from\" and select .zip file.\n2. Click on Upload and select the ZIP file you prepared earlier containing your Python code and any dependencies.\n3. Set the Handler information. This is the file and method AWS Lambda calls when your function is invoked. For a file named 'lambda_function.py' with a function named 'lambda_handler', you would set this to 'lambda_function.lambda_handler'.\n\nStep 4: Configure Runtime Settings\n1. Go to the Runtime settings section.\n2. Verify or set the Handler name correctly, ensuring it matches the entry point in your Python code (e.g., 'lambda function.lambda handler')."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in researching AWS Lambda functions. They are viewing the AWS Lambda Developer Guide on the official AWS documentation site. The content they are reading includes information on the Python 3.11 managed runtime and base image, the AWS SDK, and its dependencies. They are also looking at code snippets for setting the search path for Lambda functions and understanding the precedence of libraries in the runtime environment.",
+        "The user is also utilizing ChatGPT for guidance on creating a new Lambda function. They are following a step-by-step guide provided by ChatGPT, which includes instructions on logging into the AWS Management Console, navigating to the AWS Lambda service, creating a new function, and setting up the execution role. The guide also covers uploading code and configuring runtime settings for the Lambda function.",
+        "Throughout the session, the user is switching between different tabs in Google Chrome. They are actively engaged in reading specifications and researching how to package libraries from a virtual environment along with Lambda code into a ZIP file. This indicates a focus on understanding and implementing best practices for deploying Python code in AWS Lambda."
+    ],
+    "aiUseSummary": "The user is leveraging ChatGPT for detailed guidance on creating and configuring AWS Lambda functions. They are following a structured guide provided by ChatGPT, which includes steps for logging into the AWS Management Console, creating a new Lambda function, setting up the execution role, and uploading code. This interaction with ChatGPT helps the user understand the process and ensures they follow the correct steps, enhancing their productivity and task efficiency.",
+    "activities": [
+        "READING_SPEC",
+        "RESEARCH"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [
+        "PYTHON"
+    ],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "OPENAI_CHATGPT"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "RESEARCH",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 47,
+            "mouse": 10,
+            "date": "2024-06-14T13:50:25Z",
+            "windowTitle": "Working with .zip file archives for Python Lambda functions - AWS Lambda - Google Chrome",
+            "processName": "docs.aws.amazon.com",
+            "visitingUrl": "docs.aws.amazon.com/lambda/latest/dg/python-package.html",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 10,
+            "mouse": 2,
+            "date": "2024-06-14T13:51:25Z",
+            "windowTitle": "Working with .zip file archives for Python Lambda functions - AWS Lambda - Google Chrome",
+            "processName": "docs.aws.amazon.com",
+            "visitingUrl": "docs.aws.amazon.com/lambda/latest/dg/python-package.html",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 12,
+            "mouse": 13,
+            "date": "2024-06-14T13:52:25Z",
+            "windowTitle": "AWS Lambda Documentation - Google Chrome",
+            "processName": "docs.aws.amazon.com",
+            "visitingUrl": "docs.aws.amazon.com/lambda/",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 37,
+            "mouse": 8,
+            "date": "2024-06-14T13:53:25Z",
+            "windowTitle": "Administrator: Command Prompt",
+            "processName": "cmd",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 51,
+            "mouse": 9,
+            "date": "2024-06-14T13:54:25Z",
+            "windowTitle": "*aws lambda create-function  - Notepad",
+            "processName": "Notepad",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 6,
+            "mouse": 14,
+            "date": "2024-06-14T13:55:25Z",
+            "windowTitle": "Create function | Functions | Lambda - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/create/function",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 14,
+            "mouse": 15,
+            "date": "2024-06-14T13:56:25Z",
+            "windowTitle": "Create function | Functions | Lambda - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/create/function",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 5,
+            "date": "2024-06-14T13:57:25Z",
+            "windowTitle": "Create function | Functions | Lambda - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/create/function",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 6,
+            "mouse": 2,
+            "date": "2024-06-14T13:58:25Z",
+            "windowTitle": "Salesforce SOQL Query Python - Google Chrome",
+            "processName": "chatgpt.com",
+            "visitingUrl": "chatgpt.com/c/0dda060a-caa8-47b5-acfb-08cca56a5dd5",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 7,
+            "mouse": 3,
+            "date": "2024-06-14T13:59:25Z",
+            "windowTitle": "*aws lambda create-function  - Notepad",
+            "processName": "Notepad",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T13:50:00Z"
+}

@@ -1,0 +1,347 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "meet.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-04T11:11:33Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Microsoft Edge, File Explorer, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '2:11 PM 6/4/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Factory status May 2024 (TPM/Eng) - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help. Toolbar with undo, redo, print, spelling and grammar check, zoom settings, and styling options"
+                },
+                "content": [
+                  {
+                    "title": "Factory status May 2024 (TPM/Eng)",
+                    "layoutDescription": "Text document layout",
+                    "visibleText": "Factory status April 2024 (TPM/Eng)\n\n— Summary\n\nKanban Slots\nJigsaw (1 slot)\nIgniteTech #1: Security\nIgniteTech #2: Copilot\nIgniteTech Maintenance\nGFI (1 slot)\nInfluitive (2 slots)\nStratifyd (1 slot)\nCrossover (1 slot)\nApplied AI (1 slot)\nTelco (3 slots + 1 Ops slot)\nTPM only slots (1 slot)\nMaintenance Delivery scorecard\nBurndown charts - road to zero...\nAll BUs\nIgniteTech\nCopperTree\nJigsaw\nInfluitive\n Delivery\nIn numbers:\n15 commit goals: 6 completed, 7 on track, 2 off track (of which, one is at high risk)\n17 stretch goals: 2 deprioritized, 3 on track, 2 off track\n8 new goals (added during Q2): 1 completed, 3 on track, 4 off track (of which, some goals are not aligned with the year's strategy)\nWhat went well:\nResponded well to changing BU priorities - took over and made progress on many fronts\nDid much better in meeting commitments - we will deliver all but one of the items promised\nTurned around the Messenger slot - delivered more than planned\nWhat did not go well:\nCustomer adoption is low and remains low (details below)\n\nMaintenance\nWe are on track to deliver. We have already delivered 88% of our Q2 orders (goal was 100%)\nWe removed 62% of our backlog in Q2 so far and are on track to eliminate our backlog.\nOur backlog goal will go down when we remove our backlog.\nYou can find the delivery scorecard and the burndown charts at the bottom of the document\n\nEarly Customer Adoption\nPMs hired in April were assigned to 3 BUs (Ignite, Jigsaw, Influitive). We made progress but customer adoption remains low:\nWe sent out 20 customers, 4 customers showed interest, none has converted to a sale yet.\nMajority of until now the new version is proven stable or are mid-upgrade with us.\n\nWhat went well:\nWe focused on customer problems - conducted calls to understand their problems (focus on business value, product fit for features), get them to upgrade (for defense projects)\nStages, help them use the analyzing (use AI e.g. [Live or Copilot Usage Report]) and acting upon it\nWhat did not go well:\nWe started without a clear framework and spent a time aligning expectations, navigating our org, or doing work that we did actually believe to be in our scope\nWe focused on a subset of customers which we believed to be more interested and got low response rates. We should have contacted all customers to increase the size of the early adoption pool."
+                  }
+                ]
+              },
+              {
+                "title": "Meet - aqm-tpng-aqq - Google Chrome",
+                "url": "https://meet.google.com/aqm-tpng-a",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Video conference controls including microphone, camera, and settings"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Gomi",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "George Dita",
+                      "expression": "Neutral"
+                    },
+                    {
+                      "name": "Dragos Nuta",
+                      "expression": "Neutral"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T11:14:26Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Search, Edge, Windows, Mail, Calendar, Photos, and more. System tray includes network, sound, and clock (2:14 PM, 6/4/2024)",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - aqm-tpng-aqq - Google Chrome",
+                "url": "meet.google.com/aqm-tpng-aqq",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "multiple tabs, address bar, navigation buttons, Meet controls"
+                },
+                "content": [
+                  {
+                    "title": "Google Meet Video Call",
+                    "layoutDescription": "Video call layout",
+                    "visibleText": "George Dita (Presenting), Firat Gomi, Dragos Nuta"
+                  }
+                ]
+              },
+              {
+                "title": "Aura Messenger - Details for Customer Outreach",
+                "position": "center",
+                "isActive": false,
+                "uiElements": {
+                  "details": "spreadsheet tools, navigation buttons"
+                },
+                "content": [
+                  {
+                    "title": "Aura Messenger - Details for Customer Outreach",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "Summary, Customer Name, Contact Person, Email, Conclusion, Early Adopter Lead, Outreach, Kemper, NATAD Reporting Centre, Corporation Service Company, Java 11, Arlen Wilson, phwilson@kemper.com, scheduled interview, called responsive, yes, yes, Defense Logistics, Tech Regulatory Council of Estonia, Java 11, Bohdan Andriichuk, gran.loga@defest.com, no plans to upgrade, no response on call/email responsive, no, no, Helmes, Java 11, Rait Ots, rait.ots@helmes.ee, no response on call/email responsive, no, no, Magellan, Java 11, Matt Bundega, matt.bundega@magellan.net, does not know if they have plans, interviewed on 21st May, no, yes, Broadridge, Java 11, Engelbert Arlingston, engelbert.arlingston@broadridge.com, asked for status, requested release, no, yes, Heathrow - PlatformSmart, Java 11, Samuel Adler, samuel.adler@platformsmart.com, requested release, requested release, no, yes"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T11:19:07Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "Taskbar for Google Chrome, File Explorer, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '2:19 PM 6/4/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Factory status May 2024 (TPM/Eng) - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "left half of the screen",
+                "isActive": true,
+                "highlightedElement": "Document title",
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help. Toolbar with undo, redo, print, spelling and grammar check, zoom settings, styles, and formatting options."
+                },
+                "content": [
+                  {
+                    "title": "Factory status May 2024 (TPM/Eng)",
+                    "layoutDescription": "Document layout with text and bullet points",
+                    "visibleText": "Factory status April 2024 (TPM/Eng)\n\nSummary\n\nSlot Delivery\nIn numbers:\n15 commit goals: 6 completed, 7 on track, 2 at risk\n7 stretch goals: 2 deprioritized, 3 on track, 2 at risk\n8 new goals (added during Q2): 1 completed\nWhy are we adding new goals?\n\nWhat went well:\nResponded well to changing BU priorities\nDid much better in meeting commit dates\nTurned around the Messenger slot - delivered on time\nWhat did not go well:\nCustomer adoption is low and remaining flat\n\nMaintenance\nMaintenance had a great month. We have already met and are on track to overdeliver for all BUs.\nWe removed 62% of our backlog in Q2 so far and expect to remove more.\nOur backlog will go down when we deliver on our promises.\nYou can find the delivery scorecard and the burn down charts in the CopperTree section.\n\nEarly Customer Adoption\nPMs hired in April were assigned to 3 BUs (IgniteTech, Jigsaw, CopperTree) with mixed results.\nMessenger: Of 20 customers, 4 customers activated. We should have contacted all customers to verify initial use and satisfaction.\nJive Cloud AI Copilot: 2 customers activated. Outreach started.\nInfluitive AI feature: outreach started.\nWhat went well:\nFocus on customer problems - conducted deep dives into their issues (early stages), help them use the product (focus on usability).\nFocus on business value: analyzing user feedback to improve features.\nWhat did not go well:\nWe started without a clear framework for measuring success.\nDoing work that we did actually believe in was deprioritized.\nWe focused on a subset of customers' needs, not the full range of their rates. We should have contacted all customers to verify initial use and satisfaction."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Meet - aqm-tpng-aqq - Google Chrome",
+                "url": "https://meet.google.com/aqm-tpng-a",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Conference controls including microphone, camera, raise hand, and more. Participant list and chat sidebar."
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "George Dita",
+                      "expression": "looking upwards"
+                    },
+                    {
+                      "name": "Firat Gomi",
+                      "expression": "looking directly at the camera"
+                    },
+                    {
+                      "name": "Dragos Nutu",
+                      "expression": "looking thoughtful"
+                    }
+                  ]
+                },
+                "content": [
+                  {
+                    "title": "Meet - aqm-tpng-aqq",
+                    "layoutDescription": "Video conference layout",
+                    "visibleText": "George Dita\nFirat's AI Notetaker\nDragos Nutu\nProduct Daily...\nread.ai meeting notes"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Google Meet video conference call with multiple participants, including George Dita, Firat Gomi, and Dragos Nutu. The meeting appears to be a product daily check-in, as indicated by the visible text in the video conference layout. During the call, George Dita is presenting a spreadsheet titled 'Aura Messenger - Details for Customer Outreach,' which includes columns for customer names, contact persons, emails, conclusions, early adopter leads, and outreach statuses. The user is actively participating in the meeting, as evidenced by the visible video conference controls and participant list.",
+    "In addition to the video conference, the user is also viewing a Google Docs document titled 'Factory status May 2024 (TPM/Eng).' The document contains a detailed summary of the factory status for April 2024, including sections on slot delivery, maintenance, and early customer adoption. The document outlines the number of commit goals, stretch goals, and new goals, along with what went well and what did not go well in each category. The user is likely reviewing the document in preparation for or during the meeting, as it is open and visible on the left half of the screen.",
+    "Throughout the captured timeframe, the user remains focused on the Google Meet video conference and the Google Docs document. The user does not appear to be actively writing or editing code, as there are no IDEs or code editors visible in the screenshots. The primary activities involve participating in the meeting, reviewing the presented spreadsheet, and reading the factory status document. The user is also utilizing the video conference controls to manage their participation in the meeting, such as muting/unmuting the microphone and viewing the participant list."
+  ],
+  "aiUseSummary": "The user is utilizing AI tools during the Google Meet video conference. Specifically, Firat's AI Notetaker and read.ai meeting notes are visible as participants in the meeting. These AI tools are likely being used to transcribe the meeting, take notes, and possibly provide summaries or action items based on the discussion. The presence of these AI tools indicates that the user is leveraging AI to enhance productivity and ensure accurate documentation of the meeting's content and outcomes.",
+  "activities": [
+    "READING_SPEC",
+    "MEETING"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [
+    "DEVFACTORY_TPM_AI"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 100,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T11:10:09Z",
+      "windowTitle": "Meet - aqm-tpng-aqq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/aqm-tpng-aqq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 21,
+      "mouse": 10,
+      "date": "2024-06-04T11:11:09Z",
+      "windowTitle": "Meet - aqm-tpng-aqq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/aqm-tpng-aqq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 3,
+      "mouse": 0,
+      "date": "2024-06-04T11:12:09Z",
+      "windowTitle": "Meet - aqm-tpng-aqq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/aqm-tpng-aqq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T11:13:09Z",
+      "windowTitle": "Meet - aqm-tpng-aqq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/aqm-tpng-aqq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T11:14:09Z",
+      "windowTitle": "Meet - aqm-tpng-aqq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/aqm-tpng-aqq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T11:15:09Z",
+      "windowTitle": "Meet - aqm-tpng-aqq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/aqm-tpng-aqq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 8,
+      "date": "2024-06-04T11:16:09Z",
+      "windowTitle": "Meet - aqm-tpng-aqq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/aqm-tpng-aqq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-04T11:17:09Z",
+      "windowTitle": "Meet - aqm-tpng-aqq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/aqm-tpng-aqq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-04T11:18:09Z",
+      "windowTitle": "Meet - aqm-tpng-aqq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/aqm-tpng-aqq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T11:19:09Z",
+      "windowTitle": "Meet - aqm-tpng-aqq - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/aqm-tpng-aqq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-04T11:10:00Z"
+}

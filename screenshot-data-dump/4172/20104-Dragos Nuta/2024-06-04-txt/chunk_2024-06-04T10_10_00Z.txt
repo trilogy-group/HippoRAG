@@ -1,0 +1,408 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "Zoom"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-04T10:12:21Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Chrome, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes network, sound, and clock (1:12 PM, 6/24/24)",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "AI Assist",
+                                "url": "https://ai-assist.crossover.com",
+                                "position": "left",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "navigation sidebar with contacts and main chat area"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat with AI Assist",
+                                        "layoutDescription": "Split view with sidebar",
+                                        "visibleText": "AI Assist 10:55 AM Hello Dragos (Admin), enter a AI Assist 10:55 AM Thanks! The email dragos.nuta@trilogy.com (Admin), You are now set to ch"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Zoom Meeting 40-Minutes",
+                                "position": "center",
+                                "isActive": true,
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "Jozsef Capovics",
+                                            "expression": "speaking"
+                                        },
+                                        {
+                                            "name": "Dragos Nuta",
+                                            "expression": "listening"
+                                        }
+                                    ]
+                                },
+                                "uiElements": {
+                                    "details": "controls include mute, stop video, security, share screen, apps, notes, more, and end call button"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Zoom Video Call",
+                                        "layoutDescription": "Video call interface",
+                                        "visibleText": "Jozsef Capovics Dragos Nuta"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "ai-driven",
+                        "windows": [
+                            {
+                                "title": "ai-driven",
+                                "position": "right",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "navigation and settings icons visible"
+                                },
+                                "content": [
+                                    {
+                                        "title": "ai-driven",
+                                        "layoutDescription": "empty interface",
+                                        "visibleText": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T10:13:27Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Chrome, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '1:13 PM'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "AI Assist",
+                                "url": "https://ai-assist.crossover.com",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, and vertical sidebar with contacts and chat threads"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat Window",
+                                        "layoutDescription": "Vertical layout",
+                                        "visibleText": "AI Assist\n10:55 AM\nHello Dragos (Admin), enter a\n\nAI Assist\n10:55 AM\nThanks! The email dragos.nuta@trilogy.com (Admin), You are now set to chat with AI Assist."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Zoom Meeting 40-Minutes",
+                                "url": "",
+                                "position": "center of the screen",
+                                "isActive": true,
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "Jozsef Capovics",
+                                            "expression": "speaking"
+                                        },
+                                        {
+                                            "name": "Dragos Nuta",
+                                            "expression": "listening"
+                                        }
+                                    ]
+                                },
+                                "uiElements": {
+                                    "details": "meeting controls including mute, stop video, security, share screen, apps, notes, more, and end call button"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Zoom Meeting",
+                                        "layoutDescription": "Video conference layout",
+                                        "visibleText": "Jozsef Capovics\nDragos Nuta"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "AI-driven",
+                        "windows": [
+                            {
+                                "title": "AI-driven",
+                                "position": "left side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "bar and user icon at the top, main area is blank"
+                                },
+                                "content": [
+                                    {
+                                        "title": "AI-driven",
+                                        "layoutDescription": "empty layout",
+                                        "visibleText": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T10:17:29Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Chrome, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes network, sound, and clock (time displayed as 1:17 PM, date as 6/24/24).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "AI Assist",
+                                "position": "left side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, and vertical sidebar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "AI Assist",
+                                        "layoutDescription": "Vertical layout",
+                                        "visibleText": "AI Assist\nHello Dragos (Admin), enter a\nAI Assist\n10:55 AM\nThanks! The email dragos.nuta@trilogy.com (Admin), You are now set to chat with AI Assist."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Zoom Meeting 40-Minutes",
+                                "position": "center of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "video controls, participant names, and video frames"
+                                },
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "Jozef Capovics",
+                                            "expression": "neutral"
+                                        },
+                                        {
+                                            "name": "Dragos Nuta",
+                                            "expression": "neutral"
+                                        }
+                                    ]
+                                },
+                                "content": [
+                                    {
+                                        "title": "Meeting 40-Minutes",
+                                        "layoutDescription": "Video conference layout",
+                                        "visibleText": "Jozef Capovics\nDragos Nuta"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "AI-driven",
+                        "windows": [
+                            {
+                                "title": "AI-driven",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "search bar and user icon"
+                                },
+                                "content": [
+                                    {
+                                        "title": "AI-driven",
+                                        "layoutDescription": "content area",
+                                        "visibleText": "Type your message here..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Zoom meeting, as evidenced by the active Zoom application in the center of the screen. The meeting participants include Jozsef Capovics, who appears to be speaking, and Dragos Nuta, who is listening. The Zoom interface shows standard controls such as mute, stop video, security, share screen, apps, notes, more, and end call button. The meeting seems to be ongoing, with the participants discussing or presenting something, as indicated by their expressions and the duration of the call.",
+        "In addition to the Zoom meeting, the user has a Chrome browser open with multiple tabs. One of the tabs is titled 'AI Assist' and is positioned on the left side of the screen. This tab shows a chat interface with an AI assistant, where the user, identified as Dragos (Admin), has received messages from the AI assistant. The messages include a greeting and a confirmation of the user's email address. The chat interface includes a navigation sidebar with contacts and main chat area.",
+        "Another Chrome tab titled 'ai-driven' is open on the right side of the screen. This tab appears to be inactive and shows a navigation and settings interface. The content area of this tab is mostly blank, indicating that the user is not actively interacting with this application during the captured timeframe. The taskbar at the bottom of the screen shows icons for Chrome, File Explorer, Microsoft Edge, and other unidentified applications, along with system tray icons for network, sound, and clock."
+    ],
+    "aiUseSummary": "The user is interacting with an AI assistant through a Chrome browser tab titled 'AI Assist'. The AI assistant has sent messages to the user, including a greeting and a confirmation of the user's email address. The user has not actively responded to the AI assistant during the captured timeframe. The AI assistant appears to be set up to assist the user with various tasks, but specific requests or responses from the user are not visible in the screenshots. The AI interaction is primarily focused on setting up and confirming user details.",
+    "activities": [
+        "MEETING"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "AI_IDE_EXTENSION"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T10:10:09Z",
+            "windowTitle": "Zoom Meeting 40-Minutes",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T10:11:09Z",
+            "windowTitle": "Zoom Meeting 40-Minutes",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T10:12:09Z",
+            "windowTitle": "Zoom Meeting 40-Minutes",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T10:13:09Z",
+            "windowTitle": "Zoom Meeting 40-Minutes",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T10:14:09Z",
+            "windowTitle": "Zoom Meeting 40-Minutes",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T10:15:09Z",
+            "windowTitle": "Zoom Meeting 40-Minutes",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T10:16:09Z",
+            "windowTitle": "Zoom Meeting 40-Minutes",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T10:17:09Z",
+            "windowTitle": "Zoom Meeting 40-Minutes",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T10:18:09Z",
+            "windowTitle": "Zoom Meeting 40-Minutes",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-04T10:19:09Z",
+            "windowTitle": "Zoom Meeting 40-Minutes",
+            "processName": "Zoom",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-04T10:10:00Z"
+}

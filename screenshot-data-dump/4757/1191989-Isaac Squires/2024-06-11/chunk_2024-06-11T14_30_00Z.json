@@ -1,0 +1,204 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "meet.google.com",
+    "docs.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-11T14:33:42Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Minimize, Core, DevFe, WS/E, DevF, Magic, GT Sc, Learn, Team, and a clock showing 8:33 AM",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Meet - jmu-ybin-ufc - Google Chrome",
+                "url": "meet.google.com/jmu-ybin-ufc",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, Google Meet controls"
+                },
+                "content": [
+                  {
+                    "title": "GT School Q3'24 Budget Details",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "A spreadsheet with multiple columns and rows displaying budget details. Columns include 'Charter/Region/State', 'GT School', 'FY', 'Q1', 'Q2', 'Q3', 'Q4', 'FY Total', 'Q1 Actual', 'Q2 Actual', 'Q3 Actual', 'Q4 Actual', 'FY Actual', 'Q1 Variance', 'Q2 Variance', 'Q3 Variance', 'Q4 Variance', 'FY Variance'. Rows contain numerical data and text descriptions of various schools and their budget allocations."
+                  },
+                  {
+                    "title": "In-call messages",
+                    "layoutDescription": "Chat layout",
+                    "visibleText": "In-call messages panel showing a conversation with links to Google Docs and messages from participants named Phil Hewinson, Bogdan Tenea, and Serban Petrescu. Messages include timestamps and URLs to Google Docs and Google Sheets."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Google Meet session, as evidenced by the active tab titled 'Meet - jmu-ybin-ufc - Google Chrome'. The meeting involves multiple participants, including Bogdan Tenea, Phil Hewinson, and Isaac Squires. The primary focus of the meeting appears to be a detailed review of a spreadsheet titled 'GT School Q3'24 Budget Details'. The spreadsheet contains multiple columns and rows displaying budget details for various schools, including columns like 'Charter/Region/State', 'GT School', 'FY', 'Q1', 'Q2', 'Q3', 'Q4', 'FY Total', 'Q1 Actual', 'Q2 Actual', 'Q3 Actual', 'Q4 Actual', 'FY Actual', 'Q1 Variance', 'Q2 Variance', 'Q3 Variance', 'Q4 Variance', and 'FY Variance'.",
+    "During the meeting, the user is also actively participating in the in-call chat. The chat panel shows messages from participants, including links to Google Docs and Google Sheets. For instance, Phil Hewinson and Bogdan Tenea share links to documents and spreadsheets, indicating collaborative work on budget details and other related documents. The user also sends messages and interacts with the shared content, contributing to the ongoing discussion and review process.",
+    "The user has multiple applications open, as indicated by the taskbar icons. These include 'Minimize', 'Core', 'DevFe', 'WS/E', 'DevF', 'Magic', 'GT Sc', 'Learn', 'Team', and a clock showing 8:33 AM. However, the primary focus remains on the Google Meet session and the associated Google Docs and Sheets. The user is likely multitasking, managing different aspects of their work while actively participating in the meeting."
+  ],
+  "aiUseSummary": "",
+  "activities": [
+    "MEETING",
+    "CHATTING_WITH_TEAM",
+    "READING_SPEC"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 100,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T14:30:56Z",
+      "windowTitle": "Meet - jmu-ybin-ufc - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/jmu-ybin-ufc?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T14:31:56Z",
+      "windowTitle": "Meet - jmu-ybin-ufc - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/jmu-ybin-ufc?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 6,
+      "date": "2024-06-11T14:32:56Z",
+      "windowTitle": "GT School - Budget P&L - Q3'24 - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1VYZ2Hbs9Y6Dj691ej3HCOS_MWRcRC0X-7C81DixO6Qo/edit#gid=1504714360",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-11T14:33:56Z",
+      "windowTitle": "Meet - jmu-ybin-ufc - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/jmu-ybin-ufc?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 8,
+      "date": "2024-06-11T14:34:56Z",
+      "windowTitle": "Meet - jmu-ybin-ufc - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/jmu-ybin-ufc?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 11,
+      "date": "2024-06-11T14:35:56Z",
+      "windowTitle": "Meet - jmu-ybin-ufc - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/jmu-ybin-ufc?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 20,
+      "date": "2024-06-11T14:36:56Z",
+      "windowTitle": "LearnWith.ai Q3 2024 Budget Update - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1wRJiCDXbFF0pR2cSKCtEeEa5BQWZFem1vLqOqLAI2ic/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 22,
+      "date": "2024-06-11T14:37:56Z",
+      "windowTitle": "LearnWith.AI - 2024 Financial Forecast - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1fvBwe58Kbb7AZsgbYCmizxF4xB2qcRG904Jj48shFF8/edit#gid=1092897194",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 21,
+      "date": "2024-06-11T14:38:57Z",
+      "windowTitle": "Meet - jmu-ybin-ufc - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/jmu-ybin-ufc?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 20,
+      "date": "2024-06-11T14:39:57Z",
+      "windowTitle": "Meet - jmu-ybin-ufc - Google Chrome",
+      "processName": "meet.google.com",
+      "visitingUrl": "meet.google.com/jmu-ybin-ufc?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-11T14:30:00Z"
+}

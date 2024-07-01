@@ -1,0 +1,436 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "meet.google.com",
+        "mail.google.com",
+        "ai-feature-adoption-dash.s3.amazonaws.com",
+        "explorer"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-04T15:52:07Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, File Explorer, Microsoft Edge, Google Chrome, and system tray with notifications, sound, network, and battery status icons, and date/time display",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "TPM - Operationalize AI Adoption",
+                                "url": "https://docs.google.com/spreadsh",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Toolbar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help. Toolbar with back, forward, refresh, star icon, Google account icon, Google Apps icon, notifications, and profile icon. Address bar with URL. Sheet tabs at the bottom labeled '2nd brains', 'AI-First Playbooks/Tools', 'Links'"
+                                },
+                                "content": [
+                                    {
+                                        "title": "TPM - Operationalize AI Adoption",
+                                        "layoutDescription": "Spreadsheet layout",
+                                        "visibleText": "Type, Product/Service, Main Contacts, Domain 2nd brain, Product/Service 2nd brain, Work Unit, Acquisitions, Nouman Shah, Ben New, Cost Optimization, AdvocateHub, GFI LanGuard, Joe Conley, CloudFix, David Schwartz, ACRM/Pivotal, Marcello Skaba, EDU Data Structures, Aurea Platform, Rodney Smith, Jive, eRAG, MainIt All Agents, TPM / P2 specs, Cost Reduction, Tempo, Version upgrades, Import, Cost Optimization"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Meet - pvi-xucn-nkp",
+                                "url": "https://meet.google.com/pvi-xucn-nkp",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Video conference controls including microphone, camera, raise hand, more options, and end call button. Participant list with names and status icons"
+                                },
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "David Schwartz",
+                                            "expression": "focused"
+                                        },
+                                        {
+                                            "name": "Marcel Skaba",
+                                            "expression": "speaking"
+                                        },
+                                        {
+                                            "name": "Ben New",
+                                            "expression": "listening"
+                                        },
+                                        {
+                                            "name": "Noumaan Shah",
+                                            "expression": "listening"
+                                        },
+                                        {
+                                            "name": "Joe Conley",
+                                            "expression": "listening"
+                                        },
+                                        {
+                                            "name": "Dragos Nutu",
+                                            "expression": "listening"
+                                        }
+                                    ]
+                                },
+                                "content": [
+                                    {
+                                        "title": "Meet - pvi-xucn-nkp",
+                                        "layoutDescription": "Video conference layout",
+                                        "visibleText": "David Schwartz, Marcelo Skaba, Ben New, Noumaan Shah, Joe Conley, Dragos Nutu, read.ai meeting notes, David's AI Notetaker (from Otter.ai)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T15:54:26Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Chrome, File Explorer, and other unidentified applications. System clock shows '6:54 PM'. Date '6/04/24' is visible. Language set to 'ENG'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "TPM - Operationalize AI Adoption",
+                                "url": "https://docs.google.com/spreadsheets/d/1",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help. Google account icon at top right. Spreadsheet tabs named '2nd brains', 'AI-First Playbooks/Tools', 'Links' at the bottom."
+                                },
+                                "content": [
+                                    {
+                                        "title": "TPM - Operationalize AI Adoption",
+                                        "layoutDescription": "Spreadsheet layout",
+                                        "visibleText": "Type, Product/Service, Main Contacts, Domain 2nd brain, Product/Service 2nd brain. Work Unit, Acquisitions, Noumaan Shah, Ben New, Cost Optimization, Second Brain - Pre-Acquisition, AdvocateHub, Noumaan Shah, L1 - Domain, AdvocateHub - Product, GFI LanGuard, Joe Conley, gfi-domain.md, gfi-languard-product.md, GFI AppManager, Joe Conley, gfi-domain.md, gfi-appmanager-product.md, CloudFix, David Schwartz, Cloudfix Second Brain, ACRM/Pivotal, Marcelo Schwart2, 1edtech - 2nd Brain, Simplified Alpha Engineering, EDU Data Structures, Marcelo Skaba, ESW 2nd Brain, Aurea Platform, Rodney Smith, ES"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Meet - pvi-xucn-nkp",
+                                "url": "https://meet.google.com/pvi-xucn-nkp",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Video conference controls including microphone, camera, raise hand, and more. Google account icon at top right."
+                                },
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "David Schwartz",
+                                            "expression": "speaking"
+                                        },
+                                        {
+                                            "name": "Marcelo Skaba",
+                                            "expression": "looking away"
+                                        },
+                                        {
+                                            "name": "Ben New",
+                                            "expression": "focused"
+                                        },
+                                        {
+                                            "name": "Noumaan Shah",
+                                            "expression": "listening"
+                                        },
+                                        {
+                                            "name": "Joe Conley",
+                                            "expression": "listening"
+                                        },
+                                        {
+                                            "name": "Dragos Nutta",
+                                            "expression": "neutral"
+                                        }
+                                    ]
+                                },
+                                "content": [
+                                    {
+                                        "title": "Meet - pvi-xucn-nkp",
+                                        "layoutDescription": "Video conference layout",
+                                        "visibleText": "David Schwartz, Marcelo Skaba, Ben New, Noumaan Shah, Joe Conley, Dragos Nutta. Central TPM Office."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Meet",
+                        "windows": [
+                            {
+                                "title": "Meet - pvi-xucn-nkp",
+                                "url": "https://meet.google.com/pvi-xucn-nkp",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Video conference controls including microphone, camera, raise hand, and more. Google account icon at top right."
+                                },
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "David Schwartz",
+                                            "expression": "speaking"
+                                        },
+                                        {
+                                            "name": "Marcelo Skaba",
+                                            "expression": "looking away"
+                                        },
+                                        {
+                                            "name": "Ben New",
+                                            "expression": "focused"
+                                        },
+                                        {
+                                            "name": "Noumaan Shah",
+                                            "expression": "listening"
+                                        },
+                                        {
+                                            "name": "Joe Conley",
+                                            "expression": "listening"
+                                        },
+                                        {
+                                            "name": "Dragos Nutta",
+                                            "expression": "neutral"
+                                        }
+                                    ]
+                                },
+                                "content": [
+                                    {
+                                        "title": "Meet - pvi-xucn-nkp",
+                                        "layoutDescription": "Video conference layout",
+                                        "visibleText": "David Schwartz, Marcelo Skaba, Ben New, Noumaan Shah, Joe Conley, Dragos Nutta. Central TPM Office."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "File Explorer",
+                        "windows": []
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T15:59:22Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications. Displays the system tray with network, sound, notifications, and clock (6:59 PM, 6/4/24).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - pvi-xucn-nkp - Google Chrome",
+                                "url": "meet.google.com/pvi-xucn-nkp",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "conference window with participant videos, chat sidebar, and meeting controls."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference Participants",
+                                        "layoutDescription": "Grid layout",
+                                        "visibleText": "David Schwartz, Marcelo Skaba, Ben New, Noumaan Shah, Joe Conley, Dragos Nuta"
+                                    },
+                                    {
+                                        "title": "Chat Sidebar",
+                                        "layoutDescription": "Vertical list",
+                                        "visibleText": "tpm reboot\nStratifyd Pure AWS cost (without EDP):\nBefore: 675k p.a.\nAfter CO: 475k p.a.\n1\nI need help filling out the TPM form. Noumaan mentioned it last week (remember, teams?).\nWhat else?\nBen New 7:27 AM\nAdded that Jive Copilot usage remains high.\nDavid Schwartz 36 min\nwhats going on with llms today?\nboth oai and claude are misbehaving\n@Noumaan Shah\nadoption-dash.something"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Gmail - tpm reboot - Google Chrome",
+                                "url": "mail.google.com/mail/u/0/#chat/spa",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "email client interface with navigation sidebar and chat panel."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email Navigation",
+                                        "layoutDescription": "Vertical list",
+                                        "visibleText": "Mail\nChat\nMeet\nNew chat\nShortcuts\nHome 6\nMentions 3\nStarred\nDirect messages 4\nFirat Gomi\nBen New\nAndrei Kharytonau\nJoe Conley\nJamie Sidey\nBogdan Tenea\nNoumaan Shah\nMarcelo Skaba\nSpaces 2\ntpm reboot\nGFI BU/CE/TPM Management\nCNU Q Business Process\nXO Team Chat\nCNU AI Assist - Extra\nXO Candidate Support\nCentral PMs team\nFeature Line automation\nCrossover - Upwork\nAI Coach - internal\nSpec Request Notification\nmore..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Google Meet video conference, as evidenced by the screenshots showing the Google Meet interface with multiple participants. The meeting appears to be focused on operationalizing AI adoption, as indicated by the title of the Google Sheets document open in another window. Participants in the meeting include David Schwartz, Marcelo Skaba, Ben New, Noumaan Shah, Joe Conley, and Dragos Nutu. The user is actively participating in the meeting, as seen in the screenshots where the Google Meet window is open and visible.",
+        "In addition to the video conference, the user is also viewing and possibly editing a Google Sheets document titled 'TPM - Operationalize AI Adoption.' The document contains various columns such as Type, Product/Service, Main Contacts, Domain 2nd brain, and Product/Service 2nd brain. The user is likely discussing or reviewing this document during the meeting, as it is prominently displayed on the screen. The document includes entries for different products and services, along with their main contacts and associated domains.",
+        "The user is also engaged in a chat conversation within Gmail, specifically in a space named 'tpm reboot.' The chat includes messages from various team members discussing topics such as AWS cost optimization and Jive Copilot usage. The user is likely multitasking, participating in the video conference while also keeping up with the chat conversation. This indicates a high level of engagement and collaboration with the team.",
+        "The user has multiple browser tabs open, indicating they are likely multitasking and managing various tasks simultaneously. The tabs include Google Sheets, Google Meet, and Gmail, suggesting that the user is focused on project management and team collaboration. The presence of these tabs indicates that the user is actively involved in coordinating and managing the operationalization of AI adoption within their team.",
+        "The user is utilizing Google Chrome as their primary web browser, as indicated by the screenshots. The browser is being used to access Google Sheets, Google Meet, and Gmail, which are essential tools for the user's project management and collaboration activities. The user is likely leveraging the browser's capabilities to efficiently switch between different tasks and applications, enhancing their productivity."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a video conference, viewing a Google Sheets document, and participating in a chat conversation within Gmail. There are no visible AI chat interfaces or AI-generated content in the screenshots. Therefore, it can be concluded that the user is not utilizing AI tools during this specific timeframe.",
+    "activities": [
+        "READING_SPEC",
+        "EMAIL",
+        "CHATTING_WITH_TEAM",
+        "MEETING"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T15:50:11Z",
+            "windowTitle": "Meet - pvi-xucn-nkp - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/pvi-xucn-nkp?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T15:51:11Z",
+            "windowTitle": "Meet - pvi-xucn-nkp - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/pvi-xucn-nkp?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 33,
+            "mouse": 9,
+            "date": "2024-06-04T15:52:11Z",
+            "windowTitle": "Meet - pvi-xucn-nkp - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/pvi-xucn-nkp?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 5,
+            "mouse": 3,
+            "date": "2024-06-04T15:53:11Z",
+            "windowTitle": "Meet - pvi-xucn-nkp - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/pvi-xucn-nkp?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T15:54:11Z",
+            "windowTitle": "Meet - pvi-xucn-nkp - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/pvi-xucn-nkp?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T15:55:11Z",
+            "windowTitle": "Meet - pvi-xucn-nkp - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/pvi-xucn-nkp?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 2,
+            "mouse": 1,
+            "date": "2024-06-04T15:56:11Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/gwDF1MAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 75,
+            "mouse": 8,
+            "date": "2024-06-04T15:57:11Z",
+            "windowTitle": "Meet - pvi-xucn-nkp - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/pvi-xucn-nkp?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 11,
+            "mouse": 2,
+            "date": "2024-06-04T15:58:11Z",
+            "windowTitle": "React App - Google Chrome",
+            "processName": "ai-feature-adoption-dash.s3.amazonaws.com",
+            "visitingUrl": "https://ai-feature-adoption-dash.s3.amazonaws.com/index.html",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 68,
+            "mouse": 4,
+            "date": "2024-06-04T15:59:11Z",
+            "windowTitle": "Task Switching",
+            "processName": "explorer",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-04T15:50:00Z"
+}

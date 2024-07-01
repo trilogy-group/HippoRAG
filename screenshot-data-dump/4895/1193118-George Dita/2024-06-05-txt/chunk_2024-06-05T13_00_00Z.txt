@@ -1,0 +1,352 @@
+{
+    "candidateId": 2368956,
+    "apps": [
+        "dev.postbeyonddev.com",
+        "Google Chat",
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T13:00:12Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Reminders, Notes, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash",
+                        "position": "bottom"
+                    },
+                    {
+                        "elementType": "dock",
+                        "details": "docked application bar with visible icons for Google Chrome, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, and other unidentified applications",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Explore \u2013 PostBeyond",
+                                "position": "top left, large window",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "bar, tabs, address bar, bookmarks bar, vertical scroll bar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Explore",
+                                        "layoutDescription": "layout of posts",
+                                        "visibleText": "Explore\nGrid\nIntuitive\nA AI and News AI AI deep dive into machine learning, AI benchmarks...\nRevolutionize Your Customer Engagement Today! A Powerful Connection...\nAll AI and News AI AI deep dive into machine learning, AI benchmarks...\nCustom and Off-the-shelf AI Programs for Your Unique Needs\nJust a description\nGoogle\nTest LinkedIn Upgrade\nLinkedIn video post test\nTest Example\nTest Example\nTest Example\nClosed - Cloud Test\nClosed - Cloud Test\nClosed - Cloud Test"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Work with me in Shaping the Future of Post...",
+                                "url": "https://www.example.com",
+                                "position": "right, smaller window",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "bar, tabs, address bar, bookmarks bar, vertical scroll bar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Work with me in Shaping the Future of Post...",
+                                        "layoutDescription": "Email interface",
+                                        "visibleText": "Work with me in Shaping the Future of Post...\nSubject: Time zone and email scheduled\nThis time zone related webinar is set for June 15, 2024. It is about the future of email.\nIt shall test your readiness for future email...\nEmail scheduled for June 15, 2024\nForward\nReply\nReply All\nDelete\nTime zone\nThis time zone related webinar is set for June 15, 2024. It is about the future of email.\nIt shall test your readiness for future email...\nEmail scheduled for June 15, 2024"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Word",
+                        "windows": [
+                            {
+                                "title": "Document1 - Microsoft Word",
+                                "position": "bottom left, medium window",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "status bar, vertical scroll bar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Document1",
+                                        "layoutDescription": "document layout",
+                                        "visibleText": "[Text of the document is too blurry to read]"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Teams",
+                        "windows": [
+                            {
+                                "title": "Microsoft Teams Meeting",
+                                "position": "bottom right, medium window",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "controls, participant list, chat panel"
+                                },
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "John Doe",
+                                            "expression": "smiling"
+                                        },
+                                        {
+                                            "name": "George Lin",
+                                            "expression": "neutral"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T13:05:54Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Google Chrome, Microsoft Outlook, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Slack, and other unidentified applications. Also includes a system clock showing '1:05 PM' and system status icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Fynlare - Chat",
+                                "position": "left side of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "sidebar, search bar, chat windows, settings icon, and profile icon"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat with IntuitiveTPM/engineering",
+                                        "layoutDescription": "Multiple chat windows open",
+                                        "visibleText": "George: Need to update\n\nThis space will be used for engineering team updates, any important info and any other updates. When we have more details about projects and deployments we will update this space.\n\nReply to start a new thread about a project"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Word",
+                        "windows": []
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T13:09:24Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Google Chrome, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Outlook, OneNote, Skype, Adobe Photoshop, Adobe Illustrator, a folder, and a trash bin",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Explore - Google Chrome",
+                                "position": "left half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, and multiple website content"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Explore",
+                                        "layoutDescription": "Grid layout",
+                                        "visibleText": "Explore\n\nGridIntuitive\n Your Customer Engagement\n\nAI and News on AI\nAI apps revolutionize healthcare.\n\nAI and News on AI\nA deep learning model predicts...\n\nCustom and Off-the-shelf\nCustom AI solutions for your business.\n\nJust a description\nGoogle\n\nTechTalks Upgrade\nLinkedIn video post test\n\nTest Example\nClosed - Cloud Test\n\nTest Example\nClosed - Cloud Test\n\nTest Example\nClosed - Cloud Test"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Spam (1) - george.dita@trilogy.com - DevFactory Mail - Google Chrome",
+                                "position": "right half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, and email content"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Spam (1)",
+                                        "layoutDescription": "Email layout",
+                                        "visibleText": "Spam (1)\n\nThis time zone assistant is weird. It seems to have a 125 in 146 error. Is it not the final count of participants?\n\nIt shall not send your requested notifications.\n\nForwarded email\n\nTime zone and email scheduled\n\nClick rate 0%\n\nReply rate 0%"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in multiple activities across different applications. In the first screenshot, the user is exploring content on the PostBeyond platform, which includes various posts and descriptions. This indicates that the user is likely involved in content review or research related to PostBeyond. Additionally, the user has an email interface open, showing an email about a scheduled webinar related to the future of email, suggesting they are also managing or reviewing email communications.",
+        "In the second screenshot, the user is seen engaging in a chat on Google Chat with a team member named George. The conversation revolves around updates for the engineering team, indicating that the user is involved in team communication and project updates. The user is also seen exploring content on the PostBeyond platform, similar to the first screenshot, which reinforces the idea that they are involved in content review or research.",
+        "The third screenshot shows the user accessing their Gmail inbox, specifically viewing a spam email. This indicates that the user is managing their email communications. Additionally, the user is still exploring content on the PostBeyond platform, which suggests a continued focus on content review or research. The user is also seen in a Google Meet meeting with two participants, indicating that they are involved in a video conference, likely discussing project-related matters."
+    ],
+    "aiUseSummary": "There is no visible evidence of AI tools being used in the provided screenshots. The user is primarily engaged in content review, email management, team communication, and video conferencing without any interaction with AI tools for code suggestions, research, or debugging.",
+    "activities": [
+        "READING_SPEC",
+        "EMAIL",
+        "CHATTING_WITH_TEAM",
+        "MEETING"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "READING_SPEC",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 11,
+            "date": "2024-06-05T13:00:22Z",
+            "windowTitle": " Explore \u00ef\u00bf\u00bd PostBeyond - Google Chrome\n",
+            "processName": "dev.postbeyonddev.com",
+            "visitingUrl": "https://dev.postbeyonddev.com/element/topic/",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T13:01:22Z",
+            "windowTitle": " Explore \u00ef\u00bf\u00bd PostBeyond - Google Chrome\n",
+            "processName": "dev.postbeyonddev.com",
+            "visitingUrl": "https://dev.postbeyonddev.com/element/topic/",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T13:02:22Z",
+            "windowTitle": " Explore \u00ef\u00bf\u00bd PostBeyond - Google Chrome\n",
+            "processName": "dev.postbeyonddev.com",
+            "visitingUrl": "https://dev.postbeyonddev.com/element/topic/",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 63,
+            "mouse": 8,
+            "date": "2024-06-05T13:03:22Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 113,
+            "mouse": 6,
+            "date": "2024-06-05T13:04:22Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 126,
+            "mouse": 10,
+            "date": "2024-06-05T13:05:22Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 188,
+            "mouse": 6,
+            "date": "2024-06-05T13:06:22Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 93,
+            "mouse": 6,
+            "date": "2024-06-05T13:07:22Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 74,
+            "mouse": 5,
+            "date": "2024-06-05T13:08:22Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 166,
+            "mouse": 18,
+            "date": "2024-06-05T13:09:22Z",
+            "windowTitle": " Inbox (9) - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-05T13:00:00Z"
+}

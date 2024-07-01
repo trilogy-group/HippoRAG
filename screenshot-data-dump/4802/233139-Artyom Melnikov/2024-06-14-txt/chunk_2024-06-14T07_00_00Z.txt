@@ -1,0 +1,279 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "ws-lambda.atlassian.net",
+        "webstorm64",
+        "docs.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T07:00:53Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications. Displays system tray with network, sound, and clock (time displayed as 09:40, date as 06/14/2024).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "WebStorm",
+                        "windows": [
+                            {
+                                "title": "lambda-cdk-infra",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Top bar with File, Edit, View, Navigate, Code, Analyze, Refactor, Tools, VCS, Window, Help. Right sidebar with vertical tabs: Project, Favorites, Find, Run, Debug, Todo, Database, and more. Bottom bar with tabs for Terminal, Problems, Version Control, and Event Log."
+                                },
+                                "content": [
+                                    {
+                                        "title": "File Explorer",
+                                        "layoutDescription": "Left sidebar",
+                                        "visibleText": "lambda-cdk-infra\n.github\nLibraries\nScratches and Consoles"
+                                    },
+                                    {
+                                        "title": "package.json",
+                                        "layoutDescription": "editor area",
+                                        "visibleText": "{\n \"name\": \"@tflogy-group/lambda-cdk-infra\",\n \"version\": \"2.11.3\",\n \"description\": \"CDK Infrastructure Library\",\n \"main\": \"dist/index.js\",\n \"types\": \"dist/index.d.ts\",\n \"files\": [\n \"dist/\"\n ],\n \"author\": \"Artyom Melnikov\",\n \"publishConfig\": {\n \"registry\": \"https://npm.pkg.github.com\"\n },\n \"repository\": {\n \"type\": \"git\",\n \"url\": \"https://github.com/tflogy-group/lambda-cdk-infra\"\n },\n \"scripts\": {\n \"generate-index\": \"npx cti -b create ./src/\",\n \"build\": \"tsc\"\n },\n \"peerDependencies\": {\n \"aws-cdk-lib\": \"^2.15.0\",\n \"constructs\": \"^10.0.0\"\n },\n \"optionalDependencies\": {\n \"@amplify-frontend-javascript\": \"^4.3.3\",\n \"@aws-amplify/ui-react\": \"^4.3.2\",\n \"@aws-cdk/aws-appsync-alpha\": \"^2.15.0-alpha.0\",\n \"@aws-cdk/aws-cognito-identitypool-alpha\": \"^2.15.0-alpha.0\",\n \"@aws-cdk/aws-glue-alpha\": \"^2.15.0-alpha.0\"\n },\n \"devDependencies\": {\n \"@types/node\": \"^14.17.20\",\n \"@types/yargs\": \"^17.0.5\",\n \"@types/fs-extra\": \"^9.0.0\",\n \"ts-node\": \"^10.4.0\",\n \"typescript\": \"^4.4.4\",\n \"aws-cdk-lib\": \"^2.15.0\",\n \"constructs\": \"^10.0.0\",\n \"@types/lodash\": \"^4.14.188\",\n \"@types/aws-amplify\": \"^4.3.3\",\n \"@types/aws-appsync-alpha\": \"^2.15.0-alpha.0\",\n \"@types/aws-cognito-identitypool-alpha\": \"^2.15.0-alpha.0\",\n \"@types/aws-glue-alpha\": \"^2.15.0-alpha.0\"\n }\n}"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T07:03:27Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, File Explorer, Microsoft Edge, Google Chrome, Notepad++, Visual Studio Code, and system tray icons including network, sound, notifications, and clock",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "LAMBDA-76101 Upgrade cdk infra lib - WorkSmart Lambda - Google Chrome",
+                                "url": "ws.lambda.atlassian.net/browse/LAMBDA-76101",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Navigation bar with back, forward, refresh buttons, address bar, bookmarks bar, and tab row with multiple tabs"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Upgrade cdk infra lib",
+                                        "layoutDescription": "Two-column layout",
+                                        "visibleText": "WS Lambda\nService project\nQueues\nRaise a request\nScriptRunner Enhanced Search\nKnowledge\nKnowledge base\nReports\nDirectory\nChannels\nCustomers\nShow Open Tasks Filter\nGet New Task\nCustomer notification logs\nGive feedback\nProjects / WS Lambda / Add parent\nLAMBDA-76101\nUpgrade cdk infra lib\nCreate subtask\nLink Issue\nCreate\nMy Forge App\nDefault\nOutputs\nAll\nReview\nLambda Service\nArtem Melnikov raised this request via Jira\nView request in portal\nDescription\nUse AWS SDK v3\nUpdate minimal version of CDK dependencies, retire alpha-packages\nDefault target node version is 20\nProduct\nCrossover Hire - Maintenance\nPriority\nHigh\nPlaybook URL\nNone\nEngineering Story Points Estimation Breakdown\nhttps://docs.google.com/spreadsheets/d\nTests\nNone\nLinked issues\nis part of project\nLAMBDA-5422\nApplication Process\nSimilar requests\nActivity\nShow: All\nComments\nHistory\nTimepiece\nSLA History\nApprovals\nAdd internal note\nReply to customer\nPro tip: press M to comment"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T07:08:51Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Outlook, and other unidentified applications. Displays the time as 9:08 AM and date as 06/14/2024. Language set to ENG.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Work Breakdown & Estimation - LAMBDA-76101 - Upgrade cdk infra lib - Google Sheets",
+                                "url": "https://docs.google.com/spreadsheets",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help. Toolbar with undo, redo, print, format options, zoom controls, and share button."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Sheets Content",
+                                        "layoutDescription": "Spreadsheet layout",
+                                        "visibleText": "Ticket LAMBDA-76101\nTotal # Subtasks: 4\nTotal Time it took to read, understand & estimate this task: how early\nTool Points: 24\n\nQ1: Please list out dependencies for this task\nQ2: What requirements could you drop to make this task less complicated/faster?\n\nLogical Breakdown\nArea Step Questions, Answers, Notes Count Subtasks Difficulty Task Categorization\nA1 Improve AI Investments - - 1 Medium -\nA2 Migrate code to area 3 - - 1 Medium -\nA3 Upgrade cdk lib versions - - 1 Medium -\nA4 Remove alpha cdk packages - - 1 Easy -"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in writing code using WebStorm. The screenshot shows the user working on a project named 'lambda-cdk-infra'. The file 'package.json' is open, and the user is likely updating or reviewing the project's dependencies and scripts. The visible content includes various dependencies and scripts related to AWS CDK and TypeScript, indicating that the user is working on infrastructure as code (IaC) using AWS CDK.",
+        "The user is also reviewing a Jira ticket on the 'ws-lambda.atlassian.net' website. The ticket 'LAMBDA-76101' is about upgrading the CDK infrastructure library. The user is viewing the ticket details, which include the description, priority, and linked issues. The user is likely assessing the requirements and planning the necessary steps to complete the task. The presence of a link to a Google Sheets document suggests that the user is also referring to additional documentation or estimations related to the task.",
+        "The user is viewing a Google Sheets document titled 'Work Breakdown & Estimation - LAMBDA-76101 - Upgrade cdk infra lib'. The spreadsheet contains a detailed breakdown of the task, including subtasks, difficulty levels, and task categorization. The user is likely using this document to plan and estimate the work required for the Jira ticket. The visible content includes steps to improve AI investments, migrate code, upgrade CDK library versions, and remove alpha CDK packages."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in writing code, reviewing a Jira ticket, and referring to a Google Sheets document for task estimation and planning. No AI chat interfaces or AI-generated suggestions are visible in the screenshots.",
+    "activities": [
+        "WRITING_CODE",
+        "REVIEWING_CODE",
+        "READING_SPEC"
+    ],
+    "workTypes": [
+        "IAC"
+    ],
+    "programmingLanguages": [
+        "TYPESCRIPT"
+    ],
+    "toolTypes": [
+        "IDE",
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 15,
+            "mouse": 30,
+            "date": "2024-06-14T07:00:16Z",
+            "windowTitle": "[LAMBDA-76101] Upgrade cdk infra lib - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-76101",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 20,
+            "date": "2024-06-14T07:01:16Z",
+            "windowTitle": "lambda-cdk-infra ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 23,
+            "mouse": 21,
+            "date": "2024-06-14T07:02:16Z",
+            "windowTitle": "[LAMBDA-76101] Upgrade cdk infra lib - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-76101",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T07:03:16Z",
+            "windowTitle": "[LAMBDA-76101] Upgrade cdk infra lib - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-76101",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T07:04:16Z",
+            "windowTitle": "[LAMBDA-76101] Upgrade cdk infra lib - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-76101",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T07:05:16Z",
+            "windowTitle": "[LAMBDA-76101] Upgrade cdk infra lib - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-76101",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T07:06:16Z",
+            "windowTitle": "[LAMBDA-76101] Upgrade cdk infra lib - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-76101",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 80,
+            "mouse": 10,
+            "date": "2024-06-14T07:07:16Z",
+            "windowTitle": "Work Breakdown & Estimation - LAMBDA-76101 - Upgrade cdk infra lib - Google Sheets - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/spreadsheets/d/1im6eQBuJwsCZEn0oeGz4YlWfHM1Y9Fnj2EQytQRxJhs/edit#gid=1436889609",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T07:08:16Z",
+            "windowTitle": "Work Breakdown & Estimation - LAMBDA-76101 - Upgrade cdk infra lib - Google Sheets - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/spreadsheets/d/1im6eQBuJwsCZEn0oeGz4YlWfHM1Y9Fnj2EQytQRxJhs/edit#gid=1436889609",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 3,
+            "mouse": 20,
+            "date": "2024-06-14T07:09:16Z",
+            "windowTitle": "[LAMBDA-76101] Upgrade cdk infra lib - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-76101",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T07:00:00Z"
+}

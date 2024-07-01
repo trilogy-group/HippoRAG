@@ -1,0 +1,209 @@
+{
+  "candidateId": 1444536,
+  "apps": [
+    "",
+    "explorer"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T16:31:44Z",
+      "desktop": {
+        "uiElements": [],
+        "applications": []
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T16:33:42Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "taskbar with start button, search bar, and several pinned application icons",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Word",
+            "windows": [
+              {
+                "title": "Document1 - Word",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Tabs for File, Home, Insert, Design, Layout, References, Mailings, Review, View, Help"
+                },
+                "content": [
+                  {
+                    "title": "Document1 - Word",
+                    "layoutDescription": "Text editor area with cursor blinking",
+                    "visibleText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T16:37:23Z",
+      "desktop": {
+        "uiElements": [],
+        "applications": []
+      }
+    }
+  ],
+  "activitySummary": [
+    "At 2024-06-14T16:31:44Z, the user’s desktop was captured with no significant UI elements or applications visible. This suggests that the user might have been idle or transitioning between tasks at this moment.",
+    "At 2024-06-14T16:33:42Z, the user was actively working in Microsoft Word. The document titled 'Document1 - Word' was maximized and active. The visible text in the document was a standard Lorem Ipsum placeholder text, indicating that the user might have been preparing a template or draft document. The Word interface showed tabs for various functionalities such as File, Home, Insert, Design, Layout, References, Mailings, Review, View, and Help.",
+    "At 2024-06-14T16:37:23Z, the user’s desktop was captured again with no significant UI elements or applications visible. This could indicate another period of inactivity or a transition between different tasks or applications."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user was primarily engaged in editing a document in Microsoft Word, and no AI interactions were visible.",
+  "activities": [
+    "WRITING_SPEC"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_SPEC",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T16:30:24Z",
+      "windowTitle": "",
+      "processName": "",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T16:31:24Z",
+      "windowTitle": "",
+      "processName": "",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T16:32:25Z",
+      "windowTitle": "",
+      "processName": "",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T16:33:25Z",
+      "windowTitle": "",
+      "processName": "",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T16:34:24Z",
+      "windowTitle": "",
+      "processName": "",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T16:35:24Z",
+      "windowTitle": "",
+      "processName": "",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T16:36:24Z",
+      "windowTitle": "",
+      "processName": "",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T16:37:24Z",
+      "windowTitle": "",
+      "processName": "",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T16:38:24Z",
+      "windowTitle": "LockingWindow",
+      "processName": "explorer",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-14T16:39:24Z",
+      "windowTitle": "LockingWindow",
+      "processName": "explorer",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-14T16:30:00Z"
+}

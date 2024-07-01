@@ -1,0 +1,378 @@
+{
+    "candidateId": 2368956,
+    "apps": [
+        "Google Chat",
+        "mail.google.com",
+        "upwork.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T07:52:26Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Adobe Photoshop, File Explorer, Microsoft Outlook, and other unidentified applications. Also includes system clock showing '5:52 PM' and system date '6/5/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Re: Consulting hours - george.dita@trilogy.com - DevFactory Mail",
+                                "url": "https://mail.google.com/mail/u/0/#inbox",
+                                "position": "right",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Chrome tabs, address bar, bookmarks bar, and Gmail interface with navigation pane on the left."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email Content",
+                                        "layoutDescription": "Standard Gmail layout",
+                                        "visibleText": "Kathy Smythe\nRe: Consulting hours\nTue, Jun 4, 2024, 5:52 PM\nto me\n\nHi George,\n\nI will get back to you with DevFactory hours and availability next week. I need more details about the project and developers in Alabama. By the way, I am supposed to get back from lunch now! Have fun!\n\nKathy Smythe\nkathy.smythe@devfactory.com"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Feed - DevFactory - 4 June 2024",
+                                "url": "https://devfactory.com/feed",
+                                "position": "left",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Chrome video player interface, playback controls, and document viewer."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Feed",
+                                        "layoutDescription": "Video playback screen",
+                                        "visibleText": "Summary\nChapters: 0\nDuration: 0\n\n[Video paused]"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Marketing Email",
+                                "url": "https://mail.google.com/mail/u/0/#inbox",
+                                "position": "right",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Chrome tabs, address bar, bookmarks bar, and Gmail interface with navigation pane on the left."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email List",
+                                        "layoutDescription": "List of emails",
+                                        "visibleText": "Marketing Email\n\nSome elements marked with being modified to be seen from a Mailchimp database\n\n[Various email subjects and senders listed]"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T07:55:22Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a docked application bar with icons for Google Chrome, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Adobe Photoshop, Slack, and a folder icon labeled 'Work'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Upwork - Shepherd Meaghan",
+                                "position": "bottom left quadrant",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "address bar, bookmarks bar, multiple tabs, navigation buttons, profile icon, extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Meaghan S.",
+                                        "layoutDescription": "Profile layout",
+                                        "visibleText": "Meaghan S. Oshawa, Canada - 3:05 am local time. Hourly rate $70.00/hr. Languages: English Native or Bilingual. Education: Queen's University 2000-2004. Customer Success Consulting | Artificial Intelligence, Business. In addition to contributing to customer success and educational technology solutions, my work has been instrumental in developing and implementing strategic initiatives that drive customer engagement and retention. Skills include project management, strategic planning, customer relationship management, and data analysis."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Feed Dashboard - 4 June 2024",
+                                "position": "top left quadrant",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "video player controls, comment section, navigation buttons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Feed Dashboard - 4 June 2024",
+                                        "layoutDescription": "Video dashboard layout",
+                                        "visibleText": "Summary: Chapters: 0, Duration: 0, Audience: 0"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Marketing Email",
+                                "position": "top right quadrant",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "email client interface, search bar, email folders, email list, email preview pane"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Marketing Email",
+                                        "layoutDescription": "Email client layout",
+                                        "visibleText": "Subject: Get Leads API. Some elements marked with being modified to be seen as Mailgun elements. Please ensure that emails sent from this tool pass these tests. Sent Items, Drafts, Inbox, Spam, Trash, Archive. Email from: [email protected] Email to: [email protected]"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Chat",
+                                "position": "bottom right quadrant",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "chat interface, contact list, search bar, message input area"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat",
+                                        "layoutDescription": "Chat interface layout",
+                                        "visibleText": "Dragos Nuta: good news! I've got the final Business Manager review of Mailgun done, but need to discuss some points. Can we jump on a call? Meaghan: I can give you a moment at 3:30 pm and explain all remaining details."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T07:59:15Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Microsoft Edge, File Explorer, Microsoft Store, Mail, Calendar, Photos, Settings, and several other unidentified applications. Also includes system tray with network, sound, and battery status icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "My Feed - Dashboard - 4 June 2024",
+                                "position": "top left",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Tabs, address bar, bookmarks bar, and navigation controls"
+                                },
+                                "content": [
+                                    {
+                                        "title": "My Feed - Dashboard - 4 June 2024",
+                                        "layoutDescription": "Web page layout",
+                                        "visibleText": "Summary\nChapters: 0\nDuration: 0\n\n[ ] Finished"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Google Chat",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Chat sidebar, search bar, and chat window"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Chat",
+                                        "layoutDescription": "Chat application layout",
+                                        "visibleText": "Chat\n\nNik\nBernardo\nSam\nChat\nDesign Group\nSales Group\nOperations Group\nFinance Group\nPeople Team\nMarketing Team\n\n[Search in chat box]\n\nSam reboot\n\nSam\n\n[Today's date]\n\nSam: Hey folks, just a heads up tomorrow the backend server will be down for a bit, thanks to some scheduled maintenance.\n\nBernardo: I just realized you're really good at this stuff, managing all this!\n\nSam: Haha, thanks man appreciate it!\n\nBernardo: How do you even keep track of all these moving parts?\n\nSam: It's not easy but someone's got to do it!\n\nBernardo: Haha true that!\n\n[Reply box]"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Marketing Email",
+                                "position": "top right",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Email list, email content viewer, and navigation controls"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Marketing Email",
+                                        "layoutDescription": "Email application layout",
+                                        "visibleText": "Marketing Email\n\nInbox\n\nSubject: Some amendments made with heading modified to be seen from a Mailchimp database\n\nSome amendments made with heading modified to be seen from a Mailchimp database\n\nDear [Name],\n\nPlease ensure that the email content from the editor has been saved. [More text not visible]"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "404 - GitHub",
+                                "position": "bottom",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Address bar, navigation controls, and error message display"
+                                },
+                                "content": [
+                                    {
+                                        "title": "404 - GitHub",
+                                        "layoutDescription": "Error page layout",
+                                        "visibleText": "404\nThis is not the page you are looking for.\n\nFind code, projects, and people on GitHub.\n\nCurrent sponsor: GitHub - @githubstatus\n\n[Subscribe button]\n\nGitHub\n\nProducts\nFeatures\nPlatform with various links and information"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in email communication, as evidenced by the Gmail interface visible in the screenshots. They are reading and responding to emails, including one from Kathy Smythe regarding consulting hours. The email content indicates a discussion about project details and developer availability. This activity is crucial for coordinating project timelines and ensuring team alignment.",
+        "The user is also using Google Chat to communicate with team members. In one instance, they are discussing business manager reviews and scheduling a call to discuss remaining points. Another chat involves a conversation with a team member named Sam about backend server maintenance. These interactions highlight the user's role in team coordination and project management.",
+        "Additionally, the user is browsing Upwork, specifically looking at the profile of a freelancer named Meaghan S. The profile details Meaghan's skills in customer success consulting, artificial intelligence, and business. This suggests that the user is involved in talent acquisition or project staffing, evaluating potential candidates for their team.",
+        "The user is also viewing a marketing email, which includes elements modified to be seen from a Mailchimp database. This indicates involvement in marketing activities, possibly reviewing or preparing email campaigns. The user is ensuring that the email content meets specific criteria and is ready for distribution.",
+        "The user is watching a video feed on DevFactory, which appears to be paused. This could be part of their research or staying updated with company news and updates. The video feed includes a summary and chapters, indicating structured content that the user might be reviewing for relevant information."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in email communication, team chats, and browsing Upwork profiles. No AI chat interfaces or AI-generated content are visible in the screenshots. Therefore, it can be concluded that the user did not utilize AI tools during this period.",
+    "activities": [
+        "EMAIL",
+        "CHATTING_WITH_TEAM",
+        "RESEARCH"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "EMAIL",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 58,
+            "mouse": 5,
+            "date": "2024-06-05T07:51:20Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 16,
+            "mouse": 16,
+            "date": "2024-06-05T07:52:20Z",
+            "windowTitle": " Re: Consulting hours - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQVwngXvqQfWxgxVfpLMqnqdnNt",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 17,
+            "mouse": 18,
+            "date": "2024-06-05T07:53:20Z",
+            "windowTitle": " Sign up for Upwork | Client & Freelancer Accounts - Google Chrome\n",
+            "processName": "upwork.com",
+            "visitingUrl": "https://www.upwork.com/nx/signup/?dest=home",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 9,
+            "mouse": 10,
+            "date": "2024-06-05T07:54:20Z",
+            "windowTitle": " Headline - Upwork - Google Chrome\n",
+            "processName": "upwork.com",
+            "visitingUrl": "https://www.upwork.com/nx/job-post/instant/title",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 10,
+            "mouse": 14,
+            "date": "2024-06-05T07:55:20Z",
+            "windowTitle": " Upwork - Shepherd Meaghan - Google Chrome\n",
+            "processName": "upwork.com",
+            "visitingUrl": "https://www.upwork.com/nx/search/talent/details/~015b9e04e7eaa33068/profile?nbs=1&q=shepherd%20meaghan&pageTitle=Profile&_modalInfo=%5B%7B%22navType%22%3A%22slider%22,%22title%22%3A%22Profile%22,%22modalId%22%3A%221717574105747%22%7D%5D",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 54,
+            "mouse": 8,
+            "date": "2024-06-05T07:56:20Z",
+            "windowTitle": " Upwork - Shepherd Meaghan - Google Chrome\n",
+            "processName": "upwork.com",
+            "visitingUrl": "https://www.upwork.com/nx/search/talent/modal-interview-invitation?nbs=1&q=shepherd%20meaghan&pageTitle=Invite%20to%20job&_modalInfo=%5B%7B%22navType%22%3A%22modal%22,%22title%22%3A%22Invite%20to%20job%22,%22modalId%22%3A%221717574137453%22,%22channelName",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 5,
+            "date": "2024-06-05T07:57:20Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 127,
+            "mouse": 10,
+            "date": "2024-06-05T07:58:20Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 22,
+            "mouse": 8,
+            "date": "2024-06-05T07:59:20Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-05T07:50:00Z"
+}

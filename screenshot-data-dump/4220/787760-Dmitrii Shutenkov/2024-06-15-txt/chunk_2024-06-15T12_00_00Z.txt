@@ -1,0 +1,284 @@
+{
+    "candidateId": 1444536,
+    "apps": [
+        "github.com",
+        "crossover.com",
+        "crossover.lightning.force.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-15T12:00:20Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, and several pinned applications. Displays the system clock showing '13:00:20' and date '15/06/2024'. Language set to 'ENG'. Battery status icon showing power source as plugged in (PRE).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "xo-hiring/sfdx/force at df92c19cc59ab0449e62e40dc3a57cbc55c8c28f \u00b7 trilogy-group/xo-hiring - Google Chrome",
+                                "url": "https://github.com/trilogy-group/xo-hiring",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, GitHub repository navigation, and file list sidebar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Code",
+                                        "layoutDescription": "editor within browser",
+                                        "visibleText": "331 \n332 \n333 \n334 \n335 \n336 \n337 \n338 \n339 \n340 \n341 \n342 \n343 \n344 \n345 \n346 \n347 \n348 \n349 \n350 \n351 \n352 \n353 \n354 \n355 \n356 \n357 \nupdate asr; \n\nprivate static void applyScoreFromCallback(Application_Step_Result__c asr, Map<String, Object> payload) { \n// Extract score \nDecimal codingScore = (Decimal) payload.get('codingScore'); \nDecimal maxScore = asr.Application_Step_Id_r__Max_Score__c; \n\nif (maxScore == null) { \nmaxScore = (Decimal) payload.get('maxScore'); \n} \n\n// Fallback to score, if codingScore is not yet available \nif (codingScore is null) { \ncodingScore = (Decimal) payload.get('score'); \n} \n\n// LAMBDA-75447: Handle versioned coding score \nif (payload.containsKey('versionedCodingScore')) { \n// If provided - we use it with the highest priority \nMap<String, Object> versionedCodingScore = (Map<String, Object>) payload.get('versionedCodingScore'); \nString version = (String) versionedCodingScore.get('version'); \nDecimal value = (Decimal) versionedCoding..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-15T12:05:30Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, a folder, Microsoft Outlook, a music player, a settings gear, a chat bubble, a globe, and a clock showing '13:05:30' on 15/06/2024. Language set to ENG. Battery indicator shows full charge with a plug symbol, indicating the device is charging.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Oluwatobi Amusan - Product CTO | Application | Salesforce",
+                                "url": "https://crossover.lightning.force.com",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "navigation bar with back, forward, refresh, home buttons, URL bar, bookmarks bar with icons for SF Prod, SF Sandbox, ADFS, My Tasks, Crossover Sprints, and other unidentified icons. Tabs open for 'Create Task', 'Technical Debt - Crossover', 'Guides - Crossover...', 'WS.Eng TPO: Leadership...', 'Task Catalog'"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Details",
+                                        "layoutDescription": "detailed layout",
+                                        "visibleText": "Application Name: Oluwatobi Amusan - Product CTO\nAdvertised Title: \nProfile Application 360: https://www.crossover.com/applications/0010m00001 Oluwatobi Amusan\nPipeline: Product CTO\nBrand: Trilogy\nPipeline Manager: Kevin Norchi\nHR Onboarding Specialist: Crossover Onboarding\nAssigned Recruiter: Crossover No-Reply\nNext Step: PHM Interview Date\nApply Date: 19/12/2022 19:41"
+                                    },
+                                    {
+                                        "title": "Application Step Results",
+                                        "layoutDescription": "Table layout",
+                                        "visibleText": "Application Step Result\nPercent Score\nState\nOwner Alias\nCreated ...\nResult Time\nSubmission URL\n1. BFRQ - Product CTO\n100%\nResult: Passed\napi\n19/12/2022 19:42\n20/12/2022 19:46\nhttp://www.surveymonkey.com/analyze\n2. English - Speaking\n70%\nResult: Passed\napi\n20/12/2022 19:46\n04/01/2023 22:04\nhttps://app.truenorthtest.com/admin/ry\n3. Writing Code - Data Structures & Algorithms\n38%\nResult: Failed\napi\n04/01/2023 22:04\n08/06/2024 16:57\n4. SMQ - Technical Skills Assessment\n30%\nResult: Passed\napi\n04/01/2023 22:04\n25/01/2023 21:18\nhttps://mettl.com/analytics/share-repo"
+                                    },
+                                    {
+                                        "title": "Field History",
+                                        "layoutDescription": "Table layout",
+                                        "visibleText": "Opportunity Field History\nDate\nField\nUser\nOriginal Value\nNew Value\n08/06/2024 16:58\nStage\nCrossover No-Reply\nSMQ\nRejected\n08/06/2024 16:58\nLoss Reason\nCrossover No-Reply\nRejected Score Below Reject Threshold"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-15T12:07:53Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, and several pinned applications including Edge, Chrome, and others. Displays system tray with notifications, sound, network, and clock showing '13:07:54' on '15/06/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Remote Jobs - Work From Home - Google Chrome",
+                                "url": "https://www.crossover.com/jobs",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "UI includes back, forward, refresh buttons, address bar, tabs, and profile icon."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Remote Jobs - Work From Home",
+                                        "layoutDescription": "Web page layout with navigation bar and job listings",
+                                        "visibleText": "CROSSOVER\nAbout - For Jobseekers - For Companies - Reviews - Blog\nEngineering\nBloom Institute of Technology\nJava Instructor\n$30,000 USD/year ($30 USD/hour)\nFully-remote - Any country - Part-time (20 hrs/week) - Long-term role\nREAD MORE ->\nWeb Development Instructor\n$30,000 USD/year ($30 USD/hour)\nFully-remote - Any country - Part-time (20 hrs/week) - Long-term role\nREAD MORE ->\nIgniteTech\nAI Innovation Specialist - Software Engineering\n$60,000 USD/year ($30 USD/hour)\nFully-remote - Any country - Full-time (40 hrs/week) - Flexible schedule - Long-term role\nREAD MORE ->\nTrilogy\nAI-First Front-End Developer\n$60,000 USD/year ($30 USD/hour)\nFully-remote - Any country - Full-time (40 hrs/week) - Flexible schedule - Long-term role\nREAD MORE ->\nAI-First Software Engineer\n$60,000 USD/year ($30 USD/hour)\nFully-remote - Any country - Full-time (40 hrs/week) - Flexible schedule - Long-term role\nREAD MORE ->"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in reviewing code on GitHub. They are examining a specific file within the 'xo-hiring' repository, focusing on the 'AssessmentHelperCodeSignal.cls' file. The visible code includes methods for handling application step results, extracting scores, and managing versioned coding scores. This indicates the user is likely involved in maintaining or enhancing the assessment logic for a hiring application.",
+        "The user is also working within Salesforce, specifically on the 'Oluwatobi Amusan - Product CTO' application. They are reviewing detailed application step results, including scores for various assessments such as 'BFQ - Product CTO', 'English - Speaking', 'Writing Code - Data Structures & Algorithms', and 'SMQ - Technical Skills Assessment'. This suggests the user is involved in the recruitment process, possibly evaluating candidate performance and making decisions based on assessment results.",
+        "Additionally, the user is browsing job listings on the Crossover website. They are looking at various remote job opportunities, including positions like 'Java Instructor', 'Web Development Instructor', 'AI Innovation Specialist - Software Engineering', and 'AI-First Front-End Developer'. This activity indicates the user might be exploring new job opportunities or conducting research on available roles in the market."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in code review, recruitment evaluation, and job research activities without any visible interaction with AI tools or assistants.",
+    "activities": [
+        "REVIEWING_CODE",
+        "READING_SPEC",
+        "RESEARCH"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "UI"
+    ],
+    "programmingLanguages": [
+        "SALESFORCE"
+    ],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "REVIEWING_CODE",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 8,
+            "mouse": 17,
+            "date": "2024-06-15T12:00:41Z",
+            "windowTitle": "xo-hiring/sfdx/force-app/main/default/classes/AssessmentHelperCodeSignal.cls at df92c19cc59ab0449e62e40dc3a57cbc55c8c28f ? trilogy-group/xo-hiring - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring/blob/df92c19cc59ab0449e62e40dc3a57cbc55c8c28f/sfdx/force-app/main/default/classes/AssessmentHelperCodeSignal.cls#L310C19-L318",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 39,
+            "date": "2024-06-15T12:01:41Z",
+            "windowTitle": "xo-hiring/sfdx/force-app/main/default/classes/CalculateBadgeStateService.cls at df92c19cc59ab0449e62e40dc3a57cbc55c8c28f ? trilogy-group/xo-hiring - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring/blob/df92c19cc59ab0449e62e40dc3a57cbc55c8c28f/sfdx/force-app/main/default/classes/CalculateBadgeStateService.cls",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 14,
+            "date": "2024-06-15T12:02:41Z",
+            "windowTitle": "Ajay Srikanth | Candidate | Salesforce - Google Chrome",
+            "processName": "crossover.com",
+            "visitingUrl": "crossover.com/next-step/assessment",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 7,
+            "date": "2024-06-15T12:03:41Z",
+            "windowTitle": "Application Step Results | Salesforce - Google Chrome",
+            "processName": "crossover.lightning.force.com",
+            "visitingUrl": "crossover.lightning.force.com/lightning/r/ApplicationStep__c/a082j000000PZJHAA4/related/Application_Step_Records__r/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 7,
+            "date": "2024-06-15T12:04:41Z",
+            "windowTitle": "Writing Code - Data Structures & Algorithms | Application Step Result | Salesforce - Google Chrome",
+            "processName": "crossover.lightning.force.com",
+            "visitingUrl": "crossover.lightning.force.com/lightning/r/Application_Step_Result__c/a0B2j00000CKon8EAD/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 5,
+            "date": "2024-06-15T12:05:41Z",
+            "windowTitle": "Crossover - Google Chrome",
+            "processName": "crossover.com",
+            "visitingUrl": "crossover.com/my-profile",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 8,
+            "date": "2024-06-15T12:06:41Z",
+            "windowTitle": "Applications | Salesforce - Google Chrome",
+            "processName": "crossover.lightning.force.com",
+            "visitingUrl": "crossover.lightning.force.com/lightning/r/Account/0010o00002TlYc8AAF/related/Opportunities/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 6,
+            "date": "2024-06-15T12:07:41Z",
+            "windowTitle": "Remote Jobs - Work From Home - Google Chrome",
+            "processName": "crossover.com",
+            "visitingUrl": "crossover.com/jobs",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 7,
+            "date": "2024-06-15T12:08:41Z",
+            "windowTitle": "My Profile - Crossover - Google Chrome",
+            "processName": "crossover.com",
+            "visitingUrl": "crossover.com/my-profile",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 7,
+            "date": "2024-06-15T12:09:41Z",
+            "windowTitle": "My Applications - Crossover - Google Chrome",
+            "processName": "crossover.com",
+            "visitingUrl": "crossover.com/applications",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-15T12:00:00Z"
+}

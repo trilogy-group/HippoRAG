@@ -1,0 +1,295 @@
+{
+  "candidateId": 1444536,
+  "apps": [
+    "docs.aws.amazon.com",
+    "cmd",
+    "us-east-1.console.aws.amazon.com",
+    "Notepad",
+    "Code"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T14:12:01Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and system tray with clock showing '15:12 14/06/2024' and language setting 'ENG'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Total Commander",
+            "windows": [
+              {
+                "title": "Total Commander (x64) 10.52 - NOT REGISTERED",
+                "position": "left side of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Commands, Net, Show, Configuration, Start, Help menus; several toolbar icons; dual-pane file manager interface"
+                },
+                "content": [
+                  {
+                    "title": "File Manager",
+                    "layoutDescription": "Dual-pane layout",
+                    "visibleText": "C:\\Users\\xouser\\Projects"
+                  }
+                ]
+              },
+              {
+                "title": "Command Prompt - pip install",
+                "position": "center of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "prompt window with text output"
+                },
+                "content": [
+                  {
+                    "title": "Command Prompt Output",
+                    "layoutDescription": "Text-heavy output",
+                    "visibleText": "Using cached requests-2.32.3-py3-none-any.whl.metadata (4.6 kB)\nCollecting charset-normalizer<4,>=2 (from requests>=2.0.0->requests-oauthlib>=0.7.0->google cached charset normalizer-3.3.2-cp311-cp311-manylinux2_17_x86_64 metadata (33 kB)\nCollecting idna<4,>=2.5 (from requests>=2.0.0->requests-oauthlib>=0.7.0->google cached idna-3.3.7-py3-none-any.whl (140 kB)\nCollecting urllib3>=1.21.1 (from requests>=2.0.0->requests-oauthlib>=0.7.0->google cached urllib3-2.2.1-py3-none-any.whl (121 kB)\nDEPRECATION: Loading a package at compile time (python311\\lib\\site-packages\\vboxapi-1.0-py3.1 is deprecated. pip 24.3 will enforce this behaviour change. A possible replacement is to use pip for package installation. Discussion can be found at https://github.com/pypa/pip/issues/12330\nUninsta collected packages: idna, charset-normalizer, certifi, cachetools, rsa, requests, pyasn1-modules, requests-oauthlib, google-auth, google-auth-oauthlib, gspread"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T14:14:34Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Search, Microsoft Edge, File Explorer, Microsoft Store, Windows Security, Mail, Calendar, Photos, Microsoft Teams, Word, Excel, PowerPoint, OneNote, Visual Studio Code, and a few unidentified applications. Also includes system status icons for network, sound, and battery, and a clock showing '15:14:37 14/06/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "CampaignTracking | Functions | Lambda - Google Chrome",
+                "url": "https://us-east-1.console.aws.amazon.com/lambda/home",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Navigation bar with back, forward, refresh, home buttons, URL bar, bookmarks bar with links to SF Prod, SF Sandbox, ADFS, My Tasks, Crossover Sprints, Technical Debt - Crossover, Guides - Crossover, WS.Eng TPO: Leadership, Task Catalog. Multiple tabs open, one of which is active with the title 'CampaignTracking | Functions | Lambda'"
+                },
+                "content": [
+                  {
+                    "title": "Successfully updated the function CampaignTracking",
+                    "layoutDescription": "Notification banner",
+                    "visibleText": "Successfully updated the function CampaignTracking"
+                  },
+                  {
+                    "title": "Upload a .zip file",
+                    "layoutDescription": "Popup window",
+                    "visibleText": "Upload a .zip file\nWhen you upload a new .zip file package, it overwrites the existing code.\nUpload\ncampaign_tracking_package.zip\n15. MB\nFor files larger than 10 MB, consider uploading using Amazon S3.\nCancel\nSave"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T14:19:14Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes notifications, sound, network, and battery status icons, as well as the date and time display '15:19:16 14/06/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "config.json - campaign-tracking - Visual Studio Code",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Top bar with options like File, Edit, Selection, View, Go, Run, Terminal, Help. Left sidebar with icons for Explorer, Search, Source Control, Run, Extensions. Bottom bar showing 'main' branch, problems count, output, debug console, terminal, and ports tabs"
+                },
+                "content": [
+                  {
+                    "title": "config.json",
+                    "layoutDescription": "Editor layout",
+                    "visibleText": "{\n \"username\": \"dmitrii.shutenkov@trilogy.com.recruiting\",\n \"password\": \"TSv03Vsp\",\n \"security_token\": \"F3pUzV74kSTsMJNuzZR1vnFZ8\",\n \"campaigns\": [\n {\n \"id_patterns\": [\n \"GA-Cat.*\"\n ],\n \"sheet_id\": \"18fm1zh6zM7kRW0r5BfVzHLg-YeztCHg05rqkWl9TBEY\"\n }\n ],\n \"gsheet_credentials\": {\n \"type\": \"service_account\",\n \"project_id\": \"campaign-analysis-422016\",\n \"private_key_id\": \"cbefc97ba0a8faa74f46fde73d235b40c4f2284\",\n \"private_key\": \"-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggS\",\n \"client_email\": \"campaign-analysis@campaign-analysis-422016.iam\",\n \"client_id\": \"1019974151807936934\",\n \"auth_uri\": \"https://accounts.google.com/o/oauth2/auth\",\n \"token_uri\": \"https://oauth2.googleapis.com/token\"\n }\n}"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively working on a Python project related to campaign tracking. At 14:12:01, the user is seen using the Command Prompt to install various Python packages, including 'requests', 'google-auth', and 'gspread'. This indicates that the user is setting up or updating the environment for their project. The Command Prompt output shows the installation process and some deprecation warnings, suggesting the user is ensuring all necessary dependencies are correctly installed.",
+    "At 14:14:34, the user is working in the AWS Lambda console via Google Chrome. They are updating a Lambda function named 'CampaignTracking'. The user uploads a new deployment package named 'campaign_tracking_package.zip', which is 15.56 MB in size. This activity indicates that the user is deploying or updating the code for the Lambda function, likely to implement new features or fix bugs.",
+    "At 14:19:14, the user is working in Visual Studio Code, editing a 'config.json' file for the 'campaign-tracking' project. The file contains sensitive information such as usernames, passwords, security tokens, and Google Sheets credentials. The user is likely configuring the application to interact with various services, including Google Sheets and Salesforce. The presence of multiple open files like 'test.py', 'requirements.txt', and 'lambda_function.py' suggests the user is actively developing and testing the application."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in coding, configuring, and deploying their project without visible assistance from AI tools. The screenshots do not show any AI chat interfaces or AI-driven code suggestions.",
+  "activities": [
+    "WRITING_CODE",
+    "RESEARCH"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "DB",
+    "TESTS"
+  ],
+  "programmingLanguages": [
+    "PYTHON"
+  ],
+  "toolTypes": [
+    "IDE",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 24,
+      "mouse": 15,
+      "date": "2024-06-14T14:10:25Z",
+      "windowTitle": "Working with .zip file archives for Python Lambda functions - AWS Lambda - Google Chrome",
+      "processName": "docs.aws.amazon.com",
+      "visitingUrl": "docs.aws.amazon.com/lambda/latest/dg/python-package.html",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 28,
+      "mouse": 5,
+      "date": "2024-06-14T14:11:25Z",
+      "windowTitle": "Administrator: Command Prompt",
+      "processName": "cmd",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 53,
+      "mouse": 2,
+      "date": "2024-06-14T14:12:25Z",
+      "windowTitle": "Administrator: Command Prompt",
+      "processName": "cmd",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 33,
+      "mouse": 0,
+      "date": "2024-06-14T14:13:25Z",
+      "windowTitle": "Administrator: Command Prompt",
+      "processName": "cmd",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 32,
+      "mouse": 18,
+      "date": "2024-06-14T14:14:25Z",
+      "windowTitle": "CampaignTracking | Functions | Lambda - Google Chrome",
+      "processName": "us-east-1.console.aws.amazon.com",
+      "visitingUrl": "us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/functions/CampaignTracking?newFunction=true&tab=code",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 25,
+      "mouse": 14,
+      "date": "2024-06-14T14:15:25Z",
+      "windowTitle": "*aws lambda invoke  - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 25,
+      "mouse": 9,
+      "date": "2024-06-14T14:16:25Z",
+      "windowTitle": "config.json - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 35,
+      "mouse": 4,
+      "date": "2024-06-14T14:17:25Z",
+      "windowTitle": "*aws lambda invoke  - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 24,
+      "mouse": 20,
+      "date": "2024-06-14T14:18:25Z",
+      "windowTitle": "*aws lambda invoke  - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 9,
+      "date": "2024-06-14T14:19:25Z",
+      "windowTitle": "config.json - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-14T14:10:00Z"
+}

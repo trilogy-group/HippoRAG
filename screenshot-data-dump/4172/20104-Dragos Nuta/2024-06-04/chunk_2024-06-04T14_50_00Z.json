@@ -1,0 +1,385 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "Teams",
+    "Notepad",
+    "docs.google.com",
+    "mail.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-04T14:50:04Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Mail, Chat, Meet, Google Chrome, Microsoft Teams, and system utilities like clock and language settings",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "LinkedIn Renewal 2024 - Google Sheets",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Address bar, bookmarks bar, and multiple extension icons"
+                },
+                "content": [
+                  {
+                    "title": "LinkedIn Renewal 2024",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "Plan Slots Cost Cost/slot Now 3,480 $1,600,000 $460 Early renewal 3,788 $2,300,000 $607 Late renewal 3,788 $2,600,000 $686 Reduce to 75% 2,610 $2,000,000 $766 Reduce to 50% 1,740 $1,600,000 $920 Reduce to 25% 870 $930,000 $1,069 Cost per slot Slots Cost Now: $1.6M Early renewal: $2.3M Late renewal: $2.6M Reduce to 75%: $2M Reduce to 50%: $1.6M Reduce to 25%: $0.9M"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Teams",
+            "windows": [
+              {
+                "title": "Microsoft Teams Meeting",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Conference window with controls for camera, mic, share, and leave"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Scott Saunders",
+                      "expression": "Focused"
+                    },
+                    {
+                      "name": "Thomas Kinnie",
+                      "expression": "Neutral"
+                    }
+                  ]
+                },
+                "content": [
+                  {
+                    "title": "Microsoft Teams Meeting",
+                    "layoutDescription": "Video conference layout",
+                    "visibleText": "Scott Saunders & Thomas Kinnie"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T14:53:54Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Inbox, Chat, Meet, and other applications. System clock shows '5:53 PM'. Language indicator shows 'ENG'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "LinkedIn Renewal 2024 - Google Sheets",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Toolbar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help. Sheet tabs named 'analytics', 'impact-on-hires', 'Sheet4', 'contract'."
+                },
+                "content": [
+                  {
+                    "title": "LinkedIn Renewal 2024",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "Plan Slots Cost Cost/slot Now 3,480 $1,600,000 $460 Early renewal 3,788 $2,300,000 $607 Late renewal 3,788 $2,600,000 $686 Reduce to 75% 2,610 $2,000,000 $766 Reduce to 50% 1,740 $1,600,000 $920 Reduce to 25% 870 $930,000 $1,069 Cost per slot Slots Cost Now: $1.6M Early renewal: $2.3M Late renewal: $2.6M Reduce to 75%: $2M Reduce to 50%: $1.6M Reduce to 25%: $930K"
+                  }
+                ]
+              },
+              {
+                "title": "Video Call - Google Meet",
+                "url": "https://meet.google.com",
+                "position": "right half of the screen",
+                "isActive": false,
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Scott Saunders",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Thomas Kinnie",
+                      "expression": "smiling"
+                    }
+                  ]
+                },
+                "uiElements": {
+                  "details": "Call controls include Camera, Mic, Share, Leave buttons."
+                },
+                "content": [
+                  {
+                    "title": "Video Call",
+                    "layoutDescription": "Video call layout",
+                    "visibleText": "Scott Saunders Thomas Kinnie"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Notepad",
+            "windows": [
+              {
+                "title": "10% management feed on the spend - Notepad",
+                "position": "foreground, small window",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Toolbar with File, Edit, View, Format, Help."
+                },
+                "content": [
+                  {
+                    "title": "10% management feed on the spend",
+                    "layoutDescription": "Text editor layout",
+                    "visibleText": "10% management feed on the spend start at $28k/month"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-04T14:57:45Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Inbox, WS Product - Chat, React App, DevFactory - Code, TODO & Notes - Docs, DIY - AI, The Innovatrix, LinkedIn, Google Chrome, and system utilities like search, Cortana, and time display",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "LinkedIn Renewal 2024",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs for analytics, impact-on-hires, Sheet4, contract, and a search bar at the bottom"
+                },
+                "content": [
+                  {
+                    "title": "LinkedIn Renewal 2024",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "Plan Slots Cost Cost/slot Projected flow CpA Now 3,480 $1,600,000 $460 80,000 $0.38 Early renewal 3,788 $2,300,000 $607 85,000 $0.52 Late renewal 3,788 $2,600,000 $686 85,000 $0.59 Reduce to 75% 2,610 $2,000,000 $766 73,600 $0.52 Reduce to 50% 1,740 $1,600,000 $920 64,000 $0.48 Reduce to 25% 870 $930,000 $1,069 40,000 $0.45 Cost per slot chart showing bars for Slots and lines for Cost/slot with values like $460, $607, $686, $766, $920, $1,069"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Teams",
+            "windows": [
+              {
+                "title": "Video Call - Microsoft Teams",
+                "position": "right side of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "call interface with options for camera, mic, share, and leave"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "Scott Saunders",
+                      "expression": "neutral"
+                    },
+                    {
+                      "name": "Thomas Kinnie",
+                      "expression": "neutral"
+                    }
+                  ]
+                },
+                "content": [
+                  {
+                    "title": "Video Call - Microsoft Teams",
+                    "layoutDescription": "Video call layout",
+                    "visibleText": "Scott Saunders Thomas Kinnie"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a meeting on Microsoft Teams, as evidenced by the video conference window showing participants Scott Saunders and Thomas Kinnie. The meeting appears to be focused on discussing a spreadsheet titled 'LinkedIn Renewal 2024' in Google Sheets. The spreadsheet contains detailed financial data, including plans, slots, costs, and cost per slot for various renewal strategies. The user is actively viewing and possibly discussing this data during the meeting.",
+    "In addition to the meeting, the user is also using Notepad to jot down notes. The content of the Notepad window includes a note about a '10% management feed on the spend' with a starting amount of '$28k/month'. This suggests that the user is multitasking, taking notes related to the discussion in the meeting or preparing for future tasks.",
+    "The user is also actively engaged with a Google Sheets document titled 'LinkedIn Renewal 2024'. The spreadsheet includes various financial projections and cost analyses for different renewal plans. The user is likely analyzing this data to make informed decisions during the meeting. The spreadsheet tabs include 'analytics', 'impact-on-hires', 'Sheet4', and 'contract', indicating a comprehensive analysis of the renewal plans.",
+    "Throughout the session, the user is also seen interacting with their email application, Gmail. The Gmail interface shows multiple unread emails, indicating that the user might be keeping an eye on their inbox for any important updates or communications related to their ongoing tasks."
+  ],
+  "aiUseSummary": "",
+  "activities": [
+    "MEETING",
+    "READING_SPEC",
+    "CHATTING_WITH_TEAM",
+    "EMAIL"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T14:50:11Z",
+      "windowTitle": "Microsoft Teams classic",
+      "processName": "Teams",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 2,
+      "mouse": 2,
+      "date": "2024-06-04T14:51:11Z",
+      "windowTitle": "Microsoft Teams classic",
+      "processName": "Teams",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T14:52:11Z",
+      "windowTitle": "Microsoft Teams classic",
+      "processName": "Teams",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-04T14:53:11Z",
+      "windowTitle": "Microsoft Teams classic",
+      "processName": "Teams",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 66,
+      "mouse": 20,
+      "date": "2024-06-04T14:54:11Z",
+      "windowTitle": "*10% management feed on the spend - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-04T14:55:11Z",
+      "windowTitle": "LinkedIn Renewal 2024 - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/15qbfVhYejRHmlMaKG7zsT1iAlYOGAmJb-Ucu7JeqLaw/edit#gid=1283873021",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 9,
+      "mouse": 6,
+      "date": "2024-06-04T14:56:11Z",
+      "windowTitle": "*10% management feed on the spend - Notepad",
+      "processName": "Notepad",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 14,
+      "mouse": 0,
+      "date": "2024-06-04T14:57:11Z",
+      "windowTitle": "Microsoft Teams classic",
+      "processName": "Teams",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 4,
+      "mouse": 1,
+      "date": "2024-06-04T14:58:11Z",
+      "windowTitle": "Microsoft Teams classic",
+      "processName": "Teams",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 140,
+      "mouse": 21,
+      "date": "2024-06-04T14:59:11Z",
+      "windowTitle": "XO Candidate Support Escalations - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAA-H2qkRA",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-04T14:50:00Z"
+}

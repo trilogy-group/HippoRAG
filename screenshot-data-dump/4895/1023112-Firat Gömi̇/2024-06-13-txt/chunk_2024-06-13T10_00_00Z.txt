@@ -1,0 +1,341 @@
+{
+    "candidateId": 2027577,
+    "apps": [
+        "docs.google.com",
+        "trilogy-sales.lightning.force.com",
+        "aws.prod.jivehosted.com",
+        "ekonomi-bolaget.jiveon.com",
+        "mail.google.com",
+        "medium.com",
+        "web.outreach.io"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-13T10:00:55Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Contacts, Calendar, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a dock with application icons for Google Chrome, Microsoft Teams, Visual Studio Code, and others. Spotlight search icon visible. Notification center icon visible.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Email outbox - Outreach",
+                                "url": "https://www.outreach.io/outbox?u",
+                                "position": "center of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Address bar, bookmarks bar, extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email outbox",
+                                        "layoutDescription": "Web page layout",
+                                        "visibleText": "Email outbox\n0 Total\n0 Drafted\n0 Scheduled\n0 Delivering\n0 Delivered\nYour emails\nSender is you\nAdd filter\nRecipients\nContent\nNo results\nMailbox is not configured. Configure it"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Unknown Prospect",
+                                "url": "https://www.apollo.io",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Browser window"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Unknown Prospect",
+                                        "layoutDescription": "Popup layout",
+                                        "visibleText": "Unknown Prospect\n+44 20 1111 10 00\nCompleted\nCall purpose\nCall disposition*\nThis field is required\nCall notes\nCall tags\n(404)-Success\nSubmit Feedback\nDon't log call\nLog call"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Teams",
+                        "windows": [
+                            {
+                                "title": "Team Chat",
+                                "position": "bottom left of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Chat interface"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Team Chat",
+                                        "layoutDescription": "Chat window layout",
+                                        "visibleText": "Team Chat\nMissed Calls\nMentions\nContact Requests\nDrafts and Sent\nMore\nMessages\nStarred\nFrom: Root (You)\nRecent\nJive - TPM/TMG daily sit down\nJive - TPM/TMG standup\nJive - customer focused calls\nJive - customer focus\nMessage Jive - TPM/TMG daily sit down demo"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-13T10:06:14Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Siri, Google Chrome, Microsoft Outlook, Visual Studio Code, Terminal, and others. Displays the date and time as 'Wed 10:06'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Jive Admin Console : User Profiles - Part of group Jive",
+                                "url": "https://jiveadmin.trilogy.com/jiveadmin",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "navigation tabs, search bar, user profile options"
+                                },
+                                "content": [
+                                    {
+                                        "title": "User Profiles",
+                                        "layoutDescription": "list and form",
+                                        "visibleText": "User Profiles - Part of group Jive\nSearch Users: [search bar]\nAdd New User\nUser List:\n- John Doe\n- Jane Smith\n- Michael Brown"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-13T10:09:03Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Contacts, Calendar, Reminders, Notes, Photo Booth, Maps, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Time Machine, and others. Docked at the bottom of the screen with a slight 3D effect and transparency.",
+                        "position": "bottom"
+                    },
+                    {
+                        "elementType": "clock",
+                        "details": "Displays the current time as 'Thu Jun 13 10:09'",
+                        "position": "top-right"
+                    },
+                    {
+                        "elementType": "status icons",
+                        "details": "Includes Wi-Fi signal, battery indicator, and Spotlight search icon.",
+                        "position": "top-right"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Ekonomibolaget - Jive - Renewal - 4_2024 | Opportunity | Salesforce",
+                                "url": "https://ekonomibolaget.lightning.force.com",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Multiple tabs, address bar, bookmarks bar, navigation buttons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Opportunity Details",
+                                        "layoutDescription": "Structured layout with sections",
+                                        "visibleText": "Opportunity Name: Ekonomibolaget - Jive - Renewal - 4_2024\nStage: Renewal\nClose Date: 4/6/2024\nType: Renewal\nAmount: USD 200,000.00\nOwner: Firat\n\nActivity History:\n- 1/19/2024: SYSTEM: Primary Quote is out for signature, moving the opportunity to Quote Follow-up stage.\n- 1/18/2024: CUSTOMER: Quote request still pending. Follow up on the ticket here: [link]\n- 1/17/2024: SYSTEM: Quote at renewal stage received. Click on the ticket link: [link]\n\nRenewal Details:\nParent Subscription ID: 577713\nRenewal Subscription Name: Ekonomibolaget-Jive Renewal - 4Q/2021\nCurrent Subscription Start Date: 4/6/2021\nCurrent Subscription End Date: 4/6/2024\nCurrent Product: Jive Cloud with Standard Support\nCurrent Cost: USD 200,000.00\nCurrent Cost Metric: Standard\nCurrent Billing Frequency: Annual"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Team Chat",
+                                "position": "bottom-left",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Chat interface with message list, search bar, and user list"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Team Chat",
+                                        "layoutDescription": "Chat layout with messages and user list",
+                                        "visibleText": "Messages:\n- Melissa: Need Contacts\n- Connor: Missed Calls\n- Michael: Drafts and Sent\n\nStarred:\n- RM: Great Room (Prod)\n\nRecents:\n- Jive - TPM/Triage daily stand demo\n- Jive - TPM/Triage standup\n- Jive - Customer focus\n\nMessage Jive - TPM/Triage daily stand demo:\n- RM: 'Type 'next' to skip' - Slack Call\n- RM: 'Meeting notes here' - Slack Call"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively managing their email outbox using the Outreach application. The screenshot shows the user viewing the 'Email outbox' page, which displays various email statuses such as Total, Drafted, Scheduled, Delivering, Delivered, Unopened, Opened, Clicked, Replied, Failed, and Bounced. The user is also interacting with a call log interface on the right side of the screen, indicating they are logging call details for an unknown prospect.",
+        "The user is managing user profiles in the Jive Admin Console. The screenshot shows the 'User Profiles' page, where the user can search for users, add new users, and view a list of existing users with details such as email, user ID, and last login date. The user is likely performing administrative tasks related to user management within the Jive platform.",
+        "The user is working on a renewal opportunity in Salesforce for Ekonomibolaget. The screenshot shows detailed information about the renewal opportunity, including the opportunity name, stage, close date, type, amount, owner, and activity history. The user is likely reviewing and updating the opportunity details to ensure accurate tracking and follow-up for the renewal process.",
+        "The user is engaged in team communication via Microsoft Teams. The screenshot shows the 'Team Chat' interface with various chat channels and messages. The user is participating in discussions related to daily standups, customer-focused calls, and other team activities. This indicates active collaboration and communication with team members to coordinate tasks and share updates."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in managing emails, user profiles, and opportunities, as well as team communication. No AI chat interfaces or AI-generated content are visible in the screenshots.",
+    "activities": [
+        "EMAIL",
+        "CHATTING_WITH_TEAM",
+        "READING_SPEC"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "UI"
+    ],
+    "programmingLanguages": [
+        "SALESFORCE"
+    ],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DOCUMENT_VIEWER_OR_EDITOR"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "EMAIL",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 16,
+            "mouse": 6,
+            "date": "2024-06-13T10:00:44Z",
+            "windowTitle": " [Draft] PM. Playbook - Google Docs - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/document/d/1NnuOrDIVWNOFp8bniKJH9FfXwm_mRDxbl_ubCXMVAA4/edit#heading=h.lxk935l24iwk",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 69,
+            "mouse": 10,
+            "date": "2024-06-13T10:01:44Z",
+            "windowTitle": " Ekonomibolaget - Jive - Renewal - 4_2024 | Opportunity | Salesforce - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "trilogy-sales.lightning.force.com",
+            "visitingUrl": "https://trilogy-sales.lightning.force.com/lightning/r/Opportunity/0062x00000BUh62AAD/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 25,
+            "mouse": 8,
+            "date": "2024-06-13T10:02:44Z",
+            "windowTitle": " mycristal - Part of group Jive - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "aws.prod.jivehosted.com",
+            "visitingUrl": "https://aws.prod.jivehosted.com/admin/jcx-installation-view.jspa?uri=jcx-inst-qkpc9nfk6fmfrzm3tstqpu&env=aws-eu-west-1-infra-prod#",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 37,
+            "mouse": 11,
+            "date": "2024-06-13T10:03:44Z",
+            "windowTitle": " JCA for Aurea (PROD) - AWS Installations - Part of group Jive - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "aws.prod.jivehosted.com",
+            "visitingUrl": "https://aws.prod.jivehosted.com/admin/jcx-installation-view.jspa?uri=jcx-inst-prifu6ystvpsxl6cxfaypt&env=aws-eu-west-1-infra-prod",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 11,
+            "mouse": 6,
+            "date": "2024-06-13T10:04:44Z",
+            "windowTitle": " Lightning Experience - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "trilogy-sales.lightning.force.com",
+            "visitingUrl": "https://trilogy-sales.lightning.force.com/lightning/r/0032x00000YAsW2AAL/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 19,
+            "mouse": 6,
+            "date": "2024-06-13T10:05:44Z",
+            "windowTitle": " Jive Admin Console : User Profiles - Part of group Jive - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "ekonomi-bolaget.jiveon.com",
+            "visitingUrl": "https://ekonomi-bolaget.jiveon.com/admin/editUserProfile!input.jspa?userId=2003",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 20,
+            "mouse": 6,
+            "date": "2024-06-13T10:06:44Z",
+            "windowTitle": " George Dita messaged you - Chat - Pinned - Audio playing - High memory usage - 1.8 GB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#sent/FMfcgzQVwwvCsqsvqfXbLGMCMjrvLhhT",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 48,
+            "mouse": 5,
+            "date": "2024-06-13T10:07:44Z",
+            "windowTitle": " Revolutionize Your Challenge Creation with Influitive\u00e2\u0080\u0099s New AI-Powered Chrome Extension | by George Dita | May, 2024 | Medium - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "medium.com",
+            "visitingUrl": "https://medium.com/@george.dita_45883/revolutionize-your-challenge-creation-with-influitives-new-ai-powered-chrome-extension-0569cb3ab8c2",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 1,
+            "mouse": 10,
+            "date": "2024-06-13T10:08:44Z",
+            "windowTitle": " Ekonomibolaget - Jive - Renewal - 4_2024 | Opportunity | Salesforce - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "trilogy-sales.lightning.force.com",
+            "visitingUrl": "https://trilogy-sales.lightning.force.com/lightning/r/Opportunity/0062x00000BUh62AAD/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 40,
+            "mouse": 11,
+            "date": "2024-06-13T10:09:44Z",
+            "windowTitle": " Email outbox - Outreach - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "web.outreach.io",
+            "visitingUrl": "https://web.outreach.io/outbox?smart_view=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-13T10:00:00Z"
+}

@@ -1,0 +1,294 @@
+{
+  "candidateId": 1444536,
+  "apps": [
+    "Code",
+    "pythonw",
+    "TOTALCMD64"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T10:20:47Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, File Explorer, Microsoft Edge, and other unidentified applications. Displays the time as 11:21:01 and date as 14/06/2024. System tray includes network, sound, and battery status icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Developer Console - Google Chrome",
+                "url": "https://crossover.my.salesforce.com/ui/com",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Buttons for Execute, Use Tooling API, Save Rows, Insert Row, Delete Row, Refresh Grid, View State, Progress, Problems"
+                },
+                "content": [
+                  {
+                    "title": "SQL Query Editor",
+                    "layoutDescription": "Text editor with SQL code",
+                    "visibleText": "SELECT Id, AccountId, CampaignId, CreatedDate, Lead_Source_Campaign_C, Advertised_Title_C, Candidate_Country_C, CCAT_Score_C, Last_Active_Stage_C, StageName FROM Opportunity WHERE CampaignId IN (SELECT Id from Campaign WHERE Name like 'GA-Cat.%') AND CreatedDate > 2000-01-01T00:00:00+0000 ORDER BY CreatedDate"
+                  },
+                  {
+                    "title": "Query Results - Total Rows: 2465",
+                    "layoutDescription": "Table with multiple columns",
+                    "visibleText": "Columns include Id, AccountId, CampaignId, CreatedDate, Lead_Source_Campaign_C, Advertised_Title_C, Candidate_Country_C, CCAT_Score_C, Last_Active_Stage_C, StageName. Sample data includes multiple rows with values for each column, such as Id '0061j000002uHyMIAU', AccountId '001j0000003EM8QLAG', CampaignId '701j0000000KJyLAA', CreatedDate '2024-05-26T19:26:02.000Z', Lead_Source_Campaign_C 'Ga-Cat.AL.SWDE.pmaxA...', Advertised_Title_C 'VP of Design', Candidate_Country_C 'ke', CCAT_Score_C '0', Last_Active_Stage_C 'BFQ', StageName 'Rejected'."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T10:24:01Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Search, Edge, File Explorer, Windows Store, Mail, Calendar, Photos, and Settings. Also shows the system tray with network, sound, and battery status icons, date and time display.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "test.py - tools - Visual Studio Code",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar at the top with File, Edit, Selection, View, Go, Run, Terminal, Help menus. Left sidebar with icons for Explorer, Search, Source Control, Run and Debug, Extensions, and more. Bottom bar with Python version, spaces, UTF-8, CRLF, line and column indicator."
+                },
+                "content": [
+                  {
+                    "title": "EXPLORER",
+                    "layoutDescription": "vertical list",
+                    "visibleText": "OPEN EDITORS\n3 unsaved\nWelcome\nREADME.md\n.gitattributes\nsale campaign-tracking\nlambda_function.py campaign-tracking\nconfig.json campaign-tracking\nUntitled-1\nTOOLS\n campaign-tracking\n .pycache__\n config.json\n lambda_function.py\n salesforce.py\n test.py\n .gitattributes\n README.md"
+                  },
+                  {
+                    "title": "test.py",
+                    "layoutDescription": "code editor",
+                    "visibleText": "from salesforce import SalesforceConnection\n\n# print(campaign_query(['GA-Cat.%', 'GA-518.%'], '2000-01-01T00:00:00.000+0000'))\nsf_connection = SalesforceConnection('dmitrii.shutenkov@trilogy.com', 'Tsv3Vsp3', 'F3pzUv74kSTSmJNuz')\nres = sf_connection.get_applications(['GA-Cat.%'])\nprint(results[0])"
+                  },
+                  {
+                    "title": "Command line interface",
+                    "layoutDescription": "command line interface",
+                    "visibleText": "PS C:\\Users\\dcima\\Projects\\tools\\campaign-tracking> python.exe test.py\nSELECT Id, AccountId, CampaignId, CreatedDate, Lead_Source_Campaign__c, Advertised_Title_C, Candidate_Country__c, CCAT_Score__c, Last_Active_Stage__c, StageName\nFROM Opportunity WHERE\nCampaignId IN (SELECT Id from Campaign WHERE Name like 'GA-Cat.%') AND\nCreatedDate > 2000-01-01T00:00:00.000+0000 ORDER BY CreatedDate\n\nTraceback (most recent call last):\nFile \"C:\\Users\\dcima\\Projects\\tools\\campaign-tracking> line 5, in <module>\nres = sf_connection.get_applications(['GA-Cat.%'])\nFile \"C:\\Users\\dcima\\Projects\\tools\\campaign-tracking> line 25, in get_applications\nprint(results[0])\n\nKeyError: '^^^^^^^^^'"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T10:27:13Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, File Explorer, Microsoft Edge, Visual Studio Code, and system tray with network, sound, battery, and clock indicators",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Total Commander (x64) 10.52 - NOT REGISTERED",
+            "windows": [
+              {
+                "title": "Total Commander (x64) 10.52 - NOT REGISTERED",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, Search, Source, Run, Debug, Configuration, Start, Help. Toolbar with icons for view modes, copy, move, new folder, delete, edit, and other file operations"
+                },
+                "content": [
+                  {
+                    "title": "Left Panel",
+                    "layoutDescription": "List of directories and files",
+                    "visibleText": "C:\\Users\\<user>\\.\nName\t09:02\t----\n[.conda]\t\t<DIR>\t01/04/2024 18:29\t----\n[.continuum]\t\t<DIR>\t01/04/2024 11:11\t----\n[.cursor]\t\t<DIR>\t28/08/2023 09:22\t----\n[.cursor-tutor]\t\t<DIR>\t26/08/2023 18:23\t----\n[.cursor-tutor-1]\t\t<DIR>\t26/08/2023 18:23\t----\n[.docker]\t\t<DIR>\t01/01/2024 10:30\t----\n[.dotnet]\t\t<DIR>\t14/07/2023 11:17\t----\n[.gradle]\t\t<DIR>\t01/05/2023 15:56\t----\n[.ipython]\t\t<DIR>\t05/05/2023 12:33\t----\n[.jupyter]\t\t<DIR>\t05/05/2023 14:31\t----\n[.m2]\t\t<DIR>\t23/05/2023 15:38\t----\n[.matplotlib]\t\t<DIR>\t23/05/2023 11:20\t----\n[.ms-ad]\t\t<DIR>\t24/08/2023 13:16\t----\n[.omnisharp]\t\t<DIR>\t06/06/2024 08:51\t----\n[.sf]\t\t<DIR>\t05/06/2024 13:26\t----\n[.sfdx]\t\t<DIR>\t01/08/2023 13:24\t----\n[.spyder-py3]\t\t<DIR>\t07/08/2023 13:26\t----\n[.ssh]\t\t<DIR>\t01/07/2023 13:26\t----\n[.templateengine]\t\t<DIR>\t01/08/2023 13:26\t----\n[.VirtualBox]\t\t<DIR>\t11/07/2023 15:01\t----\n[.vscode]\t\t<DIR>\t23/05/2023 08:33\t----\n[AndroidStudioProjects]\t\t<DIR>\t11/06/2024 15:31\t----\n[AppData]\t\t<DIR>\t29/04/2023 09:07\t----\n[Application Data]\t\t<DIR>\t29/04/2023 09:07\t----\n[Contacts]\t\t<DIR>\t29/04/2023 09:07\t----\n[Cookies]\t\t<DIR>\t29/04/2023 09:07\t----\n[Desktop]\t\t<DIR>\t12/06/2024 16:22\t----\n[Documents]\t\t<DIR>\t29/05/2023 09:07\t----\n[Downloads]\t\t<DIR>\t14/06/2024 02:44\t----\n[Favorites]\t\t<DIR>\t19/05/2023 10:18\t----\n[Jedi]\t\t<DIR>\t18/05/2023 09:07\t----\n[Links]\t\t<DIR>\t28/05/2023 09:18\t----\n[Local Settings]\t\t<LNK>\t07/04/2024 11:41\t----"
+                  },
+                  {
+                    "title": "Right Panel",
+                    "layoutDescription": "List of directories and files",
+                    "visibleText": "C:\\tmp\\.\nName\tExt\tSize\t09:15\t----\n[.pycache]\t\t<DIR>\t01/03/2024 13:38\t----\n[1f839842-6202-4f56-959b..]\t\t<DIR>\t08:09\t----\n[6f83a43c-452f-43c5-87a5..]\t\t<DIR>\t17:37\t----\n[f0ce3237-1973-47c2-812a..]\t\t<DIR>\t20:32\t----\n[00b7437e-0ab8-4c83-8df9..]\t\t<DIR>\t13:22\t----\n[f0c0e072-0e2a-4e3e-9ad1..]\t\t<DIR>\t09:55\t----\n[20d60f63-c0d6-4a3f-ae52..]\t\t<DIR>\t11:41\t----\n[f0f172e7-276a-46ba-a738..]\t\t<DIR>\t08:44\t----\n[053qckez.sh]\t\t<DIR>\t19/08/2023 15:20\t----\n[70f174fe-732c-4cd2-b444..]\t\t<DIR>\t20:50\t----\n[0a0a6815-7c03-4ab3-8337..]\t\t<DIR>\t09:08\t----\n[0b0b7f0b-7e20-4c6a-bcf8..]\t\t<DIR>\t15:55\t----\n[0b4542f8-1046-423c-a41a..]\t\t<DIR>\t14:23\t----\n[0b47a1b1-0d2f-46a0-bd1e..]\t\t<DIR>\t09:34\t----\n[0c0e7p22.mvt]\t\t<DIR>\t12/08/2023 17:46\t----\n[0d76974c-ba61-4b9c-b05c..]\t\t<DIR>\t11:48\t----\n[0fg6irxd.csh]\t\t<DIR>\t07/09/2023 11:49\t----\n[0ivtnpys.mod]\t\t<DIR>\t24/09/2023 14:54\t----\n[0ouqzzes.3ac]\t\t<DIR>\t01/09/2023 14:53\t----\n[0shwhmt2.sud]\t\t<DIR>\t13/09/2023 15:02\t----\n[10f1q2ta.zwc]\t\t<DIR>\t06/09/2023 16:00\t----\n[11cf93a9-6ed3-4693-afba..]\t\t<DIR>\t08:53\t----\n[11gk9fhw.swb]\t\t<DIR>\t14/06/2024 15:00\t----\n[12kuc2jp.lol]\t\t<DIR>\t18/08/2023 17:31\t----\n[12m2ipca.hba]\t\t<DIR>\t29/08/2023 18:38\t----\n[1413ae1b-b90-4eef-8268..]\t\t<DIR>\t10:37\t----\n[1481z2ac.bea]\t\t<DIR>\t16/05/2024 12:27\t----\n[1489fe61-5a80-4e07-bf33..]\t\t<DIR>\t23:32\t----\n[154a5b0a-3e1a-4d0a-923e..]\t\t<DIR>\t18:43\t----\n[1694c5a7-82ff-4e1d-b4db..]\t\t<DIR>\t19:10\t----\n[16c5b1b2-946e-45f9-bb4e..]\t\t<DIR>\t11:41\t----\n[18378cd8-98d4-4d5f-bb9f..]\t\t<DIR>\t13:36\t----"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in querying a Salesforce database using SQL. The query retrieves various fields such as Id, AccountId, CampaignId, CreatedDate, Lead_Source_Campaign_C, Advertised_Title_C, Candidate_Country_C, CCAT_Score_C, Last_Active_Stage_C, and StageName from the Opportunity table. The results are displayed in a table format with a total of 2465 rows. This activity indicates the user is analyzing or extracting data for further processing or reporting.",
+    "The user is writing and debugging Python code in Visual Studio Code. The code involves connecting to a Salesforce instance and executing a query to retrieve application data. The user encounters a KeyError while trying to print the results, indicating an issue with accessing the data. The user is likely troubleshooting this error to ensure the correct data is retrieved and processed.",
+    "The user is managing files and directories using Total Commander. The left panel displays various directories under the user's home directory, while the right panel shows directories and files under the C:\\tmp\\ directory. This activity suggests the user is organizing or accessing files necessary for their development tasks, possibly related to the Python scripts or Salesforce data."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in querying databases, writing and debugging Python code, and managing files. No AI chat interfaces or AI-generated suggestions are visible in the screenshots, indicating that the user is not leveraging AI tools for their current tasks.",
+  "activities": [
+    "WRITING_CODE",
+    "NAVIGATING_CODE"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "DB"
+  ],
+  "programmingLanguages": [
+    "PYTHON",
+    "SALESFORCE",
+    "SQL"
+  ],
+  "toolTypes": [
+    "IDE",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 6,
+      "mouse": 7,
+      "date": "2024-06-14T10:20:24Z",
+      "windowTitle": "salesforce.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 18,
+      "mouse": 7,
+      "date": "2024-06-14T10:21:24Z",
+      "windowTitle": "test.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 11,
+      "mouse": 4,
+      "date": "2024-06-14T10:22:24Z",
+      "windowTitle": "salesforce.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 35,
+      "mouse": 8,
+      "date": "2024-06-14T10:23:24Z",
+      "windowTitle": "test.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 3,
+      "mouse": 4,
+      "date": "2024-06-14T10:24:24Z",
+      "windowTitle": ".env - master-assistant - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 1,
+      "mouse": 12,
+      "date": "2024-06-14T10:25:24Z",
+      "windowTitle": "Open file",
+      "processName": "pythonw",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 19,
+      "mouse": 5,
+      "date": "2024-06-14T10:26:24Z",
+      "windowTitle": "Spyder",
+      "processName": "pythonw",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 2,
+      "mouse": 25,
+      "date": "2024-06-14T10:27:24Z",
+      "windowTitle": "Total Commander (x64) 10.52 - NOT REGISTERED",
+      "processName": "TOTALCMD64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 2,
+      "mouse": 24,
+      "date": "2024-06-14T10:28:24Z",
+      "windowTitle": "Spyder",
+      "processName": "pythonw",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 4,
+      "mouse": 15,
+      "date": "2024-06-14T10:29:24Z",
+      "windowTitle": "Spyder",
+      "processName": "pythonw",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-14T10:20:00Z"
+}

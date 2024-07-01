@@ -1,0 +1,315 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "meet.google.com",
+        "mail.google.com",
+        "notion.so"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T14:00:59Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Edge, File Explorer, Google Chrome, and several other unidentified applications. System tray includes notifications, ENG language indicator, sound, network, and power icons. Clock shows '5:00 PM' and date '5/6/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Threads",
+                                "url": "http://threads.example.com",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs for 'AI Assist', 'Threads', and two other tabs. Address bar visible with URL. Bookmark bar visible with several bookmarks."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Threads",
+                                        "layoutDescription": "list and detail view",
+                                        "visibleText": "Threads\nA thread represents a conversation session between an assistant and a user.\nSearch by name...\nFilter | 1 filter(s)\nPast month\nName\nPlease write an email to the Magic Academy Beta testers that is a follow-up to our last session.\n05/06/2024, 4:19:01 PM tristan.m\nWhat was the link the Samy shared over email about 7 golden rules for Getting Things Done?\n05/06/2024, 3:26:09 PM bogdan.c\nOpen\nHelp me craft a reply for this email: Subject: 'Stack AI - Trilogy' from: Ber...\n05/06/2024, 1:42:16 PM bogdan.c\nI received the following email - generate a reply for me. Subject: '@gt.sch...\n05/06/2024, 1:14:27 PM bogdan.c\nWhat were the most important decisions I made today on Tivian?\n04/06/2024, 11:55:08 PM nouamarr\nwhat did I do today, and how could I have used AI better?\n04/06/2024, 10:39:53 PM simon.saul\n55 total row(s).\nGene Requests Notifications"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Meet - uus-dzji-wsj - Google Chrome",
+                                "url": "https://meet.google.com/uus-dzji-wsj",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "conference controls visible including microphone, camera, and presentation buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Meet - uus-dzji-wsj",
+                                        "layoutDescription": "Video conference grid",
+                                        "visibleText": "Meet - uus-dzji-wsj\nParticipants:\nSimon Said\nSerban Petrescu\nTim Jones\nDmitry Bakaev\nBogdan Tenea\nSamy Aboel-Nil\nIsaac Squires\nDragos Nut\u0103\n2 others"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T14:05:51Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, widgets, chat, Microsoft Edge, File Explorer, Microsoft Store, and system tray with notifications, sound, network, and battery status icons",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "tristan.muniz@learnw - Chat - Google Chrome",
+                                "url": "mail.google.com/chat/u/0/#/chat/dm",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, profile icon, extensions, and settings menu"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat",
+                                        "layoutDescription": "standard chat layout",
+                                        "visibleText": "Shortcuts\nHome 6\nMentions 3\nStarred\nDirect messages 5\nGenerate AI - weekly... Now\nTristan Muniz\nAnuj, Joe, Jozsef\nMuhammad Javed\nDavid Schwartz\nJozsef Czapovics\nJoe Conley\nBogdan Tenea\nSpaces 1\nFeature Line automations\nXO Team Chat\nCNU Q Business ProductM...\ntpm reboot\nCrossover - Upwork Sourcin...\nCNU AI Assist - Extract Doc...\nXO Candidate Support Escal...\nAWS News\nCentral PMs team\nGFI BU/CE/TPM Managem...\nAI Coach - internal\nSpace Request Notifications\n\nTristan Muniz\nHi Dragos, yes I am\n\nI actually look usage but it is hard sometime to tell how useful the output was, so your feedback would be greatly appreciated\n\nTristan Muniz\nGreat, will do. Do you have any examples on how you guys have been using it differently than gpt?\n\nTristan Muniz\nAlso is there a way of using an assistant in it or is it just chatgpt?\n\none example is when you would go to a GPT but you would have to explain a lot of things in order for it to do the work, and those things are things you've seen but it takes time to stitch them or write them down\n\nas it would act as a vanilla GPT/Claude but with access to those things you've seen and are in your mind\n\nanother example, is to scan your history ... eg what did X have to say about Y? what progress did I review with X last week? what is the document that was talking about?"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T14:07:26Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Notion, Outlook, Edge, Chrome, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '5:07 PM'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - uus-dzji-wsj - Google Chrome",
+                                "url": "meet.google.com/uus-dzji-wsj",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs for 'Meet - uus-dzji-wsj', 'Product Change Specs / ProductMind / Amazon Q Business - Teardown', and other tabs. Address bar, bookmarks bar visible."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference",
+                                        "layoutDescription": "Video call interface",
+                                        "visibleText": "Bogdan Tenea (Presenting) Dmitry Bakkev Samy Aboel-Nil Bogdan Tenea joined"
+                                    },
+                                    {
+                                        "title": "Browser Tabs",
+                                        "layoutDescription": "List of open tabs",
+                                        "visibleText": "Meet - uus-dzji-wsj Product Change Specs / ProductMind / Amazon Q Business - Teardown"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Product Change Specs / ProductMind / Amazon Q Business - Teardown",
+                                "url": "notion.so/trilogy-enterprises/Am",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "interface with sidebar and document view."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Document Content",
+                                        "layoutDescription": "Text content layout",
+                                        "visibleText": "Q Business Pros Can ingest large volumes of data from a bunch of different sources Allows mixing/merging data from various different data sources This enables configuring the retriever outcome by using tags/metadata List the sources that it used, including the option to include the original data source Has the concept of Q Apps to bundle and chain prompts and create complex workflows Q Business Cons Can't control the LLM that's used under the good to generate queries Can't control the retriever to select how many results it brings back The first two combined generally yield poorer-quality responses Q Apps are one shot - one or more inputs, one or more outputs, anything that the AI gets wrong you can't guide through and fix It doesn't offer APIs to access the KB/index directly for retrieval tasks Quality Assessment Q Business - RAG and Output Quality Comparison Recommendation Do not use AWS Q Business as a replacement for Stack-AI to build knowledge bases Investigate Knowledge Bases for Amazon Bedrock, which seems to be a better fit Screenshots"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Google Meet video conference, as evidenced by the screenshot showing multiple participants, including Simon Said, Serban Petrescu, Tim Jones, Dmitry Bakaev, Bogdan Tenea, Samy Aboel-Nil, Isaac Squires, and Dragos Nut\u0103. The meeting appears to be active, with participants discussing various topics. The user is also simultaneously viewing a 'Threads' page on cloud.getliteral.ai, which lists various tasks and requests related to AI assistance, such as crafting email replies and generating follow-up emails.",
+        "The user is actively chatting with Tristan Muniz on Google Chat. The conversation revolves around the usage and effectiveness of AI tools, specifically comparing GPT and Claude. Tristan Muniz is asking for examples of how the AI tools are being used differently and whether there is a way to use an assistant within the tool. The user provides detailed explanations and examples, indicating a deep engagement in discussing AI tool functionalities and their practical applications.",
+        "The user is reviewing a document on Notion titled 'Amazon Q Business - Teardown.' The document outlines the pros and cons of Q Business, including its ability to ingest large volumes of data, mix data from various sources, and configure retriever outcomes using tags and metadata. The document also discusses the limitations of Q Business, such as the inability to control the LLM used for generating queries and the lack of APIs for direct retrieval tasks. The user is likely analyzing this information to make informed decisions about using Q Business for their projects.",
+        "During the Google Meet video conference, Bogdan Tenea is presenting a document. The presentation appears to be related to the 'Amazon Q Business - Teardown' document the user was reviewing earlier. This indicates that the meeting is focused on discussing the findings and recommendations from the document, such as not using AWS Q Business as a replacement for Stack-AI and investigating Knowledge Bases for Amazon Bedrock. The user is actively participating in this discussion, as evidenced by their presence in the meeting and the simultaneous review of the document."
+    ],
+    "aiUseSummary": "The user utilizes AI tools primarily for generating email replies and follow-up emails, as seen in the 'Threads' page on cloud.getliteral.ai. They also engage in detailed discussions about the usage and effectiveness of AI tools, specifically comparing GPT and Claude, and exploring the potential of using an assistant within these tools. The user provides examples of how AI can scan history and provide context-aware responses, indicating a strategic use of AI to enhance productivity and task efficiency.",
+    "activities": [
+        "MEETING",
+        "CHATTING_WITH_TEAM",
+        "READING_SPEC"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "UI"
+    ],
+    "programmingLanguages": [
+        "OTHER"
+    ],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "OPENAI_CHATGPT"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T14:00:55Z",
+            "windowTitle": "Meet - uus-dzji-wsj - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/uus-dzji-wsj?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 104,
+            "mouse": 13,
+            "date": "2024-06-05T14:01:55Z",
+            "windowTitle": "tristan.muniz@learnwith.ai - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/2KGvfMAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 216,
+            "mouse": 0,
+            "date": "2024-06-05T14:02:55Z",
+            "windowTitle": "Meet - uus-dzji-wsj - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/uus-dzji-wsj?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 303,
+            "mouse": 3,
+            "date": "2024-06-05T14:03:55Z",
+            "windowTitle": "tristan.muniz@learnwith.ai - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/2KGvfMAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 228,
+            "mouse": 0,
+            "date": "2024-06-05T14:04:55Z",
+            "windowTitle": "tristan.muniz@learnwith.ai - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/2KGvfMAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 319,
+            "mouse": 2,
+            "date": "2024-06-05T14:05:55Z",
+            "windowTitle": "tristan.muniz@learnwith.ai - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/space/AAAAX1_4y2M",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 20,
+            "mouse": 8,
+            "date": "2024-06-05T14:06:55Z",
+            "windowTitle": "(4) Amazon Q Business - Teardown - Google Chrome",
+            "processName": "notion.so",
+            "visitingUrl": "notion.so/trilogy-enterprises/Amazon-Q-Business-Teardown-926581615b4749ff9ca634badb4767a2",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 2,
+            "date": "2024-06-05T14:07:55Z",
+            "windowTitle": "Meet - uus-dzji-wsj - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/uus-dzji-wsj?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T14:08:55Z",
+            "windowTitle": "Meet - uus-dzji-wsj - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/uus-dzji-wsj?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 11,
+            "mouse": 2,
+            "date": "2024-06-05T14:09:55Z",
+            "windowTitle": "Meet - uus-dzji-wsj - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/uus-dzji-wsj?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-05T14:00:00Z"
+}

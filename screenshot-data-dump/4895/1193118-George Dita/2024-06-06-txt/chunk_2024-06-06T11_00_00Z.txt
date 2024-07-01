@@ -1,0 +1,169 @@
+{
+    "candidateId": 2368956,
+    "apps": [
+        "docs.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-06T11:00:55Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Siri, Google Chrome, Microsoft Outlook, Calendar, Slack, Microsoft Excel, Microsoft Word, Adobe Acrobat, Terminal, System Preferences, and Trash. Also includes a docked music player with playback controls.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meaghan [AdvocateHub] - Interview Summary - Google Docs",
+                                "url": "https://docs.google.com/document/d/1",
+                                "position": "left side of the screen, large window",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "editing toolbar visible with options for editing text, adding comments, and other document-related actions"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Interview Summary",
+                                        "layoutDescription": "Text document layout",
+                                        "visibleText": "- Identifying successful and challenging customer interactions to create a model for our support desk.\n- Successful Customers: Engaged, proactive, and responsive. They have a clear understanding of our product and services.\n- Challenging Customers: Require frequent support and often do not fully understand our product or services.\n- The biggest challenge for advisors, as highlighted by Meaghan, involved several key areas:\n - Consistent Posting of Challenges\n - Inadequate Content Creation: New advisors were expected to post challenging pieces, usually 3 times a week. The content was also a criterion for their progression speed and promotion.\n - Personalized Advice: Many advisors suggested implementing changes in advisors, which is challenging and requires extensive collaboration.\n - Targeted Content: Ensuring that the 4-5 times a week content is specific to member segments.\n- Meaghan's suggestions were well received and she was praised for her innovative approach."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Slack",
+                        "windows": [
+                            {
+                                "title": "Slack Chat",
+                                "position": "right side of the screen, medium window",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "interface visible with options for messaging, file sharing, and video calls"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Slack Chat",
+                                        "layoutDescription": "Chat interface layout",
+                                        "visibleText": "- User: 'Can you confirm if the days are set in the team calendar?'\n- Response: 'Confirmed!'\n- User: 'Thanks!'\n- Response: 'No problem!'"
+                                    },
+                                    {
+                                        "title": "Slack Chat",
+                                        "layoutDescription": "Chat interface layout",
+                                        "visibleText": "- User: 'Is the document ready for review?'\n- Response: 'It's almost ready, will send it shortly.'"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Calendar",
+                        "windows": [
+                            {
+                                "title": "Calendar Events 2024",
+                                "position": "right side of the screen, small window",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "interface with options for viewing and scheduling events"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Calendar Events",
+                                        "layoutDescription": "Calendar layout",
+                                        "visibleText": "- June 3: Team Meeting at 10:00 AM\n- June 5: Project Deadline\n- June 7: Client Presentation"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Outlook",
+                        "windows": []
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in reading and editing a Google Docs document titled 'Meaghan [AdvocateHub] - Interview Summary'. The document contains detailed notes on identifying successful and challenging customer interactions to create a model for the support desk. The user is focusing on sections that describe successful customers as engaged, proactive, and responsive, and challenging customers as those requiring frequent support and not fully understanding the product or services. The document also highlights key challenges for advisors, including consistent posting of challenges, inadequate content creation, personalized advice, and targeted content.",
+        "The user is also interacting with the Google Calendar application, which is open on the right side of the screen. The calendar displays events for June 2024, including a team meeting on June 3rd at 10:00 AM, a project deadline on June 5th, and a client presentation on June 7th. This indicates that the user is managing their schedule and keeping track of important dates and deadlines.",
+        "Additionally, the user has a Slack chat window open, although it is not the active window. The Slack chat includes conversations about confirming team calendar dates and the readiness of a document for review. The user is coordinating with team members, ensuring that tasks are on track and deadlines are met. This shows active team collaboration and communication.",
+        "The user is primarily using Google Chrome as their web browser, with multiple tabs open, including Google Docs, Google Calendar, and Slack. This setup suggests that the user is multitasking and managing various aspects of their work, from document editing and scheduling to team communication."
+    ],
+    "aiUseSummary": "",
+    "activities": [
+        "READING_SPEC",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "READING_SPEC",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 43,
+            "mouse": 28,
+            "date": "2024-06-06T11:00:52Z",
+            "windowTitle": " Meaghan [AdvocateHub] - Interview Summary - Google Docs - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/document/d/1G_vfq5h1k8_aiEvpjVNxEXQouopSIYXYvp691jUrxUY/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 39,
+            "mouse": 20,
+            "date": "2024-06-06T11:01:52Z",
+            "windowTitle": " Meaghan [AdvocateHub] - Interview Summary - Google Docs - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/document/d/1G_vfq5h1k8_aiEvpjVNxEXQouopSIYXYvp691jUrxUY/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 30,
+            "mouse": 9,
+            "date": "2024-06-06T11:02:52Z",
+            "windowTitle": " Meaghan [AdvocateHub] - Interview Summary - Google Docs - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/document/d/1G_vfq5h1k8_aiEvpjVNxEXQouopSIYXYvp691jUrxUY/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 85,
+            "mouse": 12,
+            "date": "2024-06-06T11:03:52Z",
+            "windowTitle": " Meaghan [AdvocateHub] - Interview Summary - Google Docs - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/document/d/1G_vfq5h1k8_aiEvpjVNxEXQouopSIYXYvp691jUrxUY/edit#heading=h.16es3r4cyxo3",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-06T11:00:00Z"
+}

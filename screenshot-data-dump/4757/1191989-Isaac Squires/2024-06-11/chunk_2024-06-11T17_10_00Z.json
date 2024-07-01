@@ -1,0 +1,203 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "Zoom",
+    "calendar.google.com",
+    "mail.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-11T17:16:40Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "Windows logo, search icon, task view, Microsoft Edge, File Explorer, Microsoft Store, and Zoom app icon. Notification area shows network, sound, and battery status icons. Clock displays '11:16'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Zoom",
+            "windows": [
+              {
+                "title": "Tristan Muniz's Personal Meeting Room",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Top menu bar with options: Minimize, Core, Recording. Bottom menu bar with options: Mute, Stop Video, Participants, Chat, Share Screen, Summary, Reactions, Apps, Notes, More, Leave."
+                },
+                "content": [
+                  {
+                    "title": "Video Conference Participants",
+                    "layoutDescription": "Grid layout",
+                    "visibleText": "Tristan Muniz, Isaac Squires, Mark Nygren, Phil Hewinson"
+                  },
+                  {
+                    "title": "Chat Window",
+                    "layoutDescription": "Right side panel",
+                    "visibleText": "Tristan Muniz's Personal Meeting Room\nToday\nread.ai meeting notes to You (Direct message) 10:31\nTristan added read.ai meeting notes to the meeting.\nRead provides AI generated meeting summaries to make meetings more effective and efficient. View our Privacy Policy at https://www.read.ai/pp\nType \"read stop\" to disable, or \"opt out\" to delete meeting data.\nNew messages\nTristan Muniz to Everyone 10:34\nhttps://docs.google.com/spreadsheets/d/1gU"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively participating in a Zoom meeting titled 'Tristan Muniz's Personal Meeting Room'. The meeting involves multiple participants, including Tristan Muniz, Isaac Squires, Mark Nygren, and Phil Hewinson. The user is engaged in the discussion, as indicated by the grid layout of video conference participants. The chat window on the right side panel shows a direct message from 'read.ai meeting notes' at 10:31, indicating that AI-generated meeting summaries are being used to make meetings more effective and efficient. Additionally, a link to a Google Spreadsheet is shared with everyone at 10:34.",
+    "The user is utilizing the chat feature within the Zoom meeting to communicate with other participants. The chat window shows a direct message from 'read.ai meeting notes' providing a link to their privacy policy and instructions on how to disable or opt out of meeting data collection. The user also shares a Google Spreadsheet link with everyone in the meeting, indicating collaboration and information sharing among the participants. The meeting is being recorded, as indicated by the 'Recording' label at the top of the Zoom window."
+  ],
+  "aiUseSummary": "The user is utilizing AI tools within the Zoom meeting to enhance productivity and efficiency. Specifically, the 'read.ai meeting notes' AI assistant is providing automated meeting summaries and instructions on how to manage meeting data. This AI tool helps in capturing and summarizing key points discussed during the meeting, allowing participants to focus on the discussion without worrying about taking detailed notes. The AI assistant also provides links to relevant documents and resources, facilitating seamless collaboration among team members.",
+  "activities": [
+    "MEETING",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [
+    "SHORTWAVE"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T17:10:47Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T17:11:47Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T17:12:47Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T17:13:47Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T17:14:47Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 7,
+      "date": "2024-06-11T17:15:47Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 15,
+      "date": "2024-06-11T17:16:47Z",
+      "windowTitle": "Zoom Meeting",
+      "processName": "Zoom",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 20,
+      "date": "2024-06-11T17:17:47Z",
+      "windowTitle": "DevFactory - Calendar - Week of June 9, 2024 - Google Chrome",
+      "processName": "calendar.google.com",
+      "visitingUrl": "calendar.google.com/calendar/u/0/r/week",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 15,
+      "date": "2024-06-11T17:18:47Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAnM2TMLc",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 10,
+      "date": "2024-06-11T17:19:47Z",
+      "windowTitle": "TeachTap - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAnM2TMLc",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-11T17:10:00Z"
+}

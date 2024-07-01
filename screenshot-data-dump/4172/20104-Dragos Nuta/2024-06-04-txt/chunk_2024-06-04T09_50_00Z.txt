@@ -1,0 +1,269 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "mail.google.com",
+        "docs.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-04T09:51:26Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Jira, Mail, and system utilities like volume and network status, time display at 12:51 PM, date display as 6/24/24, language set to ENG",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "ARR Performance Post DoA - Product Issues DD RCA - Google Docs",
+                                "url": "https://docs.google.com/document/d/1",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help; Toolbar with undo, redo, print, zoom, styling options; Right sidebar with comment section"
+                                },
+                                "content": [
+                                    {
+                                        "title": "ARR Performance Post - Product Issues DD RCA",
+                                        "layoutDescription": "Text document layout",
+                                        "visibleText": "ARR Performance Post - Product Issues DD RCA\n\n1. Delays in handling legacy backlog ($578k ARR impact)\n\nThe focus during the first quarter was to complete the import and reduce cost; maintenance was not a priority. Furthermore, the decision was to not import the maintenance backlog and instead work through the issues as customers escalate them. This backfired as some of the ongoing issues were high severity ones and led to an ~$900k ARR churn.\n\nExamples:\n- AWS Case: AWS, the largest single customer loss ($700k), cited a breach due to an outstanding security ticket, identified before the acquisition. The issue was raised in Nov 2023, we became aware of it early Q1 but decided to fix it after completing the import & cost reduction.\n- There was another severity 1 issue that was incompletely fixed by the legacy team, and that we fixed during Q1.\n- There was set of already paid for but not delivered work (features) - supposed to be done by PS but some of those were Engineering\n- LinkedIn app was not working for more than a year due to outdated APIs\n- The import was completed by Jan 17 for PostBeyond and Jan 19 for AdvocateHub but maintenance started later\n\nImmediate Next Steps:\n- Continue working through the maintenance backlog; estimating to go to zero by EqQ2\n\nProcess improvements:\n- All outstanding issues MUST be reviewed by BU/TPM/Eng and a clear decision taken on what to migrate over to our internal bug ticketing system, along with any promised dates that were communicated to the customer.\n- All bug fixes implemented by the legacy team post acquisition MUST be owned and verified by our Engineering team, we cannot blindly rely on legacy team's deliveries.\n- Start the maintenance work in the first quarter and factor this into the performance plan (cost and timeline-wise).\n- We should combine maintenance and slot teams until we reduce the backlog to manageable levels e.g. 1-2 quarters - this will allow everyone to focus on what is really important vs thinking in what bucket to put it\n- If there is low number of bugs - this will help with the backlog or missing features\n- If there are plenty of bugs - this will help reducing specs or missing features\n- We need to define acceptable backlog by SE7 - that we need to go to until we decide product is \"stable\" - e.g. 20 bugs open per SE7\n\n2. Outages or defects (346k ARR impact, half from one customer - Broadcom)\n\nFacts and Examples:\n- We missed collecting credentials for a number of dependencies and this led to various issues\n- e.g., Facebook, Receptacha (assumed an outage when a GCP account that was not part of PI was turned off), etc."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T09:55:42Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for DevFact, AR, Google Chrome, Jira, C++, Java, C#, Notes, and more. System clock shows '12:55 PM'. Date '6/24/2024' is visible. Language set to 'ENG'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "ARR Performance Post DoA - Product Issues DD RCA - Google Docs",
+                                "url": "https://docs.google.com/document/d/1",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help. Toolbar with undo, redo, print, zoom controls, text formatting options. Google account icon at top right corner."
+                                },
+                                "content": [
+                                    {
+                                        "title": "ARR Performance Post DoA - Product Issues DD RCA",
+                                        "layoutDescription": "Document layout with text and bullet points",
+                                        "visibleText": "ARR Performance Post DoA - Product Issues DD RCA\n\nThe total ARR loss associated with...\n1. Delays in handling legacy backl...\n2. Outages or defects (346K ARR i...\n3. Migration to Elevate (<$90K ARR...\n4. Product components not impor...\n\nOutline\nARR Performance Post \u2013 Product I...\nThe total ARR loss associated wit...\n1. Delays in handling legacy backl...\n2. Outages or defects (346K ARR i...\n3. Migration to Elevate (<$90K ARR...\n4. Product components not impor...\n\n3. Migration to Elevate (<$90K ARR impact)\nElevate was a rewrite of AdvocateHub Classic done by the legacy team. This was communicated via a roadmap to Influitive's customers, and some customers had been migrated to the Elevate platform.\n\nFacts:\n\u2022 Elevate lacked features compared to the older platform. As designed, Elevate would delegate to the legacy backend for functions not yet implemented but that did properly work in a context of the heavily customized codebase.\n\u2022 Customizations were not clearly identified during the due diligence process. The majority are embedded in the core codebase, leading to unclear ownership and delayed triage.\n\u2022 We continued the migration but encountered significant challenges due to lack of feature parity with the older version, resulting in many issues and rollbacks. For instance, Devolutions experienced targeting logic failures on Elevate.\n\u2022 Many customers had to be downgraded back to the Classic version due to these deficiencies, leading to dissatisfaction and increased churn. Migrations to Elevate are currently on hold\n\nImmediate Next Steps:\n\u2022 Make a formal product strategy decision on how Elevate fits into the product strategy\n\u2022 Options are: invest and reach feature parity or keep or maintain both old and new versions\n\nProcess improvements:\n\u2022 Improve import Prod DS to capture a formal feature parity analysis for new vs old versions\n\u2022 Pause all migrations to newer not-fully-tested versions upon acquisition and keep customers on their current versions\n\u2022 Define a simple decision framework on handling cases when the target is working on a newer supposedly better version. Proposed default decision: pause all migrations, keep all product editions in use with customers\n\n4. Product components not imported (no ARR impact, but a notable case)\n\nCertain components and dependencies deemed unimportant or unused during the import led to unforeseen ARR losses.\n\nFacts and Examples:\n\u2022 The decision not to import the Salesforce component, perceived as low-value, resulted in delays in handling issues as we lacked access and knowledge to respond to issues and churn\n\nImmediate Next Steps:\n\u2022 A business decision needs to be made to determine the value of importing such components in future migrations."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T09:59:05Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for DevFact, AR, Google Chrome, Jira, Confluence, IntelliJ IDEA, Java Compiler, Eclipse, SQL Developer, CloudShell, Notes, and more. System tray includes network, sound, and time display (12:59 PM, 6/24/24).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "ARR Performance Post DoA - Product Issues DD RCA - Google Docs",
+                                "url": "https://docs.google.com/document/d/1",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help. Toolbar with undo, redo, print, spelling and grammar check, zoom settings, text formatting options, and more."
+                                },
+                                "content": [
+                                    {
+                                        "title": "ARR Performance Post DoA - Product Issues DD RCA",
+                                        "layoutDescription": "Text document layout",
+                                        "visibleText": "ARR Performance Post DoA - Product Issues DD RCA\n\nThe total ARR loss associated with...\n1. Delays in handling legacy backl...\n2. Outages or defects (346K ARR i...\n3. Migration to Elevate (<$90K ARR...\n4. Product components not impor...\n\nWhile this is not attributable to outages, it is an issue waiting to burst\n\n3. Migration to Elevate (<$90K ARR impact)\n\nElevate was a rewrite of AdvocateHub Classic done by the legacy team. This was communicated via a roadmap to Influitive's customers, and some customers had been migrated to the Elevate platform.\n\nFacts:\n- Elevate lacked features compared to the older platform. As designed, Elevate would delegate to the legacy backend for functions not yet implemented but that did properly work in a context of the heavily customized codebase.\n- Customizations were not clearly identified during the due diligence process. The majority are embedded in the core codebase, leading to unclear ownership and delayed triage.\n- We continued the migration but encountered significant challenges due to lack of feature parity with the older version, resulting in many issues and rollbacks. For instance, Devolutions experienced targeting logic failures on Elevate. Many customers had to be downgraded back to the Classic version due to these deficiencies, leading to dissatisfaction and increased churn. Migrations to Elevate are currently on hold\n\nImmediate Next Steps:\n- Make a formal product strategy decision on how Elevate fits into the product strategy\n - Options are: invest and reach feature parity or keep or maintain both old and new versions\n\nProcess improvements:\n- Improve import Prod DS to capture a formal feature parity analysis for new vs old versions\n- Pause all migrations to newer not-fully-tested versions upon acquisition and keep customers on their current versions\n- Treat version consolidation as a costly retest exercise and write a TPM spec on that during cost reduction\n- Define a simple decision framework on handling cases when the target is working on a newer supposedly better version. Proposed default decision: pause all migrations, keep all product editions in use with customers\n\n4. Product components not imported (no ARR impact, but a notable case)\n\nCertain components and dependencies deemed unimportant or unused during the import led to unforeseen ARR losses.\n\nFacts and Examples:\n- The decision not to import the Salesforce component, perceived as low-value, resulted in delays in handling issues as we lacked access and knowledge to respond to issues and churn\n\nImmediate Next Steps:\n- A business decision needs to be made regarding the import of components deemed low-value or unnecessary."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in reading and editing a Google Docs document titled 'ARR Performance Post DoA - Product Issues DD RCA'. The document outlines various issues related to ARR performance, including delays in handling legacy backlog, outages or defects, migration to Elevate, and product components not imported. The user is seen making edits and adding comments to the document, indicating a focus on refining and updating the content.",
+        "The user is also seen interacting with email notifications within the Google Docs interface. Notifications from colleagues such as Rafal Hryniow and Jozsef Czapovics are visible, discussing topics related to the document being edited. This suggests that the user is collaborating with team members and incorporating their feedback into the document.",
+        "Throughout the captured period, the user remains focused on the Google Docs document, making continuous edits and reviewing comments. The document details specific examples and immediate next steps for addressing the identified issues, indicating that the user is working on a detailed analysis and action plan for improving ARR performance."
+    ],
+    "aiUseSummary": "",
+    "activities": [
+        "READING_SPEC",
+        "WRITING_SPEC",
+        "EMAIL"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_SPEC",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 166,
+            "mouse": 10,
+            "date": "2024-06-04T09:50:09Z",
+            "windowTitle": "Jive Upgrade - I like this one more - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwngWqScGLvnrXQXNJnGPzWpk",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 42,
+            "mouse": 12,
+            "date": "2024-06-04T09:51:09Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/3f70MMAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 23,
+            "mouse": 20,
+            "date": "2024-06-04T09:52:09Z",
+            "windowTitle": "ARR Performance Post DoA - Product Issues DD RCA - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1IUDOAIKAtMg-TTa4eFmYiDr62gpPjdd0C7Sdmvflas4/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 10,
+            "date": "2024-06-04T09:53:09Z",
+            "windowTitle": "ARR Performance Post DoA - Product Issues DD RCA - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1IUDOAIKAtMg-TTa4eFmYiDr62gpPjdd0C7Sdmvflas4/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 69,
+            "mouse": 3,
+            "date": "2024-06-04T09:54:09Z",
+            "windowTitle": "ARR Performance Post DoA - Product Issues DD RCA - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1IUDOAIKAtMg-TTa4eFmYiDr62gpPjdd0C7Sdmvflas4/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 107,
+            "mouse": 1,
+            "date": "2024-06-04T09:55:09Z",
+            "windowTitle": "ARR Performance Post DoA - Product Issues DD RCA - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1IUDOAIKAtMg-TTa4eFmYiDr62gpPjdd0C7Sdmvflas4/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 191,
+            "mouse": 0,
+            "date": "2024-06-04T09:56:09Z",
+            "windowTitle": "ARR Performance Post DoA - Product Issues DD RCA - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1IUDOAIKAtMg-TTa4eFmYiDr62gpPjdd0C7Sdmvflas4/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 144,
+            "mouse": 0,
+            "date": "2024-06-04T09:57:09Z",
+            "windowTitle": "ARR Performance Post DoA - Product Issues DD RCA - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1IUDOAIKAtMg-TTa4eFmYiDr62gpPjdd0C7Sdmvflas4/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 153,
+            "mouse": 0,
+            "date": "2024-06-04T09:58:09Z",
+            "windowTitle": "ARR Performance Post DoA - Product Issues DD RCA - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1IUDOAIKAtMg-TTa4eFmYiDr62gpPjdd0C7Sdmvflas4/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 253,
+            "mouse": 0,
+            "date": "2024-06-04T09:59:09Z",
+            "windowTitle": "ARR Performance Post DoA - Product Issues DD RCA - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1IUDOAIKAtMg-TTa4eFmYiDr62gpPjdd0C7Sdmvflas4/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-04T09:50:00Z"
+}

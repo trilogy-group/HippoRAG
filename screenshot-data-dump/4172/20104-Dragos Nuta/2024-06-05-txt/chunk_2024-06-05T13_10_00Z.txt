@@ -1,0 +1,275 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "workflowy.com",
+        "docs.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T13:11:00Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications including Microsoft Edge, File Explorer, and others. System tray visible with notifications, sound, network, and clock displaying '4:10 PM 6/5/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Jozsef Update Wed, Jun 5, 2024 - WorkFlowy",
+                                "url": "https://workflowy.com/s/jozsef-update",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "UI includes back, forward, refresh, home buttons, address bar, bookmarks bar with icons, and tabs. One tab is open showing the title 'Jozsef Update Wed, Jun 5'."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Jozsef Update Wed, Jun 5",
+                                        "layoutDescription": "Web page with charts and text",
+                                        "visibleText": "Bug Count (count of open bugs based on ZD)\n0 200 400 600 800\nW4 W5 W6 W7 W8 W9 W10 W11 W12 W13 W14 W15 W16 W17 W18 W19 W20 W21 W22 W23\nBug Age (average age of open bugs; based on ZD)\n0 30 60 90 120 150\nW4 W5 W6 W7 W8 W9 W10 W11 W12 W13 W14 W15 W16 W17 W18 W19 W20 W21 W22 W23\nQuality\nWe measure quality using downtime and incoming ticket rate. We are doing well on the incoming ticket rate, delivering 3-4 times more maintenance fixes, which has decreased the incoming ticket rate. However, we should not be too excited as customers are still leaving.\nOn downtime, we are not performing well. The main issues are due to cost optimization efforts and cloud sharking, although such optimizations can reduce costs, they also risk increasing downtime."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T13:13:53Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, and system utilities like network, sound, and date/time display",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Weekly Delivery Tracker - TPM+Eng - Google Sheets",
+                                "url": "https://docs.google.com/spreadsheets",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help. Toolbar with undo, redo, print, zoom, formatting options, and other Google Sheets specific tools"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Weekly Delivery Tracker - TPM+Eng",
+                                        "layoutDescription": "Spreadsheet layout",
+                                        "visibleText": "Business Objective\nGoal\n14\n15\n16\n17\n18\n19\n20\n21\n type\nType\nMay status\nCustomer value delivered?\nGoal type\n1: Ask asset visibility where images, logos, avatars are publicly accessible\nUpgrade APIs and SDKs so social integrations with LinkedIn and Facebook\n30% Jul\n30% Jul\n30% Jul\n0% Jul\n0% Jul\n0% Jul\n0% Jul\n0% Jul\n0% Jul\n0% Jul\n0% Jul\nNew\nDefense\nOff track\n-\n-\n11: Fix Multi-channel issues (faulted feature released by legacy team)\nAdd AI to Discourse Communities by upgrading to upgrade from Jire 3.X\n100% done\n100% done\n100% done\n100% done\n100% done\n100% done\n100% done\n100% done\n100% done\n100% done\n100% done\nCommit\nDefense\nCompleted\nYes\n-\n13: Upgrade Messenger to Java 11, fix two vulnerabilities, support\nMessenger Java 17 support\n20% done\n50% done\n95% done\n100% done\n100% done\n100% done\n100% done\n100% done\n100% done\n100% done\n100% done\nCommit\nDefense\nCompleted\nNot proven\n-\n15: Fix all critical security vulnerabilities (canceled, low ROI)\nMessenger: Support new version of the Databases, Update Libraries with abilities\nCancelled\n-\nAdded\n-\nAdded\n60% done\n75% done\nCancelled\nCancelled\nCancelled\nCancelled\track\n-\n17: Divorce Lufthansa PCI audit issues, support new OSs, Log4J vulnerability\nUpgrade Interceptor SDK to Java 11\nAdded\n50% done\n100% done\n100% done\n100% done\n100% done\n100% done\n100% done\n100% done\n100% done\n100% done\n100% done\nNew\nDefense\nCompleted\nNot proven\n-\n18: Upgrade Webmethods Interceptor version 10.15 (Java 11) to support\nUpgrade 6 components/dependencies to address security vulnerabilities\nAdded\nnot started\n25% done\n25% done\n50% done\n95% done\n100% done\n100% done\n100% done\n100% done\n100% done\n100% done\nNew\nDefense\nOn track\n-\n20: Implement 3 high-level user stories (search, summarize, chat), making it more discoverable and easier to consume, thereby increasing\nImplement and value for end users.\n75% done\n75% done\n75% done\n75% done\n90% done\n100% done\n100% done\n100% done\n100% done\n100% done\n100% done\nCommit\nOffense AI\nCompleted\nNot proven\n-\n22: Implement 3 high-level user stories (search, summarize, chat) for Jive calling the cloud-based Jive Copilot, making content more discoverable and\nsome, thereby increasing engagement and value for end users.\n50% done\n50% done\n70% done\n80% done\n95% done\n100% done\n100% done\n100% done\n100% done\n100% done\n100% done\nCommit\nOffense AI\nOn track\n-\n24: Import all AppManager support operations into Central (tracker)\nDevelop top 5 features in backlog (queue)\nAdded\nnot started\nnot started\nnot started\nnot started\nnot started\nnot started\nnot started\nnot started\nnot started\nnot started\nnot started\nStretch\nOffense Feature\nOn track\n-\n25: Integrate Guard5 capabilities into AppManager (manual/scheduled\nadd controls, manage WAN, deploy patch)\nAdded\nnot started\nnot started\nnot started\nnot started\nnot started\nnot started\nnot started\nnot started\nnot started\nnot started\nnot started\nStretch\nOffense Feature\nDeprioritized\n-\n27: Help deliver work for WorkSmart. Java tracker - 20% completed and on hold\nAppManager work\nAdded\n50% done\n90% done\n100% done\n100% done\n100% done\n100% done\n100% done\n100% done\n100% done\n100% done\nCommit\nOffense Feature\nOn track\n-"
+                                    },
+                                    {
+                                        "title": "Task List",
+                                        "layoutDescription": "List layout",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T13:19:28Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Edge, File Explorer, Microsoft Store, Mail, Calendar, Photos, Settings, and other unidentified applications. Also includes system tray with clock showing '4:19 PM', date '6/5/2024', language 'ENG', and other system icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+                                "url": "https://docs.google.com/document/d",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help. Toolbar with undo, redo, print, spelling and grammar check, zoom settings, styles, and other formatting options. Scroll bars, document navigation pane on the left, chat sidebar on the right."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Factory status May 2024 (TPM/Eng)",
+                                        "layoutDescription": "Structured document",
+                                        "visibleText": "Jigsaw (1 slot)\nIgniteTech #1: Security\nIgniteTech #2: Copilot\nIgniteTech Maintenance\nGFI (1 slot)\nInfluitive (2 slots)\nStratifyd (1 slot)\nCrossover (1 slot)\nTelco (3 slots + 1 Ops slot)\nTPM only slots (1 slot)\n\nApplied AI (1 slot)\nMaintenance Delivery scorecard\nBurndown charts - road to zero...\nAll BUs\nIgniteTech\nCopperTree\nJigsaw\nInfluitive\n only slots (1 slot)\nDeliver AI-Digestible 1 edtech compliant\nEducational data model, including\n1 tech2nd brain and internal Data\nModel mappings\n\nWe completed the LMS design and the AI Layer architecture. This concludes the specs and 2nd brains we were requested\nWork started on building a POC that demonstrates the agent-based architecture that can respond to queries\n\nApplied AI (1 slot)\nCommit: Increase Mini Spec delivery by 10%\nON TRACK\nStretch: Increase Mini Spec delivery by 50%\nON TRACK\n\nAchieved:\nDelivered a WorkBench proof of concept (POC) with some initial agents built in\nMade all AI functions/utilities exposed to WorkBench as well\nDelivered 3 initial show agents focusing on feature work as opposed to fixes\nSet up a portal showcasing AI tools, functions, and agents to make them more accessible and consumable\nDeveloped a strategy for creating product-specific \"second brains\" to supercharge our AI agents with deep contextual knowledge\n\nChallenges:\nIntegrating the \"second brain\" context packs into our existing AI tools and demonstrating their impact on Mini Spec delivery\n\nNext Steps:\nImplementation of the \"second brain\" approach on a legacy codebase to refine data harvesting, mining, and integration\nQuantify the improvement in Mini Spec delivery enabled by the context-enhanced AI tools\nScale the \"second brain\" methodology to additional codebases, including acquired products, to drive adoption and productivity gains\nContinuously refine and update the \"second brains\" to capture evolving product knowledge\n\nOverall Reflection:\nOur pursuit of the elusive \"Killer AI app\" has converged on a powerful approach: creating product-specific \"second brains\" to imbue our AI agents with deep contextual knowledge. By harvesting insights from codebases and integrating them into concise context packs, we can significantly enhance the understanding and decision-making capabilities of our existing tools.\n\nThis \"second brain\" methodology represents a major breakthrough in our Applied AI efforts. It directly addresses the key challenge of providing AI with the rich, relevant context needed to deliver accurate and actionable insights. By focusing on legacy codebases at first, we can refine our techniques and demonstrate the tangible impact on Mini Spec delivery.\n\nAs we scale this approach to more products, including acquired codebases, we anticipate a transformative effect on delivery."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is viewing a document titled 'Jozsef Update Wed, Jun 5' on WorkFlowy. The document contains charts and text related to bug count and bug age, as well as a section on quality. The user is likely reviewing the status of bugs and quality metrics, as indicated by the visible text discussing incoming ticket rates, maintenance fixes, and downtime issues.",
+        "The user is working on a Google Sheets document titled 'Weekly Delivery Tracker - TPM+Eng'. The spreadsheet includes various business objectives, goals, and their statuses. The user is likely tracking the progress of different tasks and projects, as indicated by the detailed status updates and completion percentages for each objective. The visible text includes goals related to upgrading APIs, fixing security vulnerabilities, and implementing user stories.",
+        "The user is viewing a Google Docs document titled 'Factory status May 2024 (TPM/Eng)'. The document includes sections on various projects and their statuses, such as 'Applied AI' and 'Maintenance Delivery scorecard'. The user is likely reviewing the progress and achievements of different projects, as indicated by the detailed descriptions of completed tasks, challenges, and next steps. The visible text includes information on AI agents, second brain methodology, and overall reflections on the projects."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in reviewing documents and tracking project progress using WorkFlowy, Google Sheets, and Google Docs. There are no visible interactions with AI chat interfaces or AI-driven tools in the captured screenshots.",
+    "activities": [
+        "READING_SPEC"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "UI"
+    ],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "READING_SPEC",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-05T13:10:54Z",
+            "windowTitle": "Jozsef Update Wed, Jun 5, 2024 - WorkFlowy - Google Chrome",
+            "processName": "workflowy.com",
+            "visitingUrl": "workflowy.com/s/jozsef-update-wed-ju/D52Ma909QZLPAeAs#/17a6363e01fe",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-05T13:11:54Z",
+            "windowTitle": "Jozsef Update Wed, Jun 5, 2024 - WorkFlowy - Google Chrome",
+            "processName": "workflowy.com",
+            "visitingUrl": "workflowy.com/s/jozsef-update-wed-ju/D52Ma909QZLPAeAs#/17a6363e01fe",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 16,
+            "mouse": 6,
+            "date": "2024-06-05T13:12:54Z",
+            "windowTitle": "Jozsef Update Wed, Jun 5, 2024 - WorkFlowy - Google Chrome",
+            "processName": "workflowy.com",
+            "visitingUrl": "workflowy.com/s/jozsef-update-wed-ju/D52Ma909QZLPAeAs#/17a6363e01fe",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 79,
+            "mouse": 13,
+            "date": "2024-06-05T13:13:54Z",
+            "windowTitle": "Weekly Delivery Tracker - TPM+Eng - Google Sheets - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/spreadsheets/d/1mrOMkLf370WxK5CkvQXF0e9Q6pHGPf2IsweYGdyGe08/edit#gid=335515302",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 82,
+            "mouse": 10,
+            "date": "2024-06-05T13:14:54Z",
+            "windowTitle": "Weekly Delivery Tracker - TPM+Eng - Google Sheets - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/spreadsheets/d/1mrOMkLf370WxK5CkvQXF0e9Q6pHGPf2IsweYGdyGe08/edit#gid=335515302",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 18,
+            "mouse": 26,
+            "date": "2024-06-05T13:15:54Z",
+            "windowTitle": "Weekly Delivery Tracker - TPM+Eng - Google Sheets - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/spreadsheets/d/1mrOMkLf370WxK5CkvQXF0e9Q6pHGPf2IsweYGdyGe08/edit#gid=335515302",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 18,
+            "mouse": 10,
+            "date": "2024-06-05T13:16:54Z",
+            "windowTitle": "Weekly Delivery Tracker - TPM+Eng - Google Sheets - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/spreadsheets/d/1mrOMkLf370WxK5CkvQXF0e9Q6pHGPf2IsweYGdyGe08/edit#gid=335515302",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 4,
+            "mouse": 7,
+            "date": "2024-06-05T13:17:54Z",
+            "windowTitle": "Weekly Delivery Tracker - TPM+Eng - Google Sheets - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/spreadsheets/d/1mrOMkLf370WxK5CkvQXF0e9Q6pHGPf2IsweYGdyGe08/edit#gid=335515302",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 18,
+            "mouse": 21,
+            "date": "2024-06-05T13:18:54Z",
+            "windowTitle": "Weekly Delivery Tracker - TPM+Eng - Google Sheets - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/spreadsheets/d/1mrOMkLf370WxK5CkvQXF0e9Q6pHGPf2IsweYGdyGe08/edit#gid=335515302",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 52,
+            "mouse": 27,
+            "date": "2024-06-05T13:19:54Z",
+            "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-05T13:10:00Z"
+}

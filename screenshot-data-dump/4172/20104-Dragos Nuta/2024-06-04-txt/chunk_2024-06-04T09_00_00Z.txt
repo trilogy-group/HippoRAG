@@ -1,0 +1,314 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "meet.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-04T09:00:21Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Jive Upgrade - Google Docs, Google Chrome, and system status icons including Wi-Fi, sound, notifications, and clock showing '12:00 PM'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - kxx-fcoj-dew - Google Chrome",
+                                "url": "meet.google.com/kxx-fcoj-dew",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "back, forward, refresh buttons, address bar, tab bar with tabs for 'Meet - kxx-fcoj-dew' and 'Jive Upgrade - Google Docs', and browser menu. Zoom level indicator at 150%."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Meet Video Conference",
+                                        "layoutDescription": "Video conference layout with participant videos on right",
+                                        "visibleText": "Michael Madume (Presenting) decisions: {'decision': 'Create a user profile object that stores information such as user preferences and job responsibilities.', 'isTD': true, 'tidDetails': {'title': 'User Profile Object Creation', 'decision': 'Create a user profile object that stores information such as user preferences and job responsibilities.', 'context': 'The need to personalize AI interactions based on user-specific data.', 'importance': 'This decision is crucial for enhancing the AI's ability to provide relevant and personalized responses, improving user satisfaction and efficiency.', 'alternatives': 'Not creating user profile object and relying on generic responses.', 'rationale': 'By storing user-specific information, the AI can tailor its responses more accurately, leading to better user experience and more effective problem-solving.'}, {'decision': 'Define an object schema for user profiles that will load one object per user, with no UI initially.', 'isTD': true, 'tidDetails': {'title': 'Object Schema Definition for User Profiles', 'decision': 'Define an object schema for user profiles that will load one object per user, with no UI initially.', 'context': 'The need to structure user data in a way that can be easily accessed and utilized by the AI.', 'importance': 'This decision is important for organizing user data systematically, which is essential for the AI to function effectively.', 'alternatives': 'Creating a UI for user profile management immediately.', 'rationale': 'Starting with a schema without a UI allows for quicker implementation and testing, ensuring that the core functionality is in place before adding additional complexity.'}}"
+                                    }
+                                ]
+                            }
+                        ],
+                        "videoConference": {
+                            "participants": [
+                                {
+                                    "name": "Michael Madume",
+                                    "expression": "Presenting"
+                                },
+                                {
+                                    "name": "Serba Petrescu",
+                                    "expression": "Listening"
+                                },
+                                {
+                                    "name": "Drag Nuta",
+                                    "expression": "Listening"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T09:05:01Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Jive Upgrade, Google Chrome, and system tray icons including time display at 12:05 PM, language set to ENG, and other system status icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - kxx-fcoj-dew - Google Chrome",
+                                "url": "meet.google.com/kxx-fcoj-dew",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "UI includes back, forward, refresh buttons, address bar, tab with title 'Meet - kxx-fcoj-dew', and extension icons including Google Docs"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Michael Madume (Presenting)",
+                                        "layoutDescription": "Main content area",
+                                        "visibleText": "\"alternatives\": \"Not using Pinecone and opting for a different solution.\",\n\"rationale\": \"Continuing with Pinecone simplifies the implementation as it is already integrated, reducing the need for additional setup and maintenance.\""
+                                    },
+                                    {
+                                        "title": "Action Items",
+                                        "layoutDescription": "List format",
+                                        "visibleText": "Create a user profile object that stores information such as user preferences and job responsibilities.\nDefine an object schema for user profiles that will load one object per user, with no UI initially.\nStore user profile data in XO or DynamoDB, but avoid setting up DynamoDB just for this purpose.\nAdd a schema for audio transcripts and decide whether to continue with Pinecone for simplicity.\nExpand the indexing to include all TPOs and set the history to 14 days.\nPropose a solution for adding audio transcripts."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "videoConference": {
+                "participants": [
+                    {
+                        "name": "Michael Madume",
+                        "expression": "smiling"
+                    },
+                    {
+                        "name": "Serban Petrescu",
+                        "expression": "neutral"
+                    },
+                    {
+                        "name": "Dragos Nuta",
+                        "expression": "neutral"
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T09:06:59Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, and several pinned applications. Also shows system tray with notifications, sound, network, and clock displaying '12:06 PM'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - kxx-fcoj-dew - Google Chrome",
+                                "url": "meet.google.com/kxx-fcoj-dew",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Browser UI includes back, forward, refresh buttons, address bar, tabs, and profile icon. Meet UI includes microphone, camera, captions, hand raise, more options, and hang up buttons, chat, and participants list."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Michael Madume (Presenting)",
+                                        "layoutDescription": "Left side of the screen",
+                                        "visibleText": "AI Assist 09:29 Hello Michael (Admin), enter a user's email to begin chat session..."
+                                    },
+                                    {
+                                        "title": "Settings panel",
+                                        "layoutDescription": "Center of the screen",
+                                        "visibleText": "Settings panel What would you like AI Assist to know about you? I am an AI Engineer working primarily on AI-based applications I like long and detailed very explanatory answers. When I ask a question that requires search, I generally prefer deep search that generates very detailed answers I am proficient in Typescript and Python but sometimes a bit more of Typescript than python, so if I ever ask for an explanation of python code, ensure to include analogies to typescript to help me understand faster At a minimum, should be your bio and maybe details about your team, department or areas of responsibility How would you like AI Assist to respond? I want all responses to be in Nigerian Pidgin English Language, casual and use emojis. ALWAYS use Emojis!! Still keep all the facts and maintain accuracy and high quality responses. Specify your preferred communication style, such as tone, level of detail, and formality. Topics that always trigger search AI Coach AI Assist TeachTap Coachbot Type and press enter"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Google Meet video conference titled 'AI Coach Daily Sync'. The meeting involves multiple participants, including Michael Madume, Serban Petrescu, and Dragos Nuta. Michael Madume is presenting a document that outlines various decisions and action items related to AI development. The document includes details about creating a user profile object, defining an object schema for user profiles, and storing user profile data in XO or DynamoDB. The presentation also covers the use of Pinecone for simplifying implementation and the addition of a schema for audio transcripts.",
+        "During the meeting, the user discusses the importance of personalizing AI interactions based on user-specific data. The document presented highlights the need for organizing user data systematically to enhance the AI's ability to provide relevant and personalized responses. The user also emphasizes the rationale behind using Pinecone, which simplifies the implementation process by reducing the need for additional setup and maintenance.",
+        "The user is also seen interacting with an AI tool named 'AI Assist'. The settings panel for AI Assist is visible, where the user specifies their preferences for AI interactions. The user mentions that they are an AI Engineer working primarily on AI-based applications and prefers long and detailed explanatory answers. They also specify their proficiency in Typescript and Python and request that responses be in Nigerian Pidgin English Language, casual, and use emojis. This interaction indicates the user's reliance on AI tools for enhancing their workflow and obtaining detailed information."
+    ],
+    "aiUseSummary": "The user utilizes AI tools extensively in their workflow. During the Google Meet video conference, the user presents a document outlining various AI-related decisions and action items. Additionally, the user interacts with an AI tool named 'AI Assist', specifying their preferences for AI interactions. The user requests detailed and explanatory answers, indicating their reliance on AI for obtaining comprehensive information. The AI tool is also configured to respond in Nigerian Pidgin English Language, showcasing the user's preference for casual and engaging interactions. This use of AI tools enhances the user's productivity and task efficiency by providing tailored and detailed responses.",
+    "activities": [
+        "MEETING"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [
+        "PYTHON",
+        "TYPESCRIPT"
+    ],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "DEVFACTORY_TPM_AI"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 9,
+            "date": "2024-06-04T09:00:09Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-04T09:01:09Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T09:02:09Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T09:03:09Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T09:04:09Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T09:05:09Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T09:06:09Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T09:07:09Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T09:08:09Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T09:09:09Z",
+            "windowTitle": "Meet - kxx-fcoj-dew - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/kxx-fcoj-dew?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-04T09:00:00Z"
+}

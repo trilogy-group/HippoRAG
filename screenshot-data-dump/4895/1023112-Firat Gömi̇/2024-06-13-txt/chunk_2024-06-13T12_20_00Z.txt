@@ -1,0 +1,345 @@
+{
+    "candidateId": 2027577,
+    "apps": [
+        "mail.google.com",
+        "docs.google.com",
+        "google.com",
+        "open.spotify.com",
+        "app.hubspot.com",
+        "aws.prod.jivehosted.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-13T12:21:27Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Siri, Google Chrome, Microsoft Outlook, Visual Studio Code, Terminal, and other unidentified applications. Displays the date 'Jun 13' and time '12:21 PM'.",
+                        "position": "bottom"
+                    },
+                    {
+                        "elementType": "dock",
+                        "details": "icons include Finder, Launchpad, Siri, Google Chrome, Microsoft Outlook, Visual Studio Code, Terminal, and other applications. Active application indicator is visible under Google Chrome.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Hey Clare, Firat here, PM of Jive, and I want to hear your thoughts about CoPilot - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.1 GB - Google Chrome",
+                                "url": "mail.google.com",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "interface with tabs for Mail, Chat, Meet, and Spaces. Sidebar with folders such as Inbox, Starred, Snoozed, Sent, Drafts, and more. Compose button visible."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email Content",
+                                        "layoutDescription": "Email body visible",
+                                        "visibleText": "Hey Clare, Firat here, PM of Jive, and I want to hear your thoughts about CoPilot. Firat Gomi | Product Manager john.smith@ignitetech.com Learn more at ignitetech.com/jive"
+                                    },
+                                    {
+                                        "title": "Email Draft",
+                                        "layoutDescription": "Email draft in composition",
+                                        "visibleText": "Hey Candice, Firat here, I wanted to send this email personally because I saw that the Critical User Hub CoPilot on Sandbox only gave medium activity. I wanted to know if there are any reasons for not enabling it more often since it's free? I've seen that your users have used it 13 times during the 30-day demo launch. This shows interest in AI for your company, and we'd love to be a part of it. You can also just shoot me your thoughts as a reply to this email. You can be as candid as possible, no need to hold back on your feedback. Be cautious about sharing sensitive information. candice.henderson@supercommunications.com is outside your organization and isn't in your contacts. Regards, Firat"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Jive",
+                        "windows": [
+                            {
+                                "title": "TPM/TG daily",
+                                "position": "partially visible on the right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "interface with tabs for Team Chat, Missions, Contact Requests, Drafts and Sent, and More. Message input area visible."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Jive Chat Content",
+                                        "layoutDescription": "Chat messages visible",
+                                        "visibleText": "Firat: TPM/TG daily start demo. Message: Jive TPM/TG daily start demo."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Outlook",
+                        "windows": [
+                            {
+                                "title": "Outlook Email",
+                                "position": "minimized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "interface with email folders and settings visible."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Outlook Email Content",
+                                        "layoutDescription": "Email list visible",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-13T12:24:12Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Siri, Google Chrome, Microsoft Outlook, Visual Studio Code, Terminal, and other unidentified applications. Also includes system status icons like Wi-Fi, battery, clock showing '3:24 PM', and Spotlight search.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Hey Clare, Firat here, PM of Jive, and I want to hear your thoughts about CoPilot - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.1 GB - Google Chrome - Firat (trilogy.com)",
+                                "url": "https://mail.google.com/mail",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "interface with tabs, search bar, side menu, compose button, and settings icon"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email Content",
+                                        "layoutDescription": "Standard email layout",
+                                        "visibleText": "Hey Clare, Firat here, PM of Jive, and I want to hear your thoughts about CoPilot\n\nFirat Gomi | Product Manager\nfirat.gomi@ignitetech.com\n\nHey Clare,\n\nI hope you are well.\n\nI wanted to send this email personally because I saw that the Central Unit had CoPilot on standby mode since last week.\n\nI've seen that your users have used it 135 times during the 30-day demo launch. This shows interest and I would like to hear your thoughts about Jive and CoPilot since you are a valuable customer for us.\n\nYou can also just shoot me your thoughts as a reply to this email. You can be as candid as possible.\n\nIf you haven't been aware of CoPilot yet, you can check this list of tutorials to learn more about it and how to enable it in the Jive system.\n\nBesides these, let me know if I can help you in any way or if I've failed to create a connection here.\n\nBest regards,\n\nFirat Gomi | Product Manager\n\nLearn more at ignitetech.com/onthenrise"
+                                    }
+                                ]
+                            },
+                            {
+                                "appName": "Jive",
+                                "windows": [
+                                    {
+                                        "title": "TPM/TMG daily",
+                                        "position": "partially visible on the bottom right",
+                                        "isActive": false,
+                                        "uiElements": {
+                                            "details": "interface with user list, search bar, and settings icon"
+                                        },
+                                        "content": [
+                                            {
+                                                "title": "Chat Content",
+                                                "layoutDescription": "Chat layout with messages",
+                                                "visibleText": "Team Chat\n\n* Missed Calls\n* Mentions\n* Contact Requests\n* Drafts and Sent\n\nMessages\n\n* Firat Gomi (You)\n* Recent\n\nJive - TPM/TMG daily\n\nFirat: 'Type 'read' to start @Grace'\n\nFirat, reading notes: 'Read... May 16, 2024'\n\nFirat, Dana, and Firat added read meeting notes to the Jive board\n\nFirat: 'Read minutes & generated meeting overview to Mary'\n\nFirat: 'Type 'read' to stop @Grace, or 'quit' to delete meeting notes'"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-13T12:27:51Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Google Chrome, Python, Autodesk, My Guides, Outlook, and a user profile icon. Notification area shows network status, sound volume, date and time ('13/06/2024 12:27 PM').",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Search: Daimler Trucks North America \u2013 Central Support \u2013 Zendesk - Google Chrome - Firat (trilogy.com)",
+                                "url": "https://support.zendesk.com",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, and extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Zendesk Support Dashboard",
+                                        "layoutDescription": "List and search interface",
+                                        "visibleText": "Tickets (1795) Articles (900) Users (101) Organizations (7) Side conversation (32) ID Subject Requested Updated Requester Group #859694 [AX - 959661] - Hosted to Jive-ax Update: Daimler Trucks North America (DTNA) - [Phil] - [0122... Dec 22, 2007 Dec 22, 2007 Orymba Markovkyj Jive - Support #3681667 Daimler Trucks North America - Jive - License Extension Sep 12, 2022 Sep 12, 2022 Tori Ugrin Migration User #346167 Daimler Trucks North America LLC 2012 Renewal Sep 19, 2012 Sep 19, 2012 Migration User #8792542 [Jive] Re: Daimler Trucks North America LLC 2012 Renewal Sep 25, 2012 Oct 02, 2012 Migration User #1930424 [Jive] Re: Daimler Trucks North America LLC - Employee [1576946] Oct 21, 2019 Oct 21, 2019 Craig User #123832 [Jive] Daimler Trucks North America LLC - Customer Success Assessment - 2015 Jun 03, 2015 Jun 26, 2015 Abhishek Shetty L1 Support #1893491 [Jive] Daimler Trucks North America LLC - Customer Success Assessment - 2016 Jun 29, 2016 Jun 29, 2016 Abhishek Shetty L1 Support #3679826 Re: Request #3679822 - How would you rate the support you received? Aug 22, 2022 Aug 22, 2022 Craig Drummond L2 Routing - Level 1 Agents #8495263 License and Entitlement Application for 2022 Daimler Trucks North America LLC Apr 12, 2022 Apr 12, 2022 Abhishek Shetty L1 Support #285056 [Jive] 003840 Job Title License Request - Daimler Trucks N.A. Oct 13, 2014 Oct 13, 2014 john.kipling@daimler.com L1 Support #189810 [Jive] Mistake at Application Dec 09, 2017 Mar 12, 2018 Chris Varrassese Jive - Support #189810 [Jive] - AX- 859121 - Hosted to Jive - Migration [01223500] Dec 09, 2017 Mar 12, 2018 Chris Varrassese Jive - Support #309187 [Jive] - License count for United Lines Sep 21, 2017 Sep 22, 2017 Chris Varrassese Jive - Support #308987 [Jive] - AX- 420569 - Hosted License Renewal [0121464] Jul 26, 2013 Jul 26, 2013 Chris Varrassese Jive - Support #288382 [Jive] - AX- 420762 - Hosted License Renewal [0121767] Sep 11, 2016 Sep 12, 2016 Chris Varrassese Jive - Support #3853923 [Jive] - New Master Hosted - Hosted, Cloud, CP & OpenFire - Daimler Trucks North America LLC Feb 11, 2022 Feb 11, 2022 Choudhry Rashid & Rashid L2 Routing - Level 2 Agents"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is primarily engaged in email communication using Gmail. They are composing an email to Candice Henderson, discussing the usage of CoPilot and seeking feedback. The email draft is visible, and the user is actively editing it. The email content includes details about the CoPilot usage statistics and a request for feedback. Additionally, the user is managing their calendar, scheduling a meeting with Candice Henderson, and setting up a Google Meet link for the meeting.",
+        "The user is also engaged in team communication using the Jive application. They are participating in a team chat titled 'TPM/TG daily' where they discuss daily tasks and updates. The chat content includes messages from Firat Gomi and other team members, discussing meeting notes and task updates. The user is actively reading and responding to messages in this chat.",
+        "The user is conducting research on Zendesk, specifically looking at support tickets related to Daimler Trucks North America. The Zendesk dashboard is open, displaying a list of tickets, articles, users, and organizations. The user is reviewing the details of various support tickets, including their status, requester, and group assignments. This activity indicates that the user is involved in customer support or issue resolution tasks.",
+        "The user is also browsing LinkedIn, viewing the profile of Candice Hendoro. This activity suggests that the user is gathering information about Candice, possibly for networking or professional communication purposes. The LinkedIn interface shows the user's connections, messages, and profile details."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in email communication, team chat, research on Zendesk, and browsing LinkedIn. No AI chat interfaces or AI-generated content are visible in the screenshots.",
+    "activities": [
+        "EMAIL",
+        "CHATTING_WITH_TEAM",
+        "RESEARCH"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "EMAIL",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 6,
+            "mouse": 5,
+            "date": "2024-06-13T12:20:56Z",
+            "windowTitle": " Hey Clare, Firat here, PM of Jive, and I want to hear your thoughts about CoPilot - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.1 GB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#sent/FMfcgzQVwxGQzZtptXSFrgVBNKfNVXGg?compose=jrjtXMlkmLQlRfhKDPrwRSmRzNRHDhLHWRPFMFkjZlwvgzrhdRZHfgqpBcSxJxHMNFmFfCpn",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 66,
+            "mouse": 8,
+            "date": "2024-06-13T12:21:56Z",
+            "windowTitle": "https://docs.google.com/spreadsheets/d/12oa2YO3TzeRsKva2OFvbvo2kWqriAvQq6JBjWOgQ76A/edit#gid=491352311\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/spreadsheets/d/12oa2YO3TzeRsKva2OFvbvo2kWqriAvQq6JBjWOgQ76A/edit#gid=491352311",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 69,
+            "mouse": 2,
+            "date": "2024-06-13T12:22:56Z",
+            "windowTitle": " Hey Clare, Firat here, PM of Jive, and I want to hear your thoughts about CoPilot - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.1 GB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#sent/FMfcgzQVwxGQzZtptXSFrgVBNKfNVXGg?compose=jrjtXMlkmLQlRfhKDPrwRSmRzNRHDhLHWRPFMFkjZlwvgzrhdRZHfgqpBcSxJxHMNFmFfCpn",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 62,
+            "mouse": 3,
+            "date": "2024-06-13T12:23:56Z",
+            "windowTitle": " Hey Clare, Firat here, PM of Jive, and I want to hear your thoughts about CoPilot - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.1 GB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#sent/FMfcgzQVwxGQzZtptXSFrgVBNKfNVXGg?compose=jrjtXMlkmLQlRfhKDPrwRSmRzNRHDhLHWRPFMFkjZlwvgzrhdRZHfgqpBcSxJxHMNFmFfCpn",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 9,
+            "date": "2024-06-13T12:24:56Z",
+            "windowTitle": " Hey Clare, Firat here, PM of Jive, and I want to hear your thoughts about CoPilot - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.1 GB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#sent/FMfcgzQVwxGQzZtptXSFrgVBNKfNVXGg?compose=jrjtXMlkmLQlRfhKDPrwRSmRzNRHDhLHWRPFMFkjZlwvgzrhdRZHfgqpBcSxJxHMNFmFfCpn",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 48,
+            "mouse": 3,
+            "date": "2024-06-13T12:25:56Z",
+            "windowTitle": " glen waverley, VIC - Google Search - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "google.com",
+            "visitingUrl": "https://www.google.com/search?q=glen+waverley%2C+VIC&oq=glen+waverley%2C+VIC&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIKCAcQABgPGBYYHjIICAgQLhgWGB7SAQg4NTMwajBqN6gCALACAA&sourceid=chrome&ie=",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 22,
+            "mouse": 3,
+            "date": "2024-06-13T12:26:56Z",
+            "windowTitle": " Customer Interview - Jive - CSA Group - Google Docs - Part of group Jive - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/document/d/1L-WZu7xvMS3Bcra3jJfuwfmN5MaB-neC3_eS2qfNkeo/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 13,
+            "mouse": 10,
+            "date": "2024-06-13T12:27:56Z",
+            "windowTitle": " Spotify - Web Player: Music for everyone - Google Chrome - F?rat\n",
+            "processName": "open.spotify.com",
+            "visitingUrl": "https://open.spotify.com/?trackId=6170lJSBtiM5trzOtHtdD2",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 1,
+            "mouse": 10,
+            "date": "2024-06-13T12:28:56Z",
+            "windowTitle": " Marketing Email | HubSpot - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "app.hubspot.com",
+            "visitingUrl": "https://app.hubspot.com/email/4281917/manage/state/all",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 23,
+            "mouse": 10,
+            "date": "2024-06-13T12:29:56Z",
+            "windowTitle": " JCA for Aurea (PROD) - AWS Installations - Part of group Jive - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "aws.prod.jivehosted.com",
+            "visitingUrl": "https://aws.prod.jivehosted.com/admin/jcx-installation-list.jspa",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-13T12:20:00Z"
+}

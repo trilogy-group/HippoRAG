@@ -1,0 +1,298 @@
+{
+  "candidateId": 2366596,
+  "apps": [
+    "docs.google.com",
+    "mail.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-11T17:47:28Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, Outlook, File Explorer, Adobe Reader, and other unidentified applications. Also includes system clock showing '11:47 AM' and date '11 Jun 2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Re: TeachTales Purchase Request - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+                "url": "mail.google.com/mail/u/0/#inbox/FMfcgzGqRjZrjXqJZwFjHkxjZmQJZjZs",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Address bar, bookmarks bar, Gmail interface with navigation sidebar, main email content area, and task icons at the top right corner."
+                },
+                "content": [
+                  {
+                    "title": "Email Content",
+                    "layoutDescription": "Standard Gmail layout",
+                    "visibleText": "Phil Hewinson\nTo Simon, Samy, me\nThis is great Simon! Agree with all of Samy's questions and comments. A few things to add:\n1. Presumably we capture the student's email during signup, not the parent's as well. I don't have context on how a student comes across and signs up to TeachTales, but I assume it's with their parents helping them - if that's the case, we should probably capture the parent's email address during sign up as well so we can have a way of emailing them - this could be messaged as sending them insights into their child's learning and development\n2. For the above student and others, we could then send a short report highlighting their progress with the key data points we have today - this process will also highlight the key gaps we need to fill (e.g., data to support evidencing that the student is becoming a better reader), plus it gives us a starting point to have a conversation with a parent to see what is most valuable in this report and what is missing so we know where to focus next\n3. Sending this report can then be a natural opening to ask them to have a conversation with us (in return for a cash incentive for their time) or if we're at a greater scale, it could invite them to complete a survey form where we can then select parents we want to talk to based on their responses. This could also be a good place to capture testimonials/quotes from happy parents that we can use in our marketing\n4. A couple of small suggestions on the UX from watching a couple of the Lorgrocket videos:\n1. During signup, it might be better to ask for the Grade after their name rather than at the bottom after their password - I only watched one video, but the user didn't click the grade dropdown after entering their password, so I wonder if it's easy to miss as you usually press \"Signup\" after you enter a password rather than answering another question, and we really don't want users to skip this otherwise all the content will be wrong level for them - putting it after the name makes it more likely users won't miss this question during signup\n2. I'd make clicking on the answer the only click required to answer a question - right now it's two clicks (clicking the answer and then clicking \"submit\") - this is twice as much friction as it needs to be"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Tasks",
+            "windows": [
+              {
+                "title": "Tasks - Active",
+                "position": "right side of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Task management interface with list of tasks and options to add or edit tasks."
+                },
+                "content": [
+                  {
+                    "title": "Task List",
+                    "layoutDescription": "List of tasks with checkboxes",
+                    "visibleText": "Add a task\nSplit out content gen / prompt engineering\nDo we grow marketing team?\nQ2 progress / Q3 plan\nBudget meeting\nhttps://docs.google.com/document/d/1Y1pC"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Adobe Reader",
+            "windows": [
+              {
+                "title": "PDF Viewer",
+                "position": "minimized",
+                "isActive": false,
+                "uiElements": {
+                  "details": "PDF viewing tools and navigation."
+                },
+                "content": [
+                  {
+                    "title": "PDF Document",
+                    "layoutDescription": "Standard PDF layout",
+                    "visibleText": "TEXT TOO BLURRY"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "File Explorer",
+            "windows": [
+              {
+                "title": "Documents",
+                "position": "minimized",
+                "isActive": false,
+                "uiElements": {
+                  "details": "File navigation and management tools."
+                },
+                "content": [
+                  {
+                    "title": "File List",
+                    "layoutDescription": "List view",
+                    "visibleText": "TEXT TOO BLURRY"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Outlook",
+            "windows": [
+              {
+                "title": "Inbox - Outlook",
+                "position": "minimized",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Email navigation and management tools."
+                },
+                "content": [
+                  {
+                    "title": "Email List",
+                    "layoutDescription": "Standard Outlook layout",
+                    "visibleText": "TEXT TOO BLURRY"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Unidentified Applications",
+            "windows": [
+              {
+                "title": "Various",
+                "position": "minimized",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Various application interfaces."
+                },
+                "content": [
+                  {
+                    "title": "Application Content",
+                    "layoutDescription": "Various layouts",
+                    "visibleText": "TEXT TOO BLURRY"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in reading and responding to emails on Gmail. The email content includes a detailed discussion about capturing student emails during signup, sending progress reports, and improving the user experience during the signup process. The user is also managing tasks using the Google Tasks sidebar, which includes tasks related to content generation, marketing team growth, and progress planning for Q2 and Q3.",
+    "The user is viewing a Google Docs document, as indicated by the links visited. The document likely contains information relevant to their tasks, such as the Q2 progress/Q3 plan mentioned in the task list. The user is also seen interacting with the task management interface, adding and organizing tasks related to their ongoing projects.",
+    "The user is not seen writing or reviewing code, nor are they engaged in any meetings or chatting with team members. The primary focus appears to be on email communication and task management, with some reference to document editing or viewing in Google Docs. The user is organizing their tasks and planning their activities for the upcoming quarters."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in email communication and task management without any visible interaction with AI tools for code suggestions, research, or debugging.",
+  "activities": [
+    "EMAIL",
+    "READING_SPEC"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "EMAIL",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 7,
+      "mouse": 7,
+      "date": "2024-06-11T17:40:47Z",
+      "windowTitle": "LearnWith.ai Q3 2024 Budget Update - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1wRJiCDXbFF0pR2cSKCtEeEa5BQWZFem1vLqOqLAI2ic/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 5,
+      "mouse": 2,
+      "date": "2024-06-11T17:41:47Z",
+      "windowTitle": "LearnWith.ai Q3 2024 Budget Update - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1wRJiCDXbFF0pR2cSKCtEeEa5BQWZFem1vLqOqLAI2ic/edit#heading=h.4pcutttjk4yb",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 88,
+      "mouse": 3,
+      "date": "2024-06-11T17:42:47Z",
+      "windowTitle": "TeachTap - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCzFnnLKxnQXRhTHfLBCLzh",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 13,
+      "date": "2024-06-11T17:43:47Z",
+      "windowTitle": "TeachTap - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCxmJLVtQZcRHsjrhGGSPdG",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 20,
+      "date": "2024-06-11T17:44:47Z",
+      "windowTitle": "Rough Priorities Assignment - Google Docs - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/document/d/1xg25F13M7hSo1NjyQWFsRXGH6Jc_26tyRXI28OdMmpY/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 11,
+      "date": "2024-06-11T17:45:47Z",
+      "windowTitle": "Re: TeachTales Purchase Request - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCwqNZBphRbSrxQdNmBRCJG",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 6,
+      "date": "2024-06-11T17:46:47Z",
+      "windowTitle": "Re: TeachTales Purchase Request - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCwqNZBphRbSrxQdNmBRCJG",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T17:47:47Z",
+      "windowTitle": "Re: TeachTales Purchase Request - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCwqNZBphRbSrxQdNmBRCJG",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T17:48:47Z",
+      "windowTitle": "Re: TeachTales Purchase Request - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCwqNZBphRbSrxQdNmBRCJG",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-11T17:49:47Z",
+      "windowTitle": "Re: TeachTales Purchase Request - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCwqNZBphRbSrxQdNmBRCJG",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    }
+  ],
+  "timestamp": "2024-06-11T17:40:00Z"
+}

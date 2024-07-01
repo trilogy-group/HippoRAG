@@ -1,0 +1,198 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "docs.google.com",
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T13:23:37Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Chrome, File Explorer, Microsoft Store, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '07:23 12 Jun 2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Magic Academy - Product - Chat - Google Chrome",
+                                "url": "mail.google.com/mail/u/0/#chat/spa",
+                                "position": "center of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, and extensions visible."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat Window",
+                                        "layoutDescription": "Chat window with text and image",
+                                        "visibleText": "Phil, Bogdan, Simon, Shawn\n5 members\n\n1. It wasn't off by that much; I computed the split to take into account rates\n W.S. Eng: Team Roster and updated the budget split\n2. That's the cost of running the underlying platform (content gen, learning algorithms, etc)\n3. I'll reduce the design mockup costs to $32K/quarter, so it aligns with ~$125K per quarter we are paying for a $100K comp (including tools like Figma and stuff)\n4. @Simon Said - can you chime in here? I have no visibility on what Mark Forrester is doing\n5. Student Interns I see are under Tristan, so I'd assume it was more marketing-related activities (e.g. video creation).\n6. Good catch - fixed\n\nUpdated\nNo, it doesn't\nThanks!"
+                                    },
+                                    {
+                                        "title": "Attached Image in Chat",
+                                        "layoutDescription": "Image of a spreadsheet",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Tasks Widget",
+                        "windows": [
+                            {
+                                "title": "Tasks Widget",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "list with checkboxes and links"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Tasks List",
+                                        "layoutDescription": "List of tasks with links",
+                                        "visibleText": "Tasks\nActive\n\nAdd a task\nMac build working on Steam?\nReply to Simon\nTablet for Phil's son\nQ2 progress / Q3 plan Budget meeting\nSamy 1:1 topics\n - App testing as a service\n - Doreen run research study...\nUser submitted video\nPlay test\nEnter grade (support US grades only)\nPost TeachTap content on TikTok following the unit schedule on the calendar\nSplit by channel per AP course\nFollow up with Doreen about beta program and research results"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in a chat conversation on Gmail with team members Phil, Bogdan, Simon, and Shawn. The discussion revolves around budget details for a project, specifically the GT School Q3'24 Budget. The user mentions computing the budget split to account for rates, reducing design mockup costs, and seeking input from team members on various tasks. The chat also includes mentions of student interns and marketing-related activities.",
+        "The user has a tasks widget open on the right side of the screen, displaying a list of tasks. These tasks include 'Mac build working on Steam?', 'Reply to Simon', 'Tablet for Phil's son', 'Q2 progress / Q3 plan Budget meeting', 'Samy 1:1 topics', 'User submitted video', 'Play test', 'Enter grade (support US grades only)', 'Post TeachTap content on TikTok following the unit schedule on the calendar', and 'Follow up with Doreen about beta program and research results'. Each task has a checkbox next to it, indicating the user's to-do list for the day.",
+        "The user is also viewing a Google Sheets document, as indicated by the link in the tasks widget for 'Q2 progress / Q3 plan Budget meeting'. This suggests that the user is preparing for an upcoming budget meeting by reviewing and possibly updating the spreadsheet. The spreadsheet likely contains financial data and projections for the project, which the user needs to analyze and discuss during the meeting."
+    ],
+    "aiUseSummary": "",
+    "activities": [
+        "EMAIL",
+        "CHATTING_WITH_TEAM",
+        "READING_SPEC"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DOCUMENT_VIEWER_OR_EDITOR"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "CHATTING_WITH_TEAM",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 15,
+            "date": "2024-06-12T13:22:45Z",
+            "windowTitle": "GT School Q3'24 Budget Details - Google Sheets - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/spreadsheets/d/19t2L4FosU9WLYwDFYdDf6EbfMwMUkto9JOJdjZXw57U/edit#gid=85994188",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 16,
+            "mouse": 25,
+            "date": "2024-06-12T13:23:45Z",
+            "windowTitle": "Simon Said messaged you - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 9,
+            "date": "2024-06-12T13:24:45Z",
+            "windowTitle": "GT School Q3'24 Budget Details - Google Sheets - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/spreadsheets/d/19t2L4FosU9WLYwDFYdDf6EbfMwMUkto9JOJdjZXw57U/edit#gid=658915472",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 244,
+            "mouse": 5,
+            "date": "2024-06-12T13:25:45Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/iXTDrUAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 262,
+            "mouse": 6,
+            "date": "2024-06-12T13:26:44Z",
+            "windowTitle": "Magic Academy - Marketing - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/iXTDrUAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 344,
+            "mouse": 0,
+            "date": "2024-06-12T13:27:44Z",
+            "windowTitle": "Magic Academy - Marketing - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/iXTDrUAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 41,
+            "mouse": 13,
+            "date": "2024-06-12T13:28:44Z",
+            "windowTitle": "TeachTales Marketing - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 161,
+            "mouse": 23,
+            "date": "2024-06-12T13:29:44Z",
+            "windowTitle": "GT School Q3'24 Budget Details - Google Sheets - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/spreadsheets/d/19t2L4FosU9WLYwDFYdDf6EbfMwMUkto9JOJdjZXw57U/edit#gid=131384902",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-12T13:20:00Z"
+}

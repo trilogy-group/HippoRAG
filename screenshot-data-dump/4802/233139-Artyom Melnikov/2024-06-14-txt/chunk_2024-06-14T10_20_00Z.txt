@@ -1,0 +1,274 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "github.com",
+        "npmjs.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T10:21:24Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, Microsoft Edge, File Explorer, and several unidentified applications. System tray includes network, sound, and battery status icons, as well as the date and time display '12:41 06/14/2024'. Language indicator 'ENG' is also visible.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+                                "url": "https://github.com/trilogy-group/x",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, profile icon, and extensions including GitHub, AWS, and others"
+                                },
+                                "content": [
+                                    {
+                                        "title": "build",
+                                        "layoutDescription": "detailed layout",
+                                        "visibleText": "Jobs\nSummary\nbuild\nRun details\n68 tests\nWorkflow file\nStarted 17m ago\nDeploy to env\nShould fail on low amount of calibrated questions\nPASS test/unit/tasks/prototypes/prototypePrompt.tests.ts intercept QAPI with attempted prompt\nPASS test/unit/tasks/prototypeSearchForPrompt.tests.ts handle caching on error (5 s)\nPASS test/unit/tasks/prototypeSearchForPrompt.tests.ts intercept QAPI and call OpenAI (4 s)\nPASS test/unit/tasks/prototypeSearchForPrompt.tests.ts return null on missing cheating patterns\nPASS test/unit/tasks/prototypeSearchForPrompt.tests.ts return null on missing cheating rubric\nPASS test/unit/tasks/prototypeSearchForPrompt.tests.ts intercept QAPI and call OpenAI (4 s)\nPASS test/unit/tasks/prototypeSearchForPrompt.tests.ts return null on missing cheating patterns\nPASS test/unit/tasks/prototypeSearchForPrompt.tests.ts return null on missing cheating rubric\nPASS test/unit/tasks/prototypeSearchForPrompt.tests.ts retry on bad response (15 s)\nPASS test/unit/tasks/prototypeSearchForPrompt.tests.ts retry on failed retry (15 s)\nPASS test/unit/tasks/prototypeSearchForPrompt.tests.ts reject reason on request\nPASS test/unit/tasks/prototypeSearchForPrompt.tests.ts noise-generate events\nShould not raise validation event if externalCallback is not defined\nPASS test/unit/tasks/prototypeSearchForPrompt.tests.ts state 'Initializing', event milli_delay, should invoke step fn false, invoke sass: false (1 s)\nPASS test/unit/tasks/prototypeSearchForPrompt.tests.ts state 'Ready', event milli_delay, should invoke step fn false, invoke sass: false\nPASS test/unit/tasks/prototypeSearchForPrompt.tests.ts state 'Completed', event milli_delay, should invoke step fn false, invoke sass: true (1 s)\nPASS test/unit/tasks/prototypeSearchForPrompt.tests.ts state 'Cradle', event 'HURT', delay 0, should invoke step fn false, invoke sass: true\nPASS test/unit/tasks/prototypeSearchForPrompt.tests.ts state 'Cradle', event 'full', delay 0, should invoke step fn true, invoke sass: false\nPASS test/unit/tasks/prototypeSearchForPrompt.tests.ts state 'Gadget', event 'full', delay 0, should invoke step fn true, invoke sass: true\nPASS test/unit/tasks/prototypeSearchForPrompt.tests.ts generate session completed events (6 s)\nPASS test/unit/tasks/prototypeSearchForPrompt.tests.ts properly handle card events (2 s)\nPASS test/unit/tasks/prototypeSearchForPrompt.tests.ts generate session creation event\nPASS test/unit/tasks/prototypeSearchForPrompt.tests.ts intercept QAPI with calibrated questions prompt (3 s)\nPASS test/unit/tasks/prototypeSearchForPrompt.tests.ts handle on missing valid input (1 s)\nPASS test/unit/tasks/prototypeSearchForPrompt.tests.ts fail on missing valid id\nPASS test/unit/tasks/prototypeSearchForPrompt.tests.ts session state 'Initializing', should expire: false\nPASS test/unit/tasks/prototypeSearchForPrompt.tests.ts session state 'Ready', should expire: false\nPASS test/unit/tasks/prototypeSearchForPrompt.tests.ts session state 'Completed', should expire: true\nPASS test/unit/tasks/prototypeSearchForPrompt.tests.ts session state 'Cradle', should expire: false\nPASS test/unit/tasks/prototypeSearchForPrompt.tests.ts session state 'Gadget', should expire: false\nPASS test/unit/tasks/prototypeSearchForPrompt.tests.ts 25 passed, 25 total\nSnapshots: 0 total\nTime: 20.486s\nRan all test suites.\n[INFO] Done! Took 22.35593614 s\n[DEBUG] Projecting Lambda layer with dependencies.\nWARN Configured pre-node >=10 doesn't match installed version 7 or higher. Older versions may use Neth-nod in certain circumstances, which is known to be problematic. See https://dev.dbl/lambda for details.\nPost Run action/checkout@v3"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T10:23:58Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned and running applications. Displays system tray with network, sound, and clock icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+                                "url": "https://github.com/trilogy-group/xo-hiring-monorepo",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs for GitHub, Inbox, Work, BAM, Indeed, AWS, and others. Address bar, navigation buttons, and profile icon visible."
+                                },
+                                "content": [
+                                    {
+                                        "title": "GitHub Actions Log",
+                                        "layoutDescription": "Text log in a scrolling window",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Other Applications",
+                        "windows": []
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T10:28:30Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Mail, Web browser, File Explorer, Visual Studio Code, AWS, and system tray including network, sound, and clock",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Release Latest Release ? trilogy-group/mobile-learning-games - Google Chrome",
+                                "url": "https://github.com/trilogy-group/mobile-learning-games",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Navigation bar with back, forward, refresh buttons, address bar, bookmarks bar, profile icon, and window controls"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Latest Release",
+                                        "layoutDescription": "Main content centered",
+                                        "visibleText": "Latest Release\nmohmort released this Apr 19 \u00b7 1578 commits to main since this release\nLatestLinks\n3d59665\nMac\nWindows\nAndroid\nIf you're invited to internal testers.\nDownload it from here\niOS:\nLatest build in TestFlight Acceptance group, you'll need to be invited as a tester.\nAssets\nSource code (zip)\nSource code (tag)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in reviewing code on GitHub. They are examining the logs of a build process for the repository 'xo-hiring-monorepo'. The logs detail the results of various tests, including those for prototype prompts and session events. The user is likely ensuring that all tests pass and identifying any issues that need to be addressed.",
+        "The user continues to review the build logs on GitHub. The logs show the setup process for various libraries and dependencies. This indicates that the user is monitoring the build process to ensure that all dependencies are correctly installed and configured, which is crucial for the successful deployment of the application.",
+        "The user navigates to another GitHub repository, 'mobile-learning-games', to check the latest release. They are viewing the release notes and the available assets for download. This activity suggests that the user is verifying the latest updates and ensuring that the release is properly documented and accessible to testers."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily focused on reviewing build logs and release notes on GitHub without any visible interaction with AI tools for code suggestions, debugging, or research.",
+    "activities": [
+        "REVIEWING_CODE"
+    ],
+    "workTypes": [
+        "TESTS"
+    ],
+    "programmingLanguages": [
+        "TYPESCRIPT"
+    ],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "REVIEWING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T10:20:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514511544/job/26226855351",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T10:21:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514511544/job/26226855351",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T10:22:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514511544/job/26226855351",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T10:23:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514511544/job/26226855351",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T10:24:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514511544/job/26226855351",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T10:25:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514511544/job/26226855351",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 10,
+            "date": "2024-06-14T10:26:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514511544/job/26226855351",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T10:27:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514511544/job/26226855351",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T10:28:17Z",
+            "windowTitle": "Deploy environment on push ? trilogy-group/xo-hiring-monorepo@bb9eaf7 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/runs/9514511544/job/26226855351",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 6,
+            "mouse": 4,
+            "date": "2024-06-14T10:29:17Z",
+            "windowTitle": "aws-cdk - npm - Google Chrome",
+            "processName": "npmjs.com",
+            "visitingUrl": "npmjs.com/package/aws-cdk",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T10:20:00Z"
+}

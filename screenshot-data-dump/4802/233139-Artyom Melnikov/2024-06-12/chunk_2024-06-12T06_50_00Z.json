@@ -1,0 +1,274 @@
+{
+  "candidateId": 233179,
+  "apps": [
+    "idea64"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-12T06:52:43Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '8:48 AM' and date '06/12/2024'. Language set to ENG. Network status icon visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "CountStepsNotCompleted",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar at top with File, Edit, View, Go, Run, Terminal, Help. Side bar on left with Explorer, Search, Source Control, Run and Debug, Extensions icons. Bottom bar with problems, output, debug console, terminal tabs. Right sidebar with minimap."
+                },
+                "content": [
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Text editor with multiple tabs",
+                    "visibleText": "public class CountStepsNotCompletedService {\n public static void integration_noBranfordFailed_part2() {\n // Act\n ApplicationStep_Result__c[] applicationStepResults = {\n new ApplicationStep_Result__c(StageName='FROM', Loss_Reason__c='MIA', IsSQL__c=false, PassedInterview__c=false, Qualification_Override__c=false)\n };\n update applicationStepResults;\n\n // Assert\n System.assertE..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T06:55:25Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '08:27 AM' and date '2024-06-12'. Network status, sound volume, and battery status icons are also visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "CountStepsNotCompleted - Visual Studio Code",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Top bar, left sidebar, bottom terminal, right minimap"
+                },
+                "content": [
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Text editor with multiple tabs",
+                    "visibleText": "public class CountStepsNotCompletedService {\n public static List<CountStepOutputs> countSteps(Account candidate, String stageName, Integer cacheKeyForGetSteps, Account candidate) {\n List<QualificationOverride> qualificationOverride = new ArrayList<>();\n qualificationOverride.add(new QualificationOverride());\n\n Result result = new Result();\n result.isMql = 0;\n\n // MQL\n if (positionOfLastStage == positionOfCat ||\n (positionOfLastStage.positionOfCat == null && // Rejected right from EasyApply\n positionOfLastStage.positionOfCat != null && // Passed CCAT, but not rejected/expired/canceled\n positionOfLastStage.positionOfCat == positionOfCat &&\n (stageName == 'Canceled' or stageName == 'Expired') && positionOfLastActiveStage == positionOfCat) {\n result.isMql = 1;\n } else if (hasFailedOfCatRecapSteps || (stageName == 'Rejected' and positionOfLastActiveStage == positionOfCat)) {\n result.isMql = 0;\n } else {\n result.isMql = 1;\n }\n\n // MQL override\n if (result.isMql == 1 && result.isMql != 1) {\n qualificationOverride.add(new MqlOverrideSql());\n }\n\n return qualificationOverride;\n }\n"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-12T06:57:52Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, pinned applications, and system tray including time and language indicator",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "CountStepsNotCompleted - sfdx - Visual Studio Code",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "UI bar at top, sidebar on left, status bar at bottom, editor area in center"
+                },
+                "content": [
+                  {
+                    "title": "Explorer",
+                    "layoutDescription": "List",
+                    "visibleText": "Project\nsfdx\nfeature/LAMBD"
+                  },
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Text editor with multiple tabs",
+                    "visibleText": "public class CountStepsNotCompletedServiceTests {\n public static void main(String[] args) {\n // Arrange\n Opportunity application = TestDataHelper.createOpportunity(candidateId, pipelineId, 'BRG');\n SystemUnderTest updatedApplication = new SystemUnderTest(application);\n System.assertEquates('BRG', updatedApplication.StageName);\n System.assertEquates(1.5Q, updatedApplication.ISM_Q_);\n System.assertEquates(true, updatedApplication.PassedInterview_);\n System.assertEquates(true, updatedApplication.Qualification_Override_);\n // Act\n Test.startTest();\n Application_Step_Result__c bfStep = [SELECT Id FROM Application_Step_Result__c WHERE Application_Step_Id__c = bfStepId];\n bfStep.Score_ = PASSING_SCORE;\n update bfStep;\n // Assertion\n updatedApplication = [SELECT Id, StageName, ISM_Q_, ISM_Q_2_, PassedInterview_, Qualification_Override_ FROM Opportunity WHERE Id = application.Id];\n System.assertEquates(null, updatedApplication.ISM_Q_);\n System.assertEquates(null, updatedApplication.ISM_Q_2_);\n System.assertEquates(null, updatedApplication.PassedInterview_);\n System.assertEquates(null, updatedApplication.Qualification_Override_);\n // Act\n Test.startTest();\n Opportunity newOpportunity = [SELECT Id FROM Opportunity WHERE Id = application.Id];\n newOpportunity.StageName = 'Interview';\n update newOpportunity;\n Test.stopTest();\n // Assert\n updatedApplication = [SELECT Id, StageName, ISM_Q_, ISM_Q_2_, PassedInterview_, Qualification_Override_ FROM Opportunity WHERE Id = application.Id];\n System.assertEquates(null, updatedApplication.ISM_Q_);\n System.assertEquates(null, updatedApplication.ISM_Q_2_);\n System.assertEquates(null, updatedApplication.PassedInterview_);\n System.assertEquates(null, updatedApplication.Qualification_Override_);\n // This is postponed in HandleApplicationStageReview\n update news Opportunity{Id = application.Id, StageName = 'Interview'};\n Test.stopTest();\n // Assert\n updatedApplication = [SELECT Id, StageName, ISM_Q_, ISM_Q_2_, PassedInterview_, Qualification_Override_ FROM Opportunity WHERE Id = application.Id];\n System.assertEquates(null, updatedApplication.ISM_Q_);\n System.assertEquates(null, updatedApplication.ISM_Q_2_);\n System.assertEquates(null, updatedApplication.PassedInterview_);\n System.assertEquates(null, updatedApplication.Qualification_Override_);\n }\n}"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in writing and navigating code within the IntelliJ IDEA IDE. The primary focus is on a class named 'CountStepsNotCompletedService' and its associated test class 'CountStepsNotCompletedServiceTests'. The user is working on methods that involve SQL queries and logic for handling application steps and their results. The visible code includes methods for counting steps, handling integration tests, and updating application step results.",
+    "The user is also running tests within the IDE. The test results are displayed at the bottom of the screen, indicating that the user is verifying the functionality of the code they are writing. The tests include assertions to check the correctness of the application step results and ensure that the logic for handling different stages of an application is working as expected.",
+    "Throughout the session, the user is modifying and reviewing code related to the 'CountStepsNotCompletedService' class. This includes updating SQL queries, adding new logic for handling different application stages, and ensuring that the test cases cover various scenarios. The user is also navigating through different files within the project, as indicated by the open tabs and the project explorer on the left side of the IDE."
+  ],
+  "aiUseSummary": "There is no visible evidence of AI tools being used in the provided screenshots. The user is primarily focused on writing and testing code within the IntelliJ IDEA IDE. There are no indications of AI chat interfaces or AI-generated code suggestions in the visible UI elements.",
+  "activities": [
+    "WRITING_CODE",
+    "NAVIGATING_CODE"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "TESTS"
+  ],
+  "programmingLanguages": [
+    "SALESFORCE",
+    "SQL"
+  ],
+  "toolTypes": [
+    "IDE"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 4,
+      "mouse": 20,
+      "date": "2024-06-12T06:50:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedService",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 49,
+      "mouse": 28,
+      "date": "2024-06-12T06:51:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedServiceTests",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 19,
+      "mouse": 21,
+      "date": "2024-06-12T06:52:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedServiceTests",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 10,
+      "date": "2024-06-12T06:53:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedServiceTests",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T06:54:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedServiceTests",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-12T06:55:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedServiceTests",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 173,
+      "mouse": 6,
+      "date": "2024-06-12T06:56:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedService",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 65,
+      "mouse": 17,
+      "date": "2024-06-12T06:57:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedServiceTests",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 26,
+      "mouse": 26,
+      "date": "2024-06-12T06:58:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedServiceTests",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 12,
+      "mouse": 25,
+      "date": "2024-06-12T06:59:00Z",
+      "windowTitle": "sfdx ? CountStepsNotCompletedServiceTests",
+      "processName": "idea64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-12T06:50:00Z"
+}

@@ -1,0 +1,278 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "mail.google.com",
+        "webstorm64",
+        "chrome",
+        "github.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T08:51:31Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes network status, sound volume, date and time display ('2024-06-12 10:51'), and other system icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "xo-hiring-monorepo | indeed-report-generator\\src\\index.ts",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with options like File, Edit, View, Go, Run, Terminal, Help. Sidebar with project explorer. Status bar at the bottom showing branch name, problems count, and other details."
+                                },
+                                "content": [
+                                    {
+                                        "title": "File Explorer",
+                                        "layoutDescription": "Vertical panel on the left",
+                                        "visibleText": "Project\n- .github\n- .vscode\n- Test\n- interview-bot\n- node_modules\n- src\n - common\n - base-lambda-executor.ts\n - common-utils\n - configs.ts\n - constants.ts\n - event-parser.ts\n - index-mappings.ts\n - open-search-utils\n - s3-utils\n - string-utils\n - tags-utils.ts\n - time-utils.ts\n - types.ts\n - index-gql\n - index-handler.ts\n - index.ts\n - lambda-executor.ts\n - lambda-execs\n - lambda-index.ts\n - lambda-resume\n - doc-parser.ts\n - doc-type-parts\n - mime-types.ts\n - pdf-parser.ts\n - resume-handlers\n - migrate-resumes\n - athena-candidates\n - index.ts\n - lambda-executor.ts\n- Test\n- package.json\n- package-lock.json\n- README.md\n- tsconfig.json"
+                                    },
+                                    {
+                                        "title": "Source Code Editor",
+                                        "layoutDescription": "Large central panel",
+                                        "visibleText": "import { budgeting } from './utils';\n\nconst SFLogs: {budget: string, pipelineCode: ...} = {\n 'budget': '999',\n 'pipeline': '5281'\n}\n\nconst PipeCategories: Record<string, number> = {\n 'I2_PIPE_5889_PART_1.1': 69,\n 'I2_PIPE_5889_PART_2.1': 103,\n 'I2_PIPE_5889_PART_3.1': 156,\n 'I2_PIPE_5889_PART_1.1': 50,\n 'I2_PIPE_5889_PART_2.1': 87,\n 'I2_PIPE_5889_PART_3.1': 113,\n 'I2_PIPE_5889_PART_1.1': 78,\n 'I2_PIPE_5889_PART_2.1': 69,\n 'I2_PIPE_5889_PART_3.1': 138,\n 'I2_PIPE_5889_PART_1.1': 117,\n 'I2_PIPE_5889_PART_2.1': 175,\n 'I2_PIPE_5889_PART_3.1': 64,\n 'I2_PIPE_5889_PART_1.1': 154,\n 'I2_PIPE_5889_PART_2.1': 169,\n 'I2_PIPE_5889_PART_3.1': 175,\n 'I2_PIPE_5889_PART_1.1': 98,\n 'I2_PIPE_5889_PART_2.1': 175,\n 'I2_PIPE_5889_PART_3.1': 90,\n 'I2_PIPE_5889_PART_1.1': 62,\n 'I2_PIPE_5889_PART_2.1': 222,\n 'I2_PIPE_5889_PART_3.1': 175,\n 'I2_PIPE_5889_PART_1.1': 144,\n 'I2_PIPE_5889_PART_2.1': 158,\n 'I2_PIPE_5889_PART_3.1': 175,\n 'I2_PIPE_5889_PART_1.1': 199,\n 'I2_PIPE_5889_PART_2.1': 175,\n 'I2_PIPE_5889_PART_3.1': 115,\n 'I2_PIPE_5889_PART_1.1': 62,\n 'I2_PIPE_5889_PART_2.1': 65\n}\n\nasync function main(): Promise<void> {\n await prepareIndeedCampaigns();\n}\n\nasync function prepareIndeedCampaigns(): Promise<void> {\n const campaignEndDate = '2024-06-11' + ' - ' + '2024-06-11';\n let total = 0;\n total += 1;\n total += 2;\n total += 3;\n}"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T08:53:22Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '10:25 AM' and date '2024-06-12'. Language set to 'ENG'. Network, sound, and battery status icons are visible.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "index.ts - indeed-report-generator\\src - Visual Studio Code",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Top bar with options like File, Edit, View, Go, Run, Terminal, Help. Side bar with Explorer, Search, Source Control, Run and Debug, Extensions icons. Status bar at the bottom showing branch name 'update-campaigns', problems count, and feedback icon."
+                                },
+                                "content": [
+                                    {
+                                        "title": "index.ts",
+                                        "layoutDescription": "Code editor with code",
+                                        "visibleText": "import { IndeedApi } from './indeed-api';\n\n/*\nExtract from the last log via anon apex:\n\nList<Linkedln_Publish_Log__c> logs = (SELECT Pipeline__r.Name, Pipeline__r.ProductCode, Budget__c FROM Linkedln_Publish_Log__c WHERE Linkedln_Platform__c = 'Indeed' AND Run_ID__c = 245);\n\nList<Map<String, String>> rows = a List<Map<String, String>>();\nfor (Linkedln_Publish_Log__c log : logs) {\n Map<String, String> elem = a Map<String, String>();\n elem.put('pipelineName', log.Pipeline__r.Name);\n elem.put('productCode', log.Pipeline__r.ProductCode);\n elem.put('budget', log.Budget__c.toString());\n rows.add(elem);\n}\n\nSystem.debug(JSON.serialize Logs:\n{\n \"budget\": \"2133\",\n \"pipelineCode\": \"3889\"\n},\n{\n \"budget\": \"132\",\n \"pipelineCode\": \"4358\"\n},\n{\n \"budget\": \"329\",\n \"pipelineCode\": \"4581\"\n},\n{\n \"budget\": \"175\",\n \"pipelineCode\": \"4593\"\n},\n{\n \"budget\": \"2987\",\n \"pipelineCode\": \"5183\"\n},\n{\n \"budget\": \"399\",\n \"pipelineCode\": \"5245\"\n},\n{\n \"budget\": \"527\",\n \"pipelineCode\": \"5260\"\n},\n{\n \"budget\": \"658\",\n \"pipelineCode\": \"5268\"\n},\n{\n \"budget\": \"322\",\n \"pipelineCode\": \"5270\"\n}\n*/"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T08:59:21Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, File Explorer, Microsoft Edge, Google Chrome, Visual Studio Code, and other unidentified applications. System tray includes network, sound, battery, and clock (10:09 AM, 06/12/2024)",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Google Chat - Denys Yefimenko - Chat",
+                                "url": "https://mail.google.com/chat/u/0/#ch",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, and chat sidebar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat",
+                                        "layoutDescription": "chat interface with sidebar",
+                                        "visibleText": "Denys Yefimenko 9:29 AM\n\u0421\u043e\u0437\u0434\u0430\u043b \u0434\u043b\u044f \u044d\u0442\u043e\u0433\u043e \u0442\u0438\u043a\u0435\u0442 https://ws-lambda.atlassian.net/browse/LAMBDA-760 \u0442\u0430\u043c \u0442\u0435\u0431\u0435 \u043a\u043e\u043c\u043c\u0435\u043d\u0442 \u043e\u0441\u0442\u0430\u0432\u0438\u043b \u0432 \u0431\u0435\u043d\u0447\u043c\u0430\u0440\u043a \u043c\u0430\u0439\u043b\u0437 \u0442\u0430\u043a\u0436\u0435\n\nDenys Yefimenko 27 min\n\u041e\u0431\u043d\u043e\u0432\u0438\u043b, \u0441\u0442\u0430\u043b\u043e \u043a\u0440\u0430\u0441\u0438\u0432\u0435\u0435) \u0441\u043f\u0430\u0441\u0438\u0431\u043e\n\nDenys Yefimenko 23 min\n\u0418 \u0432\u043e\u0442 \u0442\u0443\u0442 \u0442\u044b \u0441\u0434\u0435\u043b\u0430\u043b \u043e\u0448\u0438\u0431\u043a\u0443 https://github.com/trilogy-group/hiringpull/2313/\n\nDenys Yefimenko 20 min\n\u041c\u043d\u0435 \u043a\u0430\u0436\u0435\u0442\u0441\u044f \u044d\u0442\u0430 \u0434\u0438\u0430\u0433\u0440\u0430\u043c\u043c\u0430 \u043d\u0435 \u0442\u043e \u0436\u0435 \u0441\u0430\u043c\u043e\u0435\n\u043d\u0430\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u044f \u043f\u043e\u043d\u0438\u043c\u0430\u044e \u043e\u043d\u0430 \u0431\u0443\u0434\u0435\u0442 \u0431\u0440\u0430\u0442\u044c \u0437\u0430\u043f\u0438\u0441\u0438 \u043d\u0430\u0447\u0438\u043d\u0430\u044f \u0441 00:01 \u0432\u0447\u0435\u0440\u0430\u0448\u043d\u0435\u0433\u043e \u0434\u043d\u044f, \u0442\u043e \u0435\u0441\u0442\u044c 24 \u0447\u0430\u0441\u0430 \u0441\u043f\u0438\u0441\u043e\u043a \u043e\u043a\u043e\u043d\u0447\u0435\u043d \u043f\u0440\u043e\u0448\u0435\u043b \u0437\u0430 \u0441\u0435\u0433\u043e\u0434\u043d\u044f. \u0422\u043e \u0435\u0441\u0442\u044c \u043e\u0442 7 \u0434\u043e 24 \u0434\u043e \u0432\u0447\u0435\u0440\u0430.\n\u041d\u0435 \u0442\u043e \u0447\u0442\u043e\u0431\u044b \u044d\u0442\u043e \u0431\u044b\u043b\u043e \u043a\u0440\u0438\u0442\u0438\u0447\u043d\u043e, \u043d\u043e \u0432 \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u0445 \u0443\u043a\u0430\u0437\u0430\u043d\u043e \u0438\u043c\u0435\u043d\u043d\u043e 24 \u0447\u0430\u0441\n\nDenys Yefimenko 20 min\n\u0412 \u0446\u0435\u043b\u043e\u043c \u0432\u0435\u0440\u043d\u043e. \u0415\u0441\u043b\u0438 \u043f\u0440\u0438\u0441\u043b\u0443\u0448\u0430\u0442\u044c\u0441\u044f \u0438\u043c\u0435\u044e\u0449\u0443\u044e 24 \u0447\u0430\u0441\u0430 \u0442\u043e \u0442\u0432\u043e\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u043b\u0443\u0447\u0448\u0435\n\u041d\u0435 \u043f\u0440\u0438\u043a\u0430\u043f\u044b\u0432\u0430\u0439\u0441\u044f, \u0441\u0435\u0439\u0447\u0430\u0441 \u043f\u043e\u043d\u044f\u043b\n\nDenys Yefimenko 3 min\n\u041e\u0447\u0435\u043d\u044c \u0445\u043e\u0440\u043e\u0448\u043e \u043f\u043e \u043f\u043e\u0432\u043e\u0434\u0443 PR! \u043d\u0438\u0447\u0435\u043c \u043d\u0435 \u043d\u0443\u0436\u043d\u043e \u043f\u0440\u043e\u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c Cancelled stage \u0432 \u0444\u043e\u0440\u0443\u043c\u0435?\n\nDenys Yefimenko 1 min\n\u0415\u0441\u043b\u0438 \u0447\u0442\u043e Cancelled \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438 (\u0434\u0438\u0440\u0435\u043a\u0442\u0438\u0432\u0430 \u0434\u0443\u043c\u0430\u044e) \u0442\u043e \u044d\u0442\u043e \u0431\u0443\u0434\u0435\u0442 \u0434\u0430\u0436\u0435 \u0434\u043e BFQ, \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u0442\u0430\u043c \u0431\u0443\u0434\u0435\u0442 Null. \u0415\u0441\u043b\u0438 \u044d\u0442\u043e Cancelled \u043f\u043e\u0441\u043b\u0435 BFQ, \u0442\u043e \u0442\u0430\u043c LastActiveStage \u0431\u0443\u0434\u0435\u0442 \u043f\u043e\u0441\u043b\u0435 \u0438 \u0432\u0441\u0435 \u0440\u0430\u0432\u043d\u043e \u043e\u043d\u043e \u043f\u043e \u043f\u0435\u0440\u0432\u043e\u0439 \u0432\u0435\u0442\u043a\u0435 \u043e\u0442\u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in writing code using Visual Studio Code. They are working on a project named 'xo-hiring-monorepo' and specifically editing files within the 'indeed-report-generator' directory. The code involves defining constants and functions related to campaign preparation, as seen in the 'index.ts' file. The user is also importing modules and working with JSON data structures, indicating backend development tasks.",
+        "The user is also reviewing code on GitHub. They are examining a pull request titled 'Add BFQ Calculation for the JobBoardCellAnalytics' in the repository 'xo-hiring'. The review involves checking changes made to various files, including XML and JavaScript files. This activity suggests the user is ensuring code quality and correctness before merging changes into the main branch.",
+        "Additionally, the user is engaged in team communication via Google Chat. They are discussing various topics with a team member named Denys Yefimenko. The conversation includes sharing links to tickets and pull requests, discussing code changes, and clarifying requirements. This indicates active collaboration and coordination with team members to ensure project alignment and progress."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in coding, code review, and team communication without any visible interaction with AI tools for code suggestions, debugging, or research.",
+    "activities": [
+        "WRITING_CODE",
+        "REVIEWING_CODE",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [
+        "TYPESCRIPT"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T08:50:00Z",
+            "windowTitle": "Inbox - artyom.melnikov@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-12T08:51:00Z",
+            "windowTitle": "xo-hiring-monorepo ? indeed-report-generator\\src\\index.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-12T08:52:00Z",
+            "windowTitle": "xo-hiring-monorepo ? indeed-report-generator\\src\\index.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-12T08:53:00Z",
+            "windowTitle": "xo-hiring-monorepo ? indeed-report-generator\\src\\index.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T08:54:00Z",
+            "windowTitle": "xo-hiring-monorepo ? indeed-report-generator\\src\\index.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T08:55:00Z",
+            "windowTitle": "xo-hiring-monorepo ? indeed-report-generator\\src\\index.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 73,
+            "mouse": 8,
+            "date": "2024-06-12T08:56:00Z",
+            "windowTitle": "Google Chat - Denys Yefimenko - Chat",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 150,
+            "mouse": 0,
+            "date": "2024-06-12T08:57:00Z",
+            "windowTitle": "Google Chat - Denys Yefimenko - Chat",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 173,
+            "mouse": 0,
+            "date": "2024-06-12T08:58:00Z",
+            "windowTitle": "feat(LAMBDA-76029): Add BFQ Calculation for the JobBoardCellAnalytics by artyom-melnikov ? Pull Request #2312 ? trilogy-group/xo-hiring - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring/pull/2312/files",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 159,
+            "mouse": 0,
+            "date": "2024-06-12T08:59:00Z",
+            "windowTitle": "Google Chat - Denys Yefimenko - Chat",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-12T08:50:00Z"
+}

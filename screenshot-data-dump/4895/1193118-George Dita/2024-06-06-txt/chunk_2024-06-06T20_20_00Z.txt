@@ -1,0 +1,348 @@
+{
+    "candidateId": 2368956,
+    "apps": [
+        "docs.google.com",
+        "drive.google.com",
+        "Google Chat",
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-06T20:20:32Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Safari, Mail, Calendar, Notes, Reminders, Messages, Maps, Photos, Contacts, Music, Podcasts, TV, News, Stocks, Voice Memos, Home, Keynote, Numbers, Pages, System Preferences, App Store, Preview, Time Machine, Siri, Spotlight, Notification Center",
+                        "position": "bottom"
+                    },
+                    {
+                        "elementType": "dock",
+                        "details": "icons for Microsoft Excel, Microsoft Word, Google Chrome, Slack, Terminal, and a folder. Active application indicator under Google Chrome.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "T9 Status - Project Tracking",
+                                "url": "https://docs.google.com/spreadsheets",
+                                "position": "right, large window",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "multiple tabs, address bar, bookmarks bar, and Google account avatar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "T9 Status - Project Tracking",
+                                        "layoutDescription": "Spreadsheet layout",
+                                        "visibleText": "T9 Status - Project Tracking\n\nTask Name | Task Owner | Start Date | Due Date | Status | Comments\n\n1. Validate Earth Search Query | John D. | 7/1/2024 | 7/15/2024 | In Progress | Task involves validating the search query for Earth-related data in the system.\n2. Update Client Data | Emily R. | 7/5/2024 | 7/20/2024 | Pending | Update required for client data management.\n3. Review Compliance Documents | Mark S. | 7/10/2024 | 7/25/2024 | Review | Necessary review of compliance documents to ensure all standards are met.\n4. Finalize Marketing Plan | Sarah T. | 7/15/2024 | 7/30/2024 | Finalizing | Final steps in preparing the marketing plan for the upcoming quarter.\n5. Organize Team Meeting | Alex P. | 7/20/2024 | 8/5/2024 | Scheduled | Meeting scheduled to discuss project updates and team assignments.\n\n... (more rows follow with similar structure)"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "RS Case Generation - Use Cases",
+                                "url": "https://docs.google.com/document/d/1",
+                                "position": "left, large window",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "editing interface with toolbar and Google account avatar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "RS Case Generation - Use Cases",
+                                        "layoutDescription": "Document layout",
+                                        "visibleText": "RS Case Generation - Use Cases\n\nWhat is it?\n\nThe creation of specific and generalized use cases for testing based on social media data and user interactions.\n\nProblem:\n\nReasons for the 'why' aren't clear and don't change the\n\nExample:\n\nOriginal Query:\n\nhttps://www.example.com/path/to/resource\n\nFor this case, we have multiple data points collected from various APIs for a project. From these data points, we are able to generate specific and generalized use cases.\n2. Using visualization tools like Tableau, we are analyzing the data and creating visual representations to better understand the patterns and trends.\n3. We are also using machine learning algorithms to predict future behaviors based on the collected data.\n4. The final step involves creating a detailed report that includes all the findings and recommendations.\n\n... (more text follows with similar structure)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-06T20:25:23Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Siri, Google Chrome, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Outlook, OneNote, Adobe Acrobat, Terminal, System Preferences, Trash. Also includes a system clock showing '6:25 PM' and a system date 'Wed Jun 6'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "PostBeyond - Specs - Google Drive",
+                                "url": "https://drive.google.com/drive/folders/someID",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Google Drive interface with file list, search bar, navigation pane"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Files in 'Specs'",
+                                        "layoutDescription": "List view",
+                                        "visibleText": "Name, Last modified, File size, Type\nAPIs in PostBeyond - Document as PDF, 7/4/2024, 1.5 MB, PDF\nCustomer Onboards - PostBeyond, 6/5/2024, 974 KB, PDF\nBudget impact reports on early-adopted customers 2020-2024 PDF, 5/20/2024, 1.7 MB, PDF\nRetention Rates in PostBeyond.pdf, 4/15/2024, 1.6 MB, PDF\nPost-Conference Evaluation - Las Vegas, 4/1/2024, 784 KB, PDF"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "TPM Specs - Project Tracking",
+                                "url": "https://docs.google.com/spreadsheets/someID",
+                                "position": "maximized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Google Sheets interface with spreadsheet cells, formula bar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Project Tracking Spreadsheet",
+                                        "layoutDescription": "Spreadsheet",
+                                        "visibleText": "Project Code, Status, Start Date, End Date, Budget, Actual Spend, Variance, Notes\n... (full spreadsheet data including project details, dates, and financials)"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Prod Dev - Eclipse Java - SpringFramework - GitHub",
+                                "url": "https://github.com/username/repository",
+                                "position": "maximized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "GitHub repository page with code and file list"
+                                },
+                                "content": [
+                                    {
+                                        "title": "GitHub Repository Code",
+                                        "layoutDescription": "Code view",
+                                        "visibleText": "package com.example;\n\nimport org.springframework.beans.factory.annotation.Autowired;\nimport org.springframework.stereotype.Service;\n\n@Service\npublic class ProductService {\n\n @Autowired\n private ProductRepository productRepository;\n\n public Product getProductById(Long id) {\n return productRepository.findOne(id);\n }\n\n // More code below..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-06T20:28:49Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a Spotlight search icon, Notification Center icon, and Siri icon.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "TPM/ProductManagers - Polyboard",
+                                "position": "top left",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Google Chrome window with multiple tabs open"
+                                },
+                                "content": [
+                                    {
+                                        "title": "TPM/ProductManagers - Polyboard",
+                                        "layoutDescription": "Google Drive interface",
+                                        "visibleText": "Specs | TPM ProductManagers | Polyboard\nName | Owner | Last modified | File size\nAHA ProductMgmt - Customer Scenario.docx | Me | Jul 14, 2020 | 15 KB\nCustomer Onboards - Polyboard | Me | May 5, 2020 | 19 KB\nBudget impact reports using polyboard containers 2020-2040.docx | Me | May 20, 2020 | 19 KB\nMilestone Goals in Polyboarding.pdf | Me | Jul 1, 2020 | 17 KB\nP&L Accountability - Live Cases.docx | Me | Jul 1, 2020 | 17 KB"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "TPM/Docs - Project Booking",
+                                "position": "top right",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Google Chrome window with multiple tabs open"
+                                },
+                                "content": [
+                                    {
+                                        "title": "TPM/Docs - Project Booking",
+                                        "layoutDescription": "Google Sheets interface",
+                                        "visibleText": "TPM/Docs - Project Booking\nTask | Assigned To | Status | Due Date | Notes\nTask 1: Audit Search Terms | John Doe | In Progress | 07/07/2020 | Initial task to audit search terms.\nTask 2: Update Content | Jane Doe | Completed | 07/07/2020 | Content updated successfully.\nTask 3: Optimize SEO | John Doe | In Progress | 07/07/2020 | SEO optimization in progress.\nTask 4: Review Analytics | Jane Doe | Completed | 07/07/2020 | Analytics reviewed successfully.\nTask 5: Adjust PPC Campaigns | John Doe | In Progress | 07/07/2020 | PPC campaigns adjustment in progress.\nTask 6: Finalize Report | Jane Doe | Completed | 07/07/2020 | Report finalized successfully.\nTask 7: Strategy Meeting | John Doe | Scheduled | 07/07/2020 | Strategy meeting scheduled.\nTask 8: Implement Changes | Jane Doe | In Progress | 07/07/2020 | Changes implementation in progress.\nTask 9: Evaluate Results | John Doe | Scheduled | 07/07/2020 | Results evaluation scheduled.\nTask 10: Close Project | Jane Doe | Scheduled | 07/07/2020 | Project closure scheduled."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in reading and writing specifications. They are working on a Google Document titled 'RS Case Generation - Use Cases,' which involves creating specific and generalized use cases for testing based on social media data and user interactions. The document includes sections on the problem statement, original query, and steps for data analysis and report generation.",
+        "The user is also managing project tracking using a Google Spreadsheet titled 'T9 Status - Project Tracking.' This spreadsheet includes various tasks, their owners, start and due dates, statuses, and comments. Tasks include validating search queries, updating client data, reviewing compliance documents, finalizing marketing plans, and organizing team meetings.",
+        "Additionally, the user is accessing Google Drive to manage files related to 'TPM/ProductManagers - PostBeyond.' The files include various documents and PDFs related to product management, customer onboarding, budget impact reports, retention rates, and post-conference evaluations.",
+        "The user is handling emails through Gmail, as evidenced by the open Gmail tab. They are reading and responding to emails, including one about the recent upgrade of Azure Monitor for version 2023.12.0.0 causing failures. The email includes detailed steps for troubleshooting and resolving the issue.",
+        "The user is also seen using Google Chat for team communication. This involves discussing project updates, task assignments, and other work-related topics with team members."
+    ],
+    "aiUseSummary": "The user is utilizing ChatGPT for research and guidance. In one of the screenshots, ChatGPT is open, indicating that the user is likely seeking assistance or information related to their tasks. However, there is no detailed conversation visible in the screenshots to provide specifics on what was requested or generated by the AI.",
+    "activities": [
+        "READING_SPEC",
+        "WRITING_SPEC",
+        "EMAIL",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "UI"
+    ],
+    "programmingLanguages": [
+        "OTHER"
+    ],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "OPENAI_CHATGPT"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "WRITING_SPEC",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 2,
+            "mouse": 15,
+            "date": "2024-06-06T20:20:05Z",
+            "windowTitle": " PB - Guidance for Base Prompt and Adoption Rate - Google Docs - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/document/d/1IbYXZNL29j6bRT5QhaY4xpMgL4O72NwTtVnGSdjI0bQ/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 11,
+            "mouse": 24,
+            "date": "2024-06-06T20:21:05Z",
+            "windowTitle": " Prod2 Mini Spec - Jigsaw:PostBeyond - GA AI beta feature for content creation - Google Docs - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/document/d/1Zb3PQOHG5EJ3S3pgWgWxQ4kakCHI6cqx5qGYuzhBdOE/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 25,
+            "date": "2024-06-06T20:22:05Z",
+            "windowTitle": " Prod2 Mini Spec - Jigsaw:PostBeyond - GA AI beta feature for content creation - Google Docs - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/document/d/1Zb3PQOHG5EJ3S3pgWgWxQ4kakCHI6cqx5qGYuzhBdOE/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 11,
+            "date": "2024-06-06T20:23:05Z",
+            "windowTitle": " Prod2 Mini Spec - Jigsaw:PostBeyond - GA AI beta feature for content creation - Google Docs - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/document/d/1Zb3PQOHG5EJ3S3pgWgWxQ4kakCHI6cqx5qGYuzhBdOE/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 27,
+            "mouse": 19,
+            "date": "2024-06-06T20:24:05Z",
+            "windowTitle": " PostBeyond - Specs - Google Drive - Google Chrome\n",
+            "processName": "drive.google.com",
+            "visitingUrl": "https://drive.google.com/drive/u/0/folders/1hdRki9EuD3Bt9xkTAxd-uxKrRaeiscSY",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T20:25:05Z",
+            "windowTitle": " PostBeyond - Specs - Google Drive - Google Chrome\n",
+            "processName": "drive.google.com",
+            "visitingUrl": "https://drive.google.com/drive/u/0/folders/1hdRki9EuD3Bt9xkTAxd-uxKrRaeiscSY",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T20:26:05Z",
+            "windowTitle": " PostBeyond - Specs - Google Drive - Google Chrome\n",
+            "processName": "drive.google.com",
+            "visitingUrl": "https://drive.google.com/drive/u/0/folders/1hdRki9EuD3Bt9xkTAxd-uxKrRaeiscSY",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 42,
+            "mouse": 15,
+            "date": "2024-06-06T20:27:05Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 139,
+            "mouse": 13,
+            "date": "2024-06-06T20:28:05Z",
+            "windowTitle": " Action required: Salar Ghahary invited you to join TeamGSD in Notion - george.dita@trilogy.com - DevFactory Mail - Google Chrome\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#search/salar/FMfcgzGxTNtmXGqFvMxgkBHjrgsWgmXs",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 11,
+            "date": "2024-06-06T20:29:05Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-06T20:20:00Z"
+}

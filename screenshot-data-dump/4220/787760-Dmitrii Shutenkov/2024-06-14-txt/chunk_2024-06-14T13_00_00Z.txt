@@ -1,0 +1,273 @@
+{
+    "candidateId": 1444536,
+    "apps": [
+        "Code",
+        "chatgpt.com",
+        "cmd"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T13:02:25Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Windows Start, Task View, Microsoft Edge, File Explorer, and system tray with notifications, sound, network, and battery status icons",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "test.py - tools - Visual Studio Code",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "menu bar with File, Edit, Selection, View, Go, Run, Terminal, Help; sidebar with Explorer, Search, Source Control, Run, Extensions; status bar at bottom"
+                                },
+                                "content": [
+                                    {
+                                        "title": "test.py",
+                                        "layoutDescription": "code editor with multiple tabs open",
+                                        "visibleText": "import pandas as pd\nimport numpy as np\nfrom googleapiclient.discovery import build\nfrom google.oauth2 import service_account\n\n# Function definitions\ndef test1():\n # Placeholder for function test1\n pass\n\ndef test2():\n sheet.update('A1', data)\n\ndef classifyApplication(application) -> str:\n if application['Last_Active_Stage__c'] in postCCATStages: return 'CCAT pass';\n if application['Last_Active_Stage__c'] == 'CCAT': return 'CCAT pass';\n if application['StageName'] == 'Rejected': return 'CCAT fail';\n if application['Last_Active_Stage__c'] == 'BFQ': return 'BFQ pass';\n if application['StageName'] == 'Applied': return 'Applied';\n if application['Last_Active_Stage__c'] == 'BFQ': return 'BFQ fail';\n if application['StageName'] == 'Rejected': return 'BFQ fail';\n return 'Unknown'\n\ndef test3():\n with open('config.json') as f:\n event = json.load(f)\n lambda_handler(event, None)\n\ntest()"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T13:03:49Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, Microsoft Edge, File Explorer, Google Chrome, and several unidentified applications. System tray includes network status, sound volume, date and time display (14:03:50, 14/06/2024), and language setting (ENG).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Salesforce SOQL Query Python - Google Chrome",
+                                "url": "chatgpt.com/c/0dda060a-caab-47b5-a",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, profile icon, extensions, and settings menu"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Salesforce SOQL Query Python",
+                                        "layoutDescription": "Web page layout with text and code blocks",
+                                        "visibleText": "Step 2. Set Up Your `requirements.txt`: This file should list all Python libraries that your Lambda function depends on.\n\nCopy code\nsimple_salesforce\n\nStep 3: Package Your Lambda Function\n\n1. Deactivate the Virtual Environment:\n\nbash\ndeactivate\n\n2. Create a Deployment Package:"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T13:06:48Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "visible: Edge, File Explorer, Google Chrome, Slack, Visual Studio Code, Command Prompt, Python, Notepad++, Calculator, Calendar, Settings. System tray icons: Wi-Fi, Sound, Battery, Clock (14:06:50, 14/06/2024), Language (ENG), Notifications (quiet mode active).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Salesforce SOQL Query Python - Google Chrome",
+                                "url": "chatgpt.com/c/0dda060a-caab-47b5-a",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Tabs visible: SF Prod, SF Sandbox, ADFS, My Tasks, Crossover Sprints, Technical Debt - Crossover, Guides - Crossover, WS.Eng TPO: Leadership, Task Catalog. Address bar, bookmarks bar, and browser controls visible."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Salesforce SOQL Query Python",
+                                        "layoutDescription": "Text and code snippets",
+                                        "visibleText": "`requirements.txt` file, especially for larger projects where you might have installed packages that are no longer in use. Here\u2019s how to use `pipreqs`:\n\nStep 1: Install `pipreqs` if you haven't already:\n\nbash\npip install pipreqs\n\nStep 2: Navigate to your project directory where your Python files are located.\n\nStep 3: Run `pipreqs` to generate the `requirements.txt` file:\n\nbash\npipreqs /path/to/project\n\n`pipreqs` will scan your Python files and create a `requirements.txt` with the necessary dependencies."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in writing code using Visual Studio Code. They have multiple Python files open, including 'test.py', 'lambda_function.py', 'gsheets.py', and 'salesforce.py'. The code involves functions for updating Google Sheets, classifying applications based on certain criteria, and handling JSON configurations. The terminal output shows the execution of a script that queries a database and processes a large number of records.",
+        "The user is also conducting research using ChatGPT. They are viewing a page titled 'Salesforce SOQL Query Python' on chatgpt.com, which provides step-by-step instructions for setting up a 'requirements.txt' file, packaging a Lambda function, and using 'pipreqs' to generate the 'requirements.txt' file. This indicates that the user is looking for guidance on managing dependencies and deploying a Python-based AWS Lambda function."
+    ],
+    "aiUseSummary": "The user utilizes ChatGPT for research and guidance on setting up and deploying a Python-based AWS Lambda function. They are following detailed instructions provided by ChatGPT on creating a 'requirements.txt' file, deactivating the virtual environment, and packaging the Lambda function. This interaction with ChatGPT helps the user streamline their development process by providing clear, step-by-step guidance on best practices and necessary commands.",
+    "activities": [
+        "WRITING_CODE",
+        "RESEARCH"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [
+        "PYTHON"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "OPENAI_CHATGPT"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 52,
+            "mouse": 8,
+            "date": "2024-06-14T13:00:24Z",
+            "windowTitle": "? lambda_function.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 14,
+            "mouse": 3,
+            "date": "2024-06-14T13:01:24Z",
+            "windowTitle": "test.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 12,
+            "mouse": 8,
+            "date": "2024-06-14T13:02:24Z",
+            "windowTitle": "test.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 15,
+            "mouse": 4,
+            "date": "2024-06-14T13:03:25Z",
+            "windowTitle": "Salesforce SOQL Query Python - Google Chrome",
+            "processName": "chatgpt.com",
+            "visitingUrl": "chatgpt.com/c/0dda060a-caa8-47b5-acfb-08cca56a5dd5",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-14T13:04:25Z",
+            "windowTitle": "Salesforce SOQL Query Python - Google Chrome",
+            "processName": "chatgpt.com",
+            "visitingUrl": "chatgpt.com/c/0dda060a-caa8-47b5-acfb-08cca56a5dd5",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 16,
+            "mouse": 4,
+            "date": "2024-06-14T13:05:24Z",
+            "windowTitle": "test.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 57,
+            "mouse": 8,
+            "date": "2024-06-14T13:06:24Z",
+            "windowTitle": "Salesforce SOQL Query Python - Google Chrome",
+            "processName": "chatgpt.com",
+            "visitingUrl": "chatgpt.com/c/0dda060a-caa8-47b5-acfb-08cca56a5dd5",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 4,
+            "mouse": 4,
+            "date": "2024-06-14T13:07:24Z",
+            "windowTitle": "Administrator: Command Prompt - pip  install pipreqs",
+            "processName": "cmd",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 17,
+            "mouse": 5,
+            "date": "2024-06-14T13:08:24Z",
+            "windowTitle": "test.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 21,
+            "mouse": 5,
+            "date": "2024-06-14T13:09:24Z",
+            "windowTitle": "Administrator: Command Prompt",
+            "processName": "cmd",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T13:00:00Z"
+}

@@ -1,0 +1,359 @@
+{
+  "candidateId": 2368956,
+  "apps": [
+    "app.hubspot.com",
+    "app.mixmax.com",
+    "dev.postbeyonddev.com",
+    "Google Chat"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T14:40:29Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash",
+            "position": "bottom"
+          },
+          {
+            "elementType": "dock",
+            "details": "application bar with visible icons for Google Chrome, Microsoft Word, Microsoft Excel, and other unidentified applications",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Edit Email | New email - Google Chrome",
+                "url": "https://mail.google.com/mail/u/0/#right",
+                "isActive": true,
+                "uiElements": {
+                  "details": "A bar, bookmarks bar, tabs bar, compose email interface"
+                },
+                "content": [
+                  {
+                    "title": "Edit Email",
+                    "layoutDescription": "Text editing area on right",
+                    "visibleText": "Hi [Name],\n\nI’m George Dill, the Product Manager of Pathfinders Inc. and I’d like to offer you an opportunity to directly influence our upcoming product features. Your insights on the new GPS devices we’re introducing can be an asset to our team as we strive to create user-centered, innovative outdoor navigation devices.\n\nHere’s what’s in store for you:\n\n* Hands-on Demo Day: Get sneak peek at unreleased features and prototypes.\n* Product Experience Session: Comment on prototypes and help shape our product roadmap.\n* Feedback and Strategy Roundup.\n\nAdditionally, we will directly deposit a $400 honorarium if you have been insightful to our product & method of communication.\n\nLooking forward to your invaluable feedback and hoping to connect soon!\n\nBest Regards,\nGeorge Dill\nProduct Manager, Pathfinders Inc.\nEmail: george.dill@pathfindersinc.com\nPhone: 555-123-4567\nWebsite: www.pathfindersinc.com"
+                  }
+                ]
+              },
+              {
+                "title": "Preview: New Email - Google Chrome",
+                "url": "https://mail.google.com/mail/u/0/#left",
+                "isActive": false,
+                "uiElements": {
+                  "details": "A bar, bookmarks bar, tabs bar, email preview interface"
+                },
+                "content": [
+                  {
+                    "title": "Preview: New Email",
+                    "layoutDescription": "Email preview on left",
+                    "visibleText": "Wedding Invitation Preview\n\nHi [Name],\n\nI’m George Dill, the Product Manager of Pathfinders Inc. and I’d like to offer you an opportunity to directly influence our upcoming product features. Your insights on the new GPS devices we’re introducing can be an asset to our team as we strive to create user-centered, innovative outdoor navigation devices.\n\nHere’s what’s in store for you:\n\n* Hands-on Demo Day: Get sneak peek at unreleased features and prototypes.\n* Product Experience Session: Comment on prototypes and help shape our product roadmap.\n* Feedback and Strategy Roundup.\n\nAdditionally, we will directly deposit a $400 honorarium if you have been insightful to our product & method of communication.\n\nLooking forward to your invaluable feedback and hoping to connect soon!\n\nBest Regards,\nGeorge Dill\nProduct Manager, Pathfinders Inc.\nEmail: george.dill@pathfindersinc.com\nPhone: 555-123-4567\nWebsite: www.pathfindersinc.com"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Excel",
+            "windows": [
+              {
+                "title": "Calendar - Microsoft Excel",
+                "position": "bottom",
+                "isActive": false,
+                "uiElements": {
+                  "details": "formula bar, worksheet tabs"
+                },
+                "content": [
+                  {
+                    "title": "Calendar",
+                    "layoutDescription": "spreadsheet layout",
+                    "visibleText": "Calendar\n\nJune 2024\n\nSun Mon Tue Wed Thu Fri Sat\n1 2 3 4 5 6 7\n8 9 10 11 12 13 14\n15 16 17 18 19 20 21\n22 23 24 25 26 27 28\n29 30\n\nNotes:\n\n- Appointments for specific days\n- Time blocks, events\n- Weekly overview\n- Color-coded entries"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Word",
+            "windows": []
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T14:44:32Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, Microsoft Edge, File Explorer, Microsoft Store, Mail, Calendar, Photos, Settings, and several other unidentified applications. Also includes system tray with clock, Wi-Fi, sound, and battery status icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Sequences – george.dita@trilogy.com - Google Chrome",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, vertical scroll bar"
+                },
+                "content": [
+                  {
+                    "title": "Document Content",
+                    "layoutDescription": "Text document layout",
+                    "visibleText": "Version 3 - very brief, very direct.\n\nModern B2C/B2B/B2G/B2E/B2B2C/B2G2C/B2E2C\n\nHello [Name],\n\nI'm reaching out to you today on behalf of [Company] and I'm really hoping that the last few hours were not too stressful.\n\nI want to give you an update on our new features. Currently, we're going to roll out enhanced features soon, and we believe these innovations are game-changers.\n\nWe will also have a major announcement on [Date] that I hope you'll add to your busy schedule. As you know I am working on new projects.\n\nBest regards,\n[Your Name]\nProject Manager, [YourProject]"
+                  }
+                ]
+              },
+              {
+                "title": "Help Us Innovate: Shape the Future of Post - Google Chrome",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, vertical scroll bar"
+                },
+                "content": [
+                  {
+                    "title": "Help Us Innovate: Shape the Future of Post",
+                    "layoutDescription": "Web page layout",
+                    "visibleText": "Help Us Innovate: Shape the Future of Post\n\nProject Manager: [Your Name]\n\nJoin us on June 15, 2024 in the new era of postal system innovation!\n\nDetails\n\nTime zone and email scheduled\n\nThis time zone and email scheduler is based on June 15, 2024, 9:00 AM in the local time zone of [Location].\n\nTo add to your calendar: [Calendar Link]\n\nFor more information: [More Information Link]\n\nOpen note Olke\nClick note Olke\nReply note Olke"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Teams",
+            "windows": [
+              {
+                "title": "PostBeyond Outreach - Feature Update",
+                "position": "bottom left quadrant of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "interface with chat, teams, calendar, calls, files tabs"
+                },
+                "content": [
+                  {
+                    "title": "PostBeyond Outreach - Feature Update",
+                    "layoutDescription": "Chat window layout",
+                    "visibleText": "Hi [Name],\n\nI'm the Project Manager of PostBeyond and I'm directly sharing that the new features we are developing are enhancing our capabilities.\n\nI want to give you an update on these new features. Currently, we are going to roll out enhanced features soon, and we believe these innovations are game-changers.\n\nWe will also have a major announcement on [Date] that I hope you'll add to your busy schedule. As you know I am working on new projects.\n\nBest regards,\n[Your Name]\nProject Manager, [YourProject]"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T14:47:27Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Microsoft Edge, File Explorer, Microsoft Store, Mail, Calendar, Photos, Settings, and several unidentified applications. Also includes system tray with network, sound, and battery status icons, and the date and time display.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Sequences – george.dita@trilogy.com - Google Chrome",
+                "url": "",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "multiple tabs, address bar, bookmarks bar, and various extension icons including Google Account, Google Drive, and others."
+                },
+                "content": [
+                  {
+                    "title": "Help Us Innovate: Shape the Future of Postsecondary Education",
+                    "layoutDescription": "Contains text and images",
+                    "visibleText": "Help Us Innovate: Shape the Future of Postsecondary Education\n\nMajor Project\n\nProject Owner: John Doe\n\nProject Description: This project aims to explore the future of post-secondary education in the new era of rapid higher ed change.\n\nDetails\n\nPerformance\n\nTime zone and email scheduled\n\nThis time zone and email is scheduled to send on June 5, 2024, at 14:50 in the final time zone of recipient.\n\nIs that not what you expected? Reschedule\n\nConnect external user\n\nOpen note Olive\n\nClick note Olive\n\nReply note Olive"
+                  },
+                  {
+                    "title": "PostBeyond Outreach - Feature Request",
+                    "layoutDescription": "Contains text",
+                    "visibleText": "Hi George,\n\nI am the new Product Manager of PostBeyond and I am directly shaping the future we are developing and enhancing.\n\nI want to tap into your influence on these new features. Currently, we are yet to roll out the enhanced features, and we need your feedback.\n\nWith our new range of enhancements, if you are interested and will be available to help us, shoot us an email on working on right now, we are planning a major New Feature Release. Join the release push.\n\nBest regards,\n\nProduct Manager, PostBeyond"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in email-related tasks. They are using Google Chrome to access Gmail, where they are composing and previewing emails. The content of the emails suggests that the user is involved in outreach activities, specifically inviting recipients to provide feedback on new product features. The emails include details about hands-on demo days, product experience sessions, and feedback and strategy roundups. The user is also managing email settings and scheduling emails for future delivery.",
+    "The user is utilizing HubSpot for email marketing activities. They are editing email content, adjusting settings, and scheduling emails to be sent at specific times. The emails are related to product updates and feature announcements, indicating that the user is involved in marketing or product management roles. The user is also monitoring email performance metrics such as open rates, click rates, and reply rates, which are crucial for evaluating the effectiveness of their email campaigns.",
+    "The user is working with Mixmax, a tool for managing email sequences. They are editing and scheduling automated email sequences, which are likely part of a larger marketing or outreach campaign. The content of the emails in Mixmax is similar to those in Gmail and HubSpot, focusing on product updates and feature announcements. This indicates a coordinated effort across multiple platforms to reach out to potential customers or stakeholders.",
+    "The user is also seen using Google Calendar to manage their schedule. The calendar includes various events and meetings, some of which are related to the email outreach activities mentioned earlier. This suggests that the user is organizing their time to balance between email marketing tasks and other responsibilities, possibly including meetings with team members or stakeholders.",
+    "In addition to email and calendar management, the user is using Google Docs to draft and edit email content. This indicates a thorough process of content creation and review before finalizing and sending out emails. The user is likely ensuring that the email content is well-crafted and aligns with the overall marketing strategy."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in email composition, scheduling, and performance monitoring activities using Google Chrome, HubSpot, Mixmax, and Google Docs. The absence of AI tools suggests that the user is relying on traditional methods for these tasks.",
+  "activities": [
+    "EMAIL",
+    "WRITING_SPEC",
+    "READING_SPEC"
+  ],
+  "workTypes": [
+    "UI"
+  ],
+  "programmingLanguages": [
+    "OTHER"
+  ],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "EMAIL",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 7,
+      "date": "2024-06-05T14:40:34Z",
+      "windowTitle": " Edit Email | New email - Google Chrome\n",
+      "processName": "app.hubspot.com",
+      "visitingUrl": "https://app.hubspot.com/email/40828524/edit/169555346253/content",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 88,
+      "mouse": 12,
+      "date": "2024-06-05T14:41:34Z",
+      "windowTitle": " Edit Email | Help Us Innovate: Shape the Future of PostBeyond! - Google Chrome\n",
+      "processName": "app.hubspot.com",
+      "visitingUrl": "https://app.hubspot.com/email/40828524/edit/169555346253/settings",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 72,
+      "mouse": 22,
+      "date": "2024-06-05T14:42:34Z",
+      "windowTitle": " Edit Email | Help Us Innovate: Shape the Future of PostBeyond! - Google Chrome\n",
+      "processName": "app.hubspot.com",
+      "visitingUrl": "https://app.hubspot.com/email/40828524/edit/169555346253/send",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 16,
+      "date": "2024-06-05T14:43:34Z",
+      "windowTitle": " Edit Email | Help Us Innovate: Shape the Future of PostBeyond! - Google Chrome\n",
+      "processName": "app.hubspot.com",
+      "visitingUrl": "https://app.hubspot.com/email/40828524/edit/169555346253/send",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 46,
+      "mouse": 14,
+      "date": "2024-06-05T14:44:34Z",
+      "windowTitle": " Sequences ï¿½ george.dita@trilogy.com - Google Chrome\n",
+      "processName": "app.mixmax.com",
+      "visitingUrl": "https://app.mixmax.com/dashboard/sequences/v2/66607692157a869780bd7221/stages",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 109,
+      "mouse": 13,
+      "date": "2024-06-05T14:45:34Z",
+      "windowTitle": " Explore ï¿½ PostBeyond - Google Chrome\n",
+      "processName": "dev.postbeyonddev.com",
+      "visitingUrl": "https://dev.postbeyonddev.com/element/topic/",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 35,
+      "mouse": 9,
+      "date": "2024-06-05T14:46:34Z",
+      "windowTitle": " Sequences ï¿½ george.dita@trilogy.com - Google Chrome\n",
+      "processName": "app.mixmax.com",
+      "visitingUrl": "https://app.mixmax.com/dashboard/sequences/v2/66607692157a869780bd7221/stages",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 65,
+      "mouse": 6,
+      "date": "2024-06-05T14:47:34Z",
+      "windowTitle": " Sequences ï¿½ george.dita@trilogy.com - Google Chrome\n",
+      "processName": "app.mixmax.com",
+      "visitingUrl": "https://app.mixmax.com/dashboard/sequences/v2/66607692157a869780bd7221/stages",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T14:48:34Z",
+      "windowTitle": " Sequences ï¿½ george.dita@trilogy.com - Google Chrome\n",
+      "processName": "app.mixmax.com",
+      "visitingUrl": "https://app.mixmax.com/dashboard/sequences/v2/66607692157a869780bd7221/stages",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 18,
+      "mouse": 6,
+      "date": "2024-06-05T14:49:34Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T14:40:00Z"
+}

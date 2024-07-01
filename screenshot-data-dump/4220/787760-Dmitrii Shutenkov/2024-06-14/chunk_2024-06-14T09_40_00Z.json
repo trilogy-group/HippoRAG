@@ -1,0 +1,279 @@
+{
+  "candidateId": 1444536,
+  "apps": [
+    "throw exception python search suggestion, 4 of 10",
+    "Code",
+    "docs.python.org",
+    "explorer"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T09:42:06Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Search, Task View, Widgets, Microsoft Edge, File Explorer, and other unidentified applications. Displays the system clock showing '10:42 14/06/2024' and system language 'ENG'. Network status icon and sound volume icon are also visible.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "salesforce.py - tools - Visual Studio Code",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Top bar with File, Edit, Selection, View, Go, Run, Terminal, Help. Sidebar with icons for Explorer, Search, Source Control, Run and Debug, Extensions. Bottom bar shows git branch 'main', errors and warnings indicator, Python environment details."
+                },
+                "content": [
+                  {
+                    "title": "salesforce.py",
+                    "layoutDescription": "Full editor open",
+                    "visibleText": "from simple_salesforce import Salesforce\ndef create_query(id_patterns, last_date) -> str:\n condition = \"\"\n subquery = \"(SELECT Id from Campaign WHERE Name like '{idPattern}')\"\n if len(id_patterns) == 0:\n raise Exception(\"No Campaign ID pattern provided\")\n if len(last_date) == 0:\n condition = f'Name like {id_patterns} AND CreatedDate > {last_date}'\n else:\n return \"SELECT Id, Name FROM {id_patterns}\"\n\n# Salesforce login credentials\nusername = 'your_username'\npassword = 'your_password'\nsecurity_token = 'your_security_token'\n\n# Create a Salesforce connection\nsf = Salesforce(username=username, password=password, security_token=security_token)\n\n# SOQL query\nquery = 'SELECT Id, Name FROM Account LIMIT 10'\n\n# Execute the query\nresults = sf.query(query)\n\n# Print results\nfor record in results['records']:\n print(record['Id'], record['Name'])"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T09:44:00Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, and system tray with network, sound, and battery status indicators, date and time display showing '14/06/2024 10:44:02'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "salesforce.py - campaign-tracking - Visual Studio Code",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Top bar with options for File, Edit, Selection, View, Go, Run, Terminal, Help. Sidebar with icons for Explorer, Search, Source Control, Run and Debug, Extensions. Bottom bar with options for problems, output, debug console, terminal. Right sidebar with minimap and scrollbar."
+                },
+                "content": [
+                  {
+                    "title": "Python Code",
+                    "layoutDescription": "Text editor with code",
+                    "visibleText": "from simple_salesforce import Salesforce\ndef create_query(id_patterns, last_date) -> str:\n condition = \"\"\n subquery = \"(SELECT Id from Campaign WHERE Name like '%{idPattern}%')\"\n if len(id_patterns) == 0:\n raise Exception(\"No Campaign ID pattern provided\")\n if len(last_date) == 1:\n condition = f'Name like {id_patterns[0]}'\n else:\n return \"SELECT Id, Name FROM Account WHERE ID LIKE '%s' AND CreatedDate > '%s'\" % (id_patterns, last_date)\n\n# Salesforce login credentials\nusername = 'your_username'\npassword = 'your_password'\nsecurity_token = 'your_security_token' # Your security token\n\n# Create a Salesforce connection\nsf = Salesforce(username=username, password=password, security_token=security...  Read more"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T09:47:35Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Microsoft Edge, File Explorer, Microsoft Store, Mail, Calendar, Photos, and several other unidentified applications. Also includes system tray with network, sound, and battery status icons, date and time display, and language selection (ENG).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "campaign.ts - master-assistant",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "menu bar with File, Edit, Selection, View, Go, Run, Terminal, Help; sidebar with icons for Explorer, Search, Source Control, Run and Debug, Extensions; status bar with information about Python environment, line and column number, spaces, UTF-8 encoding, CRLF line ending, and a smiley face icon."
+                },
+                "content": [
+                  {
+                    "title": "Code Editor",
+                    "layoutDescription": "Contains multiple tabs",
+                    "visibleText": "function processQueryResult(data: OpportunityRecord[]): string {\n data.forEach((record: OpportunityRecord) => {\n // Assume 'record.CreatedDate' returns string\n });\n return lastDate;\n}\n\nfunction query(lastDate:string, idPattern:string): string {\n const result = 'SELECT Id, AccountId, CampaignId, CreatedDate, Lead_Source_Campaign_c, Advertised_Title_c, Candidate_Country_c, CCAI_Score_c, Last_Active_Stage_c, StageName\n FROM Opportunity WHERE\n CampaignId IN (SELECT Id from Campaign WHERE Name like '${idPattern}') AND\n CreatedDate > ${lastDate} ORDER BY CreatedDate';\n console.log(result);\n return result;\n}\n\nasync function fetchData() {\n let queryCount = 0;\n console.time('/query ${queryCount+1}');\n console.log('Refreshing token...');\n console.timeEnd('/query ${queryCount+1}');\n queryCount++;\n}"
+                  }
+                ]
+              },
+              {
+                "title": "Terminal",
+                "layoutDescription": "Command panel",
+                "visibleText": "SELECT Id, AccountId, CampaignId, CreatedDate, Lead_Source_Campaign_c, Advertised_Title_c, Candidate_Country_c, CCAI_Score_c, Last_Active_Stage_c, StageName\nFROM Opportunity WHERE\nCampaignId IN (SELECT Id from Campaign WHERE Name like 'GA-Cat.%') AND\nCreatedDate > 2000-01-01T00:00:00.000+0000 ORDER BY CreatedDate\nRefreshing token...\nquery 1: 15.733s"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in writing code within Visual Studio Code. They are working on a Python script named 'salesforce.py' which involves creating a query function to interact with Salesforce data. The code includes importing the 'simple_salesforce' library, defining a function 'create_query' that constructs a SOQL query based on provided ID patterns and dates, and handling exceptions for missing patterns. The user is also seen editing the 'config.json' and 'lambda_function.py' files, indicating a broader scope of work related to Salesforce integration.",
+    "In another instance, the user is working on a TypeScript file named 'campaign.ts' within the same IDE. The code involves defining functions to process query results, construct SQL queries, and fetch data asynchronously. The user is seen logging the constructed queries and measuring the execution time, which suggests they are debugging or optimizing the query performance. The terminal output shows the execution of SQL queries and the refreshing of tokens, indicating active testing and validation of the code.",
+    "The user is also conducting research on handling exceptions in Python. They have a web browser open with a search query related to 'throw exception python' and are viewing the official Python documentation on input and output. This indicates that the user is looking for best practices or specific methods to handle exceptions in their Python code, which aligns with the code seen in 'salesforce.py'."
+  ],
+  "aiUseSummary": "There is no visible evidence of AI tools being used in the provided screenshots. The user is primarily engaged in writing and debugging code within Visual Studio Code and conducting research using a web browser. There are no signs of AI chat interfaces or AI-generated code suggestions in the IDE, nor any interactions with conversational AI tools for guidance or debugging purposes.",
+  "activities": [
+    "WRITING_CODE",
+    "RESEARCH"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "DB"
+  ],
+  "programmingLanguages": [
+    "PYTHON",
+    "TYPESCRIPT",
+    "SQL"
+  ],
+  "toolTypes": [
+    "IDE",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 64,
+      "mouse": 10,
+      "date": "2024-06-14T09:40:23Z",
+      "windowTitle": "New Tab - Google Chrome",
+      "processName": "throw exception python search suggestion, 4 of 10",
+      "visitingUrl": "throw exception python search suggestion, 4 of 10",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 31,
+      "mouse": 9,
+      "date": "2024-06-14T09:41:23Z",
+      "windowTitle": "? salesforce.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 32,
+      "mouse": 6,
+      "date": "2024-06-14T09:42:23Z",
+      "windowTitle": "Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 27,
+      "mouse": 9,
+      "date": "2024-06-14T09:43:23Z",
+      "windowTitle": "7. Input and Output ? Python 3.12.4 documentation - Google Chrome",
+      "processName": "docs.python.org",
+      "visitingUrl": "docs.python.org/3/tutorial/inputoutput.html",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 9,
+      "mouse": 2,
+      "date": "2024-06-14T09:44:23Z",
+      "windowTitle": "? salesforce.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 28,
+      "mouse": 8,
+      "date": "2024-06-14T09:45:24Z",
+      "windowTitle": "? salesforce.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 19,
+      "mouse": 6,
+      "date": "2024-06-14T09:46:24Z",
+      "windowTitle": "? salesforce.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 36,
+      "mouse": 5,
+      "date": "2024-06-14T09:47:24Z",
+      "windowTitle": "Task Switching",
+      "processName": "explorer",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 24,
+      "mouse": 11,
+      "date": "2024-06-14T09:48:24Z",
+      "windowTitle": "? salesforce.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 10,
+      "mouse": 3,
+      "date": "2024-06-14T09:49:24Z",
+      "windowTitle": "? salesforce.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-14T09:40:00Z"
+}

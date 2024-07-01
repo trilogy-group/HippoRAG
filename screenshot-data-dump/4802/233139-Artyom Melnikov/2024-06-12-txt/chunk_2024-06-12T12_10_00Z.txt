@@ -1,0 +1,271 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "meet.google.com",
+        "chrome"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T12:12:06Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, Edge, File Explorer, and several unidentified applications. System tray includes notifications, sound, network, and clock displaying '2:12 PM' and '12/06/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - khm-qevt-udu - Google Chrome",
+                                "url": "meet.google.com/khm-qevt-udu",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, navigation buttons, and Google account avatar visible."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Meet Video Call",
+                                        "layoutDescription": "Three video feeds displayed with a sidebar.",
+                                        "visibleText": "Denys Yefimenko Dragos Nuta Artem Melnikov read.ai meeting notes IN MEETING Contributors Artem Melnikov (You) Denys Yefimenko Dragos Nuta read.ai meeting notes Also invited Dmitri Shutenkov Tarig Bouazzati Home Michael Madume Serban Petrescu Home"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T12:14:18Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. System tray includes network, sound, and battery status icons, as well as the date and time display '2:14 PM'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - khm-qevt-udu - Google Chrome",
+                                "url": "https://meet.google.com/khm-qevt-udu",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Multiple browser tabs visible with titles 'M', 'Academic', 'WSJ', 'Analy...', 'Crossref', 'BAMBI', 'Notes', 'Soundcloud', 'Indeed', 'Index', 'Job Pull', 'Custom', 'CA', 'Maher', 'LJ-5204', 'Category Job', 'Using', 'Job BC', 'Finish update'."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Meet Video Conference",
+                                        "layoutDescription": "Three video feeds displayed",
+                                        "visibleText": "In MEETING\nContributors\nArtem Melnikov (You)\nDenys Yefimenko\nDragos Nuta\nMeeting host\nread.ai meeting notes\nAlso invited\nDmitrii Shuternkov\nTarig Bouazzati\nHome\nMichael Madume\nSerban Petrescu\nHome"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T12:19:28Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Spotify, Adobe Acrobat Reader DC, Notepad++, Visual Studio Code, Command Prompt, and system tray icons including network, sound, notifications, and clock",
+                        "position": "bottom"
+                    },
+                    {
+                        "elementType": "system clock",
+                        "details": "Time displayed as 12:19, Date displayed as 06/12/2024",
+                        "position": "bottom-right"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Google Chat - Gustavo Costa - Chat",
+                                "url": "https://mail.google.com/chat/u/0/#ch",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, minimize, maximize, close buttons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat with Gustavo Costa",
+                                        "layoutDescription": "Chat interface with left sidebar and main chat area",
+                                        "visibleText": "Gustavo Costa\nThanks!\nHi Gustavo, I wonder if we still need this task? It's in my QC queue but I just realised that it's here from April\nhttps://jira.lambda.atlassian.net/browse/H\nGustavo Costa\nHi\nUnless these changes were already deployed by another task, we should still do it.\nDid you check the email templates in Prod to see if they were already updated?\nGustavo Costa\nWell, I guess they are not, because they would have been synced into the repo otherwise\nGustavo Costa\nMakes sense\nThen we should deploy this change\nGustavo Costa\nI have accepted https://jira.lambda.atlassian.net/browse/LAMBDA-6\nGustavo Costa\nlol\nhttps://crosszoom.net/us/p9984798512\nGustavo Costa\nSure, will do\nGot it, thanks"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Google Meet video conference, as evidenced by the screenshots showing the Google Meet interface with multiple participants. The meeting includes contributors such as Denys Yefimenko, Dragos Nuta, and Artem Melnikov. The meeting appears to be a check-in session, as indicated by the visible text 'XO Check-in' at the bottom of the screen. The user is actively participating in the meeting, as their video feed is visible and they are listed as a contributor.",
+        "The user is also engaged in a chat conversation on Google Chat with Gustavo Costa. The chat interface shows a discussion about a task in the user's QC queue from April. Gustavo Costa provides guidance on whether the task should still be done and asks if the email templates in production have been checked. The user responds that they will check, and the conversation continues with Gustavo Costa agreeing that the task should be deployed if the changes were not already made by another task. The chat includes links to Jira tasks and a Zoom meeting."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a Google Meet video conference and a Google Chat conversation. No AI chat interfaces or AI-driven tools are visible in the screenshots.",
+    "activities": [
+        "MEETING",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T12:10:01Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=artyom.melnikov%40trilogy.com",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T12:11:01Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=artyom.melnikov%40trilogy.com",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T12:12:01Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=artyom.melnikov%40trilogy.com",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-12T12:13:01Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=artyom.melnikov%40trilogy.com",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-12T12:14:02Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=artyom.melnikov%40trilogy.com",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-12T12:15:02Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=artyom.melnikov%40trilogy.com",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-12T12:16:02Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=artyom.melnikov%40trilogy.com",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T12:17:02Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=artyom.melnikov%40trilogy.com",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 10,
+            "mouse": 7,
+            "date": "2024-06-12T12:18:02Z",
+            "windowTitle": "Google Chat - WS.Eng AI Adoption - Chat",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 63,
+            "mouse": 6,
+            "date": "2024-06-12T12:19:02Z",
+            "windowTitle": "Google Chat - WS.Eng AI Adoption - Chat",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-12T12:10:00Z"
+}

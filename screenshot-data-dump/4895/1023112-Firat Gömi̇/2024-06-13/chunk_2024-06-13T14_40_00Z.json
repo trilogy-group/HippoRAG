@@ -1,0 +1,373 @@
+{
+  "candidateId": 2027577,
+  "apps": [
+    "mail.google.com",
+    "timetemperature.com",
+    "docs.google.com",
+    "aws.prod.jivehosted.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-13T14:41:14Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Python, Automation, and Visual Studio Code. Also includes the date and time display showing 'Mon, Jun 24'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Inbox - firat.gomi@trilogy.com - DevFactory Mail",
+                "url": "https://mail.google.com/mail/u/0/#inbox",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and multiple extension icons"
+                },
+                "content": [
+                  {
+                    "title": "Email List",
+                    "layoutDescription": "List on left side",
+                    "visibleText": "Inbox\nStarred\nSnoozed\nSent\nDrafts\nImportant\nChats\nAll Mail\nCategories:\n- Social\n- Updates\n- Forums\n- Promotions\n\nThreads:\n- The Jive - JIRA: Daily customer-focused catch-up\n- Cancelled Event: JIRA: Monthly catch-up\n- Accepted: DevExa offers and Firat Gomi onboarding\n- Password Reset Request: Firat Gomi, Welcome!\n- CNVT / IgniteTech - BI-Weekly Check-In Meeting\n- Someone from Tower Hamlets viewed your profile\n- Welcome to Perplexity! (x7)\n- Following Updates, June 18, 2024 - Awarded Updates\n- Leonard Holt (x3)"
+                  },
+                  {
+                    "title": "Email Content",
+                    "layoutDescription": "Main central panel",
+                    "visibleText": "Subject: Re: Pre-Read for your upcoming meeting\n\nHi Julie,\n\nMany thanks for the reminder to share my thoughts about Jive and CxPilot.\n\nLooking forward to our discussion, please include anyone else you think might be interested.\n\nBest regards,\nFirat Gomi\n\nProduct Manager\n\nIGNITETECH\n\nLearn more at ignitetech.com/onbeshreve"
+                  },
+                  {
+                    "title": "Calendar Popup",
+                    "layoutDescription": "Right side panel",
+                    "visibleText": "Add title\n\nMon, Jun 24, 2024 - 6:30pm\n\nFirat Gomi\n\njulie.robb@cxpilot.com\n\nSave"
+                  }
+                ]
+              },
+              {
+                "title": "Cloud CxPilot - Outreach",
+                "url": "https://docs.google.com/spreadsheets/d/1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "tabs, address bar, and Google Sheets toolbar"
+                },
+                "content": [
+                  {
+                    "title": "Google Sheets Content",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "Jive Cloud\n\nCustomer Name\tARR\tContact Person\tEmail\tRole\tSystem Admin\nThe Doctors Management Company\t$135,000\tGreg Liu\tgreg@tdmco.com\t?\tRachel Newton - rnewton@tdmco.com - VP of Human Resources\nClear Digital USA\t$125,000\tWill Smith\twill@clearusa.com\t?\tDave Johnson - djohnson@clearusa.com - VP of Sales\n... (list continues with similar entries)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Python",
+            "windows": []
+          },
+          {
+            "appName": "Automation",
+            "windows": []
+          },
+          {
+            "appName": "Visual Studio Code",
+            "windows": []
+          }
+        ]
+      },
+      "uiElements": [
+        {
+          "elementType": "taskbar",
+          "details": "icons for Google Chrome, Python, Automation, and Visual Studio Code. Also includes the date and time display showing 'Mon, Jun 24'",
+          "position": "bottom"
+        }
+      ]
+    },
+    {
+      "capturedAt": "2024-06-13T14:45:58Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Python, Automation, Jira, Outlook, and a pinned application icon. Also includes system clock showing 'Tue, June 25 - 4:15pm' and system tray with network, sound, and battery status icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Inbox - firat.gomi@trilogy.com - DevFactory Mail",
+                "url": "mail.google.com/mail/u/0/#inbox",
+                "position": "left",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and multiple extension icons including Google Keep, Google Calendar, and others."
+                },
+                "content": [
+                  {
+                    "title": "Email List",
+                    "layoutDescription": "List on left side",
+                    "visibleText": "Inbox\nStarred\nSnoozed\nSent\nThe Jive - TPM Friday call diary item on June 20, 2024\n- TPM Friday call diary item on June 20, 2024\n- Accepted: DevEx Jira Efforts and Firat Gomi\n- Password Reset request: Firat Gomi\n- Pre-Read for your upcoming meeting\n- CV/IT Engineer - Bi-Weekly Check-In\n- Someone from Tower Hamlets viewed 90% of your profile\n- Welcome to Perplexity (ID 07) - Over the first hurdle\n- Following Updates, June 18, 2024 - Around the World\n- Leonard Holt (Ida, Colorado) has died\n\nHighlighted: Email from 'Firat Gomi - Product Manager' with subject 'Be cautious about sharing sensitive information, jule.rob@jci.com outside your organization and isn't in your contacts.'"
+                  },
+                  {
+                    "title": "Email Composition",
+                    "layoutDescription": "Central window",
+                    "visibleText": "To: Sam Senff\nSubject: Be cautious about sharing sensitive information\n\nEmail body: 'In preparation to avoid any future conflicts, jule.rob@jci.com is outside your organization and isn't in your contacts.'\n\nHighlighted: 'Send Later' button is visible."
+                  }
+                ]
+              },
+              {
+                "appName": "Google Sheets",
+                "windows": [
+                  {
+                    "title": "Jive Cloud CxPilot - Outreach",
+                    "url": "docs.google.com/spreadsheets/d/1",
+                    "position": "right",
+                    "isActive": false,
+                    "uiElements": {
+                      "details": "tabs for different sheets, formula bar, and toolbar with options for File, Edit, View, Insert, Format, Data, Tools, Extensions, and Help."
+                    },
+                    "content": [
+                      {
+                        "title": "Customer Data Sheet",
+                        "layoutDescription": "Spreadsheet layout",
+                        "visibleText": "Sheet 1\n\nColumns: Customer Name, ARR, Contact Person, Email, Role, System Admin\n\nData:\n- The Doctors Management Company: $135,000, Greg Lio, glio@thedocs.com, ?, Rachel Nelson\n- Clear Digital USA: $112,000, Jim Davis, jdavis@cleardigital.com, ?, Jim Davis\n- Humana Inc: $79,428, Jim Eufra, jim.eufra@humana.com, ?, Rachel Nelson\n- Choice Health Inc.: $54,366, Deirdre S, deirdre.s@choicehlth.com, ?, Rachel Nelson\n- Enterprise Holdings, Canada: $52,179, James Boyd, james.boyd@ehi.com, ?, Rachel Nelson\n- MD Anderson Physicians Network: $50,935, Mike Anderson, mike.anderson@mdanderson.com, ?, Rachel Nelson\n\nHighlighted: 'Mike Anderson' from 'MD Anderson Physicians Network' with email 'mike.anderson@mdanderson.com'."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Google Sheets",
+            "windows": [
+              {
+                "title": "Jive Cloud CxPilot - Outreach",
+                "url": "docs.google.com/spreadsheets/d/1",
+                "position": "right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "tabs for different sheets, formula bar, and toolbar with options for File, Edit, View, Insert, Format, Data, Tools, Extensions, and Help."
+                },
+                "content": [
+                  {
+                    "title": "Customer Data Sheet",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "Sheet 1\n\nColumns: Customer Name, ARR, Contact Person, Email, Role, System Admin\n\nData:\n- The Doctors Management Company: $135,000, Greg Lio, glio@thedocs.com, ?, Rachel Nelson\n- Clear Digital USA: $112,000, Jim Davis, jdavis@cleardigital.com, ?, Jim Davis\n- Humana Inc: $79,428, Jim Eufra, jim.eufra@humana.com, ?, Rachel Nelson\n- Choice Health Inc.: $54,366, Deirdre S, deirdre.s@choicehlth.com, ?, Rachel Nelson\n- Enterprise Holdings, Canada: $52,179, James Boyd, james.boyd@ehi.com, ?, Rachel Nelson\n- MD Anderson Physicians Network: $50,935, Mike Anderson, mike.anderson@mdanderson.com, ?, Rachel Nelson\n\nHighlighted: 'Mike Anderson' from 'MD Anderson Physicians Network' with email 'mike.anderson@mdanderson.com'."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-13T14:47:32Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Python, Automation, and other unidentified applications. Also includes system clock showing '2:47 PM' and system date '6/13/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Inbox - firat.gomi@trilogy.com - DevFactory Mail",
+                "url": "https://mail.google.com/mail/u/0/#inbox",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and multiple extension icons"
+                },
+                "content": [
+                  {
+                    "title": "Email List",
+                    "layoutDescription": "List view",
+                    "visibleText": "The Jive - TPA - Monthly claim data slow on June 12, 2024 @ 4:45 PM | Read Meeting Report - The team discussed various... | Cancelled event: Jive - TPA - Monthly claim data meeting | Accepted: Devra Jeffers and Firat Gomi on June 12, 2024 | Declined: Devra Jeffers and Firat Gomi on June 12, 2024 | Password Reset request: Firat Gomi | Pre-Read for your upcoming meeting: New Paths email from Jive | CWT / rightTech - Bi-Weekly Check-In Meeting | Cancelled event: CWT / rightTech - Bi-Weekly Check-In Meeting | Someone from Tower Hamlets viewed 95% of your profile | Welcome to PriorityMD (1 of 7) - Over the first three months... | Welcome to your membership - Thanks for joining! | Following Updates, June 12, 2024 - Awarded Updates | Leonard Holt (via DocuSign) - Contract signed"
+                  },
+                  {
+                    "title": "Email Composition",
+                    "layoutDescription": "Rich text editor",
+                    "visibleText": "Hi Julie, Hello again, We hope this email finds you well. We are reaching out to discuss your thoughts and feedback on Jive and C-Pilot. We have scheduled a meeting to discuss further and gather your feedback on your experience with Jive. We are looking forward to hearing about what is working well for you, and we'd like to address any concerns you may have in a supportive email. The meeting invitation was sent as a mail proposed time. If the timing of the meeting invitation is not suitable, email me at the proposed time doesn't work for you. I look forward to our discussion, please include anyone you think you might be interested. Best regards, Firat Gomi - Product Manager"
+                  },
+                  {
+                    "title": "Google Sheets - Jive Cloud CxPilot - Outreach",
+                    "layoutDescription": "Spreadsheet view",
+                    "visibleText": "Sheet 1 | Customer Name: The Doctors Management Company, AHR: $135,000, Contact Person: Greg Liu, Email: greg@thedocs.com, Role: System Admin | Customer Name: Clear Digital USA, AHR: $72,400, Contact Person: Jim Efra, Email: jim.clear@clearusa.com, Role: System Admin | Customer Name: Humana Inc., AHR: $57,400, Contact Person: John Efra, Email: john.efra@humana.com, Role: System Admin | Customer Name: Choice Health Inc., AHR: $54,366, Contact Person: Debra S., Email: debra.s@choicehealth.com, Role: System Admin | Customer Name: Integrated Health Solutions, AHR: $52,179, Contact Person: James Boyd, Email: james.boyd@ihs.com, Role: System Admin | Customer Name: Canobie Co., AHR: $51,777, Contact Person: Ethan Green, Email: ethan.green@canobie.com, Role: System Admin | Customer Name: Rothman Orthopedics, AHR: $50,995, Contact Person: Michael K., Email: michael.k@rothmanortho.com, Role: System Admin | Customer Name: MD Anderson Physicians Network, AHR: $50,995, Contact Person: Yolanda Neal, Email: yolanda.neal@mdanderson.org, Role: System Admin | Customer Name: Wyoming Animal Hospital, AHR: $50,295, Contact Person: Chris Pine, Email: chris.pine@wyomingah.com, Role: System Admin | Total AHR: $576,296"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in managing emails and scheduling meetings. They are composing an email to Julie Robb, discussing thoughts about Jive and CxPilot, and scheduling a meeting to gather feedback. The email content includes a detailed message about the meeting's purpose and the user's role as a Product Manager at IgniteTech. The user is also managing their calendar, adding events, and sending invitations to Google Calendar guests.",
+    "The user is working with a Google Sheets document titled 'Jive Cloud CxPilot - Outreach'. The spreadsheet contains customer data, including names, ARR (Annual Recurring Revenue), contact persons, emails, roles, and system admins. The user is reviewing and possibly updating this data, as indicated by the visible content in the spreadsheet. The data includes entries for various companies, with specific details about each contact person and their roles.",
+    "The user is browsing the web, as indicated by the presence of multiple tabs in Google Chrome. The active tabs include Gmail, Google Sheets, and other web pages. The user is likely conducting research or managing multiple tasks simultaneously, as evidenced by the variety of open tabs and the content being accessed. The user is also using Google Calendar to manage their schedule and coordinate meetings."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in email management, scheduling meetings, and working with Google Sheets. No AI chat interfaces or AI-driven tools are visible in the screenshots, indicating that the user is not utilizing AI for their tasks during this period.",
+  "activities": [
+    "EMAIL",
+    "READING_SPEC",
+    "WRITING_SPEC"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "EMAIL",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 77,
+      "mouse": 10,
+      "date": "2024-06-13T14:40:55Z",
+      "windowTitle": " Inbox - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.3 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpgVhkJnqvqtZsLjTDtFjPtcLnXMhHMhXMDfHKjZcNTsJbDVJxcgkvxvBmKxMwxkXwwpTq",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 124,
+      "mouse": 10,
+      "date": "2024-06-13T14:41:55Z",
+      "windowTitle": " Inbox - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.4 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpgVhkJnqvqtZsLjTDtFjPtcLnXMhHMhXMDfHKjZcNTsJbDVJxcgkvxvBmKxMwxkXwwpTq",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 93,
+      "mouse": 3,
+      "date": "2024-06-13T14:42:55Z",
+      "windowTitle": " Inbox - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.4 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpgVhkJnqvqtZsLjTDtFjPtcLnXMhHMhXMDfHKjZcNTsJbDVJxcgkvxvBmKxMwxkXwwpTq",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 14,
+      "mouse": 7,
+      "date": "2024-06-13T14:43:55Z",
+      "windowTitle": " Time Zone - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "timetemperature.com",
+      "visitingUrl": "https://www.timetemperature.com/tzus/time_zone.shtml",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 11,
+      "date": "2024-06-13T14:44:57Z",
+      "windowTitle": " Inbox - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.4 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpgVhkJnqvqtZsLjTDtFjPtcLnXMhHMhXMDfHKjZcNTsJbDVJxcgkvxvBmKxMwxkXwwpTq",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 10,
+      "date": "2024-06-13T14:45:56Z",
+      "windowTitle": " Inbox - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.5 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpgVhkJnqvqtZsLjTDtFjPtcLnXMhHMhXMDfHKjZcNTsJbDVJxcgkvxvBmKxMwxkXwwpTq",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 21,
+      "mouse": 9,
+      "date": "2024-06-13T14:46:56Z",
+      "windowTitle": " Inbox - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.5 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpgVhkJnqvqtZsLjTDtFjPtcLnXMhHMhXMDfHKjZcNTsJbDVJxcgkvxvBmKxMwxkXwwpTq",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 3,
+      "mouse": 10,
+      "date": "2024-06-13T14:47:57Z",
+      "windowTitle": " Inbox - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.5 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#inbox",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 4,
+      "date": "2024-06-13T14:48:56Z",
+      "windowTitle": " Jive Cloud CoPilot - Outreach - Google Sheets - Part of group Jive CoPilot - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/spreadsheets/d/1-RRgVkDpEa_z6PnSiqqKllWiAWX2os3OAmuDttJ_oNA/edit?pli=1#gid=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 4,
+      "mouse": 8,
+      "date": "2024-06-13T14:49:56Z",
+      "windowTitle": " JCA for Aurea (PROD) - AWS Installations - Part of group Jive - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "aws.prod.jivehosted.com",
+      "visitingUrl": "https://aws.prod.jivehosted.com/admin/jcx-installation-view.jspa?uri=jcx-inst-at4levxympod8glsmhzjck&env=aws-eu-west-1-infra-prod",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-13T14:40:00Z"
+}

@@ -1,0 +1,196 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "drive.google.com",
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T00:00:55Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "visible in the screenshot",
+                        "position": "Not visible in the screenshot"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "IMG_5767.MOV - Google Drive - Google Chrome",
+                                "url": "Not visible in the screenshot",
+                                "position": "Fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "playback controls visible"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Content",
+                                        "layoutDescription": "Video occupies most of the screen",
+                                        "visibleText": "IMG_5767.MOV\n7:24 / 20:01"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in viewing a video file named 'IMG_5767.MOV' on Google Drive. The video playback controls are visible, indicating that the user is watching the video. The video occupies most of the screen, and the visible text shows the video is at 7:24 of a total 20:01 duration. This suggests that the user is likely reviewing or analyzing the content of the video for a specific purpose.",
+        "The user has also accessed their Gmail account, as indicated by the link 'mail.google.com/mail/u/0/#chat/dm/51KzrUAAAAE'. This link suggests that the user is engaged in a direct message chat within Gmail. The context of the chat is not visible, but it indicates communication with a team member or colleague, possibly discussing the content of the video or other work-related matters."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots or the list of active applications. The user is primarily engaged in viewing a video on Google Drive and chatting via Gmail, with no visible interaction with AI tools for code suggestions, research, or debugging.",
+    "activities": [
+        "READING_SPEC",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "READING_SPEC",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 5,
+            "mouse": 7,
+            "date": "2024-06-12T00:00:45Z",
+            "windowTitle": "IMG_5767.MOV - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1alTcH01HycSbfp7KSDMZ1fyzjVqFwz74/view?ts=6668a8d0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 1,
+            "mouse": 0,
+            "date": "2024-06-12T00:01:45Z",
+            "windowTitle": "IMG_5767.MOV - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1alTcH01HycSbfp7KSDMZ1fyzjVqFwz74/view?ts=6668a8d0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T00:02:45Z",
+            "windowTitle": "IMG_5767.MOV - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1alTcH01HycSbfp7KSDMZ1fyzjVqFwz74/view?ts=6668a8d0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T00:03:44Z",
+            "windowTitle": "IMG_5767.MOV - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1alTcH01HycSbfp7KSDMZ1fyzjVqFwz74/view?ts=6668a8d0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T00:04:44Z",
+            "windowTitle": "IMG_5767.MOV - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1alTcH01HycSbfp7KSDMZ1fyzjVqFwz74/view?ts=6668a8d0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-12T00:05:44Z",
+            "windowTitle": "IMG_5767.MOV - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1alTcH01HycSbfp7KSDMZ1fyzjVqFwz74/view?ts=6668a8d0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T00:06:44Z",
+            "windowTitle": "IMG_5767.MOV - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1alTcH01HycSbfp7KSDMZ1fyzjVqFwz74/view?ts=6668a8d0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T00:07:45Z",
+            "windowTitle": "IMG_5767.MOV - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1alTcH01HycSbfp7KSDMZ1fyzjVqFwz74/view?ts=6668a8d0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 168,
+            "mouse": 7,
+            "date": "2024-06-12T00:08:45Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/51KzrUAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 114,
+            "mouse": 2,
+            "date": "2024-06-12T00:09:45Z",
+            "windowTitle": "IMG_5767.MOV - Google Drive - Google Chrome",
+            "processName": "drive.google.com",
+            "visitingUrl": "drive.google.com/file/d/1alTcH01HycSbfp7KSDMZ1fyzjVqFwz74/view?ts=6668a8d0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-12T00:00:00Z"
+}

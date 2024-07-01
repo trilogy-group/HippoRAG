@@ -1,0 +1,197 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "mail.google.com",
+        "calendar.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-11T02:19:07Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Chrome, File Explorer, Microsoft Edge, and other unidentified applications. Also includes system clock showing '10 Jun 2024 20:19' and system tray icons like network status, sound, and notifications.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "DevFactory Mail - Google Chrome",
+                                "url": "mail.google.com/mail/u/0/#chat/dm/",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, profile icon, extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Gmail Chat",
+                                        "layoutDescription": "Chat interface with messages and sidebar",
+                                        "visibleText": "Simon Said\nSimon Said Fri 3:37 PM \u2022 Edited\nsome initial thoughts so far on standardization: https://www.notion.so/trilogy-enterprises/Standardization-Initiatives-Overview-1234567890abcdef\nI'm planning to do a couple of small PoCs to validate some areas, would appreciate your input\nSimon Said Yesterday 6:22 AM\nminor note as I was leaving app store feedback: the icon is a bit confusing as it has a T (remnant from TeachTower?)\nSimon Said Today 7:52 AM\nwhat do you think is the timing for adaptive placement?\nSimon Said 7:56 AM\nlater this week, the long pole is Doreen providing the substandard dependencies\nSimon Said\nsome initial thoughts so far on standardization: https://www.notion.so/trilogy-enterprises/Standardization-Initiatives-Overview-1234567890abcdef\nThe content for TeachTap is stored using a MathJax compatible format (Markdown with LaTeX extensions)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in a chat conversation on Gmail. The conversation involves discussing standardization efforts, app store feedback, and project dependencies. The user is also seen asking about the timing for adaptive placement and providing feedback on an icon design. The chat interface shows multiple messages exchanged with a colleague named Simon, indicating a collaborative effort to address various project-related topics.",
+        "The user has a task list open on the right side of the screen, which includes various tasks such as Q2 progress/Q3 plan, app testing, weekly updates, and content posting on TikTok. The tasks are detailed with links to relevant documents and resources, suggesting that the user is managing multiple responsibilities and keeping track of their progress through a task management tool integrated within Gmail.",
+        "The user is also seen navigating through different tabs in the Chrome browser, including DevFactory, Magic Academy, and other work-related resources. This indicates that the user is multitasking and possibly gathering information or working on different aspects of their projects simultaneously. The presence of multiple tabs suggests a high level of activity and engagement in various tasks."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in chat conversations and task management within Gmail. No AI chat interfaces or AI-driven suggestions are visible in the screenshots, indicating that the user is not utilizing AI tools for their workflow during this time frame.",
+    "activities": [
+        "CHATTING_WITH_TEAM",
+        "EMAIL"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "CHATTING_WITH_TEAM",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 36,
+            "date": "2024-06-11T02:10:13Z",
+            "windowTitle": "Re: TeachTales Purchase Request - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCwqNZBphRbSrxQdNmBRCJG",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 137,
+            "mouse": 6,
+            "date": "2024-06-11T02:11:13Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAx34EwsQ",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 75,
+            "mouse": 27,
+            "date": "2024-06-11T02:12:14Z",
+            "windowTitle": "Inbox (10) - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 43,
+            "date": "2024-06-11T02:13:14Z",
+            "windowTitle": "Weekly Update - Content Creation 6/9 - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxBpQjQtFJCgVfQTrtJRVpld",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 15,
+            "date": "2024-06-11T02:14:14Z",
+            "windowTitle": "Weekly Update - Content Creation 6/9 - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxBpQjQtFJCgVfQTrtJRVpld",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 11,
+            "date": "2024-06-11T02:15:13Z",
+            "windowTitle": "DevFactory - Calendar - Week of June 9, 2024 - Google Chrome",
+            "processName": "calendar.google.com",
+            "visitingUrl": "calendar.google.com/calendar/u/0/r/week",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T02:16:13Z",
+            "windowTitle": "DevFactory - Calendar - Week of June 9, 2024 - Google Chrome",
+            "processName": "calendar.google.com",
+            "visitingUrl": "calendar.google.com/calendar/u/0/r/week",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T02:17:13Z",
+            "windowTitle": "DevFactory - Calendar - Week of June 9, 2024 - Google Chrome",
+            "processName": "calendar.google.com",
+            "visitingUrl": "calendar.google.com/calendar/u/0/r/week",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 3,
+            "mouse": 8,
+            "date": "2024-06-11T02:18:13Z",
+            "windowTitle": "Weekly Update - Content Creation 6/9 - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxBpQjQtFJCgVfQTrtJRVpld",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 8,
+            "mouse": 5,
+            "date": "2024-06-11T02:19:13Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/iXTDrUAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-11T02:10:00Z"
+}

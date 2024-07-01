@@ -1,0 +1,282 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "webstorm64"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T07:51:08Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Visual Studio Code, File Explorer, and other unidentified applications. Also includes system clock showing '06/14/2024 09:51' and system tray with network, sound, and battery status icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "infra.ts - lambda-cdk-infra - Visual Studio Code",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Top bar with File, Edit, View, Go, Run, Terminal, Help. Sidebar on the left with file explorer showing project structure. Bottom bar with various status indicators including Git branch 'master', problems count, and feedback icon."
+                                },
+                                "content": [
+                                    {
+                                        "title": "File Explorer",
+                                        "layoutDescription": "Vertical panel on left",
+                                        "visibleText": "lambda-cdk-infra\n.github\nnode_modules\nsrc\npackage.json\nREADME.md"
+                                    },
+                                    {
+                                        "title": "Editor",
+                                        "layoutDescription": "Large central panel",
+                                        "visibleText": "import { App } from '@aws-cdk/core';\nimport { Stack, StackProps } from '@aws-cdk/core';\nimport { Tag } from '@aws-cdk/core';\n\n/**\n * Default configuration for infrastructure deployments\n */\nconst DefaultConfig: InfraInitConfig = {\n  cdkArguments: '',\n};\n\n/**\n * Run call this normally via any CLI and pass parameters\n * Process parameters and convert them into CDK CLI call\n * Run CDK manually, point to the specific wrapper\n * Done!\n */\nexport class Infra {\n  static config: InfraInitConfig = DefaultConfig;\n\n  constructor(private readonly config: InfraInitConfig,\n    private readonly app: App) {\n    const deployments = this.findActiveDeployments();\n\n    Log.debug('${deployments.length} deployments are matching configuration');\n\n    const currentEnv: string = this.determineEnvironmentName();\n\n    deployments.forEach((deployment, currentEnv) => {\n      const configObj = { ...config };\n\n      // Create stack and inject proper config\n      const stacks: Stack[] = deployment.stacks.map((stackDecorator: name, string, Function) => {\n        const stackName: string = Infra.generateResourceName(stackDecorator.name, currentEnv, config);\n        const stackConfig: StackConfig = new StackConfig(this.app, currentEnv, config, stackName);\n        Log.debug('${deployment.name} Creating stack ${stackDecorator.fn.prototype.constructor.name}') return new stackDecorator.fn.prototype.constructor(stackConfig) as Stack;\n      });\n\n      // Add tags\n      stacks.forEach((t: Stack) => {\n        Tags.of(t).add(key: 'projectName', config.projectName);\n        Tags.of(t).add(key: 'deploymentName', value: '${currentEnv}');\n        if (config.owner) {\n          Tags.of(t).add(key: 'Owner', config.owner, config.ownerTagProps);\n        }\n        if (config.customTags) {\n          for (const tagName of Object.entries(config.customTags)) {\n            Tags.of(t).add(name, value);\n          }\n        }\n      });\n    });\n  }\n}"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T07:56:11Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Visual Studio Code, File Explorer, and other unidentified applications. Also includes system clock showing '07:56' and date '14/06/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "infra.ts - lambda-cdk-infra - Visual Studio Code",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "UI bar at top with options like File, Edit, View, Go, Run, Terminal, Help. Right side contains minimap, scrollbar, and vertical tabs for problems, output, debug console, terminal."
+                                },
+                                "content": [
+                                    {
+                                        "title": "File Explorer",
+                                        "layoutDescription": "Panel on left",
+                                        "visibleText": "lambda-cdk-infra\n.github\nnode_modules"
+                                    },
+                                    {
+                                        "title": "Editor",
+                                        "layoutDescription": "Large central panel",
+                                        "visibleText": "export interface InfraInitConfig {\n environment?: {\n overrideName?: string;\n contextParameterName: string;\n };\n cdkArguments?: string;\n /**\n * Project owner's email. Will be set as an 'owner' tag to all resources\n */\n owner?: string;\n /**\n * Optional property for the owner tag\n */\n ownerTagProps?: TagProps;\n /**\n * Additional custom tags that will be added to the resources\n */\n customTags?: { [name: string]: string };\n}\n\nconst DefaultConfig: InfraInitConfig = {\n projectName: 'default-project',\n environmentName: 'env',\n deployments: {\n contextParameterName: 'deployments',\n },\n cdkArguments: '',\n};\n\n/**\n * 1. Run call this normally via any CLI and pass parameters\n * 2. Process parameters and convert them into CDK CLI command\n * 3. Run CDK manually, point to the specific wrapper\n * 4. Done!\n */\nexport class Infra {\n static config: InfraInitConfig = DefaultConfig;\n constructor(private readonly config: InfraInitConfig,\n private readonly app: App) {\n deployments: DeploymentConfig = this.findActiveDeployments();\n }\n"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T07:58:31Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Visual Studio Code, File Explorer, and other unidentified applications. Also includes system clock showing '08:24 AM' and system tray with network, sound, and battery status icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "infra.ts - lambda-cdk-infra - Visual Studio Code",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Top bar with options like File, Edit, View, Go, Run, Terminal, Help. Sidebar on the left with project explorer. Bottom bar with status indicators including branch name 'master' and file encoding 'UTF-8'."
+                                },
+                                "content": [
+                                    {
+                                        "title": "File Explorer",
+                                        "layoutDescription": "Vertical panel on the left",
+                                        "visibleText": "lambda-cdk-infra\n.github\nnode_modules"
+                                    },
+                                    {
+                                        "title": "Editor",
+                                        "layoutDescription": "Large central panel",
+                                        "visibleText": "49\n50\n51\n52\n53\n54\n55\n// Run call this normally via any CLI and pass parameters\n// Process parameters and convert them into CDK CLI call\n// Run CDK manually, point to the specific wrapper\n// Done!\nexport class Infra {\n static config: InfraInitConfig = DefaultConfig;\n constructor(private readonly config: InfraInitConfig,\n private readonly app: App) {\n const deployments: DeploymentConfig[] = this.findActiveDeployments();\n const debugMode: boolean = this.debugMode();\n log.debug('Deployments.Length deployments are matching configuration');\n const currentEnv: string = this.determineEnvironmentName();\n deployments.forEach((deployment: DeploymentConfig) => {\n const configObject = Infra.findDeploymentConfiguration(deployment, currentEnv);\n const stack: Stack = infra.generateStacks(stackDecorator: {name: string, fn: Function} => {\n const stackName: string = deployment.config.map(stackDecorator.name, currentEnv, config);\n const stackConfig: StackConfig = new StackConfig(this.app, currentEnv, config, stackName);\n log.debug('{deployment.name} stack configuration updated', currentEnv, config, stackName);\n const stackDecorator.fn.prototype.constructor(stackConf configObject) as Stack;\n return new stackDecorator.fn.prototype.constructor(stackConf configObject) as Stack;\n });\n // Add tags\n stacks.forEach((it: Stack) => {\n Tags.of(it).add('key: projectName', config.projectName);\n Tags.of(it).add('key: deploymentName', value: '{config.projectName}-{currentEnv}');\n Tags.of(it).add('key: Owner', config.owner, config.ownerTagProps);\n if (config.customTags) {\n for (const [name: string, value: string] of Object.entries(config.customTags)) {\n Tags.of(it).add(name, value);\n }\n });\n });\n public static findDeploymentConfiguration(method: DeploymentConfig, currentEnv: string): any {\n let configForCurrentEnvFn: Function = null;\n"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in writing code within the WebStorm IDE. The project structure visible in the file explorer indicates that the user is working on a project named 'lambda-cdk-infra'. The user is editing a TypeScript file named 'infra.ts' located in the 'src' directory. The code includes the definition of a class 'Infra' with methods for configuring and deploying infrastructure stacks. The user is adding tags to the stacks and configuring deployment settings, indicating a focus on infrastructure as code (IaC) tasks.",
+        "The user is also navigating through the codebase, as evidenced by the changes in the visible lines of code between screenshots. The user is defining an interface 'InfraInitConfig' and a class 'Infra' with methods for deployment configuration. The user is working on adding custom tags and configuring deployment parameters, which involves modifying and reviewing TypeScript code. The presence of detailed comments in the code suggests that the user is documenting the code for better understanding and maintainability.",
+        "Throughout the session, the user is focused on infrastructure configuration and deployment tasks. The user is defining default configurations, processing parameters, and converting them into CDK CLI commands. The user is also implementing methods to determine the environment name and find active deployments. The detailed comments and structured code indicate a methodical approach to infrastructure management using TypeScript and AWS CDK."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is solely focused on writing and navigating through TypeScript code within the WebStorm IDE. There are no visible AI chat interfaces or interactions with AI tools for code suggestions, debugging, or research purposes.",
+    "activities": [
+        "WRITING_CODE",
+        "NAVIGATING_CODE"
+    ],
+    "workTypes": [
+        "IAC"
+    ],
+    "programmingLanguages": [
+        "TYPESCRIPT"
+    ],
+    "toolTypes": [
+        "IDE"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T07:50:16Z",
+            "windowTitle": "lambda-cdk-infra ? infra.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T07:51:16Z",
+            "windowTitle": "lambda-cdk-infra ? infra.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T07:52:17Z",
+            "windowTitle": "lambda-cdk-infra ? infra.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T07:53:17Z",
+            "windowTitle": "lambda-cdk-infra ? infra.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T07:54:17Z",
+            "windowTitle": "lambda-cdk-infra ? infra.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-14T07:55:17Z",
+            "windowTitle": "lambda-cdk-infra ? infra.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T07:56:17Z",
+            "windowTitle": "lambda-cdk-infra ? infra.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-14T07:57:17Z",
+            "windowTitle": "lambda-cdk-infra ? infra.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T07:58:17Z",
+            "windowTitle": "lambda-cdk-infra ? infra.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T07:59:16Z",
+            "windowTitle": "lambda-cdk-infra ? infra.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-14T07:50:00Z"
+}

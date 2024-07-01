@@ -1,0 +1,298 @@
+{
+    "candidateId": 1444536,
+    "apps": [
+        "sandbox-admin.crossover.com",
+        "Code",
+        "mail.google.com",
+        "GitHubDesktop",
+        "CodeSetup-stable-611f9bfce64f25108829dd295f54a6894e87339d.tmp"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T08:41:22Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Task View, Microsoft Edge, File Explorer, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '09:41:23' on '14/06/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "My Pipelines - Crossover - Google Chrome",
+                                "url": "https://sandbox-admin.crossover.com",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, and browser controls (back, forward, refresh, home, settings)."
+                                },
+                                "content": [
+                                    {
+                                        "title": "CROSSOVER",
+                                        "layoutDescription": "navigation bar",
+                                        "visibleText": "SETTINGS CONTENT GOAL SKILLS REAL WORK TASK TIME SOURCING"
+                                    },
+                                    {
+                                        "title": "SKILLS ASSESSMENTS PREVIEW",
+                                        "layoutDescription": "Main content area",
+                                        "visibleText": "Skills Free Response Using Generative AI AI Beginner Mind Writing Code - Data Structures & Algorithms Cloud Engineering for AWS 150 minutes 180 minutes 330 minutes total testing Time $7.60 $5.00 $12.60 cost per E2E applicant"
+                                    },
+                                    {
+                                        "title": "Crossover Skills Catalog",
+                                        "layoutDescription": "Footer area",
+                                        "visibleText": "Crossover Skills Catalog Psychocognitive Language Technical Finance Assessments"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T08:43:23Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Windows Timeline, Microsoft Edge, File Explorer, Visual Studio Code, and system tray with network, sound, and clock",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "campaign.ts - master-assistant - Visual Studio Code",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "File tabs for guide.query.md, TS function-calls.ts, TS salesforce.ts, TS assistant.ts, TS utils.ts, TS campaign.ts, and others. Minimize, Maximize, Close buttons at top right"
+                                },
+                                "content": [
+                                    {
+                                        "title": "campaign.ts",
+                                        "layoutDescription": "editor with multiple tabs",
+                                        "visibleText": "const campaignConf = {\n gads: {\n idPattern: 'GA-5183.*',\n directSheet: '1YR_R4FM6SXAIwm6ZcTY_JOscf1_j4wq5ug-UrkZDl4PU',\n indirectSheet: '1mb4Q3YHNQQG0IreWBe8g8w7FfAZkgr5zKkQhJwTNuWU',\n processIndirect: true\n },\n gads_new: {\n idPattern: 'GA-Cat.*',\n directSheet: '1f8mflzh67mZkrw0rS8FvZHLg-VezCtHgo5rqkwl9TBEY',\n indirectSheet: '1g1Hh4cReq4jwlpFiB2stuPOtul1IX73xzCo6P08SRSKo',\n processIndirect: false\n },\n};\nconst campaign = campaignConf.gads_new;\ninterface OpportunityRecord {\n Id: string;\n}\n// Create the user inside the Cognito user pool using Lamb"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T08:49:04Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Visual Studio Code, and a web browser. Also includes system clock showing '09:49:06' and date '14/06/2024'. Language set to 'ENG'. Battery indicator visible with power status. Wi-Fi signal icon present. Bluetooth icon visible. Sound volume icon displayed. Notification center icon at the end.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": ".gitattributes - tools - Visual Studio Code",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Top bar with options like File, Edit, Selection, View, Go, Run, Terminal, Help. Left sidebar with icons for File Explorer, Search, Source Control, Run and Debug, Extensions, and a user profile icon. Bottom status bar showing branch name 'tools', sync status, and a warning about a Visual Studio Code update."
+                                },
+                                "content": [
+                                    {
+                                        "title": "File Explorer",
+                                        "layoutDescription": "Left sidebar",
+                                        "visibleText": "OPEN EDITORS\nWelcome\nREADME.md\n.gitattributes\nTOOL file content"
+                                    },
+                                    {
+                                        "title": "Main Editor Window",
+                                        "layoutDescription": "Main editor window",
+                                        "visibleText": "# Auto detect text files and perform LF normalization\ntext=auto"
+                                    },
+                                    {
+                                        "title": "Context Menu",
+                                        "layoutDescription": "Floating context menu",
+                                        "visibleText": "New File...\nNew Folder...\nReveal in File Explorer Shift+Alt+R\nOpen in Integrated Terminal\nNew Java File\nNew Java Project...\nMaven\nFind in Folder...\nCut\nCopy\nPaste\nCopy Path\nCopy Relative Path Ctrl+K Ctrl+Shift+C\nRun Tests\nDebug Tests\nRename...\nDelete"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in multiple tasks. Initially, they are navigating the Crossover platform, specifically the 'Skills Assessments Preview' section, which includes details about various skills such as 'Using Generative AI', 'Writing Code - Data Structures & Algorithms', and 'Cloud Engineering for AWS'. The user is likely reviewing or managing skill assessments, as indicated by the detailed breakdown of time and costs associated with each skill.",
+        "The user then transitions to Visual Studio Code, where they are working on a TypeScript file named 'campaign.ts'. The code involves configuring campaign settings with specific patterns and sheets for 'gads' and 'gads_new'. The user is also running a task to collect campaign results, as indicated by the terminal output showing SQL queries and the status of the running task. This suggests the user is involved in backend development, possibly related to campaign management or data processing.",
+        "Later, the user is seen using GitHub Desktop, where they are interacting with a repository named 'tools'. The user is performing actions such as revealing files in the file explorer and preparing to commit changes. The presence of a README.md file and a .gitattributes file indicates that the user is setting up or maintaining repository configurations, which is a common task in version control and project setup."
+    ],
+    "aiUseSummary": "The user is utilizing the AI tool 'Cody' within Visual Studio Code for coding assistance. Specifically, the AI tool is providing error messages and suggestions related to the user's project. For instance, the AI indicates an error with 'Cody Embeddings' and provides a detailed message about the issue, which helps the user identify that the project directory does not appear to be a git repository. This interaction highlights the user's reliance on AI for debugging and resolving issues efficiently, thereby enhancing productivity.",
+    "activities": [
+        "READING_SPEC",
+        "WRITING_CODE",
+        "REVIEWING_CODE"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [
+        "TYPESCRIPT",
+        "SQL"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER",
+        "DEVELOPMENT_UTILITIES"
+    ],
+    "aiTools": [
+        "AI_IDE_EXTENSION"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T08:40:23Z",
+            "windowTitle": "My Pipelines - Crossover - Google Chrome",
+            "processName": "sandbox-admin.crossover.com",
+            "visitingUrl": "sandbox-admin.crossover.com/admin/pipeline/01tF3000006EIKEIA4/skills",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T08:41:23Z",
+            "windowTitle": "My Pipelines - Crossover - Google Chrome",
+            "processName": "sandbox-admin.crossover.com",
+            "visitingUrl": "sandbox-admin.crossover.com/admin/pipeline/01tF3000006EIKEIA4/skills",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 1,
+            "mouse": 17,
+            "date": "2024-06-14T08:42:23Z",
+            "windowTitle": "? campaign.ts - master-assistant - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-14T08:43:23Z",
+            "windowTitle": "campaign.ts - master-assistant - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 9,
+            "date": "2024-06-14T08:44:22Z",
+            "windowTitle": "campaign.ts - master-assistant - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 7,
+            "date": "2024-06-14T08:45:23Z",
+            "windowTitle": "[JIRA] (LAMBDA-76078) Acceptance Crossover: Hire tasks 2024-06-13 - dmitrii.shutenkov@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxGRKCxxMDWBncXQlbWbbwpm",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 7,
+            "mouse": 7,
+            "date": "2024-06-14T08:46:23Z",
+            "windowTitle": "GitHub Desktop",
+            "processName": "GitHubDesktop",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 10,
+            "mouse": 11,
+            "date": "2024-06-14T08:47:23Z",
+            "windowTitle": "GitHub Desktop",
+            "processName": "GitHubDesktop",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 8,
+            "date": "2024-06-14T08:48:23Z",
+            "windowTitle": "Setup",
+            "processName": "CodeSetup-stable-611f9bfce64f25108829dd295f54a6894e87339d.tmp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 19,
+            "mouse": 12,
+            "date": "2024-06-14T08:49:23Z",
+            "windowTitle": "Untitled-1 - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T08:40:00Z"
+}

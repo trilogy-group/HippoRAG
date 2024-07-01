@@ -1,0 +1,280 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "crossover--fullshared.sandbox.lightning.force.com",
+        "idea64",
+        "login.salesforce.com",
+        "workbench.developerforce.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T13:52:05Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '15:52' and date '2024/06/12'. Language setting 'ENG' visible. Network, sound, and battery status icons are present.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "menu bar, sidebar, status bar, editor area, terminal"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Project Explorer",
+                                        "layoutDescription": "Sidebar on the left",
+                                        "visibleText": "Project\n- handlers\n - IlluminateCloud\n - JUnit\n - linkedinapi\n - manifest\n - mdapi\n - node_modules library root\n - salesforce-action-caller\n- Commit\n- Shelf"
+                                    },
+                                    {
+                                        "title": "Code Editor",
+                                        "layoutDescription": "Large central panel",
+                                        "visibleText": "public LinkedInSlots_ComputeCellMetricsBatch(LinkedInSlots coordinator, ...)\n\nif (sourcingPlatforms == null || sourcingPlatforms.size() == 0) {\n throw new IllegalArgumentException('sourcingPlatforms', 'Should have at least one element');\n}\n\nfor (SourcingPlatform sp : sourcingPlatforms) {\n processed++; // Increment processed count\n this.sourcingPlatformRepo.save(sp);\n this.minLastModified = sp.getLastModified().isBefore(this.minLastModified ? sp.getLastModified() : this.minLastModified;\n this.setInstance(sp.getInstance());\n this.increaseProcessed();\n}"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T13:55:31Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for various applications such as Chrome, File Explorer, and others. System tray includes network, sound, and clock icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Workbench: Bulk API Job Status",
+                                "url": "https://workbench.developerforce.com",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "navigation bar with back, forward, refresh buttons, address bar, and tabs"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Bulk API Job Status",
+                                        "layoutDescription": "Text and table centered",
+                                        "visibleText": "Bulk API Job Status\nA job has been uploaded to Salesforce via the Bulk API and is being processed asynchronously as resources are available. Refresh this page periodically to view the latest status. Results can be downloaded when batches are complete.\nJob: 750J0000006W1lAIAS\nStatus: Closed\nObject: Job_Board_Call_Analytics__c\nOperation: Query\nExternal Id: \nAPI Processing: 0 ms\nApex Processing: 0 ms\nTotal Processing: 0 ms\nCreated: 01:53:22 PM\nLast Modified: 01:53:24 PM\nRecords Processed: 1000\nRecords Failed: 0\nConcurrency Mode: Parallel\nAPI Version: 58.0\nBatches Queued: 0\nBatches In Progress: 0\nBatches Completed: 1\nBatches Failed: 0\nRetries: 0\nBatches\nId: Z511J0000000rDZIAC\nStatus: Completed\nProcessed: 1000 records\nFailed: 0 records\nCreated: 01:53:23 PM\nLast Modified: 01:54:15 PM\nRequested in 2,280 sec\nWorkbench 58.0"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T13:59:05Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for various applications such as Google Chrome, Microsoft Edge, File Explorer, and others. Also includes system tray with time, date, network status, and other system icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Workbench: Bulk API Job Status - Google Chrome",
+                                "url": "https://workbench.developerforce.com",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "UI includes back, forward, refresh buttons, address bar, tabs, and other browser controls."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Bulk API Job Status",
+                                        "layoutDescription": "Text and tables layout",
+                                        "visibleText": "Bulk API Job Status\n\nA job has been uploaded to Salesforce via the Bulk API and is being processed asynchronously as resources are available. Refresh this page periodically to view the latest status. Results can be downloaded when batches are complete.\n\nJob: 750J0000006W1lAIAS\nStatus: Closed\nObject: Job_Board_Call_Analytics__c\nOperation: Query\nExternal Id: \nAPI Processing: 0 ms\nApex Processing: 0 ms\nTotal Processing: 0 ms\nCreated: 01:53:22 PM\nLast Modified: 01:53:24 PM\n\nRecords Processed: 1000\nRecords Failed: 0\nConcurrency Mode: Parallel\nAPI Version: 58.0\n\nBatches Queued: 0\nBatches In Progress: 0\nBatches Completed: 1\nBatches Failed: 0\nRetries: 0\n\nBatches\nId: Z51190000000rDZIAC\nStatus: Completed\nProcessed: 1000 records\nFailed: 0 records\nCreated: 01:53:23 PM\nLast Modified: 01:54:15 PM\n\nRequested in 2,280 sec\nWorkbench 58.0"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in writing and navigating code within Visual Studio Code. The project explorer shows various directories such as handlers, IlluminateCloud, JUnit, linkedinapi, manifest, mdapi, node_modules, and salesforce-action-caller. The code editor displays a class named 'LinkedInSlots_ComputeCellMetricsBatch' with methods for processing sourcing platforms. The user is also executing SOQL queries in the terminal, indicating active development and testing of Salesforce-related functionalities.",
+        "The user is also working with Salesforce data using the Workbench tool. The Chrome browser is open with the Workbench Bulk API Job Status page, showing details of a job uploaded to Salesforce. The job status is 'Closed' with 1000 records processed and no failures. The user is monitoring the progress and results of this job, which involves querying the 'Job_Board_Call_Analytics__c' object. This indicates the user is involved in backend data processing and analysis tasks.",
+        "Throughout the session, the user is switching between Visual Studio Code and the Chrome browser, indicating a workflow that involves both coding and data management. The user is likely debugging or verifying the results of their code by running queries and checking the output in Workbench. This integrated approach suggests a focus on ensuring the accuracy and efficiency of the code being developed."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in writing and navigating code in Visual Studio Code and managing Salesforce data through Workbench. No AI chat interfaces or AI-generated suggestions are visible in the screenshots.",
+    "activities": [
+        "WRITING_CODE",
+        "NAVIGATING_CODE"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "DB"
+    ],
+    "programmingLanguages": [
+        "SALESFORCE",
+        "SQL"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 49,
+            "mouse": 32,
+            "date": "2024-06-12T13:50:01Z",
+            "windowTitle": "Job Board Cell Analytics | Salesforce - Google Chrome",
+            "processName": "crossover--fullshared.sandbox.lightning.force.com",
+            "visitingUrl": "crossover--fullshared.sandbox.lightning.force.com/lightning/setup/ObjectManager/01I2j000000L2v1/FieldsAndRelationships/00N2j000000ulEF/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 6,
+            "mouse": 7,
+            "date": "2024-06-12T13:51:01Z",
+            "windowTitle": "Job Board Cell Analytics | Salesforce - Google Chrome",
+            "processName": "crossover--fullshared.sandbox.lightning.force.com",
+            "visitingUrl": "crossover--fullshared.sandbox.lightning.force.com/lightning/setup/ObjectManager/01I2j000000L2v1/FieldsAndRelationships/00N2j000000ulEF/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 25,
+            "mouse": 8,
+            "date": "2024-06-12T13:52:02Z",
+            "windowTitle": "sfdx ? LinkedInSlots_ComputeCellMetricsBatch",
+            "processName": "idea64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 39,
+            "mouse": 25,
+            "date": "2024-06-12T13:53:02Z",
+            "windowTitle": "Choose a Username | Salesforce - Google Chrome",
+            "processName": "login.salesforce.com",
+            "visitingUrl": "login.salesforce.com/?ec=302&startURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAZAR321BMDAwMDAwMDAwMDAwMDAwAAAA-gx_RHCeSoYGo0GIrMv73WS-VyPIzL_8P3pSA4puQk0XBPCpBYpaSxyyEtiehMPoZ-k1JqApHzx27LXKn1k_0AjBsRcpQ5g7Vdm6xZSJ7RWSv6IFNNS",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 4,
+            "mouse": 7,
+            "date": "2024-06-12T13:54:01Z",
+            "windowTitle": "Workbench: Bulk API Job Status - Google Chrome",
+            "processName": "workbench.developerforce.com",
+            "visitingUrl": "workbench.developerforce.com/asyncStatus.php?jobId=750Ij0000006w4IIAQ&rn=7",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T13:55:01Z",
+            "windowTitle": "Workbench: Bulk API Job Status - Google Chrome",
+            "processName": "workbench.developerforce.com",
+            "visitingUrl": "workbench.developerforce.com/asyncStatus.php?jobId=750Ij0000006w4IIAQ&rn=10",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T13:56:01Z",
+            "windowTitle": "Workbench: Bulk API Job Status - Google Chrome",
+            "processName": "workbench.developerforce.com",
+            "visitingUrl": "workbench.developerforce.com/asyncStatus.php?jobId=750Ij0000006w4IIAQ&rn=10",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T13:57:01Z",
+            "windowTitle": "Workbench: Bulk API Job Status - Google Chrome",
+            "processName": "workbench.developerforce.com",
+            "visitingUrl": "workbench.developerforce.com/asyncStatus.php?jobId=750Ij0000006w4IIAQ&rn=10",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T13:58:01Z",
+            "windowTitle": "Workbench: Bulk API Job Status - Google Chrome",
+            "processName": "workbench.developerforce.com",
+            "visitingUrl": "workbench.developerforce.com/asyncStatus.php?jobId=750Ij0000006w4IIAQ&rn=10",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T13:59:02Z",
+            "windowTitle": "Workbench: Bulk API Job Status - Google Chrome",
+            "processName": "workbench.developerforce.com",
+            "visitingUrl": "workbench.developerforce.com/asyncStatus.php?jobId=750Ij0000006w4IIAQ&rn=10",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-12T13:50:00Z"
+}

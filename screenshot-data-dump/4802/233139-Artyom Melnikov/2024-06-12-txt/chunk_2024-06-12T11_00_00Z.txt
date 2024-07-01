@@ -1,0 +1,314 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "notepad",
+        "github.com",
+        "ws-lambda.atlassian.net",
+        "crossover.lightning.force.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T11:00:51Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned and running applications. Time and date displayed as '13:00 07/12/2024'. System tray icons include network, sound, and battery status.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Notepad",
+                        "windows": [
+                            {
+                                "title": "(0, ci1, CICD_CONSUMER_KEY_CI1).txt - Notepad",
+                                "position": "left side of the screen, maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "details bar with File, Edit, Format, View, Help. Scroll bars on right and bottom."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Text Content",
+                                        "layoutDescription": "Text editor window",
+                                        "visibleText": "{\n \"createdDate\": \"2024-06-12T07:48:49.932Z\",\n \"fileName\": \"zip/reports/prog_internal_portal_login_crt.repo\",\n \"fileLength\": 415,\n \"problem\": \"In field 'field' - no CustomField named NetworkMember-User.ExternalUserRoleCId_found\",\n \"problemType\": \"Error\",\n \"changed\": false,\n \"createdType\": \"WorkIdolwert\",\n \"contentFields\": [\n {\n \"createdDate\": \"2024-06-12T07:52:08.000Z\",\n \"fileName\": \"zip/workflows/OpportunityWorkflow\",\n \"fileLength\": 1025,\n \"problem\": \"In field 'template - no EmailTemplate named unfiled$public/Reject_Candidate_Job_Recommendatio\",\n \"problemType\": \"Error\",\n \"changed\": false,\n \"createdType\": \"Flow\",\n \"contentFields\": [\n {\n \"createdDate\": \"2024-06-12T07:52:57.000Z\",\n \"fileName\": \"zip/flows/ProcessCandidateRejectionStage.flow\",\n \"fileLength\": 930,\n \"problem\": \"In field 'action - We can't find an action with the name and action type that you specified.\",\n \"problemType\": \"Error\",\n \"changed\": false,\n \"createdType\": \"Flow\",\n \"contentFields\": [\n {\n \"createdDate\": \"2024-06-12T07:53:07.000Z\",\n \"fileName\": \"zip/flows/ProcessCandidateRejectionStageDelayed\",\n \"fileLength\": 930,\n \"problem\": \"In field 'action - We can't find an action with the name and action type that you specified.\",\n \"problemType\": \"Error\",\n \"changed\": false,\n \"createdType\": \"Flow\",\n \"contentFields\": []\n }\n ]\n }\n ]\n }\n ]\n}"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Sync Master To Staging #862",
+                                "url": "https://github.com/trilogy-group/x-hiring",
+                                "position": "right side of the screen, maximized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "detail bar, tabs, navigation buttons, bookmarks bar, and developer tools."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Web Page Content",
+                                        "layoutDescription": "Browser window",
+                                        "visibleText": "GitHub repository page for trilogy-group/x-hiring, displaying a specific action run. The page includes navigation tabs such as Code, Issues, Pull requests, Actions, Projects, Wiki, Security, Insights, Settings. The main content area shows a list of jobs with names like 'deploy', 'deploy-to-ci-agents', and their respective statuses. The sidebar on the right includes options to 'Re-run jobs', 'Show timestamps', 'Show full screen', 'Download log archive', 'View raw logs'. The footer of the page displays GitHub's standard footer with links to Terms, Privacy, Security, and more."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T11:04:59Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications. Displays the system tray with network, sound, and battery status icons, as well as the date and time '13:06 2024/06/12'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Notepad",
+                        "windows": [
+                            {
+                                "title": "(0, ci1, CICD_CONSUMER_KEY_CI1).txt",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Format, View, Help. Scroll bars on the right and bottom."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Text Content",
+                                        "layoutDescription": "Text file open in Notepad",
+                                        "visibleText": "{\"createdDate\": \"2024-06-12T08:49:32.000Z\",\n\"fileName\": \"zip/reports/prog_internal_portal_login_crt.repo 4151705\",\n\"problem\": \"In field, fieldId = no CustomField named NetworkMember-User.ExternalUserRoleField_c found\",\n\"problemType\": \"Error\",\n\n\"changed\": false,\n\"createdDate\": \"2024-06-12T08:52:08.000Z\",\n\"componentType\": \"WorkflowAlert\",\n\"fileName\": \"zip/workflows/OpportunityWorkflow\",\n\"fileId\": \"4151705\",\n\"problem\": \"In field, template = no EmailTemplate named unfiled$public/Reject_Candidate_Job_Recommendation found\",\n\"problemType\": \"Error\",\n\n\"changed\": false,\n\"createdDate\": \"2024-06-12T08:52:57.000Z\",\n\"componentType\": \"Flow\",\n\"fileName\": \"zip/flows/ProcessCandidateRejectionStage.flow 4151705\",\n\"problem\": \"In field, action = We can't find an action with the name and action type that you specified.\",\n\"problemType\": \"Error\",\n\n\"changed\": false,\n\"createdDate\": \"2024-06-12T08:53:57.000Z\",\n\"componentType\": \"Flow\",\n\"fileName\": \"zip/flows/ProcessCandidateRejectionStageDelayed 4151705\",\n\"problem\": \"In field, action = We can't find an action with the name and action type that you specified.\",\n\"problemType\": \"Error\",\n\n\"success\": false\n"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Sync Master To Staging #862",
+                                "url": "https://github.com/trilogy-group/xp-hiring",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar, tabs, navigation buttons, and profile icon. Search logs, show timestamps, show full screen, download log archive, view raw logs options in the top right corner."
+                                },
+                                "content": [
+                                    {
+                                        "title": "GitHub Actions Page",
+                                        "layoutDescription": "Web page displayed in browser",
+                                        "visibleText": "trilogy-group / xp-hiring\n\nCode\nIssues\nPull requests\nActions\nProjects\nWiki\nSecurity\nInsights\nSync Master To Staging\n\n#862\n\nSummary\nJobs\ndeploy\ndeploy- (0, ci1, CICD_CONSUMER_KEY_CI1)\ndeploy-to-agents (1, ci2, CICD_CONSUMER_KEY_CI2)\n...\ndeploy-to-agents (19, ci20, CICD_CONSUMER_KEY_CI20)\n\nRun details\nUsage\nWorkflow file"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T11:07:38Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for various applications and system utilities",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Lightning Experience | Salesforce",
+                                "url": "https://crossover.lightning.force.com",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Address bar, tabs, bookmarks bar, navigation buttons, and extension icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Lightning Experience | Salesforce",
+                                        "layoutDescription": "Web browser interface",
+                                        "visibleText": "The page appears to be loading or blank, with no visible content beyond the standard interface elements of the browser."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in reviewing code on GitHub. The GitHub repository page for 'trilogy-group/x-hiring' is open, displaying a specific action run. The user is examining the logs of a job named 'Sync Master To Staging #862'. The page includes navigation tabs such as Code, Issues, Pull requests, Actions, Projects, Wiki, Security, Insights, and Settings. The main content area shows a list of jobs with names like 'deploy', 'deploy-to-ci-agents', and their respective statuses. The sidebar on the right includes options to 'Re-run jobs', 'Show timestamps', 'Show full screen', 'Download log archive', and 'View raw logs'.",
+        "The user is also working with Notepad, where they are viewing and possibly editing a text file named '(0, ci1, CICD_CONSUMER_KEY_CI1).txt'. The content of the file includes JSON data with details about various errors and issues encountered in different workflows and processes. The user is likely analyzing these errors to identify and resolve issues in the deployment process. The Notepad window is maximized and positioned on the left side of the screen, indicating that the user is focusing on this task.",
+        "The user is accessing Salesforce via the Chrome browser, specifically the 'Lightning Experience' interface. The page appears to be loading or blank, with no visible content beyond the standard interface elements of the browser. This suggests that the user might be waiting for the page to load or is in the process of navigating to a specific section within Salesforce. The Salesforce interface is used for managing various aspects of the user's work, such as job board analytics, candidate management, and application steps."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in reviewing code on GitHub, analyzing error logs in Notepad, and navigating Salesforce. There are no visible AI chat interfaces or AI-generated suggestions in the screenshots. Therefore, it can be concluded that the user did not utilize any AI tools during the captured timeframe.",
+    "activities": [
+        "REVIEWING_CODE",
+        "READING_SPEC"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [
+        "SALESFORCE"
+    ],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "REVIEWING_CODE",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T11:00:01Z",
+            "windowTitle": "1_deploy-to-ci-agents (0, ci1, CICD_CONSUMER_KEY_CI1).txt - Notepad",
+            "processName": "notepad",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T11:01:01Z",
+            "windowTitle": "1_deploy-to-ci-agents (0, ci1, CICD_CONSUMER_KEY_CI1).txt - Notepad",
+            "processName": "notepad",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T11:02:01Z",
+            "windowTitle": "1_deploy-to-ci-agents (0, ci1, CICD_CONSUMER_KEY_CI1).txt - Notepad",
+            "processName": "notepad",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T11:03:01Z",
+            "windowTitle": "1_deploy-to-ci-agents (0, ci1, CICD_CONSUMER_KEY_CI1).txt - Notepad",
+            "processName": "notepad",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T11:04:01Z",
+            "windowTitle": "1_deploy-to-ci-agents (0, ci1, CICD_CONSUMER_KEY_CI1).txt - Notepad",
+            "processName": "notepad",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T11:05:01Z",
+            "windowTitle": "1_deploy-to-ci-agents (0, ci1, CICD_CONSUMER_KEY_CI1).txt - Notepad",
+            "processName": "notepad",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T11:06:01Z",
+            "windowTitle": "1_deploy-to-ci-agents (0, ci1, CICD_CONSUMER_KEY_CI1).txt - Notepad",
+            "processName": "notepad",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-12T11:07:01Z",
+            "windowTitle": "Sync Master To Staging ? trilogy-group/xo-hiring@74834f4 - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring/actions/runs/9474836331/job/26105162518#step:10:49322",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 18,
+            "date": "2024-06-12T11:08:01Z",
+            "windowTitle": "[LAMBDA-76038] Improve Salesforce deployment process - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-76038",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 26,
+            "date": "2024-06-12T11:09:01Z",
+            "windowTitle": "Home | Salesforce - Google Chrome",
+            "processName": "crossover.lightning.force.com",
+            "visitingUrl": "crossover.lightning.force.com/lightning/setup/null/page?address=%2F_ui%2Fcommon%2Fconfig%2Ffield%2FStandardFieldAttributes%2Fe%3Fid%3D00NIj000000JYti%26type%3D01I2j000000L2v1%26retURL%3D%252F00NIj000000JYti%253F%253Dnull%2526entityId%253D01I2j000000L2v1%2",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-12T11:00:00Z"
+}

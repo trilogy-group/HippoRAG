@@ -1,0 +1,325 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "mail.google.com",
+    "us-east-1.quicksight.aws.amazon.com",
+    "EXCEL",
+    "docs.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T20:51:13Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, Edge, File Explorer, Mail, Chat, Meet, and several other unidentified applications. System tray includes notifications, sound, network, and battery status icons, as well as the date and time display '11:51 PM 6/5/2024'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Edge",
+            "windows": [
+              {
+                "title": "XOH Sourcing Dashboard / Original dashboard (Modified)",
+                "url": "https://us-east-1.quicksight.amazon.com",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, profile icon, and more"
+                },
+                "content": [
+                  {
+                    "title": "LinkedIn Historical Data",
+                    "layoutDescription": "Data table layout",
+                    "visibleText": "Performance since 2023.01.01 by Domain/Rate\nPlatform Cost # Applications CpA\nbusiness_operations $235,981.50 1,133,305 $0.21\neducation $568,558.50 987,846 $0.58\nengineering $1,014,778.50 1,901,822 $0.53\n... (continues similarly for other domains)\nPerformance since 2023.01.01 by Country/Domain/Rate\nPlatform Cost # Applications CpA\nnull $387.00 1,128 $0.34\nAfghanistan $184.50 447 $0.41\n... (continues similarly for other countries)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Excel",
+            "windows": [
+              {
+                "title": "Book1 - Excel",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "tabs for File, Home, Insert, Page Layout, Formulas, Data, Review, Help, and more"
+                },
+                "content": [
+                  {
+                    "title": "Sheet1",
+                    "layoutDescription": "standard layout",
+                    "visibleText": "A4 B4 C4 D4 E4 F4 G4 H4\n78,133 38,439 146,693 56,468 30 $ 1.22 $ 2.49\n88,786 224,826 94,907 50 $ 3.30 $ 8.58\n... (continues similarly for other rows)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Microsoft Teams",
+            "windows": [
+              {
+                "title": "Team Meeting",
+                "position": "center of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "participant list, chat, and more"
+                },
+                "videoConference": {
+                  "participants": [
+                    {
+                      "name": "John Doe",
+                      "expression": "focused"
+                    },
+                    {
+                      "name": "Jane Smith",
+                      "expression": "smiling"
+                    }
+                  ]
+                },
+                "content": [
+                  {
+                    "title": "Meeting Notes",
+                    "layoutDescription": "notes layout",
+                    "visibleText": "Meeting started at 10:00 AM\nDiscussion on project updates and next steps\nJohn: Emphasized the importance of timely submissions\nJane: Suggested weekly check-ins to ensure progress\n... (continues similarly for other notes)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T20:53:56Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, search, task view, widgets, and several pinned applications. System tray includes network, sound, and battery status icons, as well as the date and time display.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "LinkedIn Renewal 2024 - Google Sheets",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "multiple tabs, address bar, bookmarks bar, Google Sheets toolbar, and sheet tabs"
+                },
+                "content": [
+                  {
+                    "title": "LinkedIn Renewal 2024",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "H7\nA B C D E F G H I J K\n1 cost bq fgtaker bq fgtasser Hourly rate Cost per applic Cost per qualified applicant\n2 30 95,636 78,133 38,439 $30 $1.22 $2.49\n3 50 484,650 146,693 56,468 $50 $3.30 $8.58\n4 100 305,981 64,890 27,478 $100 $4.72 $11.14\n5 886,266 289,716 122,385 blended $3.06 $7.24\n6 30 1.2 2.5\n7 50 2.1\n8 100 3.5\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T20:59:37Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Google Chrome, Microsoft Edge, File Explorer, installed apps, system tray with clock showing '11:59 PM', date '6/5/2024', and language indicator 'ENG'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "LI Stats (by country, 2023+) - Google Sheets - Google Chrome",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, Google account icon, notifications bell, Google apps grid icon, profile icon, minimize, maximize, close buttons"
+                },
+                "content": [
+                  {
+                    "title": "LI Stats (by country, 2023+)",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "AB2:AC3 $1.29\n1 W 128\n2 2.527822759\n3 18.79486362\n4 27527.71094\n5 engineering Total 100\n6 business_operations 15\n7 2.49097068\n8 18.84915531\n9 94862.57544\n10 business_operations Total 100\n11 education 15\n12 3.32 $6.35 $18.71 79491\n13 50 $6.35 $7.16 462146\n14 100 $3.16 $10.96 819399\n15 education Total 100\n16 sales 15\n17 3.32 $6.35 $18.71 79491\n18 50 $6.35 $7.16 462146\n19 100 $3.16 $10.96 819399\n20 sales Total 100\n21 marketing 30\n22 3.32 $6.35 $18.71 79491\n23 50 $6.35 $7.16 462146\n24 100 $3.16 $10.96 819399\n25 marketing Total 100\n26 services 15\n27 3.32 $6.35 $18.71 79491\n28 50 $6.35 $7.16 462146\n29 100 $3.16 $10.96 819399\n30 services Total 100\n31 finance 15\n32 3.32 $6.35 $18.71 79491\n33 50 $6.35 $7.16 462146\n34 100 $3.16 $10.96 819399\n35 finance Total 100"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in analyzing and manipulating data across multiple platforms. In the first screenshot, the user is working with Amazon QuickSight and Microsoft Excel. The QuickSight dashboard titled 'XOH Sourcing Dashboard' displays performance data since 2023.01.01 by Domain/Rate and Country/Domain/Rate. The user is likely comparing this data with the Excel sheet on the right, which contains cost per applicant and cost per qualified applicant metrics.",
+    "In the second screenshot, the user is working on a Google Sheets document titled 'LinkedIn Renewal 2024'. The spreadsheet contains data on costs, bq taker, bq passer, hourly rate, cost per applicant, and cost per qualified applicant. The user is likely updating or analyzing this data, as indicated by the active cell H7, which shows a formula being edited.",
+    "The third screenshot shows another Google Sheets document titled 'LI Stats (by country, 2023+)'. The user is working with a pivot table editor, manipulating data related to various domains such as engineering, business operations, education, sales, marketing, services, and finance. The user is likely calculating and analyzing costs and other metrics for these domains, as indicated by the visible calculated fields and formulas."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in data analysis and manipulation using Amazon QuickSight, Microsoft Excel, and Google Sheets. No AI chat interfaces or AI-generated suggestions are visible in the screenshots.",
+  "activities": [
+    "READING_SPEC",
+    "WRITING_SPEC",
+    "EMAIL"
+  ],
+  "workTypes": [
+    "DB"
+  ],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "READING_SPEC",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 123,
+      "mouse": 20,
+      "date": "2024-06-05T20:50:02Z",
+      "windowTitle": "DevFactory Mail - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/tZCr5EAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 274,
+      "mouse": 4,
+      "date": "2024-06-05T20:51:02Z",
+      "windowTitle": "XOH Sourcing Dashboard - Google Chrome",
+      "processName": "us-east-1.quicksight.aws.amazon.com",
+      "visitingUrl": "us-east-1.quicksight.aws.amazon.com/sn/dashboards/d9ba4195-0006-4d5f-a3be-f204693ecd18/sheets/d9ba4195-0006-4d5f-a3be-f204693ecd18_5fd35535-1e64-4f23-913c-6506a537e519",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 77,
+      "mouse": 26,
+      "date": "2024-06-05T20:52:02Z",
+      "windowTitle": "Book1 - Excel",
+      "processName": "EXCEL",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 110,
+      "mouse": 17,
+      "date": "2024-06-05T20:53:02Z",
+      "windowTitle": "Heather Lother messaged you - Chat - Google Chrome",
+      "processName": "mail.google.com",
+      "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/tZCr5EAAAAE",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 52,
+      "mouse": 5,
+      "date": "2024-06-05T20:54:02Z",
+      "windowTitle": "LinkedIn Renewal 2024 - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/15qbfVhYejRHmlMaKG7zsT1iAlYOGAmJb-Ucu7JeqLaw/edit#gid=535428553",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 83,
+      "mouse": 18,
+      "date": "2024-06-05T20:55:02Z",
+      "windowTitle": "LinkedIn Renewal 2024 - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/15qbfVhYejRHmlMaKG7zsT1iAlYOGAmJb-Ucu7JeqLaw/edit#gid=535428553",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 21,
+      "mouse": 28,
+      "date": "2024-06-05T20:56:02Z",
+      "windowTitle": "LI Stats (by country, 2023+) - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1MfuCry1DanasaHdki-l4O8BUmaBPd4hzsIjM_OeorwE/edit#gid=204551025",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 23,
+      "mouse": 20,
+      "date": "2024-06-05T20:57:02Z",
+      "windowTitle": "LI Stats (by country, 2023+) - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1MfuCry1DanasaHdki-l4O8BUmaBPd4hzsIjM_OeorwE/edit#gid=204551025",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 54,
+      "mouse": 33,
+      "date": "2024-06-05T20:58:02Z",
+      "windowTitle": "LI Stats (by country, 2023+) - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1MfuCry1DanasaHdki-l4O8BUmaBPd4hzsIjM_OeorwE/edit#gid=204551025",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 19,
+      "date": "2024-06-05T20:59:02Z",
+      "windowTitle": "LI Stats (by country, 2023+) - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/1MfuCry1DanasaHdki-l4O8BUmaBPd4hzsIjM_OeorwE/edit#gid=204551025",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T20:50:00Z"
+}

@@ -1,0 +1,195 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T15:03:32Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Chrome, File Explorer, Microsoft Teams, Visual Studio Code, and other unidentified applications. System clock shows '09:03 AM'. Date displayed is '12 Jun 2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "WS.Eng AI Adoption - Chat - Google Chrome",
+                                "url": "mail.google.com/mail/u/0/#chat/spa",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, navigation buttons, profile icon, and extensions visible"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Gmail Chat",
+                                        "layoutDescription": "Chat interface with multiple messages",
+                                        "visibleText": "Phil, Bogdan, Simon, Shawn\n5 members\nIf this month is 12 days in 1K $; so for the whole month is $23K\nSimon Said 28 min\nah you're right - my bad was looking at the RDS column!\nit seems like quite a lot\nSimon Said 2 min\nyep, keep in mind there's a lot of background stuff going on e.g. for alpha (processing all real-time data we collect from their machines), generating content, etc. Since it's all in a single AWS account (and, DB - which is the major cost driver) breaking them down by product is not trivial. We could work on this next quarter if needed, at some point it's definitely worth taking a look at low hanging fruit too.\nSimon Said Now\nAs I mentioned doing the breakdown is non trivial - I don't know the % of DB usage for content gen vs alpha for example. DB CPU usage is the primary cost driver, not storage"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in a chat conversation on Gmail with team members Phil, Bogdan, Simon, and Shawn. The discussion revolves around the cost breakdown of a project, specifically focusing on the database (DB) usage and its cost implications. Simon mentions that breaking down the costs by product is not trivial and suggests that this task could be tackled in the next quarter. The conversation also touches on the primary cost drivers, which include DB CPU usage rather than storage.",
+        "The user is also managing tasks using the task management sidebar in Gmail. The tasks listed include various activities such as 'Tablet for Phil's son,' 'Q2 progress / Q3 plan,' 'Samy 1:1 topics,' 'User submitted video,' 'Play test,' 'Enter grade (support US grades only),' 'Post TeachTap content on TikTok,' 'Follow up with Doreen about beta program and research study,' 'Publish game for Xbox / Playstation / Apple vision pro,' and '$299 per grade level.' These tasks indicate a mix of personal, project management, and content creation activities."
+    ],
+    "aiUseSummary": "",
+    "activities": [
+        "CHATTING_WITH_TEAM",
+        "EMAIL"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "CHATTING_WITH_TEAM",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 132,
+            "mouse": 10,
+            "date": "2024-06-12T15:00:45Z",
+            "windowTitle": "Teachers Aren't Your Customer Support Representatives - isaac.squires@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxFHxGFkhflQspvkxRGLDnfj",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 306,
+            "mouse": 2,
+            "date": "2024-06-12T15:01:45Z",
+            "windowTitle": "AI Assist on WorkSmart - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 23,
+            "mouse": 0,
+            "date": "2024-06-12T15:02:45Z",
+            "windowTitle": "WS.Eng AI Adoption - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T15:03:45Z",
+            "windowTitle": "AI Assist on WorkSmart - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 86,
+            "mouse": 3,
+            "date": "2024-06-12T15:04:45Z",
+            "windowTitle": "WS.Eng AI Adoption - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/space/AAAAjjFXmgE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 316,
+            "mouse": 2,
+            "date": "2024-06-12T15:05:45Z",
+            "windowTitle": "AI Assist on WorkSmart - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/5vi3_UAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 173,
+            "mouse": 6,
+            "date": "2024-06-12T15:06:45Z",
+            "windowTitle": "WS.Eng AI Adoption - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 11,
+            "date": "2024-06-12T15:07:45Z",
+            "windowTitle": "AI Assist on WorkSmart - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCwqNZBphRbSrxQdNmBRCJG",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T15:08:45Z",
+            "windowTitle": "David Kube messaged you - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCwqNZBphRbSrxQdNmBRCJG",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T15:09:45Z",
+            "windowTitle": "Phil, Bogdan, Simon, Shawn - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwxCwqNZBphRbSrxQdNmBRCJG",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-12T15:00:00Z"
+}

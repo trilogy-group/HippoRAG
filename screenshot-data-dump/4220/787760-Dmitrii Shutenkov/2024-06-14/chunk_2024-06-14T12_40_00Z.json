@@ -1,0 +1,279 @@
+{
+  "candidateId": 1444536,
+  "apps": [
+    "Code",
+    "explorer",
+    "docs.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T12:42:17Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, File Explorer, Microsoft Edge, and system tray with notifications, sound, network, and battery status icons",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "test.py - tools - Visual Studio Code",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, Selection, View, Go, Run, Terminal tabs; Sidebar with Explorer, Search, Source Control, Run, Extensions icons; Status bar with Python environment, line and column indicator, problems count, feedback icon, output, debug console, terminal tabs"
+                },
+                "content": [
+                  {
+                    "title": "EXPLORER",
+                    "layoutDescription": "list",
+                    "visibleText": "OPEN EDITORS\n1 unsaved\nWelcome\ntest.py campaign-tracking\n8, U\ngsheets.py campaign-tracking\nconfig.json campaign-tracking\nsalesforce.py campaign-tracking\nTOOLS\ncampaign_tracking\n> __pycache__\nconfig.json\ncredentials.json\ngsheets U\n.gitattributes\nREADME.md"
+                  },
+                  {
+                    "title": "test.py",
+                    "layoutDescription": "editor",
+                    "visibleText": "def test2():\n sts_connection = SalesforceConnection(config['username'], config['password'], config['security_token'])\n res = sts_connection.get_applications(['GA', 'CCAT'])\n data = [[i for i in range(len(res)+1)]]\n sheet = client.open_by_key(sheet_id).sheet1\n data[0] = ['#', 'Account ID', 'Application ID', 'Campaign', 'Advertised Title', 'Date', 'Country', 'Outcome']\n i = 1\n for raw in res:\n data[i] = [i, raw['AccountId'], raw['Id'], raw['Lead_Source_Campaign_c'], raw['Advertised_Title_c'], raw['CampaignId'], raw['Campaign'], raw['Advertised_Title'], raw['Date'], raw['Country'], raw['Outcome']]\n sheet.update('A1', data)\n\ndef classifyApplication(application) -> str:\n if (application['Last_Active_Stage_c'] in postCCATstages): return 'CCAT pass';\n if (application['StageName'] == 'CCAT') return 'BFO pass';\n if (application['StageName'] == 'Rejected') return 'CCAT fail';\n if (application.Last_Active_Stage___c == 'BFO') {\n if (application.StageName == 'BFO') return 'Applied';\n if (application.StageName == 'Rejected') return 'BFO fail';\n }"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T12:44:27Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, File Explorer, Microsoft Edge, and other unidentified applications. Displays the time '13:44:29' and date '14/06/2024'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Visual Studio Code",
+            "windows": [
+              {
+                "title": "test.py - tools - Visual Studio Code",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "UI bar with options like File, Edit, Selection, View, Go, Run, Help. Sidebar with icons for Explorer, Search, Source Control, Run, Extensions, and more. Bottom bar showing Python environment and terminal output."
+                },
+                "content": [
+                  {
+                    "title": "test.py",
+                    "layoutDescription": "editor open with multiple tabs",
+                    "visibleText": "def test2():\n with open('config.json') as f:\n config = json.load(f)\n print(config)\n credentials = config['gsheet_credentials']\n sheet_id = config['campaigns'][0]['sheet_id']\n client = authenticate_gspread(config['gsheet_credentials'])\n sf_connection = SalesforceConnection(config['username'], config['password'], config['security_token'])\n res = sf_connection.get_applications(['GA-Cat.%'])\n data = []\n for i in range(len(res)+1):\n sheet = client.open_by_key(sheet_id).sheet1\n data[0] = ['#', 'Account ID', 'Application ID', 'Campaign', 'Advertised Title', 'Date', 'Country', 'Outcome']\n i = 1\n for raw in res:\n data[i] = [i, raw['AccountID'], raw['Id'], raw['Lead_Source_Campaign_c'], raw['Advertised_Title_c'], raw['Date'], raw['Country'], raw['Outcome']]\n sheet.update('A1', data)\n\ndef classifyApplication(application) -> str:\n if (application['Last_Active_Stage_c'] in postCCATStages): return 'CCAT pass';"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T12:47:21Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Search, Chrome, Antivirus, LAN settings, Python IDE, My Tasks, App Store, Browser, Windows Terminal, Home, Notifications. System clock shows 13:47:24 on 14/06/2024. Battery indicator shows full charge.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Google Ads - Direct - New - Google Sheets - Google Chrome",
+                "url": "https://docs.google.com/spreadsheets",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Menu bar with File, Edit, View, Insert, Format, Data, Tools, Extensions, Help. Toolbar with undo, redo, print, zoom controls, formula bar, cell format options, and other spreadsheet tools."
+                },
+                "content": [
+                  {
+                    "title": "Google Ads - Direct - New",
+                    "layoutDescription": "Spreadsheet layout",
+                    "visibleText": "# Account ID Application ID Campaign Advertised Title Date Country Outcome Stage Last Active 1 001jj000003QHA1IAO 006jj000002xNMvIAM GA-Cat.AI.SWDE.India.pmaxINDIA AI-First CEO 2024-06-14 in Applied BFQ BFQ 2 001jj000003GZLIAO 006jj000002vRPFlAY GA-Cat.AI.SWDE.pmaxAFRICA Guide 2024-06-03 ke BFQ fail Rejected BFQ 3 001jj000003GrAJIAS 006jj000002vPQlAY GA-Cat.AI.SWDE.pmaxAFRICA AI-First Service Delivery Mar 2024-06-03 ke Applied BFQ BFQ 4 001jj000003HNMlAAO 006jj000002vMxlAY GA-Cat.AI.SWDE.pmaxAFRICA AI-First Full-Stack Developer 2024-06-04 ke Applied BFQ BFQ 5 001jj000003HcGSlASK 006jj000002vMxlAY GA-Cat.AI.SWDE.pmaxAFRICA SVP of SaaS Operations 2024-06-04 ke BFQ pass CCAT CCAT 6 001jj000003HcN8IAK 006jj000002wBAJlA2 GA-Cat.AI.SWDE.pmaxAFRICA AI-First Front-End Developer 2024-06-06 ke CCAT fail Rejected CCAT 7 001jj000003HT0OlAK 006jj000002wMM3lAM GA-Cat.AI.SWDE.pmaxAFRICA AI-Augmented Full-Stack Pri 2024-06-07 ke Applied BFQ BFQ 8 001jj000003JYuIAO 006jj000002wMmJlAM GA-Cat.AI.SWDE.India.pmaxINDIA AI-First Full-Stack Developer 2024-06-10 in Applied BFQ BFQ 9 001jj000003FAzClAW 006jj000002wk8PlAQ GA-Cat.AI.SWDE.India.pmaxINDIA AI-Augmented Full-Stack Pri 2024-06-10 in Applied BFQ BFQ 10 001jj000003Ul2mIAG 006jj000002wIjfIAA GA-Cat.AI.SWDE.pmaxPAKI AI-Augmented Full-Stack Pri 2024-06-10 pk Applied BFQ BFQ 11 001jj000003UlAtIAG 006jj000002wmOuIAI GA-Cat.AI.SWDE.pmaxPAKI AI-Augmented Full-Stack Pri 2024-06-10 pk Applied BFQ BFQ 12 001jj000003UlLlIAW 006jj000002wIuVlAQ GA-Cat.AI.SWDE.pmaxPAKI AI-Augmented Full-Stack Pri 2024-06-10 pk Applied BFQ BFQ 13 001jj000003Ul5xIAW 006jj000002wRmXlAY GA-Cat.AI.SWDE.pmaxPAKI AI-First Full-Stack Developer 2024-06-10 pk BFQ fail Rejected BFQ 14 001jj000003Ul3hIAG 006jj000002wmFhIAl GA-Cat.AI.SWDE.pmaxPAKI AI-Augmented Full-Stack Pri 2024-06-10 pk BFQ pass CCAT CCAT 15 001jj000003Vl5rIAG 006jj000002wmbkIAQ GA-Cat.AI.SWDE.pmaxPAKI AI-First Full-Stack Developer 2024-06-10 pk Applied BFQ BFQ 16 001jj000003Vl6vIAG 006jj000002wm2kmIAQ GA-Cat.AI.SWDE.pmaxPAKI AI-First Full-Stack Developer 2024-06-10 pk Applied BFQ BFQ 17 001jj000003VlB6IAO 006jj000002wmeOlAQ GA-Cat.AI.SWDE.pmaxPAKI AI-Augmented Full-Stack Pri 2024-06-10 pk Applied BFQ BFQ 18 001jj000003VlHFl4AG 006jj000002wmskIAA GA-Cat.AI.SWDE.pmaxPAKI AI-Augmented Full-Stack Pri 2024-06-10 pk BFQ fail Rejected BFQ 19 001jj000003VlH8lAG 006jj000002wn0tlAA GA-Cat.AI.SWDE.pmaxPAKI AI-First Managed Services A 2024-06-10 pk BFQ pass CCAT CCAT"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in writing code using Visual Studio Code. They have multiple files open, including 'test.py', 'gsheets.py', 'config.json', and 'salesforce.py'. The code in 'test.py' involves connecting to Salesforce, retrieving application data, and updating a Google Sheet with this data. The user is also defining a function to classify applications based on their stages. This indicates a focus on backend development, particularly involving data integration and processing.",
+    "The user is also working with Google Sheets, as evidenced by the open spreadsheet titled 'Google Ads - Direct - New'. The spreadsheet contains data related to various applications, including account IDs, application IDs, campaigns, advertised titles, dates, countries, outcomes, stages, and last active stages. This suggests that the user is cross-referencing or updating data between their code and the spreadsheet, likely as part of a data processing or reporting task.",
+    "Throughout the session, the user is primarily focused on backend development tasks. They are writing and testing Python code that interacts with Salesforce and Google Sheets. The code includes functions for authenticating with Google Sheets, retrieving data from Salesforce, and updating the Google Sheet with the retrieved data. The user is also implementing logic to classify applications based on their stages, indicating a detailed and methodical approach to data processing and integration."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily focused on writing and testing code in Visual Studio Code and working with data in Google Sheets. There are no visible AI chat interfaces or AI-generated code suggestions in the screenshots. The user's workflow appears to be manual, relying on their coding skills and knowledge to accomplish the tasks at hand.",
+  "activities": [
+    "WRITING_CODE",
+    "READING_SPEC"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "DB"
+  ],
+  "programmingLanguages": [
+    "PYTHON",
+    "SALESFORCE"
+  ],
+  "toolTypes": [
+    "IDE",
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "WRITING_CODE",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 19,
+      "mouse": 7,
+      "date": "2024-06-14T12:40:24Z",
+      "windowTitle": "? test.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 29,
+      "mouse": 10,
+      "date": "2024-06-14T12:41:24Z",
+      "windowTitle": "? test.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 23,
+      "mouse": 9,
+      "date": "2024-06-14T12:42:24Z",
+      "windowTitle": "? test.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 23,
+      "mouse": 16,
+      "date": "2024-06-14T12:43:24Z",
+      "windowTitle": "? test.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 49,
+      "mouse": 11,
+      "date": "2024-06-14T12:44:24Z",
+      "windowTitle": "? test.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 15,
+      "mouse": 7,
+      "date": "2024-06-14T12:45:24Z",
+      "windowTitle": "",
+      "processName": "explorer",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 4,
+      "mouse": 8,
+      "date": "2024-06-14T12:46:24Z",
+      "windowTitle": "campaign.ts - master-assistant - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 8,
+      "mouse": 4,
+      "date": "2024-06-14T12:47:24Z",
+      "windowTitle": "Google Ads - Direct - New - Google Sheets - Google Chrome",
+      "processName": "docs.google.com",
+      "visitingUrl": "docs.google.com/spreadsheets/d/18fm1zh67mZKrw0r5BfvZHLg-YezCtHgo5rkqWk9TBEY/edit#gid=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 13,
+      "mouse": 13,
+      "date": "2024-06-14T12:48:24Z",
+      "windowTitle": "test.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 9,
+      "mouse": 2,
+      "date": "2024-06-14T12:49:24Z",
+      "windowTitle": "? test.py - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-14T12:40:00Z"
+}

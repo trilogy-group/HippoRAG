@@ -1,0 +1,239 @@
+{
+    "candidateId": 1444536,
+    "apps": [
+        "explorer",
+        ""
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-15T13:40:21Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, widgets, and pinned applications. Displays system tray with clock, language, and notifications icon. Notification area shows 'ENG' language indicator and a clock displaying '14:40:21' on '15/06/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "WS Lambda - Atlassian Jira",
+                                "url": "https://ws-lambda.atlassian.net/browse",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, Jira sidebar, Jira top menu"
+                                },
+                                "content": [
+                                    {
+                                        "title": "WS Lambda",
+                                        "layoutDescription": "Jira project interface",
+                                        "visibleText": "WS Lambda\nService project\nQueues\nRaise a request\nScheduled Issues\nScriptRunner Enhanced Search\nKnowledge base\nReports\nChannels\nYou're in a company-managed project\nSearch\nSign-up without applying for a specific job\nCreate subtask\nLink issue\nCreate\nMy Forge App\nDefault\nOutputs\nAI\nReview\nLambda Service\nOutput\nEngineering Plan: https://docs.google.com/document/d/1MDOClsF-L1n91 modification: https://crossover--fullshared.sandbox.lightning.f internal note\nReply to customer\nPro tip: press M to comment"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-15T13:44:03Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, widgets, File Explorer, Microsoft Edge, and system tray including network, sound, battery, and clock. Clock shows 14:44:04, date 15/06/2024.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "ws-lambda.atlassian.net",
+                                "url": "https://ws-lambda.atlassian.net",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, Atlassian site header"
+                                },
+                                "content": [
+                                    {
+                                        "title": "WS Lambda - Service project",
+                                        "layoutDescription": "Left sidebar, main content area",
+                                        "visibleText": "WS Lambda\nService project\nQueues\nRaise a request\nScheduled Issues\nScriptRunner Enhanced Search\nKnowledge\nKnowledge base\nReports\nChannels\nYou're in a company-managed project\nSign-up without applying for a specific job\nCreate subtask\nLink issue\nCreate\nMy Forge App\nDefault\nOutputs\nAI\nReview\nLambda Service\nOutput\nEngineering Plan: https://docs.google.com/document/d/1MDOClsF-L1n91 modification: https://crossover--fullshared.sandbox.lightning.f internal note\nReply to customer\nPro tip: press M to comment"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-15T13:47:57Z",
+            "desktop": {
+                "uiElements": [],
+                "applications": []
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in a Jira project titled 'WS Lambda' on Atlassian. The main task being viewed is 'Sign-up without applying for a specific job'. The user is navigating through various sections of the Jira interface, including 'Queues', 'Raise a request', 'Scheduled Issues', and 'ScriptRunner Enhanced Search'. They are also viewing the 'Outputs' tab, which includes an engineering plan linked to a Google document and a flow modification link to a Salesforce platform.",
+        "The user is utilizing the Chrome browser, as indicated by the active application in the screenshots. The browser is maximized, and the user is focused on the Jira project interface. The taskbar shows various icons, including the Start menu, search, task view, widgets, and pinned applications. The system tray displays the 'ENG' language indicator and the clock showing '14:40:21' on '15/06/2024'.",
+        "The user is also seen managing automations within the Jira project. The dropdown menu under 'FROM AUTOMATION' lists several automation tasks such as 'WS.Eng - Compute AI LoC/Words', 'WS.Eng - DevEngine - Call', 'WS.Eng - DevEngine - Estimate', 'WS.Eng - Generate AI Journal', 'WS.Eng - Generate BE/FE Subtasks', and 'WS.Eng - Generate Estimation Sheet'. This indicates the user is involved in setting up or managing automated processes within the project.",
+        "The user is not seen interacting with any IDE, document viewer, or diagramming tools during this period. The focus remains on the Jira project and the associated tasks and automations. There is no evidence of email, chatting with team members, or meetings during this timeframe. The user's activities are centered around project management and task organization within the Jira interface."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being utilized in the user's workflow during the captured timeframe. The screenshots do not show any interactions with AI chat interfaces, code suggestions, or debugging tools. The user is primarily focused on managing tasks and automations within the Jira project interface.",
+    "activities": [
+        "READING_SPEC"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "READING_SPEC",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-15T13:40:41Z",
+            "windowTitle": "System tray overflow window.",
+            "processName": "explorer",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-15T13:41:41Z",
+            "windowTitle": "System tray overflow window.",
+            "processName": "explorer",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-15T13:42:41Z",
+            "windowTitle": "System tray overflow window.",
+            "processName": "explorer",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-15T13:43:41Z",
+            "windowTitle": "System tray overflow window.",
+            "processName": "explorer",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-15T13:44:41Z",
+            "windowTitle": "System tray overflow window.",
+            "processName": "explorer",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-15T13:45:41Z",
+            "windowTitle": "",
+            "processName": "",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-15T13:46:41Z",
+            "windowTitle": "",
+            "processName": "",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-15T13:47:41Z",
+            "windowTitle": "",
+            "processName": "",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-15T13:48:41Z",
+            "windowTitle": "",
+            "processName": "",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-15T13:49:41Z",
+            "windowTitle": "",
+            "processName": "",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-15T13:40:00Z"
+}

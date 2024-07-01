@@ -1,0 +1,277 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "colab.research.google.com",
+        "chrome",
+        "ws-lambda.atlassian.net",
+        "loom.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T08:20:45Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Google Chrome, File Explorer, and other unidentified applications. Displays the time as 10:20 AM and date as 06/12/2024. Also shows network status, sound volume, and battery level indicators.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Copy of Beginner Mind Coding Assessment.ipynb - Colab",
+                                "url": "https://colab.research.google.com/",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Runtime, Tools, Help tabs. Contains buttons for Share, Comment, RAM and Disk usage indicators."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Python code and data output",
+                                        "layoutDescription": "Text editor and output display",
+                                        "visibleText": "1. The temporary API key for giving access to Chapter 4 in Turbo 006: Widgets. 2. API_KEY = 'OPENAPI API KEY: Use one provided by your organization.' 3. completion = client.chat.completions.create( model='gpt-4', messages=[ {'user': 'user', 'content': 'Hello'} ] ) 4. print(completion.choices[0].message) 5. import gspread 6. import pandas as pd 7. # URL of the Google Sheet (make sure it's public) 8. sheet_url = 'https://docs.google.com/spreadsheets/d/14f5bFjZj 9. csv_export_url = sheet_url.replace('/edit#gid=', '/export?format=csv&gid=') 10. # Read the Google Sheet data into a DataFrame 11. df = pd.read_csv(csv_export_url) 12. # Display the DataFrame 13. print(df) 14. DataFrame output: product_id, retro_sunglasses, category, accessories, stock, 5, seasons, Spring, Summer. 15. Additional rows with product details and stock information."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T08:24:35Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and system tray with network, sound, and date/time indicators",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "[LAMBDA-75974] Support Job Recommendations in Reject emails release and iterate - WorkSmart Lambda - Google Chrome",
+                                "url": "ws-lambda.atlassian.net/browse/LAMBDA-75974",
+                                "position": "full screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Top bar with back, forward, refresh buttons, address bar, bookmarks bar, and profile icon. Right side has minimize, maximize, and close buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "WorkSmart Lambda",
+                                        "layoutDescription": "Two-column layout",
+                                        "visibleText": "Projects > WS Lambda / Add parent LAMBDA-75974\nWS Lambda\nService project\nQueues\nRaise a request\nScriptRunner Enhanced Search\nKnowledge\nKnowledge base\nReports\nDirectory\nChannels\nCustomers\nShow Open Tasks Filter\nGet New Task\nCustomer notification logs\nGive feedback\nTime between resume upload and rejection -12h.\n0017J20000BQ0CJ\nJune 10, 2024, 23:54:34 (UTC-03:00) - uploaded resume in S3\nTime rejected at 6/11/2024 11:54:34 AM\nTime between resume upload and rejection -6h.\n0011J00001JW5NAK\nResume last modified date - June 11, 2024, 14:36:12\napp 1 failed - 6/11/2024 11:34:12 AM\napp 2 canceled - 6/11/2024 11:35:12 AM\nCCAT failed app 3 - 6/11/2024 11:54 AM\nresume was updated after rejection\n0017J00003SUQLaQ\nNo resume in S3\n0012J00005MVHAm\nResume updated June 9, 2024, 11:18:19 (UTC-03:00)\nRejected at 6/11/2024 5:48 AM\nResume was uploaded on June 8, but has not appeared in opensearch till now (June 11).\nUpdates\nAdd job recommendation expiration (24h)\nIncrease job recommendation delay (5m)\nInclude components and metadata into SF sync process\nAdd contact pack for retargeting v2\nCode\nhttps://github.com/trlxggy/sp-job-hiring\nDemo Recording URL\nhttps://www.loom.com/share/1b182c0f8b1d4b4b4 Environment URL\nhttps://sp-demo.com\nAcceptance Recording URL\nNone\nTPO Time Saved by AI\nNone\nTPO AI Usage Outcome\nNone\nTPO AI Journal URL\nNone\nTPO AI - Reason for Not\nNone"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T08:28:48Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Settings, and hidden icons tray. System tray includes network, sound, battery, and clock (10:28 AM, 12/06/2024).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "[LAMBDA-75974] Support Job Recommendations in Reject emails release and iterate - WorkSmart Lambda - 12 June 2024",
+                                "url": "https://loom.com/share/d1626d0fbbdd4",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "4 tabs, address bar, bookmarks bar, navigation buttons, profile icon, extensions icons, and settings menu"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Support Job Recommendations in Reject emails release and iterate",
+                                        "layoutDescription": "Text and interactive elements",
+                                        "visibleText": "Denys Yefimenko - about 1 hour ago\n\nJob Recommendations have been released to production integrated into Candidate Reject flow. Keep track on the solution performance, identify and resolve gaps, issues and track statistics.\n\n* Found 30% of potential emails enriched with job recommendations are sent without recommendations due to missing record in OpenSearch. Investigate when that happens\n* First, investigate what is happening with these candidates. Are these all candidates who applied, took CAT right away and then failed on another badge? that is unlikely.\n* Some job recommendations take roughly 2 minutes to be created, close to the delay we have in SF, increasing it to 5 minutes\n* There are occasions where LFM fails to output proper json, investigate root cause\n* Currently we generate job recommendations and filter them down to maximum 3 considering interests/#recommendations initially\n* Improve tracking of the recommendations we send in emails, currently we do not know from the first glance what was sent, use #OpportunityDescriptionField for that\n* Job recommendations expiration (Update Apex class to recompute job recommendations when the recommendation is older than 24h)\n* Job recommendations and candidate badger from SF instead of other campaigns\n\nThis is valuable, but lower prio than drip campaigns"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in coding within Google Colab, as evidenced by the Python code visible in the notebook titled 'Copy of Beginner Mind Coding Assessment.ipynb'. The code includes importing libraries such as gspread and pandas, and reading data from a Google Sheet into a DataFrame. The user is also utilizing the OpenAI API to generate chat completions, indicating a focus on integrating AI capabilities into their project.",
+        "The user is reviewing a task on Jira, specifically the issue 'LAMBDA-75974' related to job recommendations in reject emails. The task details include various updates and issues related to job recommendations, such as delays in job recommendation creation and missing records in OpenSearch. The user is likely analyzing these details to understand the current state of the project and plan further actions.",
+        "The user is watching a Loom video related to the Jira task 'LAMBDA-75974'. The video provides a detailed analysis of the job recommendations issue, including potential causes and suggested improvements. This activity indicates that the user is gathering information and insights to address the issues mentioned in the Jira task effectively."
+    ],
+    "aiUseSummary": "The user is utilizing AI tools in their workflow, specifically the OpenAI API within Google Colab. The code snippet shows the user generating chat completions using the GPT-4 model, which suggests they are leveraging AI for natural language processing tasks. This integration of AI into their coding environment indicates a focus on enhancing their project's capabilities with AI-driven features.",
+    "activities": [
+        "WRITING_CODE",
+        "REVIEWING_CODE",
+        "RESEARCH"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [
+        "PYTHON"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "OPENAI_PLAYGROUND"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 77,
+            "mouse": 12,
+            "date": "2024-06-12T08:20:00Z",
+            "windowTitle": "Copy of Beginner Mind Coding Assessment.ipynb - Colab - Google Chrome",
+            "processName": "colab.research.google.com",
+            "visitingUrl": "colab.research.google.com/drive/1zeFWExUHqewwldrEd0o3GOI2f6AUYto6#scrollTo=shE97VzGwZ4v",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T08:21:00Z",
+            "windowTitle": "Copy of Beginner Mind Coding Assessment.ipynb - Colab - Google Chrome",
+            "processName": "colab.research.google.com",
+            "visitingUrl": "colab.research.google.com/drive/1zeFWExUHqewwldrEd0o3GOI2f6AUYto6#scrollTo=shE97VzGwZ4v",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 6,
+            "mouse": 9,
+            "date": "2024-06-12T08:22:00Z",
+            "windowTitle": "Copy of Beginner Mind Coding Assessment.ipynb - Colab - Google Chrome",
+            "processName": "colab.research.google.com",
+            "visitingUrl": "colab.research.google.com/drive/1zeFWExUHqewwldrEd0o3GOI2f6AUYto6#scrollTo=shE97VzGwZ4v",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 44,
+            "mouse": 5,
+            "date": "2024-06-12T08:23:00Z",
+            "windowTitle": "Google Chat - WS.Eng AI Adoption - Chat",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 4,
+            "mouse": 9,
+            "date": "2024-06-12T08:24:00Z",
+            "windowTitle": "[LAMBDA-75974] Support Job Recommendations in Reject emails release and iterate - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/browse/LAMBDA-75974",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 2,
+            "mouse": 16,
+            "date": "2024-06-12T08:25:00Z",
+            "windowTitle": "[LAMBDA-75974] Support Job Recommendations in Reject emails release and iterate - WorkSmart Lambda - 12 June 2024 - Google Chrome",
+            "processName": "loom.com",
+            "visitingUrl": "loom.com/share/d126b0df8bbd44d2b64861512c87e4a1?sid=5a31824d-eb91-4ef2-ba1f-29f016cab471",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T08:26:00Z",
+            "windowTitle": "[LAMBDA-75974] Support Job Recommendations in Reject emails release and iterate - WorkSmart Lambda - 12 June 2024 - Google Chrome",
+            "processName": "loom.com",
+            "visitingUrl": "loom.com/share/d126b0df8bbd44d2b64861512c87e4a1?sid=5a31824d-eb91-4ef2-ba1f-29f016cab471",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T08:27:00Z",
+            "windowTitle": "[LAMBDA-75974] Support Job Recommendations in Reject emails release and iterate - WorkSmart Lambda - 12 June 2024 - Google Chrome",
+            "processName": "loom.com",
+            "visitingUrl": "loom.com/share/d126b0df8bbd44d2b64861512c87e4a1?sid=5a31824d-eb91-4ef2-ba1f-29f016cab471",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T08:28:00Z",
+            "windowTitle": "[LAMBDA-75974] Support Job Recommendations in Reject emails release and iterate - WorkSmart Lambda - 12 June 2024 - Google Chrome",
+            "processName": "loom.com",
+            "visitingUrl": "loom.com/share/d126b0df8bbd44d2b64861512c87e4a1?sid=5a31824d-eb91-4ef2-ba1f-29f016cab471",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-12T08:29:00Z",
+            "windowTitle": "[LAMBDA-75974] Support Job Recommendations in Reject emails release and iterate - WorkSmart Lambda - 12 June 2024 - Google Chrome",
+            "processName": "loom.com",
+            "visitingUrl": "loom.com/share/d126b0df8bbd44d2b64861512c87e4a1?sid=5a31824d-eb91-4ef2-ba1f-29f016cab471",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-12T08:20:00Z"
+}

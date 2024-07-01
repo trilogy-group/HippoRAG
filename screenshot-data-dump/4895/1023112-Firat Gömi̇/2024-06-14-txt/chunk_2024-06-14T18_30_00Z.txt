@@ -1,0 +1,258 @@
+{
+    "candidateId": 2027577,
+    "apps": [
+        "mail.google.com",
+        "notion.so",
+        "docs.google.com",
+        "thrive.ignitetech.com",
+        "aws.prod.jivehosted.com",
+        "yamaha.jiveon.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T18:33:11Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for JiveLearn, AI, Crossover, Aura, Helper Tools, Jive, Specs - Google Chrome, Python: Automation, My Guides, Guide, CoPilot Guide, Google Chrome",
+                        "position": "top of the screen"
+                    },
+                    {
+                        "elementType": "system clock",
+                        "details": "Displays the date and time as Thu, Jun 13",
+                        "position": "top right corner"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "DevFactory Mail - Pinned - High memory usage - 2.6 GB - Google Chrome - Firat (trilogy.com)",
+                                "url": "https://mail.google.com/mail",
+                                "position": "center of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "menu bar, tabs, navigation buttons, profile icon, extension icons, and window controls"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Gmail",
+                                        "layoutDescription": "sidebar, main chat area, right sidebar",
+                                        "visibleText": "Gmail\nNew chat\nShortcuts\nHome\nMentions\nStarred\nDirect messages\nGeorge Dita\nLeonhard, Dan, Ben\nThibault-Birdl-Berto...\nRegina Nogueira\nThibaut, Jesse\nLeonhard Holz\nBen New\nThabet Abbas Burias\nSpaces\ntpm reboot\nCentral PMs team\nTSJ/Core SF Help\nthink-with-me_support\nJive - BU & TPM\nJive - Early Adoption\nBrowse spaces\nChat\nShared\nTasks\nDragos Nuta 2:57 PM\n@David Schwartz , can you share a demo of the tool that extracts 2nd brains from code with this group?\nDavid Schwartz 4:12 PM\nI'm afc - but code is here https://github.com/trilogy-group/applied-ai-agent are 4 main scripts:\n1. main.py - this generates ITDs from commits\n2. context_pack_gen/gitlab_code_analysis.py - this generates repo level READMEs\n3. context_pack_gen/summarize_itds.py - this summarizes ITDs\n4. context_pack_gen/summarize.py - this generates a top level summary\nDavid Schwartz 6:00 PM\nhere is an idea i had - curious to get feedback - https://www.notion.so/trilogy-enterprises/Navigat unread\nAdd reaction\nThanks!\nGot it, thanks\nI'll take a look\nHistory is on"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T18:36:07Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Jive, Crossover, Aura, Helper Tools, Jive - Specs, Google Docs, Python: Automating Boring Stuff, My Guides, Google, CoPilot Guide, and several unidentified icons",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Feature: Showing Pop-ups if CoPilot is on Standby Mode - Google Docs - Google Chrome - Firat (trilogy.com)",
+                                "url": "https://docs.google.com/document/d/1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help; Google account profile picture; Share button; Document status indicator (Saving...)"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Feature: Showing Pop-ups if CoPilot is on Standby Mode",
+                                        "layoutDescription": "Text document",
+                                        "visibleText": "Feature: Showing Pop-ups if CoPilot is on Standby Mode\n\nLet's change this and give them the AI tool designed specifically for improving the intranet experience.\n(How to Enable CoPilot) (Finding Answers with CoPilot)\n\nValue It Proposes / Problem It Solves\n\nAt the moment, users do see it, and they don't do anything. Some customers even joined the meeting with Hema just to understand what it is and how to enable it (Choice Hotels and ENT Special Partners). This will help us demon\n\nCustomer Testimonials from Calls that Support this"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T18:38:25Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Finder, Microsoft Edge, Mail, Calendar, Photos, iTunes, Maps, Messages, FaceTime, Contacts, Reminders, Notes, TV, Music, Podcasts, News, System Preferences, Adobe Creative Cloud, Terminal, and others. Also includes the system clock showing '18:38' and system status icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "JCA for Aurea (PROD) - AWS Installations - Part of group Jive - Google Chrome - Firat (trilogy.com)",
+                                "url": "https://aws.prod.jivehosted.com",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "address bar, bookmarks bar, multiple tabs, navigation buttons, profile icon, extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "AWS Installations",
+                                        "layoutDescription": "Table layout",
+                                        "visibleText": "Name Environment Release Creation Date Customer Data\nthebridge aws-us-east-1-infra-prod GA: 3008.3.1 (3008.3.1_75_31163e3 (GA), master) 12/08/21 10:15:13 AM henrique.cunha@trilogy.com\ninvivoretail-mms aws-us-east-1-infra-prod GA: 3008.3.1 (3008.3.1_75_31163e3 (GA), master) 11/30/21 11:05:29 AM henrique.cunha@trilogy.com\nspot aws-us-east-1-infra-prod GA: 3008.3.1 (3008.3.1_75_31163e3 (GA), master) 11/15/21 7:46:52 AM henrique.cunha@trilogy.com\naurea-rs aws-us-west-1-infra-prod GA: 3008.3.1 (3008.3.1_75_31163e3 (GA), master) 10/19/21 6:38:49 AM henrique.cunha@trilogy.com\nadvisorsexcel aws-us-east-1-infra-prod GA: 3008.3.1 (3008.3.1_75_31163e3 (GA), master) 10/12/21 9:04:17 AM henrique.cunha@trilogy.com\nmycwt-preview aws-us-east-1-infra-prod PREVIEW: 3008.3.2 (3008.3.2_182_370b55d (GA), master) 10/06/21 1:59:53 PM miguel.molina@trilogy.com\n..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in a chat on Gmail, specifically in a space named 'tpm reboot'. The conversation involves sharing a demo tool that extracts information from code. The user shares a GitHub link and describes four main scripts: main.py, context_pack_gen/gitlab_code_analysis.py, context_pack_gen/summarize_itds.py, and context_pack_gen/summarize.py. The user also shares a Notion link for feedback on navigating codebase complexity.",
+        "The user is working on a Google Docs document titled 'Feature: Showing Pop-ups if CoPilot is on Standby Mode'. The document discusses enabling CoPilot to improve the intranet experience. It includes sections on the value it proposes, the problem it solves, and customer testimonials. The user is actively editing the document, as indicated by the 'Saving...' status.",
+        "The user is managing AWS installations via a web interface on the AWS Jive Hosted platform. The interface displays a list of AWS installations with details such as name, environment, release, creation date, and customer data. The user is likely reviewing or managing these installations, as the interface is maximized and active."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in chatting, document editing, and managing AWS installations without any visible AI assistance.",
+    "activities": [
+        "EMAIL",
+        "CHATTING_WITH_TEAM",
+        "READING_SPEC",
+        "WRITING_SPEC"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "IAC"
+    ],
+    "programmingLanguages": [
+        "PYTHON"
+    ],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_SPEC",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 155,
+            "mouse": 10,
+            "date": "2024-06-14T18:32:56Z",
+            "windowTitle": " DevFactory Mail - Pinned - High memory usage - 2.6 GB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#chat/space/AAAAPc5Jjgw",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 117,
+            "mouse": 13,
+            "date": "2024-06-14T18:33:56Z",
+            "windowTitle": " Notepad - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "notion.so",
+            "visitingUrl": "https://www.notion.so/Notepad-3aa7dc9f34104e9fa6467b77b1ff8e3f#bb8874b54670467eb9f96dcbec52f456",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 6,
+            "date": "2024-06-14T18:34:56Z",
+            "windowTitle": " Notion \u00e2\u0080\u0093 The all-in-one workspace for your notes, tasks, wikis, and databases. - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "notion.so",
+            "visitingUrl": "https://www.notion.so/71b2464f02344557b7eb5888a0ce5218",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 34,
+            "mouse": 15,
+            "date": "2024-06-14T18:35:56Z",
+            "windowTitle": " Feature:Showing Pop-ups if CoPilot is on Standby Mode - Google Docs - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/document/d/1S5uBq9mMdMtyEMLfomuox85x3MA4JkBATbAmzVZCf3k/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 37,
+            "mouse": 12,
+            "date": "2024-06-14T18:36:56Z",
+            "windowTitle": " Release Notes for Jive Hosted and On-Premise (HOP) 9.8 | Thrive - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "thrive.ignitetech.com",
+            "visitingUrl": "https://thrive.ignitetech.com/docs/DOC-324335",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 5,
+            "mouse": 4,
+            "date": "2024-06-14T18:37:56Z",
+            "windowTitle": " JCA for Aurea (PROD) - AWS Installations - Part of group Jive - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "aws.prod.jivehosted.com",
+            "visitingUrl": "https://aws.prod.jivehosted.com/admin/jcx-installation-list.jspa",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 4,
+            "mouse": 9,
+            "date": "2024-06-14T18:38:56Z",
+            "windowTitle": " News | InfoHub - Part of group Jive - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "yamaha.jiveon.com",
+            "visitingUrl": "https://yamaha.jiveon.com/news?channel=news",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 16,
+            "mouse": 19,
+            "date": "2024-06-14T18:39:56Z",
+            "windowTitle": " Jive Cloud CoPilot - Outreach - Google Sheets - Part of group Jive CoPilot - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/spreadsheets/d/1-RRgVkDpEa_z6PnSiqqKllWiAWX2os3OAmuDttJ_oNA/edit?pli=1#gid=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T18:30:00Z"
+}

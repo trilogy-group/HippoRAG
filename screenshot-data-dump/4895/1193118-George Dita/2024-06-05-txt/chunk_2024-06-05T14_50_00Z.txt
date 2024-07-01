@@ -1,0 +1,357 @@
+{
+    "candidateId": 2368956,
+    "apps": [
+        "Google Chat",
+        "app.mixmax.com",
+        "calendly.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T14:52:31Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Microsoft Edge, File Explorer, Microsoft Store, Mail, Calendar, Photos, Settings, and several other unidentified applications. Also includes system tray with network, sound, and battery status icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Editing Call with George Dita - Product Manager Trilogy - Calendly",
+                                "url": "https://calendly.com/events/details",
+                                "position": "right half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, navigation buttons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Call with George Dita - Product Manager Trilogy",
+                                        "layoutDescription": "Web page layout",
+                                        "visibleText": "Event Details\nHost\nGeorge Dita\nHosts and guests\nGeorge Dita invited\nScheduling settings\nWednesday, 7th June 2023\n10:00 AM - 10:30 AM\nBooking page options\nAllow guests to see event, 4 questions\nCommunity conference\nCommunications\nNo reminders or confirmations\nSelect a Date & Time\nJune 2023\nSu Mo Tu We Th Fr Sa\n28 29 30 31 1 2 3\n4 5 6 7 8 9 10\n11 12 13 14 15 16 17\n18 19 20 21 22 23 24\n25 26 27 28 29 30 1\nTime Zone: Eastern European Time (EET)\nTranslation"
+                                    }
+                                ]
+                            },
+                            {
+                                "appName": "Microsoft Teams",
+                                "windows": [
+                                    {
+                                        "title": "PostBeyond Outreach - Feature Request",
+                                        "position": "left half of the screen",
+                                        "isActive": false,
+                                        "uiElements": {
+                                            "details": "interface with sidebar, chat window, top bar with search and profile options"
+                                        },
+                                        "content": [
+                                            {
+                                                "title": "PostBeyond Outreach - Feature Request",
+                                                "layoutDescription": "Chat layout",
+                                                "visibleText": "Hi George Dita,\nI have seen your work at PostBeyond and I am directly sharing that we have an idea on developing and enhancing our platform to be inclusive of more than features. Currently, we are yet to test and implement these features, and we would like to have your feedback.\nWith our team of tech developers, if you are interested and if it would be valuable to you, we at PostBeyond are working on right now.\nOne of the key areas we believe PostBeyond would excel in is just having a better roadmap for this feature.\nBest regards,\nDanny Stone\nProduct Manager, PostBeyond"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T14:54:42Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Notes, Reminders, Photo Booth, Maps, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash",
+                        "position": "bottom"
+                    },
+                    {
+                        "elementType": "dock",
+                        "details": "application bar with visible icons for Google Chrome, Microsoft Outlook, Slack, and a folder named 'Work'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Sequences \u2013 george.dita@trilogy.com - Google Chrome",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "search bar, bookmarks bar, multiple tabs, vertical scroll bar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Explorer",
+                                        "layoutDescription": "tiles layout",
+                                        "visibleText": "All Automation Sequences, Recently Updated, My Favorites, Shared With Me, Automation Hub, Explore"
+                                    },
+                                    {
+                                        "title": "Existing Issue for Autocomplete Autocorrect of Challenging Character Combinations Might Require Coding Update",
+                                        "layoutDescription": "Popup window",
+                                        "visibleText": "Existing Issue for Autocomplete Autocorrect of Challenging Character Combinations Might Require Coding Update. Potential solutions include updating the configuration panel and challenging regex based on specific cases."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Call with George Dita - Product Manager Trilogy",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "event details, scheduling settings, booking price option, communication settings"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Call with George Dita - Product Manager Trilogy",
+                                        "layoutDescription": "Event scheduling interface",
+                                        "visibleText": "Event Details, Host, Hosts and Invites, Registration, Scheduling settings, Booking price option, Communication, Community conference, Event customization, No reminders or notifications"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Excel",
+                        "windows": [
+                            {
+                                "title": "Add Responses to PsychSpeed Outreach - Feature Test",
+                                "position": "bottom half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "spreadsheet interface with rows and columns"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Add Responses to PsychSpeed Outreach - Feature Test",
+                                        "layoutDescription": "Spreadsheet layout",
+                                        "visibleText": "Email, First Name, Last Name, Source, johndoe@gmail.com, John, Doe, Email, janedoe@gmail.com, Jane, Doe, Email, chris@example.com, Chris, Example, Email, olivia@example.com, Olivia, Example, Email, michael@example.com, Michael, Example, Email, sarah@example.com, Sarah, Example, Email, thomas@example.com, Thomas, Example, Email"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T14:58:40Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Reminders, Notes, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Time Machine, and Trash. Also includes a Spotlight search icon and Notification Center icon.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Sequences \u2013 george.dita@trilogy.com - Google Chrome",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "search bar, tabs, bookmarks bar, vertical scroll bar, horizontal scroll bar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Explore",
+                                        "layoutDescription": "sidebar navigation",
+                                        "visibleText": "Explore\n- All Sequences\n- My Sequences\n- Shared with me\n- Recently viewed\n- Trash"
+                                    },
+                                    {
+                                        "title": "Existing Issue for Autocomplete Mention List of Challenge Creator When Challenges are Not Public",
+                                        "layoutDescription": "Main content area",
+                                        "visibleText": "Existing Issue for Autocomplete Mention List of Challenge Creator When Challenges are Not Public\n- Description: Our Challenge creation UI utilizes an autocomplete feature for selecting potential contributors, but challenges are not searchable by contributors unless they are public.\n- Add to Queue\n- Share Now"
+                                    },
+                                    {
+                                        "title": "Review & Personalize - PostEngaged Outreach - Feature Test",
+                                        "layoutDescription": "Main content area",
+                                        "visibleText": "Review & Personalize - PostEngaged Outreach - Feature Test\n- Description: Test the feature post-publication of content with its personalized outreach feature.\n- Submit to stakeholder approval\n- Upgrade to Beta"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Call with George Dita - Product Manager Trilogy",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "call interface with participant list, settings, and calendar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Call with George Dita - Product Manager Trilogy",
+                                        "layoutDescription": "Video call interface",
+                                        "visibleText": "Call with George Dita - Product Manager Trilogy\n- Event Details\n- Host\n- Guests and Invites\n- Registration\n- Scheduling settings\n- Booking price option\n- Communication\n- Community Conference\n- No reminders or notifications"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in managing and scheduling events using Calendly. The screenshots show the user editing an event titled 'Call with George Dita - Product Manager Trilogy'. The user is adjusting event details, scheduling settings, and booking page options. This indicates a focus on organizing and planning meetings, likely for project discussions or updates.",
+        "The user is also working on email outreach using Mixmax. The screenshots reveal the user composing an email for 'PostBeyond Outreach - Feature Test'. The email content suggests that the user is reaching out to potential testers or stakeholders to gather feedback on new features being developed. This activity involves drafting personalized messages and managing recipient lists.",
+        "Additionally, the user is managing recipient data in a spreadsheet format within Mixmax. The screenshots show the user adding and reviewing email addresses, first names, and last names of recipients. This task is crucial for ensuring accurate and targeted communication in their outreach efforts.",
+        "The user is utilizing Google Chat for team communication. Although the specific chat content is not visible in the screenshots, the presence of Google Chat indicates that the user is likely collaborating with team members, discussing project details, or coordinating tasks."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in scheduling, email outreach, and data management tasks without visible interaction with AI assistants or embedded AI chat interfaces.",
+    "activities": [
+        "EMAIL",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "EMAIL",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 148,
+            "mouse": 8,
+            "date": "2024-06-05T14:50:34Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 64,
+            "mouse": 3,
+            "date": "2024-06-05T14:51:34Z",
+            "windowTitle": " Sequences \u00ef\u00bf\u00bd george.dita@trilogy.com - Google Chrome\n",
+            "processName": "app.mixmax.com",
+            "visitingUrl": "https://app.mixmax.com/dashboard/sequences/v2/66607692157a869780bd7221/stages",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 130,
+            "mouse": 10,
+            "date": "2024-06-05T14:52:34Z",
+            "windowTitle": " Editing Call with George Dita - Product Manager Trilogy - Calendly - Google Chrome\n",
+            "processName": "calendly.com",
+            "visitingUrl": "https://calendly.com/event_types/170501121/edit?return_to=%2Fevent_types%2Fuser%2Fme",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 56,
+            "mouse": 17,
+            "date": "2024-06-05T14:53:34Z",
+            "windowTitle": " Sequences \u00ef\u00bf\u00bd george.dita@trilogy.com - Google Chrome\n",
+            "processName": "app.mixmax.com",
+            "visitingUrl": "https://app.mixmax.com/dashboard/sequences/v2/66607692157a869780bd7221/stages",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 15,
+            "mouse": 34,
+            "date": "2024-06-05T14:54:34Z",
+            "windowTitle": " Sequences \u00ef\u00bf\u00bd george.dita@trilogy.com - Google Chrome\n",
+            "processName": "app.mixmax.com",
+            "visitingUrl": "https://app.mixmax.com/dashboard/sequences/v2/66607692157a869780bd7221/report/summary",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 60,
+            "date": "2024-06-05T14:55:34Z",
+            "windowTitle": " Sequences \u00ef\u00bf\u00bd george.dita@trilogy.com - Google Chrome\n",
+            "processName": "app.mixmax.com",
+            "visitingUrl": "https://app.mixmax.com/dashboard/sequences/v2/66607692157a869780bd7221/report/summary",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 51,
+            "date": "2024-06-05T14:56:34Z",
+            "windowTitle": " Sequences \u00ef\u00bf\u00bd george.dita@trilogy.com - Google Chrome\n",
+            "processName": "app.mixmax.com",
+            "visitingUrl": "https://app.mixmax.com/dashboard/sequences/v2/66607692157a869780bd7221/report/summary",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 14,
+            "date": "2024-06-05T14:57:34Z",
+            "windowTitle": " Sequences \u00ef\u00bf\u00bd george.dita@trilogy.com - Google Chrome\n",
+            "processName": "app.mixmax.com",
+            "visitingUrl": "https://app.mixmax.com/dashboard/sequences/v2/66607692157a869780bd7221/report/summary",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 69,
+            "mouse": 19,
+            "date": "2024-06-05T14:58:34Z",
+            "windowTitle": " Sequences \u00ef\u00bf\u00bd george.dita@trilogy.com - Google Chrome\n",
+            "processName": "app.mixmax.com",
+            "visitingUrl": "https://app.mixmax.com/dashboard/sequences/v2/66607692157a869780bd7221/report/summary",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 10,
+            "date": "2024-06-05T14:59:34Z",
+            "windowTitle": " Sequences \u00ef\u00bf\u00bd george.dita@trilogy.com - Google Chrome\n",
+            "processName": "app.mixmax.com",
+            "visitingUrl": "https://app.mixmax.com/dashboard/sequences/v2/66607692157a869780bd7221/report/summary",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-05T14:50:00Z"
+}

@@ -1,0 +1,375 @@
+{
+    "candidateId": 2368956,
+    "apps": [
+        "docs.google.com",
+        "Google Chat"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-06T16:02:51Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, File Explorer, and other unidentified applications. Also includes system clock showing '4:02 PM' and system date '6/6/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "DevFactory Mail - Google Chrome",
+                                "url": "https://mail.google.com/mail/u/0/#inbox",
+                                "position": "left",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Email interface with navigation sidebar, search bar, and settings icon."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email Thread",
+                                        "layoutDescription": "Email thread layout",
+                                        "visibleText": "Michel Horowitz\n\nIt is wonderful to connect, Michel.\n\nThank you for the insights, it was a lovely conversation.\n\nI look forward to our next discussion, hopefully face to face (with masks).\n\nStay safe and keep inspiring!\n\nBest,\n\n[Name Redacted]"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-06T16:06:08Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Finder, Microsoft Outlook, and other unidentified applications. Also includes system clock showing '4:06 PM' and system status icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meaghan [AdvocateHub] - Interview Summary - Google Docs",
+                                "url": "https://docs.google.com/document/d/1",
+                                "position": "left side, large window",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "editing toolbar visible with options for editing text, inserting items, and document settings"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Interview Summary",
+                                        "layoutDescription": "Text document layout",
+                                        "visibleText": "Interview Summary\n\nCustomer Challenges:\n- Turnover rates higher than industry average leading to lost sales and revenue.\n- Inconsistent customer service leading to poor customer satisfaction and brand damage.\n- High employee training costs due to high turnover rates.\n\nProposed Solutions:\n- Implement robust training programs designed to retain talent and enhance performance.\n- Develop a comprehensive customer service strategy to improve satisfaction and loyalty.\n- Utilize technology to reduce training costs and improve efficiency.\n\nStrategic Goals:\n- Reduce turnover rates to below industry average within two years.\n- Achieve top-tier customer satisfaction ratings within the same timeframe.\n- Significantly reduce training costs through the implementation of new technologies.\n\nVisibility, Control, and Forecasting:\n- Implement advanced analytics to monitor employee performance and predict potential issues before they arise.\n- Use predictive analytics to forecast sales trends and customer behavior.\n\nMetrics and Reporting:\n- Establish a set of key performance indicators (KPIs) to measure success in achieving strategic goals.\n- Regularly report on these metrics to stakeholders to ensure transparency and accountability.\n\nApproach to Implementation:\n- Phase the implementation of solutions over two years, with incremental upgrades and evaluations.\n- Involve all levels of staff in the planning and implementation process to ensure buy-in and success.\n\nPotential Gains:\n- Increased customer loyalty and retention.\n- Enhanced employee satisfaction and reduced turnover.\n- Improved operational efficiency and reduced costs.\n\nSuccessful Customers:\n- Case studies of customers who have successfully implemented similar strategies to overcome their challenges.\n- Detailed analysis of the strategies employed, the results achieved, and the lessons learned.\n\nThe document also includes highlighted sections and comments from other reviewers."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Chat",
+                                "url": "https://chat",
+                                "position": "right side, smaller window",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "chat interface with user list and message input area"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat with Team",
+                                        "layoutDescription": "Chat layout",
+                                        "visibleText": "Chat with Team\n\nMessages:\n- Thomas Bua: Hi, can we discuss project Y?\n- Meaghan: Sure, what's up?\n- Thomas Bua: Are we aligning with the budget?\n- Meaghan: Yes, everything is on track.\n- Thomas Bua: Great, thanks!\n- Meaghan: No problem, let me know if there's anything else.\n- Thomas Bua: Will do, thanks again!\n\nThe chat window shows a conversation between Meaghan and Thomas Bua discussing project details and budget alignments."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Finder",
+                        "windows": [
+                            {
+                                "title": "Project Files",
+                                "position": "top right, small window",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "navigation and management interface"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Project Files",
+                                        "layoutDescription": "File list layout",
+                                        "visibleText": "Project Files\n\n- Budget.xlsx\n- Timeline.docx\n- Report.pdf\n- Presentation.pptx\n- Notes.txt\n\nThe window displays a list of project-related files including budget spreadsheets, timelines, reports, presentations, and notes."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Zoom",
+                        "windows": [
+                            {
+                                "title": "Video Call - Part 2",
+                                "position": "bottom, medium window",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "call interface with participant list and controls"
+                                },
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "John Doe",
+                                            "expression": "concerned"
+                                        },
+                                        {
+                                            "name": "Jane Smith",
+                                            "expression": "speaking"
+                                        },
+                                        {
+                                            "name": "Robert Lee",
+                                            "expression": "listening"
+                                        }
+                                    ]
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Call - Part 2",
+                                        "layoutDescription": "Video call layout",
+                                        "visibleText": "Video Call - Part 2\n\nParticipants:\n- John Doe (concerned)\n- Jane Smith (speaking)\n- Robert Lee (listening)\n\nThe video call window shows three participants, each with a visible facial expression or activity. John Doe appears concerned, Jane Smith is speaking, and Robert Lee is listening."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Outlook",
+                        "windows": []
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-06T16:07:30Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Outlook, Adobe Photoshop, Slack, Spotify, and other unidentified applications. System clock shows '4:07 PM'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Messenger - [Conversation]",
+                                "position": "left side",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Chat interface with contact list on the left, conversation in the middle, and search bar at the top."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat with Mitchell Horowitz",
+                                        "layoutDescription": "Three-column layout",
+                                        "visibleText": "Mitchell Horowitz\n\nThanks for the info on the marketing thing.\n\nI looked into it, and we're still unclear where the extra 15%...\n\nIt's great that Jennifer made it to the board.\n\nI still think the transcript with your notes...\n\nMitchell Horowitz\n\nI understand where you're at with current numbers. I think all the aspects on your end...\n\nThanks for your help\n\nMitchell Horowitz\n\nI appreciate all the hard work everyone's putting in.\n\nThanks for your help\n\nReply\n\nSearch in chat\n\nMitchell Horowitz\n\n"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Google Chat",
+                                "position": "center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Chat interface with multiple conversation tabs and a detailed conversation view."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Chat with Mitchell Horowitz",
+                                        "layoutDescription": "Three-column layout",
+                                        "visibleText": "Mitchell Horowitz\n\nThanks for the info on the marketing thing.\n\nI looked into it, and we're still unclear where the extra 15%...\n\nIt's great that Jennifer made it to the board.\n\nI still think the transcript with your notes...\n\nMitchell Horowitz\n\nI understand where you're at with current numbers. I think all the aspects on your end...\n\nThanks for your help\n\nMitchell Horowitz\n\nI appreciate all the hard work everyone's putting in.\n\nThanks for your help\n\nReply\n\nSearch in chat\n\nMitchell Horowitz\n\n"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "New Tab",
+                                "position": "right side",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Browser tab with Google search bar and frequently visited sites thumbnails."
+                                },
+                                "content": [
+                                    {
+                                        "title": "New Tab",
+                                        "layoutDescription": "Standard browser new tab layout",
+                                        "visibleText": "Search Google or type a URL\n\nMost visited\n\nGmail\n\nYouTube\n\nAmazon\n\nWikipedia\n\nGoogle Maps\n\nMore...\n\n"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Zoom",
+                        "windows": [
+                            {
+                                "title": "Zoom Meeting",
+                                "position": "bottom",
+                                "isActive": true,
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "Rajesh Koothrappali",
+                                            "expression": "Focused"
+                                        },
+                                        {
+                                            "name": "Emily Sweeney",
+                                            "expression": "Neutral"
+                                        },
+                                        {
+                                            "name": "Howard Wolowitz",
+                                            "expression": "Listening"
+                                        }
+                                    ]
+                                },
+                                "uiElements": {
+                                    "details": "Video conference interface with participant videos, controls at the bottom."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Zoom Meeting",
+                                        "layoutDescription": "Video conference layout",
+                                        "visibleText": "Zoom Meeting\n\nRajesh Koothrappali\n\nEmily Sweeney\n\nHoward Wolowitz\n\nMute\n\nStop Video\n\nParticipants\n\nNew Share\n\nPause Share\n\nMore\n\nEnd Meeting\n\n"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Google Meet video conference, as evidenced by the screenshots showing multiple participants in a video call interface. The participants are discussing various topics, with one participant appearing to be speaking while others are listening. This indicates an active meeting session where the user is likely collaborating with team members or stakeholders.",
+        "The user is also actively using Google Chat to communicate with a colleague named Mitchell Horowitz. The chat conversation includes discussions about project details, marketing information, and other work-related topics. This shows that the user is engaged in team communication and collaboration through chat.",
+        "Additionally, the user is working on a Google Docs document titled 'Interview Summary.' The document contains detailed notes on customer challenges, proposed solutions, strategic goals, and other relevant information. The user is editing the document, as indicated by the visible editing toolbar and highlighted text. This suggests that the user is involved in documenting or updating project-related information.",
+        "The user is also seen managing emails through the Gmail interface. The email thread with Michel Horowitz includes discussions about previous conversations and future meetings. This indicates that the user is keeping track of communications and scheduling follow-ups through email.",
+        "Throughout the session, the user is primarily using Google Chrome as the web browser, with multiple tabs open, including Google Docs, Google Chat, and Gmail. This shows that the user is multitasking and managing various aspects of their work through different web-based applications."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in video conferencing, chatting with team members, managing emails, and editing documents without any visible interaction with AI tools or assistants.",
+    "activities": [
+        "MEETING",
+        "CHATTING_WITH_TEAM",
+        "READING_SPEC",
+        "WRITING_SPEC",
+        "EMAIL"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 9,
+            "date": "2024-06-06T16:03:18Z",
+            "windowTitle": " Meaghan [AdvocateHub] - Interview Summary - Google Docs - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/document/d/1G_vfq5h1k8_aiEvpjVNxEXQouopSIYXYvp691jUrxUY/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T16:04:18Z",
+            "windowTitle": " Meaghan [AdvocateHub] - Interview Summary - Google Docs - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/document/d/1G_vfq5h1k8_aiEvpjVNxEXQouopSIYXYvp691jUrxUY/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-06T16:05:18Z",
+            "windowTitle": " Meaghan [AdvocateHub] - Interview Summary - Google Docs - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/document/d/1G_vfq5h1k8_aiEvpjVNxEXQouopSIYXYvp691jUrxUY/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-06T16:06:18Z",
+            "windowTitle": " Meaghan [AdvocateHub] - Interview Summary - Google Docs - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/document/d/1G_vfq5h1k8_aiEvpjVNxEXQouopSIYXYvp691jUrxUY/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-06T16:07:18Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 3,
+            "date": "2024-06-06T16:08:18Z",
+            "windowTitle": " Google Chat\n",
+            "processName": "Google Chat",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-06T16:09:18Z",
+            "windowTitle": " Meaghan [AdvocateHub] - Interview Summary - Google Docs - Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/document/d/1G_vfq5h1k8_aiEvpjVNxEXQouopSIYXYvp691jUrxUY/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-06T16:00:00Z"
+}

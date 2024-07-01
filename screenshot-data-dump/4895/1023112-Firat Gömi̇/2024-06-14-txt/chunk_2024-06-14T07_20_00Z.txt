@@ -1,0 +1,274 @@
+{
+    "candidateId": 2027577,
+    "apps": [
+        "docs.google.com",
+        "mail.google.com",
+        "app.hubspot.com",
+        "Preferences",
+        "chatgpt.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T07:22:47Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Word, Microsoft Excel, and other unidentified applications. Also includes the system clock showing '7:22 AM' and system date '6/14/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Microsoft Excel",
+                        "windows": []
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T07:28:58Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a docked application bar with visible icons for Microsoft Teams, Google Chrome, Spotify, Visual Studio Code, and Zoom. The taskbar also displays the date and time as 'Thu Jun 14 14:00' and a battery indicator showing full charge.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Microsoft Teams",
+                        "windows": [
+                            {
+                                "title": "Team Chat",
+                                "position": "bottom left quadrant of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "interface with sidebar and main chat area"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Team Chat",
+                                        "layoutDescription": "Sidebar and main chat area",
+                                        "visibleText": "Team Chat\n\nMembers\nMichael Scott\nDwight Schrute\nJim Halpert\n\nChats and Sent\n\nMessages\n\nStarred\n\nFM - Team (Cloud)\nProjects\n\nJoe - TWPing daily status demo\n\nJoe - TWPing daily status demo\nJoe\n\"Yea I need time to disable,\" or \"set up to delete meeting\"\n\n(Fri, May 28, 17:38, Unread: 2)\n\nFM\n\"End, trim, and reorder need... we need to make the meeting notes during the meeting while we talk so we retain participants\n\n(Fri, May 28, 17:38, Unread: 2)\n\nRead discussion of AI-generated meeting summaries to make meeting notes more effective and useful. View our Privacy Policy\n\n\"Yea I need time to disable,\" or \"set up to delete meeting\"\n\n(Fri, May 28, 17:38, Unread: 2)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Multiple tabs",
+                                "position": "center of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "interface with multiple tabs"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Docs - Cloud Customers Q1 Review",
+                                        "layoutDescription": "Document editing interface",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    },
+                                    {
+                                        "title": "Google Sheets - Q1 Data",
+                                        "layoutDescription": "Spreadsheet interface",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    },
+                                    {
+                                        "title": "Google Slides - Q1 Presentation",
+                                        "layoutDescription": "Presentation interface",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Spotify",
+                        "windows": [
+                            {
+                                "title": "Spotify Web Player",
+                                "position": "top right quadrant of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "streaming interface"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Spotify Web Player",
+                                        "layoutDescription": "Music player interface",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "Edit Email List | Config",
+                                "position": "bottom right quadrant of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "editing interface"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Edit Email List | Config",
+                                        "layoutDescription": "Code editor interface",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Zoom",
+                        "windows": [
+                            {
+                                "title": "WorkSmart",
+                                "position": "top left quadrant of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "conference interface"
+                                },
+                                "content": [
+                                    {
+                                        "title": "WorkSmart",
+                                        "layoutDescription": "conference interface",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in editing a Google Docs document titled 'Jive Upgrade'. The document contains detailed tables and metrics related to customer engagement and outreach efforts. The user is likely updating or reviewing the document, as indicated by the presence of editing tools and the 'Editing' status visible in the top right corner of the screen.",
+        "The user is also working on an email campaign in HubSpot. The email draft titled 'Jive CoPilot - Educational Series Part 2' is open, and the user is likely editing the content. The email includes placeholders for personalized elements such as 'First name' and provides information about data privacy and AI training. The user is likely preparing this email for a scheduled send, as indicated by the 'Send or schedule' option visible in the interface.",
+        "The user has multiple desktops open, as seen in the second screenshot. One of the desktops shows a team chat in Microsoft Teams, where the user is participating in a discussion about daily status updates. The chat includes messages about meeting notes and AI-generated summaries, indicating that the user is collaborating with team members on project updates and meeting management.",
+        "The user is also seen navigating through various applications and windows, including Google Chrome with multiple tabs open, Visual Studio Code, and Spotify. This suggests that the user is multitasking, possibly switching between different tasks such as coding, documentation, and communication."
+    ],
+    "aiUseSummary": "There is no direct evidence of AI tool usage in the provided screenshots. The user is primarily engaged in document editing, email drafting, and team communication. While there is a mention of AI-generated meeting summaries in the team chat, there are no visible interactions with AI tools such as ChatGPT or IDE embedded AI chat interfaces in the screenshots.",
+    "activities": [
+        "READING_SPEC",
+        "WRITING_SPEC",
+        "EMAIL",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [
+        "UI"
+    ],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_SPEC",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T07:20:23Z",
+            "windowTitle": " 2nd Brain: How to Approach Customers as PM - Google Docs - High memory usage - 918 MB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/document/d/1XA7G2Y2x8x9026d5sM_z5dmz1Ti6Hlt04201nZ-li8Q/edit#heading=h.wpguxtv8f9h9",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 12,
+            "date": "2024-06-14T07:21:23Z",
+            "windowTitle": " DevFactory Mail - Pinned - High memory usage - 2.6 GB - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "mail.google.com",
+            "visitingUrl": "https://mail.google.com/mail/u/0/#chat/dm/xoYotMAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 126,
+            "mouse": 7,
+            "date": "2024-06-14T07:22:23Z",
+            "windowTitle": " Google Chrome\n",
+            "processName": "docs.google.com",
+            "visitingUrl": "https://docs.google.com/document/d/1nnAVgAx6l0ctwVVIc7FoS5EIxlZIKADewIfTKBmNd0g/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 3,
+            "mouse": 1,
+            "date": "2024-06-14T07:23:23Z",
+            "windowTitle": " Edit Email | Jive CoPilot - Educational Series Part 2 - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "app.hubspot.com",
+            "visitingUrl": "https://app.hubspot.com/email/4281917/edit/170056143203/content",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T07:24:23Z",
+            "windowTitle": " Edit Email | Jive CoPilot - Educational Series Part 2 - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "app.hubspot.com",
+            "visitingUrl": "https://app.hubspot.com/email/4281917/edit/170056143203/content",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 2,
+            "mouse": 1,
+            "date": "2024-06-14T07:28:56Z",
+            "windowTitle": " WorkSmart\n",
+            "processName": "Preferences",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 11,
+            "mouse": 6,
+            "date": "2024-06-14T07:29:56Z",
+            "windowTitle": " ChatGPT - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "chatgpt.com",
+            "visitingUrl": "https://chatgpt.com/",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T07:20:00Z"
+}

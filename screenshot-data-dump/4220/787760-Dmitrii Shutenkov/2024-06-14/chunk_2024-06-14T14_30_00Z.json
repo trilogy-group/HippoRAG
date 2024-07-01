@@ -1,0 +1,339 @@
+{
+  "candidateId": 1444536,
+  "apps": [
+    "us-east-1.console.aws.amazon.com",
+    "stackoverflow.com",
+    "chatgpt.com",
+    "Code",
+    "TOTALCMD64",
+    "explorer",
+    "cmd"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T14:33:00Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Search, Microsoft Edge, File Explorer, Microsoft Store, Mail, Calendar, Photos, Settings, and several other unidentified applications. Also includes system tray with network, sound, and battery status icons, as well as the date and time display '15:33:01 14/06/2024' and language setting 'ENG'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "ChatGPT - Google Chrome",
+                "url": "chatgpt.com",
+                "position": "fullscreen",
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, profile icon, and window control buttons"
+                },
+                "content": [
+                  {
+                    "title": "ChatGPT 4",
+                    "layoutDescription": "Main content area with interactive elements",
+                    "visibleText": "Today\nCreate Empty Array\nWrite data to Sheets\nPython Read JSON File\nSalesforce SOQL Query Python\nYesterday\nHyperlinks in QuickSight: How?\nAWS Credentials Setup Guide\nMorning routine for productivity\nFun fact about the Roman Empire\nText inviting neighbors to barbecue\nExperience Seoul like a local\nhow to build a docker container"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T14:34:02Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start Menu, Search, Task View, Microsoft Edge, File Explorer, Windows Terminal, Microsoft Store, and several unidentified applications. Also includes system tray with network, sound, and battery status icons, date and time display (15:34:03, 14/06/2024), and a language indicator (ENG).",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "ChatGPT - Google Chrome",
+                "url": "chatgpt.com/c/27821b8b-1d82-4776-9",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "window with tabs, address bar, bookmarks bar, and navigation controls"
+                },
+                "content": [
+                  {
+                    "title": "ChatGPT 4 v",
+                    "layoutDescription": "Left sidebar navigation",
+                    "visibleText": "ChatGPT\nRCA GPT\nGoogle Ads Copy Writing\nExplore GPTs\nToday\nDockerize Python AWS Lambda\nSalesforce SOQL Query Python\nCreate Empty Array\nWrite data to Sheets\nPython Read JSON File\nYesterday\nHyperlinks in QuickSight: How?\nAWS Credentials Setup Guide"
+                  },
+                  {
+                    "title": "Dockerize Python AWS Lambda",
+                    "layoutDescription": "Main content area",
+                    "visibleText": "# Use an official Python runtime as a parent image\nFROM public.ecr.aws/lambda/python:3.8\n\n# Set the working directory in the container\nWORKDIR /code\n\n# Copy the current directory contents into the container at /code\nCOPY . /code\n\n# Install any needed packages specified in requirements.txt\nRUN pip install --no-cache-dir -r requirements.txt\n\n# Set the file to be executed when the docker container starts\nCMD [\"app.lambda_handler\"]\n\nStep 3: Build the Docker Image\nOpen your terminal, navigate to your project directory, and run:"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T14:38:54Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, ChatGPT, AWS Credentials Setup Guide, and system tray including network, sound, and date/time display",
+            "position": "bottom"
+          },
+          {
+            "elementType": "system tray",
+            "details": "Icons for network, sound, and date/time. Date/time displayed as 15:38:56, 14/06/2024",
+            "position": "bottom right"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Command Prompt",
+            "windows": [
+              {
+                "title": "Administrator: Command Prompt - docker build -t campaign-tracking .",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "interface displaying command line operations"
+                },
+                "content": [
+                  {
+                    "title": "Command Output",
+                    "layoutDescription": "Textual output in command prompt",
+                    "visibleText": "C:\\Users\\xouser\\Project campaign_tracking_package.zip lambda_function.py\nadding: lambda...  and date/time display",
+                    "position": "bottom"
+                  },
+                  {
+                    "elementType": "system tray",
+                    "details": "Icons for network, sound, and date/time. Date/time displayed as 15:38:56, 14/06/2024",
+                    "position": "bottom right"
+                  }
+                ],
+                "applications": [
+                  {
+                    "appName": "Command Prompt",
+                    "windows": [
+                      {
+                        "title": "Administrator: Command Prompt - docker build -t campaign-tracking .",
+                        "position": "maximized",
+                        "isActive": true,
+                        "uiElements": {
+                          "details": "interface displaying command line operations"
+                        },
+                        "content": [
+                          {
+                            "title": "Command Output",
+                            "layoutDescription": "Textual output in command prompt",
+                            "visibleText": "C:\\Users\\xouser\\Project campaign_tracking_package.zip lambda_function.py\nadding: lambda_function.py (deflate 58%)\n\nC:\\Users\\xouser\\Projects\\tools\\campa build -t campaign-tracking .\nERROR: error during connect: In the default daemon configuration on Windows, the docker client must be run with elevated privileges to connect: Get \"http://.%2F.%2Fpipe%2Fdocker_engine/\": open //.pipe/docker_engine: The system cannot find the file specified.\n\nC:\\Users\\xouser\\Projects\\tools\build -t campaign-tracking .\n[+] Building 16.6s (4/8)\n=> [internal] load build definition from Dockerfile\n=> transferring dockerfile: 32B\n=> [internal] load .dockerignore\n=> transferring context: 2B\n=> [internal] load metadata for public.ecr.aws/lambda/python:3.12\n=> [1/4] FROM public.ecr.aws/lambda/python:3.12@sha256:afa4a10f resolve public.ecr.aws/lambda/python:3.12@sha256:afa4a10f sha256:afa4a10f4baab4e0a8bc8faa82225ed4545c1718e1 772B / 772B\n=> sha256:2a62b417eeaf204ead53cfb7b99b932a32a28331e9 1.58kB / 1.58kB\n=> sha256:abc19c0556908a26ebf17d4c49a5e47177b1ff066d 87.99kB / 87.99kB\n=> sha256:cad9eef8aab47d4f3c6266bf2cb13a384209051ab5 417B / 417B\n=> sha256:5db7ac8697a155a19917f287e49d4ba0f28c816c9d 4.38kB / 4.38kB\n=> sha256:1e795d8b1cb76cfb9f1ed295d4ff9778a4f6ed1a78 28.31MB / 35.78MB\n=> sha256:40672dbe1329b0d8bd9afce07e3c1ff26db1f268c6 9.44MB / 143.79MB\n=> sha256:b5fd6394246ec08147735b55ab127ea61e680d2854 14.14kB / 14.14kB\n=> transferring context: 73.77MB"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "applications"
+        ]
+      },
+      "applications": [
+        {
+          "appName": "Command Prompt",
+          "windows": [
+            {
+              "title": "Administrator: Command Prompt - docker build -t campaign-tracking .",
+              "position": "maximized",
+              "isActive": true,
+              "uiElements": {
+                "details": "interface displaying command line operations"
+              },
+              "content": [
+                {
+                  "title": "Command Output",
+                  "layoutDescription": "Textual output in command prompt",
+                  "visibleText": "C:\\Users\\xouser\\Project campaign_tracking_package.zip lambda_function.py\nadding: lambda_function.py (deflate 58%)\n\nC:\\Users\\xouser\\Projects\\tools\\campa build -t campaign-tracking .\nERROR: error during connect: In the default daemon configuration on Windows, the docker client must be run with elevated privileges to connect: Get \"http://.%2F.%2Fpipe%2Fdocker_engine/\": open //.pipe/docker_engine: The system cannot find the file specified.\n\nC:\\Users\\xouser\\Projects\\tools\build -t campaign-tracking .\n[+] Building 16.6s (4/8)\n=> [internal] load build definition from Dockerfile\n=> transferring dockerfile: 32B\n=> [internal] load .dockerignore\n=> transferring context: 2B\n=> [internal] load metadata for public.ecr.aws/lambda/python:3.12\n=> [1/4] FROM public.ecr.aws/lambda/python:3.12@sha256:afa4a10f resolve public.ecr.aws/lambda/python:3.12@sha256:afa4a10f sha256:afa4a10f4baab4e0a8bc8faa82225ed4545c1718e1 772B / 772B\n=> sha256:2a62b417eeaf204ead53cfb7b99b932a32a28331e9 1.58kB / 1.58kB\n=> sha256:abc19c0556908a26ebf17d4c49a5e47177b1ff066d 87.99kB / 87.99kB\n=> sha256:cad9eef8aab47d4f3c6266bf2cb13a384209051ab5 417B / 417B\n=> sha256:5db7ac8697a155a19917f287e49d4ba0f28c816c9d 4.38kB / 4.38kB\n=> sha256:1e795d8b1cb76cfb9f1ed295d4ff9778a4f6ed1a78 28.31MB / 35.78MB\n=> sha256:40672dbe1329b0d8bd9afce07e3c1ff26db1f268c6 9.44MB / 143.79MB\n=> sha256:b5fd6394246ec08147735b55ab127ea61e680d2854 14.14kB / 14.14kB\n=> transferring context: 73.77MB"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in research activities. They are using ChatGPT to search for information on how to build a Docker container. The user has entered a query 'how to build a docker container' and is reviewing the response provided by ChatGPT, which includes a Dockerfile example and instructions on building a Docker image. This indicates that the user is seeking guidance on containerizing an application, likely for deployment purposes.",
+    "The user is also working on building a Docker image for a project named 'campaign-tracking'. They are using the Command Prompt to execute the 'docker build -t campaign-tracking .' command. The output shows the progress of the Docker build process, including loading the Dockerfile, resolving dependencies, and transferring context. This activity suggests that the user is implementing or testing a containerized solution for their project.",
+    "The user is utilizing multiple tools to facilitate their development workflow. They have Google Chrome open with several tabs, including ChatGPT and a tool for removing line breaks online. This indicates that the user is multitasking and possibly preparing or cleaning up text data for their project. The presence of various development-related bookmarks and tabs suggests a focus on software development tasks."
+  ],
+  "aiUseSummary": "The user is leveraging ChatGPT for research and guidance on building Docker containers. They have asked ChatGPT for instructions on how to build a Docker container, and ChatGPT has provided a detailed response, including a Dockerfile example and step-by-step instructions. This interaction highlights the user's reliance on AI tools for obtaining technical information and enhancing their understanding of containerization processes. The use of ChatGPT helps the user quickly access relevant information, improving their productivity and efficiency in completing development tasks.",
+  "activities": [
+    "RESEARCH",
+    "WRITING_CODE"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "IAC"
+  ],
+  "programmingLanguages": [
+    "PYTHON"
+  ],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DEVELOPMENT_UTILITIES"
+  ],
+  "aiTools": [
+    "OPENAI_CHATGPT"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "RESEARCH",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 24,
+      "mouse": 15,
+      "date": "2024-06-14T14:30:25Z",
+      "windowTitle": "CloudWatch | us-east-1 - Google Chrome",
+      "processName": "us-east-1.console.aws.amazon.com",
+      "visitingUrl": "us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1#logsV2:log-groups/log-group/$252Faws$252Flambda$252FCampaignTracking/log-events/2024$252F06$252F14$252F$255B$2524LATEST$255D4baad41bbf5044e096e7b6650816eec7",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 5,
+      "mouse": 8,
+      "date": "2024-06-14T14:31:25Z",
+      "windowTitle": "python - Unable to import module 'lambda_function': cannot import name 'etree' from 'lxml' aws lambda - Stack Overflow - Google Chrome",
+      "processName": "stackoverflow.com",
+      "visitingUrl": "stackoverflow.com/questions/76579248/unable-to-import-module-lambda-function-cannot-import-name-etree-from-lxml",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 1,
+      "date": "2024-06-14T14:32:25Z",
+      "windowTitle": "python - Unable to import module 'lambda_function': cannot import name 'etree' from 'lxml' aws lambda - Stack Overflow - Google Chrome",
+      "processName": "stackoverflow.com",
+      "visitingUrl": "stackoverflow.com/questions/76579248/unable-to-import-module-lambda-function-cannot-import-name-etree-from-lxml",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 94,
+      "mouse": 5,
+      "date": "2024-06-14T14:33:26Z",
+      "windowTitle": "ChatGPT - Google Chrome",
+      "processName": "chatgpt.com",
+      "visitingUrl": "chatgpt.com",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 2,
+      "date": "2024-06-14T14:34:26Z",
+      "windowTitle": "ChatGPT - Google Chrome",
+      "processName": "chatgpt.com",
+      "visitingUrl": "chatgpt.com/c/27821b8b-1d82-4776-98b3-cec7895ff391",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 31,
+      "mouse": 12,
+      "date": "2024-06-14T14:35:25Z",
+      "windowTitle": "Dockerfile - tools - Visual Studio Code",
+      "processName": "Code",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 36,
+      "mouse": 12,
+      "date": "2024-06-14T14:36:25Z",
+      "windowTitle": "Total Commander (x64) 10.52 - NOT REGISTERED",
+      "processName": "TOTALCMD64",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 27,
+      "mouse": 10,
+      "date": "2024-06-14T14:37:25Z",
+      "windowTitle": "Task Switching",
+      "processName": "explorer",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 40,
+      "mouse": 8,
+      "date": "2024-06-14T14:38:25Z",
+      "windowTitle": "Administrator: Command Prompt",
+      "processName": "cmd",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 7,
+      "mouse": 3,
+      "date": "2024-06-14T14:39:25Z",
+      "windowTitle": "ChatGPT - Google Chrome",
+      "processName": "chatgpt.com",
+      "visitingUrl": "chatgpt.com/c/27821b8b-1d82-4776-98b3-cec7895ff391",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-14T14:30:00Z"
+}

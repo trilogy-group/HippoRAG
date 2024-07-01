@@ -1,0 +1,226 @@
+{
+    "candidateId": 2366596,
+    "apps": [
+        "imsglobal.org",
+        "tex.stackexchange.com",
+        "access2science.com",
+        "notion.so",
+        "mail.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-11T02:39:03Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Minimize, Core, GT, Pending, GT, NT, Ma, Lea, doc, QT1, can, Wh, Fro, and settings",
+                        "position": "top"
+                    },
+                    {
+                        "elementType": "system clock",
+                        "details": "Displays the time as 20:39 and the date as 10 Jun 2024",
+                        "position": "bottom right"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "DevFactory Mail - Google Chrome",
+                                "url": "mail.google.com/mail/u/0/#chat/dm/",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, profile icon"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Gmail",
+                                        "layoutDescription": "client interface",
+                                        "visibleText": "Simon Said 8:05 AM you'll need some changes, shouldn't be significant though (mostly integrating with a new API to submit the test results) Simon Said 18 min some initial thoughts so far on standardization: https://www.notion.so/trilogy-enterprises/Standardization-Document-1234567890 need to do a couple of small PoCs to validate some areas, would appreciate your input \"content for TeachTap is stored using a MathJax compatible format (Markdown with LaTeX extensions),\" - I don't think 'MathJax compatible' is the same as supporting Markdown (I'm not sure if MathJax does anything to support Markdown). I believe MathJax is just a specific latex to HTML rendering library, and it has several custom latex commands It seems like in the document you are comparing Markdown vs Latex, but I don't think that's the decision to compare. I think it would be: 1. Should we use Latex or MathML? 2. Should we support Markdown formatting? 3. Should we use MathJax specific commands?"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Tasks",
+                        "windows": [
+                            {
+                                "title": "Tasks",
+                                "position": "side",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Task list with add task button"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Tasks",
+                                        "layoutDescription": "management interface",
+                                        "visibleText": "Active Q2 progress / Q3 plan Budget meeting https://docs.google.com/document/d/1... Samy 1:1 topics - App testing as a service - Doreen run research study... Weekly update Enter grade (support US grades only) Post TeachTap content on TikTok following the unit schedule on the calendar Split by channel per AP course https://assetstore.unity.com/packages/tools/utili Follow up with Doreen about beta program and research study Xbox / PS5 distribution? Apple vision pro $299 per grade level - 2 Map tests - $50 in rewards... $100 per grade level Ads where the player gets the math wrong as the click bait"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a chat conversation on Gmail with a person named Simon. The discussion revolves around standardizing content generation, specifically focusing on the use of MathJax, LaTeX, and Markdown. Simon provides a link to a Notion document for further details and suggests performing a couple of Proof of Concepts (PoCs) to validate some areas. The user is also considering whether to use LaTeX or MathML, support Markdown formatting, or use MathJax-specific commands.",
+        "The user has a task management interface open on the side, listing various tasks such as Q2 progress/Q3 plan, Samy 1:1 topics, weekly updates, entering grades, posting TeachTap content on TikTok, and following up with Doreen about a beta program and research study. The tasks also include budget meetings, app testing, and other administrative activities. This indicates that the user is managing multiple projects and responsibilities simultaneously."
+    ],
+    "aiUseSummary": "",
+    "activities": [
+        "EMAIL",
+        "CHATTING_WITH_TEAM",
+        "READING_SPEC"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DOCUMENT_VIEWER_OR_EDITOR"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "CHATTING_WITH_TEAM",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 10,
+            "mouse": 7,
+            "date": "2024-06-11T02:30:13Z",
+            "windowTitle": "QTI v3 Best Practices and Implementation Guide | IMS Global Learning Consortium - Google Chrome",
+            "processName": "imsglobal.org",
+            "visitingUrl": "imsglobal.org/spec/qti/v3p0/impl#h.ypkl3rp0lddr",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 25,
+            "mouse": 11,
+            "date": "2024-06-11T02:31:13Z",
+            "windowTitle": "Relationship between MathML and TeX - TeX - LaTeX Stack Exchange - Google Chrome",
+            "processName": "tex.stackexchange.com",
+            "visitingUrl": "tex.stackexchange.com/questions/57717/relationship-between-mathml-and-tex",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 3,
+            "date": "2024-06-11T02:32:13Z",
+            "windowTitle": "Note on Latex - Google Chrome",
+            "processName": "access2science.com",
+            "visitingUrl": "access2science.com/latex/StaceyLatexNote.html",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-11T02:33:13Z",
+            "windowTitle": "(9+) Standardizing Content Generation - Google Chrome",
+            "processName": "notion.so",
+            "visitingUrl": "notion.so/trilogy-enterprises/Standardizing-Content-Generation-5067d264ec4648af86c139725e9e907a",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 3,
+            "date": "2024-06-11T02:34:13Z",
+            "windowTitle": "(9+) Standardizing Content Generation - Google Chrome",
+            "processName": "notion.so",
+            "visitingUrl": "notion.so/trilogy-enterprises/Standardizing-Content-Generation-5067d264ec4648af86c139725e9e907a",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 63,
+            "mouse": 4,
+            "date": "2024-06-11T02:35:14Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/iXTDrUAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 325,
+            "mouse": 1,
+            "date": "2024-06-11T02:36:14Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/iXTDrUAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 69,
+            "mouse": 6,
+            "date": "2024-06-11T02:37:14Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/iXTDrUAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 10,
+            "mouse": 2,
+            "date": "2024-06-11T02:38:14Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/iXTDrUAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-11T02:39:14Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/iXTDrUAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-11T02:30:00Z"
+}

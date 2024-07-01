@@ -1,0 +1,923 @@
+{
+    "candidateId": 2027577,
+    "apps": [
+        "chatgpt.com",
+        "bootcamp.uxdesign.cc"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T07:33:01Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Siri, Google Chrome, Microsoft Outlook, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Visual Studio Code, Terminal, Slack, WhatsApp, Zoom, and other unidentified applications. Also includes system status icons for Wi-Fi, battery, clock, and Spotlight search.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "ChatGPT - Google Chrome - Firat (trilogy.com)",
+                                "url": "chatgpt.openai.com/2799677",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, and vertical scroll bar."
+                                },
+                                "content": [
+                                    {
+                                        "title": "ChatGPT",
+                                        "layoutDescription": "Structured layout",
+                                        "visibleText": "1. Introduction\n- Welcome the customer.\n- Ask for their name and confirm their account or user type.\n\n2. Understand Their Concern\n- Ask open-ended questions to understand more about their concern.\n- Possible Answer: \u201cI see, could you tell me a bit more about that?\u201d\n\n3. Provide a Solution\n- Offer possible solutions or direct them to someone who can help.\n- Possible Answer: \u201cBased on what you\u2019ve told me, I think [solution] might be helpful to you.\u201d\n\n4. Follow-Up Questions\n- \u201cDid you find the content useful?\u201d\n- Possible Answer: \u201cYes.\u201d\n- Follow-up: \u201cIs there any specific content that stood out to you?\u201d\n- Possible Answer: \u201cNo.\u201d\n- Follow-up: \u201cWhat changes would make the emails more useful to you?\u201d\n- Possible Answer: \u201cMore detailed guides.\u201d\n- Follow-up: \u201cWhat kind of guides would be most helpful to you?\u201d\n- Possible Answer: \u201cLess frequent emails.\u201d\n- Follow-up: \u201cHow often would you prefer to receive updates?\u201d\n\n5. Closing the Call\n- Thank them for their time.\n- \u201cThank you so much for your time and feedback. It\u2019s really helpful for us.\u201d\n- \u201cIf you have any other thoughts or need support, please feel free to reach out.\u201d\n\nThis log tree ensures a structured approach, with questions and follow-up options based on the customer's responses, facilitating effective feedback gathering and relationship building."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "WordSlamant",
+                        "windows": [
+                            {
+                                "title": "Team Chat",
+                                "position": "bottom right",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "chat interface with message list and input area."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Team Chat",
+                                        "layoutDescription": "Chat interface",
+                                        "visibleText": "- June - TPR - worksmart\n- Message: June - TPR - Trilogy daily alert demo\n- RM: Read meeting notes - March 30, 2024\n- RM: Donna, Elina, and Farhad added read meeting notes to the Road Analysis & Geotechnical Engineering Volume 6 in May\n- June: Trilogy alert system demo, visit our customer portal\n- June: Call me to discuss, or text to our direct meeting line\n- Message: June - TPR - Trilogy daily alert demo"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Slack",
+                        "windows": [
+                            {
+                                "title": "Team Chat",
+                                "position": "bottom right",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "chat interface with message list and input area."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Team Chat",
+                                        "layoutDescription": "Chat interface",
+                                        "visibleText": "- June - TPR - worksmart\n- Message: June - TPR - Trilogy daily alert demo\n- RM: Read meeting notes - March 30, 2024\n- RM: Donna, Elina, and Farhad added read meeting notes to the Road Analysis & Geotechnical Engineering Volume 6 in May\n- June: Trilogy alert system demo, visit our customer portal\n- June: Call me to discuss, or text to our direct meeting line\n- Message: June - TPR - Trilogy daily alert demo"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Word",
+                        "windows": [
+                            {
+                                "title": "Document Editing",
+                                "position": "center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "text editing tools, formatting toolbar."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Document",
+                                        "layoutDescription": "Text editing layout",
+                                        "visibleText": "This document contains various sections with headers, bullet points, and paragraphs detailing the project's scope, timelines, and deliverables. It is formatted with different styles for headings and text to enhance readability and organization."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Excel",
+                        "windows": [
+                            {
+                                "title": "Financial Analysis",
+                                "position": "center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "spreadsheet grid, formula bar."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Financial Analysis",
+                                        "layoutDescription": "Spreadsheet layout",
+                                        "visibleText": "This spreadsheet includes multiple sheets with tables, charts, and formulas for calculating financial metrics such as revenue, costs, and profit margins. Each sheet is labeled according to its specific function, and the data is organized in rows and columns for easy analysis."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft PowerPoint",
+                        "windows": [
+                            {
+                                "title": "Quarterly Business Review",
+                                "position": "center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "slide navigator, animation pane."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Quarterly Business Review",
+                                        "layoutDescription": "Presentation layout",
+                                        "visibleText": "This presentation consists of slides that summarize the company's performance over the past quarter. Each slide contains bullet points, graphs, and images to visually represent the data and insights. The slides are designed to facilitate a clear understanding of the key points and to support the narrative of the business review."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "Software Development",
+                                "position": "center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "code editor, terminal panel."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Software Development",
+                                        "layoutDescription": "Code editing layout",
+                                        "visibleText": "This code editor window displays multiple files open in tabs, with syntax highlighting for different programming languages. The visible code includes functions, variables, and comments that explain the purpose and functionality of the code. The terminal panel at the bottom shows output from running scripts and commands."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Terminal",
+                        "windows": [
+                            {
+                                "title": "System Commands",
+                                "position": "center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "command line interface."
+                                },
+                                "content": [
+                                    {
+                                        "title": "System Commands",
+                                        "layoutDescription": "Command line interface",
+                                        "visibleText": "This terminal window displays a command line interface where various system commands are being executed. The visible text includes commands for file management, system monitoring, and network diagnostics. The output shows the results of the commands, providing feedback on the system's status and operations."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Slack",
+                        "windows": [
+                            {
+                                "title": "Project Collaboration",
+                                "position": "center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "team communication platform."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Project Collaboration",
+                                        "layoutDescription": "Team communication layout",
+                                        "visibleText": "This Slack window is set up for project collaboration, featuring channels for different teams and projects. The visible text includes messages, links, and notifications related to ongoing work. The interface allows for direct messaging, file sharing, and group discussions, facilitating communication and coordination among team members."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "WhatsApp",
+                        "windows": [
+                            {
+                                "title": "Personal Messages",
+                                "position": "center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "messaging interface."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Personal Messages",
+                                        "layoutDescription": "Messaging layout",
+                                        "visibleText": "This WhatsApp window shows a list of personal messages with contacts. The visible text includes chat histories with various individuals, discussing topics ranging from daily activities to planning events. The interface provides options for sending text messages, voice messages, and media files, supporting personal communication and social interaction."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Zoom",
+                        "windows": [
+                            {
+                                "title": "Team Meeting",
+                                "position": "center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "video conference interface."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Team Meeting",
+                                        "layoutDescription": "Video conference layout",
+                                        "visibleText": "This Zoom window displays a video conference with team members. The visible text includes participant names and chat messages exchanged during the meeting. The interface features video feeds, a chat panel, and controls for managing the meeting, such as muting participants and sharing screens. The content facilitates remote collaboration and communication among team members."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Finder",
+                        "windows": [
+                            {
+                                "title": "File Management",
+                                "position": "center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "file explorer interface."
+                                },
+                                "content": [
+                                    {
+                                        "title": "File Management",
+                                        "layoutDescription": "File explorer layout",
+                                        "visibleText": "This Finder window displays a file explorer interface for managing files and folders on the system. The visible text includes file and folder names, along with details such as size, type, and modification dates. The interface allows for browsing, organizing, and managing files, supporting efficient file management and access."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Launchpad",
+                        "windows": [
+                            {
+                                "title": "Application Launcher",
+                                "position": "center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "application grid."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Application Launcher",
+                                        "layoutDescription": "Grid layout",
+                                        "visibleText": "This Launchpad window displays an application grid for launching applications. The visible text includes icons and names of various applications installed on the system. The interface provides a visual overview of available apps and allows for quick access and organization of applications."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Siri",
+                        "windows": [
+                            {
+                                "title": "Voice Assistant",
+                                "position": "center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "voice interaction interface."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Voice Assistant",
+                                        "layoutDescription": "Voice interaction layout",
+                                        "visibleText": "This Siri window displays a voice interaction interface for accessing and controlling various functions through voice commands. The visible text includes responses and information provided by Siri in response to user queries. The interface supports hands-free operation and enhances user interaction with the system through voice control."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Outlook",
+                        "windows": [
+                            {
+                                "title": "Email Management",
+                                "position": "center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "email client interface."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email Management",
+                                        "layoutDescription": "Email client layout",
+                                        "visibleText": "This Outlook window displays an email client interface for managing emails. The visible text includes email messages, folders, and controls for composing, sending, and organizing emails. The interface supports efficient email management and communication, providing tools for handling a variety of email-related tasks."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Word",
+                        "windows": [
+                            {
+                                "title": "Document Editing",
+                                "position": "center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "text editing tools, formatting toolbar."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Document",
+                                        "layoutDescription": "Text editing layout",
+                                        "visibleText": "This document contains various sections with headers, bullet points, and paragraphs detailing the project's scope, timelines, and deliverables. It is formatted with different styles for headings and text to enhance readability and organization."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Excel",
+                        "windows": [
+                            {
+                                "title": "Financial Analysis",
+                                "position": "center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "spreadsheet grid, formula bar."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Financial Analysis",
+                                        "layoutDescription": "Spreadsheet layout",
+                                        "visibleText": "This spreadsheet includes multiple sheets with tables, charts, and formulas for calculating financial metrics such as revenue, costs, and profit margins. Each sheet is labeled according to its specific function, and the data is organized in rows and columns for easy analysis."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft PowerPoint",
+                        "windows": [
+                            {
+                                "title": "Quarterly Business Review",
+                                "position": "center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "slide navigator, animation pane."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Quarterly Business Review",
+                                        "layoutDescription": "Presentation layout",
+                                        "visibleText": "This presentation consists of slides that summarize the company's performance over the past quarter. Each slide contains bullet points, graphs, and images to visually represent the data and insights. The slides are designed to facilitate a clear understanding of the key points and to support the narrative of the business review."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "Software Development",
+                                "position": "center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "code editor, terminal panel."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Software Development",
+                                        "layoutDescription": "Code editing layout",
+                                        "visibleText": "This code editor window displays multiple files open in tabs, with syntax highlighting for different programming languages. The visible code includes functions, variables, and comments that explain the purpose and functionality of the code. The terminal panel at the bottom shows output from running scripts and commands."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Terminal",
+                        "windows": [
+                            {
+                                "title": "System Commands",
+                                "position": "center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "command line interface."
+                                },
+                                "content": [
+                                    {
+                                        "title": "System Commands",
+                                        "layoutDescription": "Command line interface",
+                                        "visibleText": "This terminal window displays a command line interface where various system commands are being executed. The visible text includes commands for file management, system monitoring, and network diagnostics. The output shows the results of the commands, providing feedback on the system's status and operations."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Slack",
+                        "windows": [
+                            {
+                                "title": "Project Collaboration",
+                                "position": "center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "team communication platform."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Project Collaboration",
+                                        "layoutDescription": "Team communication layout",
+                                        "visibleText": "This Slack window is set up for project collaboration, featuring channels for different teams and projects. The visible text includes messages, links, and notifications related to ongoing work. The interface allows for direct messaging, file sharing, and group discussions, facilitating communication and coordination among team members."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "WhatsApp",
+                        "windows": [
+                            {
+                                "title": "Personal Messages",
+                                "position": "center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "messaging interface."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Personal Messages",
+                                        "layoutDescription": "Messaging layout",
+                                        "visibleText": "This WhatsApp window shows a list of personal messages with contacts. The visible text includes chat histories with various individuals, discussing topics ranging from daily activities to planning events. The interface provides options for sending text messages, voice messages, and media files, supporting personal communication and social interaction."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Zoom",
+                        "windows": [
+                            {
+                                "title": "Team Meeting",
+                                "position": "center",
+                                "isActive irst": "Team Meeting",
+                                "layoutDescription": "Video conference layout",
+                                "visibleText": "This Zoom window displays a video conference with team members. The visible text includes participant names and chat messages exchanged during the meeting. The interface features video feeds, a chat panel, and controls for managing the meeting, such as muting participants and sharing screens. The content facilitates remote collaboration and communication among team members."
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T07:33:54Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Launchpad, Siri, Google Chrome, Microsoft Outlook, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Visual Studio Code, Terminal, Slack, WhatsApp, Zoom, and other unidentified applications. Also includes system status icons for WiFi, battery, clock, and Spotlight search.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "ChatGPT - Google Chrome - Firat (trilogy.com)",
+                                "url": "chatgpt.com/2799677",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, and vertical scroll bar."
+                                },
+                                "content": [
+                                    {
+                                        "title": "ChatGPT",
+                                        "layoutDescription": "Standard web page layout",
+                                        "visibleText": "1. Address the Question\n\n* 'Tell me about the email content you have received from us about Company X.'\n\n* Possible Answer: 'Yes.'\n\n* Follow-up Questions:\n\n* 'Do you find the content useful?'\n\n* Possible Answer: 'Yes.'\n\n* Follow-up: 'Is there any specific content that stood out to you?'\n\n* Possible Answer: 'No.'\n\n* Follow-up: 'What changes would make the emails more useful to you?'\n\n* 'Is there anything you would like to see changed or added in our emails?'\n\n* Possible Answer: 'More detailed guides.'\n\n* Follow-up: 'What kind of guides would be most helpful to you?'\n\n* Possible Answer: 'Less frequent emails.'\n\n* Follow-up: 'How often would you prefer to receive updates?'\n\n5. Closing the Call\n\n5.1 Thank Them for Their Time\n\n* 'Thank you so much for your time and feedback. It's really helpful for us.'\n\n* 'If you have any other thoughts or need support, please feel free to reach out.'\n\nThis log tree ensures a structured approach, with questions and follow-up options based on the customer's responses, facilitating effective feedback gathering and relationship building."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "WordSmart",
+                        "windows": [
+                            {
+                                "title": "Team Chat",
+                                "position": "bottom right",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "chat interface with message input box, search bar, and navigation tabs."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Team Chat",
+                                        "layoutDescription": "Chat interface",
+                                        "visibleText": "* June - TPR\n\n* 'Type message here...'\n\n* Messages:\n\n* 'Read meeting notes from March 30, 2024.'\n\n* 'Donna, Finn, and Javad added read meeting notes to the Road Analysis & Geotechnical Engineering Volume 6 in May.'\n\n* 'Please respond to all emails, we must clear our plates today!'"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Outlook",
+                        "windows": [
+                            {
+                                "title": "Email - Microsoft Outlook",
+                                "position": "minimized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "email list, reading pane, and toolbar."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email",
+                                        "layoutDescription": "Standard email client layout",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Word",
+                        "windows": [
+                            {
+                                "title": "Document - Microsoft Word",
+                                "position": "minimized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "ribbon, document area, and status bar."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Document",
+                                        "layoutDescription": "Standard document editing layout",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft Excel",
+                        "windows": [
+                            {
+                                "title": "Spreadsheet - Microsoft Excel",
+                                "position": "minimized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "ribbon, grid view, and status bar."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Spreadsheet",
+                                        "layoutDescription": "Standard spreadsheet layout",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Microsoft PowerPoint",
+                        "windows": [
+                            {
+                                "title": "Presentation - Microsoft PowerPoint",
+                                "position": "minimized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "ribbon, slide view, and status bar."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Presentation",
+                                        "layoutDescription": "Standard presentation layout",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "Code - Visual Studio Code",
+                                "position": "minimized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "editor area, explorer pane, and status bar."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Code",
+                                        "layoutDescription": "Standard code editing layout",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Terminal",
+                        "windows": [
+                            {
+                                "title": "Terminal",
+                                "position": "minimized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "command line interface."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Terminal",
+                                        "layoutDescription": "Command line interface",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Slack",
+                        "windows": [
+                            {
+                                "title": "Slack - Team Communication",
+                                "position": "minimized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "workspace channels, message area, and sidebar."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Slack",
+                                        "layoutDescription": "Team communication platform",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "WhatsApp",
+                        "windows": [
+                            {
+                                "title": "WhatsApp",
+                                "position": "minimized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "chat list, chat window, and status bar."
+                                },
+                                "content": [
+                                    {
+                                        "title": "WhatsApp",
+                                        "layoutDescription": "Messaging app interface",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Zoom",
+                        "windows": [
+                            {
+                                "title": "Zoom Meeting",
+                                "position": "minimized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "meeting controls, participant list, and chat window."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Zoom Meeting",
+                                        "layoutDescription": "Video conference interface",
+                                        "visibleText": "TEXT TOO BLURRY"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T07:38:45Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Finder, Safari, Mail, Calendar, Photos, Messages, Maps, Contacts, Notes, Reminders, TV, Music, Podcasts, News, System Preferences, App Store, Preview, Terminal, Settings, Books, and other unidentified apps. Also includes a Spotlight search icon, Siri icon, Notification Center icon, and a group of utilities in the dock.",
+                        "position": "bottom"
+                    },
+                    {
+                        "elementType": "system status area",
+                        "details": "Displays Wi-Fi signal, battery indicator with percentage (100%), current time ('Fri Jun 14 16:38'), and date indicator.",
+                        "position": "top-right corner"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Excalidraw - Google Chrome - Firat (trilogy.com)",
+                                "url": "https://excalidraw.com",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Browser interface with tabs, address bar, navigation buttons, profile icon, vertical ellipsis menu icon"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Excalidraw",
+                                        "layoutDescription": "Main content",
+                                        "visibleText": "Excalidraw\nAll your data is saved locally in your browser.\n- Open\n- Help\n- Live collaboration...\n- Sign up"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "WorkSmart",
+                                "position": "bottom-right corner",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Application interface with tabs for Team Chat, Mentions, Missed Calls, Contact Requests, Drafts and Sent, More"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Team Chat",
+                                        "layoutDescription": "Chat window with messages",
+                                        "visibleText": "Team Chat\n- Mentions\n- Missed Calls\n- Contact Requests\n- Drafts and Sent\n- More\n\n* Starred\n* Front Room (Prod)\n* Recents\n\n- Jive - TPR\n- Jive - TPR\n- Jive - TPR\n\nFirat (FIRMA)\n\nMessage Jive - TPR\n\nFirat: 'Type 'restart' to...\n\nFirat: 'Done, Firat and uploader added meeting notes to the document.'\n\nFirat: 'Read synopsis & generated meeting overview to Mary.'\n\nFirat: 'Polished intro slide deck, revised. Urgent follow up emails ready.'\n\nFirat: 'Type 'restart' to disable, or 'quit' to exit delete meeting.'"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in research activities. They are using ChatGPT to view a structured guide on how to conduct customer follow-up questions and close calls effectively. The guide includes various sections such as introduction, understanding customer concerns, providing solutions, follow-up questions, and closing the call. This indicates that the user is likely preparing for or improving their customer interaction skills.",
+        "The user is also engaged in team communication. They are using a chat application to interact with team members. The visible messages include discussions about meeting notes, adding notes to documents, and responding to emails. This suggests that the user is involved in collaborative tasks, possibly related to project management or team coordination.",
+        "Additionally, the user is using Excalidraw, a web-based diagramming tool. The interface shows options for creating and editing diagrams, indicating that the user might be working on visual representations or diagrams for their project. This activity aligns with tasks that require visual planning or documentation.",
+        "Throughout the session, the user is primarily using Google Chrome as their web browser. They have multiple tabs open, including ChatGPT and Excalidraw, which indicates that they are multitasking and switching between different tools and resources to accomplish their tasks."
+    ],
+    "aiUseSummary": "The user is utilizing ChatGPT for research and guidance. They are viewing a detailed guide on customer follow-up questions and closing calls, which suggests that they are seeking to improve their customer interaction skills. The structured layout of the guide and the specific questions and answers provided by ChatGPT indicate that the user is relying on AI to gain insights and best practices for effective communication with customers.",
+    "activities": [
+        "RESEARCH",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DIAGRAMING_TOOL"
+    ],
+    "aiTools": [
+        "OPENAI_CHATGPT"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "RESEARCH",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 223,
+            "mouse": 1,
+            "date": "2024-06-14T07:30:56Z",
+            "windowTitle": " ChatGPT - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "chatgpt.com",
+            "visitingUrl": "https://chatgpt.com/c/2275667f-3ec2-4eb8-a062-03c2cb7aaff6",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 137,
+            "mouse": 2,
+            "date": "2024-06-14T07:31:56Z",
+            "windowTitle": " ChatGPT - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "chatgpt.com",
+            "visitingUrl": "https://chatgpt.com/c/2275667f-3ec2-4eb8-a062-03c2cb7aaff6",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T07:32:56Z",
+            "windowTitle": " ChatGPT - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "chatgpt.com",
+            "visitingUrl": "https://chatgpt.com/c/2275667f-3ec2-4eb8-a062-03c2cb7aaff6",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T07:33:56Z",
+            "windowTitle": " ChatGPT - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "chatgpt.com",
+            "visitingUrl": "https://chatgpt.com/c/2275667f-3ec2-4eb8-a062-03c2cb7aaff6",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T07:34:56Z",
+            "windowTitle": " ChatGPT - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "chatgpt.com",
+            "visitingUrl": "https://chatgpt.com/c/2275667f-3ec2-4eb8-a062-03c2cb7aaff6",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T07:35:56Z",
+            "windowTitle": " ChatGPT - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "chatgpt.com",
+            "visitingUrl": "https://chatgpt.com/c/2275667f-3ec2-4eb8-a062-03c2cb7aaff6",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T07:36:56Z",
+            "windowTitle": " ChatGPT - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "chatgpt.com",
+            "visitingUrl": "https://chatgpt.com/c/2275667f-3ec2-4eb8-a062-03c2cb7aaff6",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-14T07:37:56Z",
+            "windowTitle": " ChatGPT - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "chatgpt.com",
+            "visitingUrl": "https://chatgpt.com/c/2275667f-3ec2-4eb8-a062-03c2cb7aaff6",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 4,
+            "mouse": 9,
+            "date": "2024-06-14T07:38:56Z",
+            "windowTitle": " How to create hand-drawn like diagrams with AI | by Xinran Ma | Bootcamp - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "bootcamp.uxdesign.cc",
+            "visitingUrl": "https://bootcamp.uxdesign.cc/how-to-create-hand-drawn-like-diagrams-with-ai-b831ff830976",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 27,
+            "mouse": 8,
+            "date": "2024-06-14T07:39:56Z",
+            "windowTitle": " ChatGPT - Google Chrome - Firat (trilogy.com)\n",
+            "processName": "chatgpt.com",
+            "visitingUrl": "https://chatgpt.com/c/2275667f-3ec2-4eb8-a062-03c2cb7aaff6",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T07:30:00Z"
+}

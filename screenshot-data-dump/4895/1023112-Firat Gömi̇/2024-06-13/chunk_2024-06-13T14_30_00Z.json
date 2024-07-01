@@ -1,0 +1,329 @@
+{
+  "candidateId": 2027577,
+  "apps": [
+    "meet.google.com",
+    "mail.google.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-13T14:30:42Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Safari, Mail, Calendar, Photos, Messages, Maps, Contacts, Notes, Reminders, TV, Music, News, Podcasts, System Preferences, App Store, Preview, Time Machine, Siri, Launchpad, and Trash. Also includes a Spotlight search icon and Notification Center icon.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Product Feature Strategy - Google Meet",
+                "url": "https://meet.google.com/inc-wddq-kqq",
+                "position": "left quadrant of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "video conference UI with participant videos, mute, camera, and settings controls"
+                },
+                "content": [
+                  {
+                    "title": "Video Conference Participants",
+                    "layoutDescription": "Grid layout",
+                    "visibleText": "Ben New, Fritz AI Notetaker, r, tld;dv"
+                  },
+                  {
+                    "title": "Chat Section",
+                    "layoutDescription": "Bottom left",
+                    "visibleText": "5:30 PM | Jive - TPM customer-focused catch-up"
+                  }
+                ]
+              },
+              {
+                "title": "Memory usage: 492 MB",
+                "position": "top center of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "usage indicator"
+                },
+                "content": [
+                  {
+                    "title": "Memory Usage",
+                    "layoutDescription": "Single line",
+                    "visibleText": "Memory usage: 492 MB"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Finder",
+            "windows": [
+              {
+                "title": "Files and Folders",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "with various file and folder icons"
+                },
+                "content": [
+                  {
+                    "title": "Files and Folders",
+                    "layoutDescription": "Grid layout",
+                    "visibleText": "Team Chat, June - WIP | Work JAM, Digital Assets, 2020-06-13_14-30-42.png, Rectangles, Cornify, 2020-06-13_14-30-42.pdf"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-13T14:34:27Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Safari, Mail, Calendar, and other applications. Also includes the system clock showing '2:34 PM' and system status icons.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Safari",
+            "windows": []
+          },
+          {
+            "appName": "Mail",
+            "windows": []
+          },
+          {
+            "appName": "Calendar",
+            "windows": []
+          }
+        ]
+      },
+      "applications": [
+        {
+          "appName": "Other applications",
+          "windows": []
+        }
+      ]
+    },
+    {
+      "capturedAt": "2024-06-13T14:39:36Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Google Chrome, Python, Automations, and other unidentified applications. Also includes system clock showing '6:39 PM' and system date 'Thu, Jun 13'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Inbox - firat.gomi@trilogy.com - DevFactory Mail",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "email list, search bar, compose button, labels sidebar"
+                },
+                "content": [
+                  {
+                    "title": "Email List",
+                    "layoutDescription": "List format",
+                    "visibleText": "The 5G Store - JMA customer-focused call\nJive - FTP/Mfg daily sit down on June 14\nThe 5G Store - JMA Thursday daily sit down\nCanceled staff event - Meeting code: [Meeting Code]\nHEMA SHARMA Accepted: Deva Jeffers and Firat Gomi on June 14\nJive - Password Reset Request: Firat - Gomi, We received your request\nPre-Read for your upcoming meeting\nIGNITE/tech - Bi-Weekly Check-In Meeting\nCanceled event: IGNITE/tech - Bi-Weekly Check-In Meeting\nSomeone from Tower Hamlets viewed your profile\nSomeone from Tower Hamlets viewed your profile\nSomeone from Tower Hamlets viewed your profile\nSomeone from Tower Hamlets viewed your profile\nSomeone from Tower Hamlets viewed your profile\nSomeone from Tower Hamlets viewed your profile\nSomeone from Tower Hamlets viewed your profile\nSomeone from Tower Hamlets viewed your profile\nSomeone from Istanbul viewed your profile\nElicit at Perplexity Welcome to Perplexity! (ID - 07)\nMembership Members...\nJive Following Updates, June 14, 2024 - Around the World in 80 Days\nLeonhard Hold (via..."
+                  },
+                  {
+                    "title": "Email Content",
+                    "layoutDescription": "Email view",
+                    "visibleText": "Draft saved\nHey Julie, we would like to hear your thoughts about Jive and Jive CPilot\nThank you for the meeting invitation\nHello Julie,\nI hope this email finds you well.\nI'm Firat, the Product Manager at Jive.\nI've scheduled a meeting to discuss Jive CPilot and gather your feedback on your experience with us. We are interested to hear about both technical and user experience, and I'd like to address any concerns or questions you might have about it in our meeting.\nYou'll find the meeting invitation in a separate email. If the proposed time doesn't work for you, please let me know and I would be happy to reschedule.\nYour insights are very important to us, and I look forward to our discussion.\nBest regards,\nFirat Gomi\nProduct Manager\nIGNITE|TECH"
+                  }
+                ]
+              },
+              {
+                "title": "Jive Cloud CPilot - Outreach",
+                "position": "fullscreen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "spreadsheet interface, toolbar, file menu"
+                },
+                "content": [
+                  {
+                    "title": "Jive Cloud CPilot - Outreach",
+                    "layoutDescription": "Spreadsheet format",
+                    "visibleText": "Customer Name\tAHR\tContract End\tEmail\tRole\tSystem Admin\nThe Doctors Management Company\t$135,000\t20 Jan 2024\tgreg@thedocs.com\t?\tRachel Nelson - RNelson@thedocs.com - VP of HR\nClear Blue\t$125,000\t31 Dec 2023\tian@clearblue.com\t?\tDave Cusack - DCusack@clearblue.com - Systems Engineer\nWinter List\t$72,400\t28 Feb 2024\tian@clearblue.com\t?\tCameron Evans - CEvans@clearblue.com - Systems Engineer\nHumana Inc.\t$71,400\t30 Jan 2024\tian@clearblue.com\t?\tJeff Austin - JAustin@clearblue.com - Systems Engineer\nChoice Hotels Inc.\t$54,366\t1 Dec 2023\tdebra@choice.com\t?\tRobert Nelson - RNelson@choice.com - Systems Engineer\nEnterprise Heating, Cables...\t$47,219\t17 Feb 2024\tjames@enterprise.com\t?\tSamantha Boyd - SBoyd@enterprise.com - Systems Engineer\nKingsland SA\t$42,179\t11 Jan 2024\tfernando@kingsland.com\t?\tAntonio Garcia - AGarcia@kingsland.com - Systems Engineer\nCannon Designs, Inc.\t$39,000\t15 Dec 2023\tchristopher@cannon.com\t?\tPeter Griffin - PGriffin@cannon.com - Systems Engineer\nEco Flex, LLC\t$37,700\t17 Jan 2024\tethan@ecoflex.com\t?\tOliver Queen - OQueen@ecoflex.com - Systems Engineer\nRothman Orthopedics\t$35,500\t19 Feb 2024\tmatt@rothman.com\t?\tBruce Wayne - BWayne@rothman.com - Systems Engineer\nMD Anderson Physicians Network\t$32,500\t20 Jan 2024\tpatrick@mdanderson.com\t?\tClark Kent - CKent@mdanderson.com - Systems Engineer\nYellowstone Animal Hospital\t$30,000\t15 Jan 2024\tjessica@yellowstone.com\t?\tDiana Prince - DPrince@yellowstone.com - Systems Engineer\nTotal\t$712,296"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is engaged in a Google Meet video conference titled 'Product Feature Strategy' with multiple participants, including Ben New and Fritz AI Notetaker. The meeting appears to be focused on discussing product features and strategies. The user is actively participating in the meeting, as indicated by the visible video feed and the chat section showing messages related to the meeting.",
+    "The user is also managing their emails on Gmail. They are composing an email to Julie, discussing feedback on Jive and Jive CPilot. The email content indicates that the user is a Product Manager at Jive and is scheduling a meeting to gather feedback on the technical and user experience aspects of Jive CPilot. The user is also reviewing other emails related to various meetings and customer interactions.",
+    "Additionally, the user is working on a spreadsheet titled 'Jive Cloud CPilot - Outreach' in Google Sheets. The spreadsheet contains detailed information about customers, including their names, contract end dates, emails, roles, and system admins. This indicates that the user is involved in customer outreach and management activities, likely related to the Jive CPilot product.",
+    "The user is also seen interacting with team members through a chat application. The chat window shows messages related to a 'TPM customer-focused catch-up' meeting, with discussions about meeting notes and action items. This suggests that the user is coordinating with their team to ensure that meeting outcomes are documented and followed up on."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in video conferencing, email management, spreadsheet work, and team chat interactions without any visible AI assistance.",
+  "activities": [
+    "MEETING",
+    "EMAIL",
+    "CHATTING_WITH_TEAM"
+  ],
+  "workTypes": [
+    "BACKEND",
+    "UI"
+  ],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER",
+    "DOCUMENT_VIEWER_OR_EDITOR"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "MEETING",
+  "doubts": [],
+  "confidenceScore": 95,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-13T14:30:55Z",
+      "windowTitle": "https://meet.google.com/inc-wddq-kqq?authuser=0\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/inc-wddq-kqq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-13T14:31:55Z",
+      "windowTitle": "https://meet.google.com/inc-wddq-kqq?authuser=0\n",
+      "processName": "meet.google.com",
+      "visitingUrl": "https://meet.google.com/inc-wddq-kqq?authuser=0",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 6,
+      "date": "2024-06-13T14:32:55Z",
+      "windowTitle": " Inbox (2) - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.5 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpgVhkJnqvqtZsLjTDtFjPtcLnXMhHMhXMDfHKjZcNTsJbDVJxcgkvxvBmKxMwxkXwwpTq",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 66,
+      "mouse": 8,
+      "date": "2024-06-13T14:33:55Z",
+      "windowTitle": " The tl;dv: Jive - TPM customer-focused catch-up - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.5 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQVwxGRKCxxNKhbvDsZtrDdmbbc?compose=GTvVlcSBpgVhkJnqvqtZsLjTDtFjPtcLnXMhHMhXMDfHKjZcNTsJbDVJxcgkvxvBmKxMwxkXwwpTq",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-13T14:34:55Z",
+      "windowTitle": " The tl;dv: Jive - TPM customer-focused catch-up - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.5 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQVwxGRKCxxNKhbvDsZtrDdmbbc?compose=GTvVlcSBpgVhkJnqvqtZsLjTDtFjPtcLnXMhHMhXMDfHKjZcNTsJbDVJxcgkvxvBmKxMwxkXwwpTq",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-13T14:35:55Z",
+      "windowTitle": " The tl;dv: Jive - TPM customer-focused catch-up - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.3 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQVwxGRKCxxNKhbvDsZtrDdmbbc?compose=GTvVlcSBpgVhkJnqvqtZsLjTDtFjPtcLnXMhHMhXMDfHKjZcNTsJbDVJxcgkvxvBmKxMwxkXwwpTq",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 28,
+      "mouse": 10,
+      "date": "2024-06-13T14:36:55Z",
+      "windowTitle": " Inbox - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.3 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpgVhkJnqvqtZsLjTDtFjPtcLnXMhHMhXMDfHKjZcNTsJbDVJxcgkvxvBmKxMwxkXwwpTq",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 11,
+      "mouse": 17,
+      "date": "2024-06-13T14:37:55Z",
+      "windowTitle": " Inbox - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.4 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpgVhkJnqvqtZsLjTDtFjPtcLnXMhHMhXMDfHKjZcNTsJbDVJxcgkvxvBmKxMwxkXwwpTq",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 190,
+      "mouse": 4,
+      "date": "2024-06-13T14:38:55Z",
+      "windowTitle": " Inbox - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.4 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpgVhkJnqvqtZsLjTDtFjPtcLnXMhHMhXMDfHKjZcNTsJbDVJxcgkvxvBmKxMwxkXwwpTq",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 115,
+      "mouse": 5,
+      "date": "2024-06-13T14:39:55Z",
+      "windowTitle": " Inbox - firat.gomi@trilogy.com - DevFactory Mail - Pinned - High memory usage - 1.3 GB - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "mail.google.com",
+      "visitingUrl": "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpgVhkJnqvqtZsLjTDtFjPtcLnXMhHMhXMDfHKjZcNTsJbDVJxcgkvxvBmKxMwxkXwwpTq",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-13T14:30:00Z"
+}

@@ -1,0 +1,315 @@
+{
+    "candidateId": 1444536,
+    "apps": [
+        "mail.google.com",
+        "chatgpt.com",
+        "Code"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T09:01:34Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, File Explorer, Microsoft Outlook, and other unidentified applications. Also includes system clock showing '10:01:36' and date '14/06/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Inbox (30) - dmitrii.shutenkov@trilogy.com - DevFactory Mail",
+                                "url": "mail.google.com/mail/u/0/#inbox",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "buttons for Compose, Inbox, Starred, Snoozed, Sent, Drafts, More, and various labels. Also contains search bar, settings, and help icons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email List",
+                                        "layoutDescription": "List of emails displayed",
+                                        "visibleText": "Unread\nFlowApplication 36 Salesforce Exceptions An error occurred with yo...\n10:00AM\nCrossover No-Reply 86 Salesforce Exceptions Error setting email sender - <...\n9:59AM\nKontent.ai Failing delivery to webhook 'Update Pipeline ...\nJun 13\nWebhookNotific...\nWS Lambda LAMBDA-76089 Veriff Error - ________ Isabell...\nJun 13\nIsabelle A. (Jira) [JIRA] Isabelle A. mentioned you on LAMBDA-...\nJun 13\nDragos, me, Ben 14 Re: Crossover and Google - Hey Everyone, Hop...\nJun 13\nIsabelle A. (Jira) [JIRA] Isabelle A. mentioned you on LAMBDA-...\nJun 13\nDragos, Isabelle 2 Re: Moving candidate to Identity Check - Pleas...\nJun 13\nRead Assistant Demo Day on June 13, 2024 at 12:30 PM | Re...\nJun 13\nDragos Nuta Updated invitation: XO Check-in @ Wed Jun 19...\nJun 13"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T09:04:52Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, File Explorer, Chrome, Visual Studio Code, and system tray with notifications, sound, network, and clock displaying '10:04:54 AM'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "File Explorer",
+                        "windows": [
+                            {
+                                "title": "Save As",
+                                "position": "left side of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "with back, forward, up, new folder, and view options buttons. Address bar showing path 'This PC > WINDOWS (C:) > Users > dima > Projects > tools'"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Save As",
+                                        "layoutDescription": "Dialog layout",
+                                        "visibleText": "Organise - New folder\nDownloads\nDocuments\nPictures\nMusic\nVideos\nDesktop\nThis PC\nWINDOWS (C:)\nNetwork\nName\nDate modified\nType\nSize\n.git\n14/06/2024 09:47\nFile folder\ncampaign-tracking\n14/06/2024 09:48\nFile folder\nFile name: from simple_salesforce import Salesforce.py\nSave as type: Python (*.py;*.rpy;*.cpy;*.gpy;*.gypi;*.pi;*.pyt)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "Untitled-1 - tools - Visual Studio Code",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Selection, View, Go, Run, Terminal, Help. Status bar showing Python 3.11.4 64-bit, Ln 20, Col 1, Spaces: 4, UTF-8, CRLF"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Untitled-1",
+                                        "layoutDescription": "Editor layout",
+                                        "visibleText": "from simple_salesforce import Salesforce"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T09:07:28Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, File Explorer, Microsoft Edge, Visual Studio Code, and system tray with notifications, sound, network, and clock displaying '10:07 29'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "File Explorer",
+                        "windows": [
+                            {
+                                "title": "Save As",
+                                "position": "left side of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "with back, forward, up, new folder, and view options. Address bar showing path 'This PC > WINDOWS (C:) > Users > dima > Projects > tools'"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Save As",
+                                        "layoutDescription": "Dialog window",
+                                        "visibleText": "Save As\nThis PC > WINDOWS (C:) > Users > dima > Projects > tools\nOrganise - New folder\nDownloads\nDocuments\nPictures\nMusic\nVideos\nDesktop\nRecent Places\nFavorites\nThis PC\nWINDOWS (C:)\nNetwork\nName\nDate modified\nType\nSize\n.git\n14/06/2024 09:47\nFile folder\ncampaign-tracking\n14/06/2024 09:48\nFile folder\nFile name: from simple_salesforce import Salesforce.py\nSave as type: Python (*.py;*.rpy;*.cpy;*.gpy;*.gypi;*.pi;*.pyt)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "Untitled-1 - tools - Visual Studio Code",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Selection, View, Go, Run, Terminal, Help"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Untitled-1 - tools - Visual Studio Code",
+                                        "layoutDescription": "Code editor window",
+                                        "visibleText": "from simple_salesforce import Salesforce"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in managing their emails using Gmail. The screenshot shows the user viewing their inbox, which contains various emails related to Salesforce exceptions, Jira notifications, and other work-related communications. The user is likely prioritizing and organizing their tasks based on the emails received, as indicated by the presence of unread emails and the categorization of emails under different labels.",
+        "The user is also working on a Python script in Visual Studio Code. The screenshot shows the user saving a file named 'from simple_salesforce import Salesforce.py' in a directory named 'tools'. This indicates that the user is writing code that involves importing the Salesforce module, likely for interacting with Salesforce APIs or automating tasks related to Salesforce.",
+        "The user is seen navigating through their file system using File Explorer. The 'Save As' dialog window is open, showing the user saving the Python script in a specific directory. This activity suggests that the user is organizing their project files and ensuring that their code is saved in the appropriate location for future reference or execution."
+    ],
+    "aiUseSummary": "The user is utilizing ChatGPT for assistance, as indicated by the active link to chatgpt.com. This suggests that the user is seeking guidance or solutions for their coding tasks or other work-related queries. The interaction with ChatGPT likely involves asking questions related to Python programming, Salesforce integration, or other technical issues, and receiving detailed responses or code snippets to enhance their productivity and task efficiency.",
+    "activities": [
+        "EMAIL",
+        "WRITING_CODE",
+        "NAVIGATING_CODE"
+    ],
+    "workTypes": [
+        "BACKEND"
+    ],
+    "programmingLanguages": [
+        "PYTHON",
+        "SALESFORCE"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "OPENAI_CHATGPT"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T09:00:23Z",
+            "windowTitle": "Inbox (30) - dmitrii.shutenkov@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T09:01:23Z",
+            "windowTitle": "Inbox (30) - dmitrii.shutenkov@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 5,
+            "mouse": 3,
+            "date": "2024-06-14T09:02:23Z",
+            "windowTitle": "Salesforce SOQL Query Python - Google Chrome",
+            "processName": "chatgpt.com",
+            "visitingUrl": "chatgpt.com/c/0dda060a-caa8-47b5-acfb-08cca56a5dd5",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 4,
+            "date": "2024-06-14T09:03:23Z",
+            "windowTitle": "Salesforce SOQL Query Python - Google Chrome",
+            "processName": "chatgpt.com",
+            "visitingUrl": "chatgpt.com/c/0dda060a-caa8-47b5-acfb-08cca56a5dd5",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 8,
+            "date": "2024-06-14T09:04:23Z",
+            "windowTitle": "? from simple_salesforce import Salesforce ? Untitled-1 - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T09:05:23Z",
+            "windowTitle": "? from simple_salesforce import Salesforce ? Untitled-1 - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T09:06:23Z",
+            "windowTitle": "? from simple_salesforce import Salesforce ? Untitled-1 - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T09:07:23Z",
+            "windowTitle": "? from simple_salesforce import Salesforce ? Untitled-1 - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 20,
+            "mouse": 2,
+            "date": "2024-06-14T09:08:23Z",
+            "windowTitle": "salesforce.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 12,
+            "date": "2024-06-14T09:09:23Z",
+            "windowTitle": "Salesforce SOQL Query Python - Google Chrome",
+            "processName": "chatgpt.com",
+            "visitingUrl": "chatgpt.com/c/0dda060a-caa8-47b5-acfb-08cca56a5dd5",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T09:00:00Z"
+}

@@ -1,0 +1,291 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "meet.google.com",
+        "mail.google.com",
+        "passwords.devfactory.com",
+        "docs.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-04T21:02:51Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Settings, and hidden icons. System tray includes network, sound, and battery status icons, date and time display, and language selection (ENG).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - keh-vdmq-vie - Google Chrome",
+                                "url": "https://meet.google.com/keh-vdmq-vie",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, profile icon, and extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Meet Video Call",
+                                        "layoutDescription": "Video call interface",
+                                        "visibleText": "Noumaan Shah, Dragos Nutu"
+                                    },
+                                    {
+                                        "title": "Chat Sidebar",
+                                        "layoutDescription": "Chat interface",
+                                        "visibleText": "Kathy Slowinski, Apr 11, 11:30 PM, That\u2019s OK I\u2019m in the middle of Nebraska. I drive back every spring for the summer. But just some thinking off the top of my head. These people do they\u2019re either going to be really good or really bad. I would focus the badge on a cyber security assignment. sure, but how do we ensure quality? Kathy Slowinski, Apr 11, 11:33 PM, Then use a rubric to grade the sophomores. Kathy Slowinski, Apr 11, 11:35 PM, Here\u2019s something simple. We just have a few questions and we want to dissect the customer\u2019s journey. It\u2019s too painful to do so we built BT that customizes the journey to each customer. Kathy Slowinski, May 29, 8:09 PM, Dumb question but what is George\u2019s last name?"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Gmail - Chat - Google Chrome",
+                                "url": "https://mail.google.com/mail/u/0/#inbox",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "navigation sidebar, search bar, chat list, and chat window"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Gmail Chat",
+                                        "layoutDescription": "Chat interface",
+                                        "visibleText": "Kathy Slowinski, Apr 11, 11:30 PM, That\u2019s OK I\u2019m in the middle of Nebraska. I drive back every spring for the summer. But just some thinking off the top of my head. These people do they\u2019re either going to be really good or really bad. I would focus the badge on a cyber security assignment. sure, but how do we ensure quality? Kathy Slowinski, Apr 11, 11:33 PM, Then use a rubric to grade the sophomores. Kathy Slowinski, Apr 11, 11:35 PM, Here\u2019s something simple. We just have a few questions and we want to dissect the customer\u2019s journey. It\u2019s too painful to do so we built BT that customizes the journey to each customer. Kathy Slowinski, May 29, 8:09 PM, Dumb question but what is George\u2019s last name?"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T21:05:56Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, widgets, and several pinned applications. Displays the time '12:05 AM' and date '6/5/2024'. System tray includes network, sound, and battery status icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Inbox - dragos.nuta@trilogy.com - DevFactory Mail",
+                                "url": "https://mail.google.com/mail/u/0/#inbox",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, and various extension icons including a profile picture in the top right corner."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email List",
+                                        "layoutDescription": "List of emails displayed in a vertical column",
+                                        "visibleText": "Inbox\nStarred\nSnoozed\nS Coach Emails\nBilling\nCS Tempo\nKayako\nImportant\nGeorge Dita (Google. Delivery progress (Influitive - Add AI to Discourse Commu...\nJamie Sidey (via Go. Document shared with you: \"Notes from Legal call w Lance & Samy\"\nBen Moosher 2 Re: Crossover and Google\nJoe Conley Updated invitation: Stratifyd - Cost Optimization Plan\nMatheus Vinicius de. Re: Invitation: Matheus de Freitas and Dragos Nuta\nDavid .. Marcelo 6 Factory status May 2024 (TPM/Eng)\nMarcelo Skaba (Goog. Weekly Delivery T..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-04T21:08:50Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications. Displays the system tray with network, sound, and clock icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Inbox - dragos.nuta@trilogy.com - DevFactory Mail",
+                                "url": "https://mail.google.com/mail/u/0/#inbox",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Top menu with buttons for refresh, more, and settings. Left sidebar with compose button and mail folders. Right sidebar with Google apps and notifications icon."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email List",
+                                        "layoutDescription": "List of emails displayed in a central panel",
+                                        "visibleText": "All : VIP\nme . . Mar, Joe, Joe 33\nVIP Edu spec on core DSes - update - I acknowledge. I was short sighted and slow. On Sat, Jun 1, 2024, 09:38 Joe Liemandt joe.liemandt@trilogy.com> wrote...\nFeb 28\n1-6 of 6 :\nStarred\nSamy Aboel-Nil FW: 7 Golden Rules for Generative AI Apps: A Playbook from Early Winners - https://menlovc.com/perspective/7-golden-rules-fo 4\nMagic, me 2 Congratulations! Your Child Has Been Accepted to Magic Academy Beta - Welcome to the Magic Academy! Your child is accepted, and we're thrilled...\nMay 29\nme Fwd: Chat in tpm reboot \"If you want you can use a utility i built to ex...\" - Forwarded chat in room tpm reboot Nouman Shah Ben New Yeah on my bra...\nMay 7\nEthan Mollick from . Innovation through prompting - Democratizing educational technology... and more\nApr 22\nme notes from Samy - 2 TPMs are missing the program management skills (customer management, communication, roadmap, risk management, o...\nApr 3\nAll News Confirm your subscription to AI News - Click here to confirm your subscription to AI News! AI News is: We summarize top AI Discords + AI Reddits + AI X/Twitt...\nImportant\nGeorge Dita (Google. Delivery progress (Influitive - Add AI to Discourse Commu... - New activity in the following document Delivery progress (Influitive - Add AI to Discourse ...\n8:07 PM\nJamie Sidey (via Go. Document shared with you: \"Notes from Legal call w Lance & Samy\" - Jamie Sidey shared a document Jamie Sidey (jamie.sidey@trilogy.com) has invite...\n7:40 PM\nBen Moosher 2 Re: Crossover and Google - Hey Dragos! It's been a while my man! Hope everything is moving smoothly with GT School. Funny our paths crossed again -...\n6:43 PM\nJoe Conley Updated invitation: Stratifyd - Cost Optimization Plan Tue @ Jun 4, 2024 17:30 - 18:00 (GMT+3) (Dragos Nuta) - Stratifyd - Cost Optimization Plan Join with ...\n5:30 PM\nMatheus Vinicius de 2 Re: Invitation: Matheus de Freitas and Dragos Nuta @ Mon May 27, 2024 19:00 - 20:00 (GMT+3) (defreitas.mv@outlook.com) - Hello, Dragos. As we...\n4:11 PM\nDavid . Marcelo 6 Factory status May 2024 (TPM/Eng) - New activity in the following document Factory status May 2024 (TPM/Eng) 2 comments ON TRACK Dragos Nuta ...\n2:35 PM\nMarcelo Skaba (Goog. Weekly Delivery T..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Google Meet video call, as evidenced by the screenshot showing the Google Meet interface with participants Noumaan Shah and Dragos Nutu. The user is also actively chatting with Kathy Slowinski via Gmail's chat feature. The conversation topics include a cyber security assignment and customer journey customization. This indicates the user is multitasking, participating in a meeting while also engaging in team communication.",
+        "The user is managing their email inbox, as shown in the screenshots of Gmail. The emails include various topics such as delivery progress, document sharing, and invitations to meetings. The user is likely organizing and prioritizing their tasks based on the emails received. The presence of labels like 'AI Coach Emails' and 'CS Tempo' suggests the user is categorizing emails for better management.",
+        "The user is also seen interacting with the Google Meet interface, which includes a chat sidebar where they are communicating with Kathy Slowinski. The conversation includes discussions about grading rubrics and customer journey customization, indicating the user is involved in planning and strategizing for their projects. This multitasking behavior shows the user is efficiently managing communication and collaboration during the meeting."
+    ],
+    "aiUseSummary": "There is no direct evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a Google Meet video call and managing their Gmail inbox. There are no visible interactions with AI chat interfaces or AI-driven email applications like Shortwave. The user's activities are focused on communication and email management without the assistance of AI tools.",
+    "activities": [
+        "MEETING",
+        "CHATTING_WITH_TEAM",
+        "EMAIL"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T21:00:12Z",
+            "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-04T21:01:13Z",
+            "windowTitle": "Inbox - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 76,
+            "mouse": 11,
+            "date": "2024-06-04T21:02:13Z",
+            "windowTitle": "DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#chat/dm/ve0Mu0AAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 15,
+            "mouse": 12,
+            "date": "2024-06-04T21:03:13Z",
+            "windowTitle": "Meet - keh-vdmq-vie - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/keh-vdmq-vie?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 32,
+            "mouse": 9,
+            "date": "2024-06-04T21:04:13Z",
+            "windowTitle": "Select Group Members - Google Chrome",
+            "processName": "passwords.devfactory.com",
+            "visitingUrl": "https://passwords.devfactory.com/AdaxesSelfService/SelectGroupMembershipObject.aspx?path=Adaxes%3a%2f%2fdevfactory.local%2fCN%3dRAM-AWS-Prod-CentralProduct-productmind-Admin%2cCN%3dUsers%2cDC%3ddevfactory%2cDC%3dlocal&callbackMethod=MembershipInfoControl_",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 170,
+            "mouse": 17,
+            "date": "2024-06-04T21:05:13Z",
+            "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 37,
+            "mouse": 8,
+            "date": "2024-06-04T21:06:12Z",
+            "windowTitle": "Inbox - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T21:07:12Z",
+            "windowTitle": "Inbox - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T21:08:12Z",
+            "windowTitle": "Inbox - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-04T21:09:12Z",
+            "windowTitle": "Inbox - dragos.nuta@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-04T21:00:00Z"
+}

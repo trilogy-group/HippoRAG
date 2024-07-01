@@ -1,0 +1,276 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "meet.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T12:10:39Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Edge, File Explorer, and several unidentified applications. System tray includes network, sound, and battery status icons, as well as the date and time display '3:10 PM 6/5/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - khm-qevt-udu - Google Chrome",
+                                "url": "meet.google.com/khm-qevt-udu",
+                                "position": "right side of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "UI includes back, forward, refresh, and home buttons, address bar, bookmarks bar with several bookmarks, tabs for 'Meet - khm-qevt-udu' and other unidentified tabs, and user profile icon at top right."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Meet Video Conference",
+                                        "layoutDescription": "Right side of the screen",
+                                        "visibleText": "Participants visible in the video conference include Artem Melnikov, Denys Yefimenko, Dmitrii Shutenkov, and Dragos Nuta. Artem Melnikov is presenting, indicated by the text 'Artem Melnikov (Presenting)' and a blue outline around his video. Denys Yefimenko appears to be in an outdoor setting, possibly a garden. Dmitrii Shutenkov's background features a forest or mountain scene. Dragos Nuta is in a room with a bookshelf filled with books and decorative items."
+                                    },
+                                    {
+                                        "title": "Google Docs Document",
+                                        "layoutDescription": "Left side of the screen",
+                                        "visibleText": "Document titled 'LAMBDA-75849: Sign-up without applying for a specific job' contains text about various backend and frontend development tasks, references to URLs, and questions about application terminal status and API URLs. Specific text includes: - 'Backend' section with sub-items about handling expired terminal stage and preparing job recommendations. - 'Frontend' section with reference to a URL and tasks like modifying the application's appearance and pipeline links. - 'Questions' section asking about which application terminal status to select and details about API URL structure."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T12:15:02Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, File Explorer, Microsoft Edge, Google Chrome, and system tray with notifications, sound, network, and battery status icons, time display showing '3:15 PM', date display showing '6/5/2024', and language indicator showing 'ENG'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - khm-qevt-udu - Google Chrome",
+                                "url": "meet.google.com/khm-qevt-udu",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, Google account icon, Meet controls including microphone, camera, captions, present now, more options, and hang up"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Docs - LAMBDA-75848: Sign-up without applying for a specific job",
+                                        "layoutDescription": "Text document with multiple headings and bullet points",
+                                        "visibleText": "1. Modify the Product.Z_Type... field to also contain 'Singles' (right now it is either Hire or Prime)\nb. Pipeline fields will be used to indicate Signup pipeline\n2. We don't need any kw/Intent information, because there will be no actual job page for this pipeline (i.e. no hook, etc.) just fill out required fields with placeholders\n3. Reuse unused Product.Z_DisplayUrl(...) fields (Logos/awareness engineering)\na. It or no link\nb. Track the actual page we came from because it's 1-many?\nc. Modify the flow when the application for such pipeline arrives to Review 2: Move it to Marketplace\n4. Prepare job recommendations and send the email to the candidate\nFrontend\nRef: https://www.figma.com/design/2345tXlYjXjNk9hXs/Cr Rely on Product.Z_Type... field to render the application differently\n2. The pipeline links to 'Product.Z_DisplayUrl' field (which will have a role page URL)\n3. Hide the 'eliminate' and 'details' block\n4. Hide all such 'applications' in the terminal stage from the list\n5. Modify the apply page\nQuestions\n1. What are application terminal status do we select? - Marketplace\n2. Do we control the entry URL just like we do for URLs? - https://reason.com/jp/1234/kk/rosera/ai/future/la Do we want to allow candidates to take all badges regardless of the default? - Rejection Threshold = 0\na. Minimal threshold - based on the start (or no threshold). Default bd"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T12:18:28Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, File Explorer, Microsoft Edge, Google Chrome, and several unidentified icons. System tray includes network, sound, and battery status icons, as well as the date and time display '3:18 PM | 6/5/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - khm-qevt-udu - Google Chrome",
+                                "url": "meet.google.com/khm-qevt-udu",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "multiple tabs, address bar, bookmarks bar, Google account profile picture, navigation buttons, and extensions including Bitwarden, Google Keep, and others"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Artem Melnikov (Presenting)",
+                                        "layoutDescription": "Video conference layout",
+                                        "visibleText": "Artem Melnikov (Presenting)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Google Meet video conference with participants Artem Melnikov, Denys Yefimenko, Dmitrii Shutenkov, and Dragos Nuta. Artem Melnikov is presenting, and the meeting appears to be focused on discussing a document titled 'LAMBDA-75849: Sign-up without applying for a specific job'. The document contains various backend and frontend development tasks, references to URLs, and questions about application terminal status and API URLs. The user is actively viewing and possibly discussing the contents of this document during the meeting.",
+        "During the meeting, the user is also viewing a Google Docs document that outlines specific tasks related to backend and frontend development. The document includes sections on modifying application fields, handling expired terminal stages, preparing job recommendations, and modifying the application's appearance. The user is likely discussing these tasks with the meeting participants, as indicated by the detailed text visible in the document.",
+        "The user continues to participate in the Google Meet video conference, with Artem Melnikov still presenting. The document being discussed includes detailed instructions for modifying various fields and pipelines in the application, as well as questions about the application terminal status and API URL structure. The user is actively engaged in the discussion, as evidenced by the visible text and the ongoing presentation.",
+        "In the final screenshot, the user is still in the Google Meet video conference, with Artem Melnikov presenting a comparison of 'Before' and 'After' states of a software application interface. The presentation includes visual changes to the application, such as modified text and hidden elements. The user is likely discussing these changes with the meeting participants, as indicated by the visible text and the ongoing presentation."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a Google Meet video conference and viewing a Google Docs document. There are no visible interactions with AI tools such as AI_IDE_EXTENSION, ChatGPT, or any other AI-driven applications during the captured timeframe.",
+    "activities": [
+        "MEETING",
+        "READING_SPEC"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "UI"
+    ],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "DOCUMENT_VIEWER_OR_EDITOR"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T12:10:53Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T12:11:53Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T12:12:53Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T12:13:53Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T12:14:53Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T12:15:53Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T12:16:53Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T12:17:53Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T12:18:53Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T12:19:53Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-05T12:10:00Z"
+}

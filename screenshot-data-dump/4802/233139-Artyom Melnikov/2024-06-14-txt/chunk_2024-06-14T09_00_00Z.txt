@@ -1,0 +1,280 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "webstorm64"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T09:00:24Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time as '11:00 AM' and date as '6/14/2024'. Network status icon, sound volume icon, and battery status icon are also visible.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "lambda-cdk-infra | src_workspace/Lambda/lambda-cdk-infra",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Explorer pane on the left with files and folders, editor with multiple tabs open, terminal at the bottom, and a sidebar with search, source control, run, and extensions icons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "graphql-api.ts",
+                                        "layoutDescription": "Code editor open",
+                                        "visibleText": "export class NoneDataSource extends GraphQLApi {\n\n/**\n* Get a single NONE datasource for the api. Lazy initialization\n*/\nnoneDataSource(): NoneDataSource {\nif (!this.noneDataSource) {\nthis.noneDataSource = this.addNoneDataSource('id: NoneDataSource', options: {\nname: 'NoneDataSource',\ndescription: 'A special DataSource for resolvers without target',\n});\n}\nreturn this.noneDataSource;\n}\n\nfunction extendWithDefaultProps(baseName: string, config: StackConfig, props?: Partial<InfraGraphQLApiProps>): InfraGraphQLApiProps {\nconst resourceName = config.generateName(baseName);\nconst defaultConfig: InfraGraphQLApiProps = merge(DefaultInfraGraphQLApiProps, {\nname: resourceName,\n});\nreturn merge(defaultConfig, props || []) as InfraGraphQLApiProps;\n}"
+                                    },
+                                    {
+                                        "title": "utils.ts",
+                                        "layoutDescription": "Code editor open",
+                                        "visibleText": "import * as log from 'logevel';\nimport {\nS3Client,\nListObjectsCommand,\nDeleteObjectsCommand\n} from '@aws-sdk/client-s3';\n\nexport class S3Utils {\n\n/**\n* Remove all objects from the S3 bucket\n* @param bucketName\n*/\nstatic async cleanS3Bucket(bucketName: string) {\nif (bucketName === '' || bucket..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T09:05:00Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, File Explorer, Microsoft Edge, Visual Studio Code, and other unidentified applications. System tray includes network, sound, and battery status icons, as well as the date and time display '14/06/2024 11:05'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "glue.ts - lambda-cdk-infra - Visual Studio Code",
+                                "url": null,
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Top bar with options like File, Edit, View, Go, Run, Terminal, Help. Left sidebar with Explorer, Search, Source Control, Run and Debug, Extensions icons. Bottom status bar showing branch 'master', problems count, and a notification about npm vulnerabilities."
+                                },
+                                "content": [
+                                    {
+                                        "title": "File Explorer",
+                                        "layoutDescription": "Vertical panel on the left",
+                                        "visibleText": "lambda-cdk-infra_ws\n.github\nLibraries\nScratches and Consoles"
+                                    },
+                                    {
+                                        "title": "Code Editor",
+                                        "layoutDescription": "Large central panel",
+                                        "visibleText": "import { StackConfig, Construct, CfnTableProps } from './models';\nimport { InfraGlueJobProps, InfraGlueTableProps } from './models';\n\nexport class InfraGlueTable extends CfnTable {\n constructor(config: StackConfig, scope: Construct, public props: InfraGlueTableProps) {\n super(scope, config, generateLogicalId(props.tableName), props);\n tableName: config.generateCompatibleResourceName(props.table }\n}\n\nexport type InfraGlueTableProps is CfnTableProps;\n\nexport class InfraGlueDatabase extends CfnDatabase {\n constructor(config: StackConfig, scope: Construct, public props: InfraGlueDatabaseProps) {\n super(scope, config, generateLogicalId(props.databaseName), props);\n databaseName: config.generateCompatibleResourceName(props.datab }\n}\n\nexport type InfraGlueDatabaseProps is CfnDatabaseProps;\n\n// Migrate this code to use AWS SDK v3\n// Unused\n\nimport * as log from 'loglevel';\nimport {\n S3Client,\n ListObjectsV2Command,\n DeleteObjectCommand,\n from 'aws-sdk/client-s3';\n}\n\nexport class S3Utils {\n static async cleanupS3Bucket(bucketName: string) {\n if (debug) {\n // Bucket name is provided for the cleanup?\n return 3;\n }\n const s3 = new S3Client();\n try {\n let ContinuationToken: string | undefined = undefined;\n do {\n the response await s3.send(new ListObjectsV2Command({\n Bucket: bucketName,\n ContinuationToken,\n }));\n ContinuationToken = response.NextContinuationToken;\n if (response.Contents && response.Contents.length > 0) {\n // Delete response await s3.send(new DeleteObjectCommand({\n Bucket: bucketName,\n Key: response.Contents[0].Key,\n }));\n }\n } while (ContinuationToken);\n }\n}"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T09:09:19Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, File Explorer, Microsoft Edge, Visual Studio Code, and other unidentified applications. System tray includes network status, sound volume, date and time display (14/06/2024, 09:09), and other system icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "lambda-cdk-infra - Visual Studio Code",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar at top with File, Edit, View, Go, Run, Terminal, Help. Sidebar on the left with Explorer, Search, Source Control, Run and Debug, Extensions. Bottom bar with problems, output, debug console, terminal tabs. Right sidebar with minimap and scrollbar."
+                                },
+                                "content": [
+                                    {
+                                        "title": "frontend-deploy editor open",
+                                        "layoutDescription": "Code editor layout",
+                                        "visibleText": "export class InfraFrontendDeployment {\n constructor(private parent: Construct, stackConfig: StackConfig, props: InfraFrontendDeploymentInput) {\n this.bucket.addTOResourcePolicy(frontendBucketPol }\n\n // Deploy frontend code into the bucket\n new BucketDeployment(parent, id: `${this.config.name}-bucket-deployment`, props: {\n sources: [Source.asset(this.config.distributionPath)],\n destinationBucket: this.bucket,\n prune: true,\n retainOnDelete: false,\n distribution: this.distribution,\n memoryLimit: 512,\n });\n }\n}\n\n@expires\n@maxAge\n@include\n@logRetentio"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in writing and navigating code within the WebStorm IDE. They are working on a project named 'lambda-cdk-infra' and have multiple TypeScript files open, including 'graphql-api.ts', 'utils.ts', 'frontend-deployment.ts', and 'glue.ts'. The user is seen implementing and modifying classes and functions related to AWS infrastructure, such as 'InfraGraphQLApi', 'InfraGlueTable', and 'InfraFrontendDeployment'. The code includes methods for handling AWS S3 operations and deploying frontend code to an S3 bucket.",
+        "The user is also utilizing an AI_IDE_EXTENSION within WebStorm, specifically GPT-4, to assist with code migration tasks. The AI tool is providing guidance on how to migrate code from AWS SDK v2 to AWS SDK v3. The user is leveraging the AI to get updated code snippets and instructions for making the necessary changes to their TypeScript files. This interaction indicates the user's reliance on AI for efficient code updates and ensuring compatibility with newer SDK versions."
+    ],
+    "aiUseSummary": "The user is utilizing the GPT-4 AI_IDE_EXTENSION within WebStorm to assist with code migration tasks. The AI tool provides updated code snippets and instructions for migrating from AWS SDK v2 to AWS SDK v3. The user is seen interacting with the AI to get specific guidance on import statements and modular package usage, demonstrating the AI's role in enhancing productivity and ensuring code compatibility with newer SDK versions.",
+    "activities": [
+        "WRITING_CODE",
+        "NAVIGATING_CODE"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "IAC"
+    ],
+    "programmingLanguages": [
+        "TYPESCRIPT"
+    ],
+    "toolTypes": [
+        "IDE"
+    ],
+    "aiTools": [
+        "AI_IDE_EXTENSION"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 47,
+            "mouse": 34,
+            "date": "2024-06-14T09:00:17Z",
+            "windowTitle": "lambda-cdk-infra ? graphql-api.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 11,
+            "mouse": 9,
+            "date": "2024-06-14T09:01:17Z",
+            "windowTitle": "lambda-cdk-infra ? glue.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T09:02:17Z",
+            "windowTitle": "lambda-cdk-infra ? glue.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 36,
+            "mouse": 16,
+            "date": "2024-06-14T09:03:17Z",
+            "windowTitle": "lambda-cdk-infra ? glue.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 61,
+            "mouse": 30,
+            "date": "2024-06-14T09:04:17Z",
+            "windowTitle": "lambda-cdk-infra ? glue.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 44,
+            "mouse": 30,
+            "date": "2024-06-14T09:05:17Z",
+            "windowTitle": "lambda-cdk-infra ? C:\\_workspace\\_lambda\\lambda-cdk-infra\\node_modules\\aws-cdk-lib\\aws-glue\\lib\\glue.generated.d.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 35,
+            "mouse": 11,
+            "date": "2024-06-14T09:06:17Z",
+            "windowTitle": "lambda-cdk-infra ? glue.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 87,
+            "mouse": 22,
+            "date": "2024-06-14T09:07:17Z",
+            "windowTitle": "lambda-cdk-infra ? glue.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 25,
+            "mouse": 19,
+            "date": "2024-06-14T09:08:17Z",
+            "windowTitle": "lambda-cdk-infra ? glue.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 47,
+            "mouse": 41,
+            "date": "2024-06-14T09:09:17Z",
+            "windowTitle": "lambda-cdk-infra ? frontend-deployment.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T09:00:00Z"
+}

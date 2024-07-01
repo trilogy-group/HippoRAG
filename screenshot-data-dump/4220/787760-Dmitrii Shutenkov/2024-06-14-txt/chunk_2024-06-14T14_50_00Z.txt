@@ -1,0 +1,285 @@
+{
+    "candidateId": 1444536,
+    "apps": [
+        "us-east-1.console.aws.amazon.com",
+        "Docker Desktop"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T14:52:13Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, File Explorer, Microsoft Edge, and system tray with network, sound, and clock (15:52, 14/06/2024)",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "My Workspace",
+                        "windows": [
+                            {
+                                "title": "API Network",
+                                "url": "https://h92gjbrhhj.execute-api.us-east-1.amazonaws.com",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Tabs for Home, Workspaces, API Network, New, Import, GET requests, Save, Share, Invite, Upgrade, Settings, Cookies, Beautify, and various request method tabs (GET, POST, etc.)"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Request Setup",
+                                        "layoutDescription": "Left sidebar with collection folders",
+                                        "visibleText": "My first collection\nFirst folder inside collection\nGET\nPOST\nSecond folder inside collection\nGET\nCreate a collection for your requests\nA collection lets you group related requests and easily set common authorization, tests, scripts, and variables for all requests in it.\nCreate Collection"
+                                    },
+                                    {
+                                        "title": "API Request",
+                                        "layoutDescription": "Main central panel",
+                                        "visibleText": "GET https://h92gjbrhhj.execute-api.us-east-1.amazonaws.com\nBody\nScripts\nTests\nSettings\nNone\nForm-data:\n\"dmitrii.shutenkov@trilogy.com.recruiting\",\n\"Tsv03svp\",\n\"security_token\": \"F3PzUv74kSTsTmNUzz1RVnFZ8\",\n\"campaigns\": [\n{\n\"id_patterns\": [\n\"-GA-Cat.%\"\n]\n}\n]"
+                                    },
+                                    {
+                                        "title": "Response panel",
+                                        "layoutDescription": "Bottom panel",
+                                        "visibleText": "Status: 500 Internal Server Error\nTime: 1493 ms\nSize: 216 B\nSave as example\n{\n\"message\": \"Internal Server Error\"\n}"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T14:55:13Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Microsoft Edge, File Explorer, Microsoft Store, Docker Desktop, Visual Studio Code, and other unidentified applications. Also includes system status icons for network, sound, battery, and clock displaying '15:55:15 14/06/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Docker Desktop",
+                        "windows": [
+                            {
+                                "title": "stoic_northcutt - Container - Docker Desktop",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "sidebar with icons for Containers, Images, Volumes, Dev Environments, Docker Scout, Learning Center, and Extensions. Top bar with options for Docker Desktop, Update to latest, and user account sign-in. Right sidebar with icons for settings, notifications, and more options."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Container Details",
+                                        "layoutDescription": "Divided into left sidebar, main content area, and right sidebar",
+                                        "visibleText": "stoic_northcutt\n10404286 15:54:51 14 Jun 2024 14:54:51,493 [INFO] (rapid) exec '/var/runtime/bootstrap' (cwd=/package, handler=)\n\nSTATUS\nRunning (19 seconds ago)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T14:58:11Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Microsoft Edge, File Explorer, Microsoft Store, Docker Desktop, Visual Studio Code, Microsoft Teams, Outlook, OneNote, and a PRE badge on the right side",
+                        "position": "bottom"
+                    },
+                    {
+                        "elementType": "system tray",
+                        "details": "Icons for network status (Not connected to Hub), sound, notifications, language (ENG), and clock (15:58:12, 14/06/2024)",
+                        "position": "bottom right"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Docker Desktop",
+                        "windows": [
+                            {
+                                "title": "Images - Docker Desktop",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "on the left with options: Containers, Images, Volumes, Dev Environments, Docker Scout, Learning Center, Extensions"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Images",
+                                        "layoutDescription": "content area with tabs and a list",
+                                        "visibleText": "Images\nLocal Hub Artifactory EARLY ACCESS\n3.63 GB / 3.68 GB in use 26 images\nSearch for images, containers, volumes, extensions and more...\nName Created Size Actions\n104042860393... 17 minutes ago 609.86 MB :\nfa1ba484103 17 minutes ago 609.86 MB :\ncampaign-tracking:latest fa1ba484103 17 minutes ago 609.86 MB :\nsourcegraph/syntax-highlighter 21677648aed 1 year ago 255.5 MB :\nsourcegraph/worker 238350bad532 <none> In use (dangling) 1 year ago 172.67 MB :\nsourcegraph/searcher 4249256d3bd <none> In use (dangling) 1 year ago 158.06 MB :\nsourcegraph/repo-updater b8a024dd5811 <none> In use (dangling) 1 year ago 180.2 MB :\nsourcegraph/prometheus <none> In use (dangling) 1 year ago 204.54 MB :\nShowing 26 items\nRun a new container\n104042860393.dkr.ecr.us-east-1.amazona settings\nCancel Run"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively working with AWS Lambda and Docker Desktop. In the first screenshot, the user is using Postman to send a GET request to an API endpoint hosted on AWS. The request includes a JSON body with user credentials and campaign details. The response indicates a 500 Internal Server Error, suggesting the user is troubleshooting an issue with the API.",
+        "In the second screenshot, the user is working with Docker Desktop. They are viewing the logs of a container named 'stoic_northcutt', which is running an AWS Lambda function. The logs show an INFO message indicating the execution of a bootstrap script. This suggests the user is monitoring the container's activity to diagnose or verify its behavior.",
+        "In the third screenshot, the user continues to work with Docker Desktop. They are in the 'Images' section, where they can see a list of Docker images, including one named 'campaign-tracking:latest'. The user is in the process of running a new container from this image, indicating they are testing or deploying updates to the campaign tracking application."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily focused on troubleshooting and monitoring their AWS Lambda function and Docker containers without any visible interaction with AI tools.",
+    "activities": [
+        "RESEARCH"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "IAC"
+    ],
+    "programmingLanguages": [
+        "OTHER"
+    ],
+    "toolTypes": [
+        "DEVELOPMENT_UTILITIES",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "RESEARCH",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 13,
+            "mouse": 12,
+            "date": "2024-06-14T14:50:26Z",
+            "windowTitle": "CampaignTracking | Functions | Lambda - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/functions/CampaignTracking?newFunction=true&tab=image",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 7,
+            "mouse": 19,
+            "date": "2024-06-14T14:51:26Z",
+            "windowTitle": "Add triggers | Lambda - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/add/relation?focus=aws%2Flambda&target=arn%3Aaws%3Alambda%3Aus-east-1%3A104042860393%3Afunction%3ACampaignTracking&targetType=aws%2Flambda&type=trigger",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 11,
+            "mouse": 11,
+            "date": "2024-06-14T14:52:26Z",
+            "windowTitle": "CampaignTracking | Functions | Lambda - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/functions/CampaignTracking?tab=configure",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 3,
+            "mouse": 10,
+            "date": "2024-06-14T14:53:25Z",
+            "windowTitle": "CloudWatch | us-east-1 - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1#logsV2:log-groups/log-group/$252Faws$252Flambda$252FCampaignTracking/log-events/2024$252F06$252F14$252F$255B$2524LATEST$255D780d272fee1c47b9a7727ef58904f34c",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 16,
+            "mouse": 8,
+            "date": "2024-06-14T14:54:25Z",
+            "windowTitle": "CloudWatch | us-east-1 - Google Chrome",
+            "processName": "us-east-1.console.aws.amazon.com",
+            "visitingUrl": "us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1#logsV2:log-groups/log-group/$252Faws$252Flambda$252FCampaignTracking/log-events/2024$252F06$252F14$252F$255B$2524LATEST$255D780d272fee1c47b9a7727ef58904f34c",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 7,
+            "mouse": 10,
+            "date": "2024-06-14T14:55:25Z",
+            "windowTitle": "stoic_northcutt - Container - Docker Desktop",
+            "processName": "Docker Desktop",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 4,
+            "mouse": 11,
+            "date": "2024-06-14T14:56:25Z",
+            "windowTitle": "jolly_mclaren - Container - Docker Desktop",
+            "processName": "Docker Desktop",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 11,
+            "date": "2024-06-14T14:57:26Z",
+            "windowTitle": "jolly_mclaren - Container - Docker Desktop",
+            "processName": "Docker Desktop",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 13,
+            "date": "2024-06-14T14:58:26Z",
+            "windowTitle": "stoic_khayyam - Container - Docker Desktop",
+            "processName": "Docker Desktop",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 22,
+            "mouse": 9,
+            "date": "2024-06-14T14:59:26Z",
+            "windowTitle": "stoic_khayyam - Container - Docker Desktop",
+            "processName": "Docker Desktop",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T14:50:00Z"
+}

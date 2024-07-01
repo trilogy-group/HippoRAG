@@ -1,0 +1,154 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "MusNotificationUx",
+        "webstorm64"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T15:32:14Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes network status, sound volume, date and time display (17:32 06/12/2024), and language input method (ENG).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "feature/LAMBDA-3896 - Visual Studio Code",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "menu bar with options like File, Edit, View, Go, Run, Terminal, Help. Sidebar with Explorer tab open showing project structure. Bottom bar showing Git branch, problems count, and feedback icon."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Code Editor",
+                                        "layoutDescription": "Text editor with multiple tabs open",
+                                        "visibleText": "function buildJobFeedXml (campaigns: Campaign[], countries: Country[], config: Config): string {\n batches.forEach((campaigns: CampaignId) => void => {\n //\n //\n //\n //\n const miningCampaigns: Campaign[] = [];\n const miningCampaigns.forEach(Cat: Campaign => {\n if (Cat.Pipeline...ProductCode === '5183' || Cat.Pipeline...ProductCode === '5260') && Cat.Publish_Selection_c === 'Mine') {\n miningCampaigns.push(it);\n }\n });\n if (miningCampaigns.length > 0) {\n miningCampaigns.forEach(Campaign: Campaign => {\n Cat.categoryOverride = '12_PIPE-${campaign.Pipeline...ProductCode}_MININ incCategory(campaign.categoryOverride);\n });\n }\n const byIdZtofOffsets: Record<string, number> = {};\n callback for batches.forEach()\n }\n\n// Terminal Output\nSuccessfully uploaded to crossover-indeed/indeed-job-wrapping.xml\nDone\n\finished with exit code 0"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "appName": "System Update Notification",
+                        "windows": [
+                            {
+                                "title": "We've got an update for you",
+                                "position": "center",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "window with three buttons: Restart now, Another time, OK"
+                                },
+                                "content": [
+                                    {
+                                        "title": "System Update Notification",
+                                        "layoutDescription": "Single window popup",
+                                        "visibleText": "Windows is continuously improving, and updates are a normal part of keeping it running smoothly. We'll restart and install this update at 17:35. Or, you can restart now if you're ready."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in writing code using Visual Studio Code. The project structure visible in the sidebar indicates that the user is working on a TypeScript project with multiple files open, including 'index.ts', 'index.d.ts', 'index.test.ts', and 'package.json'. The code editor shows a function 'buildJobFeedXml' which processes campaign data and generates XML. The terminal output at the bottom indicates that the user has successfully uploaded a file to 'crossover-indeed/indeed-job-wrapping.xml' and the process finished with exit code 0.",
+        "A system update notification is also visible on the screen, indicating that Windows is prompting the user to restart their computer to install updates. The notification offers options to 'Restart now', 'Another time', or 'OK'. This suggests that the user might need to manage their time to accommodate the system update without disrupting their workflow."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily focused on writing and managing code within Visual Studio Code, and there are no visible AI chat interfaces or AI-generated suggestions in the IDE.",
+    "activities": [
+        "WRITING_CODE"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "TESTS"
+    ],
+    "programmingLanguages": [
+        "TYPESCRIPT"
+    ],
+    "toolTypes": [
+        "IDE"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T15:30:02Z",
+            "windowTitle": "We've got an update for you",
+            "processName": "MusNotificationUx",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T15:31:02Z",
+            "windowTitle": "We've got an update for you",
+            "processName": "MusNotificationUx",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T15:32:02Z",
+            "windowTitle": "We've got an update for you",
+            "processName": "MusNotificationUx",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T15:33:02Z",
+            "windowTitle": "xo-hiring-monorepo ? indeed-xml-generator\\src\\index.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T15:34:02Z",
+            "windowTitle": "xo-hiring-monorepo ? indeed-xml-generator\\src\\index.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-12T15:30:00Z"
+}

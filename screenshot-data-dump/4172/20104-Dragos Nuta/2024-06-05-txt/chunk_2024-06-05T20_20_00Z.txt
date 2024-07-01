@@ -1,0 +1,284 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "ws-lambda.atlassian.net",
+        "meet.google.com",
+        "cloud.getliteral.ai",
+        "LockApp"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T20:22:07Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications. Displays the date and time as '6/5/2024 11:22 PM'. System tray includes network status, sound volume, and battery status icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - zii-cirx-oyg - Google Chrome",
+                                "url": "meet.google.com/zii-cirx-oyg?authu",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "conference controls include microphone toggle, camera toggle, captions, present now, more options, and hang up call buttons."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference Participants",
+                                        "layoutDescription": "Two main video feeds displayed",
+                                        "visibleText": "Isaac Squires, Dragos Nut\u0103"
+                                    },
+                                    {
+                                        "title": "Participant Details",
+                                        "layoutDescription": "Names displayed under video feeds",
+                                        "visibleText": "Isaac Squires, Dragos Nut\u0103"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "WS Lambda - Google Chrome",
+                                "url": "ws-lambda.atlassian.net/servicedes",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "page with navigation sidebar and main content area."
+                                },
+                                "content": [
+                                    {
+                                        "title": "WS Lambda",
+                                        "layoutDescription": "Web page layout with sidebar",
+                                        "visibleText": "WS Lambda\nContact us about\nCustomer Requests (for supported products)\nWhat can we help you with?\nCrossover Hire - Request Support or Configuration\nSubmit a request to operate a platform content or configuration change\nRaise this request on behalf of *\nDragos Nut\u0103 (dragos.nuta@urea.com)\nSummary *\nAdd a validator for LLM agents\nSuggested articles\nIMPLEMENTATION - MODIFYING UNITY ASSETS WITH LLMS\nModel gd-4turbo Context (Rules for AI V1) User requirement (what we want LLMs to do) REQUIREMENT\nREVIEW - AUTOMATED CODE REVIEW WITH MULTIPLE AGENTS\nReview - Automated Code Review with multiple agents AI Usage Playbook User guides\nLAMBDA-47520: VALIDATOR FOR DDR11 THROWS AN EXCEPTION\nAuthor Roger Marquardt Product Scales Infrastructure Module NS Validators Unit"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T20:25:04Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Search, Task View, Widgets, Chat, Microsoft Edge, File Explorer, Microsoft Store, Settings, and hidden icons. Displays the time as '11:25 PM' and date as '6/5/2024'. Network, sound, and battery status icons are visible.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Dashboard - Google Chrome",
+                                "url": "cloud.getliteral.ai/projects/ai-co",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, profile icon, and extension icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Dashboard",
+                                        "layoutDescription": "layout with multiple sections",
+                                        "visibleText": "Dashboard\nThe dashboard view is cached and refreshed every 15min.\nThread\n226\nNew threads\nActive User\n14\nUsers engaged\nThread Count\nThread count distribution over time.\nScore\n12\nScores collected\nToken\n12.5M\nToken used\nToken Usage\nDistribution of input and output token usage per model for the time window.\nScores\nAverage score over time.\nExperiment Scores\nExperiments average scores over time."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T20:29:38Z",
+            "desktop": {
+                "uiElements": [],
+                "applications": [
+                    {
+                        "appName": "Default Lock Screen",
+                        "windows": [
+                            {
+                                "title": "Lock Screen",
+                                "position": "Full Screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "visible UI elements"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Lock Screen",
+                                        "layoutDescription": "Full screen",
+                                        "visibleText": "The screen is completely black, indicating either a turned off monitor or a system issue where no content is being displayed."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a video conference on Google Meet, as evidenced by the screenshot showing the meeting interface with participants Isaac Squires and Dragos Nut\u0103. The meeting appears to be active, with the user likely discussing project-related topics. The Google Meet interface shows standard controls such as microphone toggle, camera toggle, and hang-up call buttons.",
+        "The user is also interacting with the WS Lambda service desk portal on Atlassian. The screenshot shows a request form being filled out to add a validator for LLM agents. The form includes fields for the requestor's details, summary, and description. Suggested articles related to the request are also visible, indicating the user might be seeking additional information or guidance.",
+        "Another activity involves the user monitoring a dashboard on the Literal AI platform. The dashboard provides various metrics such as thread count, active users, token usage, and experiment scores. The user is likely analyzing these metrics to assess the performance and engagement of their AI models. The dashboard is refreshed every 15 minutes, indicating real-time monitoring.",
+        "The final screenshot shows the user's computer in a locked state, with the screen completely black. This indicates that the user has either locked their computer or it has entered a sleep mode. No active work is being performed during this time."
+    ],
+    "aiUseSummary": "There is no direct evidence of AI tools being used in the provided screenshots. The user is primarily engaged in a video conference, filling out a service desk request form, and monitoring a dashboard. There are no visible interactions with AI chat interfaces or AI-driven tools in the screenshots. Therefore, it can be inferred that AI tools were not utilized during this specific time frame.",
+    "activities": [
+        "MEETING",
+        "READING_SPEC"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 45,
+            "mouse": 18,
+            "date": "2024-06-05T20:20:02Z",
+            "windowTitle": "Crossover Hire - Request Support or Configuration - WS Lambda - Jira Service Management - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/servicedesk/customer/portal/5/group/32/create/389",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 68,
+            "mouse": 1,
+            "date": "2024-06-05T20:21:02Z",
+            "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T20:22:02Z",
+            "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 10,
+            "mouse": 1,
+            "date": "2024-06-05T20:23:01Z",
+            "windowTitle": "Dashboard - Google Chrome",
+            "processName": "cloud.getliteral.ai",
+            "visitingUrl": "cloud.getliteral.ai/projects/ai-coach-AA9M01hzCsyH/dashboard",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T20:24:01Z",
+            "windowTitle": "Dashboard - Google Chrome",
+            "processName": "cloud.getliteral.ai",
+            "visitingUrl": "cloud.getliteral.ai/projects/ai-coach-AA9M01hzCsyH/dashboard",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T20:25:02Z",
+            "windowTitle": "Dashboard - Google Chrome",
+            "processName": "cloud.getliteral.ai",
+            "visitingUrl": "cloud.getliteral.ai/projects/ai-coach-AA9M01hzCsyH/dashboard",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T20:26:02Z",
+            "windowTitle": "Dashboard - Google Chrome",
+            "processName": "cloud.getliteral.ai",
+            "visitingUrl": "cloud.getliteral.ai/projects/ai-coach-AA9M01hzCsyH/dashboard",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T20:27:02Z",
+            "windowTitle": "Dashboard - Google Chrome",
+            "processName": "cloud.getliteral.ai",
+            "visitingUrl": "cloud.getliteral.ai/projects/ai-coach-AA9M01hzCsyH/dashboard",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T20:28:02Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T20:29:02Z",
+            "windowTitle": "Windows Default Lock Screen",
+            "processName": "LockApp",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-05T20:20:00Z"
+}

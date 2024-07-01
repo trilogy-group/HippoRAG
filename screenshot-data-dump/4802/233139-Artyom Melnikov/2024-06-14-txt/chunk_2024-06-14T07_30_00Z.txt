@@ -1,0 +1,281 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "ws-lambda.atlassian.net",
+        "mail.google.com",
+        "webstorm64"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T07:30:43Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, widgets, and several pinned applications. System tray includes network, sound, and clock icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Inbox - artyom.melnikov@trilogy.com - DevFactory Mail",
+                                "url": "mail.google.com/mail/u/0/#inbox",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, and Gmail interface with navigation pane, search bar, and main email list."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Email List",
+                                        "layoutDescription": "List format",
+                                        "visibleText": "- WSL Lambda Automation: [LIRJA] [LAMBDA-7610] Upgrade info lib - WSL Lambda Automation made 1 update. WSL LambdaLAMBDA-7610 Upgrade cka info lib\n- Dragos Nuta (Google. Week 10 Detail 1: Inbox has a bit... - Dragos Nuta added a comment to the following document Week 11 Detailed / LAMBDA-7606 I comment BFGTestTakers 10 Dragos Nuta - 10:05 PM, Jun 13 (CEST) New I would increase this a bit... Open\n- WS, Denys, Dmitrii & [LIRJA] [LAMBDA-7584] Sign-up without applying for a specific job - WSL Lambda Automation made 1 update. WSL LambdaLAMBDA-7584 Sign-up without applying for a specific job\n- Failing delivery to webhook 'Update Pipeline Metadata' for 1 hour - Hi Artem, There have been problems delivering a notification to the webhook Update Pipeline Metadata configured in the Production environment of your project Crossover Hire DEV. The delivery of the\n- Salesforce: Unspecified Legacy API Versions - Product & Service Notification As you may know, legacy API versions 210 through 30.0 are deprecated and unsupported. You are receiving this email because you're an admin of an org where the\n- Demo Day on June 13, 2024 | Read Meeting Report - Artem Melnikov led a meeting discussing the implementation of special pipelines for job roles and candidates, as well as the challenges of displaying pipeline titles on role pages and prioritizing real\n- Notes - XO Check-in - @artyom.melnikov@trilogy.com, is thi... - Dragos Nuta (dragos.nuta@trilogy.com) mentioned you in a comment in the following document Notes - XO Check-in 1 comment Category Jobs Dragos Nuta - 12:23 PM, Jun 13 (CEST) @artyom.melnikov@trilogy.com\n- Here's your verification code - Your digi-verification code is 02307T\n- [LIRJA] [LAMBDA-7635] The campaignCookie is not set on genre pages (reiteration) - Dmitrii Shutkenov made 2 updates. WSL LambdaLAMBDA-7635 The campaignCookie is not set on genre pages (reiteration)\n- [LIRJA] [LAMBDA-7591] Plan and Design Stories - Week 24 - Artem - ScriptRunner for Jira mentioned you on an issue WSL LambdaLAMBDA-7591 Plan and Design Stories - Week 24 - Artem\n- ScriptRunner for Jira: Updated invitation: XO Check-in @ Wed Jun 19, 2024 10:30 - TIGO (GMT+2) (Artem Melnikov) - XO Check-in with John Google Meet - Wed&#39;ll use this time to go through any blockers or questions you might have for tasks in the current sprint This event has been updated Changed: time ...\n- Updated invitation: XO Check-in @ Tue Jun 18, 2024 10:30 - TIGO (GMT+2) (Artem Melnikov) - XO Check-in with John Google Meet - We&#39;ll use this time to go through any blockers or questions you might have for tasks in the current sprint This event has been updated Changed: time ...\n- Updated invitation: XO Check-in @ Mon Jun 17, 2024 10:30 - TIGO (GMT+2) (Artem Melnikov) - XO Check-in with John Google Meet - We&#39;ll use this time to go through any blockers or questions you might have for tasks in the current sprint This event has been updated Changed: time ...\n- XO-HIRING-ADMIN Production environment is live! - Dear team, The change has been deployed to 'production' by lambda-service-user-github ... You received this message because you are subscribed to the Google Groups 'xo-hiring-dev'\n- trilogy-group-io-hiring: Scheduled to release: FIX:LAMBDA-7603; Invalid SOL - WSL LambdaLAMBDA-7603 Invalid SOL - WPA pipeline jobs in parentheses has been scheduled to release to production. PR link: http://github.com/trilogy-group-io-hiring\n- Automation for Jira: Important! UIRA (LAMBDA-7602) - Immediate need on your WPA pipeline - A process automation for Jira mentioned you at Ticket LAMBDA-7602; WPA pipeline Task Time tab is not loading\n- QuickSight Data Ing. 2 - QuickSight disaster failed to refresh - 'RT V1 - 2' Opportunity - Failed to refresh a problem occurred during the refresh of your SPICE dataset for the account 'id-quicksight-jira'. Here are the details: This ingestion has\n- Automation - Serbans 12 - LIRJA (LAMBDA-7568) 'Indeed 2024' Week 9 Investigation - Serban Petrescu made 1 update. WSL LambdaLAMBDA-7568 Indeed 2024 Week 9 Investigation\n- Pipelines missing from 'Test - FIX' is implemented, as active on sandbox, and will be deployed to production tomorrow as soon as possible. On Wed, Jun 12, 2024 at 8:48 PM Heather Leather (leather@Crossover.com) wrote:\n- XO-HIRING-ADMIN: Sandbox environment is live! - Dear team, The change has been deployed to 'sandbox' by lambda-service-user-github ... You received this message because you are subscribed to the Google Groups 'xo-hiring-dev'"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T07:35:57Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Visual Studio Code, File Explorer, and other unidentified applications. Also includes system clock showing '19:17', system tray with network, sound, and battery status icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "infra.ts - lambda-cdk-infra - Visual Studio Code",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "menu bar at top, sidebar on left, editor in center, status bar at bottom"
+                                },
+                                "content": [
+                                    {
+                                        "title": "File Explorer Sidebar",
+                                        "layoutDescription": "Vertical list",
+                                        "visibleText": "lambda-cdk-infra\n.github"
+                                    },
+                                    {
+                                        "title": "Editor",
+                                        "layoutDescription": "Text editor with code",
+                                        "visibleText": "import { StackConfig } from './root-stack';\n\nexport interface InfraInitConfig {\n projectName: string;\n entryPoint?: string;\n deployments?: {\n overrideDeployments?: string;\n contextParameterName?: string;\n }\n environment?: {\n overrideName?: string;\n contextParameterName?: string;\n }\n cdkArguments?: string;\n owner?: string;\n ownerTagProps?: TagProps;\n customTags?: { name: string; value: string; };\n}\n\nconst DefaultConfig: InfraInitConfig = {\n projectName: 'default-project',\n environment: {\n contextParameterName: 'env',\n },\n deployments: {\n contextParameterName: 'deployments',\n },\n cdkArguments: '',\n};\n\n/**\n * 1. Run call this normally via any CLI and pass parameters\n * 2. Process parameters and convert them into CDK CLI command\n * 3. Run CDK manually, point to the specific wrapper\n * 4. Done!\n */"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T07:39:26Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Visual Studio Code, File Explorer, and other unidentified applications. Also includes system clock showing '19:17' and system date '2024/06/14'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "infra.ts - lambda-cdk-infra - Visual Studio Code",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar at top, sidebar on the left, editor in the center, status bar at bottom"
+                                },
+                                "content": [
+                                    {
+                                        "title": "File Explorer",
+                                        "layoutDescription": "Vertical panel on the left",
+                                        "visibleText": "lambda-cdk-infra\n.github\nnode_modules\nLibraries\nScratches and Consoles"
+                                    },
+                                    {
+                                        "title": "infra.ts",
+                                        "layoutDescription": "Main editor window",
+                                        "visibleText": "import { StackConfig } from './root-stack';\n\nexport interface InfraInitConfig {\n projectName: string;\n entryPoint?: string;\n deployments?: {\n overrideDeployments?: string;\n contextParameterName?: string;\n }\n environment?: {\n overrideName?: string;\n contextParameterName?: string;\n }\n cdkArguments?: string;\n owner?: string;\n ownerTagProps?: TagProps;\n customTags?: { name: string; value: string; };\n}\n\nconst DefaultConfig: InfraInitConfig = {\n projectName: 'default-project',\n environment: {\n contextParameterName: 'env',\n },\n deployments: {\n contextParameterName: 'deployments',\n },\n cdkArguments: '',\n};\n\n/**\n * 1. Run call this normally via any CLI and pass parameters\n * 2. Process parameters and convert them into CDK CLI command\n * 3. Run CDK manually, point to the specific wrapper\n * 4. Done!\n */"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in managing their email inbox on Gmail. They are reviewing various emails related to project updates, meeting invitations, and notifications from different services. Specific emails include updates on project tasks, verification codes, and meeting schedules. The user is likely prioritizing and organizing their tasks based on the information received in these emails.",
+        "The user is writing code in WebStorm, focusing on a TypeScript project related to AWS CDK infrastructure. The code involves defining an interface for infrastructure configuration, including properties for project name, entry points, deployments, environment settings, and custom tags. The user is likely working on setting up or modifying the infrastructure configuration for a project, ensuring that all necessary parameters and settings are correctly defined.",
+        "The user continues to work on the same TypeScript file in WebStorm, refining the infrastructure configuration. They are defining default configuration values and adding comments to explain the steps for running the configuration via CLI. This indicates that the user is ensuring the code is well-documented and easy to understand for future reference or for other team members who might work on the same project."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in managing emails and writing code in WebStorm without any visible interaction with AI tools or assistants.",
+    "activities": [
+        "EMAIL",
+        "WRITING_CODE"
+    ],
+    "workTypes": [
+        "IAC"
+    ],
+    "programmingLanguages": [
+        "TYPESCRIPT"
+    ],
+    "toolTypes": [
+        "WEB_BROWSER",
+        "IDE"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T07:30:16Z",
+            "windowTitle": "Crossover Kanban - Agile Board - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/jira/software/c/projects/HIRE/boards/1?quickFilter=5",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T07:31:16Z",
+            "windowTitle": "Inbox - artyom.melnikov@trilogy.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 3,
+            "date": "2024-06-14T07:32:16Z",
+            "windowTitle": "lambda-cdk-infra ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T07:33:16Z",
+            "windowTitle": "lambda-cdk-infra ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T07:34:17Z",
+            "windowTitle": "lambda-cdk-infra ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 3,
+            "date": "2024-06-14T07:35:17Z",
+            "windowTitle": "lambda-cdk-infra ? infra.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T07:36:17Z",
+            "windowTitle": "lambda-cdk-infra ? infra.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T07:37:17Z",
+            "windowTitle": "lambda-cdk-infra ? infra.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T07:38:17Z",
+            "windowTitle": "lambda-cdk-infra ? infra.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T07:39:16Z",
+            "windowTitle": "lambda-cdk-infra ? infra.ts",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-14T07:30:00Z"
+}

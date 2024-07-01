@@ -1,0 +1,320 @@
+{
+  "candidateId": 2368956,
+  "apps": [
+    "docs.google.com",
+    "dev.postbeyonddev.com",
+    "aurea.com",
+    "calendar.google.com",
+    "Google Chat",
+    "app.hubspot.com"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-06T10:33:00Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Chrome, Outlook, Slack, Word, Excel, PowerPoint, OneNote, Teams, File Explorer, Adobe Reader, Command Prompt, Settings, and other unidentified applications. Also includes the Start menu icon, search bar, task view button, and system tray with time and date display.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Aurea Product Support End of Life (EOL) Dates and Policy",
+                "url": "https://www.aurea.com/resources/support/end-of-life",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and vertical scroll bar."
+                },
+                "content": [
+                  {
+                    "title": "Aurea Product Support End of Life (EOL) Dates and Policy",
+                    "layoutDescription": "Web page with text and tables",
+                    "visibleText": "Aurea Product Support End of Life (EOL) Dates and Policy\n\nTable of Contents\n\nAurea CRM\n\nProduct Version\tRelease Date\tActive Maintenance ends\nCRM Web\n1.0\tFeb 2022\tSupported\n1.1\tApr 2020\tMar 2021\n1.2\tMar 2020\tMar 2021\n1.3\tDec 2019\tMar 2021\nCRM iPad\n1.0\tDec 2020\tSupported"
+                  }
+                ]
+              },
+              {
+                "title": "Marketing Email",
+                "url": "https://mail.google.com/mail/u/0/#inbox",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, and vertical scroll bar."
+                },
+                "content": [
+                  {
+                    "title": "Marketing Email",
+                    "layoutDescription": "Email interface with list and preview",
+                    "visibleText": "Marketing Email\n\nMessage\n\nAndrew\n\nHi,\n\nI'm trying to understand your problem better. Can you please tell me more about it?\n\nThanks,\n\nAndrew\n\nHi,\n\nI think I now understand what you're asking. Here's what I suggest:\n\n- First, we need to look at the data.\n\n- Then, we need to talk to the team about how they manage data.\n\n- Finally, we need to look at the system that manages the data.\n\nLet me know if this helps!\n\nThanks,\n\nAndrew"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Excel",
+            "windows": [
+              {
+                "title": "Marketing Tool",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "ribbon, formula bar, and status bar."
+                },
+                "content": [
+                  {
+                    "title": "Marketing Tool",
+                    "layoutDescription": "Excel spreadsheet with multiple columns",
+                    "visibleText": "Marketing Tool\n\nID\tName\tEmail\tPhone\tStatus\tLast Contact\tNotes\n1\tJohn Doe\tjohndoe@example.com\t555-1234\tActive\tJune 1, 2024\tCalled, no response\n2\tJane Doe\tjanedoe@example.com\t555-5678\tInactive\tMay 5, 2024\tEmailed, no reply\n3\tJim Beam\tjimbeam@example.com\t555-9012\tActive\tApril 20, 2024\tMet in person\n4\tJack Daniels\tjackdaniels@example.com\t555-3456\tActive\tApril 15, 2024\tPhone call, positive feedback\n5\tJohnny Walker\tjohnnywalker@example.com\t555-7890\tActive\tApril 10, 2024\tEmailed, positive response\n6\tJose Cuervo\tjosecuervo@example.com\t555-2345\tActive\tApril 5, 2024\tPhone call, asked for follow-up\n7\tJill Valentine\tjillvalentine@example.com\t555-6789\tActive\tApril 1, 2023\tMet in person, positive interaction\n8\tJames Bond\tjamesbond@example.com\t555-4321\tActive\tNovember 20, 2023\tEmailed, no response\n9\tJason Bourne\tjasonbourne@example.com\t555-8765\tActive\tNovember 15, 2023\tPhone call, discussed project\n10\tJack Sparrow\tjacksparrow@example.com\t555-1235\tActive\tNovember 10, 2023\tEmailed, awaiting reply"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Outlook",
+            "windows": []
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-06T10:34:57Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Reminders, Notes, Photo Booth, Maps, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Time Machine, Stickies, QuickTime Player, and others. Docked at the bottom of the screen.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Finder",
+            "windows": []
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-06T10:38:00Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Notes, Reminders, Maps, Photos, Messages, FaceTime, iTunes, iBooks, App Store, System Preferences, Terminal, Trash",
+            "position": "bottom"
+          },
+          {
+            "elementType": "dock",
+            "details": "docked application bar at the bottom with various application icons visible",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Marketing Email | HubSpot",
+                "url": "https://app.hubspot.com/email/123",
+                "position": "left half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "address bar, bookmarks bar, vertical scrollbar, horizontal scrollbar"
+                },
+                "content": [
+                  {
+                    "title": "Marketing Email",
+                    "layoutDescription": "Web browser layout",
+                    "visibleText": "Some amendments made with existing modified to be sent via a HubSpot template. Email list: Search, Reset, Date Range, Recipient, Subject, Advanced filters (link), Add Filter, Actions, Refresh. Email table columns: Email ID, Sent, Opens, Clicks, Replies, Scheduled, Last Sent, Created, Status, Actions. Email entries: Various email IDs and corresponding data for Sent, Opens, Clicks, Replies, Scheduled, Last Sent, Created, Status."
+                  }
+                ]
+              },
+              {
+                "title": "Aurea",
+                "url": "https://aurea",
+                "position": "right half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "address bar, bookmarks bar, vertical scrollbar, horizontal scrollbar"
+                },
+                "content": [
+                  {
+                    "title": "Aurea CRM",
+                    "layoutDescription": "Web browser layout",
+                    "visibleText": "Table of Contents: Aurea Subscription Solutions, Aurea CRM, Aurea Integration Solutions. Aurea CRM section: Product Version, Release Date, Active Maintenance ends, CRM Web, V12, V11, V10, V9, V8, V7, V6, V5, V4. Aurea Integration Solutions section: Product Version, Release Date, Active Maintenance ends, Enterprise (various versions), Release dates ranging from Feb 2022 to Jan 2007, Support status."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in reading product specifications and documentation. They are viewing the 'Aurea Product Support End of Life (EOL) Dates and Policy' page on the Aurea website. This document contains detailed information about the end-of-life dates and policies for various Aurea CRM and integration solutions. The user is likely gathering information about product support timelines and maintenance schedules.",
+    "The user is also managing marketing emails using HubSpot. They are viewing a list of marketing emails with various metrics such as sent, opens, clicks, replies, and scheduled dates. This activity suggests that the user is involved in email marketing campaigns, analyzing the performance of different email campaigns, and possibly planning future email marketing strategies.",
+    "Additionally, the user is engaged in team communication via Google Chat. They are participating in a conversation with a team member named Omar Ortiz, discussing the scheduling of meetings and tasks related to 'unsuccessful customers'. This indicates that the user is coordinating with their team to address customer-related issues and planning future meetings to discuss these topics further.",
+    "The user is also using Google Calendar to manage their schedule. They are viewing their calendar for the week of June 2024, which includes various meetings and events. This activity shows that the user is organizing their time and ensuring they are aware of upcoming commitments and deadlines.",
+    "Lastly, the user is reading a document on Google Docs titled 'Unsuccessful Customers'. This document outlines various challenges and strategies related to customer engagement and retention. The user is likely reviewing this document to understand better how to address issues with customer satisfaction and improve their overall customer engagement strategies."
+  ],
+  "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in reading documentation, managing emails, communicating with team members, and organizing their schedule. No interactions with AI tools for code suggestions, research, guidance, or debugging are visible in the screenshots.",
+  "activities": [
+    "READING_SPEC",
+    "EMAIL",
+    "CHATTING_WITH_TEAM",
+    "MEETING"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "READING_SPEC",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 26,
+      "mouse": 12,
+      "date": "2024-06-06T10:30:52Z",
+      "windowTitle": " Meaghan [AdvocateHub] - Interview Summary - Google Docs - Google Chrome\n",
+      "processName": "docs.google.com",
+      "visitingUrl": "https://docs.google.com/document/d/1G_vfq5h1k8_aiEvpjVNxEXQouopSIYXYvp691jUrxUY/edit",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 6,
+      "mouse": 12,
+      "date": "2024-06-06T10:31:52Z",
+      "windowTitle": " Explore ï¿½ PostBeyond - Google Chrome\n",
+      "processName": "dev.postbeyonddev.com",
+      "visitingUrl": "https://dev.postbeyonddev.com/element/topic/",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 12,
+      "date": "2024-06-06T10:32:52Z",
+      "windowTitle": " Aurea Product Support End of Life (EOL) Dates and Policy - Google Chrome\n",
+      "processName": "aurea.com",
+      "visitingUrl": "https://www.aurea.com/resources/product-support-eol/#integration",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 7,
+      "mouse": 16,
+      "date": "2024-06-06T10:33:52Z",
+      "windowTitle": " DevFactory - Calendar - Event details - Google Chrome\n",
+      "processName": "calendar.google.com",
+      "visitingUrl": "https://calendar.google.com/calendar/u/0/r/eventedit/MHVwcjBiam04OWQxOWx0OWwxYWlkbHJzaTMgZ2VvcmdlLmRpdGFAdHJpbG9neS5jb20",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 53,
+      "mouse": 10,
+      "date": "2024-06-06T10:34:52Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T10:35:52Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-06T10:36:52Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 3,
+      "date": "2024-06-06T10:37:52Z",
+      "windowTitle": " Google Chat\n",
+      "processName": "Google Chat",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 8,
+      "mouse": 15,
+      "date": "2024-06-06T10:38:52Z",
+      "windowTitle": " Marketing Email | HubSpot - Google Chrome\n",
+      "processName": "app.hubspot.com",
+      "visitingUrl": "https://app.hubspot.com/email/40828524/manage/state/all",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 9,
+      "date": "2024-06-06T10:39:52Z",
+      "windowTitle": "https://calendar.google.com/calendar/u/0/r/week\n",
+      "processName": "calendar.google.com",
+      "visitingUrl": "https://calendar.google.com/calendar/u/0/r/week",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-06T10:30:00Z"
+}

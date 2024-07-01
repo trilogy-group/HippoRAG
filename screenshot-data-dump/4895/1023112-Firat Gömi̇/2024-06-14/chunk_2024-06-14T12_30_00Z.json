@@ -1,0 +1,191 @@
+{
+  "candidateId": 2027577,
+  "apps": [
+    "app.crossover.com",
+    "notion.so",
+    "app.read.ai"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-14T12:34:51Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Siri, Safari, Mail, Maps, Photos, Messages, FaceTime, Calendar, Contacts, Reminders, Notes, TV, Music, Podcasts, News, System Preferences, Adobe Creative Cloud, Microsoft Word, Excel, PowerPoint, Outlook, OneNote, OneDrive, Teams, Visual Studio Code, Terminal, Docker, IntelliJ IDEA, PyCharm, DataGrip, WebStorm, CLion, PhpStorm, RubyMine, AppCode, GoLand, Rider, ReSharper, ReSharper C++, dotCover, dotMemory, dotTrace, dotPeek, TeamCity, YouTrack, Upsource, Hub, Kotlin, MPS, Fleet, Space, and Zoom",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "WorkSmart - Google Chrome - Firat (trilogy.com)",
+                "url": "",
+                "position": "fullscreen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, bookmarks bar, navigation buttons"
+                },
+                "content": [
+                  {
+                    "title": "WorkSmart Dashboard",
+                    "layoutDescription": "Grid layout of thumbnails",
+                    "visibleText": "VERSES AI Announces... 09:28 AM 46 15 The AI-Writing Paradox... 09:28 AM 32 22 Edit Email Jive Colla... 09:28 AM 52 29 ChatGPT - Google Chr... 09:28 AM 29 15 GPT-5 Everything we ... 09:28 AM 77 7 Don't Understand... 09:28 AM 31 15 Edit Email Jive Colla... 10:00 AM 100 27 Edit Email Jive Colla... 10:00 AM 52 29 Edit Email Jive Colla... 10:00 AM 32 22 Defractory Mail - Prim... 11:30 AM 204 31"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-14T12:38:11Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Finder, Launchpad, Safari, Mail, Calendar, Contacts, Notes, Reminders, Photo Booth, Maps, Messages, FaceTime, News, iTunes, iBooks, App Store, System Preferences, Terminal, Trash. Also includes a docked application bar with visible icons for WorkSmart, Slack, Google Chrome, and other unidentified applications. System clock shows '4:53 PM'.",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "WorkSmart - Google Chrome - Firat (trilogy.com)",
+                "url": "https://app.crossover.com/x",
+                "position": "maximized",
+                "isActive": true,
+                "uiElements": {
+                  "details": "tabs, address bar, navigation buttons, profile icon, extensions icons"
+                },
+                "content": [
+                  {
+                    "title": "WorkSmart Dashboard",
+                    "layoutDescription": "Grid layout of thumbnails",
+                    "visibleText": "WorkSmart Dashboard for June 14, 2024, showing a grid of thumbnails representing different time slots throughout the day, each thumbnail showing a screenshot of the user's desktop at that time. Thumbnails are labeled with times and activity metrics such as '11 am', '12 pm', '1 pm', 'Meeting time', 'Meet - agent-app-eng-QA', 'Call-List - Outreach', '1x1 - app - Google Cloud', 'DevFactory Mail - Plan', 'DevFactory Mail - Playbook', 'News | Crossover Today - Mail', 'Meet - app-eng-QA', 'Call-List - Outreach', '1x1 - app - Google Cloud', 'DevFactory Mail - Plan', 'DevFactory Mail - Playbook', 'News | Crossover Today - Mail'."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "appName": "Slack",
+            "windows": [
+              {
+                "title": "Slack - TPR - worksmart",
+                "position": "bottom right",
+                "isActive": false,
+                "uiElements": {
+                  "details": "interface with sidebar, message input area, and message display area"
+                },
+                "content": [
+                  {
+                    "title": "Slack - Team Chat",
+                    "layoutDescription": "List and chat layout",
+                    "visibleText": "Slack interface showing a conversation in the 'June - TPR' channel. Visible messages include: 'Firat: Type “reset” in... Edit Comment', 'Firat: Management started and restarting the whole lot of meeting participants', 'Firat: Had a meeting, notes were...', 'Firat: Road analysis generated and meeting outcome to Mail', 'Firat: Have signed a MoU & directed right...', 'Firat: Today’s tech stop to finalize, or “opt out” to delete meeting'."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in reviewing their WorkSmart dashboard on Google Chrome. The dashboard displays a grid layout of thumbnails representing different time slots throughout the day, each showing a screenshot of the user's desktop at that time. The user is likely analyzing their productivity and activities for June 14, 2024, as indicated by the visible text and layout description. This activity involves navigating through the dashboard to understand the time allocation and tasks performed during the day.",
+    "The user is also seen interacting with Slack, specifically in the 'June - TPR' channel. The visible messages indicate discussions about meeting management, notes, and outcomes. The user is likely coordinating with team members, sharing updates, and managing tasks related to their projects. This activity involves reading and possibly responding to messages, which is crucial for team collaboration and project management.",
+    "Additionally, the user is using the Read.ai application, as indicated by the link visited. This suggests that the user is analyzing meeting analytics, possibly reviewing notes and summaries generated by the AI tool. This activity involves understanding the insights provided by Read.ai to improve meeting efficiency and follow-up actions."
+  ],
+  "aiUseSummary": "The user utilizes AI tools primarily for meeting analytics and summaries. The interaction with Read.ai indicates that the user is leveraging AI to generate and review meeting notes and summaries. This helps in understanding the key points discussed during meetings and aids in better follow-up and task management. The AI tool's impact on productivity is significant as it automates the note-taking process and provides actionable insights, enhancing the user's efficiency in managing meetings and related tasks.",
+  "activities": [
+    "RESEARCH",
+    "CHATTING_WITH_TEAM",
+    "EMAIL"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "WEB_BROWSER"
+  ],
+  "aiTools": [
+    "SHORTWAVE"
+  ],
+  "usingAi": true,
+  "mostRelevantActivity": "RESEARCH",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 4,
+      "date": "2024-06-14T12:35:44Z",
+      "windowTitle": " WorkSmart - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "app.crossover.com",
+      "visitingUrl": "https://app.crossover.com/x/dashboard/contractor/my-dashboard?date=2024-06-14&activeView=dailyLogbook",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 13,
+      "mouse": 5,
+      "date": "2024-06-14T12:36:44Z",
+      "windowTitle": " WorkSmart - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "app.crossover.com",
+      "visitingUrl": "https://app.crossover.com/x/dashboard/contractor/my-dashboard?date=2024-06-14&activeView=dailyLogbook",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 6,
+      "date": "2024-06-14T12:37:44Z",
+      "windowTitle": " Notepad - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "notion.so",
+      "visitingUrl": "https://www.notion.so/Notepad-3aa7dc9f34104e9fa6467b77b1ff8e3f#bb8874b54670467eb9f96dcbec52f456",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 7,
+      "date": "2024-06-14T12:38:44Z",
+      "windowTitle": " WorkSmart - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "app.crossover.com",
+      "visitingUrl": "https://app.crossover.com/x/dashboard/contractor/my-dashboard?date=2024-06-14&activeView=dailyLogbook",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    },
+    {
+      "keyboard": 0,
+      "mouse": 6,
+      "date": "2024-06-14T12:39:44Z",
+      "windowTitle": " Read - Meeting Report - Recap - Google Chrome - Firat (trilogy.com)\n",
+      "processName": "app.read.ai",
+      "visitingUrl": "https://app.read.ai/analytics/meetings/01J0B4M97QKSCNYAHJCQRJ1ET5?utm_source=sendgrid&utm_medium=email&utm_campaign=pcp_meeting_recap&utm_content=view_report&section=notes",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-14T12:30:00Z"
+}

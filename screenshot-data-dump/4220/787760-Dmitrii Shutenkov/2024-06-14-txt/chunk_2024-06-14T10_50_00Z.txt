@@ -1,0 +1,285 @@
+{
+    "candidateId": 1444536,
+    "apps": [
+        "Code",
+        "pythonw",
+        "chatgpt.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T10:52:53Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, Microsoft Edge, File Explorer, Visual Studio Code, and system tray including network, sound, and date/time display",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "test.py - tools - Visual Studio Code",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "menu bar with File, Edit, Selection, View, Go, Run, Terminal, Help; sidebar with Explorer, Search, Source Control, Run, Extensions, and more; status bar at bottom"
+                                },
+                                "content": [
+                                    {
+                                        "title": "test.py",
+                                        "layoutDescription": "Python editor open",
+                                        "visibleText": "from salesforce import SalesforceConnection\n\n# print(campaign_query(['GA-Cat.%', 'GA-5183.%'], '2000-01-01T00:00:00.000+0000'))\nsf_connection = SalesforceConnection('dmitrii.shutenkov@trilogy.com', 'Tsv03VspQ', 'F3pzUv74KSTSmJNuz')\nres = sf_connection.get_applications(['GA-Cat.%'])\nprint(res)\n\nActive_Stage__c', 'BFO'); ('StageName', 'Rejected')])\nPS C:\\Users\\xouser\\Projects\\tools\\ & 'C:\\Program Files\\Python311\\python.exe' c:\\users\\xouser\\Projects\\tools\\campaign-tracker.py\nId, AccountId, CampaignId, CreatedDate, Lead_Source_Campaign__c, Advertised_Title_c,\nCandidate_Country__c, CCAT_Score__c, Last_Active_Stage__c, StageName\nFound 2000 records\nFound 2475 records\nOrderedDict([('attributes', OrderedDict([('type', 'Opportunity'), ('url', '/services/data/v59.0/sobjects/Opportunity/0061j0 ('Id', '0061j00002uHyMIAU'), ('AccountId', '0011j00003EM8qIAG'), ('CampaignId', '7011j000000kxyIAA'), ('CreatedDate', '2024-05-26T19:26:02.000+0000'), ('Lead_Source_Campaign__c', 'GA-Cat.AI.SME.maxAFRICA'), ('Advertised_Title__c', 'VP of Design'), ('Candidate_Country__c', 'ke'), ('CCat_Score__c', 0.0), ('Last_Active_Stage__c', 'BFO'), ('StageName', 'Rejected')])]"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T10:53:33Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, Microsoft Edge, File Explorer, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '11:53:35 AM 14/06/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "test.py - campaign-tracking - Visual Studio Code",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "UI bar at top with File, Edit, Selection, View, Go, Run, Terminal, Help. Side bar on left with Explorer, Search, Source Control, Run, Extensions, and more. Bottom bar with Problems, Output, Debug Console, Terminal tabs."
+                                },
+                                "content": [
+                                    {
+                                        "title": "test.py",
+                                        "layoutDescription": "editor open",
+                                        "visibleText": "from salesforce import SalesforceConnection\n\n# print(campaign_query(['GA-Cat.%', 'GA-5183.%'], '2000-01-01T00:00:00.000+0000'))\nsf_connection = SalesforceConnection('dmitrii.shutenkov@trilogy.c 'Tsv03VspQ', 'F3pzUv74KSTSmJNuz')\nres = sf_connection.get_applications(['GA-Cat.%'])\npri"
+                                    },
+                                    {
+                                        "title": "editor tab inactive",
+                                        "layoutDescription": "editor tab inactive",
+                                        "visibleText": "Visible but not focused, text not readable"
+                                    },
+                                    {
+                                        "title": "Terminal",
+                                        "layoutDescription": "output visible",
+                                        "visibleText": "Active_Stage__c', 'BFO'); ('StageName', 'Rejected')])\nPS C:\\Users\\xouser\\Projects\\tools\\ & 'C:\\Program Files\\Python311\\python.exe' c:\\users\\xouser\\Projects\\tools\\campaign-trac Id, AccountId, CampaignId, CreatedDate, Lead_Source_Campaign__c, Advertised_Title__c, Candidate_Country__c, CCAT_Score__c, Last_Active_Stage__c, StageName\nFound 2000 records\nFound 2475 records\nOrderedDict([('attributes', OrderedDict([('type', 'Opportunity'), ('url', '/services/data/v59.0/sobjects/Opportunity/0061j0 ('Id', '0061j00002uHyMIAU'), ('AccountId', '0011j00003EM8qIAG'), ('CampaignId', '7011j000000kxyIAA'), ('CreatedDate', '2024-05-26T19:26:02.000+0000'), ('Lead_Source_Campaign__c', 'GA-Cat.AI.SME.maxAFRICA'), ('Advertised_Title__c', 'VP of Design'), ('Candidate_Country__c', 'ke'), ('CCAT_Score__c', 0.0), ('Last_Active_Stage__c', 'BFO'), ('StageName', 'Rejected')])]"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T10:58:21Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Microsoft Edge, File Explorer, Microsoft Store, and other unidentified applications. Also displays the system clock showing '11:58:23' and date '14/06/2024'. Language input method 'ENG' and a notification area with network, sound, and battery status icons are visible.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "gsheets.ts - master-assistant - Visual Studio Code",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Top menu bar with options for File, Edit, Selection, View, Go, Run, Terminal, Help. Sidebar with icons for Explorer, Search, Source Control, Run, Extensions, and more. Bottom bar with 'main*' branch indicator, 'Collect campaign results (master-assistant)' task running, and PowerShell terminal open."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Code Editor",
+                                        "layoutDescription": "Text editor with multiple tabs open",
+                                        "visibleText": "1 import { google, sheets_v4 } from 'googleapis';\n2 import { readFileSync } from 'fs';\n3\n4 export async function populateData(data : any[], spreadsheetId: string) {\n5 const credentialsJson = JSON.parse(readFileSync('../credentials.json', 'utf8'));\n6\n7 // Set up the Google Sheets API client\n8 the GoogleAuth({\n9 credentials: credentialsJson,\n10 scopes: ['https://www.googleapis.com/auth/spreadsheets'], });\n12\n13 the sheets = google.sheets({ version: 'v4', auth });\n14\n15 the request: sheets_v4.ParamsResource$Spreadsheets$Values$Upda = {\n16 spreadsheetId: spreadsheetId,\n17 range: 'Sheet1!A1',\n18 valueInputOption: 'USER_ENTERED',\n19 requestBody: {\n20 // requestBody content not fully visible"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in writing and executing Python code within Visual Studio Code. They are working on a project named 'campaign-tracking' and have multiple Python files open, including 'test.py' and 'salesforce.py'. The code involves importing a Salesforce connection and querying data related to campaigns. The terminal output shows the execution of a script that retrieves and prints campaign data, indicating active development and debugging.",
+        "The user is also working on a TypeScript project within Visual Studio Code. They have several TypeScript files open, including 'gsheets.ts', 'salesforce.ts', and 'function-calls.ts'. The code in 'gsheets.ts' involves using the Google Sheets API to populate data into a spreadsheet. The terminal output shows the execution of a script that interacts with Google Sheets, indicating active development and testing of the integration with Google Sheets.",
+        "The user visited the ChatGPT website, suggesting they are using it for research or assistance. The specific link visited indicates a session with ChatGPT, which could be for seeking help with coding issues, understanding concepts, or getting suggestions for their ongoing projects. This indicates the user is leveraging AI tools for enhancing their productivity and solving problems efficiently."
+    ],
+    "aiUseSummary": "The user utilizes AI tools, specifically ChatGPT, for research and assistance in their workflow. They visited the ChatGPT website, likely to seek help with coding issues, understand concepts, or get suggestions for their ongoing projects. This interaction with ChatGPT indicates the user relies on AI to enhance their productivity, solve problems efficiently, and gain insights into their development tasks.",
+    "activities": [
+        "WRITING_CODE",
+        "RESEARCH"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "DB"
+    ],
+    "programmingLanguages": [
+        "PYTHON",
+        "TYPESCRIPT",
+        "SALESFORCE"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "OPENAI_CHATGPT"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T10:50:24Z",
+            "windowTitle": "test.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T10:51:24Z",
+            "windowTitle": "test.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T10:52:24Z",
+            "windowTitle": "test.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T10:53:24Z",
+            "windowTitle": "test.py - tools - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 8,
+            "date": "2024-06-14T10:54:24Z",
+            "windowTitle": "Spyder",
+            "processName": "pythonw",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 15,
+            "date": "2024-06-14T10:55:24Z",
+            "windowTitle": "Spyder",
+            "processName": "pythonw",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 19,
+            "date": "2024-06-14T10:56:24Z",
+            "windowTitle": "Spyder",
+            "processName": "pythonw",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 10,
+            "date": "2024-06-14T10:57:24Z",
+            "windowTitle": "gsheets.ts - master-assistant - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 76,
+            "mouse": 3,
+            "date": "2024-06-14T10:58:24Z",
+            "windowTitle": "gsheets.ts - master-assistant - Visual Studio Code",
+            "processName": "Code",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 22,
+            "mouse": 5,
+            "date": "2024-06-14T10:59:24Z",
+            "windowTitle": "ChatGPT - Google Chrome",
+            "processName": "chatgpt.com",
+            "visitingUrl": "chatgpt.com/c/d08c5431-4f67-4076-8ec2-c0a89cf16eda",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-14T10:50:00Z"
+}

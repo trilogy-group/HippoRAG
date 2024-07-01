@@ -1,0 +1,282 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "docs.google.com",
+        "us-east-1.quicksight.aws.amazon.com",
+        "crossover--fullshared.sandbox.lightning.force.com",
+        "sublime_text"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-12T11:51:13Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Chrome, File Explorer, and other unidentified applications. System tray includes network, sound, and clock icons.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Notes - XO Check-in - Google Docs",
+                                "url": "https://docs.google.com/document/d/1",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, View, Insert, Format, Tools, Extensions, Help; Google account icon; document status as 'Editing'"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Notes - XO Check-in",
+                                        "layoutDescription": "Two-column layout",
+                                        "visibleText": "Jun 12, 2024 | XO Check-in\nName\tPriorities + Progress\tChallenges, questions, Blockers\nArtem\tLAMBDA-76049: Add new fields to JobBoardCallAnalytics and enhance calculation\nDelivered\n- Recalculated JobBoardCallAnalytics\n- Updated the old model\n- Will do a publishing need\n(other important things you want to communicate or align on)\nDmitrii\tDone:\nLAMBDA-27582: gcp Recommendation updates\nLAMBDA-27592: - Beginner Mind badge updates\nCreated a tech debt ticket:\nLAMBDA-27527: we need to refresh CICD agents where we execute git status deployment, ensure the sync process\nCreated a drip campaign ticket, need to align on that:\nLAMBDA-15092\nDenys\t\nDragos\t\nJun 11, 2024 | XO Check-in\nName\tPriorities + Progress\tChallenges, questions, Blockers\nArtem\t\nDmitrii\tSourcing resort template\nLAMBDA-27586: Bumping the admin tool preventing content to be created or updated in JobBoardRec_Find_3d\nLAMBDA-27592: support content recommendation in Reject emails\nALM-0752: Update KPIs in ALM\nCreated and handle in Progress\nDenys\t\nDragos\t\nJun 10, 2024 | XO Check-in\nName\tPriorities + Progress\tChallenges, questions, Blockers\nArtem\tLAMBDA-27585: Skip us without applying for a specific job\nDelivered\n- Looking into call status calculation\nA Point Writing Badge: added hard task\nBeginner Mind Badge: Fooja and Velvey took the test, Denys to support\nDenys\t\nDragos\t\nJun 6, 2024 | XO Check-in\nName\tPriorities + Progress\tChallenges, questions, Blockers\nArtem\t\nDmitrii\t\nDenys\t\nDragos\t"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T11:54:41Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Money, Drive, Docs, Invest, ACS, ChatGPT, Rapid, Important, Games, Other, and system status icons including Wi-Fi, battery, and clock",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Firefox",
+                        "windows": [
+                            {
+                                "title": "RT v2 - Performance ? Mozilla Firefox",
+                                "url": "https://us-east-1.quicksight.aws",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs for Salesforce Formula Apex Coverage, Home, parsDate - Amazon QuickSight, New Tab, and other controls including refresh, home, bookmark, and settings"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Job Recommendations (Daily)",
+                                        "layoutDescription": "Bar chart with dates and values",
+                                        "visibleText": "Job Recommendations (Daily)\n\n1,200\n900\n600\n300\n0\nJun 12, 2024\nJun 7, 2024\nJun 9, 2024\nJun 8, 2024\nJun 10, 2024\nJun 11, 2024"
+                                    },
+                                    {
+                                        "title": "Retargeting v2 compared to legacy Retargeting campaigns",
+                                        "layoutDescription": "Table with columns and rows",
+                                        "visibleText": "Retargeting v2 compared to legacy Retargeting campaigns\n\nc_created_date\trt_v2_count\trt_camp\nJun 6, 2024\t1\t6\t27\nJun 7, 2024\t1\t6\t41\nJun 8, 2024\t8\t6\t39\nJun 9, 2024\t7\t5\t23\nJun 10, 2024\t4\t8\t58\nJun 11, 2024\t14\t7\t58\nJun 12, 2024\t2\t5\t5"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-12T11:59:28Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, Sublime Text, and system tray including network, sound, and date/time",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Sublime Text",
+                        "windows": [
+                            {
+                                "title": "This is the Salesforce Formula I have - Sublime Text (UNREGISTERED)",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar with File, Edit, Selection, Find, View, Goto, Tools, Project, Preferences, Help"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Code Editor",
+                                        "layoutDescription": "Text editor with multiple lines of code",
+                                        "visibleText": "10 IF (ISPICKVAL(Sourcing_Platform__c, 'Indeed')\n && NOT ISBLANK(MostRecentTest__c) \n && NOW() - MostRecentTest__c <= $Setup.LinkedIn_Integration__c.WeeksForSlotPerfor && Applications__c > 0\n && Cost__c <= $Setup.IndeedJobBudget_Multiplier__c * \n Job_Board_Cell__r.Pipeline_Job_Title__r.Pipeline_ && (Cost__c / Applications__c) > (1 + $Setup.IndeedJobPublishing__c.Cost_Precision__c) * \n Job_Board_Cell__r.Pipeline_Job_Title__r.Pipeline_ 0,\n /* Indeed - clearly expensive */\n 0),\n\n21 IF (IndirectHires__c + IndirectInterviewPassers__c + IndirectSQLs__c + IndirectMQLs__c == 0\n && ISBLANK(MostRecentTest__c) || (CEILING(NOW() - MostRecentTest__c) > 7 * $Setup.LinkedIn_Integration__c.WeeksForSlotPerfor /* no indirect conversions & no recent activity */\n NULL,\n\n25 IF (IndirectHires__c + IndirectInterviewPassers__c + IndirectSQLs__c + IndirectMQLs__c == 0\n && BFQs__c == 0\n && MQLTestTakers__c < $Setup.LinkedIn_Integration__c.SignificantMQLTake /* no indirect conversions & too early to decide if known_bad */\n NULL,\n\n32 IF (ISPICKVAL(Sourcing_Platform__c, 'Indeed'),\n (Hires__c + $Setup.IndeedJob_Location__r.Rank_Boost__c,0)) * 44 + \n InterviewPassers__c * 33 + \n SQLs__c * 22 + \n MQLs__c * 11 + \n BFQs__c + \n IndirectHires__c * 44 + \n IndirectInterviewPassers__c * 33 + \n IndirectSQLs__c * 22 + \n IndirectMQLs__c * 11 + \n Job_Board_Cell__r.OrphanInterviewPassers__c * 33 + \n Job_Board_Cell__r.OrphanSQLs__c * 22 + \n Job_Board_Cell__r.OrphanMQLs__c * 11,\n 0),\n\n47 IF (ISPICKVAL(Sourcing_Platform__c, 'LinkedIn'),\n /* LinkedIn - different strategy */\n 0)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in reading and updating a Google Docs document titled 'Notes - XO Check-in'. The document contains detailed notes on various tasks and progress updates for different team members, including Artem, Dmitrii, Denys, and Dragos. The user is reviewing the progress and challenges for tasks such as LAMBDA-76049, LAMBDA-27582, and LAMBDA-27592, among others. The document is structured in a two-column layout with dates and task details.",
+        "The user is analyzing performance data on Amazon QuickSight. The dashboard titled 'RT v2 - Performance' displays a bar chart showing job recommendations on a daily basis from June 6, 2024, to June 12, 2024. Additionally, there is a table comparing retargeting v2 campaigns to legacy retargeting campaigns, with metrics such as rt_v2_count, rt_campaign_avg, and rt_campaign_max. The user is likely assessing the effectiveness of different retargeting strategies.",
+        "The user is writing and editing code in Sublime Text. The code appears to be a Salesforce formula, with multiple IF statements and logical conditions. The code includes checks for various conditions such as 'ISPICKVAL(Sourcing_Platform__c, 'Indeed')' and 'IndirectHires__c + IndirectInterviewPassers__c + IndirectSQLs__c + IndirectMQLs__c == 0'. The user is likely working on a complex formula to calculate or validate data based on specific criteria."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user is primarily engaged in reading and updating documents, analyzing performance data, and writing code without any visible interaction with AI tools or assistants.",
+    "activities": [
+        "READING_SPEC",
+        "WRITING_SPEC",
+        "RESEARCH",
+        "WRITING_CODE"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "DB"
+    ],
+    "programmingLanguages": [
+        "SALESFORCE"
+    ],
+    "toolTypes": [
+        "DOCUMENT_VIEWER_OR_EDITOR",
+        "WEB_BROWSER",
+        "IDE"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_SPEC",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T11:50:01Z",
+            "windowTitle": "Notes - XO Check-in - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1bFE8dS2O4hddYrd6jxeF73JClGjyUvMMQQp9uIYhC14/edit?pli=1",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-12T11:51:01Z",
+            "windowTitle": "Notes - XO Check-in - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1bFE8dS2O4hddYrd6jxeF73JClGjyUvMMQQp9uIYhC14/edit?pli=1",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T11:52:01Z",
+            "windowTitle": "Notes - XO Check-in - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1bFE8dS2O4hddYrd6jxeF73JClGjyUvMMQQp9uIYhC14/edit?pli=1",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-12T11:53:01Z",
+            "windowTitle": "Notes - XO Check-in - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1bFE8dS2O4hddYrd6jxeF73JClGjyUvMMQQp9uIYhC14/edit?pli=1",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 8,
+            "date": "2024-06-12T11:54:01Z",
+            "windowTitle": "ChatGPT ? Mozilla Firefox",
+            "processName": "us-east-1.quicksight.aws.amazon.com",
+            "visitingUrl": "https://us-east-1.quicksight.aws.amazon.com/sn/start/data-sets",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 7,
+            "mouse": 11,
+            "date": "2024-06-12T11:55:01Z",
+            "windowTitle": "Lightning Experience - Google Chrome",
+            "processName": "crossover--fullshared.sandbox.lightning.force.com",
+            "visitingUrl": "crossover--fullshared.sandbox.lightning.force.com/lightning/r/Application_Step_Result__c/a0BF300000Fr4NRMAZ/view",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 3,
+            "date": "2024-06-12T11:56:01Z",
+            "windowTitle": "Home | Salesforce - Google Chrome",
+            "processName": "crossover--fullshared.sandbox.lightning.force.com",
+            "visitingUrl": "crossover--fullshared.sandbox.lightning.force.com/lightning/setup/SetupOneHome/home",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 52,
+            "mouse": 16,
+            "date": "2024-06-12T11:57:01Z",
+            "windowTitle": "This is the Salesforce Formula I have: ? - Sublime Text (UNREGISTERED)",
+            "processName": "sublime_text",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 68,
+            "mouse": 9,
+            "date": "2024-06-12T11:58:01Z",
+            "windowTitle": "This is the Salesforce Formula I have: ? - Sublime Text (UNREGISTERED)",
+            "processName": "sublime_text",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 57,
+            "mouse": 28,
+            "date": "2024-06-12T11:59:01Z",
+            "windowTitle": "This is the Salesforce Formula I have: ? - Sublime Text (UNREGISTERED)",
+            "processName": "sublime_text",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-12T11:50:00Z"
+}

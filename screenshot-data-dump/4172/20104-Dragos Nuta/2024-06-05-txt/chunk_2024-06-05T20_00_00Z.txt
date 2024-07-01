@@ -1,0 +1,327 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "cloud.getliteral.ai",
+        "meet.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T20:00:40Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, widgets, chat, Microsoft Edge, File Explorer, Microsoft Store, and system tray with network, sound, and battery status icons, time display showing '11:00 PM', date display showing '5/6/2024', and language setting showing 'ENG'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "cloud.getiterial.ai/",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "address bar, tabs, navigation buttons, refresh button, bookmark button, profile icon, vertical ellipsis menu button"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Draft Email Content",
+                                        "layoutDescription": "Text editor layout",
+                                        "visibleText": "\"Hi Tristan,\\n\\nHere's a draft for the email to TeachTales beta participants regarding the delay in their $10 Robux gift card:\\n\\n---\\n\\nDear [Participant],\\n\\nWe hope you're enjoying your experience with TeachTales! We wanted to inform you that we're currently experiencing some technical issues accessing the feedback you've sent through the app. As a result, there will be a slight delay in sending out the $10 Robux gift cards.\\n\\nIn the meantime, if you would like to receive your gift card sooner, please send your feedback directly to support@learnwith.ai. If you choose this option, we can ensure that you receive your $10 Robux gift card within 24 hours (Monday to Friday).\\n\\nWe apologize for any inconvenience this may cause and appreciate your understanding and patience. Your feedback is incredibly valuable to us, and we want to make sure you are rewarded promptly.\\n\\nThank you for being a part of the TeachTales beta test!\\n\\nWarm regards,\\nThe TeachTales Team\\n\\n---\\n\\nLet me know if you need any adjustments!\\n\\nBest,\\nAI Assist\""
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "meet.google.com is sharing your screen.",
+                                "url": "https://meet.google.com",
+                                "position": "maximized",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "video conference controls including microphone, camera, raise hand, more options, and end call buttons"
+                                },
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "Nut\u0103",
+                                            "expression": "smiling"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T20:04:58Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, widgets, and several pinned applications. Displays the system tray with network, sound, and battery status icons, as well as the date and time (11:04 PM, 6/5/2024).",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - zii-cirx-oyg - Google Chrome",
+                                "url": "meet.google.com/zii-cirx-oyg",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, profile icon, extensions, and settings menu"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference",
+                                        "layoutDescription": "Two video feeds displayed",
+                                        "visibleText": "Isaac Squires, Dragos Nuta"
+                                    },
+                                    {
+                                        "title": "Chat Sidebar",
+                                        "layoutDescription": "Visible on the right side",
+                                        "visibleText": "read.ai meeting notes"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Threads - Thread #0a0a7660-9204... - Google Chrome",
+                                "url": "cloud.getiterial.ai/projects/ai-co",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, profile icon, extensions, and settings menu"
+                                },
+                                "content": [
+                                    {
+                                        "title": "AI Assist Interaction",
+                                        "layoutDescription": "Chat interface with expandable messages",
+                                        "visibleText": "AI Assist: To better understand your request, could you provide more details? tristan.muniz@learnwith.ai: Original email: \"Dear ...\" AI Assist: Hi Tristan, Here's a follow-up email draft ... tristan.muniz@learnwith.ai: I'm writing an email to... AI Assist: Hi Tristan, Here's a clearer version... tristan.muniz@learnwith.ai: For TeachTales, we c... AI Assist: Hi Tristan, Here's a draft for the email to ..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T20:08:27Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, widgets, and several pinned applications. System tray includes network, sound, and battery status icons, as well as the date and time display '11:08 PM 6/5/2024'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - zii-cirx-oyg - Google Chrome",
+                                "url": "meet.google.com/zii-cirx-oyg",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, profile icon, extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference",
+                                        "layoutDescription": "Two main video feeds, one large, one small",
+                                        "visibleText": "Isaac Squires, Dragos Nuta"
+                                    },
+                                    {
+                                        "title": "Chat Sidebar",
+                                        "layoutDescription": "Right side of the screen",
+                                        "visibleText": "read.ai meeting notes"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Threads - Thread #0a0a7660-9204... - Google Chrome",
+                                "url": "cloud.getiterial.ai/projects/ai-co",
+                                "position": "right side of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, profile icon, extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "AI Assist Interaction",
+                                        "layoutDescription": "List of interactions in a threaded view",
+                                        "visibleText": "My-GPT40, Determine What Info to Retrieve 0.744s, Clarify with User 0.4526s, input-mapper 0.035s, AI Assist 'To better understand your request, could you specify...', tristan.muniz@learnwith.ai 'Original email: \"Dear ...', AI Assist 'Hi Tristan, Here's a follow-up email draft ...', tristan.muniz@learnwith.ai 'I'm writing an email to...', AI Assist 'Hi Tristan, Here's a clearer version...', tristan.muniz@learnwith.ai 'For TeachTales, we c...', AI Assist 'Hi Tristan, Here's a draft for the email to ..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is engaged in a Google Meet video conference, as evidenced by the screenshots showing the Google Meet interface with participants Isaac Squires and Dragos Nuta. The user is actively participating in the meeting, as indicated by the visible video feeds and the 'Stop presenting' button, suggesting that the user is sharing their screen during the meeting.",
+        "The user is also interacting with the AI tool on the cloud.getliteral.ai platform. The screenshots show the user drafting an email to TeachTales beta participants regarding a delay in their $10 Robux gift card. The AI tool, referred to as 'AI Assist,' is helping the user by generating and refining the email content. The visible text includes a draft email addressing the participants, explaining the delay, and providing instructions for receiving the gift card sooner.",
+        "The user is managing multiple tasks simultaneously, as indicated by the presence of several open tabs in the Chrome browser. The tabs include the cloud.getliteral.ai project page, the Google Meet session, and other tabs that are not fully visible in the screenshots. This multitasking behavior suggests that the user is balancing communication, collaboration, and content creation activities during the recorded period."
+    ],
+    "aiUseSummary": "The user utilizes the AI tool 'AI Assist' on the cloud.getliteral.ai platform to draft and refine an email to TeachTales beta participants. The AI tool assists by generating initial drafts, providing clearer versions, and making adjustments based on the user's input. This interaction highlights the user's reliance on AI for efficient content creation and communication, enhancing productivity by automating parts of the email drafting process.",
+    "activities": [
+        "EMAIL",
+        "MEETING"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "SHORTWAVE"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "EMAIL",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 18,
+            "date": "2024-06-05T20:00:02Z",
+            "windowTitle": "Threads - Google Chrome",
+            "processName": "cloud.getliteral.ai",
+            "visitingUrl": "cloud.getliteral.ai/projects/ai-coach-AA9M01hzCsyH/threads/a00a7f60-9204-41a2-bdc8-1a774f1c560d?currentStepId=32bf9988-fc82-4cab-89b2-16b705266f9c",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 19,
+            "date": "2024-06-05T20:01:02Z",
+            "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 7,
+            "date": "2024-06-05T20:02:02Z",
+            "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T20:03:02Z",
+            "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T20:04:02Z",
+            "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-05T20:05:02Z",
+            "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T20:06:02Z",
+            "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T20:07:02Z",
+            "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T20:08:02Z",
+            "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T20:09:02Z",
+            "windowTitle": "Meet - zii-cirx-oyg - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/zii-cirx-oyg?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-05T20:00:00Z"
+}

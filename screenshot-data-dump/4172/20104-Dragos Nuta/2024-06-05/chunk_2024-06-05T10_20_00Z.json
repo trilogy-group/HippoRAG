@@ -1,0 +1,299 @@
+{
+  "candidateId": 20104,
+  "apps": [
+    "jabra-direct",
+    "",
+    "LockApp"
+  ],
+  "detailedScreenDescription": [
+    {
+      "capturedAt": "2024-06-05T10:20:14Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "icons for Start menu, Search, Task View, Widgets, Microsoft Edge, File Explorer, Google Chrome, and system tray with notifications, sound, network, and clock displaying '5/26/24 1:20 PM'",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Google Chrome",
+            "windows": [
+              {
+                "title": "Deploy Mini-Spec Writer - Google Docs",
+                "url": "https://docs.google.com/document/d/1",
+                "position": "left half of the screen",
+                "isActive": false,
+                "uiElements": {
+                  "details": "menu bar, toolbar, document editing area, and right sidebar with collaboration tools"
+                },
+                "content": [
+                  {
+                    "title": "Deploy Mini-Spec Writer",
+                    "layoutDescription": "Document open in editing mode",
+                    "visibleText": "Deploy Mini-Spec Writer\nFile Edit View Insert Format Tools Extensions Help\nMenus\n100% Heading\nEvaluation Criteria\nApplication runs as expected\nWe have the ability to inspect logs on CloudWatch for any issues\nOutput DS"
+                  }
+                ]
+              },
+              {
+                "title": "Jabra Direct",
+                "position": "right half of the screen",
+                "isActive": true,
+                "uiElements": {
+                  "details": "menu bar on the left, main content area on the right"
+                },
+                "content": [
+                  {
+                    "title": "Pairing",
+                    "layoutDescription": "window focused on Bluetooth device management",
+                    "visibleText": "Pairing\nDevice\nPairing Link 370\nAvailable Bluetooth devices\nAutomatic search and connect to new device\nPaired devices\nJabra Evolve 75\nConnect\nEdit list\nConnect the Jabra device to the Bluetooth adapter. Ensure the Jabra device is switched on and within range."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T10:24:53Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "taskbar visible at the bottom of the screen",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Google Chrome",
+                "position": "bottom right",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Google Chrome icon visible on taskbar"
+                },
+                "content": [
+                  {
+                    "title": "Google Chrome",
+                    "layoutDescription": "Popup visible",
+                    "visibleText": "Google Chrome\nPrivate\ncalendar.google.com"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "capturedAt": "2024-06-05T10:27:40Z",
+      "desktop": {
+        "uiElements": [
+          {
+            "elementType": "taskbar",
+            "details": "taskbar visible at the bottom of the screen",
+            "position": "bottom"
+          }
+        ],
+        "applications": [
+          {
+            "appName": "Chrome",
+            "windows": [
+              {
+                "title": "Google Chrome Private",
+                "url": "mail.google.com",
+                "position": "center",
+                "isActive": true,
+                "uiElements": {
+                  "details": "Preview window"
+                },
+                "content": [
+                  {
+                    "title": "Google Chrome Private",
+                    "layoutDescription": "Preview window",
+                    "visibleText": "Google Chrome\nPrivate\nmail.google.com"
+                  }
+                ]
+              },
+              {
+                "title": "Google Chrome Private",
+                "url": "calendar.google.com",
+                "position": "center",
+                "isActive": false,
+                "uiElements": {
+                  "details": "Preview window"
+                },
+                "content": [
+                  {
+                    "title": "Google Chrome Private",
+                    "layoutDescription": "Preview window",
+                    "visibleText": "Google Chrome\nPrivate\ncalendar.google.com"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "activitySummary": [
+    "The user is actively engaged in managing their Bluetooth devices using the Jabra Direct application. The main focus is on pairing a Jabra Link 370 device with a Jabra Evolve 75 headset. The user is navigating through the Jabra Direct interface, which includes options for device pairing, updates, settings, feedback, and help. The visible text indicates that the user is attempting to connect the Jabra device to the Bluetooth adapter, ensuring it is switched on and within range.",
+    "The user is also working on a document titled 'Deploy Mini-Spec Writer' in Google Docs. The document is open in editing mode, and the user is likely collaborating with others, as indicated by the right sidebar with collaboration tools. The visible text in the document includes evaluation criteria and output details, suggesting that the user is involved in drafting or reviewing specifications for a deployment process.",
+    "The user receives notifications from Google Chrome, indicating activity on mail.google.com and calendar.google.com. These notifications suggest that the user is also managing their email and calendar during this period. However, there is no direct interaction with these applications visible in the screenshots, implying that the user might be monitoring these notifications passively while focusing on other tasks."
+  ],
+  "aiUseSummary": "",
+  "activities": [
+    "READING_SPEC",
+    "EMAIL"
+  ],
+  "workTypes": [],
+  "programmingLanguages": [],
+  "toolTypes": [
+    "DOCUMENT_VIEWER_OR_EDITOR",
+    "WEB_BROWSER"
+  ],
+  "aiTools": [],
+  "usingAi": false,
+  "mostRelevantActivity": "READING_SPEC",
+  "doubts": [],
+  "confidenceScore": 90,
+  "events": [
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T10:20:53Z",
+      "windowTitle": "Jabra Direct",
+      "processName": "jabra-direct",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T10:21:53Z",
+      "windowTitle": "",
+      "processName": "",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T10:22:53Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T10:23:53Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T10:24:53Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T10:25:53Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T10:26:53Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T10:27:53Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 0,
+      "mouse": 0,
+      "date": "2024-06-05T10:28:53Z",
+      "windowTitle": "Windows Default Lock Screen",
+      "processName": "LockApp",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": true
+    },
+    {
+      "keyboard": 2,
+      "mouse": 0,
+      "date": "2024-06-05T10:29:53Z",
+      "windowTitle": "",
+      "processName": "",
+      "visitingUrl": "",
+      "keylog": "",
+      "cpuUsage": 0,
+      "memUsage": 0,
+      "mobile": false,
+      "idle": false
+    }
+  ],
+  "timestamp": "2024-06-05T10:20:00Z"
+}

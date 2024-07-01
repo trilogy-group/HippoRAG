@@ -1,0 +1,290 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "mail.google.com",
+        "figma.com",
+        "ws-lambda.atlassian.net",
+        "chrome",
+        "meet.google.com",
+        "docs.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T12:51:10Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Search, Edge, File Explorer, and unidentified applications; system tray with notifications, sound, network, and battery status icons; clock showing '3:51 PM'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - khm-qevt-udu - Google Chrome",
+                                "url": "meet.google.com/khm-qevt-udu",
+                                "position": "center",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "back, forward, refresh buttons, address bar, profile icon, minimize, maximize, close buttons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference",
+                                        "layoutDescription": "Grid layout with participant videos",
+                                        "visibleText": "Artem Melnikov\nDmitrii Shutenkov\nDenys Yefimenko\nDragosNta\n3:51 PM\nXO Check-in\nread.ai meeting notes"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T12:53:34Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, Microsoft Edge, File Explorer, Google Chrome, and system tray with clock, Wi-Fi, sound, and notifications icons",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "LAMBDA-68547 Self-Serve design update per feedback from 2023-11-03 - WorkSmart Lambda - Google Chrome",
+                                "url": "https://ws-lambda.atlassian.net",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, bookmarks bar, navigation buttons, and extensions"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Issues",
+                                        "layoutDescription": "multi-column view",
+                                        "visibleText": "Issues\n\nUpdated\nLAMBDA-68547\nIteration 2 of Design Self-Serve Subscription Renewal screens: Finalize\nLAMBDA-68576\nIteration 2 of Design Self-Serve Subscription Renewal screens: Finalize\nLAMBDA-68546\nIteration 2 of Design Self-Serve Subscription Renewal screens: Product Review\nLAMBDA-68544\nIteration 3 of Design Self-Serve Subscription Renewal screens: Introduction\nLAMBDA-68543\nIteration 2 of Design Self-Serve Subscription Renewal screens: Prime\nLAMBDA-68539\nIteration 2 of Design Self-Serve Subscription Renewal screens: Introduction\nLAMBDA-68532\nIteration 2 of Design Self-Serve Subscription Renewal screens: Prime\nLAMBDA-68525\nDesign Self-Serve Subscription Renewal screens: Finalize\n1-50 of 603"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T12:59:01Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, widgets, chat, Microsoft Edge, File Explorer, Microsoft Store, and system tray with network, sound, and date/time indicators",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - khm-qevt-udu - Google Chrome",
+                                "url": "https://meet.google.com/khm-qevt-udu",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, profile icon, extensions icons"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Meet Video Call",
+                                        "layoutDescription": "Video call layout with participant videos and chat sidebar",
+                                        "visibleText": "In-call messages\nLet everyone send messages\n\nUnless they're pinned, messages can only be seen by people in the call when the message is sent. All messages are deleted when the call ends.\n\nDenys Yefimenko 3:55 PM\nhttps://www.figma.com/design/fUCsFxygARoizbWH"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Videoask - dragos.nuta@crossover.com - Google Chrome",
+                                "url": "https://mail.google.com/mail/u/0/#",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "interface with navigation pane, search bar, email list, and email content area"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Gmail",
+                                        "layoutDescription": "Client layout with list of emails and selected email view",
+                                        "visibleText": "Gmail\nCompose\nInbox 10,169\nStarred\nSnoozed\nSent\nDrafts 15\nMore\nLabels\n-Prime customers\nAgencies\nAI Coach\nBilling\nExperiments\nKontent\nLI issues\nLinkedIn\nPlatforms\nSourcing\nTest Platforms\nVIP\nWaiting answer\nMore\n\nDragos Nuta <dragos.nuta@crossover.com>\nto Kevin, Dmitrii, Heather +\n\nWill Dmitri answer all questions, but will add a clarification: we do not have AI grading just yet because I am still working on it.\n\nHeather Lothe..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user participated in a video conference call using Google Meet. The meeting, titled 'XO Check-in,' included multiple participants, as indicated by the grid layout showing videos of Artem Melnikov, Dmitrii Shutenkov, Denys Yefimenko, and Dragos Nuta. The meeting was active at 3:51 PM, and there was a notification for a 'Pre-acquisition idea daily sync' scheduled from 16:00 to 16:15.",
+        "The user reviewed issues on the WorkSmart Lambda platform, specifically focusing on the issue 'LAMBDA-68547 Self-Serve design update per feedback from 2023-11-03.' The user navigated through various issues, including 'Iteration 2 of Design Self-Serve Subscription Renewal screens: Finalize' and 'Iteration 3 of Design Self-Serve Subscription Renewal screens: Introduction.' The interface showed a multi-column view with detailed descriptions and statuses of the issues.",
+        "The user checked emails on Gmail, focusing on a conversation about 'VideoAsk' with participants Dragos Nuta, Kevin, Dmitrii, and Heather. The email thread discussed the implementation of VideoAsk for AI grading of video submissions. The user also participated in the Google Meet call simultaneously, as indicated by the split-screen view showing both the email client and the video call interface.",
+        "During the Google Meet call, the user engaged in the chat feature, where Denys Yefimenko shared a Figma link related to 'Email Rejection.' The chat sidebar was visible, showing the in-call messages and the shared link. This indicates the user was actively collaborating and sharing resources during the meeting."
+    ],
+    "aiUseSummary": "There is no evidence of AI tools being used in the provided screenshots. The user primarily engaged in video conferencing, issue tracking, and email communication without any visible interaction with AI tools for code suggestions, research, or debugging.",
+    "activities": [
+        "MEETING",
+        "REVIEWING_CODE",
+        "EMAIL",
+        "CHATTING_WITH_TEAM"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 90,
+    "events": [
+        {
+            "keyboard": 8,
+            "mouse": 3,
+            "date": "2024-06-05T12:50:53Z",
+            "windowTitle": "George Dita - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/chat/u/0/#chat/dm/sKno1MAAAAE",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 55,
+            "mouse": 4,
+            "date": "2024-06-05T12:51:53Z",
+            "windowTitle": "Crossover Profile ? Figma - Google Chrome",
+            "processName": "figma.com",
+            "visitingUrl": "figma.com/design/Zs34SitDXikjzYhNxqdsez/Crossover-Profile?node-id=7698-52104",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 117,
+            "mouse": 15,
+            "date": "2024-06-05T12:52:54Z",
+            "windowTitle": "[LAMBDA-75848] SAT Bootcamp Focused Onboarding Flow - WorkSmart Lambda - Google Chrome",
+            "processName": "ws-lambda.atlassian.net",
+            "visitingUrl": "ws-lambda.atlassian.net/issues/LAMBDA-75848?jql=assignee%3D629e16681be00a0068ac55b2%20order%20by%20created%20desc",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 97,
+            "mouse": 4,
+            "date": "2024-06-05T12:53:54Z",
+            "windowTitle": "Crossover Profile ? Figma - Google Chrome",
+            "processName": "figma.com",
+            "visitingUrl": "figma.com/design/Zs34SitDXikjzYhNxqdsez/Crossover-Profile?node-id=7698-52104",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 71,
+            "mouse": 19,
+            "date": "2024-06-05T12:54:54Z",
+            "windowTitle": "Fwd: @gt.school / @learnwith.ai email domains - dragos.nuta@aurea.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#inbox/FMfcgzQVwngXShlSRSpWSFJkhbCnXPDt",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 46,
+            "mouse": 19,
+            "date": "2024-06-05T12:55:54Z",
+            "windowTitle": "figma.com/finish_google_sso?state=QVrz4ibLJp%2FK4NYgWqalDqgIHCbTPJlbVDJN84sIHns9&code=4%2F0AdLIrYddaWDamsNtKQKX4uRZKNR50AgHdT6hRS3u-E07PxHIMPuY43XqSJHSLYYq8x134A&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3",
+            "processName": "chrome",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 96,
+            "mouse": 4,
+            "date": "2024-06-05T12:56:54Z",
+            "windowTitle": "Meet - khm-qevt-udu - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/khm-qevt-udu?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 21,
+            "mouse": 16,
+            "date": "2024-06-05T12:57:54Z",
+            "windowTitle": "Factory status May 2024 (TPM/Eng) - Google Docs - Google Chrome",
+            "processName": "docs.google.com",
+            "visitingUrl": "docs.google.com/document/d/1E7AGvQrA6YsRlfZhrIkuXSAb5ZOKmD_TcR-etSFlIBA/edit",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 91,
+            "mouse": 21,
+            "date": "2024-06-05T12:58:54Z",
+            "windowTitle": "VideoAsk - dragos.nuta@crossover.com - DevFactory Mail - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#search/videoask/FMfcgzQVwnXcbKmQVmckwVQGDgjxdRpp",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 11,
+            "mouse": 21,
+            "date": "2024-06-05T12:59:54Z",
+            "windowTitle": "XO Platform - Chat - Google Chrome",
+            "processName": "mail.google.com",
+            "visitingUrl": "mail.google.com/mail/u/0/#search/videoask/FMfcgzQVwnXcbKmQVmckwVQGDgjxdRpp",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        }
+    ],
+    "timestamp": "2024-06-05T12:50:00Z"
+}

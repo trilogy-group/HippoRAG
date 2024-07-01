@@ -1,0 +1,360 @@
+{
+    "candidateId": 20104,
+    "apps": [
+        "meet.google.com",
+        "calendar.google.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-05T15:52:35Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, File Explorer, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '6/5/2024 6:52 PM'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Meet - stp-shmc-fbc - Google Chrome",
+                                "url": "meet.google.com/stp-shmc-fbc",
+                                "position": "left half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, Google account avatar, Meet controls including microphone, camera, captions, hand raise, and more."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Video Conference",
+                                        "layoutDescription": "Three main video feeds displayed",
+                                        "visibleText": "Nouman Shah, George Dita, Dragos Nuta"
+                                    },
+                                    {
+                                        "title": "Chat Panel",
+                                        "layoutDescription": "Right side of Meet window",
+                                        "visibleText": "read.ai meeting notes"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Calendar - Google Chrome",
+                                "url": "calendar.google.com/calendar/u/0",
+                                "position": "right half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "tabs, address bar, navigation buttons, Google account avatar."
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Calendar",
+                                        "layoutDescription": "Full month view with detailed events",
+                                        "visibleText": "June 2024, Week 23, Today's date highlighted, Events listed include 'Home', 'Rakshit Bhe', 'Dragos/Rakshit, 10:00', 'CNU 1-week Project', 'Phil / Dragos - What can AI do for you?', 'AI Coach Daily Sync, 11:00', 'Google Ads & FB X-plan & review, 12:00 - 13:30', 'Kane', 'Nilesh Deshpande', 'Product Daily Check-in, 13:00 - 15:00', 'Max rey, XO-Check-in, 15:00 - 17:30', 'Pre-acquisition Ideas, 17:00', 'Acquis Acquisition, 18:00', 'Sammy's Cef, 17:30 - 18:30', 'Stratiflyd', 'Crossover', 'Infliutive', 'Monthly - F, 19:00, 19:00, 19:00', 'Connected: Victor-Santos, 20:00, Google Meet', 'Stratiflyd Daily Standup, 23:00 - 22:30', 'XO Kanban Wekly Derivatives, 23:00', 'Isaac / Dragos, 23:00', 'Cancelled: Jungsoo Park, 23:00, Google Meet', 'Dragos Nuta, 23:00', 'Infliutive <-> PM', 'Joe / Dragos, 20:30', 'George / Dragos, 19:00', 'Resources, com, 20:00', 'Crossover <-> Joe Diaz, 20:00', 'Nouman / Dragos, 23:00'"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T15:56:29Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "Taskbar for Google Chrome, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes network, sound, and clock (15:56, 05/06/2024)",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Calendar - Google Calendar",
+                                "url": "https://calendar.google.com/calendar",
+                                "position": "left half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Navigation buttons, address bar, tabs, Google account avatar"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Calendar",
+                                        "layoutDescription": "Month view with events",
+                                        "visibleText": "June 2024\nM T W T F S S\n22 23 24 25 26 27 28 29 30 31 1 2\n3 4 5 6 7 8 9\n10 11 12 13 14 15 16\n17 18 19 20 21 22 23\n24 25 26 27 28 29 30\nNew Zealand Time 03:56\nMeet with...\nTime Insights\nMore insights\nMy calendars\nDragos Nuta Trilogy\nBirthdays\nDragos Nuta - Aurea\nDragos Nuta - XO\nTasks\nOther calendars"
+                                    },
+                                    {
+                                        "title": "Events on June 5, 2024",
+                                        "layoutDescription": "List of events",
+                                        "visibleText": "Home\nBogdan / Dragos - what can AI do for you?\nDragos/Rakshit, 10:00\nCNU - week Project\nPhil / Dragos - What can AI do for you?\nAI Coach Daily Sync, 11:00\nGoogle Ads & FB x Dragos - plan & review, 12:00 - 13:30\nKanban Weekly Demo, 14:30\nProduct Daily Check-in, 13:00 - 13:30\nNilesh Deshpande and Dragos Nuta, 15:00\nMay rex <> Check-in, 15:00 - 17:30\nPre-acquisition Ideas, 17:00\nAcquis Acquisition, 16:30 - 17:30\nSammy's Cet, 17:30 - 18:00\nStratifyd <> Crossover, 17:30 - 18:30\nVanjshi Singh and Dragos Nuta, 18:00\nReview Prompting Bad, 18:30\nStratifyd <> EOC / Dragos, 20:00\nJoe / Dragos, 20:30\nStratifyd <> Influitive, 20:30 - 21:00\nCrossover <> Joe DiGiovanni, 21:00\nIsabelle / Dragos, 21:30\nNoumaan / Dragos, 23:00\nIsaac / Dragos, 23:30\nCanceled: Jigsaw Puzzle Monthly - F, 19:00\nCanceled: Victor-Santos, 20:00\nCanceled: Google Meet with Dragos, 20:30"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Meet - stp-shmc-fbc - Google Chrome",
+                                "url": "https://meet.google.com/stp-shmc-fbc",
+                                "position": "right half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Video conference controls, chat panel, participant list"
+                                },
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "George Dita",
+                                            "expression": "Neutral"
+                                        },
+                                        {
+                                            "name": "Noumaan Shah",
+                                            "expression": "Neutral"
+                                        },
+                                        {
+                                            "name": "Dragos Nuta",
+                                            "expression": "Neutral"
+                                        }
+                                    ]
+                                },
+                                "content": [
+                                    {
+                                        "title": "Call",
+                                        "layoutDescription": "Video call interface",
+                                        "visibleText": "George Dita\nNoumaan Shah\nDragos Nuta\nread.ai meeting notes\nInfluitive <-> PM"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-05T15:57:01Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Google Chrome, File Explorer, Microsoft Edge, and other unidentified applications. System tray includes notifications, sound, network, and clock displaying '6:57 PM 6/5/2024'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Calendar - Google Calendar",
+                                "position": "left half of the screen",
+                                "isActive": false,
+                                "uiElements": {
+                                    "details": "Top bar with options for creating events, settings, and help. Navigation arrows and month selector for the calendar. Sidebar with search bar and different calendar views"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Google Calendar",
+                                        "layoutDescription": "Calendar view with multiple events",
+                                        "visibleText": "June 2024 Calendar view showing multiple events across different days. Events include 'AI Coach Daily Sync', 'Product Daily Check-in', 'XO Check-in', 'Pre-acquisition Ideas', and others. Specific events like 'Rakshit Bhe', 'Bogdan / Dragos - what can AI do for you?', 'Dragos/Rakshit, 10:00' are visible."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Meet - stp-shmc-fbc - Google Chrome",
+                                "url": "meet.google.com/stp-shmc-fbc?authuser=0",
+                                "position": "right half of the screen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Video conference controls including microphone, camera, and chat options"
+                                },
+                                "videoConference": {
+                                    "participants": [
+                                        {
+                                            "name": "George Dita",
+                                            "expression": "Neutral"
+                                        },
+                                        {
+                                            "name": "Noumaan Shah",
+                                            "expression": "Neutral"
+                                        },
+                                        {
+                                            "name": "Dragos Nuta",
+                                            "expression": "Neutral"
+                                        }
+                                    ]
+                                },
+                                "content": [
+                                    {
+                                        "title": "Meet",
+                                        "layoutDescription": "Video conference layout",
+                                        "visibleText": "Video conference with participants George Dita, Noumaan Shah, and Dragos Nuta. A chat sidebar is visible with the text 'read.ai meeting notes'."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively participating in a video conference on Google Meet. The meeting involves three participants: Noumaan Shah, George Dita, and Dragos Nuta. The user is engaged in discussions, as indicated by the visible video feeds and the chat panel on the right side of the Meet window. The chat panel includes a note about 'read.ai meeting notes,' suggesting that the user is either taking notes or referring to notes during the meeting.",
+        "The user is also viewing their Google Calendar during the meeting. The calendar is displayed on the left half of the screen, showing a full month view with detailed events. The calendar includes various events such as 'AI Coach Daily Sync,' 'Product Daily Check-in,' 'XO Check-in,' and 'Pre-acquisition Ideas.' This indicates that the user is managing their schedule and possibly discussing upcoming events and tasks during the meeting.",
+        "The user\u2019s Google Calendar shows a busy schedule with multiple events listed for June 5, 2024. Events include meetings with individuals like 'Rakshit Bhe,' 'Dragos/Rakshit,' 'Phil / Dragos,' and 'Nilesh Deshpande.' There are also team syncs and check-ins, such as 'AI Coach Daily Sync' and 'Product Daily Check-in.' This suggests that the user is involved in various collaborative and planning activities throughout the day.",
+        "The video conference on Google Meet includes controls for microphone, camera, captions, and hand raise, indicating that the user has the ability to interact actively during the meeting. The presence of the 'read.ai meeting notes' in the chat panel suggests that the user might be using AI tools to assist with note-taking or meeting management.",
+        "The system tray and taskbar show icons for Google Chrome, File Explorer, and other unidentified applications. The clock displays the current time and date, '6:52 PM 6/5/2024,' indicating that the user is working in the evening. The taskbar also includes notifications, sound, and network icons, providing the user with quick access to system settings and alerts."
+    ],
+    "aiUseSummary": "The user is utilizing AI tools during their workflow, specifically 'read.ai meeting notes' in the Google Meet chat panel. This suggests that the user is leveraging AI to assist with note-taking or managing meeting details. The AI tool likely helps in capturing key points and actions discussed during the meeting, enhancing the user's productivity and ensuring that important information is recorded accurately.",
+    "activities": [
+        "MEETING",
+        "READING_SPEC"
+    ],
+    "workTypes": [],
+    "programmingLanguages": [],
+    "toolTypes": [
+        "WEB_BROWSER"
+    ],
+    "aiTools": [
+        "SHORTWAVE"
+    ],
+    "usingAi": true,
+    "mostRelevantActivity": "MEETING",
+    "doubts": [],
+    "confidenceScore": 95,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T15:50:55Z",
+            "windowTitle": "Meet - stp-shmc-fbc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 5,
+            "mouse": 10,
+            "date": "2024-06-05T15:51:55Z",
+            "windowTitle": "Meet - stp-shmc-fbc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 12,
+            "mouse": 1,
+            "date": "2024-06-05T15:52:55Z",
+            "windowTitle": "Meet - stp-shmc-fbc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 7,
+            "date": "2024-06-05T15:53:55Z",
+            "windowTitle": "DevFactory - Calendar - Week of June 3, 2024 - Google Chrome",
+            "processName": "calendar.google.com",
+            "visitingUrl": "calendar.google.com/calendar/u/0/r",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 4,
+            "mouse": 3,
+            "date": "2024-06-05T15:54:55Z",
+            "windowTitle": "Meet - stp-shmc-fbc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 3,
+            "date": "2024-06-05T15:55:55Z",
+            "windowTitle": "Meet - stp-shmc-fbc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T15:56:55Z",
+            "windowTitle": "Meet - stp-shmc-fbc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T15:57:55Z",
+            "windowTitle": "Meet - stp-shmc-fbc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T15:58:55Z",
+            "windowTitle": "Meet - stp-shmc-fbc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-05T15:59:55Z",
+            "windowTitle": "Meet - stp-shmc-fbc - Google Chrome",
+            "processName": "meet.google.com",
+            "visitingUrl": "meet.google.com/stp-shmc-fbc?authuser=0",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-05T15:50:00Z"
+}

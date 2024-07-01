@@ -1,0 +1,270 @@
+{
+    "candidateId": 233179,
+    "apps": [
+        "webstorm64",
+        "github.com"
+    ],
+    "detailedScreenDescription": [
+        {
+            "capturedAt": "2024-06-14T12:02:25Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start Menu, Search, Task View, File Explorer, and other unidentified applications. Displays the time as '14:02' and date as '14/06/2024'. Network, sound, and battery status icons are visible. Language set to 'ENG'.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "xo-hiring-monorepo ? package.json",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Top bar with options like File, Edit, View, Go, Run, Terminal, Help. Side bar with icons for Explorer, Search, Source Control, Run and Debug, Extensions. Bottom bar shows 'master' branch, '2' warnings, and '0' errors. 'Commit', 'Commit and Push...' buttons are visible."
+                                },
+                                "content": [
+                                    {
+                                        "title": "package.json",
+                                        "layoutDescription": "editor layout",
+                                        "visibleText": "{\n \"name\": \"style-check\",\n \"version\": \"1.0.0\",\n \"scripts\": {\n \"eslint-lint-check-all\": \"npx eslint . --ext .ts,.tsx\",\n \"prettier-check-all\": \"npx prettier --check .\",\n \"prettier-fix-all\": \"npx prettier --write .\"\n },\n \"dependencies\": {\n \"@trilogy-group/xo-hiring-parameters\": \"^2.0.0\"\n },\n \"devDependencies\": {\n \"@typescript-eslint/eslint-plugin\": \"5.3.0\",\n \"@typescript-eslint/parser\": \"5.3.0\",\n \"eslint\": \"8.2.0\",\n \"eslint-config-prettier\": \"8.3.0\",\n \"eslint-plugin-sort-keys-fix\": \"1.1.2\",\n \"prettier\": \"2.4.1\",\n \"ts-node\": \"10.4.0\",\n \"typescript\": \"4.4.4\"\n }\n}"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T12:06:23Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, and several pinned applications. Displays the time '13:49' and date '14/06/2024'. Language setting 'ENG' visible. System tray icons include network, sound, and battery status.",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Visual Studio Code",
+                        "windows": [
+                            {
+                                "title": "xo-hiring-monorepo | package.json",
+                                "position": "fullscreen",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "Menu bar at top with options like File, Edit, View. Side bar on left with icons for Explorer, Search, Source Control, Run, Extensions. Bottom bar shows 'Run prettier-fix-all' and terminal output."
+                                },
+                                "content": [
+                                    {
+                                        "title": "package.json",
+                                        "layoutDescription": "editor layout",
+                                        "visibleText": "{\n \"name\": \"style-check\",\n \"version\": \"1.0.0\",\n \"scripts\": {\n \"eslint-lint-check-all\": \"npx eslint . --ext .ts,.tsx\",\n \"prettier-check-all\": \"npx prettier --check .\",\n \"prettier-fix-all\": \"npx prettier --write .\"\n },\n \"dependencies\": {\n \"@trilogy-group/xo-hiring-parameters\": \"^2.0.0\"\n },\n \"devDependencies\": {\n \"@typescript-eslint/eslint-plugin\": \"5.3.0\",\n \"@typescript-eslint/parser\": \"5.3.0\",\n \"eslint\": \"8.2.0\",\n \"eslint-config-prettier\": \"8.3.0\",\n \"eslint-plugin-sort-keys-fix\": \"1.1.2\",\n \"prettier\": \"2.4.1\",\n \"ts-node\": \"10.4.0\",\n \"typescript\": \"4.4.4\"\n }\n}"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "capturedAt": "2024-06-14T12:08:43Z",
+            "desktop": {
+                "uiElements": [
+                    {
+                        "elementType": "taskbar",
+                        "details": "icons for Start menu, search, task view, widgets, File Explorer, Microsoft Edge, and unidentified applications; system tray with notifications, sound, network, and battery status; clock displaying '14:08' and date '6/14/2024'; language indicator 'ENG'",
+                        "position": "bottom"
+                    }
+                ],
+                "applications": [
+                    {
+                        "appName": "Google Chrome",
+                        "windows": [
+                            {
+                                "title": "Deploy environment on push ? Workflow runs ? trilogy-group/xo-hiring-monorepo - Google Chrome",
+                                "url": "https://github.com/trilogy-group/xo-hiring-monorepo",
+                                "position": "maximized",
+                                "isActive": true,
+                                "uiElements": {
+                                    "details": "navigation bar with back, forward, refresh, and home buttons; address bar; bookmarks bar with visible bookmarks; tabs bar with multiple tabs; vertical sidebar on the left with options like 'All workflows', 'Auto-release accepted tickets', 'Auto-update branches on changes to main', 'Check Jira ticket', 'Close old Pull Requests', 'Code Index Update', 'Deploy environment on push', 'Deploy the production environment', 'Destroy preview environments', 'PR-Agent', 'Provision preview environment', 'Show more workflows...', 'Caches', 'Attestations', 'Runners'"
+                                },
+                                "content": [
+                                    {
+                                        "title": "Actions",
+                                        "layoutDescription": "layout of workflow runs",
+                                        "visibleText": "Deploy environment on push ? Workflow runs ? trilogy-group/xo-hiring-monorepo\nNew workflow\nAll workflows\nAuto-release accepted tickets\nAuto-update branches on changes to main\nCheck Jira ticket\nClose old Pull Requests\nCode Index Update\nDeploy environment on push\nDeploy the production environment\nDestroy preview environments\nPR-Agent\nProvision preview environment\nShow more workflows...\nManagement\nCaches\nAttestations\nRemote-tracking branch 'origin/fix/LAMBDA-74794-gb-report-error...' into sandbox\nDeploy environment on push #728: Commit 'c1e9fec' pushed by lambda-service-user@github\n3 weeks ago\n5m 51s\nMerge remote-tracking branch 'origin/feature/LAMBDA-75402-ownbackup-a...' into sandbox\nDeploy environment on push #728: Commit 'c2d1fee' pushed by lambda-service-user@github\n3 weeks ago\n4m 39s\nMerge remote-tracking branch 'origin/fix/LAMBDA-74794-gb-report-error...' into sandbox\nDeploy environment on push #728: Commit 'c1e9fec' pushed by lambda-service-user@github\n3 weeks ago\n5m 25s\nMerge remote-tracking branch 'origin/feature/LAMBDA-75074-indeed-apply-pr...' into sandbox\nDeploy environment on push #728: Commit 'c3d2e9f' pushed by lambda-service-user@github\nLast month\n10m 0s\nMerge remote-tracking branch 'origin/fix/LAMBDA-74794-gb-report-error...' into sandbox\nDeploy environment on push #728: Commit 'c1e9fec' pushed by lambda-service-user@github\nLast month\n27m 0s\nMerge remote-tracking branch 'origin/fix/LAMBDA-75074-indeed-apply-pr...' into sandbox\nDeploy environment on push #728: Commit 'c3d2e9f' pushed by lambda-service-user@github\nLast month\n6m 43s\nMerge remote-tracking branch 'origin/feature/LAMBDA-74448-add_code_inde...' into sandbox\nDeploy environment on push #728: Commit 'c5e1e90' pushed by lambda-service-user@github\n2 months ago\n1m 55s\nMerge remote-tracking branch 'origin/feature/LAMBDA-74448-add_code_inde...' into sandbox\nDeploy environment on push #728: Commit 'c5e1e90' pushed by lambda-service-user@github\n2 months ago\n1m 38s\nMerge remote-tracking branch 'origin/feature/LAMBDA-74448-add_code_inde...' into sandbox\nDeploy environment on push #728: Commit 'c5e1e90' pushed by lambda-service-user@github\n2 months ago\n1m 42s\nPrevious 1 2 3 4 5 ... 23 24 Next"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "activitySummary": [
+        "The user is actively engaged in writing code within the WebStorm IDE. The primary file being edited is 'package.json' within the 'xo-hiring-monorepo' project. The user is working on configuring various scripts and dependencies, including ESLint and Prettier for code linting and formatting. The visible scripts include 'eslint-lint-check-all', 'prettier-check-all', and 'prettier-fix-all'. The dependencies and devDependencies sections list several packages such as '@trilogy-group/xo-hiring-parameters', '@typescript-eslint/eslint-plugin', and 'typescript'. The user is also running the 'prettier-fix-all' script, as indicated by the terminal output showing the execution of this command.",
+        "The user is reviewing code on GitHub, specifically the 'deploy-env-on-push.yml' workflow file within the 'xo-hiring-monorepo' repository. The GitHub Actions page shows a list of workflow runs, including various branches and commits. The user is likely checking the status of these workflows, which include tasks such as deploying environments on push. The workflow runs display details like commit messages, the user who pushed the commit, and the duration of each run. This activity indicates the user is ensuring the continuous integration and deployment processes are functioning correctly."
+    ],
+    "aiUseSummary": "",
+    "activities": [
+        "WRITING_CODE",
+        "REVIEWING_CODE"
+    ],
+    "workTypes": [
+        "BACKEND",
+        "IAC"
+    ],
+    "programmingLanguages": [
+        "TYPESCRIPT"
+    ],
+    "toolTypes": [
+        "IDE",
+        "WEB_BROWSER"
+    ],
+    "aiTools": [],
+    "usingAi": false,
+    "mostRelevantActivity": "WRITING_CODE",
+    "doubts": [],
+    "confidenceScore": 100,
+    "events": [
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T12:00:17Z",
+            "windowTitle": "xo-hiring-monorepo ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 3,
+            "date": "2024-06-14T12:01:17Z",
+            "windowTitle": "xo-hiring-monorepo ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 1,
+            "date": "2024-06-14T12:02:17Z",
+            "windowTitle": "xo-hiring-monorepo ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T12:03:17Z",
+            "windowTitle": "xo-hiring-monorepo ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T12:04:17Z",
+            "windowTitle": "xo-hiring-monorepo ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T12:05:17Z",
+            "windowTitle": "xo-hiring-monorepo ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T12:06:17Z",
+            "windowTitle": "xo-hiring-monorepo ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        },
+        {
+            "keyboard": 0,
+            "mouse": 2,
+            "date": "2024-06-14T12:07:17Z",
+            "windowTitle": "xo-hiring-monorepo ? package.json",
+            "processName": "webstorm64",
+            "visitingUrl": "",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 6,
+            "date": "2024-06-14T12:08:17Z",
+            "windowTitle": "Deploy environment on push ? Workflow runs ? trilogy-group/xo-hiring-monorepo - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/workflows/deploy-env-on-push.yml",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": false
+        },
+        {
+            "keyboard": 0,
+            "mouse": 0,
+            "date": "2024-06-14T12:09:17Z",
+            "windowTitle": "Deploy environment on push ? Workflow runs ? trilogy-group/xo-hiring-monorepo - Google Chrome",
+            "processName": "github.com",
+            "visitingUrl": "github.com/trilogy-group/xo-hiring-monorepo/actions/workflows/deploy-env-on-push.yml",
+            "keylog": "",
+            "cpuUsage": 0,
+            "memUsage": 0,
+            "mobile": false,
+            "idle": true
+        }
+    ],
+    "timestamp": "2024-06-14T12:00:00Z"
+}
